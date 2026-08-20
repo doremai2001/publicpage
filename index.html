@@ -78,6 +78,23 @@ details p{font-size:.87rem;line-height:1.95;opacity:.8;padding:0 4px 16px 2px}
 .note a{color:var(--gold-light);text-decoration:none;border-bottom:1px solid rgba(216,188,94,.45)}
 .note a:hover{opacity:.8}
 
+/* team highlight */
+.badge{border:1px solid rgba(176,144,32,.45);border-radius:16px;
+  background:linear-gradient(135deg,rgba(176,144,32,.14),rgba(176,144,32,.05));
+  padding:18px 18px 16px;margin-top:22px;text-align:left}
+.badge .cap{font-size:.72rem;letter-spacing:.22em;color:var(--gold);opacity:.9;
+  text-align:center;display:block;margin-bottom:9px}
+.badge h3{font-family:"Noto Serif TC",serif;font-size:1.12rem;font-weight:500;
+  color:var(--gold-light);letter-spacing:.05em;line-height:1.6;text-align:center;margin-bottom:12px}
+.badge .stats{display:flex;gap:8px;margin:0 0 12px}
+.badge .stat{flex:1;text-align:center;padding:9px 4px;
+  border:1px solid rgba(245,239,230,.13);border-radius:10px}
+.badge .stat .n{font-family:"Noto Serif TC",serif;font-size:1.22rem;color:var(--gold-light);font-weight:500}
+.badge .stat .l{font-size:.7rem;opacity:.62;margin-top:3px;line-height:1.5}
+.badge p{font-size:.85rem;line-height:1.9;opacity:.85}
+.badge .src{font-size:.7rem;opacity:.5;margin-top:9px;line-height:1.7}
+.badge .src a{color:var(--gold-light);text-decoration:none;border-bottom:1px solid rgba(216,188,94,.4)}
+
 /* clinic hours */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:14px;
   background:rgba(245,239,230,.04);padding:6px 18px 16px}
@@ -134,6 +151,24 @@ footer b{font-weight:400;opacity:.9}
 
   <div class="tagline">用放射線治療癌症，<br>讓治療更精準、副作用更少。</div>
   <div class="rule"></div>
+
+  <div class="badge">
+    <span class="cap">TEAM</span>
+    <h3>質子治療 × 腫瘤熱治療<br>合併應用團隊</h3>
+    <div class="stats">
+      <div class="stat"><div class="n">2017</div><div class="l">引進深層<br>透熱設備</div></div>
+      <div class="stat"><div class="n">1,200+</div><div class="l">累積熱治療<br>病人經驗</div></div>
+      <div class="stat"><div class="n">2024</div><div class="l">設備<br>更新</div></div>
+    </div>
+    <p>
+      萬芳醫院自 2017 年引進 BSD-2000 深層透熱治療設備，至今累積超過 1,200 位病人的治療經驗，
+      並於 2024 年完成設備更新。我們把<b>質子治療</b>與<b>腫瘤熱治療</b>納入同一套治療策略，
+      由頭頸癌多專科團隊共同評估每一位病人適合的組合。
+    </p>
+    <div class="src">
+      資料來源：<a href="https://www.wanfang.gov.tw/news/post/17f577a8f3610851" target="_blank" rel="noopener">臺北市立萬芳醫院官方新聞（2024/09）</a>
+    </div>
+  </div>
 
   <section>
     <h2>我的工作是什麼</h2>
