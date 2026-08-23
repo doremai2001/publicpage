@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doremai2001.github.io/publicpage/sitemap.xml
