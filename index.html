@@ -148,6 +148,55 @@ details p:last-child{padding-bottom:20px}
 .faq-cat::before{content:"";position:absolute;top:0;left:0;width:40px;height:1px;background:var(--gold);opacity:.6}
 .faq-cat:first-of-type{margin-top:22px}
 
+/* ---------- insights list ---------- */
+.postgroup{margin-top:40px}
+.postgroup h3{font-size:.72rem;letter-spacing:.26em;color:var(--gold);opacity:.8;
+  font-weight:500;padding-top:18px;border-top:1px solid rgba(176,144,32,.3);margin-bottom:6px}
+.postcard{display:block;text-decoration:none;padding:22px 4px 20px;
+  border-bottom:1px solid var(--line);transition:.16s}
+.postcard:hover{background:rgba(176,144,32,.07)}
+.postcard .t{font-family:"Noto Serif TC",serif;font-size:1.16rem;color:var(--ivory);
+  letter-spacing:.04em;line-height:1.6}
+.postcard:hover .t{color:var(--gold-light)}
+.postcard .d{font-size:.87rem;line-height:1.9;opacity:.7;margin-top:8px;max-width:74ch}
+.postcard .m{font-size:.72rem;letter-spacing:.14em;color:var(--gold);opacity:.75;margin-top:10px}
+
+/* ---------- article ---------- */
+.article{max-width:760px;margin:0 auto}
+.article h1{font-family:"Noto Serif TC",serif;font-size:2rem;font-weight:700;
+  letter-spacing:.05em;line-height:1.5;margin-bottom:14px}
+.article .dek{font-size:1rem;line-height:1.95;color:var(--gold-light);opacity:.9}
+.article .meta{font-size:.74rem;letter-spacing:.14em;opacity:.5;margin-top:16px;
+  padding-bottom:22px;border-bottom:1px solid var(--line)}
+.leadbox{border-left:2px solid var(--gold);padding:4px 0 4px 22px;margin:32px 0 34px}
+.leadbox p{font-size:.95rem;line-height:2.05;opacity:.9}
+.body-html p{font-size:.96rem;line-height:2.15;opacity:.88;margin-bottom:22px}
+.body-html a{color:var(--gold-light);text-decoration:none;
+  border-bottom:1px solid rgba(216,188,94,.35);font-size:.85em;vertical-align:super;
+  padding:0 1px;line-height:1}
+.body-html a:hover{border-color:var(--gold)}
+.mdnote{border:1px solid rgba(176,144,32,.45);border-radius:16px;padding:24px 26px;
+  background:linear-gradient(135deg,rgba(176,144,32,.13),rgba(176,144,32,.04));margin:36px 0 0}
+.mdnote .h{font-size:.7rem;letter-spacing:.26em;color:var(--gold);margin-bottom:12px}
+.mdnote p{font-size:.93rem;line-height:2.05;opacity:.9}
+.refs{margin-top:40px;padding-top:26px;border-top:1px solid var(--line)}
+.refs h3{font-size:.72rem;letter-spacing:.26em;color:var(--gold);opacity:.8;
+  font-weight:500;margin-bottom:16px}
+.refs ol{padding-left:20px}
+.refs li{font-size:.8rem;line-height:1.95;opacity:.62;margin-bottom:12px}
+.refs li p{margin:0}
+.refs a{color:var(--gold-light);text-decoration:none;border-bottom:1px solid rgba(216,188,94,.3)}
+.refs hr{display:none}
+.backlink{display:inline-block;margin-top:34px;text-decoration:none;font-size:.86rem;
+  letter-spacing:.06em;opacity:.75;border-bottom:1px solid rgba(176,144,32,.5);padding-bottom:3px}
+.backlink:hover{opacity:1;color:var(--gold-light)}
+@media (max-width:620px){
+  .article h1{font-size:1.55rem}
+  .leadbox{padding-left:16px;margin:26px 0 28px}
+  .mdnote{padding:20px 18px}
+  .postcard .t{font-size:1.05rem}
+}
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -232,6 +281,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       <li><a href="index.html" class="on">首頁</a></li>
       <li><a href="expertise.html">臨床專長</a></li>
       <li><a href="faq.html">病人衛教</a></li>
+      <li><a href="insights.html">醫學新知</a></li>
       <li><a href="about.html">關於我</a></li>
     </ul>
   </div>
@@ -363,6 +413,13 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     </div></div>
   <div style="margin-top:22px">
+    <a class="linkcard" href="insights.html">
+      <div><div class="t">醫學新知</div>
+        <div class="d">15 篇讀後整理：今年的重要試驗結果，以及它對台灣病人現在的實際意義</div></div>
+      <div class="ar">→</div>
+    </a>
+  </div>
+  <div style="margin-top:14px">
     <a class="linkcard" href="about.html">
       <div><div class="t">關於吳正友醫師</div>
         <div class="d">臨床工作、研究方向，以及為什麼「讀書」是這份工作的一部分</div></div>
@@ -424,6 +481,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
         <a href="index.html">首頁</a>
         <a href="expertise.html">臨床專長</a>
         <a href="faq.html">病人衛教</a>
+        <a href="insights.html">醫學新知</a>
         <a href="about.html">關於我</a>
         <a href="https://www.wanfang.gov.tw/departments/team/71a998a727811d63" target="_blank" rel="noopener">官方門診掛號 ↗</a>
       </nav>
