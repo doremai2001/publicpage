@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>台灣的肺腺癌病人，大約一半帶有 EGFR 基因突變，第三代標靶藥 osimertinib 近幾年已經是第一線的預設答案。麻煩在於藥效會退。單用 osimertinib，中位無惡化存活期大約 16.7 個月，抗藥性幾乎必然出現，之後能打的牌就少了。既然如此，一開始就多放一點火力，把抗藥性往後推，行不行？2025 年發表於《Cancers》的一篇綜論把這個方向稱為「超越單一藥物 osimertinib」，並整理出兩條路線：標靶加化療，或者換成雙特異性抗體加標靶的組合<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mdpi.com/2072-6694/17/5/847">[1]</a>。</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 390" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">兩條第一線加成路線（未做頭對頭比較）</text><rect x="0" y="30" width="11" height="11" rx="2" fill="#B08C29"/><text x="18" y="40" class="cl">加成組</text><rect x="83" y="30" width="11" height="11" rx="2" fill="#2E93B8"/><text x="101" y="40" class="cl">單用標靶</text><text x="0" y="69" class="cu">療效（越長越好）　·　單位：個月　·　橫軸 0–60</text><text x="236" y="104" class="cy" text-anchor="end">FLAURA2　中位整體存活</text><rect x="250" y="82" width="354.7" height="13" rx="4" fill="#B08C29"><title>FLAURA2　中位整體存活：47.5個月</title></rect><text x="612.7" y="93" class="cv">47.5</text><rect x="250" y="97" width="280.7" height="13" rx="4" fill="#2E93B8"><title>FLAURA2　中位整體存活：37.6個月</title></rect><text x="538.7" y="108" class="cv">37.6</text><text x="0" y="148" class="cu">療效（越高越好）　·　單位：%　·　橫軸 0–100</text><text x="236" y="183" class="cy" text-anchor="end">MARIPOSA　三年存活率</text><rect x="250" y="161" width="268.8" height="13" rx="4" fill="#B08C29"><title>MARIPOSA　三年存活率：60%</title></rect><text x="526.8" y="172" class="cv">60</text><rect x="250" y="176" width="228.5" height="13" rx="4" fill="#2E93B8"><title>MARIPOSA　三年存活率：51%</title></rect><text x="486.5" y="187" class="cv">51</text><text x="0" y="227" class="cu">毒性（越低越好）　·　單位：%　·　橫軸 0–100</text><text x="236" y="262" class="cy" text-anchor="end">FLAURA2　第 3 級以上不良反應</text><rect x="250" y="240" width="313.6" height="13" rx="4" fill="#B08C29"><title>FLAURA2　第 3 級以上不良反應：70%</title></rect><text x="571.6" y="251" class="cv">70</text><rect x="250" y="255" width="152.3" height="13" rx="4" fill="#2E93B8"><title>FLAURA2　第 3 級以上不良反應：34%</title></rect><text x="410.3" y="266" class="cv">34</text><text x="236" y="309" class="cy" text-anchor="end">MARIPOSA　第 3 級以上不良反應</text><rect x="250" y="287" width="358.4" height="13" rx="4" fill="#B08C29"><title>MARIPOSA　第 3 級以上不良反應：80%</title></rect><text x="616.4" y="298" class="cv">80</text><rect x="250" y="302" width="233.0" height="13" rx="4" fill="#2E93B8"><title>MARIPOSA　第 3 級以上不良反應：52%</title></rect><text x="491.0" y="313" class="cv">52</text><text x="0" y="348" class="cn">兩種組合從未正面比較過，現階段沒有人能說哪一種比較好。</text><text x="0" y="371" class="cs">數據取自本文參考文獻；圖表為本站自行製作。</text></svg></figure>
+
 
 <p>兩條路線的最終存活數據，在 2025 到 2026 年陸續公布。FLAURA2 試驗在 osimertinib 之外加上白金與 pemetrexed 化療，557 位病人的中位整體存活從 37.6 個月延長到 47.5 個月，死亡風險比 0.77，結果刊登於《新英格蘭醫學期刊》<a target="_blank" rel="noopener noreferrer nofollow" href="https://pubmed.ncbi.nlm.nih.gov/41104938/">[2]</a>。MARIPOSA 試驗走的是不含化療的路線，用雙特異性抗體 amivantamab 搭配 lazertinib，三年存活率 60% 對上 51%，風險比 0.75，論文第一作者是台大醫院的楊志新教授<a target="_blank" rel="noopener noreferrer nofollow" href="https://pubmed.ncbi.nlm.nih.gov/40923797/">[3]</a>。代價寫得很清楚。第三級以上不良反應，FLAURA2 是 70% 對 34%，MARIPOSA 是 80% 對 52%，皮膚反應、靜脈血栓與輸注反應都比單用標靶明顯。這兩種組合從來沒有做過頭對頭比較，現階段沒有人能說哪一種比較好。</p>
 

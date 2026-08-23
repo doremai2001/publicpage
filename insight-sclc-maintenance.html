@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>小細胞肺癌被稱為「肺癌癌王」：確診時九成以上已擴散，對化療反應快，復發也快。廣泛期的標準做法是含鉑化療加上免疫檢查點抑制劑誘導四個療程，之後單用免疫藥物維持，等惡化再進二線。這段維持期通常不長——2025 年《Cancers》回顧指出，把免疫治療加進第一線後，整體存活期中位數大約從 10 個月推到 12 個月<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mdpi.com/2072-6694/17/13/2256">[1]</a>。病友真正想問的是：化療打完之後，除了回診等結果，還能做什麼？</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 328" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">IMforte 試驗：維持期加藥與不加藥</text><rect x="0" y="30" width="11" height="11" rx="2" fill="#B08C29"/><text x="18" y="40" class="cl">加 lurbinectedin</text><rect x="239" y="30" width="11" height="11" rx="2" fill="#2E93B8"/><text x="257" y="40" class="cl">單用 atezolizumab</text><text x="0" y="69" class="cu">療效（越長越好）　·　單位：個月　·　橫軸 0–20</text><text x="236" y="104" class="cy" text-anchor="end">無惡化存活期中位數</text><rect x="250" y="82" width="121.0" height="13" rx="4" fill="#B08C29"><title>無惡化存活期中位數：5.4個月</title></rect><text x="379.0" y="93" class="cv">5.4</text><rect x="250" y="97" width="47.0" height="13" rx="4" fill="#2E93B8"><title>無惡化存活期中位數：2.1個月</title></rect><text x="305.0" y="108" class="cv">2.1</text><text x="236" y="151" class="cy" text-anchor="end">整體存活期中位數</text><rect x="250" y="129" width="295.7" height="13" rx="4" fill="#B08C29"><title>整體存活期中位數：13.2個月</title></rect><text x="553.7" y="140" class="cv">13.2</text><rect x="250" y="144" width="237.4" height="13" rx="4" fill="#2E93B8"><title>整體存活期中位數：10.6個月</title></rect><text x="495.4" y="155" class="cv">10.6</text><text x="0" y="195" class="cu">毒性（越低越好）　·　單位：%　·　橫軸 0–100</text><text x="236" y="230" class="cy" text-anchor="end">第 3、4 級治療相關不良反應</text><rect x="250" y="208" width="114.7" height="13" rx="4" fill="#B08C29"><title>第 3、4 級治療相關不良反應：25.6%</title></rect><text x="372.7" y="219" class="cv">25.6</text><rect x="250" y="223" width="26.0" height="13" rx="4" fill="#2E93B8"><title>第 3、4 級治療相關不良反應：5.8%</title></rect><text x="284.0" y="234" class="cv">5.8</text><text x="0" y="269" class="cn">存活拉長的同時，嚴重不良反應從 5.8% 升到 25.6%。兩個數字要一</text><text x="0" y="286" class="cn">起看。</text><text x="0" y="309" class="cs">數據取自本文參考文獻；圖表為本站自行製作。</text></svg></figure>
+
 
 
 

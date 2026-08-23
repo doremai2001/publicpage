@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>胰臟癌在台灣是癌症死因的第七位，衛福部一一三年死因統計裡的排名就是這個位置<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mohw.gov.tw/cp-7177-82775-1.html">[1]</a>。難纏之處在於多數人確診時腫瘤已經轉移，第一線化療失效之後能換的藥不多，第二線治療的中位存活期通常只有半年上下。這幾十年間，肺癌、乳癌一個接一個被標靶藥改寫了治療版圖，胰臟癌卻幾乎停在原地。卡住的地方叫 RAS：超過九成的胰臟導管腺癌帶有 RAS 基因突變，而這個蛋白長年被視為無藥可打，它表面平滑，找不到讓藥物嵌進去的口袋。今年五月底的一份第三期試驗，第一次讓這個判斷鬆動。</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 407" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">RASolute 302（RAS G12 突變族群）</text><rect x="0" y="30" width="11" height="11" rx="2" fill="#B08C29"/><text x="18" y="40" class="cl">口服 daraxonrasib</text><rect x="239" y="30" width="11" height="11" rx="2" fill="#2E93B8"/><text x="257" y="40" class="cl">醫師選擇的化療</text><text x="0" y="69" class="cu">療效（越長越好）　·　單位：個月　·　橫軸 0–20</text><text x="236" y="104" class="cy" text-anchor="end">中位總存活期</text><rect x="250" y="82" width="295.7" height="13" rx="4" fill="#B08C29"><title>中位總存活期：13.2個月</title></rect><text x="553.7" y="93" class="cv">13.2</text><rect x="250" y="97" width="147.8" height="13" rx="4" fill="#2E93B8"><title>中位總存活期：6.6個月</title></rect><text x="405.8" y="108" class="cv">6.6</text><text x="236" y="151" class="cy" text-anchor="end">無惡化存活期</text><rect x="250" y="129" width="163.5" height="13" rx="4" fill="#B08C29"><title>無惡化存活期：7.3個月</title></rect><text x="421.5" y="140" class="cv">7.3</text><rect x="250" y="144" width="78.4" height="13" rx="4" fill="#2E93B8"><title>無惡化存活期：3.5個月</title></rect><text x="336.4" y="155" class="cv">3.5</text><text x="0" y="195" class="cu">療效（越高越好）　·　單位：%　·　橫軸 0–100</text><text x="236" y="230" class="cy" text-anchor="end">客觀反應率</text><rect x="250" y="208" width="148.7" height="13" rx="4" fill="#B08C29"><title>客觀反應率：33.2%</title></rect><text x="406.7" y="219" class="cv">33.2</text><rect x="250" y="223" width="52.9" height="13" rx="4" fill="#2E93B8"><title>客觀反應率：11.8%</title></rect><text x="310.9" y="234" class="cv">11.8</text><text x="0" y="274" class="cu">代價（越低越好）　·　單位：%　·　橫軸 0–100</text><text x="236" y="309" class="cy" text-anchor="end">因副作用停藥</text><rect x="250" y="287" width="5.4" height="13" rx="4" fill="#B08C29"><title>因副作用停藥：1.2%</title></rect><text x="263.4" y="298" class="cv">1.2</text><rect x="250" y="302" width="50.2" height="13" rx="4" fill="#2E93B8"><title>因副作用停藥：11.2%</title></rect><text x="308.2" y="313" class="cv">11.2</text><text x="0" y="348" class="cn">單一、未設盲、藥廠出資的試驗，受試者全是第一線失敗後的轉移病人。</text><text x="0" y="365" class="cn">換到的是時間，不是治癒。</text><text x="0" y="388" class="cs">數據取自本文參考文獻；圖表為本站自行製作。</text></svg></figure>
+
 
 
 

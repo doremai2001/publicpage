@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>第三期、無法手術切除的非小細胞肺癌，治療主軸是根治性的同步化學放射治療，療程結束後再接一段鞏固性免疫治療。這個做法來自 PACIFIC 試驗：2022 年《Journal of Clinical Oncology》的五年追蹤顯示，化放療後接 durvalumab 的病人中位總存活期 47.5 個月，安慰劑組 29.1 個月；五年仍存活的比例是 42.9% 對 33.4%<a target="_blank" rel="noopener noreferrer nofollow" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9015199/">[1]</a>。差距夠大也撐得夠久，durvalumab 因此成為這個階段的標準。接下來的問題很自然：既然一種免疫藥有用，再加一種會不會更好？</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 281" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">SKYSCRAPER-03（PD-L1 陽性族群）：多了 2.8 個月，但統計上打平</text><rect x="0" y="30" width="11" height="11" rx="2" fill="#B08C29"/><text x="18" y="40" class="cl">tiragolumab＋atezolizumab</text><rect x="356" y="30" width="11" height="11" rx="2" fill="#2E93B8"/><text x="374" y="40" class="cl">durvalumab</text><text x="0" y="69" class="cu">療效（越長越好）　·　單位：個月　·　橫軸 0–25</text><text x="236" y="104" class="cy" text-anchor="end">無惡化存活期中位數</text><rect x="250" y="82" width="347.6" height="13" rx="4" fill="#B08C29"><title>無惡化存活期中位數：19.4個月</title></rect><text x="605.6" y="93" class="cv">19.4</text><rect x="250" y="97" width="297.5" height="13" rx="4" fill="#2E93B8"><title>無惡化存活期中位數：16.6個月</title></rect><text x="555.5" y="108" class="cv">16.6</text><text x="0" y="148" class="cu">毒性（越低越好）　·　單位：%　·　橫軸 0–100</text><text x="236" y="183" class="cy" text-anchor="end">第 3、4 級治療相關副作用</text><rect x="250" y="161" width="61.8" height="13" rx="4" fill="#B08C29"><title>第 3、4 級治療相關副作用：13.8%</title></rect><text x="319.8" y="172" class="cv">13.8</text><rect x="250" y="176" width="47.9" height="13" rx="4" fill="#2E93B8"><title>第 3、4 級治療相關副作用：10.7%</title></rect><text x="305.9" y="187" class="cv">10.7</text><text x="0" y="222" class="cn">風險比 0.96、p=0.76 —— 這 2.8 個月與「毫無差別」在統計上分</text><text x="0" y="239" class="cn">不開。數字較長 ≠ 統計上更好。</text><text x="0" y="262" class="cs">數據取自本文參考文獻；圖表為本站自行製作。</text></svg></figure>
+
 <p>今年 8 月《Annals of Oncology》線上刊出的 SKYSCRAPER-03 給了答案：不會。這項第三期試驗收了 829 位化放療後未惡化的病人，一半接受 tiragolumab（一種 anti-TIGIT 抗體）加 atezolizumab，一半接受 durvalumab。中位追蹤 33 個月，PD-L1 陽性族群的無惡化存活期是 19.4 對 16.6 個月，看起來多了近三個月，但風險比 0.96、p 值 0.76，統計上與「毫無差別」分不開；總存活期同樣打平<a target="_blank" rel="noopener noreferrer nofollow" href="https://pubmed.ncbi.nlm.nih.gov/42562209/">[2]</a>。OncLive 整理的數據裡，兩組第 3、4 級治療相關副作用是 13.8% 與 10.7%，無新的安全疑慮<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.onclive.com/view/consolidation-tiragolumab-atezolizumab-does-not-yield-pfs-advantage-in-stage-iii-nsclc">[3]</a>。主要療效指標未達標。看新聞不能只看「多幾個月」，在這種規模的隨機比較裡，2.8 個月完全可能只是機率。</p>
 
 <p>台灣的給付正好走在同一條路上。健保「藥品給付規定」第 9 節自 2025 年 8 月 1 日起把 durvalumab 鞏固治療納入給付：限第三期局部晚期、無法手術切除且腫瘤 PD-L1 大於等於 1% 的成人病人，須於根治性同步放療合併至少 2 個週期含鉑化療後未惡化，最長使用 12 個月<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.nhi.gov.tw/ch/dl-87139-2eded17e5f024cfdbdeab31e953875ae-1.pdf">[4]</a>。這個條件與 SKYSCRAPER-03 的族群幾乎重疊，而試驗告訴我們的是：現行的 durvalumab 站得住腳，沒有換掉的理由。正在做鞏固治療的人不必因為這則消息更動計畫；即將進入這個階段的人，值得先確認 PD-L1 與 EGFR／ALK／ROS-1 檢測結果是否符合給付條件。一個試驗失敗不等於免疫治療失敗，它更像是在說：現在這一套已經好到不容易被超越。</p>

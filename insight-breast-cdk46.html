@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>荷爾蒙受體陽性、HER2 陰性這一型，占了台灣乳癌病人的六到七成，長年被歸類成「比較溫和」的乳癌。溫和不等於過關。臺大醫院乳房醫學中心主任黃俊升在台灣癌症基金會的衛教專文中說得直接：這一型的復發不會在滿五年後畫下句點，十年、二十年後仍然會陸續出現<a target="_blank" rel="noopener noreferrer nofollow" href="https://elearning.canceraway.org.tw/page.php?IDno=5052">[1]</a>。真正要盯緊的是高風險族群——腋下淋巴結有轉移、腫瘤大於兩公分、確診時未滿四十歲，或 Ki-67 達 20% 以上。對這群病友來說，抗荷爾蒙藥加上定期追蹤，壓不住往後十幾年的復發曲線。CDK4/6 抑制劑（細胞週期抑制劑）被加進術後輔助治療，補的就是這一段。</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 202" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">monarchE 試驗 76 個月追蹤：實際的存活率差距</text><rect x="0" y="30" width="11" height="11" rx="2" fill="#B08C29"/><text x="18" y="40" class="cl">加 abemaciclib</text><rect x="213" y="30" width="11" height="11" rx="2" fill="#2E93B8"/><text x="231" y="40" class="cl">僅抗荷爾蒙治療</text><text x="0" y="69" class="cu">單位：%　·　橫軸 0–100</text><text x="236" y="104" class="cy" text-anchor="end">整體存活率</text><rect x="250" y="82" width="388.9" height="13" rx="4" fill="#B08C29"><title>整體存活率：86.8%</title></rect><text x="646.9" y="93" class="cv">86.8</text><rect x="250" y="97" width="380.8" height="13" rx="4" fill="#2E93B8"><title>整體存活率：85%</title></rect><text x="638.8" y="108" class="cv">85</text><text x="0" y="143" class="cn">相對死亡風險下降 15.8%，換算成實際存活率是 1.8 個百分點。</text><text x="0" y="160" class="cn">新聞標題通常用前者，做決定要看後者。收案 5,637 人。</text><text x="0" y="183" class="cs">數據取自本文參考文獻；圖表為本站自行製作。</text></svg></figure>
+
 
 
 

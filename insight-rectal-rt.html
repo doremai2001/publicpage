@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>直腸癌開刀前先做放射治療，台灣目前有兩種排程。一種是五天內照五次的短程放療，另一種是五到六週、每天照射並同時服用化療藥的長程同步放化療。和信治癌中心放射腫瘤科鍾邑林醫師的衛教文章提到，短程療程每次只要兩三分鐘，病人幾乎沒有不適，做完也能較快接續手術<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.kfsyscc.org/medical_news_group_detail/133">[1]</a>。門診裡最常被問到的一句話是：次數差這麼多，療效會不會也差很多？這個問題被研究了十幾年，這兩年答案又動了一次。</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 281" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">RAPIDO 試驗五年追蹤：兩種術前放療排程</text><rect x="0" y="30" width="11" height="11" rx="2" fill="#B08C29"/><text x="18" y="40" class="cl">短程放療（5 次）</text><rect x="161" y="30" width="11" height="11" rx="2" fill="#2E93B8"/><text x="179" y="40" class="cl">長程同步放化療</text><text x="0" y="69" class="cu">單位：%　·　橫軸 0–100</text><text x="236" y="104" class="cy" text-anchor="end">五年局部復發率</text><rect x="250" y="82" width="44.8" height="13" rx="4" fill="#B08C29"><title>五年局部復發率：10%</title></rect><text x="302.8" y="93" class="cv">10</text><rect x="250" y="97" width="26.9" height="13" rx="4" fill="#2E93B8"><title>五年局部復發率：6%</title></rect><text x="284.9" y="108" class="cv">6</text><text x="0" y="148" class="cu">單位：次　·　橫軸 0–30</text><text x="236" y="183" class="cy" text-anchor="end">照射次數</text><rect x="250" y="161" width="74.7" height="13" rx="4" fill="#B08C29"><title>照射次數：5次</title></rect><text x="332.7" y="172" class="cv">5</text><rect x="250" y="176" width="373.3" height="13" rx="4" fill="#2E93B8"><title>照射次數：25次</title></rect><text x="631.3" y="187" class="cv">25</text><text x="0" y="222" class="cn">局部復發長程較低，短程減少遠端轉移的優勢仍保持——取捨換了位置，</text><text x="0" y="239" class="cn">不是誰比較差。</text><text x="0" y="262" class="cs">數據取自本文參考文獻；圖表為本站自行製作。</text></svg></figure>
+
 
 
 

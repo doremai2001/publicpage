@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>黑色素瘤開完刀，難熬的往往不是傷口，而是往後每次回診前的那幾天。即使切得乾淨，stage IIB 以上仍有不少人會復發，術後輔助 pembrolizumab 因此成為標準做法，卻無法把風險歸零。個人化 mRNA 新抗原療法想補的就是這一段：把病人的腫瘤與血液拿去定序，挑出這顆腫瘤獨有的突變，做成最多 34 個新抗原的 mRNA，包進脂質奈米顆粒後打進肌肉，讓 T 細胞認得殘留癌細胞的長相<a target="_blank" rel="noopener noreferrer nofollow" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12474233/">[1]</a>。名字裡有「疫苗」，做的卻不是預防，而是替單一病人量身製造的術後治療。</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 206" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">個人化 mRNA 新抗原療法怎麼做出來</text><rect x="0.0" y="34" width="179.5" height="118" rx="12" fill="#F5EFE6" fill-opacity=".04" stroke="#B09020" stroke-opacity=".38"/><text x="16.0" y="62" class="cstep">1</text><text x="16.0" y="86" class="ch">定序</text><text x="16.0" y="108" class="cy">手術取下的腫瘤</text><text x="16.0" y="126" class="cy">與血液一起定序</text><text x="186.5" y="100" class="carrow" text-anchor="middle">›</text><rect x="193.5" y="34" width="179.5" height="118" rx="12" fill="#F5EFE6" fill-opacity=".04" stroke="#B09020" stroke-opacity=".38"/><text x="209.5" y="62" class="cstep">2</text><text x="209.5" y="86" class="ch">挑突變</text><text x="209.5" y="108" class="cy">演算法比對</text><text x="209.5" y="126" class="cy">最多 34 個新抗原</text><text x="380.0" y="100" class="carrow" text-anchor="middle">›</text><rect x="387.0" y="34" width="179.5" height="118" rx="12" fill="#F5EFE6" fill-opacity=".04" stroke="#B09020" stroke-opacity=".38"/><text x="403.0" y="62" class="cstep">3</text><text x="403.0" y="86" class="ch">製成 mRNA</text><text x="403.0" y="108" class="cy">以脂質奈米顆粒</text><text x="403.0" y="126" class="cy">包覆</text><text x="573.5" y="100" class="carrow" text-anchor="middle">›</text><rect x="580.5" y="34" width="179.5" height="118" rx="12" fill="#F5EFE6" fill-opacity=".04" stroke="#B09020" stroke-opacity=".38"/><text x="596.5" y="62" class="cstep">4</text><text x="596.5" y="86" class="ch">肌肉注射</text><text x="596.5" y="108" class="cy">訓練 T 細胞辨識</text><text x="596.5" y="126" class="cy">殘留癌細胞</text><text x="0" y="176" class="cn">第三期 INTerpath-001 已達標，但風險比與存活曲線都還沒揭露。</text><text x="0" y="193" class="cn">前導的第二期 KEYNOTE-942：18 個月無復發存活 79% 對 62%。</text></svg></figure><figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 237" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">KEYNOTE-942 第二期（157 人）</text><rect x="0" y="30" width="11" height="11" rx="2" fill="#B08C29"/><text x="18" y="40" class="cl">疫苗＋pembrolizumab</text><rect x="252" y="30" width="11" height="11" rx="2" fill="#2E93B8"/><text x="270" y="40" class="cl">單用 pembrolizumab</text><text x="0" y="69" class="cu">療效（越高越好）　·　單位：%　·　橫軸 0–100</text><text x="236" y="104" class="cy" text-anchor="end">18 個月無復發存活率</text><rect x="250" y="82" width="353.9" height="13" rx="4" fill="#B08C29"><title>18 個月無復發存活率：79%</title></rect><text x="611.9" y="93" class="cv">79</text><rect x="250" y="97" width="277.8" height="13" rx="4" fill="#2E93B8"><title>18 個月無復發存活率：62%</title></rect><text x="535.8" y="108" class="cv">62</text><text x="0" y="148" class="cu">毒性（越低越好）　·　單位：%　·　橫軸 0–100</text><text x="236" y="183" class="cy" text-anchor="end">第 3 級以上治療相關不良事件</text><rect x="250" y="161" width="112.0" height="13" rx="4" fill="#B08C29"><title>第 3 級以上治療相關不良事件：25%</title></rect><text x="370.0" y="172" class="cv">25</text><rect x="250" y="176" width="80.6" height="13" rx="4" fill="#2E93B8"><title>第 3 級以上治療相關不良事件：18%</title></rect><text x="338.6" y="187" class="cv">18</text><text x="0" y="218" class="cs">數據取自本文參考文獻；圖表為本站自行製作。</text></svg></figure>
+
 
 
 

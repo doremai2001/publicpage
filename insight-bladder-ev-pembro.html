@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>肌肉侵犯性膀胱癌的標準流程，這三十年來變動不大：先打幾個療程含 cisplatin 的化學治療，再切除膀胱。這套做法救回不少人。但完成療程後兩年內復發或惡化的比例仍然可觀，腎功能不佳或年紀大的病友，也常常一開始就用不了 cisplatin。今年七月，美國食品藥物管理局核准 pembrolizumab 併用抗體藥物複合體 enfortumab vedotin，作為肌肉侵犯性膀胱癌手術前後的治療，適用對象也從原本的「不適合 cisplatin」擴大到所有符合條件的病人<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-pembrolizumab-or-pembrolizumab-and-berahyaluronidase-alfa-pmph-each-enfortumab-vedotin">[1]</a>。</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 422" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">KEYNOTE-B15／EV-304：療效與代價</text><rect x="0" y="30" width="11" height="11" rx="2" fill="#B08C29"/><text x="18" y="40" class="cl">EV＋pembrolizumab</text><rect x="252" y="30" width="11" height="11" rx="2" fill="#2E93B8"/><text x="270" y="40" class="cl">cisplatin＋gemcitabine</text><text x="0" y="69" class="cu">療效（越高越好）　·　單位：%　·　橫軸 0–100</text><text x="236" y="104" class="cy" text-anchor="end">兩年無事件存活率</text><rect x="250" y="82" width="355.7" height="13" rx="4" fill="#B08C29"><title>兩年無事件存活率：79.4%</title></rect><text x="613.7" y="93" class="cv">79.4</text><rect x="250" y="97" width="296.6" height="13" rx="4" fill="#2E93B8"><title>兩年無事件存活率：66.2%</title></rect><text x="554.6" y="108" class="cv">66.2</text><text x="236" y="151" class="cy" text-anchor="end">兩年整體存活率</text><rect x="250" y="129" width="389.3" height="13" rx="4" fill="#B08C29"><title>兩年整體存活率：86.9%</title></rect><text x="647.3" y="140" class="cv">86.9</text><rect x="250" y="144" width="364.2" height="13" rx="4" fill="#2E93B8"><title>兩年整體存活率：81.3%</title></rect><text x="622.2" y="155" class="cv">81.3</text><text x="236" y="198" class="cy" text-anchor="end">手術檢體無殘餘腫瘤</text><rect x="250" y="176" width="250.0" height="13" rx="4" fill="#B08C29"><title>手術檢體無殘餘腫瘤：55.8%</title></rect><text x="508.0" y="187" class="cv">55.8</text><rect x="250" y="191" width="145.6" height="13" rx="4" fill="#2E93B8"><title>手術檢體無殘餘腫瘤：32.5%</title></rect><text x="403.6" y="202" class="cv">32.5</text><text x="0" y="242" class="cu">代價（越低越好）　·　單位：%　·　橫軸 0–100</text><text x="236" y="277" class="cy" text-anchor="end">第 3 級以上不良反應</text><rect x="250" y="255" width="339.1" height="13" rx="4" fill="#B08C29"><title>第 3 級以上不良反應：75.7%</title></rect><text x="597.1" y="266" class="cv">75.7</text><rect x="250" y="270" width="301.1" height="13" rx="4" fill="#2E93B8"><title>第 3 級以上不良反應：67.2%</title></rect><text x="559.1" y="281" class="cv">67.2</text><text x="236" y="324" class="cy" text-anchor="end">因副作用中途停藥</text><rect x="250" y="302" width="157.7" height="13" rx="4" fill="#B08C29"><title>因副作用中途停藥：35.2%</title></rect><text x="415.7" y="313" class="cv">35.2</text><rect x="250" y="317" width="49.7" height="13" rx="4" fill="#2E93B8"><title>因副作用中途停藥：11.1%</title></rect><text x="307.7" y="328" class="cv">11.1</text><text x="0" y="363" class="cn">最後一列是最容易被略過的一列：中途停藥比例是對照組的三倍。</text><text x="0" y="380" class="cn">追蹤僅約兩年，兩組整體存活中位數都還沒到達。</text><text x="0" y="403" class="cs">數據取自本文參考文獻；圖表為本站自行製作。</text></svg></figure>
+
 
 
 

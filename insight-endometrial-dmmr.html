@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>子宮內膜癌多數在早期就因為異常出血被抓到，手術後預後不錯。真正棘手的是另一群人：確診時已經擴散，或治療後又復發。她們的第一線用藥二十年來幾乎沒變，就是紫杉醇加鉑類化療。轉機藏在腫瘤本身的一個特徵：錯配修復功能缺陷（dMMR）。2025 年發表於《International Journal of Molecular Sciences》的系統性回顧整理六項隨機試驗，指出約三成子宮內膜癌屬於 dMMR，這類腫瘤突變多、會做出免疫系統認得的抗原，對免疫治療的反應明顯優於錯配修復正常（pMMR）者<a target="_blank" rel="noopener noreferrer nofollow" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12469525/">[1]</a>。</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 210" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">子宮內膜癌依錯配修復狀態分成兩群</text><rect x="0" y="36" width="226.0" height="46" rx="6" fill="#B08C29"/><rect x="228.0" y="36" width="532.0" height="46" rx="6" fill="#2E93B8" fill-opacity=".55"/><text x="16" y="65" class="cbig">dMMR　30%</text><text x="244.0" y="65" class="cbig2">pMMR　70%</text><text x="2.0" y="108" class="cy">腫瘤突變負荷高</text><text x="2.0" y="128" class="cy">新抗原多</text><text x="2.0" y="148" class="cy">對免疫治療反應佳</text><text x="230.0" y="108" class="cy">突變負荷低</text><text x="230.0" y="128" class="cy">免疫治療反應有限</text><text x="0" y="180" class="cn">MMR 蛋白免疫染色或 MSI 檢測，是這條路的門票。沒做過，後面的討</text><text x="0" y="197" class="cn">論都用不上。</text></svg></figure>
+
 
 
 

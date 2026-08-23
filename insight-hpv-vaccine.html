@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>HPV 疫苗上市將近二十年，能減少感染與癌前病變早就確立。難回答的是另一個問題：打了疫苗，究竟有沒有少死人？從感染到癌症致死通常要二、三十年，第一批接種者現在才陸續走到能被看見的年紀。美國癌症協會團隊 2026 年發表於《JNCI》的分析，比較疫苗前（2000–2005）與疫苗後（2016–2021）兩個時期，發現 20 至 31 歲美國女性的子宮頸癌發生率下降了 27%（RR 0.73，95% CI 0.70–0.75），而且各州接種率越高，下降幅度越大（rho = −0.42）<a target="_blank" rel="noopener noreferrer nofollow" href="https://doi.org/10.1093/jnci/djag051">[1]</a>。</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 219" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">英格蘭 2020–2024 年：子宮頸癌實際死亡人數與推估值</text><rect x="0" y="30" width="11" height="11" rx="2" fill="#B08C29"/><text x="18" y="40" class="cl">實際死亡</text><rect x="96" y="30" width="11" height="11" rx="2" fill="#2E93B8"/><text x="114" y="40" class="cl">依過去死亡率推估</text><text x="0" y="69" class="cu">單位：人　·　橫軸 0–40</text><text x="236" y="104" class="cy" text-anchor="end">20–24 歲女性</text><rect x="250" y="82" width="2.0" height="13" rx="4" fill="#B08C29"><title>20–24 歲女性：0人</title></rect><text x="260.0" y="93" class="cv">0</text><rect x="250" y="97" width="258.7" height="13" rx="4" fill="#2E93B8"><title>20–24 歲女性：23.1人</title></rect><text x="516.7" y="108" class="cv">23.1</text><text x="0" y="143" class="cn">20 至 24 歲沒有任何一人死於子宮頸癌，相當於死亡率下降 100%；</text><text x="0" y="160" class="cn">25–29 歲下降 69%。這是族群層級的觀察性資料，同期篩檢政策與行</text><text x="0" y="177" class="cn">為改變也可能貢獻部分下降。</text><text x="0" y="200" class="cs">數據取自本文參考文獻；圖表為本站自行製作。</text></svg></figure>
+
 
 
 

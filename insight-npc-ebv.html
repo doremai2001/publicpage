@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>鼻咽癌在台灣不算常見癌症，卻和一種幾乎人人都感染過的病毒綁在一起：EB 病毒。腫瘤細胞會把病毒的 DNA 碎片釋放進血液，抽一管血就測得到，數值高低大致跟腫瘤負擔同步。這也是為什麼治療前後和追蹤期間，醫師常會安排這項檢查。台灣癌症基金會提醒，這類數值只是參考，單看一個數字並不能斷定有沒有癌症，仍要靠鼻咽鏡和切片確認<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.canceraway.org.tw/page.php?IDno=559">[1]</a>。真正讓研究者感興趣的問題更進一步：既然它跟著腫瘤起伏，能不能反過來拿它決定療程？</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 206" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">EP-STAR 試驗：用血中 EBV DNA 決定後續治療強度</text><rect x="0.0" y="34" width="179.5" height="118" rx="12" fill="#F5EFE6" fill-opacity=".04" stroke="#B09020" stroke-opacity=".38"/><text x="16.0" y="62" class="cstep">1</text><text x="16.0" y="86" class="ch">誘導化療</text><text x="16.0" y="108" class="cy">gemcitabine</text><text x="16.0" y="126" class="cy">＋ cisplatin</text><text x="186.5" y="100" class="carrow" text-anchor="middle">›</text><rect x="193.5" y="34" width="179.5" height="118" rx="12" fill="#F5EFE6" fill-opacity=".04" stroke="#B09020" stroke-opacity=".38"/><text x="209.5" y="62" class="cstep">2</text><text x="209.5" y="86" class="ch">連續監測</text><text x="209.5" y="108" class="cy">治療期間追蹤</text><text x="209.5" y="126" class="cy">血中 EBV DNA</text><text x="380.0" y="100" class="carrow" text-anchor="middle">›</text><rect x="387.0" y="34" width="179.5" height="118" rx="12" fill="#F5EFE6" fill-opacity=".04" stroke="#B09020" stroke-opacity=".38"/><text x="403.0" y="62" class="cstep">3</text><text x="403.0" y="86" class="ch">依清除快慢</text><text x="403.0" y="108" class="cy">分成高風險</text><text x="403.0" y="126" class="cy">與低風險</text><text x="573.5" y="100" class="carrow" text-anchor="middle">›</text><rect x="580.5" y="34" width="179.5" height="118" rx="12" fill="#F5EFE6" fill-opacity=".04" stroke="#B09020" stroke-opacity=".38"/><text x="596.5" y="62" class="cstep">4</text><text x="596.5" y="86" class="ch">分別給藥</text><text x="596.5" y="108" class="cy">強化治療 或</text><text x="596.5" y="126" class="cy">標準同步化放療</text><text x="0" y="176" class="cn">這組病人三年無失敗存活率 89.1%。但這是單臂第二期試驗、對照為外</text><text x="0" y="193" class="cn">部世代，結論仍待隨機試驗確認。</text></svg></figure>
+
 
 
 

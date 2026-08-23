@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>EGFR 基因突變的非小細胞肺癌，第一線用奧希替尼（osimertinib）通常控制得不錯，很多人可以維持一兩年以上的穩定。難處在於抗藥性遲早會來。腫瘤繞道的路徑不只一條，MET 基因擴增或蛋白質過度表現是相當常見的一條，也已經被確認和第三代 EGFR 標靶藥物的抗藥性直接相關<a target="_blank" rel="noopener noreferrer nofollow" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13143971/">[1]</a>。走到這一步，過去能提供的多半只剩含鉑化療。針對抗藥機轉、又能用口服的選擇，一直是空白。</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 219" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">SACHI 試驗：標靶合併 MET 抑制劑與化療的比較</text><rect x="0" y="30" width="11" height="11" rx="2" fill="#B08C29"/><text x="18" y="40" class="cl">奧希替尼＋賽沃替尼</text><rect x="161" y="30" width="11" height="11" rx="2" fill="#2E93B8"/><text x="179" y="40" class="cl">含鉑化療</text><text x="0" y="69" class="cu">單位：個月　·　橫軸 0–10</text><text x="236" y="104" class="cy" text-anchor="end">中位無惡化存活期</text><rect x="250" y="82" width="367.4" height="13" rx="4" fill="#B08C29"><title>中位無惡化存活期：8.2個月</title></rect><text x="625.4" y="93" class="cv">8.2</text><rect x="250" y="97" width="201.6" height="13" rx="4" fill="#2E93B8"><title>中位無惡化存活期：4.5個月</title></rect><text x="459.6" y="108" class="cv">4.5</text><text x="0" y="143" class="cn">SAFFRON 第三期僅公布「達標」，風險比與存活曲線尚未公開；</text><text x="0" y="160" class="cn">SAVANNAH 第二期客觀反應率 56.3%、中位無惡化存活 7.4 個月（單</text><text x="0" y="177" class="cn">臂）。</text><text x="0" y="200" class="cs">數據取自本文參考文獻；圖表為本站自行製作。</text></svg></figure>
+
 
 
 

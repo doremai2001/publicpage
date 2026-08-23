@@ -197,6 +197,27 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- charts ---------- */
+.chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
+  background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
+.chart svg{width:100%;height:auto;display:block;min-width:560px}
+.chart .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;margin-bottom:8px}
+@media (max-width:700px){.chart .hint{display:block}}
+.chart text{font-family:"Noto Sans TC",-apple-system,sans-serif}
+.chart .ct{font-size:15px;fill:#D8BC5E;font-weight:500;letter-spacing:.03em}
+.chart .cl{font-size:12px;fill:#F5EFE6;fill-opacity:.85}
+.chart .cu{font-size:11px;fill:#F5EFE6;fill-opacity:.45;letter-spacing:.06em}
+.chart .cy{font-size:12.5px;fill:#F5EFE6;fill-opacity:.8}
+.chart .cv{font-size:12.5px;fill:#F5EFE6;fill-opacity:.95;font-weight:500}
+.chart .cn{font-size:12px;fill:#F5EFE6;fill-opacity:.62}
+.chart .cs{font-size:10.5px;fill:#F5EFE6;fill-opacity:.38}
+.chart .ch{font-size:13.5px;fill:#D8BC5E;font-weight:500}
+.chart .cstep{font-size:18px;fill:#B09020;font-weight:700;font-family:Georgia,serif}
+.chart .carrow{font-size:22px;fill:#B09020;fill-opacity:.7}
+.chart .cbig{font-size:15px;fill:#0B2A37;font-weight:700}
+.chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
+@media (max-width:620px){ .chart{padding:16px 14px} }
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -299,6 +320,8 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="body-html">
 <p>卵巢癌沒有可靠的篩檢工具，早期症狀又常被當成腸胃不適，台灣約有七成五的病人確診時已是第三期以後，晚期五年存活率不到兩成<a target="_blank" rel="noopener noreferrer nofollow" href="https://heho.com.tw/archives/285092">[1]</a>。真正棘手的是復發之後：鉑金類化療結束六個月內就再度惡化的「鉑金抗藥」族群，可用藥物少，反應率也低。免疫治療在黑色素瘤和肺癌早已是標準武器，在卵巢癌卻長年繳不出成績單。過去十年的臨床試驗顯示，單用 PD-1 或 PD-L1 抑制劑，不論在初次治療或復發階段效果都有限，也一直找不到能預測療效的生物標記<a target="_blank" rel="noopener noreferrer nofollow" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11555186/">[2]</a>。</p>
+<figure class="chart"><div class="hint">← 左右滑動可看完整圖表 →</div><svg viewBox="0 0 760 328" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="ct">KEYNOTE-B96（PD-L1 CPS≥1 族群）</text><rect x="0" y="30" width="11" height="11" rx="2" fill="#B08C29"/><text x="18" y="40" class="cl">免疫治療＋紫杉醇</text><rect x="148" y="30" width="11" height="11" rx="2" fill="#2E93B8"/><text x="166" y="40" class="cl">安慰劑＋紫杉醇</text><text x="0" y="69" class="cu">療效（越長越好）　·　單位：個月　·　橫軸 0–25</text><text x="236" y="104" class="cy" text-anchor="end">中位無惡化存活期</text><rect x="250" y="82" width="148.7" height="13" rx="4" fill="#B08C29"><title>中位無惡化存活期：8.3個月</title></rect><text x="406.7" y="93" class="cv">8.3</text><rect x="250" y="97" width="129.0" height="13" rx="4" fill="#2E93B8"><title>中位無惡化存活期：7.2個月</title></rect><text x="387.0" y="108" class="cv">7.2</text><text x="236" y="151" class="cy" text-anchor="end">中位總存活期</text><rect x="250" y="129" width="326.1" height="13" rx="4" fill="#B08C29"><title>中位總存活期：18.2個月</title></rect><text x="584.1" y="140" class="cv">18.2</text><rect x="250" y="144" width="250.9" height="13" rx="4" fill="#2E93B8"><title>中位總存活期：14個月</title></rect><text x="508.9" y="155" class="cv">14</text><text x="0" y="195" class="cu">毒性（越低越好）　·　單位：%　·　橫軸 0–100</text><text x="236" y="230" class="cy" text-anchor="end">第 3 級以上治療相關不良事件</text><rect x="250" y="208" width="302.4" height="13" rx="4" fill="#B08C29"><title>第 3 級以上治療相關不良事件：67.5%</title></rect><text x="560.4" y="219" class="cv">67.5</text><rect x="250" y="223" width="247.7" height="13" rx="4" fill="#2E93B8"><title>第 3 級以上治療相關不良事件：55.3%</title></rect><text x="505.7" y="234" class="cv">55.3</text><text x="0" y="269" class="cn">無惡化存活多約一個月、總存活多約四個月，同時嚴重不良事件從 </text><text x="0" y="286" class="cn">55.3% 升到 67.5%。真實但幅度有限。</text><text x="0" y="309" class="cs">數據取自本文參考文獻；圖表為本站自行製作。</text></svg></figure>
+
 
 
 
