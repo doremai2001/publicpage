@@ -18,7 +18,10 @@
 <meta name="google-site-verification" content="GeEDNJHXAcFV1HDG-pg2aLBtt8LrjSUWevVsR69KsjE">
 <meta name="author" content="吳正友 Robert Jeng-You Wu, M.D., M.B.A.">
 <link rel="canonical" href="https://doremai2001.github.io/publicpage/insights.html">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"醫學新知","url":"https://doremai2001.github.io/publicpage/insights.html","inLanguage":"zh-Hant","author":{"@type":"Physician","name":"吳正友","url":"https://doremai2001.github.io/publicpage/"},"hasPart":[{"@type":"MedicalWebPage","headline":"質子治療真的比較好嗎","url":"https://doremai2001.github.io/publicpage/insight-proton.html"},{"@type":"MedicalWebPage","headline":"五次還是二十五次","url":"https://doremai2001.github.io/publicpage/insight-rectal-rt.html"},{"@type":"MedicalWebPage","headline":"化療打完之後，還能做什麼","url":"https://doremai2001.github.io/publicpage/insight-sclc-maintenance.html"},{"@type":"MedicalWebPage","headline":"第一線就加藥，能把抗藥性推遠一點嗎","url":"https://doremai2001.github.io/publicpage/insight-nsclc-egfr-first.html"},{"@type":"MedicalWebPage","headline":"標靶藥失效之後，走哪一條路","url":"https://doremai2001.github.io/publicpage/insight-nsclc-met.html"},{"@type":"MedicalWebPage","headline":"一個失敗的試驗，反而證明了現在的做法夠好","url":"https://doremai2001.github.io/publicpage/insight-nsclc-stage3.html"},{"@type":"MedicalWebPage","headline":"抽一管血，能決定療程嗎","url":"https://doremai2001.github.io/publicpage/insight-npc-ebv.html"},{"@type":"MedicalWebPage","headline":"荷爾蒙陽性乳癌，五年真的就過關了嗎","url":"https://doremai2001.github.io/publicpage/insight-breast-cdk46.html"},{"@type":"MedicalWebPage","headline":"三成的子宮內膜癌，可能不必先做化療","url":"https://doremai2001.github.io/publicpage/insight-endometrial-dmmr.html"},{"@type":"MedicalWebPage","headline":"卵巢癌的免疫治療，第一次交出成績單","url":"https://doremai2001.github.io/publicpage/insight-ovarian-pdl1.html"},{"@type":"MedicalWebPage","headline":"三十年沒變的流程，今年動了","url":"https://doremai2001.github.io/publicpage/insight-bladder-ev-pembro.html"},{"@type":"MedicalWebPage","headline":"手術前後多加一顆藥，值得嗎","url":"https://doremai2001.github.io/publicpage/insight-prostate-proteus.html"},{"@type":"MedicalWebPage","headline":"無藥可打的 RAS，第一次被撬開一道縫","url":"https://doremai2001.github.io/publicpage/insight-pancreatic-ras.html"},{"@type":"MedicalWebPage","headline":"一整個年齡層，零死亡","url":"https://doremai2001.github.io/publicpage/insight-hpv-vaccine.html"},{"@type":"MedicalWebPage","headline":"量身訂做的癌症疫苗，走到第三期了","url":"https://doremai2001.github.io/publicpage/insight-melanoma-vaccine.html"}]}</script>
+<link rel="alternate" hreflang="zh-Hant" href="https://doremai2001.github.io/publicpage/insights.html">
+<link rel="alternate" hreflang="en" href="https://doremai2001.github.io/publicpage/insights-en.html">
+<link rel="alternate" hreflang="x-default" href="https://doremai2001.github.io/publicpage/insights.html">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"醫學新知","url":"https://doremai2001.github.io/publicpage/insights.html","inLanguage":"zh-Hant","author":{"@type":"Physician","name":"吳正友 Robert Jeng-You Wu","url":"https://doremai2001.github.io/publicpage/"}}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=Noto+Serif+TC:wght@500;700&display=swap" rel="stylesheet">
@@ -228,6 +231,19 @@ details p:last-child{padding-bottom:20px}
 .chart .cbig2{font-size:15px;fill:#F5EFE6;font-weight:700}
 @media (max-width:620px){ .chart{padding:16px 14px} }
 
+/* ---------- language toggle ---------- */
+.lang{display:flex;align-items:center;gap:2px;flex:0 0 auto;
+  border:1px solid rgba(176,144,32,.45);border-radius:999px;padding:3px;background:rgba(245,239,230,.04)}
+.lang a,.lang span{display:block;font-size:.76rem;letter-spacing:.08em;line-height:1;
+  padding:6px 11px;border-radius:999px;text-decoration:none;opacity:.7;transition:.16s;white-space:nowrap}
+.lang a:hover{opacity:1;color:var(--gold-light);background:rgba(176,144,32,.16)}
+.lang .on{background:var(--gold);color:#0B2A37;opacity:1;font-weight:500}
+@media (max-width:620px){
+  .nav-in{flex-direction:row;flex-wrap:wrap;align-items:center}
+  .nav-in .brand{flex:1 1 auto}
+  .nav-in ul{order:3;width:100%;margin-top:4px}
+}
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -315,6 +331,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       <li><a href="insights.html" class="on">醫學新知</a></li>
       <li><a href="about.html">關於我</a></li>
     </ul>
+    <div class="lang"><span class="on">中</span><a href="insights-en.html" hreflang="en">EN</a></div>
   </div>
 </header>
 
@@ -436,11 +453,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
         <a href="https://www.wanfang.gov.tw/departments/team/71a998a727811d63" target="_blank" rel="noopener">官方門診掛號 ↗</a>
       </nav>
     </div>
-    <p class="disc">
-      本網站為吳正友醫師的個人專業資訊與衛教平台，並非臺北市立萬芳醫院官方網站。
-      站內內容提供一般性醫療衛教資訊，不能取代個別的診斷、治療建議與醫療團隊評估。
-      門診時段、掛號方式與收費標準，請以萬芳醫院官方系統公告為準。
-    </p>
+    <p class="disc">本網站為吳正友醫師的個人專業資訊與衛教平台，並非臺北市立萬芳醫院官方網站。站內內容提供一般性醫療衛教資訊，不能取代個別的診斷、治療建議與醫療團隊評估。門診時段、掛號方式與收費標準，請以萬芳醫院官方系統公告為準。</p>
     <p class="copy">© 2026 吳正友 Robert Jeng-You Wu, M.D., M.B.A.</p>
   </div>
 </footer>
