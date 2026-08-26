@@ -266,6 +266,28 @@ details p:last-child{padding-bottom:20px}
 .docfig figcaption{font-size:.8rem;line-height:1.75;color:#2B3A44;opacity:.8;
   padding:11px 4px 13px;text-align:left}
 
+/* ---------- tags ---------- */
+.taglist{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 0}
+.tagchip{display:inline-block;text-decoration:none;font-size:.76rem;letter-spacing:.03em;
+  color:var(--gold-light);border:1px solid rgba(176,144,32,.42);border-radius:999px;
+  padding:5px 13px;opacity:.85;transition:.16s}
+.tagchip:hover{background:rgba(176,144,32,.18);border-color:var(--gold);opacity:1}
+.cardtags{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.cardtags span{font-size:.71rem;letter-spacing:.02em;opacity:.55;
+  border:1px solid rgba(245,239,230,.16);border-radius:999px;padding:3px 10px}
+.tagbar{margin:26px 0 6px;padding:16px 18px;border:1px solid rgba(176,144,32,.3);
+  border-radius:14px;background:rgba(245,239,230,.03)}
+.tagbar-h{font-size:.72rem;letter-spacing:.22em;color:var(--gold);opacity:.8;margin-bottom:11px}
+.tagbar-c{display:flex;flex-wrap:wrap;gap:7px}
+.tagf{font-family:inherit;font-size:.76rem;letter-spacing:.02em;color:var(--ivory);
+  background:rgba(245,239,230,.05);border:1px solid rgba(245,239,230,.16);
+  border-radius:999px;padding:6px 13px;cursor:pointer;opacity:.75;transition:.16s}
+.tagf i{font-style:normal;opacity:.5;font-size:.9em;margin-left:3px}
+.tagf:hover{opacity:1;border-color:var(--gold);background:rgba(176,144,32,.14)}
+.tagf.on{background:var(--gold);border-color:var(--gold);color:#0B2A37;opacity:1;font-weight:500}
+.tagf.on i{opacity:.7}
+.postgroup[hidden],.postcard[hidden]{display:none}
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -366,6 +388,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
     <h1>一個失敗的試驗，反而證明了現在的做法夠好</h1>
     <p class="dek">SKYSCRAPER-03 想用兩種免疫藥超越現行標準，結果打平。看新聞不能只看「多幾個月」。</p>
     <div class="meta">醫學新知 · 肺癌 · 參考文獻 4 篇</div>
+    <div class="taglist"><a class="tagchip" href="insights.html?tag=lung">#肺癌</a><a class="tagchip" href="insights.html?tag=immuno">#免疫治療</a><a class="tagchip" href="insights.html?tag=trial">#臨床試驗</a><a class="tagchip" href="insights.html?tag=nhi">#健保給付</a></div>
 
     <div class="leadbox"><p>這篇要示範一件我覺得比藥物本身更重要的事：怎麼讀試驗結果。同一份數據裡「多了 2.8 個月」和「統計上沒有差別」可以同時成立，而後者才是結論。</p></div>
 

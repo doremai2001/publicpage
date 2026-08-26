@@ -266,6 +266,28 @@ details p:last-child{padding-bottom:20px}
 .docfig figcaption{font-size:.8rem;line-height:1.75;color:#2B3A44;opacity:.8;
   padding:11px 4px 13px;text-align:left}
 
+/* ---------- tags ---------- */
+.taglist{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 0}
+.tagchip{display:inline-block;text-decoration:none;font-size:.76rem;letter-spacing:.03em;
+  color:var(--gold-light);border:1px solid rgba(176,144,32,.42);border-radius:999px;
+  padding:5px 13px;opacity:.85;transition:.16s}
+.tagchip:hover{background:rgba(176,144,32,.18);border-color:var(--gold);opacity:1}
+.cardtags{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.cardtags span{font-size:.71rem;letter-spacing:.02em;opacity:.55;
+  border:1px solid rgba(245,239,230,.16);border-radius:999px;padding:3px 10px}
+.tagbar{margin:26px 0 6px;padding:16px 18px;border:1px solid rgba(176,144,32,.3);
+  border-radius:14px;background:rgba(245,239,230,.03)}
+.tagbar-h{font-size:.72rem;letter-spacing:.22em;color:var(--gold);opacity:.8;margin-bottom:11px}
+.tagbar-c{display:flex;flex-wrap:wrap;gap:7px}
+.tagf{font-family:inherit;font-size:.76rem;letter-spacing:.02em;color:var(--ivory);
+  background:rgba(245,239,230,.05);border:1px solid rgba(245,239,230,.16);
+  border-radius:999px;padding:6px 13px;cursor:pointer;opacity:.75;transition:.16s}
+.tagf i{font-style:normal;opacity:.5;font-size:.9em;margin-left:3px}
+.tagf:hover{opacity:1;border-color:var(--gold);background:rgba(176,144,32,.14)}
+.tagf.on{background:var(--gold);border-color:var(--gold);color:#0B2A37;opacity:1;font-weight:500}
+.tagf.on i{opacity:.7}
+.postgroup[hidden],.postcard[hidden]{display:none}
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -364,154 +386,216 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
   <div class="kicker">Medical Insights</div>
   <h2>Medical insights<span class="sub">Treatment guidelines are rewritten by new trials every year or two. These are my read-throughs: what a study said, what it did not say, and whether it means anything for patients in Taiwan right now.</span></h2>
   <p class="note" style="margin-top:18px">Every piece links to the primary literature. When a number looks compelling, check three things alongside it: which patients the trial enrolled, how much toxicity increased, and whether it is available in Taiwan today.</p>
+
+  <div class="tagbar" id="tagbar">
+    <div class="tagbar-h">Filter by tag:</div>
+    <div class="tagbar-c"><button class="tagf on" data-tag="">All <i>25</i></button><button class="tagf" data-tag="headneck">#Head & Neck <i>3</i></button><button class="tagf" data-tag="npc">#Nasopharyngeal <i>1</i></button><button class="tagf" data-tag="lung">#Lung <i>6</i></button><button class="tagf" data-tag="sclc">#Small Cell Lung <i>3</i></button><button class="tagf" data-tag="breast">#Breast <i>3</i></button><button class="tagf" data-tag="gyn">#Gynaecologic <i>4</i></button><button class="tagf" data-tag="cervical">#Cervical <i>2</i></button><button class="tagf" data-tag="endometrial">#Endometrial <i>1</i></button><button class="tagf" data-tag="ovarian">#Ovarian <i>1</i></button><button class="tagf" data-tag="prostate">#Prostate <i>2</i></button><button class="tagf" data-tag="bladder">#Bladder <i>1</i></button><button class="tagf" data-tag="kidney">#Kidney <i>1</i></button><button class="tagf" data-tag="rectal">#Rectal <i>1</i></button><button class="tagf" data-tag="anal">#Anal <i>1</i></button><button class="tagf" data-tag="pancreatic">#Pancreatic <i>1</i></button><button class="tagf" data-tag="lymphoma">#Lymphoma <i>2</i></button><button class="tagf" data-tag="melanoma">#Melanoma <i>1</i></button><button class="tagf" data-tag="proton">#Proton Therapy <i>1</i></button><button class="tagf" data-tag="sbrt">#SBRT / SRS <i>2</i></button><button class="tagf" data-tag="chemo">#Chemotherapy <i>6</i></button><button class="tagf" data-tag="immuno">#Immunotherapy <i>7</i></button><button class="tagf" data-tag="targeted">#Targeted Therapy <i>7</i></button><button class="tagf" data-tag="surgery">#Surgery <i>4</i></button><button class="tagf" data-tag="vaccine">#Vaccine <i>2</i></button><button class="tagf" data-tag="reirradiation">#Re-irradiation <i>1</i></button><button class="tagf" data-tag="hypofx">#Short Course <i>3</i></button><button class="tagf" data-tag="sideeffect">#Side Effects <i>9</i></button><button class="tagf" data-tag="qol">#Quality of Life <i>3</i></button><button class="tagf" data-tag="nhi">#NHI Coverage <i>8</i></button><button class="tagf" data-tag="trial">#Clinical Trials <i>10</i></button><button class="tagf" data-tag="biomarker">#Biomarkers <i>4</i></button><button class="tagf" data-tag="recurrence">#Recurrence <i>3</i></button><button class="tagf" data-tag="fertility">#Fertility <i>1</i></button><button class="tagf" data-tag="prevention">#Prevention <i>1</i></button><button class="tagf" data-tag="brainmet">#Brain Metastasis <i>1</i></button></div>
+  </div>
+  <p class="note tagempty" id="tagempty" hidden>No articles under this tag yet.</p>
+
   <div class="postgroup">
     <h3>Radiation Therapy</h3>
-    <a class="postcard" href="insight-proton-en.html">
+    <a class="postcard" data-tags="proton headneck sideeffect qol trial" href="insight-proton-en.html">
       <div class="t">Is proton therapy actually better?</div>
       <div class="d">Two phase 3 oropharyngeal trials in The Lancet reached different conclusions — clinician-scored toxicity fell, patient-reported outcomes did not move.</div>
       <div class="m">RADIATION THERAPY · 5 references</div>
+      <div class="cardtags"><span>#Proton Therapy</span><span>#Head & Neck</span><span>#Side Effects</span><span>#Quality of Life</span><span>#Clinical Trials</span></div>
     </a>
-    <a class="postcard" href="insight-rectal-rt-en.html">
+    <a class="postcard" data-tags="rectal chemo hypofx trial" href="insight-rectal-rt-en.html">
       <div class="t">Five fractions or twenty-five?</div>
       <div class="d">Two pre-operative schedules for rectal cancer. Does a fivefold difference in fractions mean a difference in outcome? The answer shifted again in the past two years.</div>
       <div class="m">RADIATION THERAPY · 4 references</div>
+      <div class="cardtags"><span>#Rectal</span><span>#Chemotherapy</span><span>#Short Course</span><span>#Clinical Trials</span></div>
     </a>
   </div>
   <div class="postgroup">
     <h3>Lung Cancer</h3>
-    <a class="postcard" href="insight-sclc-es-rt-en.html">
+    <a class="postcard" data-tags="sclc lung immuno sideeffect trial" href="insight-sclc-es-rt-en.html">
       <div class="t">Adding chest radiotherapy bought more severe toxicity</div>
       <div class="d">The TREASURE trial closed early for safety: no survival gain, and a clear increase in serious and fatal adverse events.</div>
       <div class="m">LUNG CANCER · 4 references</div>
+      <div class="cardtags"><span>#Small Cell Lung</span><span>#Lung</span><span>#Immunotherapy</span><span>#Side Effects</span><span>#Clinical Trials</span></div>
     </a>
-    <a class="postcard" href="insight-sclc-ls-brain-en.html">
+    <a class="postcard" data-tags="sclc lung brainmet trial qol" href="insight-sclc-ls-brain-en.html">
       <div class="t">Treat the brain first, or wait until MRI finds something</div>
       <div class="d">After treatment for limited-stage small cell lung cancer: prophylactic cranial irradiation or MRI surveillance? The 2026 evidence points both ways, and the decisive trial reports shortly.</div>
       <div class="m">LUNG CANCER · 7 references</div>
+      <div class="cardtags"><span>#Small Cell Lung</span><span>#Lung</span><span>#Brain Metastasis</span><span>#Clinical Trials</span><span>#Quality of Life</span></div>
     </a>
-    <a class="postcard" href="insight-sclc-maintenance-en.html">
+    <a class="postcard" data-tags="sclc lung chemo immuno nhi" href="insight-sclc-maintenance-en.html">
       <div class="t">After chemotherapy ends, what else is there?</div>
       <div class="d">Maintenance in extensive-stage small cell lung cancer is usually short. The IMforte trial addressed the question directly.</div>
       <div class="m">LUNG CANCER · 6 references</div>
+      <div class="cardtags"><span>#Small Cell Lung</span><span>#Lung</span><span>#Chemotherapy</span><span>#Immunotherapy</span><span>#NHI Coverage</span></div>
     </a>
-    <a class="postcard" href="insight-nsclc-egfr-first-en.html">
+    <a class="postcard" data-tags="lung targeted chemo sideeffect nhi" href="insight-nsclc-egfr-first-en.html">
       <div class="t">Can adding a drug up front push resistance further away?</div>
       <div class="d">Survival data are now out for both FLAURA2 and MARIPOSA. Is the extra time worth the extra toxicity?</div>
       <div class="m">LUNG CANCER · 5 references</div>
+      <div class="cardtags"><span>#Lung</span><span>#Targeted Therapy</span><span>#Chemotherapy</span><span>#Side Effects</span><span>#NHI Coverage</span></div>
     </a>
-    <a class="postcard" href="insight-nsclc-met-en.html">
+    <a class="postcard" data-tags="lung targeted biomarker trial" href="insight-nsclc-met-en.html">
       <div class="t">When the targeted drug stops working, which road do you take?</div>
       <div class="d">Tumours have more than one bypass route, and MET is a common one. The SAFFRON trial reported topline results — but the full data are not out.</div>
       <div class="m">LUNG CANCER · 6 references</div>
+      <div class="cardtags"><span>#Lung</span><span>#Targeted Therapy</span><span>#Biomarkers</span><span>#Clinical Trials</span></div>
     </a>
-    <a class="postcard" href="insight-nsclc-stage3-en.html">
+    <a class="postcard" data-tags="lung immuno trial nhi" href="insight-nsclc-stage3-en.html">
       <div class="t">A failed trial that proved the current standard is good enough</div>
       <div class="d">SKYSCRAPER-03 tried to beat the current standard with two immunotherapy agents. It came out even. "A few months longer" is not the whole story.</div>
       <div class="m">LUNG CANCER · 4 references</div>
+      <div class="cardtags"><span>#Lung</span><span>#Immunotherapy</span><span>#Clinical Trials</span><span>#NHI Coverage</span></div>
     </a>
   </div>
   <div class="postgroup">
     <h3>Head & Neck</h3>
-    <a class="postcard" href="insight-npc-ebv-en.html">
+    <a class="postcard" data-tags="npc headneck biomarker trial" href="insight-npc-ebv-en.html">
       <div class="t">Can a blood test decide your treatment?</div>
       <div class="d">EBV DNA in nasopharyngeal carcinoma tracks the tumour. The EP-STAR trial tried using it the other way round — to set treatment intensity.</div>
       <div class="m">HEAD & NECK · 4 references</div>
+      <div class="cardtags"><span>#Nasopharyngeal</span><span>#Head & Neck</span><span>#Biomarkers</span><span>#Clinical Trials</span></div>
     </a>
   </div>
   <div class="postgroup">
     <h3>Breast & Gynaecologic</h3>
-    <a class="postcard" href="insight-breast-recur-en.html">
+    <a class="postcard" data-tags="breast recurrence reirradiation surgery" href="insight-breast-recur-en.html">
       <div class="t">If breast cancer comes back, must the breast go?</div>
       <div class="d">An ESTRO-endorsed international consensus states it for the first time: for selected patients with an ipsilateral recurrence, a second breast-conserving approach is a reasonable option.</div>
       <div class="m">BREAST CANCER · 4 references</div>
+      <div class="cardtags"><span>#Breast</span><span>#Recurrence</span><span>#Re-irradiation</span><span>#Surgery</span></div>
     </a>
-    <a class="postcard" href="insight-breast-5fx-en.html">
+    <a class="postcard" data-tags="breast hypofx sideeffect nhi" href="insight-breast-5fx-en.html">
       <div class="t">Five sessions — and only two visits a week</div>
       <div class="d">A US retrospective series: 28 Gy in five twice-weekly fractions for early breast cancer, with 98.8% rated excellent or good for cosmesis at one year and no grade 3 or higher toxicity.</div>
       <div class="m">BREAST CANCER · 5 references</div>
+      <div class="cardtags"><span>#Breast</span><span>#Short Course</span><span>#Side Effects</span><span>#NHI Coverage</span></div>
     </a>
-    <a class="postcard" href="insight-cervix-ovary-en.html">
+    <a class="postcard" data-tags="cervical gyn fertility sideeffect" href="insight-cervix-ovary-en.html">
       <div class="t">Moving the ovaries out of the field — 8 Gy is the line</div>
       <div class="d">A US retrospective study: after ovarian transposition in cervical cancer, keeping the mean ovarian dose under 8 Gy was associated with markedly lower risk of premature ovarian insufficiency.</div>
       <div class="m">GYNAECOLOGIC ONCOLOGY · 5 references</div>
+      <div class="cardtags"><span>#Cervical</span><span>#Gynaecologic</span><span>#Fertility</span><span>#Side Effects</span></div>
     </a>
-    <a class="postcard" href="insight-breast-cdk46-en.html">
+    <a class="postcard" data-tags="breast targeted recurrence nhi" href="insight-breast-cdk46-en.html">
       <div class="t">Is hormone-positive breast cancer really over at five years?</div>
       <div class="d">Recurrence in this subtype does not stop at year five. CDK4/6 inhibitors address exactly that window — but the absolute numbers need reading alongside.</div>
       <div class="m">BREAST & GYN · 3 references</div>
+      <div class="cardtags"><span>#Breast</span><span>#Targeted Therapy</span><span>#Recurrence</span><span>#NHI Coverage</span></div>
     </a>
-    <a class="postcard" href="insight-endometrial-dmmr-en.html">
+    <a class="postcard" data-tags="endometrial gyn immuno biomarker" href="insight-endometrial-dmmr-en.html">
       <div class="t">Three in ten endometrial cancers may not need chemotherapy first</div>
       <div class="d">It depends on whether the tumour is dMMR. KEYNOTE-C93 reported topline results: direction clear, magnitude unknown.</div>
       <div class="m">BREAST & GYN · 4 references</div>
+      <div class="cardtags"><span>#Endometrial</span><span>#Gynaecologic</span><span>#Immunotherapy</span><span>#Biomarkers</span></div>
     </a>
-    <a class="postcard" href="insight-ovarian-pdl1-en.html">
+    <a class="postcard" data-tags="ovarian gyn immuno chemo biomarker" href="insight-ovarian-pdl1-en.html">
       <div class="t">Immunotherapy in ovarian cancer finally has a result</div>
       <div class="d">Immunotherapy has underperformed in ovarian cancer for years. KEYNOTE-B96 combined it with chemotherapy and restricted it to PD-L1-positive disease — a real but modest gain.</div>
       <div class="m">BREAST & GYN · 7 references</div>
+      <div class="cardtags"><span>#Ovarian</span><span>#Gynaecologic</span><span>#Immunotherapy</span><span>#Chemotherapy</span><span>#Biomarkers</span></div>
     </a>
   </div>
   <div class="postgroup">
     <h3>Urologic & GI</h3>
-    <a class="postcard" href="insight-anal-dose-en.html">
+    <a class="postcard" data-tags="anal chemo sideeffect qol" href="insight-anal-dose-en.html">
       <div class="t">Nine gray less, and the result held</div>
       <div class="d">PLATO-ACT4: cutting the dose from 50.4 Gy to 41.4 Gy in early anal cancer gave comparable response at six months, less acute toxicity and better sexual function.</div>
       <div class="m">ANAL CANCER · 6 references</div>
+      <div class="cardtags"><span>#Anal</span><span>#Chemotherapy</span><span>#Side Effects</span><span>#Quality of Life</span></div>
     </a>
-    <a class="postcard" href="insight-kidney-sbrt-en.html">
+    <a class="postcard" data-tags="kidney sbrt surgery nhi" href="insight-kidney-sbrt-en.html">
       <div class="t">"Kidney cancer is radioresistant" — that sentence is being overturned</div>
       <div class="d">FASTRACK II at seven years: stereotactic ablative radiotherapy for inoperable primary renal cell carcinoma gave 100% local control at 3, 5 and 7 years. Not reimbursed in Taiwan.</div>
       <div class="m">KIDNEY CANCER · 5 references</div>
+      <div class="cardtags"><span>#Kidney</span><span>#SBRT / SRS</span><span>#Surgery</span><span>#NHI Coverage</span></div>
     </a>
-    <a class="postcard" href="insight-prostate-sbrt-en.html">
+    <a class="postcard" data-tags="prostate sbrt hypofx sideeffect nhi" href="insight-prostate-sbrt-en.html">
       <div class="t">Five fractions — with the pelvis included?</div>
       <div class="d">101 high-risk patients followed for a median of nearly four years: five-fraction SBRT to prostate and pelvic nodes produced no grade 3 or higher late toxicity.</div>
       <div class="m">PROSTATE CANCER · 5 references</div>
+      <div class="cardtags"><span>#Prostate</span><span>#SBRT / SRS</span><span>#Short Course</span><span>#Side Effects</span><span>#NHI Coverage</span></div>
     </a>
-    <a class="postcard" href="insight-bladder-ev-pembro-en.html">
+    <a class="postcard" data-tags="bladder immuno targeted surgery sideeffect" href="insight-bladder-ev-pembro-en.html">
       <div class="t">A thirty-year-old pathway just changed</div>
       <div class="d">Peri-operative treatment for muscle-invasive bladder cancer has a new regimen. Efficacy improved; discontinuation rose from 11% to 35%.</div>
       <div class="m">UROLOGIC & GI · 5 references</div>
+      <div class="cardtags"><span>#Bladder</span><span>#Immunotherapy</span><span>#Targeted Therapy</span><span>#Surgery</span><span>#Side Effects</span></div>
     </a>
-    <a class="postcard" href="insight-prostate-proteus-en.html">
+    <a class="postcard" data-tags="prostate targeted surgery trial" href="insight-prostate-proteus-en.html">
       <div class="t">One more drug around surgery — is it worth it?</div>
       <div class="d">In high-risk localised prostate cancer, PROTEUS gained under five percentage points in five-year metastasis-free survival — but the downstream endpoints separated further.</div>
       <div class="m">UROLOGIC & GI · 4 references</div>
+      <div class="cardtags"><span>#Prostate</span><span>#Targeted Therapy</span><span>#Surgery</span><span>#Clinical Trials</span></div>
     </a>
-    <a class="postcard" href="insight-pancreatic-ras-en.html">
+    <a class="postcard" data-tags="pancreatic targeted trial" href="insight-pancreatic-ras-en.html">
       <div class="t">RAS was undruggable. Something finally got through.</div>
       <div class="d">Over 90% of pancreatic ductal adenocarcinomas carry a RAS mutation, long considered undruggable. RASolute 302 loosened that assumption.</div>
       <div class="m">UROLOGIC & GI · 5 references</div>
+      <div class="cardtags"><span>#Pancreatic</span><span>#Targeted Therapy</span><span>#Clinical Trials</span></div>
     </a>
   </div>
   <div class="postgroup">
     <h3>Haematologic Cancers</h3>
-    <a class="postcard" href="insight-lymphoma-pola-en.html">
+    <a class="postcard" data-tags="lymphoma targeted sideeffect nhi" href="insight-lymphoma-pola-en.html">
       <div class="t">Can radiation run alongside the targeted drug?</div>
       <div class="d">An MD Anderson review of 21 patients: concurrent polatuzumab and radiotherapy was broadly tolerated, with higher risk in those whose counts were already low before treatment.</div>
       <div class="m">LYMPHOMA · 4 references</div>
+      <div class="cardtags"><span>#Lymphoma</span><span>#Targeted Therapy</span><span>#Side Effects</span><span>#NHI Coverage</span></div>
     </a>
-    <a class="postcard" href="insight-nkt-lymphoma-en.html">
+    <a class="postcard" data-tags="lymphoma headneck recurrence chemo" href="insight-nkt-lymphoma-en.html">
       <div class="t">Eight in ten recurrences came back to the same place</div>
       <div class="d">A post hoc analysis of a randomised trial in early-stage NK/T-cell lymphoma: locoregional recurrences fell almost entirely inside the original radiation field.</div>
       <div class="m">LYMPHOMA · 4 references</div>
+      <div class="cardtags"><span>#Lymphoma</span><span>#Head & Neck</span><span>#Recurrence</span><span>#Chemotherapy</span></div>
     </a>
   </div>
   <div class="postgroup">
     <h3>Vaccines & Prevention</h3>
-    <a class="postcard" href="insight-hpv-vaccine-en.html">
+    <a class="postcard" data-tags="vaccine prevention cervical gyn" href="insight-hpv-vaccine-en.html">
       <div class="t">An entire age band, zero deaths</div>
       <div class="d">In England between 2020 and 2024, not one woman aged 20 to 24 died of cervical cancer. The first mortality data for HPV vaccination.</div>
       <div class="m">VACCINE & PREVENTION · 4 references</div>
+      <div class="cardtags"><span>#Vaccine</span><span>#Prevention</span><span>#Cervical</span><span>#Gynaecologic</span></div>
     </a>
-    <a class="postcard" href="insight-melanoma-vaccine-en.html">
+    <a class="postcard" data-tags="melanoma vaccine immuno trial" href="insight-melanoma-vaccine-en.html">
       <div class="t">A made-to-measure cancer vaccine reaches phase 3</div>
       <div class="d">The word "vaccine" is misleading — this is not prevention but a post-operative treatment manufactured for one patient. INTerpath-001 met its endpoints, but no numbers have been released.</div>
       <div class="m">VACCINE & PREVENTION · 6 references</div>
+      <div class="cardtags"><span>#Melanoma</span><span>#Vaccine</span><span>#Immunotherapy</span><span>#Clinical Trials</span></div>
     </a>
   </div>
   <p class="note">This is general patient education and cannot replace a face-to-face consultation. Do not adjust or interrupt treatment on the basis of any article here.</p>
 </section>
+
+<script>
+(function(){
+  var bar=document.getElementById('tagbar'); if(!bar) return;
+  var cards=[].slice.call(document.querySelectorAll('.postcard'));
+  var groups=[].slice.call(document.querySelectorAll('.postgroup'));
+  var btns=[].slice.call(bar.querySelectorAll('.tagf'));
+  var empty=document.getElementById('tagempty');
+  function apply(tag){
+    var shown=0;
+    cards.forEach(function(c){
+      var ok=!tag||(' '+c.getAttribute('data-tags')+' ').indexOf(' '+tag+' ')>=0;
+      c.hidden=!ok; if(ok) shown++;
+    });
+    groups.forEach(function(g){
+      g.hidden=!g.querySelector('.postcard:not([hidden])');
+    });
+    btns.forEach(function(b){ b.classList.toggle('on', (b.getAttribute('data-tag')||'')===(tag||'')); });
+    if(empty) empty.hidden=shown>0;
+    try{
+      var u=new URL(location.href);
+      if(tag) u.searchParams.set('tag',tag); else u.searchParams.delete('tag');
+      history.replaceState(null,'',u);
+    }catch(e){}
+  }
+  btns.forEach(function(b){ b.addEventListener('click',function(){ apply(b.getAttribute('data-tag')); }); });
+  var init=''; try{ init=new URL(location.href).searchParams.get('tag')||''; }catch(e){}
+  if(init) apply(init);
+})();
+</script>
 
 </main>
 

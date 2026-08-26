@@ -266,6 +266,28 @@ details p:last-child{padding-bottom:20px}
 .docfig figcaption{font-size:.8rem;line-height:1.75;color:#2B3A44;opacity:.8;
   padding:11px 4px 13px;text-align:left}
 
+/* ---------- tags ---------- */
+.taglist{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 0}
+.tagchip{display:inline-block;text-decoration:none;font-size:.76rem;letter-spacing:.03em;
+  color:var(--gold-light);border:1px solid rgba(176,144,32,.42);border-radius:999px;
+  padding:5px 13px;opacity:.85;transition:.16s}
+.tagchip:hover{background:rgba(176,144,32,.18);border-color:var(--gold);opacity:1}
+.cardtags{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.cardtags span{font-size:.71rem;letter-spacing:.02em;opacity:.55;
+  border:1px solid rgba(245,239,230,.16);border-radius:999px;padding:3px 10px}
+.tagbar{margin:26px 0 6px;padding:16px 18px;border:1px solid rgba(176,144,32,.3);
+  border-radius:14px;background:rgba(245,239,230,.03)}
+.tagbar-h{font-size:.72rem;letter-spacing:.22em;color:var(--gold);opacity:.8;margin-bottom:11px}
+.tagbar-c{display:flex;flex-wrap:wrap;gap:7px}
+.tagf{font-family:inherit;font-size:.76rem;letter-spacing:.02em;color:var(--ivory);
+  background:rgba(245,239,230,.05);border:1px solid rgba(245,239,230,.16);
+  border-radius:999px;padding:6px 13px;cursor:pointer;opacity:.75;transition:.16s}
+.tagf i{font-style:normal;opacity:.5;font-size:.9em;margin-left:3px}
+.tagf:hover{opacity:1;border-color:var(--gold);background:rgba(176,144,32,.14)}
+.tagf.on{background:var(--gold);border-color:var(--gold);color:#0B2A37;opacity:1;font-weight:500}
+.tagf.on i{opacity:.7}
+.postgroup[hidden],.postcard[hidden]{display:none}
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -366,6 +388,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
     <h1>卵巢癌的免疫治療，第一次交出成績單</h1>
     <p class="dek">免疫治療在卵巢癌長年繳不出成績。KEYNOTE-B96 改成併用化療、鎖定 PD-L1 陽性，結果是真實但幅度有限的獲益。</p>
     <div class="meta">醫學新知 · 乳癌與婦癌 · 參考文獻 7 篇</div>
+    <div class="taglist"><a class="tagchip" href="insights.html?tag=ovarian">#卵巢癌</a><a class="tagchip" href="insights.html?tag=gyn">#婦癌</a><a class="tagchip" href="insights.html?tag=immuno">#免疫治療</a><a class="tagchip" href="insights.html?tag=chemo">#化學治療</a><a class="tagchip" href="insights.html?tag=biomarker">#生物標記</a></div>
 
     <div class="leadbox"><p>這篇我想示範怎麼看「有效」兩個字。無惡化存活多了約一個月、總存活多了約四個月，同時第三級以上副作用從 55.3% 升到 67.5%。這兩組數字要放在一起看，才是完整的資訊。</p></div>
 

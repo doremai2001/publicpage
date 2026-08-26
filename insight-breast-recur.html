@@ -266,6 +266,28 @@ details p:last-child{padding-bottom:20px}
 .docfig figcaption{font-size:.8rem;line-height:1.75;color:#2B3A44;opacity:.8;
   padding:11px 4px 13px;text-align:left}
 
+/* ---------- tags ---------- */
+.taglist{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 0}
+.tagchip{display:inline-block;text-decoration:none;font-size:.76rem;letter-spacing:.03em;
+  color:var(--gold-light);border:1px solid rgba(176,144,32,.42);border-radius:999px;
+  padding:5px 13px;opacity:.85;transition:.16s}
+.tagchip:hover{background:rgba(176,144,32,.18);border-color:var(--gold);opacity:1}
+.cardtags{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.cardtags span{font-size:.71rem;letter-spacing:.02em;opacity:.55;
+  border:1px solid rgba(245,239,230,.16);border-radius:999px;padding:3px 10px}
+.tagbar{margin:26px 0 6px;padding:16px 18px;border:1px solid rgba(176,144,32,.3);
+  border-radius:14px;background:rgba(245,239,230,.03)}
+.tagbar-h{font-size:.72rem;letter-spacing:.22em;color:var(--gold);opacity:.8;margin-bottom:11px}
+.tagbar-c{display:flex;flex-wrap:wrap;gap:7px}
+.tagf{font-family:inherit;font-size:.76rem;letter-spacing:.02em;color:var(--ivory);
+  background:rgba(245,239,230,.05);border:1px solid rgba(245,239,230,.16);
+  border-radius:999px;padding:6px 13px;cursor:pointer;opacity:.75;transition:.16s}
+.tagf i{font-style:normal;opacity:.5;font-size:.9em;margin-left:3px}
+.tagf:hover{opacity:1;border-color:var(--gold);background:rgba(176,144,32,.14)}
+.tagf.on{background:var(--gold);border-color:var(--gold);color:#0B2A37;opacity:1;font-weight:500}
+.tagf.on i{opacity:.7}
+.postgroup[hidden],.postcard[hidden]{display:none}
+
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
   background:rgba(245,239,230,.04);padding:8px 22px 18px}
@@ -366,6 +388,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
     <h1>乳癌復發，一定要切掉乳房嗎</h1>
     <p class="dek">ESTRO 背書的國際共識首度表態：符合條件的同側乳癌復發，二次乳房保留治療是合理選項。</p>
     <div class="meta">醫學新知 · 乳癌與婦癌 · 參考文獻 4 篇</div>
+    <div class="taglist"><a class="tagchip" href="insights.html?tag=breast">#乳癌</a><a class="tagchip" href="insights.html?tag=recurrence">#復發</a><a class="tagchip" href="insights.html?tag=reirradiation">#再次放療</a><a class="tagchip" href="insights.html?tag=surgery">#手術</a></div>
 
     <div class="leadbox"><p>過去碰上同側復發，多數醫師的答案幾乎只有一個：全乳切除。理由是那側乳房已接受完整劑量放療，再照一次風險太高——但這個做法從未經隨機試驗證實比較好。今年的國際共識，第一次正式把另一個選項放到檯面上。</p></div>
 
