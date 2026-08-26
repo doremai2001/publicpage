@@ -286,7 +286,9 @@ details p:last-child{padding-bottom:20px}
 .tagf:hover{opacity:1;border-color:var(--gold);background:rgba(176,144,32,.14)}
 .tagf.on{background:var(--gold);border-color:var(--gold);color:#0B2A37;opacity:1;font-weight:500}
 .tagf.on i{opacity:.7}
-.postgroup[hidden],.postcard[hidden]{display:none}
+.postgroup[hidden],.postcard[hidden],.faqgroup[hidden],details[hidden]{display:none}
+.faqtags{margin:2px 0 18px;padding-left:2px}
+.faqtags .tagchip{font-size:.72rem;padding:4px 11px;cursor:pointer}
 
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
@@ -389,14 +391,23 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
     <div><div class="t">想了解治療技術本身？</div><div class="d">質子治療、腫瘤熱治療、SBRT／SRS、淺層放射治療 SRT 的完整說明在「臨床專長」</div></div>
     <div class="ar">→</div>
   </a>
+
+  <div class="tagbar" id="tagbar">
+    <div class="tagbar-h">用標籤找問題：</div>
+    <div class="tagbar-c"><button class="tagf on" data-tag="">全部 <i>17</i></button><button class="tagf" data-tag="headneck">#頭頸癌 <i>1</i></button><button class="tagf" data-tag="proton">#質子治療 <i>1</i></button><button class="tagf" data-tag="reirradiation">#再次放療 <i>1</i></button><button class="tagf" data-tag="hyperthermia">#腫瘤熱治療 <i>1</i></button><button class="tagf" data-tag="srt">#淺層放射治療 SRT <i>3</i></button><button class="tagf" data-tag="sideeffect">#副作用 <i>5</i></button><button class="tagf" data-tag="recurrence">#復發 <i>1</i></button><button class="tagf" data-tag="decision">#治療決策 <i>5</i></button><button class="tagf" data-tag="prep">#就醫準備 <i>4</i></button><button class="tagf" data-tag="workflow">#療程流程 <i>3</i></button><button class="tagf" data-tag="daily">#療程中的生活 <i>7</i></button><button class="tagf" data-tag="work">#工作與交通 <i>1</i></button><button class="tagf" data-tag="nutrition">#飲食營養 <i>2</i></button><button class="tagf" data-tag="supplement">#保健補充品 <i>2</i></button><button class="tagf" data-tag="skincare">#皮膚照護 <i>2</i></button><button class="tagf" data-tag="radsafety">#輻射安全 <i>2</i></button><button class="tagf" data-tag="keloid">#蟹足腫 <i>3</i></button></div>
+  </div>
+  <p class="note tagempty" id="tagempty" hidden>這個標籤下目前沒有問題。</p>
+
+  <div class="faqgroup">
   <h3 class="faq-cat">開始之前</h3>
-  <details>
+  <details data-tags="decision prep">
     <summary>這些我自己上網查得到，為什麼還要看門診？</summary>
     <p>網路上查得到的是「一般情況」，查不到的是<b>你的情況</b>。同一種癌症，期別、位置、病理特徵、過去接受過什麼治療、身體狀況如何，建議就會不同——而這些差異，正好是搜尋引擎沒有辦法替你判斷的部分。</p>
       <p>我在門診習慣把事情講慢、講清楚：為什麼建議這個做法、有哪些替代選項、各自的代價是什麼、如果不做會怎樣。不少病人跟我說，看完診最大的差別不是又知道了什麼新資訊，而是終於知道<b>哪些資訊跟自己無關</b>——那幾十個小時的搜尋、幾百則互相矛盾的說法，可以放下了。</p>
       <p>把想問的問題寫在紙上帶來，我們一題一題過。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="decision">#治療決策</a><a class="tagchip" href="#" data-jump="prep">#就醫準備</a></div>
   </details>
-  <details>
+  <details data-tags="decision">
     <summary>該怎麼挑醫師？</summary>
     <p>這題我沒辦法替你挑，但可以給你幾個判準——這些標準同樣適用於評估我：</p>
       <p>• <b>他現在還在看診、還在治療病人嗎？</b>離開第一線太久，講的東西容易停在他離開的那一年。<br>
@@ -405,19 +416,22 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       • <b>替代選項和代價有沒有講清楚？</b>只講好處的說明是不完整的。<br>
       • <b>你聽得懂嗎？</b>聽不懂的說明，沒辦法拿來做決定。</p>
       <p>不需要每一項都滿分。但如果一項都對不上，值得再找一個意見——在腫瘤治療裡尋求第二意見是正常的，也是應該的。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="decision">#治療決策</a></div>
   </details>
-  <details>
+  <details data-tags="proton hyperthermia decision">
     <summary>我適合質子／熱治療嗎？怎麼判斷？</summary>
     <p>沒有辦法在網頁上回答這一題，也不建議相信任何在看到你的資料之前就給答案的說法。實際評估會看：癌症的種類與期別、腫瘤的位置與旁邊有哪些重要器官、過去接受過哪些治療（尤其是否曾經放射治療過）、身體狀況與共病、病理與影像的細節，以及腫瘤深度能不能有效加溫。</p>
       <p>流程上，通常是門診看過資料後，把個案提到<b>多專科團隊會議</b>討論，再回頭跟你說明可行的選項與各自的取捨。健保給付與自費範圍請以醫院公告與當次評估為準。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="proton">#質子治療</a><a class="tagchip" href="#" data-jump="hyperthermia">#腫瘤熱治療</a><a class="tagchip" href="#" data-jump="decision">#治療決策</a></div>
   </details>
-  <details>
+  <details data-tags="reirradiation recurrence decision">
     <summary>以前已經電療過了，還能再做一次嗎？</summary>
     <p>有機會，但要非常謹慎評估。關鍵在於<b>正常組織的累積劑量</b>、距離上次治療的時間、以及這段時間組織修復的程度——脊髓、視神經、頸動脈這類器官承受得住多少，是能不能再治療的天花板。</p>
       <p>復發或殘存的腫瘤，往往是上一次療程中<b>撐下來的那一群細胞</b>：缺氧、修復能力強、對放射線相對抗性高。這正是熱治療的著力點——它針對的就是缺氧與修復這兩個造成抗性的原因，而不是單純再加劑量。質子則能把已經受過量的正常組織盡量避開。所以在「再次治療」這個情境下，兩者的角色會比第一次治療時更吃重。</p>
       <p>是否可行必須看你的<b>上一次治療計畫與劑量資料</b>。請盡量把前次的放療紀錄、劑量報告與影像帶來，這是能不能評估的前提。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="reirradiation">#再次放療</a><a class="tagchip" href="#" data-jump="recurrence">#復發</a><a class="tagchip" href="#" data-jump="decision">#治療決策</a></div>
   </details>
-  <details>
+  <details data-tags="workflow prep">
     <summary>一次完整的療程，會經過哪些步驟？</summary>
     <p>放射治療不是「今天決定、明天就開始照」。從門診決定要做，到第一次躺上治療台，中間通常還有一到兩週。這段等待常讓人焦慮，以為是排不到——其實那段時間是在為你做一套只屬於你的治療計畫。</p>
       <figure class="skinfig"><svg viewBox="0 0 760 540" role="img" xmlns="http://www.w3.org/2000/svg"><text x="0" y="14" class="pt">一次完整療程會經過的步驟</text><rect x="0" y="34" width="760" height="152" rx="16" fill="#B09020" fill-opacity=".06" stroke="#B09020" stroke-opacity=".32"/><text x="14" y="60" class="pw">準備期</text><text x="746" y="60" class="pd" text-anchor="end">通常 1–2 週</text><g transform="translate(14,74)"><rect x="0" y="0" width="236" height="98" rx="12" fill="#0B2A37" fill-opacity=".55" stroke="#B09020" stroke-opacity=".28"/><circle cx="24" cy="24" r="10.5" fill="none" stroke="#B09020" stroke-width="1.5"/><text x="24" y="28.5" class="pn" text-anchor="middle">1</text><text x="43" y="29" class="ps">門診評估</text><text x="16" y="56" class="sl">看完影像與病理</text><text x="16" y="74" class="sl">說明選項、簽同意書</text></g><text x="256" y="130" class="par" text-anchor="middle">›</text><g transform="translate(262,74)"><rect x="0" y="0" width="236" height="98" rx="12" fill="#0B2A37" fill-opacity=".55" stroke="#B09020" stroke-opacity=".28"/><circle cx="24" cy="24" r="10.5" fill="none" stroke="#B09020" stroke-width="1.5"/><text x="24" y="28.5" class="pn" text-anchor="middle">2</text><text x="43" y="29" class="ps">模具與定位 CT</text><text x="16" y="56" class="sl">頭頸部製作面罩</text><text x="16" y="74" class="sl">取得定位影像與記號</text></g><text x="504" y="130" class="par" text-anchor="middle">›</text><g transform="translate(510,74)"><rect x="0" y="0" width="236" height="98" rx="12" fill="#0B2A37" fill-opacity=".55" stroke="#B09020" stroke-opacity=".28"/><circle cx="24" cy="24" r="10.5" fill="none" stroke="#B09020" stroke-width="1.5"/><text x="24" y="28.5" class="pn" text-anchor="middle">3</text><text x="43" y="29" class="ps">計畫設計與驗證</text><text x="16" y="56" class="sl">醫師逐層畫靶區</text><text x="16" y="74" class="sl">物理師實測驗證</text></g><text x="380.0" y="199" class="par" text-anchor="middle">⌄</text><rect x="0" y="208" width="760" height="152" rx="16" fill="#B09020" fill-opacity=".06" stroke="#B09020" stroke-opacity=".32"/><text x="14" y="234" class="pw">治療期</text><text x="746" y="234" class="pd" text-anchor="end">數天至數週</text><g transform="translate(14,248)"><rect x="0" y="0" width="236" height="98" rx="12" fill="#0B2A37" fill-opacity=".55" stroke="#B09020" stroke-opacity=".28"/><circle cx="24" cy="24" r="10.5" fill="none" stroke="#B09020" stroke-width="1.5"/><text x="24" y="28.5" class="pn" text-anchor="middle">4</text><text x="43" y="29" class="ps">第一次治療</text><text x="16" y="56" class="sl">影像對位確認</text><text x="16" y="74" class="sl">花的時間比較長</text></g><text x="256" y="304" class="par" text-anchor="middle">›</text><g transform="translate(262,248)"><rect x="0" y="0" width="236" height="98" rx="12" fill="#0B2A37" fill-opacity=".55" stroke="#B09020" stroke-opacity=".28"/><circle cx="24" cy="24" r="10.5" fill="none" stroke="#B09020" stroke-width="1.5"/><text x="24" y="28.5" class="pn" text-anchor="middle">5</text><text x="43" y="29" class="ps">每日照射</text><text x="16" y="56" class="sl">週一至週五</text><text x="16" y="74" class="sl">在機器上約 10–20 分鐘</text></g><text x="504" y="304" class="par" text-anchor="middle">›</text><g transform="translate(510,248)"><rect x="0" y="0" width="236" height="98" rx="12" fill="#0B2A37" fill-opacity=".55" stroke="#B09020" stroke-opacity=".28"/><circle cx="24" cy="24" r="10.5" fill="none" stroke="#B09020" stroke-width="1.5"/><text x="24" y="28.5" class="pn" text-anchor="middle">6</text><text x="43" y="29" class="ps">每週回診</text><text x="16" y="56" class="sl">評估副作用</text><text x="16" y="74" class="sl">必要時調整</text></g><text x="380.0" y="373" class="par" text-anchor="middle">⌄</text><rect x="0" y="382" width="760" height="152" rx="16" fill="#B09020" fill-opacity=".06" stroke="#B09020" stroke-opacity=".32"/><text x="14" y="408" class="pw">結束之後</text><text x="746" y="408" class="pd" text-anchor="end">持續追蹤</text><g transform="translate(14,422)"><rect x="0" y="0" width="360" height="98" rx="12" fill="#0B2A37" fill-opacity=".55" stroke="#B09020" stroke-opacity=".28"/><circle cx="24" cy="24" r="10.5" fill="none" stroke="#B09020" stroke-width="1.5"/><text x="24" y="28.5" class="pn" text-anchor="middle">7</text><text x="43" y="29" class="ps">療程結束</text><text x="16" y="56" class="sl">急性副作用通常</text><text x="16" y="74" class="sl">還會再持續 1–2 週</text></g><text x="380" y="478" class="par" text-anchor="middle">›</text><g transform="translate(386,422)"><rect x="0" y="0" width="360" height="98" rx="12" fill="#0B2A37" fill-opacity=".55" stroke="#B09020" stroke-opacity=".28"/><circle cx="24" cy="24" r="10.5" fill="none" stroke="#B09020" stroke-width="1.5"/><text x="24" y="28.5" class="pn" text-anchor="middle">8</text><text x="43" y="29" class="ps">定期追蹤</text><text x="16" y="56" class="sl">影像與門診</text><text x="16" y="74" class="sl">依癌別安排間隔</text></g></svg></figure>
@@ -426,8 +440,9 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       <p><b>每週會看一次診。</b>這不是形式，是要看皮膚、黏膜、體重與血球的變化，必要時調整支持治療。有任何不舒服不要等到下次回診——直接告訴治療師或打電話回來。</p>
       <p><b>結束不等於馬上恢復。</b>急性副作用通常在療程結束後<b>還會再持續一到兩週</b>才慢慢改善，這是正常的，不代表治療失敗。之後進入影像與門診的定期追蹤，間隔依癌別與治療目標安排。</p>
       <p class="srcline">實際流程與所需天數依院所、癌別與治療技術而不同，以你的治療團隊說明為準。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="workflow">#療程流程</a><a class="tagchip" href="#" data-jump="prep">#就醫準備</a></div>
   </details>
-  <details>
+  <details data-tags="prep workflow">
     <summary>第一次來門診要帶什麼？</summary>
     <p>帶得越齊，第一次就能談得越具體：</p>
       <p>• 健保卡、身分證件、轉診單（若有）<br>
@@ -438,27 +453,34 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       • 若曾接受過放射治療：<b>前次的治療計畫與劑量報告</b><br>
       • 體內有心律調節器、金屬植入物、人工電子裝置者請主動告知（與熱治療的安全評估直接相關）</p>
       <p>建議帶一位家屬同行，兩個人聽會記得比較完整。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="prep">#就醫準備</a><a class="tagchip" href="#" data-jump="workflow">#療程流程</a></div>
   </details>
+  </div>
+  <div class="faqgroup">
   <h3 class="faq-cat">療程中的日常</h3>
-  <details>
+  <details data-tags="daily sideeffect">
     <summary>電療會不會很痛？</summary>
     <p>照射的當下沒有感覺，就像照 X 光一樣，人躺著不動、機器在旁邊轉。單次照射通常十幾分鐘就結束。比較需要留意的是療程中後期可能出現的皮膚反應或黏膜不適，這些我們會一起處理。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="daily">#療程中的生活</a><a class="tagchip" href="#" data-jump="sideeffect">#副作用</a></div>
   </details>
-  <details>
+  <details data-tags="workflow daily">
     <summary>需要住院嗎？要做多久？</summary>
     <p>大部分療程是在門診進行——每天來醫院照一次、做完就回家，通常週一到週五、持續數週。實際次數依癌別與治療目標而不同。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="workflow">#療程流程</a><a class="tagchip" href="#" data-jump="daily">#療程中的生活</a></div>
   </details>
-  <details>
+  <details data-tags="daily work">
     <summary>療程期間可以上班嗎？可以自己開車來嗎？</summary>
     <p>多數人可以。放射治療本身不會讓你失去開車或工作的能力，治療完就能自行離開，不需要有人接送（除非另有使用鎮靜藥物或較強的止痛藥）。實務上比較常見的困擾是<b>療程中後期的疲倦感</b>，以及頭頸部治療到後段的口腔黏膜不適，這時候體力和進食狀況會影響工作表現。</p>
       <p>建議的做法是：把治療固定排在一天中同一個時段（例如早上第一批或下班前），讓工作與療程都好安排；並事先預留療程後段可能需要減量或請假的彈性。體力勞動較重、或需要長時間說話的工作，可以提早跟公司討論調整。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="daily">#療程中的生活</a><a class="tagchip" href="#" data-jump="work">#工作與交通</a></div>
   </details>
-  <details>
+  <details data-tags="nutrition supplement daily">
     <summary>治療期間該怎麼吃？需要忌口或補品嗎？</summary>
     <p>第一優先是<b>吃得夠</b>——熱量和蛋白質。頭頸部治療期間體重掉太多，會影響擺位精準度、也可能被迫中斷療程，這比吃什麼更關鍵。民間常聽到的「不能吃雞、不能吃鴨、不能吃海鮮」並沒有實證根據，不需要因此把營養來源砍掉。真正該避免的是療程期間的菸和酒。</p>
       <p>需要留意的是<b>高劑量抗氧化補充劑</b>。針對頭頸癌病人的隨機試驗發現，放療期間補充高劑量維生素 E 與 β-胡蘿蔔素，局部復發風險反而較高（Bairati et al., <i>J Clin Oncol</i> 2005）。放射治療有一部分正是透過氧化反應殺死癌細胞，額外的高劑量抗氧化劑可能干擾這個機轉。中草藥與保健食品也一樣——不是全部不能用，但請把你正在吃的東西整包帶來門診，讓我們一起看過。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="nutrition">#飲食營養</a><a class="tagchip" href="#" data-jump="supplement">#保健補充品</a><a class="tagchip" href="#" data-jump="daily">#療程中的生活</a></div>
   </details>
-  <details>
+  <details data-tags="supplement nutrition sideeffect headneck">
     <summary>左旋麩醯胺酸（L-glutamine）要不要吃？</summary>
     <p>麩醯胺酸是一種胺基酸，在放療與化療病人之間流傳得很廣，門診幾乎每週都有人拿著罐子來問。它<b>不是藥，是自費的營養補充品</b>，健保不給付，一個療程下來費用不低——所以值得先把證據看清楚再決定。</p>
       <p>目前最完整的證據來自 2021 年《Head &amp; Neck》的一篇統合分析，整理了 <b>11 篇隨機對照試驗、922 位頭頸癌病人</b>。結果分成兩半，兩半都要看。</p>
@@ -468,8 +490,9 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       <p><b>實務上怎麼做。</b>試驗中常用的劑量大約是一天 30 公克、分三次，含漱後吞下，通常從療程開始前後就使用。口服一般耐受良好，但肝腎功能異常的人需要先評估。<b>要不要吃、什麼時候開始、吃多久，請在門診跟我或營養師討論</b>——連同你正在吃的其他保健品一起，整包帶來最快。</p>
       <p>最後一句：它是「減輕」，不是「避免」。吃了之後，口腔清潔、營養與熱量攝取、按時回診看黏膜狀況，一樣都不能少。</p>
       <p class="srcline">依據：<a href="https://pubmed.ncbi.nlm.nih.gov/34240498/" target="_blank" rel="noopener">Alsubaie 等人，放射線引起口腔黏膜炎的麩醯胺酸統合分析（Head &amp; Neck, 2021）</a>、<a href="https://mascc.org/resources/mascc-guidelines/" target="_blank" rel="noopener">MASCC／ISOO 黏膜炎臨床實務指引</a>。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="supplement">#保健補充品</a><a class="tagchip" href="#" data-jump="nutrition">#飲食營養</a><a class="tagchip" href="#" data-jump="sideeffect">#副作用</a><a class="tagchip" href="#" data-jump="headneck">#頭頸癌</a></div>
   </details>
-  <details>
+  <details data-tags="skincare sideeffect daily">
     <summary>治療期間，照射部位的皮膚要怎麼保養？</summary>
     <p>先講最常被搞錯的一件事：<b>可以洗</b>。「照射部位不能碰水」是流傳很久的錯誤觀念。一份統合分析整理了隨機試驗結果，療程期間正常清洗的病人，<b>嚴重皮膚炎（勝算比 0.32）與濕性脫皮（0.25）反而顯著較少</b>。用溫水和溫和、無香精的清潔品輕輕洗，洗完用毛巾按乾，不要搓、不要去角質。</p>
       <p><b>每天保濕。</b>選無香精的乳液或乳霜，一天一到兩次。目前沒有任何一種產品被證明明顯優於其他，好用、不刺激、你願意天天擦的就是好的。治療前不需要特地不擦——但也不要在進治療室前塗厚厚一層，把照射區擦乾淨、不留厚層即可。</p>
@@ -484,35 +507,76 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       <p>為什麼一定要先討論：<b>這些不是保養品，是介入措施。</b>敷料貼在照射路徑上會改變表面劑量分布；類固醇藥膏有使用時機、部位與療程長度的限制，皮膚已經破皮時的處理方式也不同；適不適合還要看你的照射部位、劑量與目前的皮膚狀況。<b>請不要自己買來用，也不要沿用別人的經驗。</b>需要的話，我們會在門診評估後開立或由治療團隊為你貼附。</p>
       <p>如果出現<b>皮膚破皮、滲液</b>（濕性脫皮），請盡快讓治療團隊看到，通常用敷料就能處理好。不要自行塗成藥、偏方或不明來源的藥膏。</p>
       <p class="srcline">依據：<a href="https://link.springer.com/article/10.1007/s00520-023-07720-8" target="_blank" rel="noopener">清洗與皮膚衛生的系統性回顧與統合分析（Supportive Care in Cancer, 2023）</a>、<a href="https://pubmed.ncbi.nlm.nih.gov/36990615/" target="_blank" rel="noopener">MASCC 急性放射性皮膚炎預防與處置指引（2023）</a>、<a href="https://www.sciencedirect.com/science/article/abs/pii/S0360301609000169" target="_blank" rel="noopener">腋下除臭劑使用的隨機非劣效試驗（IJROBP, 2009）</a>。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="skincare">#皮膚照護</a><a class="tagchip" href="#" data-jump="sideeffect">#副作用</a><a class="tagchip" href="#" data-jump="daily">#療程中的生活</a></div>
   </details>
-  <details>
+  <details data-tags="sideeffect daily">
     <summary>會掉頭髮嗎？</summary>
     <p>放射治療只影響「被照射到的範圍」，不像化療是全身性的。所以除非照射部位就在頭皮，否則不會全身掉髮。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="sideeffect">#副作用</a><a class="tagchip" href="#" data-jump="daily">#療程中的生活</a></div>
   </details>
-  <details>
+  <details data-tags="radsafety daily">
     <summary>我做完電療，回家會不會輻射到家人小孩？</summary>
     <p>不會。一般的放射治療（包含質子治療）是<b>體外照射</b>——射線由機器產生，機器關掉就沒有了，身上不會殘留放射性。療程期間可以正常跟家人同住、同桌吃飯、抱小孩、跟另一半同床，不需要隔離，也不需要分開碗筷。</p>
       <p>會需要注意的是另外一類治療：例如甲狀腺癌的<b>放射碘</b>、以及某些把射源放進體內的<b>近接治療</b>。那些有各自的防護規定，若你的療程包含這些，團隊一定會事先個別說明。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="radsafety">#輻射安全</a><a class="tagchip" href="#" data-jump="daily">#療程中的生活</a></div>
   </details>
+  </div>
+  <div class="faqgroup">
   <h3 class="faq-cat">蟹足腫與皮膚病灶（SRT）</h3>
-  <details>
+  <details data-tags="keloid srt sideeffect skincare">
     <summary>SRT 治療後皮膚會變色嗎？</summary>
     <p><b>色素變化是最常見的反應。</b>在一份追蹤 96 個蟹足腫病灶的研究中，約六成出現程度不一的色素改變（多數是變深），約兩成出現放射性皮膚炎，少數有暫時的搔癢或疼痛。</p>
       <p>多數色素變化會隨時間慢慢淡化，但膚色較深的人變化通常更明顯、也更持久。這是治療前需要一起衡量的取捨，特別是病灶位置在容易看見的地方時。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="keloid">#蟹足腫</a><a class="tagchip" href="#" data-jump="srt">#淺層放射治療 SRT</a><a class="tagchip" href="#" data-jump="sideeffect">#副作用</a><a class="tagchip" href="#" data-jump="skincare">#皮膚照護</a></div>
   </details>
-  <details>
+  <details data-tags="keloid srt radsafety">
     <summary>照 SRT 會不會有輻射風險？會不會因此得癌症？</summary>
     <p>SRT 的能量低、照射範圍侷限在病灶本身、深度只有幾公釐。成人接受這類治療的續發性惡性腫瘤風險被認為<b>極低</b>，文獻上屬於零星個案報告的等級。</p>
       <p>但這不代表對每個人都一樣。<b>兒童與青少年、懷孕中、以及病灶靠近甲狀腺或乳房</b>的情況，需要更謹慎的個別評估，必要時會建議改用其他方式處理。這一定會在治療前先討論清楚。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="keloid">#蟹足腫</a><a class="tagchip" href="#" data-jump="srt">#淺層放射治療 SRT</a><a class="tagchip" href="#" data-jump="radsafety">#輻射安全</a></div>
   </details>
-  <details>
+  <details data-tags="keloid srt prep decision">
     <summary>想處理蟹足腫，該先掛哪一科？</summary>
     <p>可以<b>直接掛我的門診</b>。帶著病灶（或清楚的照片）與過去的治療紀錄來評估就可以，不需要先自己跑一輪。</p>
       <p>如果判斷適合「切除＋術後照射」，我會協助轉介外科安排手術，並且把照射時段跟刀期排在一起——這一步的協調正是成敗關鍵，不需要你自己在兩科之間來回跑。</p>
       <p>如果你<b>已經有預定的手術</b>，請盡早讓我知道刀期，才有辦法把術後 24 小時內的照射排進去。手術做完才開始安排，時間窗口通常就過了。</p>
+    <div class="taglist faqtags"><a class="tagchip" href="#" data-jump="keloid">#蟹足腫</a><a class="tagchip" href="#" data-jump="srt">#淺層放射治療 SRT</a><a class="tagchip" href="#" data-jump="prep">#就醫準備</a><a class="tagchip" href="#" data-jump="decision">#治療決策</a></div>
   </details>
+  </div>
   <p class="note">以上為一般性衛教說明，不能取代面對面的診療。每個人的病況、期別與身體狀況都不同，實際治療方式請與您的主治醫師討論。</p>
 </section>
+
+<script>
+(function(){
+  var bar=document.getElementById('tagbar'); if(!bar) return;
+  var items=[].slice.call(document.querySelectorAll('details[data-tags]'));
+  var groups=[].slice.call(document.querySelectorAll('.faqgroup'));
+  var btns=[].slice.call(bar.querySelectorAll('.tagf'));
+  var empty=document.getElementById('tagempty');
+  function apply(tag){
+    var shown=0;
+    items.forEach(function(d){
+      var ok=!tag||(' '+d.getAttribute('data-tags')+' ').indexOf(' '+tag+' ')>=0;
+      d.hidden=!ok; if(ok) shown++; if(!ok) d.open=false;
+    });
+    groups.forEach(function(g){ g.hidden=!g.querySelector('details:not([hidden])'); });
+    btns.forEach(function(b){ b.classList.toggle('on',(b.getAttribute('data-tag')||'')===(tag||'')); });
+    if(empty) empty.hidden=shown>0;
+    try{ var u=new URL(location.href);
+      if(tag) u.searchParams.set('tag',tag); else u.searchParams.delete('tag');
+      history.replaceState(null,'',u); }catch(e){}
+  }
+  btns.forEach(function(b){ b.addEventListener('click',function(){ apply(b.getAttribute('data-tag')); }); });
+  document.addEventListener('click',function(e){
+    var a=e.target.closest && e.target.closest('a[data-jump]');
+    if(!a) return; e.preventDefault();
+    apply(a.getAttribute('data-jump'));
+    bar.scrollIntoView({behavior:'smooth',block:'start'});
+  });
+  var init=''; try{ init=new URL(location.href).searchParams.get('tag')||''; }catch(e){}
+  if(init) apply(init);
+})();
+</script>
 
 </main>
 
