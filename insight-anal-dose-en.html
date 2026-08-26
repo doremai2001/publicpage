@@ -3,10 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nine gray less, and the result held ｜ Urologic & GI · Insights ｜ Dr. Robert J.-Y. Wu</title>
+<title>Nine gray less, and the result held ｜ Urologic &amp; GI · Insights ｜ Dr. Robert J.-Y. Wu</title>
 <meta name="description" content="PLATO-ACT4: cutting the dose from 50.4 Gy to 41.4 Gy in early anal cancer gave comparable response at six months, less acute toxicity and better sexual function.">
 <meta property="og:type" content="profile">
-<meta property="og:title" content="Nine gray less, and the result held ｜ Urologic & GI · Insights ｜ Dr. Robert J.-Y. Wu">
+<meta property="og:title" content="Nine gray less, and the result held ｜ Urologic &amp; GI · Insights ｜ Dr. Robert J.-Y. Wu">
 <meta property="og:description" content="PLATO-ACT4: cutting the dose from 50.4 Gy to 41.4 Gy in early anal cancer gave comparable response at six months, less acute toxicity and better sexual function.">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Dr. Robert J.-Y. Wu ｜ Radiation Oncology">
@@ -286,7 +286,9 @@ details p:last-child{padding-bottom:20px}
 .tagf:hover{opacity:1;border-color:var(--gold);background:rgba(176,144,32,.14)}
 .tagf.on{background:var(--gold);border-color:var(--gold);color:#0B2A37;opacity:1;font-weight:500}
 .tagf.on i{opacity:.7}
-.postgroup[hidden],.postcard[hidden]{display:none}
+.postgroup[hidden],.postcard[hidden],.faqgroup[hidden],details[hidden]{display:none}
+.faqtags{margin:2px 0 18px;padding-left:2px}
+.faqtags .tagchip{font-size:.72rem;padding:4px 11px;cursor:pointer}
 
 /* ---------- clinic / buttons ---------- */
 .clinic{border:1px solid rgba(176,144,32,.4);border-radius:16px;
@@ -351,6 +353,40 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
   .badge .stats{gap:7px}
   .foot-top{flex-direction:column;gap:20px}
 }
+
+/* ---------- 長文：清單、段落間距 ---------- */
+.body-html ul,.body-html ol{margin:0 0 24px;padding-left:0;list-style:none}
+.body-html ol{counter-reset:hnli}
+.body-html li{position:relative;padding-left:26px;margin-bottom:10px}
+.body-html li p{margin:0;font-size:.95rem;line-height:2.05;opacity:.88}
+.body-html ul>li::before{content:"";position:absolute;left:6px;top:.95em;
+  width:5px;height:5px;border-radius:50%;background:var(--gold);opacity:.8}
+.body-html ol>li{counter-increment:hnli}
+.body-html ol>li::before{content:counter(hnli);position:absolute;left:0;top:.15em;
+  font-family:Georgia,serif;font-size:.85rem;color:var(--gold-light);opacity:.85}
+.body-html h4+p{margin-top:-2px}
+.body-html strong{color:#EFE4C4;font-weight:500}
+
+/* ---------- 專題入口：四個階段 ---------- */
+.hnstep h3{display:flex;align-items:baseline;gap:12px}
+.hnstep h3 b{font-family:Georgia,serif;font-weight:400;font-size:.95rem;color:#0B2A37;
+  background:var(--gold);border-radius:50%;width:26px;height:26px;flex:0 0 26px;
+  display:inline-flex;align-items:center;justify-content:center;line-height:1}
+.stepsub{font-size:.85rem;line-height:1.9;opacity:.55;margin:-6px 0 18px;padding-left:38px}
+@media (max-width:700px){.stepsub{padding-left:0}}
+
+/* ---------- 上一篇／下一篇 ---------- */
+.pnav{display:flex;gap:14px;justify-content:space-between;margin:34px 0 8px;
+  padding-top:26px;border-top:1px solid var(--line)}
+.pnav a{flex:1 1 0;max-width:48%;text-decoration:none;font-size:.9rem;line-height:1.7;
+  color:var(--ivory);opacity:.85;border:1px solid rgba(176,144,32,.28);border-radius:12px;
+  padding:14px 16px;transition:.16s}
+.pnav a:hover{border-color:var(--gold);background:rgba(176,144,32,.1);opacity:1}
+.pnav a span{display:block;font-size:.68rem;letter-spacing:.2em;color:var(--gold);
+  opacity:.8;margin-bottom:6px}
+.pnav a.nx{text-align:right}
+@media (max-width:640px){.pnav{flex-direction:column}.pnav a{max-width:100%}}
+
 </style>
 </head>
 <body>
@@ -374,6 +410,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       <li><a href="index-en.html">Home</a></li>
       <li><a href="expertise-en.html">Expertise</a></li>
       <li><a href="faq-en.html">Patient FAQ</a></li>
+      <li><a href="hn-en.html">H&amp;N Guide</a></li>
       <li><a href="insights-en.html" class="on">Insights</a></li>
       <li><a href="about-en.html">About</a></li>
     </ul>
@@ -426,6 +463,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
         <a href="index-en.html">Home</a>
         <a href="expertise-en.html">Expertise</a>
         <a href="faq-en.html">Patient FAQ</a>
+        <a href="hn-en.html">H&amp;N Guide</a>
         <a href="insights-en.html">Insights</a>
         <a href="about-en.html">About</a>
         <a href="https://www.wanfang.gov.tw/departments/team/71a998a727811d63" target="_blank" rel="noopener">Official appointment booking ↗</a>
