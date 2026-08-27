@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="920" viewBox="0 0 1440 920" role="img" aria-labelledby="title desc">
+  <title id="title">確診後的三、四週，多項檢查與準備會平行進行</title>
+  <desc id="desc">從切片確診後，病理確認、影像與內視鏡分期、牙科營養與身體評估可平行進行，資料到齊後進入多專科團隊討論並形成治療計畫。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A2731"/>
+      <stop offset="1" stop-color="#123D48"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#041318" flood-opacity=".25"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#C9A83E"/>
+    </marker>
+    <style>
+      .zh { font-family: "Noto Sans TC", "Microsoft JhengHei", sans-serif; }
+      .serif { font-family: "Noto Serif TC", "Microsoft JhengHei", serif; }
+      .title { fill:#F5F0E3; font-size:52px; font-weight:700; letter-spacing:1px; }
+      .sub { fill:#AFC3C5; font-size:25px; }
+      .card-title { fill:#F5F0E3; font-size:29px; font-weight:700; }
+      .card-body { fill:#C8D7D7; font-size:21px; }
+      .small { fill:#9FB7BA; font-size:18px; }
+      .step { fill:#0A2731; font-size:22px; font-weight:800; }
+    </style>
+  </defs>
+
+  <rect width="1440" height="920" rx="36" fill="url(#bg)"/>
+  <circle cx="1275" cy="80" r="310" fill="none" stroke="#31535A" stroke-width="2" opacity=".45"/>
+  <circle cx="1275" cy="80" r="230" fill="none" stroke="#C9A83E" stroke-width="2" opacity=".18"/>
+
+  <g class="zh">
+    <text x="92" y="92" class="small" fill="#C9A83E" style="letter-spacing:5px">AFTER THE DIAGNOSIS</text>
+    <text x="92" y="160" class="title serif">不是在「乾等」，是幾條線同時往前走</text>
+    <text x="92" y="207" class="sub">實際順序會依癌別、病況與醫院調整；重點是該有的資訊到齊，再決定整套治療。</text>
+
+    <g filter="url(#shadow)">
+      <rect x="92" y="320" width="208" height="205" rx="24" fill="#F3EDDE"/>
+      <circle cx="142" cy="370" r="25" fill="#C9A83E"/>
+      <text x="142" y="378" text-anchor="middle" class="step">1</text>
+      <text x="126" y="431" fill="#143641" font-size="30" font-weight="800">切片確診</text>
+      <text x="126" y="470" fill="#46636A" font-size="20">啟動後續分期</text>
+      <text x="126" y="498" fill="#46636A" font-size="20">與治療前準備</text>
+    </g>
+
+    <path d="M315 422 H370" stroke="#C9A83E" stroke-width="5" marker-end="url(#arrow)"/>
+    <path d="M360 422 V316 M360 422 V682" stroke="#6D8588" stroke-width="3" opacity=".8"/>
+
+    <g filter="url(#shadow)">
+      <rect x="395" y="258" width="455" height="165" rx="24" fill="#173F49" stroke="#3B626A" stroke-width="2"/>
+      <circle cx="443" cy="305" r="23" fill="#C9A83E"/>
+      <text x="443" y="313" text-anchor="middle" class="step">A</text>
+      <text x="485" y="316" class="card-title">病理確認</text>
+      <text x="435" y="361" class="card-body">細胞類型、分化程度</text>
+      <text x="435" y="393" class="card-body">口咽癌依情況加做 p16</text>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="395" y="453" width="455" height="165" rx="24" fill="#173F49" stroke="#3B626A" stroke-width="2"/>
+      <circle cx="443" cy="500" r="23" fill="#C9A83E"/>
+      <text x="443" y="508" text-anchor="middle" class="step">B</text>
+      <text x="485" y="511" class="card-title">影像與內視鏡分期</text>
+      <text x="435" y="556" class="card-body">頭頸部 MRI 或 CT</text>
+      <text x="435" y="588" class="card-body">必要時 PET、黏膜表面檢查</text>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="395" y="648" width="455" height="165" rx="24" fill="#173F49" stroke="#3B626A" stroke-width="2"/>
+      <circle cx="443" cy="695" r="23" fill="#C9A83E"/>
+      <text x="443" y="703" text-anchor="middle" class="step">C</text>
+      <text x="485" y="706" class="card-title">治療前準備</text>
+      <text x="435" y="751" class="card-body">牙科、營養、抽血、心肺功能</text>
+      <text x="435" y="783" class="card-body">很多項目可與影像平行進行</text>
+    </g>
+
+    <path d="M870 340 H932 M870 535 H932 M870 730 H932" stroke="#6D8588" stroke-width="3"/>
+    <path d="M930 340 V730" stroke="#6D8588" stroke-width="3"/>
+    <path d="M930 535 H985" stroke="#C9A83E" stroke-width="5" marker-end="url(#arrow)"/>
+
+    <g filter="url(#shadow)">
+      <rect x="1010" y="374" width="338" height="323" rx="28" fill="#F3EDDE"/>
+      <circle cx="1179" cy="439" r="37" fill="#C9A83E"/>
+      <path d="M1160 444 h38 M1166 432 h26 M1172 420 h14" stroke="#0A2731" stroke-width="5" stroke-linecap="round"/>
+      <text x="1179" y="516" text-anchor="middle" fill="#143641" font-size="31" font-weight="800">多專科團隊討論</text>
+      <text x="1179" y="561" text-anchor="middle" fill="#46636A" font-size="21">把病理、影像、身體狀況</text>
+      <text x="1179" y="593" text-anchor="middle" fill="#46636A" font-size="21">與病人的需求放在一起</text>
+      <rect x="1060" y="625" width="238" height="46" rx="23" fill="#143641"/>
+      <text x="1179" y="656" text-anchor="middle" fill="#F5F0E3" font-size="21" font-weight="700">形成治療計畫 → 開始治療</text>
+    </g>
+
+    <text x="92" y="870" class="small">依文章參考資料 [7] 臺北醫學大學醫療體系《頭頸癌診療指引（113 年版）》整理｜資訊圖為原創重繪</text>
+  </g>
+</svg>

@@ -210,6 +210,21 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- article figures ---------- */
+.article-figure{width:min(1080px,calc(100vw - 48px));margin:36px 50% 42px;
+  transform:translateX(-50%)}
+.article-figure.hero{width:min(920px,calc(100vw - 48px));margin-top:10px}
+.article-figure img{display:block;width:100%;height:auto;border-radius:18px;
+  border:1px solid rgba(176,144,32,.28);box-shadow:0 18px 46px rgba(0,0,0,.22)}
+.article-figure figcaption{max-width:760px;margin:12px auto 0;font-size:.78rem;
+  line-height:1.8;letter-spacing:.03em;opacity:.62;text-align:center}
+@media (max-width:620px){
+  .article-figure,.article-figure.hero{width:calc(100vw - 28px);margin-top:28px;margin-bottom:34px}
+  .article-figure.hero{margin-top:4px}
+  .article-figure img{border-radius:14px}
+  .article-figure figcaption{padding:0 8px;font-size:.75rem;text-align:left}
+}
+
 /* ---------- charts ---------- */
 .chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
   background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
@@ -449,6 +464,11 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="leadbox"><p>很多人確診後的第一個月是在等檢查中度過的，一天一天過去，心裡越來越慌。我想把這段時間攤開來講：哪幾件事非做不可、多專科團隊會議在做什麼，還有這幾週你唯一真正能自己動手的事。</p></div>
 
+    <figure class="article-figure hero">
+      <img src="fig-hn-first-week-1.webp" width="1536" height="1024" loading="eager" decoding="async" alt="頭頸癌病人依序接受病理、影像、口腔與營養評估，最後由多專科團隊共同討論治療計畫的插畫">
+      <figcaption>確診後的幾週，不同檢查與評估會逐步匯整，最後由團隊形成完整治療計畫。</figcaption>
+    </figure>
+
     <div class="body-html">
 <p>確診之後的第一個月，最難的通常不是治療，是等。切片報告出來了，接著醫師說要排磁振造影、要排正子、要照胃鏡、要看牙科、要等多專科團隊會議——每一件事都要幾天，而腫瘤就在嘴裡、在脖子上，你每天都摸得到。我在門診聽最多次的一句話是：「這樣一直檢查下去，會不會來不及？」</p>
 
@@ -464,11 +484,27 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
 <p>這裡要誠實：這兩份都是回溯性的登記資料。病情越複雜、需要跨科處理的人，本來就查得越久、預後也本來就比較差，這個混淆到現在沒有解乾淨。所以正確的說法是「間隔拉長與存活變差有關」，不是「等待害死人」。HR 1.13 也是族群層次的數字，不能翻譯成「你多等兩個月就多 13% 會死」。</p>
 
+<figure class="article-figure">
+  <picture>
+    <source media="(max-width:620px)" srcset="fig-hn-first-week-2-mobile.svg">
+    <img src="fig-hn-first-week-2.svg" width="1440" height="920" loading="lazy" decoding="async" alt="確診後的等待證據圖：完整檢查能避免走錯療程，但診斷到治療間隔過長與較差存活相關，重點是有目標地完成必要檢查">
+  </picture>
+  <figcaption>等待不是零成本，但研究顯示的是族群層次的關聯；目標是把必要資訊有效率地補齊，而非犧牲分期完整度。</figcaption>
+</figure>
+
 <h4>多專科團隊會議，在台灣不是禮貌，是認證規定</h4>
 
 <p>很多病人不知道自己的病例會被一群醫師一起討論。衛生福利部的癌症診療品質認證基準把這件事寫成硬規定：新診斷癌症未滿 50 例的醫院，多專科團隊會議每月至少一次；50 至 499 例每月兩次；500 例以上每週一次。而且每一個癌別的新病人，至少 <strong>20%</strong> 要提到會議上討論，其中至少 <strong>15%</strong> 必須在治療開始之前討論。個案管理師的配置也有規定，每 350 位新病人一位，第一年受訓至少 50 小時<a href="https://exdep.edah.org.tw/edccc/images/Quality_certification/2022_standards_and_scoring.pdf" target="_blank" rel="noopener"><sup class="cit">[4]</sup></a>。</p>
 
 <p>會議真的會改變事情。一份前瞻記錄 120 例連續頭頸部腫瘤會議個案的研究顯示，大約 <strong>27%</strong> 的病例在會後出現診斷、分期或治療計畫的改變；惡性腫瘤的治療計畫改變率 24%，良性腫瘤只有 6%（p=0.0199），而且改變的方向以「加強成多模式治療」為主（p=0.0084）<a href="https://pubmed.ncbi.nlm.nih.gov/20974334/" target="_blank" rel="noopener"><sup class="cit">[5]</sup></a>。四分之一的計畫會被改，這是我請病人不要嫌會議慢的主要理由。</p>
+
+<figure class="article-figure">
+  <picture>
+    <source media="(max-width:620px)" srcset="fig-hn-first-week-3-mobile.svg">
+    <img src="fig-hn-first-week-3.svg" width="1440" height="860" loading="lazy" decoding="async" alt="多專科團隊會議圖：外科、放射腫瘤科、腫瘤內科、影像與病理、牙科、營養及個案管理共同整合診斷、分期與治療計畫">
+  </picture>
+  <figcaption>多專科會議把不同專業的判讀放在同一張桌上；研究中約 27% 的診斷、分期或治療計畫因此改變。</figcaption>
+</figure>
 
 <p>另外有一份 224 人的前後對照研究，開始舉行團隊會議之後，五年疾病特異存活從 52% 上升到 75%（p=.003），配對後的死亡風險比 0.48<a href="https://pubmed.ncbi.nlm.nih.gov/31095740/" target="_blank" rel="noopener"><sup class="cit">[6]</sup></a>。這個數字漂亮到不太可信，作者自己也寫了原因：同一段時間，醫院聘進了一位受過頭頸部次專科訓練的外科醫師。那到底是會議的功勞還是那位醫師的功勞，這種設計分不出來。我把它放在這裡是因為方向一致，不是因為它證明了什麼。</p>
 
@@ -483,6 +519,14 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 <li><p>牙科會診、營養評估、抽血與心肺功能。這幾件事可以跟影像平行跑，不必排隊等。</p></li>
 <li><p>多專科團隊會議，然後才是治療計畫與同意書。</p></li>
 </ul>
+
+<figure class="article-figure">
+  <picture>
+    <source media="(max-width:620px)" srcset="fig-hn-first-week-4-mobile.svg">
+    <img src="fig-hn-first-week-4.svg" width="1440" height="900" loading="lazy" decoding="async" alt="頭頸癌確診後流程圖：病理確認後，影像分期、內視鏡、牙科與營養評估可平行進行，資料完整後進入多專科會議並形成治療計畫">
+  </picture>
+  <figcaption>實際排程依醫院而異，但影像、內視鏡、牙科與營養評估常能平行進行，最後再匯入團隊會議。</figcaption>
+</figure>
 
 <p>台灣各中心在制定院內指引時普遍參考 NCCN 的頭頸癌臨床指引，該指引依口腔、口咽、下咽、鼻咽與喉部各次部位分開處理，而且每年改版好幾次<a href="https://www.nccn.org/guidelines/guidelines-detail?category=1&amp;id=1437" target="_blank" rel="noopener"><sup class="cit">[8]</sup></a>。如果你想知道自己的醫院照什麼標準走，這是可以直接問個管師的問題。</p>
 

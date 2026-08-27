@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1580" viewBox="0 0 720 1580" role="img" aria-labelledby="title desc">
+  <title id="title">多專科團隊把各科答案合成一個治療計畫</title>
+  <desc id="desc">病人位於中心，周圍包含外科、放射腫瘤、腫瘤內科、影像、病理、牙科營養與個案管理等角色。</desc>
+  <defs><radialGradient id="b" cx="50%" cy="35%" r="80%"><stop stop-color="#164652"/><stop offset="1" stop-color="#082730"/></radialGradient><filter id="s" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="9" stdDeviation="13" flood-color="#021114" flood-opacity=".35"/></filter><style>.z{font-family:"Noto Sans TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Microsoft JhengHei",serif}.t{fill:#F4EFE3;font-size:47px;font-weight:900}.sub{fill:#ABC1C3;font-size:23px}.node{fill:#F4EFE3;font-size:25px;font-weight:900}.sm{fill:#91ADB1;font-size:18px}</style></defs>
+  <rect width="720" height="1580" rx="34" fill="url(#b)"/>
+  <g class="z">
+    <text x="54" y="70" fill="#C9A83E" font-size="18" font-weight="900" letter-spacing="4">MULTIDISCIPLINARY CARE</text>
+    <text x="54" y="137" class="t r">把各科答案</text><text x="54" y="197" class="t r">合成一個治療計畫</text>
+    <text x="54" y="247" class="sub">部位、侵犯深度、淋巴結與身體狀況都會影響選擇。</text>
+
+    <g stroke="#607D82" stroke-width="3" opacity=".65"><line x1="360" y1="525" x2="175" y2="755"/><line x1="360" y1="525" x2="545" y2="755"/><line x1="360" y1="525" x2="175" y2="995"/><line x1="360" y1="525" x2="545" y2="995"/><line x1="360" y1="525" x2="175" y2="1235"/><line x1="360" y1="525" x2="545" y2="1235"/></g>
+    <g filter="url(#s)"><circle cx="360" cy="510" r="160" fill="#F2ECDE" stroke="#C9A83E" stroke-width="6"/><circle cx="360" cy="460" r="35" fill="#C9A83E"/><path d="M290 560q70-64 140 0v38H290z" fill="#C9A83E"/><text x="360" y="645" text-anchor="middle" fill="#0B2A34" font-size="31" font-weight="900">病人與治療目標</text></g>
+    <g filter="url(#s)">
+      <circle cx="175" cy="755" r="112" fill="#174753" stroke="#C9A83E" stroke-width="3"/><path d="M142 718h66M151 701h48M151 736h48" stroke="#F2D879" stroke-width="6" stroke-linecap="round"/><text x="175" y="802" text-anchor="middle" class="node">外科／耳鼻喉</text>
+      <circle cx="545" cy="755" r="112" fill="#174753" stroke="#C9A83E" stroke-width="3"/><circle cx="545" cy="725" r="35" fill="none" stroke="#F2D879" stroke-width="6"/><path d="M545 680v90M500 725h90" stroke="#F2D879" stroke-width="5"/><text x="545" y="802" text-anchor="middle" class="node">放射腫瘤</text>
+      <circle cx="175" cy="995" r="112" fill="#174753" stroke="#C9A83E" stroke-width="3"/><rect x="137" y="952" width="76" height="58" rx="7" fill="none" stroke="#F2D879" stroke-width="6"/><circle cx="175" cy="981" r="15" fill="none" stroke="#F2D879" stroke-width="5"/><text x="175" y="1042" text-anchor="middle" class="node">影像診斷</text>
+      <circle cx="545" cy="995" r="112" fill="#174753" stroke="#C9A83E" stroke-width="3"/><rect x="507" y="949" width="76" height="66" fill="none" stroke="#F2D879" stroke-width="6"/><path d="M522 966h46M522 981h35" stroke="#F2D879" stroke-width="5"/><text x="545" y="1042" text-anchor="middle" class="node">腫瘤內科</text>
+      <circle cx="175" cy="1235" r="112" fill="#174753" stroke="#C9A83E" stroke-width="3"/><circle cx="160" cy="1208" r="22" fill="none" stroke="#F2D879" stroke-width="6"/><circle cx="193" cy="1228" r="24" fill="none" stroke="#F2D879" stroke-width="6"/><text x="175" y="1282" text-anchor="middle" class="node">病理</text>
+      <circle cx="545" cy="1235" r="112" fill="#174753" stroke="#C9A83E" stroke-width="3"/><path d="M510 1204q35-28 70 0M516 1220h58M526 1236h38" fill="none" stroke="#F2D879" stroke-width="6" stroke-linecap="round"/><text x="545" y="1275" text-anchor="middle" class="node">牙科・營養</text><text x="545" y="1308" text-anchor="middle" fill="#C9D7D7" font-size="21" font-weight="700">個案管理</text>
+    </g>
+    <g filter="url(#s)"><rect x="54" y="1390" width="612" height="120" rx="24" fill="#0D303A" stroke="#496970" stroke-width="2"/><text x="92" y="1452" fill="#F4EFE3" font-size="40" font-weight="900">約 27%</text><text x="258" y="1438" fill="#D4E0DF" font-size="22">120 例前瞻觀察中，會後出現</text><text x="258" y="1475" fill="#D4E0DF" font-size="22">診斷、分期或治療計畫變動</text></g>
+    <text x="54" y="1545" class="sm">團隊角色依院所而異｜資料來源：文章參考資料 [5]</text>
+  </g>
+</svg>
