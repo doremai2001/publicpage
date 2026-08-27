@@ -210,6 +210,22 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- article figures ---------- */
+.article-figure{width:min(1080px,calc(100vw - 48px));margin:36px 50% 42px;
+  transform:translateX(-50%)}
+.article-figure.hero{display:block;width:min(920px,calc(100vw - 48px));margin-top:10px;
+  padding:0;text-align:left}
+.article-figure img{display:block;width:100%;height:auto;border-radius:18px;
+  border:1px solid rgba(176,144,32,.28);box-shadow:0 18px 46px rgba(0,0,0,.22)}
+.article-figure figcaption{max-width:760px;margin:12px auto 0;font-size:.78rem;
+  line-height:1.8;letter-spacing:.03em;opacity:.62;text-align:center}
+@media (max-width:620px){
+  .article-figure,.article-figure.hero{width:calc(100vw - 28px);margin-top:28px;margin-bottom:34px}
+  .article-figure.hero{margin-top:4px}
+  .article-figure img{border-radius:14px}
+  .article-figure figcaption{padding:0 8px;font-size:.75rem;text-align:left}
+}
+
 /* ---------- charts ---------- */
 .chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
   background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
@@ -449,6 +465,11 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="leadbox"><p>「醫師，這幾個檢查哪一個最準？」這題我每週被問到，而它問錯了。這篇把五種檢查各自負責什麼講清楚，尤其是那句我最怕病人自己推論出來的話：正子照起來乾淨，所以頸部沒事。</p></div>
 
+    <figure class="article-figure hero">
+      <img src="fig-hn-workup-1.webp" width="1536" height="1024" loading="eager" decoding="async" alt="醫師與頭頸癌病人一起檢視 CT、MRI、正子造影、內視鏡與病理影像，五種資訊共同匯入頭頸部治療規劃的插畫">
+      <figcaption>不同檢查不是互相取代，而是從解剖、全身分期、黏膜表面與細胞型態拼出完整答案。</figcaption>
+    </figure>
+
     <div class="body-html">
 <p>「醫師，這幾個檢查裡面哪一個最準？」我每次聽到這句話都要花幾分鐘拆它，因為它問錯了。MRI、CT、正子造影、內視鏡、切片，回答的是五個不同的問題。問哪一個最準，就像問螺絲起子和捲尺哪一個比較好用。真正該問的是：這一項檢查是要幫我回答什麼，答案會怎麼改變治療。</p>
 
@@ -463,6 +484,14 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 <li><p>切片：唯一能回答「這到底是什麼」的檢查。上面四項全部加起來，都取代不了病理報告。</p></li>
 </ul>
 
+<figure class="article-figure">
+  <picture>
+    <source media="(max-width:620px)" srcset="fig-hn-workup-2-mobile.svg">
+    <img src="fig-hn-workup-2.svg" width="1440" height="900" loading="lazy" decoding="async" alt="五種頭頸癌檢查分工圖：CT 看骨頭與解剖，MRI 看深部軟組織與神經，PET-CT 看全身分期，內視鏡看黏膜表面，切片確認細胞與分型">
+  </picture>
+  <figcaption>把檢查當成不同工具：先問它負責回答什麼，再看答案會如何影響治療。</figcaption>
+</figure>
+
 <h4>「MRI 比較高級」？下顎骨這一題不是，鼻咽癌這一題才是</h4>
 
 <p>這一題在台灣特別常遇到，因為我們的頭頸癌以口腔癌為主——112 年癌症登記資料裡，口腔癌（含口咽、下咽）在男性標準化發生率排第四<a href="https://www.mohw.gov.tw/cp-7171-84987-1.html" target="_blank" rel="noopener"><sup class="cit">[2]</sup></a>。舌癌、頰黏膜癌、牙齦癌會不會侵犯下顎骨，直接決定要不要切一段骨頭、要不要做重建。</p>
@@ -471,6 +500,14 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
 <p>MRI 真正明顯勝出的地方在鼻咽癌。420 位新診斷鼻咽癌病人同時接受 CT 與 MRI 分期的比較研究顯示，MRI 更精確地呈現早期原發腫瘤的侵犯、也更容易看出深部浸潤，因而造成 T 分期與整體分期出現顯著改變，作者主張鼻咽癌分期應以 MRI 優先於 CT<a href="https://pubmed.ncbi.nlm.nih.gov/18455329/" target="_blank" rel="noopener"><sup class="cit">[4]</sup></a>。那份研究用的是當年的 AJCC 第六版，所以它裡面的分期變動百分比不能直接套到現在的版本，但「鼻咽癌看 MRI」這個方向是穩的。頭骨底、海綿竇、顱內延伸，CT 就是看不清楚。</p>
 
+<figure class="article-figure">
+  <picture>
+    <source media="(max-width:620px)" srcset="fig-hn-workup-3-mobile.svg">
+    <img src="fig-hn-workup-3.svg" width="1440" height="860" loading="lazy" decoding="async" alt="CT 與 MRI 比較圖：口腔癌下顎骨侵犯的整合分析未見明顯優劣；CT 擅長骨頭與整體解剖，MRI 擅長鼻咽、顱底、深部軟組織與神經侵犯">
+  </picture>
+  <figcaption>CT 與 MRI 的選擇取決於腫瘤位置和臨床問題，不是儀器的「等級」。</figcaption>
+</figure>
+
 <h4>正子照起來乾淨，不代表脖子乾淨</h4>
 
 <p>這一段是這篇文章最需要你記住的。</p>
@@ -478,6 +515,14 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 <p>針對臨床上摸不到、影像上也看不到淋巴結轉移（cN0）的頭頸部鱗狀細胞癌病人，18 篇研究、1,044 人的整合分析結果是：以病人為單位，FDG 正子或正子電腦斷層的<strong>敏感度只有 0.58</strong>、特異度 0.87；以頸側為單位是 0.67 與 0.85；以頸部分區為單位，敏感度<strong>掉到 0.53</strong>，特異度則有 0.97<a href="https://pubmed.ncbi.nlm.nih.gov/30473166/" target="_blank" rel="noopener"><sup class="cit">[5]</sup></a>。</p>
 
 <p>把 0.53 到 0.67 翻成白話：<strong>隱藏性的頸部轉移，正子會漏掉三分之一到一半。</strong>所以「我的正子報告是乾淨的，那頸部廓清或頸部照射是不是可以免了？」——不行，而且這是我最不希望病人自己做出的推論。頸部要不要處理，是根據原發腫瘤的位置、厚度、分化與整體分期算出來的風險，不是根據正子有沒有亮。正子在這件事上的長處是另一邊：它很少誤報，亮起來的通常有東西。</p>
+
+<figure class="article-figure">
+  <picture>
+    <source media="(max-width:620px)" srcset="fig-hn-workup-4-mobile.svg">
+    <img src="fig-hn-workup-4.svg" width="1440" height="920" loading="lazy" decoding="async" alt="正子判讀圖：臨床無淋巴結轉移的頭頸癌病人中，PET 以病人為單位敏感度約百分之五十八、以頸部分區為單位約百分之五十三；適合全身分期，但不能單獨決定是否省略頸部治療">
+  </picture>
+  <figcaption>正子的強項是全身分期；對微小、隱藏性的頸部轉移，陰性結果不能當作免除頸部治療的依據。</figcaption>
+</figure>
 
 <h4>那正子到底幫上什麼忙</h4>
 
