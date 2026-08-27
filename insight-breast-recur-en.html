@@ -387,6 +387,26 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 .pnav a.nx{text-align:right}
 @media (max-width:640px){.pnav{flex-direction:column}.pnav a{max-width:100%}}
 
+
+/* ---------- 疾病專題總入口 ---------- */
+.topicgrid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:30px 0 34px}
+@media (max-width:760px){.topicgrid{grid-template-columns:1fr}}
+.topiccard{display:flex;flex-direction:column;text-decoration:none;color:inherit;
+  border:1px solid rgba(176,144,32,.32);border-radius:18px;padding:26px 26px 22px;
+  background:rgba(245,239,230,.03);transition:.18s}
+.topiccard:hover{border-color:var(--gold);background:rgba(176,144,32,.09);transform:translateY(-2px)}
+.topiccard .k{font-size:.64rem;letter-spacing:.26em;color:var(--gold);opacity:.85;margin-bottom:12px}
+.topiccard .t{font-family:"Noto Serif TC",serif;font-size:1.3rem;font-weight:500;
+  letter-spacing:.05em;color:var(--ivory);margin-bottom:10px;line-height:1.5}
+.topiccard .d{font-size:.87rem;line-height:1.95;opacity:.68;margin-bottom:16px}
+.topiccard .steps{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:18px}
+.topiccard .steps span{font-size:.71rem;letter-spacing:.02em;opacity:.55;
+  border:1px solid rgba(245,239,230,.16);border-radius:999px;padding:3px 10px}
+.topiccard .go{display:flex;align-items:baseline;justify-content:space-between;
+  margin-top:auto;padding-top:14px;border-top:1px solid rgba(245,239,230,.1)}
+.topiccard .go .n{font-family:Georgia,serif;font-size:.82rem;color:var(--gold-light);opacity:.85}
+.topiccard .go .ar{font-size:.82rem;color:var(--gold-light);opacity:.9}
+
 </style>
 </head>
 <body>
@@ -410,7 +430,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       <li><a href="index-en.html">Home</a></li>
       <li><a href="expertise-en.html">Expertise</a></li>
       <li><a href="faq-en.html">Patient FAQ</a></li>
-      <li><a href="hn-en.html">H&amp;N Guide</a></li>
+      <li><a href="topics-en.html">Cancer Guides</a></li>
       <li><a href="insights-en.html" class="on">Insights</a></li>
       <li><a href="about-en.html">About</a></li>
     </ul>
@@ -464,7 +484,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
         <a href="index-en.html">Home</a>
         <a href="expertise-en.html">Expertise</a>
         <a href="faq-en.html">Patient FAQ</a>
-        <a href="hn-en.html">H&amp;N Guide</a>
+        <a href="topics-en.html">Cancer Guides</a>
         <a href="insights-en.html">Insights</a>
         <a href="about-en.html">About</a>
         <a href="https://www.wanfang.gov.tw/departments/team/71a998a727811d63" target="_blank" rel="noopener">Official appointment booking ↗</a>
