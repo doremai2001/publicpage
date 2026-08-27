@@ -210,6 +210,22 @@ details p:last-child{padding-bottom:20px}
   .postcard .t{font-size:1.05rem}
 }
 
+/* ---------- article figures ---------- */
+.article-figure{width:min(1080px,calc(100vw - 48px));margin:36px 50% 42px;
+  transform:translateX(-50%)}
+.article-figure.hero{display:block;width:min(920px,calc(100vw - 48px));margin-top:10px;
+  padding:0;text-align:left}
+.article-figure img{display:block;width:100%;height:auto;border-radius:18px;
+  border:1px solid rgba(176,144,32,.28);box-shadow:0 18px 46px rgba(0,0,0,.22)}
+.article-figure figcaption{max-width:760px;margin:12px auto 0;font-size:.78rem;
+  line-height:1.8;letter-spacing:.03em;opacity:.62;text-align:center}
+@media (max-width:620px){
+  .article-figure,.article-figure.hero{width:calc(100vw - 28px);margin-top:28px;margin-bottom:34px}
+  .article-figure.hero{margin-top:4px}
+  .article-figure img{border-radius:14px}
+  .article-figure figcaption{padding:0 8px;font-size:.75rem;text-align:left}
+}
+
 /* ---------- charts ---------- */
 .chart{margin:34px 0;border:1px solid rgba(176,144,32,.3);border-radius:16px;
   background:rgba(245,239,230,.03);padding:22px 24px;overflow-x:auto}
@@ -449,6 +465,11 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
     <div class="leadbox"><p>I have laid this month out as a timetable so you can see where you are in it: which steps genuinely cannot be skipped, what the multidisciplinary meeting does with your case, and the one place where a phone call from you moves things along.</p></div>
 
+    <figure class="article-figure hero">
+      <img src="fig-hn-first-week-1.webp" width="1536" height="1024" loading="eager" decoding="async" alt="A patient and clinician reviewing pathology, imaging, endoscopy, dental and nutrition assessments that converge into a multidisciplinary head and neck cancer treatment plan">
+      <figcaption>In the weeks after diagnosis, separate tests and assessments are assembled into one complete treatment plan.</figcaption>
+    </figure>
+
     <div class="body-html">
 <p>In the first month after a head and neck cancer diagnosis, the hard part is not the treatment. It is the waiting. An MRI, a PET, an endoscopy, a dental appointment, a team meeting — each a few days, while the tumour sits where you can touch it every morning. The sentence I hear most: "If we keep testing like this, will it be too late?"</p>
 
@@ -464,11 +485,27 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
 <p>Now the honest part. Both are retrospective registry studies, and patients with more complicated disease take longer to work up and do worse anyway — confounding nobody has cleanly resolved. So the correct sentence is "a longer interval is associated with worse survival", not "waiting kills people". And 1.13 is a population hazard ratio, not "wait two months and you are 13% more likely to die."</p>
 
+<figure class="article-figure">
+  <picture>
+    <source media="(max-width:620px)" srcset="fig-hn-first-week-2-en-mobile.svg?v=1">
+    <img src="fig-hn-first-week-2-en.svg?v=1" width="1440" height="860" loading="lazy" decoding="async" alt="Evidence summary showing 18,677 Taiwanese oral cavity cancer patients and 51,655 US head and neck cancer patients, with the warning that longer treatment intervals are associated with worse survival but do not create a personal countdown">
+  </picture>
+  <figcaption>Waiting is not cost-free, but these studies describe population-level associations. The aim is to complete the necessary work-up efficiently, not to sacrifice accurate staging.</figcaption>
+</figure>
+
 <h4>In Taiwan the tumour board is not a courtesy, it is an accreditation requirement</h4>
 
 <p>Most patients do not know their case goes before a room full of doctors. The Ministry of Health and Welfare's (衛生福利部) cancer care quality accreditation standards make it a hard rule: under 50 new cancers a year, the multidisciplinary team must meet monthly; 50 to 499 cases, twice monthly; 500 or more, weekly. Per cancer type, at least <strong>20%</strong> of new patients must reach the meeting and at least <strong>15%</strong> must be discussed before treatment starts. Case manager (個管師) staffing is set too — one per 350 new patients, 50 hours of training in year one<a href="https://exdep.edah.org.tw/edccc/images/Quality_certification/2022_standards_and_scoring.pdf" target="_blank" rel="noopener"><sup class="cit">[4]</sup></a>.</p>
 
 <p>The meeting changes things. A study prospectively recording 120 consecutive head and neck tumour board cases found roughly <strong>27%</strong> came out with a change in diagnosis, stage or plan; the plan changed in 24% of malignancies against 6% of benign tumours (p=0.0199), predominantly escalations to multimodality treatment (p=0.0084)<a href="https://pubmed.ncbi.nlm.nih.gov/20974334/" target="_blank" rel="noopener"><sup class="cit">[5]</sup></a>. One plan in four gets rewritten. That is why I ask patients not to resent its pace.</p>
+
+<figure class="article-figure">
+  <picture>
+    <source media="(max-width:620px)" srcset="fig-hn-first-week-3-en-mobile.svg?v=1">
+    <img src="fig-hn-first-week-3-en.svg?v=1" width="1440" height="900" loading="lazy" decoding="async" alt="Multidisciplinary head and neck cancer team diagram linking surgery, radiation oncology, medical oncology, imaging, pathology, dental and nutrition care, and case management to the patient and treatment goals">
+  </picture>
+  <figcaption>A tumour board puts each specialty’s interpretation on the same table; in one study, about 27% of diagnoses, stages or treatment plans changed after discussion.</figcaption>
+</figure>
 
 <p>A 224-patient before-and-after series found five-year disease-specific survival rise from 52% to 75% (p=.003) after the tumour board began, matched hazard ratio for death 0.48<a href="https://pubmed.ncbi.nlm.nih.gov/31095740/" target="_blank" rel="noopener"><sup class="cit">[6]</sup></a>. Too good to take at face value, and the authors say why: the hospital hired a fellowship-trained head and neck surgeon over the same period. The design cannot separate the two. I include it because it points the same way, not because it proves anything.</p>
 
@@ -483,6 +520,14 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 <li><p>Dental consultation, nutrition, blood tests, cardiac and pulmonary function — these run alongside the imaging, not behind it.</p></li>
 <li><p>The multidisciplinary team meeting, and only then the plan and the consent form.</p></li>
 </ul>
+
+<figure class="article-figure">
+  <picture>
+    <source media="(max-width:620px)" srcset="fig-hn-first-week-4-en-mobile.svg?v=1">
+    <img src="fig-hn-first-week-4-en.svg?v=1" width="1440" height="920" loading="lazy" decoding="async" alt="Head and neck cancer pathway showing pathology review, imaging and endoscopic staging, and dental, nutrition and fitness assessment running in parallel before multidisciplinary review and treatment planning">
+  </picture>
+  <figcaption>Schedules differ by hospital, but imaging, endoscopy, dental care and nutrition assessment can often run in parallel before the case reaches the tumour board.</figcaption>
+</figure>
 
 <p>Taiwanese centres generally build their protocols on the NCCN head and neck cancer guidelines, which handle oral cavity, oropharynx, hypopharynx, nasopharynx and larynx separately and are revised several times a year<a href="https://www.nccn.org/guidelines/guidelines-detail?category=1&amp;id=1437" target="_blank" rel="noopener"><sup class="cit">[8]</sup></a>. Which standard your hospital follows is a fair question for your case manager (個管師).</p>
 
