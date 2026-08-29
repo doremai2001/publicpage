@@ -6,6 +6,8 @@
   <url><loc>https://doremai2001.github.io/publicpage/topics.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/hn.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/rc.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/insights.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/about.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/hn-first-week.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
@@ -40,80 +42,46 @@
   <url><loc>https://doremai2001.github.io/publicpage/rc-stoma.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/rc-followup.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/rc-late-effects.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-fatigue.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-exercise.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-neuropathy.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-chemobrain.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-fever.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-thrombosis.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-pain.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-vaccine.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-sex.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-contraception.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-fertility.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-mood.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-self-pay.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-true-cost.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-insurance.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-travel.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-herbs.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-trial.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-tell-children.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-fear.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-fatigue-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-exercise-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-neuropathy-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-chemobrain-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-fever-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-thrombosis-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-pain-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-vaccine-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-sex-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-contraception-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-fertility-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-mood-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-self-pay-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-true-cost-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-insurance-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-travel-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-herbs-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-trial-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-tell-children-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/care-fear-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-biomarkers-and-family-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-biomarkers-and-family.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-bowel-recovery-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-bowel-recovery.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-capecitabine-at-home-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-capecitabine-at-home.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-ctdna-mrd-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-ctdna-mrd.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-exercise-recurrence-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-exercise-recurrence.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-first-month-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-first-month.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-immunotherapy-dmmr-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-immunotherapy-dmmr.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-lymph-node-yield-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-lymph-node-yield.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-malignant-polyp-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-malignant-polyp.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-metastatic-cure-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-metastatic-cure.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-oxaliplatin-neuropathy-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-oxaliplatin-neuropathy.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-reading-stage-report-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-reading-stage-report.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-stage-ii-chemo-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-stage-ii-chemo.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-supplements-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-supplements.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-surveillance-intensity-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-surveillance-intensity.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-three-or-six-months-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc-three-or-six-months.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://doremai2001.github.io/publicpage/cc.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-malignant-polyp.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-reading-stage-report.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-first-month.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-biomarkers-and-family.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-lymph-node-yield.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-stage-ii-chemo.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-three-or-six-months.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-immunotherapy-dmmr.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-oxaliplatin-neuropathy.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-capecitabine-at-home.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-bowel-recovery.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-supplements.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-surveillance-intensity.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-ctdna-mrd.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-metastatic-cure.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-exercise-recurrence.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-first-month.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-receptor-report.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-three-subtypes.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-which-lines-matter.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-imaging-extent.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-germline-brca.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-breast-conserving.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-sentinel-node.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-neoadjuvant.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-genomic-chemo.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-her2-therapy.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-endocrine-years.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-rt-hypofx.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-rt-omission.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-rt-regional.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-chemo-side-effects.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-endocrine-side-effects.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-fertility-young.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-followup-schedule.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-lymphoedema.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-bone-health.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-self-pay-and-trials.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-metastatic-genomics.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-metastatic-outlook.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/insight-proton.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/insight-rectal-rt.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/insight-sclc-maintenance.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -188,6 +156,8 @@
   <url><loc>https://doremai2001.github.io/publicpage/hn-back-to-life-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/hn-caregiver-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/rc-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/rc-first-week-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/rc-mri-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/rc-stoma-question-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
@@ -204,4 +174,44 @@
   <url><loc>https://doremai2001.github.io/publicpage/rc-stoma-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/rc-followup-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
   <url><loc>https://doremai2001.github.io/publicpage/rc-late-effects-en.html</loc><lastmod>2026-08-23</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-malignant-polyp-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-reading-stage-report-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-first-month-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-biomarkers-and-family-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-lymph-node-yield-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-stage-ii-chemo-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-three-or-six-months-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-immunotherapy-dmmr-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-oxaliplatin-neuropathy-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-capecitabine-at-home-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-bowel-recovery-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-supplements-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-surveillance-intensity-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-ctdna-mrd-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-metastatic-cure-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/cc-exercise-recurrence-en.html</loc><lastmod>2026-08-27</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-first-month-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-receptor-report-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-three-subtypes-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-which-lines-matter-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-imaging-extent-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-germline-brca-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-breast-conserving-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-sentinel-node-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-neoadjuvant-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-genomic-chemo-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-her2-therapy-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-endocrine-years-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-rt-hypofx-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-rt-omission-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-rt-regional-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-chemo-side-effects-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-endocrine-side-effects-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-fertility-young-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-followup-schedule-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-lymphoedema-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-bone-health-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-self-pay-and-trials-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-metastatic-genomics-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://doremai2001.github.io/publicpage/bc-metastatic-outlook-en.html</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
 </urlset>
