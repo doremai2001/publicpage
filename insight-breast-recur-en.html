@@ -407,6 +407,22 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 .topiccard .go .n{font-family:Georgia,serif;font-size:.82rem;color:var(--gold-light);opacity:.85}
 .topiccard .go .ar{font-size:.82rem;color:var(--gold-light);opacity:.9}
 
+/* ---------- article figures ---------- */
+.article-figure{width:min(1080px,calc(100vw - 48px));margin:36px 50% 42px;
+  transform:translateX(-50%)}
+.article-figure.hero{display:block;width:min(920px,calc(100vw - 48px));margin-top:10px;
+  padding:0;text-align:left}
+.article-figure img{display:block;width:100%;height:auto;border-radius:18px;
+  border:1px solid rgba(176,144,32,.28);box-shadow:0 18px 46px rgba(0,0,0,.22)}
+.article-figure figcaption{max-width:760px;margin:12px auto 0;font-size:.78rem;
+  line-height:1.8;letter-spacing:.03em;opacity:.62;text-align:center}
+@media (max-width:620px){
+  .article-figure,.article-figure.hero{width:calc(100vw - 28px);margin-top:28px;margin-bottom:34px}
+  .article-figure.hero{margin-top:4px}
+  .article-figure img{border-radius:14px}
+  .article-figure figcaption{padding:0 8px;font-size:.75rem;text-align:left}
+}
+
 </style>
 </head>
 <body>
@@ -428,9 +444,9 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
     </a>
     <ul>
       <li><a href="index-en.html">Home</a></li>
-      <li><a href="expertise-en.html">Expertise</a></li>
-      <li><a href="faq-en.html">Patient FAQ</a></li>
+      <li><a href="expertise-en.html">Next-Gen Treatment</a></li>
       <li><a href="topics-en.html">Cancer Guides</a></li>
+      <li><a href="faq-en.html">Patient FAQ</a></li>
       <li><a href="insights-en.html" class="on">Insights</a></li>
       <li><a href="about-en.html">About</a></li>
     </ul>
@@ -482,9 +498,9 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       </div>
       <nav>
         <a href="index-en.html">Home</a>
-        <a href="expertise-en.html">Expertise</a>
-        <a href="faq-en.html">Patient FAQ</a>
+        <a href="expertise-en.html">Next-Gen Treatment</a>
         <a href="topics-en.html">Cancer Guides</a>
+        <a href="faq-en.html">Patient FAQ</a>
         <a href="insights-en.html">Insights</a>
         <a href="about-en.html">About</a>
         <a href="https://www.wanfang.gov.tw/departments/team/71a998a727811d63" target="_blank" rel="noopener">Official appointment booking ↗</a>
