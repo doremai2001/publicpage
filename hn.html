@@ -407,6 +407,22 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 .topiccard .go .n{font-family:Georgia,serif;font-size:.82rem;color:var(--gold-light);opacity:.85}
 .topiccard .go .ar{font-size:.82rem;color:var(--gold-light);opacity:.9}
 
+/* ---------- article figures ---------- */
+.article-figure{width:min(1080px,calc(100vw - 48px));margin:36px 50% 42px;
+  transform:translateX(-50%)}
+.article-figure.hero{display:block;width:min(920px,calc(100vw - 48px));margin-top:10px;
+  padding:0;text-align:left}
+.article-figure img{display:block;width:100%;height:auto;border-radius:18px;
+  border:1px solid rgba(176,144,32,.28);box-shadow:0 18px 46px rgba(0,0,0,.22)}
+.article-figure figcaption{max-width:760px;margin:12px auto 0;font-size:.78rem;
+  line-height:1.8;letter-spacing:.03em;opacity:.62;text-align:center}
+@media (max-width:620px){
+  .article-figure,.article-figure.hero{width:calc(100vw - 28px);margin-top:28px;margin-bottom:34px}
+  .article-figure.hero{margin-top:4px}
+  .article-figure img{border-radius:14px}
+  .article-figure figcaption{padding:0 8px;font-size:.75rem;text-align:left}
+}
+
 </style>
 </head>
 <body>
@@ -428,9 +444,9 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
     </a>
     <ul>
       <li><a href="index.html">首頁</a></li>
-      <li><a href="expertise.html">臨床專長</a></li>
-      <li><a href="faq.html">病人衛教</a></li>
+      <li><a href="nt.html">次世代治療</a></li>
       <li><a href="topics.html" class="on">疾病專題</a></li>
+      <li><a href="faq.html">病人衛教</a></li>
       <li><a href="insights.html">醫學新知</a></li>
       <li><a href="about.html">關於我</a></li>
     </ul>
@@ -446,7 +462,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
   <div class="tagbar" id="tagbar">
     <div class="tagbar-h">用標籤篩選：</div>
-    <div class="tagbar-c"><button class="tagf on" data-tag="">全部 <i>16</i></button><button class="tagf" data-tag="npc">#鼻咽癌 <i>1</i></button><button class="tagf" data-tag="proton">#質子治療 <i>1</i></button><button class="tagf" data-tag="chemo">#化學治療 <i>2</i></button><button class="tagf" data-tag="immuno">#免疫治療 <i>1</i></button><button class="tagf" data-tag="targeted">#標靶治療 <i>1</i></button><button class="tagf" data-tag="surgery">#手術 <i>1</i></button><button class="tagf" data-tag="hyperthermia">#腫瘤熱治療 <i>1</i></button><button class="tagf" data-tag="sideeffect">#副作用 <i>6</i></button><button class="tagf" data-tag="nhi">#健保給付 <i>5</i></button><button class="tagf" data-tag="biomarker">#生物標記 <i>1</i></button><button class="tagf" data-tag="recurrence">#復發 <i>2</i></button><button class="tagf" data-tag="decision">#治療決策 <i>5</i></button><button class="tagf" data-tag="prep">#就醫準備 <i>3</i></button><button class="tagf" data-tag="workflow">#療程流程 <i>3</i></button><button class="tagf" data-tag="daily">#療程中的生活 <i>4</i></button><button class="tagf" data-tag="work">#工作與交通 <i>1</i></button><button class="tagf" data-tag="nutrition">#飲食營養 <i>3</i></button><button class="tagf" data-tag="supplement">#保健補充品 <i>1</i></button><button class="tagf" data-tag="dental">#牙科與口腔 <i>4</i></button><button class="tagf" data-tag="orn">#下顎骨壞死 <i>2</i></button><button class="tagf" data-tag="mucositis">#口腔黏膜炎 <i>2</i></button><button class="tagf" data-tag="xerostomia">#口乾 <i>3</i></button><button class="tagf" data-tag="swallow">#吞嚥與進食 <i>2</i></button><button class="tagf" data-tag="trismus">#張口困難 <i>1</i></button><button class="tagf" data-tag="imaging">#影像檢查 <i>2</i></button><button class="tagf" data-tag="followup">#追蹤與復健 <i>3</i></button><button class="tagf" data-tag="lateeffect">#晚期副作用 <i>3</i></button><button class="tagf" data-tag="survivor">#康復期 <i>4</i></button><button class="tagf" data-tag="exercise">#運動與體能 <i>2</i></button><button class="tagf" data-tag="quitting">#戒菸戒檳榔 <i>4</i></button><button class="tagf" data-tag="caregiver">#家屬與照顧者 <i>1</i></button><button class="tagf" data-tag="mdt">#多專科團隊 <i>1</i></button></div>
+    <div class="tagbar-c"><button class="tagf on" data-tag="">全部 <i>16</i></button><button class="tagf" data-tag="npc">#鼻咽癌 <i>1</i></button><button class="tagf" data-tag="proton">#質子治療 <i>1</i></button><button class="tagf" data-tag="chemo">#化學治療 <i>2</i></button><button class="tagf" data-tag="immuno">#免疫治療 <i>1</i></button><button class="tagf" data-tag="targeted">#標靶治療 <i>1</i></button><button class="tagf" data-tag="surgery">#手術 <i>1</i></button><button class="tagf" data-tag="hyperthermia">#腫瘤熱治療 <i>1</i></button><button class="tagf" data-tag="sideeffect">#副作用 <i>6</i></button><button class="tagf" data-tag="nhi">#健保給付 <i>5</i></button><button class="tagf" data-tag="biomarker">#生物標記 <i>1</i></button><button class="tagf" data-tag="recurrence">#復發 <i>2</i></button><button class="tagf" data-tag="decision">#治療決策 <i>5</i></button><button class="tagf" data-tag="prep">#就醫準備 <i>3</i></button><button class="tagf" data-tag="workflow">#療程流程 <i>3</i></button><button class="tagf" data-tag="daily">#療程中的生活 <i>4</i></button><button class="tagf" data-tag="work">#工作與交通 <i>1</i></button><button class="tagf" data-tag="nutrition">#飲食營養 <i>3</i></button><button class="tagf" data-tag="supplement">#保健補充品 <i>1</i></button><button class="tagf" data-tag="caregiver">#家屬與照顧者 <i>1</i></button><button class="tagf" data-tag="dental">#牙科與口腔 <i>4</i></button><button class="tagf" data-tag="orn">#下顎骨壞死 <i>2</i></button><button class="tagf" data-tag="mucositis">#口腔黏膜炎 <i>2</i></button><button class="tagf" data-tag="xerostomia">#口乾 <i>3</i></button><button class="tagf" data-tag="swallow">#吞嚥與進食 <i>2</i></button><button class="tagf" data-tag="trismus">#張口困難 <i>1</i></button><button class="tagf" data-tag="imaging">#影像檢查 <i>2</i></button><button class="tagf" data-tag="followup">#追蹤與復健 <i>3</i></button><button class="tagf" data-tag="lateeffect">#晚期副作用 <i>3</i></button><button class="tagf" data-tag="survivor">#康復期 <i>4</i></button><button class="tagf" data-tag="exercise">#運動與體能 <i>2</i></button><button class="tagf" data-tag="quitting">#戒菸戒檳榔 <i>4</i></button><button class="tagf" data-tag="mdt">#多專科團隊 <i>1</i></button></div>
   </div>
   <p class="note tagempty" id="tagempty" hidden>這個標籤下目前沒有文章。</p>
 
@@ -602,9 +618,9 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       </div>
       <nav>
         <a href="index.html">首頁</a>
-        <a href="expertise.html">臨床專長</a>
-        <a href="faq.html">病人衛教</a>
+        <a href="nt.html">次世代治療</a>
         <a href="topics.html">疾病專題</a>
+        <a href="faq.html">病人衛教</a>
         <a href="insights.html">醫學新知</a>
         <a href="about.html">關於我</a>
         <a href="https://www.wanfang.gov.tw/departments/team/71a998a727811d63" target="_blank" rel="noopener">官方門診掛號 ↗</a>
