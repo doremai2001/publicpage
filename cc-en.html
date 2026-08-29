@@ -407,6 +407,22 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 .topiccard .go .n{font-family:Georgia,serif;font-size:.82rem;color:var(--gold-light);opacity:.85}
 .topiccard .go .ar{font-size:.82rem;color:var(--gold-light);opacity:.9}
 
+/* ---------- article figures ---------- */
+.article-figure{width:min(1080px,calc(100vw - 48px));margin:36px 50% 42px;
+  transform:translateX(-50%)}
+.article-figure.hero{display:block;width:min(920px,calc(100vw - 48px));margin-top:10px;
+  padding:0;text-align:left}
+.article-figure img{display:block;width:100%;height:auto;border-radius:18px;
+  border:1px solid rgba(176,144,32,.28);box-shadow:0 18px 46px rgba(0,0,0,.22)}
+.article-figure figcaption{max-width:760px;margin:12px auto 0;font-size:.78rem;
+  line-height:1.8;letter-spacing:.03em;opacity:.62;text-align:center}
+@media (max-width:620px){
+  .article-figure,.article-figure.hero{width:calc(100vw - 28px);margin-top:28px;margin-bottom:34px}
+  .article-figure.hero{margin-top:4px}
+  .article-figure img{border-radius:14px}
+  .article-figure figcaption{padding:0 8px;font-size:.75rem;text-align:left}
+}
+
 </style>
 </head>
 <body>
@@ -428,9 +444,9 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
     </a>
     <ul>
       <li><a href="index-en.html">Home</a></li>
-      <li><a href="expertise-en.html">Expertise</a></li>
-      <li><a href="faq-en.html">Patient FAQ</a></li>
+      <li><a href="expertise-en.html">Next-Gen Treatment</a></li>
       <li><a href="topics-en.html" class="on">Cancer Guides</a></li>
+      <li><a href="faq-en.html">Patient FAQ</a></li>
       <li><a href="insights-en.html">Insights</a></li>
       <li><a href="about-en.html">About</a></li>
     </ul>
@@ -446,7 +462,7 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
 
   <div class="tagbar" id="tagbar">
     <div class="tagbar-h">Filter by tag:</div>
-    <div class="tagbar-c"><button class="tagf on" data-tag="">All <i>16</i></button><button class="tagf" data-tag="chemo">#Chemotherapy <i>4</i></button><button class="tagf" data-tag="immuno">#Immunotherapy <i>1</i></button><button class="tagf" data-tag="surgery">#Surgery <i>4</i></button><button class="tagf" data-tag="sideeffect">#Side Effects <i>4</i></button><button class="tagf" data-tag="nhi">#NHI Coverage <i>8</i></button><button class="tagf" data-tag="biomarker">#Biomarkers <i>4</i></button><button class="tagf" data-tag="recurrence">#Recurrence <i>4</i></button><button class="tagf" data-tag="decision">#Decisions <i>8</i></button><button class="tagf" data-tag="prep">#Getting Ready <i>3</i></button><button class="tagf" data-tag="workflow">#Treatment Pathway <i>1</i></button><button class="tagf" data-tag="daily">#Daily Life <i>4</i></button><button class="tagf" data-tag="nutrition">#Nutrition <i>1</i></button><button class="tagf" data-tag="supplement">#Supplements <i>1</i></button><button class="tagf" data-tag="imaging">#Imaging <i>2</i></button><button class="tagf" data-tag="followup">#Follow-up <i>2</i></button><button class="tagf" data-tag="lateeffect">#Late Effects <i>1</i></button><button class="tagf" data-tag="survivor">#Survivorship <i>1</i></button><button class="tagf" data-tag="exercise">#Exercise <i>1</i></button><button class="tagf" data-tag="mdt">#Tumour Board <i>1</i></button><button class="tagf" data-tag="qol">#Quality of Life <i>1</i></button><button class="tagf" data-tag="trial">#Clinical Trials <i>2</i></button><button class="tagf" data-tag="fertility">#Fertility <i>1</i></button><button class="tagf" data-tag="staging">#Staging <i>3</i></button><button class="tagf" data-tag="stoma">#Stoma <i>1</i></button><button class="tagf" data-tag="bowel">#Bowel Function <i>1</i></button><button class="tagf" data-tag="screening">#Screening <i>1</i></button><button class="tagf" data-tag="genetic">#Genetics &amp; Family <i>1</i></button></div>
+    <div class="tagbar-c"><button class="tagf on" data-tag="">All <i>16</i></button><button class="tagf" data-tag="chemo">#Chemotherapy <i>4</i></button><button class="tagf" data-tag="immuno">#Immunotherapy <i>1</i></button><button class="tagf" data-tag="surgery">#Surgery <i>4</i></button><button class="tagf" data-tag="sideeffect">#Side Effects <i>4</i></button><button class="tagf" data-tag="qol">#Quality of Life <i>1</i></button><button class="tagf" data-tag="nhi">#NHI Coverage <i>8</i></button><button class="tagf" data-tag="trial">#Clinical Trials <i>2</i></button><button class="tagf" data-tag="biomarker">#Biomarkers <i>4</i></button><button class="tagf" data-tag="recurrence">#Recurrence <i>4</i></button><button class="tagf" data-tag="fertility">#Fertility <i>1</i></button><button class="tagf" data-tag="decision">#Decisions <i>8</i></button><button class="tagf" data-tag="prep">#Getting Ready <i>3</i></button><button class="tagf" data-tag="workflow">#Treatment Pathway <i>1</i></button><button class="tagf" data-tag="daily">#Daily Life <i>4</i></button><button class="tagf" data-tag="nutrition">#Nutrition <i>1</i></button><button class="tagf" data-tag="supplement">#Supplements <i>1</i></button><button class="tagf" data-tag="imaging">#Imaging <i>2</i></button><button class="tagf" data-tag="followup">#Follow-up <i>2</i></button><button class="tagf" data-tag="lateeffect">#Late Effects <i>1</i></button><button class="tagf" data-tag="survivor">#Survivorship <i>1</i></button><button class="tagf" data-tag="exercise">#Exercise <i>1</i></button><button class="tagf" data-tag="mdt">#Tumour Board <i>1</i></button><button class="tagf" data-tag="staging">#Staging <i>3</i></button><button class="tagf" data-tag="stoma">#Stoma <i>1</i></button><button class="tagf" data-tag="bowel">#Bowel Function <i>1</i></button><button class="tagf" data-tag="screening">#Screening <i>1</i></button><button class="tagf" data-tag="genetic">#Genetics &amp; Family <i>1</i></button></div>
   </div>
   <p class="note tagempty" id="tagempty" hidden>No articles under this tag yet.</p>
 
@@ -602,9 +618,9 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
       </div>
       <nav>
         <a href="index-en.html">Home</a>
-        <a href="expertise-en.html">Expertise</a>
-        <a href="faq-en.html">Patient FAQ</a>
+        <a href="expertise-en.html">Next-Gen Treatment</a>
         <a href="topics-en.html">Cancer Guides</a>
+        <a href="faq-en.html">Patient FAQ</a>
         <a href="insights-en.html">Insights</a>
         <a href="about-en.html">About</a>
         <a href="https://www.wanfang.gov.tw/departments/team/71a998a727811d63" target="_blank" rel="noopener">Official appointment booking ↗</a>
