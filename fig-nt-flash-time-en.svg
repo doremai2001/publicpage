@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="t d">
+  <title id="t">What FLASH actually compresses</title>
+  <desc id="d">Three parts. One: a conventional course, using the RTOG 0617 standard arm as the example, delivers 60 Gy in 30 daily fractions over about six weeks, with a few minutes of beam-on per visit. Two: for the same 8 Gy palliative prescription, a conventional system at about 0.03 Gy/s needs roughly 267 seconds of beam-on, while FLASH at 40 Gy/s or more needs 0.2 seconds or less, over a thousand-fold difference. Three: in the FAST-01 trial, total time on the treatment couch still averaged about 19 minutes, almost all of it set-up and imaging; FLASH compresses the beam-on time, not the visit.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="900" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">WHAT FLASH COMPRESSES</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">The beam is faster. The visit is not.</text>
+<text x="84" y="194" font-size="21" fill="#527078">Dose rates differ by over 1,000-fold (≥40 Gy/s vs ≤0.03 Gy/s) —</text>
+<text x="84" y="224" font-size="21" fill="#527078">but set-up and imaging do not get a minute shorter.</text>
+<text x="84" y="268" font-size="19" fill="#8F7418" font-weight="800">A conventional course (example: RTOG 0617 standard arm)</text>
+<rect x="84" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="105" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="126" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="147" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="168" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="134" y="372" font-size="15" fill="#6B8084" text-anchor="middle">Wk 1</text>
+<rect x="230" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="251" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="272" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="293" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="314" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="280" y="372" font-size="15" fill="#6B8084" text-anchor="middle">Wk 2</text>
+<rect x="376" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="397" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="418" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="439" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="460" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="426" y="372" font-size="15" fill="#6B8084" text-anchor="middle">Wk 3</text>
+<rect x="522" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="543" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="564" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="585" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="606" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="572" y="372" font-size="15" fill="#6B8084" text-anchor="middle">Wk 4</text>
+<rect x="668" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="689" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="710" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="731" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="752" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="718" y="372" font-size="15" fill="#6B8084" text-anchor="middle">Wk 5</text>
+<rect x="814" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="835" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="856" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="877" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="898" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="864" y="372" font-size="15" fill="#6B8084" text-anchor="middle">Wk 6</text>
+<text x="970" y="322" font-size="20" fill="#123641" font-weight="800">60 Gy / 2 Gy daily × 30 / about 6 weeks</text>
+<text x="970" y="352" font-size="16.5" fill="#6B8084">Each visit: a few minutes of beam-on</text>
+<text x="84" y="452" font-size="19" fill="#8F7418" font-weight="800">Same 8 Gy palliative prescription — how long is the beam on?</text>
+<text x="352" y="512" font-size="18" fill="#345963" font-weight="700" text-anchor="end">Conventional (~0.03 Gy/s)</text>
+<rect x="372" y="488" width="760" height="38" rx="4" fill="#527078"/>
+<text x="1148" y="512" font-size="19" fill="#123641" font-weight="800">~267 s (≈4.5 min)</text>
+<text x="352" y="576" font-size="18" fill="#345963" font-weight="700" text-anchor="end">FLASH (≥40 Gy/s)</text>
+<rect x="372" y="552" width="5" height="38" rx="2" fill="#8F7418"/>
+<text x="393" y="576" font-size="19" fill="#8F7418" font-weight="800">≤0.2 s</text>
+<text x="502" y="576" font-size="16" fill="#6B8084">To scale it would be under 1 pixel wide — a &gt;1,000-fold gap</text>
+<text x="84" y="632" font-size="16" fill="#6B8084">Measured: CHUV first patient 15 Gy in 90 ms · IMPulse 10 pulses in 90 ms</text>
+<g filter="url(#sh)"><rect x="84" y="664" width="1272" height="158" rx="24" fill="#123641"/></g>
+<text x="120" y="710" font-size="25" fill="#F7F1E4" font-weight="800">But the whole visit did not become one second</text>
+<text x="120" y="746" font-size="18.5" fill="#D4E0DF">In FAST-01, beam-on was under 1 second — yet total time on the couch still</text>
+<text x="120" y="773" font-size="18.5" fill="#D4E0DF">averaged about 19 minutes, almost all of it set-up and imaging.</text>
+<line x1="120" y1="788" x2="1320" y2="788" stroke="#C9A83E" stroke-width="0"/>
+<text x="120" y="806" font-size="19" fill="#F2D879" font-weight="800">FLASH compresses the beam-on time, not the visit; fractionation is still unsettled.</text>
+<text x="84" y="872" font-size="16" fill="#6B8084">Schematic, redrawn from Favaudon 2014 and Mascia 2023 (FAST-01). Beam-on times converted from dose rates.</text>
+  </g>
+</svg>

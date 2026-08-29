@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="840" viewBox="0 0 1440 840" role="img" aria-labelledby="t d">
+  <title id="t">Depth–dose curves of three beams</title>
+  <desc id="d">Schematic: the photon curve peaks near the surface, then falls gradually and exits the body; protons deposit their dose in a spread-out Bragg peak and drop to near zero beyond it; carbon ions show a narrower peak but leave a small fragmentation tail. Depth 0-30 cm vs relative dose.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="840" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">DEPTH–DOSE CURVES</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">Where the dose stops: three beams</text>
+<text x="84" y="194" font-size="21" fill="#527078">Photons keep going right through; protons and carbon ions pile the dose</text>
+<text x="84" y="224" font-size="21" fill="#527078">into a Bragg peak. Carbon leaves a small fragmentation tail — not zero.</text>
+<line x1="442" y1="238" x2="476" y2="238" stroke="#5C77C4" stroke-width="5" stroke-linecap="round"/>
+<text x="486" y="244" font-size="19" fill="#345963" font-weight="600">Photon (high-energy X-ray)</text>
+<line x1="802" y1="238" x2="836" y2="238" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<text x="846" y="244" font-size="19" fill="#345963" font-weight="600">Proton (spread-out Bragg peak)</text>
+<line x1="1206" y1="238" x2="1240" y2="238" stroke="#96790F" stroke-width="5" stroke-linecap="round"/>
+<text x="1250" y="244" font-size="19" fill="#345963" font-weight="600">Carbon ion</text>
+<rect x="628" y="292" width="163" height="408" fill="#A98722" opacity="0.12"/>
+<text x="709.3333333333333" y="690" font-size="18" fill="#8F7418" font-weight="700" text-anchor="middle">Tumour (schematic)</text>
+<line x1="140" y1="602.9" x2="1360" y2="602.9" stroke="#DBD3BF" stroke-width="1"/>
+<text x="130" y="607.8571428571429" font-size="18" fill="#6B8084" text-anchor="end">25</text>
+<line x1="140" y1="505.7" x2="1360" y2="505.7" stroke="#DBD3BF" stroke-width="1"/>
+<text x="130" y="510.7142857142857" font-size="18" fill="#6B8084" text-anchor="end">50</text>
+<line x1="140" y1="408.6" x2="1360" y2="408.6" stroke="#DBD3BF" stroke-width="1"/>
+<text x="130" y="413.57142857142856" font-size="18" fill="#6B8084" text-anchor="end">75</text>
+<line x1="140" y1="311.4" x2="1360" y2="311.4" stroke="#DBD3BF" stroke-width="1"/>
+<text x="130" y="316.42857142857144" font-size="18" fill="#6B8084" text-anchor="end">100</text>
+<line x1="140" y1="700" x2="1360" y2="700" stroke="#6B8084" stroke-width="1.5"/>
+<line x1="140" y1="286" x2="140" y2="700" stroke="#6B8084" stroke-width="1.5"/>
+<text x="130" y="705" font-size="18" fill="#6B8084" text-anchor="end">0</text>
+<line x1="343.3" y1="700" x2="343.3" y2="706" stroke="#6B8084" stroke-width="1.5"/>
+<text x="343.3333333333333" y="726" font-size="18" fill="#6B8084" text-anchor="middle">5</text>
+<line x1="546.7" y1="700" x2="546.7" y2="706" stroke="#6B8084" stroke-width="1.5"/>
+<text x="546.6666666666666" y="726" font-size="18" fill="#6B8084" text-anchor="middle">10</text>
+<line x1="750.0" y1="700" x2="750.0" y2="706" stroke="#6B8084" stroke-width="1.5"/>
+<text x="750.0" y="726" font-size="18" fill="#6B8084" text-anchor="middle">15</text>
+<line x1="953.3" y1="700" x2="953.3" y2="706" stroke="#6B8084" stroke-width="1.5"/>
+<text x="953.3333333333333" y="726" font-size="18" fill="#6B8084" text-anchor="middle">20</text>
+<line x1="1156.7" y1="700" x2="1156.7" y2="706" stroke="#6B8084" stroke-width="1.5"/>
+<text x="1156.6666666666667" y="726" font-size="18" fill="#6B8084" text-anchor="middle">25</text>
+<line x1="1360.0" y1="700" x2="1360.0" y2="706" stroke="#6B8084" stroke-width="1.5"/>
+<text x="1360.0" y="726" font-size="18" fill="#6B8084" text-anchor="middle">30</text>
+<text x="750.0" y="760" font-size="20" fill="#345963" font-weight="600" text-anchor="middle">Depth in the body (cm)</text>
+<text x="84" y="252" font-size="19" fill="#345963" font-weight="600">Relative dose (%)</text>
+<path d="M140.0,486.3 L148.1,459.4 L156.3,434.8 L164.4,412.4 L172.5,392.3 L180.7,374.4 L188.8,358.7 L196.9,345.3 L205.1,334.1 L213.2,325.1 L221.3,318.4 L229.5,313.9 L237.6,311.7 L245.7,313.8 L253.9,318.4 L262.0,322.9 L270.1,327.4 L278.3,331.9 L286.4,336.2 L294.5,340.6 L302.7,344.9 L310.8,349.1 L318.9,353.3 L327.1,357.4 L335.2,361.5 L343.3,365.6 L351.5,369.5 L359.6,373.5 L367.7,377.4 L375.9,381.2 L384.0,385.0 L392.1,388.8 L400.3,392.5 L408.4,396.2 L416.5,399.8 L424.7,403.4 L432.8,406.9 L440.9,410.4 L449.1,413.9 L457.2,417.3 L465.3,420.6 L473.5,424.0 L481.6,427.3 L489.7,430.5 L497.9,433.7 L506.0,436.9 L514.1,440.1 L522.3,443.2 L530.4,446.2 L538.5,449.2 L546.7,452.2 L554.8,455.2 L562.9,458.1 L571.1,461.0 L579.2,463.8 L587.3,466.7 L595.5,469.4 L603.6,472.2 L611.7,474.9 L619.9,477.6 L628.0,480.3 L636.1,482.9 L644.3,485.5 L652.4,488.0 L660.5,490.6 L668.7,493.1 L676.8,495.5 L684.9,498.0 L693.1,500.4 L701.2,502.7 L709.3,505.1 L717.5,507.4 L725.6,509.7 L733.7,512.0 L741.9,514.2 L750.0,516.5 L758.1,518.6 L766.3,520.8 L774.4,522.9 L782.5,525.1 L790.7,527.1 L798.8,529.2 L806.9,531.2 L815.1,533.3 L823.2,535.2 L831.3,537.2 L839.5,539.1 L847.6,541.1 L855.7,543.0 L863.9,544.8 L872.0,546.7 L880.1,548.5 L888.3,550.3 L896.4,552.1 L904.5,553.9 L912.7,555.6 L920.8,557.3 L928.9,559.0 L937.1,560.7 L945.2,562.4 L953.3,564.0 L961.5,565.6 L969.6,567.2 L977.7,568.8 L985.9,570.4 L994.0,571.9 L1002.1,573.5 L1010.3,575.0 L1018.4,576.5 L1026.5,577.9 L1034.7,579.4 L1042.8,580.8 L1050.9,582.3 L1059.1,583.7 L1067.2,585.1 L1075.3,586.4 L1083.5,587.8 L1091.6,589.1 L1099.7,590.4 L1107.9,591.7 L1116.0,593.0 L1124.1,594.3 L1132.3,595.6 L1140.4,596.8 L1148.5,598.1 L1156.7,599.3 L1164.8,600.5 L1172.9,601.7 L1181.1,602.8 L1189.2,604.0 L1197.3,605.1 L1205.5,606.3 L1213.6,607.4 L1221.7,608.5 L1229.9,609.6 L1238.0,610.7 L1246.1,611.7 L1254.3,612.8 L1262.4,613.8 L1270.5,614.8 L1278.7,615.9 L1286.8,616.9 L1294.9,617.9 L1303.1,618.8 L1311.2,619.8 L1319.3,620.8 L1327.5,621.7 L1335.6,622.6 L1343.7,623.6 L1351.9,624.5 L1360.0,625.4" fill="none" stroke="#5C77C4" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M140.0,560.1 L148.1,559.7 L156.3,559.3 L164.4,558.9 L172.5,558.6 L180.7,558.2 L188.8,557.8 L196.9,557.4 L205.1,557.0 L213.2,556.6 L221.3,556.2 L229.5,555.8 L237.6,555.5 L245.7,555.1 L253.9,554.7 L262.0,554.3 L270.1,553.9 L278.3,553.5 L286.4,553.1 L294.5,552.7 L302.7,552.3 L310.8,552.0 L318.9,551.6 L327.1,551.2 L335.2,550.8 L343.3,550.4 L351.5,550.0 L359.6,549.6 L367.7,549.2 L375.9,548.8 L384.0,548.5 L392.1,548.1 L400.3,547.7 L408.4,547.3 L416.5,546.9 L424.7,546.5 L432.8,546.1 L440.9,545.7 L449.1,545.3 L457.2,545.0 L465.3,544.6 L473.5,544.2 L481.6,543.8 L489.7,543.4 L497.9,543.0 L506.0,542.6 L514.1,542.2 L522.3,541.9 L530.4,541.5 L538.5,541.1 L546.7,540.7 L554.8,540.3 L562.9,539.9 L571.1,539.5 L579.2,539.1 L587.3,538.7 L595.5,517.0 L603.6,460.2 L611.7,390.0 L619.9,333.1 L628.0,311.4 L636.1,311.4 L644.3,311.4 L652.4,311.4 L660.5,311.4 L668.7,311.4 L676.8,311.4 L684.9,311.4 L693.1,311.4 L701.2,311.4 L709.3,311.4 L717.5,311.4 L725.6,311.4 L733.7,311.4 L741.9,311.4 L750.0,311.4 L758.1,311.4 L766.3,311.4 L774.4,311.4 L782.5,311.4 L790.7,311.4 L798.8,356.2 L806.9,469.6 L815.1,598.5 L823.2,682.6 L831.3,694.8 L839.5,696.0 L847.6,697.2 L855.7,698.4 L863.9,698.4" fill="none" stroke="#00806B" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M140.0,579.5 L148.1,579.3 L156.3,579.0 L164.4,578.7 L172.5,578.5 L180.7,578.2 L188.8,577.9 L196.9,577.6 L205.1,577.4 L213.2,577.1 L221.3,576.8 L229.5,576.6 L237.6,576.3 L245.7,576.0 L253.9,575.7 L262.0,575.5 L270.1,575.2 L278.3,574.9 L286.4,574.6 L294.5,574.4 L302.7,574.1 L310.8,573.8 L318.9,573.6 L327.1,573.3 L335.2,573.0 L343.3,572.7 L351.5,572.5 L359.6,572.2 L367.7,571.9 L375.9,571.7 L384.0,571.4 L392.1,571.1 L400.3,570.8 L408.4,570.6 L416.5,570.3 L424.7,570.0 L432.8,569.8 L440.9,569.5 L449.1,569.2 L457.2,568.9 L465.3,568.7 L473.5,568.4 L481.6,568.1 L489.7,567.8 L497.9,567.6 L506.0,567.3 L514.1,567.0 L522.3,566.8 L530.4,566.5 L538.5,566.2 L546.7,565.9 L554.8,565.7 L562.9,565.4 L571.1,565.1 L579.2,564.9 L587.3,564.6 L595.5,562.3 L603.6,560.0 L611.7,557.6 L619.9,555.3 L628.0,553.0 L636.1,550.7 L644.3,548.4 L652.4,546.1 L660.5,543.7 L668.7,541.4 L676.8,539.1 L684.9,536.8 L693.1,515.3 L701.2,458.9 L709.3,389.3 L717.5,332.9 L725.6,311.4 L733.7,311.4 L741.9,311.4 L750.0,311.4 L758.1,311.4 L766.3,311.4 L774.4,311.4 L782.5,311.4 L790.7,343.3 L798.8,530.1 L806.9,645.6 L815.1,646.5 L823.2,647.3 L831.3,648.1 L839.5,649.0 L847.6,649.8 L855.7,650.6 L863.9,651.4 L872.0,652.1 L880.1,652.9 L888.3,653.6 L896.4,654.4 L904.5,655.1 L912.7,655.8 L920.8,656.5 L928.9,657.2 L937.1,657.9 L945.2,658.6 L953.3,659.2 L961.5,659.9 L969.6,660.5 L977.7,661.1 L985.9,661.7 L994.0,662.3 L1002.1,662.9 L1010.3,663.5 L1018.4,664.1 L1026.5,664.7 L1034.7,665.2 L1042.8,665.8 L1050.9,666.3 L1059.1,666.9 L1067.2,667.4 L1075.3,667.9 L1083.5,668.4 L1091.6,668.9 L1099.7,669.4 L1107.9,669.9 L1116.0,670.4 L1124.1,670.9 L1132.3,671.3 L1140.4,671.8 L1148.5,672.2 L1156.7,672.7 L1164.8,673.1 L1172.9,673.5 L1181.1,673.9 L1189.2,674.4 L1197.3,674.8 L1205.5,675.2 L1213.6,675.6 L1221.7,675.9 L1229.9,676.3 L1238.0,676.7 L1246.1,677.1 L1254.3,677.4 L1262.4,677.8 L1270.5,678.1 L1278.7,678.5 L1286.8,678.8 L1294.9,679.2 L1303.1,679.5 L1311.2,679.8 L1319.3,680.1 L1327.5,680.5 L1335.6,680.8 L1343.7,681.1 L1351.9,681.4 L1360.0,681.7" fill="none" stroke="#96790F" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="351.4666666666667" y="355.54284623579514" font-size="19" fill="#5C77C4" font-weight="800">Photon</text>
+<text x="384.0" y="536.4571428571428" font-size="19" fill="#00806B" font-weight="800">Proton</text>
+<text x="384.0" y="597.3828571428571" font-size="19" fill="#96790F" font-weight="800">Carbon ion</text>
+<text x="715.4333333333334" y="284" font-size="19" fill="#123641" font-weight="800" text-anchor="middle">Bragg peak (spread out, SOBP)</text>
+<line x1="715" y1="290" x2="715" y2="303" stroke="#6B8084" stroke-width="1.5"/>
+<text x="872.0" y="622" font-size="19" fill="#8F7418" font-weight="700">Carbon fragmentation tail: not zero</text>
+<line x1="933" y1="630" x2="933" y2="650" stroke="#6B8084" stroke-width="1.5"/>
+<text x="1330" y="520" font-size="19" fill="#5C77C4" font-weight="700" text-anchor="end">Photon exit dose leaves the body</text>
+<line x1="1291" y1="528" x2="1291" y2="609" stroke="#6B8084" stroke-width="1.5"/>
+<text x="835.4000000000001" y="686" font-size="17" fill="#00806B" font-weight="700">Proton dose ≈ 0 beyond the peak</text>
+<text x="84" y="812" font-size="16" fill="#6B8084">Schematic, redrawn from open-access data (Tinganelli &amp; Durante 2020; Newhauser &amp; Zhang 2015). Each curve normalised to its own maximum; not exact values.</text>
+  </g>
+</svg>

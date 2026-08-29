@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1982" viewBox="0 0 720 1982" role="img" aria-labelledby="t d">
+  <title id="t">Four technologies, four jurisdictions</title>
+  <desc id="d">Grid of proton, carbon-ion, FLASH and BNCT status in Taiwan, the US, the EU and Japan. Protons: routine self-pay in Taiwan (NHI covers three codes under age 19), device-cleared in the US and EU, many covered indications in Japan. Carbon ions: routine self-pay in Taiwan with zero NHI items, no pathway in the US, centres in Europe, covered in Japan. FLASH: not even a registered trial in Taiwan, in trials in the US and EU, unknown in Japan. BNCT: trials plus a special emergency-access route in Taiwan, no approved boron drug in the US, no record found in the EU, approved and covered for head and neck cancer in Japan. As of August 2026.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="720" height="1982" rx="34" fill="url(#bg)"/>
+  <g class="z">
+<text x="50" y="66" font-size="15" fill="#A98722" font-weight="800" letter-spacing="4px">REGULATORY STATUS GRID</text>
+<text x="50" y="118" font-size="36" fill="#123641" font-weight="800" class="r">One technology,</text>
+<text x="50" y="166" font-size="36" fill="#123641" font-weight="800" class="r">four identities</text>
+<text x="50" y="204" font-size="16" fill="#527078">Each cell abbreviates regulatory + coverage status;</text>
+<text x="50" y="229" font-size="16" fill="#527078">“Unknown” = no citable source found.</text>
+<text x="50" y="262" font-size="15" fill="#8F7418" font-weight="800">As of 2026-08</text>
+<rect x="50" y="276" width="161" height="28" rx="10" fill="#8F7418"/>
+<text x="130.3" y="295.04" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">Approved + covered</text>
+<rect x="223" y="276" width="153" height="28" rx="10" fill="#123641"/>
+<text x="299.05000000000007" y="295.04" font-size="14" fill="#F7F1E4" font-weight="800" text-anchor="middle">Routine, self-pay</text>
+<rect x="388" y="276" width="130" height="28" rx="10" fill="#4E7A87"/>
+<text x="452.4000000000001" y="295.04" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">Device cleared</text>
+<rect x="50" y="314" width="91" height="28" rx="10" fill="#D8C78F"/>
+<text x="95.65" y="333.04" font-size="14" fill="#123641" font-weight="800" text-anchor="middle">In trials</text>
+<rect x="153" y="314" width="99" height="28" rx="10" fill="none" stroke="#8A8375" stroke-width="2"/>
+<text x="202.8" y="333.04" font-size="14" fill="#6B6455" font-weight="800" text-anchor="middle">No pathway</text>
+<rect x="264" y="314" width="76" height="28" rx="10" fill="#EAE3D1" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="302.25" y="333.04" font-size="14" fill="#6B6455" font-weight="800" text-anchor="middle">Unknown</text>
+<rect x="50" y="362" width="620" height="46" rx="14" fill="#123641"/>
+<text x="72" y="393" font-size="20" fill="#F7F1E4" font-weight="800">Proton</text>
+<g filter="url(#sh)"><rect x="50" y="418" width="620" height="316" rx="16" fill="#FFFFFF"/></g>
+<text x="72" y="456" font-size="17" fill="#123641" font-weight="800">Taiwan</text>
+<rect x="150" y="434" width="158" height="30" rx="11" fill="#123641"/>
+<text x="228.78749999999997" y="454.22" font-size="14.5" fill="#F7F1E4" font-weight="800" text-anchor="middle">Routine, self-pay</text>
+<text x="321.57499999999993" y="450" font-size="13.5" fill="#345963">NHI: 3 codes, under 19 only</text>
+<text x="321.57499999999993" y="472" font-size="13.5" fill="#345963">adults pay out of pocket</text>
+<text x="72" y="532" font-size="17" fill="#123641" font-weight="800">US</text>
+<rect x="150" y="510" width="134" height="30" rx="11" fill="#4E7A87"/>
+<text x="216.825" y="530.22" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Device cleared</text>
+<text x="297.65" y="526" font-size="13.5" fill="#345963">92 clearances (510(k))</text>
+<text x="297.65" y="548" font-size="13.5" fill="#345963">coverage varies by payer</text>
+<line x1="66" y1="500" x2="654" y2="500" stroke="#DBD3BF" stroke-width="1"/>
+<text x="72" y="608" font-size="17" fill="#123641" font-weight="800">EU</text>
+<rect x="150" y="586" width="134" height="30" rx="11" fill="#4E7A87"/>
+<text x="216.825" y="606.22" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Device cleared</text>
+<text x="297.65" y="602" font-size="13.5" fill="#345963">CE mark (MDR)</text>
+<text x="297.65" y="624" font-size="13.5" fill="#345963">coverage varies by country</text>
+<line x1="66" y1="576" x2="654" y2="576" stroke="#DBD3BF" stroke-width="1"/>
+<text x="72" y="684" font-size="17" fill="#123641" font-weight="800">Japan</text>
+<rect x="150" y="662" width="134" height="30" rx="11" fill="#4E7A87"/>
+<text x="216.825" y="682.22" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Device cleared</text>
+<text x="297.65" y="678" font-size="13.5" fill="#345963">many indications covered</text>
+<text x="297.65" y="700" font-size="13.5" fill="#345963">(list updated 2026-06)</text>
+<line x1="66" y1="652" x2="654" y2="652" stroke="#DBD3BF" stroke-width="1"/>
+<rect x="50" y="750" width="620" height="46" rx="14" fill="#123641"/>
+<text x="72" y="781" font-size="20" fill="#F7F1E4" font-weight="800">Carbon ion</text>
+<g filter="url(#sh)"><rect x="50" y="806" width="620" height="316" rx="16" fill="#FFFFFF"/></g>
+<text x="72" y="844" font-size="17" fill="#123641" font-weight="800">Taiwan</text>
+<rect x="150" y="822" width="158" height="30" rx="11" fill="#123641"/>
+<text x="228.78749999999997" y="842.22" font-size="14.5" fill="#F7F1E4" font-weight="800" text-anchor="middle">Routine, self-pay</text>
+<text x="321.57499999999993" y="838" font-size="13.5" fill="#345963">zero NHI items</text>
+<text x="321.57499999999993" y="860" font-size="13.5" fill="#345963">ask the hospital for fees</text>
+<text x="72" y="920" font-size="17" fill="#123641" font-weight="800">US</text>
+<rect x="150" y="898" width="102" height="30" rx="11" fill="none" stroke="#8A8375" stroke-width="2"/>
+<text x="200.875" y="918.22" font-size="14.5" fill="#6B6455" font-weight="800" text-anchor="middle">No pathway</text>
+<text x="265.75" y="914" font-size="13.5" fill="#345963">no clinical centre yet</text>
+<text x="265.75" y="936" font-size="13.5" fill="#345963">(first one being built)</text>
+<line x1="66" y1="888" x2="654" y2="888" stroke="#DBD3BF" stroke-width="1"/>
+<text x="72" y="996" font-size="17" fill="#123641" font-weight="800">EU</text>
+<rect x="150" y="974" width="134" height="30" rx="11" fill="#4E7A87"/>
+<text x="216.825" y="994.22" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Device cleared</text>
+<text x="297.65" y="990" font-size="13.5" fill="#345963">centres in DE / IT / AT</text>
+<text x="297.65" y="1012" font-size="13.5" fill="#345963">coverage varies</text>
+<line x1="66" y1="964" x2="654" y2="964" stroke="#DBD3BF" stroke-width="1"/>
+<text x="72" y="1072" font-size="17" fill="#123641" font-weight="800">Japan</text>
+<rect x="150" y="1050" width="134" height="30" rx="11" fill="#4E7A87"/>
+<text x="216.825" y="1070.22" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Device cleared</text>
+<text x="297.65" y="1066" font-size="13.5" fill="#345963">many indications covered</text>
+<text x="297.65" y="1088" font-size="13.5" fill="#345963">(expanded 2024-06)</text>
+<line x1="66" y1="1040" x2="654" y2="1040" stroke="#DBD3BF" stroke-width="1"/>
+<rect x="50" y="1138" width="620" height="46" rx="14" fill="#123641"/>
+<text x="72" y="1169" font-size="20" fill="#F7F1E4" font-weight="800">FLASH</text>
+<g filter="url(#sh)"><rect x="50" y="1194" width="620" height="316" rx="16" fill="#FFFFFF"/></g>
+<text x="72" y="1232" font-size="17" fill="#123641" font-weight="800">Taiwan</text>
+<rect x="150" y="1210" width="102" height="30" rx="11" fill="none" stroke="#8A8375" stroke-width="2"/>
+<text x="200.875" y="1230.22" font-size="14.5" fill="#6B6455" font-weight="800" text-anchor="middle">No pathway</text>
+<text x="265.75" y="1226" font-size="13.5" fill="#345963">zero registered trials</text>
+<text x="265.75" y="1248" font-size="13.5" fill="#345963">(a verified negative)</text>
+<text x="72" y="1308" font-size="17" fill="#123641" font-weight="800">US</text>
+<rect x="150" y="1286" width="94" height="30" rx="11" fill="#D8C78F"/>
+<text x="196.8875" y="1306.22" font-size="14.5" fill="#123641" font-weight="800" text-anchor="middle">In trials</text>
+<text x="257.775" y="1302" font-size="13.5" fill="#345963">FAST-01 / FAST-02</text>
+<text x="257.775" y="1324" font-size="13.5" fill="#345963">investigational device</text>
+<line x1="66" y1="1276" x2="654" y2="1276" stroke="#DBD3BF" stroke-width="1"/>
+<text x="72" y="1384" font-size="17" fill="#123641" font-weight="800">EU</text>
+<rect x="150" y="1362" width="94" height="30" rx="11" fill="#D8C78F"/>
+<text x="196.8875" y="1382.22" font-size="14.5" fill="#123641" font-weight="800" text-anchor="middle">In trials</text>
+<text x="257.775" y="1378" font-size="13.5" fill="#345963">mostly feasibility stage</text>
+<text x="257.775" y="1400" font-size="13.5" fill="#345963">CE status unclear</text>
+<line x1="66" y1="1352" x2="654" y2="1352" stroke="#DBD3BF" stroke-width="1"/>
+<text x="72" y="1460" font-size="17" fill="#123641" font-weight="800">Japan</text>
+<rect x="150" y="1438" width="78" height="30" rx="11" fill="#EAE3D1" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="188.9125" y="1458.22" font-size="14.5" fill="#6B6455" font-weight="800" text-anchor="middle">Unknown</text>
+<text x="241.825" y="1464" font-size="13.5" fill="#345963">no trial or approval found</text>
+<line x1="66" y1="1428" x2="654" y2="1428" stroke="#DBD3BF" stroke-width="1"/>
+<rect x="50" y="1526" width="620" height="46" rx="14" fill="#123641"/>
+<text x="72" y="1557" font-size="20" fill="#F7F1E4" font-weight="800">BNCT</text>
+<g filter="url(#sh)"><rect x="50" y="1582" width="620" height="316" rx="16" fill="#FFFFFF"/></g>
+<text x="72" y="1620" font-size="17" fill="#123641" font-weight="800">Taiwan</text>
+<rect x="150" y="1598" width="94" height="30" rx="11" fill="#D8C78F"/>
+<text x="196.8875" y="1618.22" font-size="14.5" fill="#123641" font-weight="800" text-anchor="middle">In trials</text>
+<text x="257.775" y="1614" font-size="13.5" fill="#345963">trials recruiting, plus a</text>
+<text x="257.775" y="1636" font-size="13.5" fill="#345963">special emergency route</text>
+<text x="72" y="1696" font-size="17" fill="#123641" font-weight="800">US</text>
+<rect x="150" y="1674" width="102" height="30" rx="11" fill="none" stroke="#8A8375" stroke-width="2"/>
+<text x="200.875" y="1694.22" font-size="14.5" fill="#6B6455" font-weight="800" text-anchor="middle">No pathway</text>
+<text x="265.75" y="1700" font-size="13.5" fill="#345963">no approved boron drug</text>
+<line x1="66" y1="1664" x2="654" y2="1664" stroke="#DBD3BF" stroke-width="1"/>
+<text x="72" y="1772" font-size="17" fill="#123641" font-weight="800">EU</text>
+<rect x="150" y="1750" width="78" height="30" rx="11" fill="#EAE3D1" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="188.9125" y="1770.22" font-size="14.5" fill="#6B6455" font-weight="800" text-anchor="middle">Unknown</text>
+<text x="241.825" y="1776" font-size="13.5" fill="#345963">no approval record found</text>
+<line x1="66" y1="1740" x2="654" y2="1740" stroke="#DBD3BF" stroke-width="1"/>
+<text x="72" y="1848" font-size="17" fill="#123641" font-weight="800">Japan</text>
+<rect x="150" y="1826" width="166" height="30" rx="11" fill="#8F7418"/>
+<text x="232.77499999999998" y="1846.22" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Approved + covered</text>
+<text x="329.54999999999995" y="1842" font-size="13.5" fill="#345963">head &amp; neck only (2020)</text>
+<text x="329.54999999999995" y="1864" font-size="13.5" fill="#345963">insurance-covered</text>
+<line x1="66" y1="1816" x2="654" y2="1816" stroke="#DBD3BF" stroke-width="1"/>
+<text x="50" y="1932" font-size="13" fill="#6B8084">Compiled from official sources; US coverage varies by insurer.</text>
+<text x="50" y="1954" font-size="13" fill="#6B8084">Schematic summary, not medical advice.</text>
+  </g>
+</svg>

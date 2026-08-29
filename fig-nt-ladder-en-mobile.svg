@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1300" viewBox="0 0 720 1300" role="img" aria-labelledby="t d">
+  <title id="t">Where each technology sits on the evidence ladder</title>
+  <desc id="d">Evidence ladder from bottom to top: cell and animal studies, phase I safety, single-arm series, randomised trials, routine care and reimbursement. FLASH sits at phase I (about 30 patients worldwide); carbon-ion therapy at single-arm series (its only randomised readout is a safety trial versus protons, no difference); BNCT sits between single-arm and randomised, with a Japanese approval and reimbursement for one head-and-neck indication; protons sit at randomised trials with mixed readouts and a paediatric consensus. A greyed placeholder marks cell therapy, to be covered later.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="720" height="1300" rx="34" fill="url(#bg)"/>
+  <g class="z">
+<text x="50" y="66" font-size="15" fill="#A98722" font-weight="800" letter-spacing="4px">EVIDENCE LADDER</text>
+<text x="50" y="118" font-size="36" fill="#123641" font-weight="800" class="r">How far has each</text>
+<text x="50" y="166" font-size="36" fill="#123641" font-weight="800" class="r">technology climbed?</text>
+<text x="50" y="204" font-size="16" fill="#527078">Position = highest completed evidence, not a ranking of merit.</text>
+<text x="50" y="229" font-size="16" fill="#527078">Every new technology still has to climb rung by rung.</text>
+<g filter="url(#sh)"><rect x="50" y="272" width="620" height="70" rx="20" fill="#FFFFFF"/></g>
+<text x="82" y="312" font-size="14" fill="#A98722" font-weight="800">Rung 5</text>
+<text x="178" y="314" font-size="22" fill="#123641" font-weight="800">Routine care &amp; coverage</text>
+<g filter="url(#sh)"><rect x="50" y="356" width="620" height="170" rx="20" fill="#FFFFFF"/></g>
+<text x="82" y="396" font-size="14" fill="#A98722" font-weight="800">Rung 4</text>
+<text x="178" y="398" font-size="22" fill="#123641" font-weight="800">Randomised trials</text>
+<rect x="82" y="418" width="84" height="36" rx="16" fill="#00806B"/>
+<text x="124.05000000000001" y="442.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="middle">Proton</text>
+<text x="82" y="480" font-size="15.5" fill="#345963">Several randomised readouts, mixed;</text>
+<text x="82" y="504" font-size="15.5" fill="#345963">consensus supports paediatric use.</text>
+<rect x="50" y="540" width="620" height="142" rx="20" fill="none" stroke="#C9A83E" stroke-width="2" stroke-dasharray="8 6"/>
+<path d="M92.0,562.0 L94.6,568.4 L101.5,568.9 L96.3,573.4 L97.9,580.1 L92.0,576.5 L86.1,580.1 L87.7,573.4 L82.5,568.9 L89.4,568.4 Z" fill="#C9A83E" stroke="#8F7418" stroke-width="1"/>
+<rect x="112" y="554" width="65" height="36" rx="16" fill="#123641"/>
+<text x="144.7" y="578.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="middle">BNCT</text>
+<text x="82" y="614" font-size="15.5" fill="#345963">Between two rungs: approved + reimbursed in</text>
+<text x="82" y="638" font-size="15.5" fill="#345963">Japan for one head &amp; neck indication (2020);</text>
+<text x="82" y="662" font-size="15.5" fill="#345963">everything else still in trials.</text>
+<g filter="url(#sh)"><rect x="50" y="696" width="620" height="194" rx="20" fill="#FFFFFF"/></g>
+<text x="82" y="736" font-size="14" fill="#A98722" font-weight="800">Rung 3</text>
+<text x="178" y="738" font-size="22" fill="#123641" font-weight="800">Single-arm series</text>
+<rect x="82" y="758" width="122" height="36" rx="16" fill="#96790F"/>
+<text x="142.75" y="782.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="middle">Carbon ion</text>
+<text x="82" y="820" font-size="15.5" fill="#345963">Large single-arm series (&gt;50,000 patients)</text>
+<text x="82" y="844" font-size="15.5" fill="#6B8084">※ Only randomised readout: phase II safety</text>
+<text x="82" y="868" font-size="15.5" fill="#345963">trial vs protons (n=82) — no difference.</text>
+<g filter="url(#sh)"><rect x="50" y="904" width="620" height="170" rx="20" fill="#FFFFFF"/></g>
+<text x="82" y="944" font-size="14" fill="#A98722" font-weight="800">Rung 2</text>
+<text x="178" y="946" font-size="22" fill="#123641" font-weight="800">Phase I (safety)</text>
+<rect x="82" y="966" width="75" height="36" rx="16" fill="#5C77C4"/>
+<text x="119.375" y="990.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="middle">FLASH</text>
+<text x="82" y="1028" font-size="15.5" fill="#345963">Phase I feasibility / safety;</text>
+<text x="82" y="1052" font-size="15.5" fill="#345963">about 30 patients worldwide.</text>
+<g filter="url(#sh)"><rect x="50" y="1088" width="620" height="146" rx="20" fill="#FFFFFF"/></g>
+<text x="82" y="1128" font-size="14" fill="#A98722" font-weight="800">Rung 1</text>
+<text x="178" y="1130" font-size="22" fill="#123641" font-weight="800">Cell &amp; animal studies</text>
+<rect x="82" y="1150" width="280" height="36" rx="16" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="222.22499999999997" y="1174.12" font-size="17" fill="#9A9282" font-weight="800" text-anchor="middle">Cell therapy (coming later)</text>
+<text x="82" y="1212" font-size="15.5" fill="#345963">Placeholder: this topic will grow.</text>
+<text x="50" y="1272" font-size="13.5" fill="#6B8084">Per published trials and regulatory status (2026-08). Schematic.</text>
+  </g>
+</svg>
