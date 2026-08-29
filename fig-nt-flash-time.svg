@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="t d">
+  <title id="t">FLASH 壓縮的是哪一段時間</title>
+  <desc id="d">三部分：一、傳統療程以RTOG 0617標準臂為例，60 Gy分30次、約六週，每次回診出束約數分鐘。二、同一個8 Gy緩和處方的出束時間：傳統約0.03 Gy/s要約267秒（約4.5分鐘），FLASH以至少40 Gy/s只要0.2秒以下，相差千倍以上。三、但FAST-01試驗實測，病人在治療床上的總時間平均仍約19分鐘——擺位與影像佔掉幾乎全部時間；FLASH壓縮的是出束，不是整個療程。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="900" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">WHAT FLASH COMPRESSES</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">快的是出束，不是整個療程</text>
+<text x="84" y="194" font-size="21" fill="#527078">劑量率相差超過 1,000 倍（≥40 Gy/s 對 ≤0.03 Gy/s）；</text>
+<text x="84" y="224" font-size="21" fill="#527078">但擺位與影像的時間，一分鐘都沒有少。</text>
+<text x="84" y="268" font-size="19" fill="#8F7418" font-weight="800">傳統分次療程（例：RTOG 0617 標準臂）</text>
+<rect x="84" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="105" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="126" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="147" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="168" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="134" y="372" font-size="15" fill="#6B8084" text-anchor="middle">第1週</text>
+<rect x="230" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="251" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="272" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="293" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="314" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="280" y="372" font-size="15" fill="#6B8084" text-anchor="middle">第2週</text>
+<rect x="376" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="397" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="418" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="439" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="460" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="426" y="372" font-size="15" fill="#6B8084" text-anchor="middle">第3週</text>
+<rect x="522" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="543" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="564" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="585" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="606" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="572" y="372" font-size="15" fill="#6B8084" text-anchor="middle">第4週</text>
+<rect x="668" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="689" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="710" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="731" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="752" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="718" y="372" font-size="15" fill="#6B8084" text-anchor="middle">第5週</text>
+<rect x="814" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="835" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="856" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="877" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<rect x="898" y="300" width="15" height="44" rx="4" fill="#D8C78F"/>
+<text x="864" y="372" font-size="15" fill="#6B8084" text-anchor="middle">第6週</text>
+<text x="970" y="322" font-size="20" fill="#123641" font-weight="800">60 Gy／每日 2 Gy／共 30 次／約 6 週</text>
+<text x="970" y="352" font-size="16.5" fill="#6B8084">每次回診，出束約數分鐘</text>
+<text x="84" y="452" font-size="19" fill="#8F7418" font-weight="800">同一個 8 Gy 緩和處方，出束時間差多少？</text>
+<text x="352" y="512" font-size="18" fill="#345963" font-weight="700" text-anchor="end">傳統（約 0.03 Gy/s）</text>
+<rect x="372" y="488" width="760" height="38" rx="4" fill="#527078"/>
+<text x="1148" y="512" font-size="19" fill="#123641" font-weight="800">約 267 秒（≈4.5 分鐘）</text>
+<text x="352" y="576" font-size="18" fill="#345963" font-weight="700" text-anchor="end">FLASH（≥40 Gy/s）</text>
+<rect x="372" y="552" width="5" height="38" rx="2" fill="#8F7418"/>
+<text x="393" y="576" font-size="19" fill="#8F7418" font-weight="800">≤0.2 秒</text>
+<text x="502" y="576" font-size="16" fill="#6B8084">依比例畫不到 1 像素寬——相差 &gt;1,000 倍</text>
+<text x="84" y="632" font-size="16" fill="#6B8084">實測：CHUV 首例 15 Gy／90 毫秒・IMPulse 10 個脈衝共 90 毫秒</text>
+<g filter="url(#sh)"><rect x="84" y="664" width="1272" height="158" rx="24" fill="#123641"/></g>
+<text x="120" y="710" font-size="25" fill="#F7F1E4" font-weight="800">但整個療程並沒有變成一秒</text>
+<text x="120" y="746" font-size="18.5" fill="#D4E0DF">FAST-01 實測：出束不到 1 秒，病人在治療床上的總時間平均仍約 19 分鐘</text>
+<text x="120" y="773" font-size="18.5" fill="#D4E0DF">——擺位與影像佔掉幾乎全部時間。</text>
+<line x1="120" y1="788" x2="1320" y2="788" stroke="#C9A83E" stroke-width="0"/>
+<text x="120" y="806" font-size="19" fill="#F2D879" font-weight="800">FLASH 壓縮的是「出束」，不是看診流程；分次策略也還沒有共識。</text>
+<text x="84" y="872" font-size="16" fill="#6B8084">示意圖，依 Favaudon 2014、Mascia 2023（FAST-01）重繪｜出束時間由劑量率換算</text>
+  </g>
+</svg>

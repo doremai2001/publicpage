@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="950" viewBox="0 0 1440 950" role="img" aria-labelledby="t d">
+  <title id="t">四種技術 × 四地的法規與給付身分</title>
+  <desc id="d">表格：質子、碳離子（重粒子）、FLASH、BNCT在台灣、美國、歐盟、日本的身分。質子：台灣自費常規（未滿19歲有三項健保）、美歐機器許可、日本多項適應症納保。碳離子：台灣自費常規且健保零項目、美國無路徑、歐盟有中心、日本納保多項。FLASH：台灣連註冊試驗都沒有、美歐試驗中、日本不明。BNCT：台灣試驗中另有專案性質緊急管道、美國無核准硼藥、歐盟查無紀錄、日本就頭頸癌有藥證與給付。資料時點2026年8月。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="950" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">REGULATORY STATUS GRID</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">同一種技術，在四個地方是四種身分</text>
+<text x="84" y="194" font-size="21" fill="#527078">每格是法規與給付現況的縮寫；「不明」＝查無可引用來源，不以推測補齊。</text>
+<rect x="84" y="222" width="114" height="30" rx="11" fill="#8F7418"/>
+<text x="141.0" y="242.4" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">有藥證＋給付</text>
+<rect x="214" y="222" width="84" height="30" rx="11" fill="#123641"/>
+<text x="256.0" y="242.4" font-size="15" fill="#F7F1E4" font-weight="800" text-anchor="middle">自費常規</text>
+<rect x="314" y="222" width="84" height="30" rx="11" fill="#4E7A87"/>
+<text x="356.0" y="242.4" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">機器許可</text>
+<rect x="414" y="222" width="69" height="30" rx="11" fill="#D8C78F"/>
+<text x="448.5" y="242.4" font-size="15" fill="#123641" font-weight="800" text-anchor="middle">試驗中</text>
+<rect x="499" y="222" width="69" height="30" rx="11" fill="none" stroke="#8A8375" stroke-width="2"/>
+<text x="533.5" y="242.4" font-size="15" fill="#6B6455" font-weight="800" text-anchor="middle">無路徑</text>
+<rect x="584" y="222" width="54" height="30" rx="11" fill="#EAE3D1" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="611.0" y="242.4" font-size="15" fill="#6B6455" font-weight="800" text-anchor="middle">不明</text>
+<text x="1356" y="242" font-size="17" fill="#8F7418" font-weight="800" text-anchor="end">資料時點：2026-08</text>
+<text x="449.5" y="282" font-size="21" fill="#123641" font-weight="800" text-anchor="middle">台灣</text>
+<text x="708.5" y="282" font-size="21" fill="#123641" font-weight="800" text-anchor="middle">美國</text>
+<text x="967.5" y="282" font-size="21" fill="#123641" font-weight="800" text-anchor="middle">歐盟</text>
+<text x="1226.5" y="282" font-size="21" fill="#123641" font-weight="800" text-anchor="middle">日本</text>
+<g filter="url(#sh)"><rect x="84" y="296" width="1272" height="126" rx="16" fill="#FFFFFF"/></g>
+<text x="110" y="363.0" font-size="21" fill="#123641" font-weight="800">質子</text>
+<rect x="336" y="314" width="92" height="34" rx="13" fill="#123641"/>
+<text x="382.0" y="336.94" font-size="16.5" fill="#F7F1E4" font-weight="800" text-anchor="middle">自費常規</text>
+<text x="338" y="376" font-size="15.5" fill="#345963">未滿 19 歲：健保三項</text>
+<text x="338" y="400" font-size="15.5" fill="#345963">成人：全自費</text>
+<rect x="595" y="314" width="92" height="34" rx="13" fill="#4E7A87"/>
+<text x="641.0" y="336.94" font-size="16.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">機器許可</text>
+<text x="597" y="376" font-size="15.5" fill="#345963">510(k) 共 92 筆</text>
+<text x="597" y="400" font-size="15.5" fill="#345963">給付：查無統一來源</text>
+<line x1="579" y1="310" x2="579" y2="408" stroke="#DBD3BF" stroke-width="1"/>
+<rect x="854" y="314" width="92" height="34" rx="13" fill="#4E7A87"/>
+<text x="900.0" y="336.94" font-size="16.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">機器許可</text>
+<text x="856" y="376" font-size="15.5" fill="#345963">CE（MDR）</text>
+<text x="856" y="400" font-size="15.5" fill="#345963">給付各會員國不同</text>
+<line x1="838" y1="310" x2="838" y2="408" stroke="#DBD3BF" stroke-width="1"/>
+<rect x="1113" y="314" width="92" height="34" rx="13" fill="#4E7A87"/>
+<text x="1159.0" y="336.94" font-size="16.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">機器許可</text>
+<text x="1115" y="376" font-size="15.5" fill="#345963">多項適應症納保</text>
+<text x="1115" y="400" font-size="15.5" fill="#345963">（2026-06 清單）</text>
+<line x1="1097" y1="310" x2="1097" y2="408" stroke="#DBD3BF" stroke-width="1"/>
+<g filter="url(#sh)"><rect x="84" y="434" width="1272" height="126" rx="16" fill="#F8F3E7"/></g>
+<text x="110" y="501.0" font-size="21" fill="#123641" font-weight="800">碳離子（重粒子）</text>
+<rect x="336" y="452" width="92" height="34" rx="13" fill="#123641"/>
+<text x="382.0" y="474.94" font-size="16.5" fill="#F7F1E4" font-weight="800" text-anchor="middle">自費常規</text>
+<text x="338" y="514" font-size="15.5" fill="#345963">健保零項目</text>
+<text x="338" y="538" font-size="15.5" fill="#345963">費用向醫務課確認</text>
+<rect x="595" y="452" width="76" height="34" rx="13" fill="none" stroke="#8A8375" stroke-width="2"/>
+<text x="632.75" y="474.94" font-size="16.5" fill="#6B6455" font-weight="800" text-anchor="middle">無路徑</text>
+<text x="597" y="514" font-size="15.5" fill="#345963">零臨床運轉中心</text>
+<text x="597" y="538" font-size="15.5" fill="#345963">（第一家興建中）</text>
+<line x1="579" y1="448" x2="579" y2="546" stroke="#DBD3BF" stroke-width="1"/>
+<rect x="854" y="452" width="92" height="34" rx="13" fill="#4E7A87"/>
+<text x="900.0" y="474.94" font-size="16.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">機器許可</text>
+<text x="856" y="514" font-size="15.5" fill="#345963">德、義、奧有中心</text>
+<text x="856" y="538" font-size="15.5" fill="#345963">給付各國不同</text>
+<line x1="838" y1="448" x2="838" y2="546" stroke="#DBD3BF" stroke-width="1"/>
+<rect x="1113" y="452" width="92" height="34" rx="13" fill="#4E7A87"/>
+<text x="1159.0" y="474.94" font-size="16.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">機器許可</text>
+<text x="1115" y="514" font-size="15.5" fill="#345963">保險收載多項</text>
+<text x="1115" y="538" font-size="15.5" fill="#345963">（2024-06 擴大）</text>
+<line x1="1097" y1="448" x2="1097" y2="546" stroke="#DBD3BF" stroke-width="1"/>
+<g filter="url(#sh)"><rect x="84" y="572" width="1272" height="126" rx="16" fill="#FFFFFF"/></g>
+<text x="110" y="639.0" font-size="21" fill="#123641" font-weight="800">FLASH</text>
+<rect x="336" y="590" width="76" height="34" rx="13" fill="none" stroke="#8A8375" stroke-width="2"/>
+<text x="373.75" y="612.94" font-size="16.5" fill="#6B6455" font-weight="800" text-anchor="middle">無路徑</text>
+<text x="338" y="652" font-size="15.5" fill="#345963">註冊試驗 0 筆</text>
+<text x="338" y="676" font-size="15.5" fill="#345963">（查證過的陰性）</text>
+<rect x="595" y="590" width="76" height="34" rx="13" fill="#D8C78F"/>
+<text x="632.75" y="612.94" font-size="16.5" fill="#123641" font-weight="800" text-anchor="middle">試驗中</text>
+<text x="597" y="652" font-size="15.5" fill="#345963">FAST-01／02</text>
+<text x="597" y="676" font-size="15.5" fill="#345963">試驗用器材（IDE）</text>
+<line x1="579" y1="586" x2="579" y2="684" stroke="#DBD3BF" stroke-width="1"/>
+<rect x="854" y="590" width="76" height="34" rx="13" fill="#D8C78F"/>
+<text x="891.75" y="612.94" font-size="16.5" fill="#123641" font-weight="800" text-anchor="middle">試驗中</text>
+<text x="856" y="652" font-size="15.5" fill="#345963">多在可行性階段</text>
+<text x="856" y="676" font-size="15.5" fill="#345963">CE 情形不明</text>
+<line x1="838" y1="586" x2="838" y2="684" stroke="#DBD3BF" stroke-width="1"/>
+<rect x="1113" y="590" width="59" height="34" rx="13" fill="#EAE3D1" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="1142.5" y="612.94" font-size="16.5" fill="#6B6455" font-weight="800" text-anchor="middle">不明</text>
+<text x="1115" y="652" font-size="15.5" fill="#345963">查無試驗或核准</text>
+<line x1="1097" y1="586" x2="1097" y2="684" stroke="#DBD3BF" stroke-width="1"/>
+<g filter="url(#sh)"><rect x="84" y="710" width="1272" height="126" rx="16" fill="#F8F3E7"/></g>
+<text x="110" y="777.0" font-size="21" fill="#123641" font-weight="800">BNCT</text>
+<rect x="336" y="728" width="76" height="34" rx="13" fill="#D8C78F"/>
+<text x="373.75" y="750.94" font-size="16.5" fill="#123641" font-weight="800" text-anchor="middle">試驗中</text>
+<text x="338" y="790" font-size="15.5" fill="#345963">試驗招募中</text>
+<text x="338" y="814" font-size="15.5" fill="#345963">另有專案性質緊急管道</text>
+<rect x="595" y="728" width="76" height="34" rx="13" fill="none" stroke="#8A8375" stroke-width="2"/>
+<text x="632.75" y="750.94" font-size="16.5" fill="#6B6455" font-weight="800" text-anchor="middle">無路徑</text>
+<text x="597" y="790" font-size="15.5" fill="#345963">無核准硼藥</text>
+<line x1="579" y1="724" x2="579" y2="822" stroke="#DBD3BF" stroke-width="1"/>
+<rect x="854" y="728" width="59" height="34" rx="13" fill="#EAE3D1" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="883.5" y="750.94" font-size="16.5" fill="#6B6455" font-weight="800" text-anchor="middle">不明</text>
+<text x="856" y="790" font-size="15.5" fill="#345963">查無核准紀錄</text>
+<line x1="838" y1="724" x2="838" y2="822" stroke="#DBD3BF" stroke-width="1"/>
+<rect x="1113" y="728" width="125" height="34" rx="13" fill="#8F7418"/>
+<text x="1175.5" y="750.94" font-size="16.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">有藥證＋給付</text>
+<text x="1115" y="790" font-size="15.5" fill="#345963">頭頸癌單一適應症</text>
+<text x="1115" y="814" font-size="15.5" fill="#345963">（2020；健保給付）</text>
+<line x1="1097" y1="724" x2="1097" y2="822" stroke="#DBD3BF" stroke-width="1"/>
+<text x="84" y="922" font-size="16" fill="#6B8084">依各地官方來源彙整；美國給付依保險人而異、無統一來源｜示意整理，非個別就醫建議</text>
+  </g>
+</svg>

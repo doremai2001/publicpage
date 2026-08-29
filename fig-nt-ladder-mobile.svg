@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1276" viewBox="0 0 720 1276" role="img" aria-labelledby="t d">
+  <title id="t">四種技術在證據階梯上的位置</title>
+  <desc id="d">證據階梯由低到高：細胞與動物實驗、第一期安全性試驗、單臂系列、隨機試驗、常規與給付。FLASH位於第一期（全球人體經驗約30人）；重粒子位於單臂系列（唯一讀出的隨機試驗是對質子的安全性試驗，無差異）；BNCT介於單臂與隨機之間，日本已就頭頸癌單一適應症取得藥證與給付；質子位於隨機試驗（多個讀出、結果不一，兒童使用有共識）。另有灰色的細胞治療佔位。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="720" height="1276" rx="34" fill="url(#bg)"/>
+  <g class="z">
+<text x="50" y="66" font-size="15" fill="#A98722" font-weight="800" letter-spacing="4px">EVIDENCE LADDER</text>
+<text x="50" y="118" font-size="36" fill="#123641" font-weight="800" class="r">每種技術，爬到</text>
+<text x="50" y="166" font-size="36" fill="#123641" font-weight="800" class="r">證據階梯的哪一階？</text>
+<text x="50" y="204" font-size="16" fill="#527078">位置＝已完成的最高證據層級，不是優劣排名。</text>
+<text x="50" y="229" font-size="16" fill="#527078">再新的技術，也要一階一階把證據爬完。</text>
+<g filter="url(#sh)"><rect x="50" y="272" width="620" height="70" rx="20" fill="#FFFFFF"/></g>
+<text x="82" y="312" font-size="14" fill="#A98722" font-weight="800">第5階</text>
+<text x="170" y="314" font-size="22" fill="#123641" font-weight="800">常規與給付</text>
+<g filter="url(#sh)"><rect x="50" y="356" width="620" height="170" rx="20" fill="#FFFFFF"/></g>
+<text x="82" y="396" font-size="14" fill="#A98722" font-weight="800">第4階</text>
+<text x="170" y="398" font-size="22" fill="#123641" font-weight="800">隨機試驗</text>
+<rect x="82" y="418" width="62" height="36" rx="16" fill="#00806B"/>
+<text x="113.0" y="442.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="middle">質子</text>
+<text x="82" y="480" font-size="15.5" fill="#345963">多個隨機讀出、結果不一；</text>
+<text x="82" y="504" font-size="15.5" fill="#345963">兒童使用已有專業共識。</text>
+<rect x="50" y="540" width="620" height="118" rx="20" fill="none" stroke="#C9A83E" stroke-width="2" stroke-dasharray="8 6"/>
+<path d="M92.0,562.0 L94.6,568.4 L101.5,568.9 L96.3,573.4 L97.9,580.1 L92.0,576.5 L86.1,580.1 L87.7,573.4 L82.5,568.9 L89.4,568.4 Z" fill="#C9A83E" stroke="#8F7418" stroke-width="1"/>
+<rect x="112" y="554" width="65" height="36" rx="16" fill="#123641"/>
+<text x="144.7" y="578.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="middle">BNCT</text>
+<text x="82" y="614" font-size="15.5" fill="#345963">介於兩階之間：日本就「頭頸癌」單一適應症</text>
+<text x="82" y="638" font-size="15.5" fill="#345963">取得藥證＋健保給付（2020）；其餘仍在試驗。</text>
+<g filter="url(#sh)"><rect x="50" y="672" width="620" height="194" rx="20" fill="#FFFFFF"/></g>
+<text x="82" y="712" font-size="14" fill="#A98722" font-weight="800">第3階</text>
+<text x="170" y="714" font-size="22" fill="#123641" font-weight="800">單臂系列</text>
+<rect x="82" y="734" width="79" height="36" rx="16" fill="#96790F"/>
+<text x="121.5" y="758.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="middle">重粒子</text>
+<text x="82" y="796" font-size="15.5" fill="#345963">大量單臂系列（全球逾 5 萬人）</text>
+<text x="82" y="820" font-size="15.5" fill="#6B8084">※ 唯一讀出的隨機試驗：對質子的第二期</text>
+<text x="82" y="844" font-size="15.5" fill="#345963">安全性試驗（n=82），兩臂無差異。</text>
+<g filter="url(#sh)"><rect x="50" y="880" width="620" height="170" rx="20" fill="#FFFFFF"/></g>
+<text x="82" y="920" font-size="14" fill="#A98722" font-weight="800">第2階</text>
+<text x="170" y="922" font-size="22" fill="#123641" font-weight="800">第一期（安全性）</text>
+<rect x="82" y="942" width="75" height="36" rx="16" fill="#5C77C4"/>
+<text x="119.375" y="966.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="middle">FLASH</text>
+<text x="82" y="1004" font-size="15.5" fill="#345963">第一期可行性／安全性；</text>
+<text x="82" y="1028" font-size="15.5" fill="#345963">全球人體經驗約 30 人。</text>
+<g filter="url(#sh)"><rect x="50" y="1064" width="620" height="146" rx="20" fill="#FFFFFF"/></g>
+<text x="82" y="1104" font-size="14" fill="#A98722" font-weight="800">第1階</text>
+<text x="170" y="1106" font-size="22" fill="#123641" font-weight="800">細胞與動物實驗</text>
+<rect x="82" y="1126" width="198" height="36" rx="16" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="181.0" y="1150.12" font-size="17" fill="#9A9282" font-weight="800" text-anchor="middle">細胞治療（未來收錄）</text>
+<text x="82" y="1188" font-size="15.5" fill="#345963">佔位：本專題未來將加入。</text>
+<text x="50" y="1248" font-size="13.5" fill="#6B8084">依各技術已發表試驗與法規現況標定（2026-08）｜示意圖</text>
+  </g>
+</svg>
