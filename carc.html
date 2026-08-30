@@ -483,6 +483,17 @@ table.ctable a:hover{border-color:var(--gold)}
   <p class="note" style="margin-top:18px">這裡的每一篇都是一種東西：石綿、矽塵、苯、六價鉻與砷、甲醛、油煙與二手菸、氡氣與日光、酒精與檳榔。寫的順序都一樣——它在哪裡、對應哪一種癌、證據硬到什麼程度、台灣現在怎麼管，以及你今天可以做什麼。</p>
   <p class="note">先講一件最容易被誤讀的事：<strong>IARC 的分級講的是「我們有多確定它會致癌」，不是「它有多危險」。</strong>加工肉品與石綿都在 Group 1，但每年可歸因的癌症死亡差了幾十倍。看表格的時候，分級那一欄要跟最後兩欄一起讀。</p>
 
+<style>
+.ctwrap{width:min(1180px,calc(100vw - 44px));margin-left:50%;transform:translateX(-50%)}
+table.ctable{min-width:1020px}
+table.ctable th,table.ctable td{padding:10px 13px}
+table.ctable td:nth-child(2),table.ctable td:nth-child(5){min-width:190px}
+table.ctable td:nth-child(3){min-width:150px}
+.ctnote{width:min(1180px,calc(100vw - 44px));margin-left:50%;transform:translateX(-50%)}
+@media (max-width:620px){
+  .ctwrap,.ctnote{width:calc(100vw - 28px)}
+}
+</style>
 <div class="ctwrap">
   <div class="hint">表格可左右滑動 →</div>
   <table class="ctable">
