@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000" role="img" aria-labelledby="t d">
+  <title id="t">各期別的主要治療：不開刀不是放棄</title>
+  <desc id="d">示意圖：各期別的主要治療地圖，依 ESGO/ESTRO/ESP 2023 指引。IA1 錐切即可為根治治療；IA2 錐切或單純子宮切除；IB1–IB2／IIA1 淋巴結陰性者，根治性手術「或」根治性化放療＋近接，擇一而不是都做——先開刀者超過一半之後又需要放療，嚴重併發症在合併治療時最高；IB3／IIA2 淋巴結陰性是灰色地帶，建議轉專業中心討論；IB3–IVA（含淋巴結陽性）的標準是根治性同步化放療加影像導引近接，而且是根治意圖——化放療標準臂 5 年整體存活約 72%，不開刀不是放棄；化放療之後不追加常規子宮切除。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1000" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">STAGE → PRIMARY TREATMENT</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">各期別的主要治療：不開刀不是放棄</text>
+<text x="84" y="194" font-size="21" fill="#527078">大原則：手術或放療，選一條走到底——避免兩種都做（雙重毒性）。</text>
+<text x="84" y="224" font-size="21" fill="#527078">期別標籤依 ESGO/ESTRO/ESP 2023；哪一期是內診加影像定的，見〈分期〉。</text>
+<rect x="84" y="256" width="1272" height="54" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="720" y="290" font-size="19" fill="#8F7418" font-weight="800" text-anchor="middle">大原則：避免手術與放療兩種都做（雙重毒性）——ESGO/ESTRO/ESP 2023 [IV, A]</text>
+<g filter="url(#sh)"><rect x="84" y="330" width="1272" height="84" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="346" width="276" height="34" rx="15" fill="#5C77C4"/>
+<text x="246" y="369.5" font-size="17.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">IA1</text>
+<text x="246" y="398" font-size="14" fill="#6B8084" text-anchor="middle">浸潤 ≤3 mm</text>
+<line x1="400" y1="361" x2="434" y2="361" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="361" x2="424.303" y2="366.192" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="361" x2="424.303" y2="355.808" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="452" y="367" font-size="19" fill="#123641" font-weight="800">錐切就是根治治療（切緣乾淨）</text>
+<text x="452" y="392" font-size="15" fill="#345963">做子宮切除不會讓結果更好；根治性子宮切除屬過度治療。</text>
+<g filter="url(#sh)"><rect x="84" y="424" width="1272" height="84" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="440" width="276" height="34" rx="15" fill="#5C77C4"/>
+<text x="246" y="463.5" font-size="17.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">IA2</text>
+<text x="246" y="492" font-size="14" fill="#6B8084" text-anchor="middle">浸潤 &gt;3–≤5 mm</text>
+<line x1="400" y1="455" x2="434" y2="455" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="455" x2="424.303" y2="460.192" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="455" x2="424.303" y2="449.808" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="452" y="461" font-size="19" fill="#123641" font-weight="800">錐切（切緣乾淨）或單純子宮切除</text>
+<g filter="url(#sh)"><rect x="84" y="518" width="1272" height="132" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="534" width="276" height="34" rx="15" fill="#5C77C4"/>
+<rect x="108" y="534" width="138" height="34" rx="15" fill="#5C77C4"/>
+<rect x="246" y="534" width="138" height="34" rx="15" fill="#00806B"/>
+<rect x="108" y="534" width="276" height="34" rx="15" fill="none" stroke="#FFFFFF" stroke-width="0.01"/>
+<text x="246" y="557.5" font-size="17.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">IB1–IB2／IIA1</text>
+<text x="246" y="586" font-size="14" fill="#6B8084" text-anchor="middle">淋巴結陰性</text>
+<line x1="400" y1="549" x2="434" y2="549" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="549" x2="424.303" y2="554.192" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="549" x2="424.303" y2="543.808" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="452" y="555" font-size="19" fill="#123641" font-weight="800">根治性手術 或 根治性化放療＋近接——擇一</text>
+<text x="452" y="580" font-size="15" fill="#345963">兩者存活等效：20 年 72% 對 77%，統計上無差異（Landoni 隨機試驗，FIGO IB–IIA）。</text>
+<text x="452" y="604" font-size="15" fill="#345963">陷阱：先開刀的人超過一半之後又需要放療（≤4 cm 者 54%、&gt;4 cm 者 84%）；</text>
+<text x="452" y="628" font-size="15" fill="#345963">嚴重併發症在「兩種都做」時最高——開刀前估得出來的，指引建議直接做化放療。</text>
+<g filter="url(#sh)"><rect x="84" y="660" width="1272" height="84" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="676" width="276" height="34" rx="15" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="246" y="699.5" font-size="17.5" fill="#9A9282" font-weight="800" text-anchor="middle">IB3／IIA2</text>
+<text x="246" y="728" font-size="14" fill="#6B8084" text-anchor="middle">淋巴結陰性</text>
+<line x1="400" y1="691" x2="434" y2="691" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="691" x2="424.303" y2="696.192" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="691" x2="424.303" y2="685.808" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="452" y="697" font-size="19" fill="#123641" font-weight="800">灰色地帶：兩條路都可談</text>
+<text x="452" y="722" font-size="15" fill="#345963">證據有限；建議到高量能中心，由多專科團隊把利弊講清楚再選。</text>
+<g filter="url(#sh)"><rect x="84" y="754" width="1272" height="108" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="770" width="276" height="34" rx="15" fill="#00806B"/>
+<text x="246" y="793.5" font-size="17.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">IB3–IVA</text>
+<text x="246" y="822" font-size="14" fill="#6B8084" text-anchor="middle">含淋巴結陽性</text>
+<line x1="400" y1="785" x2="434" y2="785" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="785" x2="424.303" y2="790.192" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="785" x2="424.303" y2="779.808" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="452" y="791" font-size="19" fill="#123641" font-weight="800">根治性同步化放療＋影像導引近接【根治意圖】</text>
+<text x="452" y="816" font-size="15" fill="#345963">「不開刀不是放棄」：當代試驗的化放療標準臂 5 年整體存活 72%。</text>
+<text x="452" y="840" font-size="15" fill="#345963">近接是必要組成，不是加強——為什麼，見〈近接治療〉。</text>
+<g filter="url(#sh)"><rect x="84" y="872" width="1272" height="84" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="888" width="276" height="34" rx="15" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="246" y="911.5" font-size="17.5" fill="#9A9282" font-weight="800" text-anchor="middle">化放療之後</text>
+<line x1="400" y1="903" x2="434" y2="903" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="903" x2="424.303" y2="908.192" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434" y1="903" x2="424.303" y2="897.808" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="452" y="909" font-size="19" fill="#123641" font-weight="800">不追加「順便切子宮」</text>
+<text x="452" y="934" font-size="15" fill="#345963">隨機試驗與統合分析都沒有存活好處；殘留病灶是另一回事，由專業中心評估。</text>
+<text x="84" y="974" font-size="16" fill="#6B8084">示意圖，依 ESGO/ESTRO/ESP 2023 指引重繪｜存活數字：Landoni 1997/2017（FIGO IB–IIA）、INTERLACE 化放療臂｜期別為 TNM/FIGO 對照</text>
+  </g>
+</svg>

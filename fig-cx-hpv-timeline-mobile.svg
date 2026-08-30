@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1302" viewBox="0 0 620 1302" role="img" aria-labelledby="t d">
+  <title id="t">HPV 自然史：從感染到癌變，時間以十年計</title>
+  <desc id="d">示意圖：HPV 自然史時間軸。感染很常見（模型估計約85%的人一生感染過）；多數在一到兩年內自行清除（12個月67%、24個月91%）；持續超過一年的少數，通常在5到10年內才可能形成癌前病變（CIN），發生在不到10%的新感染；從CIN2/3到侵襲癌的中位時間為模型估計23.5年，10年內進展者約1.6%。時間軸本身說明：無法用今天的診斷推論伴侶近期的行為。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1302" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">HPV NATURAL HISTORY</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">從感染到癌變，</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">時間以十年計</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">感染是常態、清除是常態；持續的少數，</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">也要走很多年。所以——無法用今天的</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">診斷，回推伴侶近期的行為。</text>
+<g filter="url(#sh)"><rect x="44" y="300" width="532" height="120" rx="18" fill="#FFFFFF"/></g>
+<circle cx="92" cy="326" r="7.5" fill="#5C77C4"/>
+<text x="110" y="332" font-size="17.5" fill="#123641" font-weight="800">感染</text>
+<rect x="352" y="318" width="200" height="14" rx="7" fill="#DBD3BF" opacity="0.55"/>
+<rect x="352" y="318" width="200" height="14" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="70" y="358" font-size="14.5" fill="#345963">有性經驗的人，一生感染過 HPV：</text>
+<text x="70" y="380" font-size="14.5" fill="#345963">模型估計約 85%</text>
+<text x="70" y="402" font-size="14.5" fill="#345963">（女 84.6%／男 91.3%，美國、疫苗前）</text>
+<line x1="92" y1="420" x2="92" y2="454" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="454" x2="86.8077" y2="444.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="454" x2="97.1923" y2="444.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<text x="108" y="442" font-size="13.5" fill="#8F7418" font-weight="700">1–2 年</text>
+<g filter="url(#sh)"><rect x="44" y="466" width="532" height="120" rx="18" fill="#FFFFFF"/></g>
+<circle cx="92" cy="492" r="7.5" fill="#5C77C4"/>
+<text x="110" y="498" font-size="17.5" fill="#123641" font-weight="800">清除</text>
+<rect x="352" y="484" width="200" height="14" rx="7" fill="#DBD3BF" opacity="0.55"/>
+<rect x="352" y="484" width="18" height="14" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="70" y="524" font-size="14.5" fill="#345963">多數自行清除：</text>
+<text x="70" y="546" font-size="14.5" fill="#345963">12 個月 67%、24 個月 91%</text>
+<text x="70" y="568" font-size="14.5" fill="#345963">（清除＝再也驗不到）</text>
+<line x1="92" y1="586" x2="92" y2="620" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="620" x2="86.8077" y2="610.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="620" x2="97.1923" y2="610.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<text x="108" y="608" font-size="13.5" fill="#8F7418" font-weight="700">再過幾年</text>
+<g filter="url(#sh)"><rect x="44" y="632" width="532" height="98" rx="18" fill="#FFFFFF"/></g>
+<circle cx="92" cy="658" r="7.5" fill="#96790F"/>
+<text x="110" y="664" font-size="17.5" fill="#123641" font-weight="800">持續</text>
+<rect x="352" y="650" width="200" height="14" rx="7" fill="#DBD3BF" opacity="0.55"/>
+<rect x="352" y="650" width="10" height="14" rx="7" fill="#96790F" opacity="0.85"/>
+<text x="70" y="690" font-size="14.5" fill="#345963">持續超過 1 年的少數才需要盯：</text>
+<text x="70" y="712" font-size="14.5" fill="#345963">其中 30 個月內 21% 出現 CIN2+</text>
+<line x1="92" y1="730" x2="92" y2="764" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="764" x2="86.8077" y2="754.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="764" x2="97.1923" y2="754.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<text x="108" y="752" font-size="13.5" fill="#8F7418" font-weight="700">5–10 年</text>
+<g filter="url(#sh)"><rect x="44" y="776" width="532" height="98" rx="18" fill="#FFFFFF"/></g>
+<circle cx="92" cy="802" r="7.5" fill="#96790F"/>
+<text x="110" y="808" font-size="17.5" fill="#123641" font-weight="800">癌前病變</text>
+<rect x="352" y="794" width="200" height="14" rx="7" fill="#DBD3BF" opacity="0.55"/>
+<rect x="352" y="794" width="6" height="14" rx="7" fill="#96790F" opacity="0.85"/>
+<text x="70" y="834" font-size="14.5" fill="#345963">通常在 5–10 年內成形，</text>
+<text x="70" y="856" font-size="14.5" fill="#345963">發生在不到 10% 的新感染</text>
+<line x1="92" y1="874" x2="92" y2="908" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="908" x2="86.8077" y2="898.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="908" x2="97.1923" y2="898.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<text x="108" y="896" font-size="13.5" fill="#8F7418" font-weight="700">通常十年以上</text>
+<g filter="url(#sh)"><rect x="44" y="920" width="532" height="120" rx="18" fill="#FFFFFF"/></g>
+<circle cx="92" cy="946" r="7.5" fill="#123641"/>
+<text x="110" y="952" font-size="17.5" fill="#123641" font-weight="800">侵襲癌</text>
+<rect x="352" y="938" width="200" height="14" rx="7" fill="#DBD3BF" opacity="0.55"/>
+<rect x="352" y="938" width="4" height="14" rx="7" fill="#123641" opacity="0.85"/>
+<text x="70" y="978" font-size="14.5" fill="#345963">從 CIN2/3 起，模型估計中位 23.5 年</text>
+<text x="70" y="1000" font-size="14.5" fill="#345963">※ 10 年內走完的約 1.6%（HPV16 2.4%）</text>
+<text x="70" y="1022" font-size="14.5" fill="#345963">——「通常十年以上」，不是「一定」。</text>
+<rect x="44" y="1064" width="532" height="168" rx="18" fill="none" stroke="#C9A83E" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="66" y="1098" font-size="14.5" fill="#123641" font-weight="700">這條時間軸就是答案：醫學上無法判定</text>
+<text x="66" y="1121" font-size="14.5" fill="#123641">「誰傳給誰」、也無法判定「何時感染」；</text>
+<text x="66" y="1144" font-size="14.5" fill="#123641">驗出 HPV 不代表任何一方出軌，伴侶也</text>
+<text x="66" y="1167" font-size="14.5" fill="#123641">不需要因此去驗（美國 CDC 治療指引）。</text>
+<text x="66" y="1190" font-size="14.5" fill="#123641">35–60 歲的新檢出，85% 發生在無性行為</text>
+<text x="66" y="1213" font-size="14.5" fill="#123641">或單一伴侶期間——多半是舊感染再度可測。</text>
+<text x="44" y="1260" font-size="12" fill="#6B8084">示意圖，依 Chesson 2014、Rodríguez 2008、Plummer 2007、</text>
+<text x="44" y="1280" font-size="12" fill="#6B8084">Schiffman 2007、Vink 2013 與 CDC 2021 重繪｜非個人預測</text>
+  </g>
+</svg>
