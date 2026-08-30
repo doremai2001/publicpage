@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1344" viewBox="0 0 620 1344" role="img" aria-labelledby="t d">
+  <title id="t">HPV natural history: the clock runs in decades</title>
+  <desc id="d">Schematic timeline of HPV natural history. Infection is near-universal (modelled estimate: about 85% of people acquire HPV in their lifetime); most infections clear within one to two years (67% by 12 months, 91% by 24 months); the minority persisting beyond a year may form precancer (CIN), usually over 5 to 10 years and in under 10% of new infections; the modelled median from CIN2/3 to invasive cancer is 23.5 years, with about 1.6% progressing within 10 years. The timeline itself shows why today's diagnosis cannot reveal a partner's recent behaviour.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1344" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">HPV NATURAL HISTORY</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">From infection to cancer,</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">the clock runs in decades</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">Infection is the norm and so is clearance;</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">the few that persist still take many years.</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">So today's diagnosis says nothing about</text>
+<text x="44" y="260" font-size="14.5" fill="#527078">a partner's recent behaviour.</text>
+<g filter="url(#sh)"><rect x="44" y="320" width="532" height="120" rx="18" fill="#FFFFFF"/></g>
+<circle cx="92" cy="346" r="7.5" fill="#5C77C4"/>
+<text x="110" y="352" font-size="17.5" fill="#123641" font-weight="800">Infection</text>
+<rect x="352" y="338" width="200" height="14" rx="7" fill="#DBD3BF" opacity="0.55"/>
+<rect x="352" y="338" width="200" height="14" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="70" y="378" font-size="14.5" fill="#345963">Ever infected, among people with</text>
+<text x="70" y="400" font-size="14.5" fill="#345963">a partner: modelled ~85%</text>
+<text x="70" y="422" font-size="14.5" fill="#345963">(women 84.6% / men 91.3%; US, pre-vaccine)</text>
+<line x1="92" y1="440" x2="92" y2="474" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="474" x2="86.8077" y2="464.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="474" x2="97.1923" y2="464.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<text x="108" y="462" font-size="13.5" fill="#8F7418" font-weight="700">1–2 years</text>
+<g filter="url(#sh)"><rect x="44" y="486" width="532" height="120" rx="18" fill="#FFFFFF"/></g>
+<circle cx="92" cy="512" r="7.5" fill="#5C77C4"/>
+<text x="110" y="518" font-size="17.5" fill="#123641" font-weight="800">Clearance</text>
+<rect x="352" y="504" width="200" height="14" rx="7" fill="#DBD3BF" opacity="0.55"/>
+<rect x="352" y="504" width="18" height="14" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="70" y="544" font-size="14.5" fill="#345963">Most clear on their own:</text>
+<text x="70" y="566" font-size="14.5" fill="#345963">67% by 12 months, 91% by 24 months</text>
+<text x="70" y="588" font-size="14.5" fill="#345963">(clearance = no longer detectable)</text>
+<line x1="92" y1="606" x2="92" y2="640" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="640" x2="86.8077" y2="630.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="640" x2="97.1923" y2="630.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<text x="108" y="628" font-size="13.5" fill="#8F7418" font-weight="700">a few more years</text>
+<g filter="url(#sh)"><rect x="44" y="652" width="532" height="120" rx="18" fill="#FFFFFF"/></g>
+<circle cx="92" cy="678" r="7.5" fill="#96790F"/>
+<text x="110" y="684" font-size="17.5" fill="#123641" font-weight="800">Persistence</text>
+<rect x="352" y="670" width="200" height="14" rx="7" fill="#DBD3BF" opacity="0.55"/>
+<rect x="352" y="670" width="10" height="14" rx="7" fill="#96790F" opacity="0.85"/>
+<text x="70" y="710" font-size="14.5" fill="#345963">Only the minority persisting beyond a</text>
+<text x="70" y="732" font-size="14.5" fill="#345963">year needs watching: 21% develop</text>
+<text x="70" y="754" font-size="14.5" fill="#345963">CIN2+ within 30 months</text>
+<line x1="92" y1="772" x2="92" y2="806" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="806" x2="86.8077" y2="796.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="806" x2="97.1923" y2="796.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<text x="108" y="794" font-size="13.5" fill="#8F7418" font-weight="700">5–10 years</text>
+<g filter="url(#sh)"><rect x="44" y="818" width="532" height="98" rx="18" fill="#FFFFFF"/></g>
+<circle cx="92" cy="844" r="7.5" fill="#96790F"/>
+<text x="110" y="850" font-size="17.5" fill="#123641" font-weight="800">Precancer (CIN)</text>
+<rect x="352" y="836" width="200" height="14" rx="7" fill="#DBD3BF" opacity="0.55"/>
+<rect x="352" y="836" width="6" height="14" rx="7" fill="#96790F" opacity="0.85"/>
+<text x="70" y="876" font-size="14.5" fill="#345963">Takes shape usually over 5–10 years,</text>
+<text x="70" y="898" font-size="14.5" fill="#345963">in under 10% of new infections</text>
+<line x1="92" y1="916" x2="92" y2="950" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="950" x2="86.8077" y2="940.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<line x1="92" y1="950" x2="97.1923" y2="940.303" stroke="#123641" stroke-width="3" stroke-linecap="round"/>
+<text x="108" y="938" font-size="13.5" fill="#8F7418" font-weight="700">usually 10+ years</text>
+<g filter="url(#sh)"><rect x="44" y="962" width="532" height="120" rx="18" fill="#FFFFFF"/></g>
+<circle cx="92" cy="988" r="7.5" fill="#123641"/>
+<text x="110" y="994" font-size="17.5" fill="#123641" font-weight="800">Invasive cancer</text>
+<rect x="352" y="980" width="200" height="14" rx="7" fill="#DBD3BF" opacity="0.55"/>
+<rect x="352" y="980" width="4" height="14" rx="7" fill="#123641" opacity="0.85"/>
+<text x="70" y="1020" font-size="14.5" fill="#345963">From CIN2/3: modelled median 23.5 years</text>
+<text x="70" y="1042" font-size="14.5" fill="#345963">* ~1.6% progress within 10 years</text>
+<text x="70" y="1064" font-size="14.5" fill="#345963">(2.4% if HPV16) — usually, not always.</text>
+<rect x="44" y="1106" width="532" height="168" rx="18" fill="none" stroke="#C9A83E" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="66" y="1140" font-size="14.5" fill="#123641" font-weight="700">This timeline is the answer: it is not possible</text>
+<text x="66" y="1163" font-size="14.5" fill="#123641">to determine who transmitted the infection,</text>
+<text x="66" y="1186" font-size="14.5" fill="#123641">or when. Having HPV does not mean either</text>
+<text x="66" y="1209" font-size="14.5" fill="#123641">partner strayed; partners do not need testing</text>
+<text x="66" y="1232" font-size="14.5" fill="#123641">(US CDC). At 35–60, 85% of new detections</text>
+<text x="66" y="1255" font-size="14.5" fill="#123641">arose with no sex or one steady partner.</text>
+<text x="44" y="1302" font-size="12" fill="#6B8084">Schematic redrawn from Chesson 2014, Rodríguez 2008,</text>
+<text x="44" y="1322" font-size="12" fill="#6B8084">Plummer 2007, Schiffman 2007, Vink 2013, CDC 2021</text>
+  </g>
+</svg>
