@@ -1,0 +1,84 @@
+[
+  {
+    "id": "fig-nt-depth-dose",
+    "zh_alt": "示意圖：光子曲線在淺處達最大值後緩降並穿出人體；質子在布拉格峰（SOBP）後劑量趨近於零；碳離子峰更窄，但峰後仍有小的碎裂尾。橫軸為體內深度0至30公分，縱軸為相對劑量。",
+    "en_alt": "Schematic: the photon curve peaks near the surface, then falls gradually and exits the body; protons deposit their dose in a spread-out Bragg peak and drop to near zero beyond it; carbon ions show a narrower peak but leave a small fragmentation tail. Depth 0-30 cm vs relative dose.",
+    "zh_caption": "示意圖，依開放取用文獻數據重繪：光子有出射劑量、質子峰後趨近於零、碳離子峰後仍有一條小小的碎裂尾。",
+    "en_caption": "Schematic redrawn from open-access data: photons keep an exit dose, protons drop to near zero beyond the Bragg peak, and carbon ions leave a small fragmentation tail.",
+    "files": {
+      "desktop": "fig-nt-depth-dose.svg",
+      "mobile": "fig-nt-depth-dose-mobile.svg",
+      "en": "fig-nt-depth-dose-en.svg",
+      "en_mobile": "fig-nt-depth-dose-en-mobile.svg"
+    },
+    "used_by": [
+      "nt-how-to-read",
+      "nt-proton",
+      "nt-carbon"
+    ]
+  },
+  {
+    "id": "fig-nt-ladder",
+    "zh_alt": "證據階梯由低到高：細胞與動物實驗、第一期安全性試驗、單臂系列、隨機試驗、常規與給付。FLASH位於第一期（全球人體經驗約30人）；重粒子位於單臂系列（唯一讀出的隨機試驗是對質子的安全性試驗，無差異）；BNCT介於單臂與隨機之間，日本已就頭頸癌單一適應症取得藥證與給付；質子位於隨機試驗（多個讀出、結果不一，兒童使用有共識）。另有灰色的細胞治療佔位。",
+    "en_alt": "Evidence ladder from bottom to top: cell and animal studies, phase I safety, single-arm series, randomised trials, routine care and reimbursement. FLASH sits at phase I (about 30 patients worldwide); carbon-ion therapy at single-arm series (its only randomised readout is a safety trial versus protons, no difference); BNCT sits between single-arm and randomised, with a Japanese approval and reimbursement for one head-and-neck indication; protons sit at randomised trials with mixed readouts and a paediatric consensus. A greyed placeholder marks cell therapy, to be covered later.",
+    "zh_caption": "證據階梯示意：位置代表各技術目前已完成的最高證據層級（2026-08），不是優劣排名。",
+    "en_caption": "Evidence-ladder schematic: positions show each technology's highest completed evidence as of August 2026, not a ranking of merit.",
+    "files": {
+      "desktop": "fig-nt-ladder.svg",
+      "mobile": "fig-nt-ladder-mobile.svg",
+      "en": "fig-nt-ladder-en.svg",
+      "en_mobile": "fig-nt-ladder-en-mobile.svg"
+    },
+    "used_by": [
+      "nt-how-to-read"
+    ]
+  },
+  {
+    "id": "fig-nt-matrix",
+    "zh_alt": "表格：質子、碳離子（重粒子）、FLASH、BNCT在台灣、美國、歐盟、日本的身分。質子：台灣自費常規（未滿19歲有三項健保）、美歐機器許可、日本多項適應症納保。碳離子：台灣自費常規且健保零項目、美國無路徑、歐盟有中心、日本納保多項。FLASH：台灣連註冊試驗都沒有、美歐試驗中、日本不明。BNCT：台灣試驗中另有專案性質緊急管道、美國無核准硼藥、歐盟查無紀錄、日本就頭頸癌有藥證與給付。資料時點2026年8月。",
+    "en_alt": "Grid of proton, carbon-ion, FLASH and BNCT status in Taiwan, the US, the EU and Japan. Protons: routine self-pay in Taiwan (NHI covers three codes under age 19), device-cleared in the US and EU, many covered indications in Japan. Carbon ions: routine self-pay in Taiwan with zero NHI items, no pathway in the US, centres in Europe, covered in Japan. FLASH: not even a registered trial in Taiwan, in trials in the US and EU, unknown in Japan. BNCT: trials plus a special emergency-access route in Taiwan, no approved boron drug in the US, no record found in the EU, approved and covered for head and neck cancer in Japan. As of August 2026.",
+    "zh_caption": "四種技術在台灣、美國、歐盟、日本的法規與給付身分對照（資料時點 2026-08）；「不明」代表查無可引用來源、不以推測補齊。",
+    "en_caption": "Regulatory and coverage status of the four technologies in Taiwan, the US, the EU and Japan as of August 2026; “Unknown” marks cells where no citable source was found.",
+    "files": {
+      "desktop": "fig-nt-matrix.svg",
+      "mobile": "fig-nt-matrix-mobile.svg",
+      "en": "fig-nt-matrix-en.svg",
+      "en_mobile": "fig-nt-matrix-en-mobile.svg"
+    },
+    "used_by": [
+      "nt-approval"
+    ]
+  },
+  {
+    "id": "fig-nt-bnct",
+    "zh_alt": "步驟一：靜脈輸注含硼藥物，硼聚積在癌細胞內（正常細胞攝取少）；THOR試驗實測腫瘤對正常組織硼濃度比中位3.4，第二次照射降為2.5。步驟二：熱中子照射，硼10捕獲中子後分裂為α粒子與鋰7（2.38 MeV），射程不到10微米、約一個細胞的直徑：含硼多的癌細胞被破壞，硼少的正常細胞倖免，但攝取不足的癌細胞也可能漏網。",
+    "en_alt": "Step one: a boron drug is infused and accumulates in tumour cells (normal cells take up little); the THOR trial measured a median tumour-to-normal boron ratio of 3.4, falling to 2.5 by the second irradiation. Step two: thermal neutrons trigger boron-10 capture, splitting it into an alpha particle and lithium-7 (2.38 MeV) with a range under 10 micrometres, about one cell diameter: boron-rich tumour cells are destroyed, boron-poor normal cells are spared, but tumour cells that took up too little boron can also be missed.",
+    "zh_caption": "示意圖，依 Malouff 2021（CC-BY）重繪：BNCT 的選擇性來自硼的分布，也同樣受限於硼的分布。",
+    "en_caption": "Schematic redrawn from Malouff 2021 (CC-BY): BNCT's selectivity comes from, and is limited by, where the boron goes.",
+    "files": {
+      "desktop": "fig-nt-bnct.svg",
+      "mobile": "fig-nt-bnct-mobile.svg",
+      "en": "fig-nt-bnct-en.svg",
+      "en_mobile": "fig-nt-bnct-en-mobile.svg"
+    },
+    "used_by": [
+      "nt-bnct"
+    ]
+  },
+  {
+    "id": "fig-nt-flash-time",
+    "zh_alt": "三部分：一、傳統療程以RTOG 0617標準臂為例，60 Gy分30次、約六週，每次回診出束約數分鐘。二、同一個8 Gy緩和處方的出束時間：傳統約0.03 Gy/s要約267秒（約4.5分鐘），FLASH以至少40 Gy/s只要0.2秒以下，相差千倍以上。三、但FAST-01試驗實測，病人在治療床上的總時間平均仍約19分鐘——擺位與影像佔掉幾乎全部時間；FLASH壓縮的是出束，不是整個療程。",
+    "en_alt": "Three parts. One: a conventional course, using the RTOG 0617 standard arm as the example, delivers 60 Gy in 30 daily fractions over about six weeks, with a few minutes of beam-on per visit. Two: for the same 8 Gy palliative prescription, a conventional system at about 0.03 Gy/s needs roughly 267 seconds of beam-on, while FLASH at 40 Gy/s or more needs 0.2 seconds or less, over a thousand-fold difference. Three: in the FAST-01 trial, total time on the treatment couch still averaged about 19 minutes, almost all of it set-up and imaging; FLASH compresses the beam-on time, not the visit.",
+    "zh_caption": "示意圖，依 Favaudon 2014 與 Mascia 2023（FAST-01）重繪：FLASH 壓縮的是出束時間，FAST-01 的病人在治療床上仍平均約 19 分鐘。",
+    "en_caption": "Schematic redrawn from Favaudon 2014 and Mascia 2023 (FAST-01): FLASH compresses the beam-on time, yet FAST-01 patients still averaged about 19 minutes on the treatment couch.",
+    "files": {
+      "desktop": "fig-nt-flash-time.svg",
+      "mobile": "fig-nt-flash-time-mobile.svg",
+      "en": "fig-nt-flash-time-en.svg",
+      "en_mobile": "fig-nt-flash-time-en-mobile.svg"
+    },
+    "used_by": [
+      "nt-flash"
+    ]
+  }
+]

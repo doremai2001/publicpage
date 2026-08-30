@@ -1,0 +1,38 @@
+{
+ "nt-how-to-read": {
+  "title": "New does not mean better",
+  "dek": "The four new radiotherapies are four different axes, not four marks on one ruler. Here are the evidence ladder, five tests, and how to hear whether you are in a consultation or a sale.",
+  "lead": "Most people who open this topic have finished standard treatment, can no longer stay on it, or are searching everywhere on behalf of someone in the family. The first article introduces no treatment at all — it hands you a ruler first, because at your most vulnerable, a way of judging matters more than news.",
+  "note": "The five tests are not for cross-examining your doctor; they are your tool for going back over the visit once you have left the room. Before your next consultation, copy the five questions at the end of this article into your phone's notes; how the other side responds is the answer you need. Whatever therapy you look into, look up its formal status first."
+ },
+ "nt-approval": {
+  "title": "Approved, covered, effective: three different things",
+  "dek": "The same technology can hold four different statuses in four places. Treat \"is it FDA-approved\" as a quality marker and, in this field, you will judge wrongly in both directions.",
+  "lead": "\"Already approved overseas\" is the most effective marketing language in this field, and the most easily misread. This article takes apart Taiwan's five statuses, the differences between the American, Japanese and European systems, and the coverage gate — a map you can verify for yourself.",
+  "note": "The next time someone uses \"approved overseas\" to persuade you, ask three questions first: which country, approved for what, and is it covered. The verification portals are all in the article; for anything without a findable official price, ask that hospital's medical affairs office directly — do not decide on a forwarded number."
+ },
+ "nt-proton": {
+  "title": "Protons: precise. Then what?",
+  "dek": "The oropharyngeal phase 3 trial gave protons one piece of randomised evidence that met non-inferiority; in most other common adult cancers the record is no-difference or not yet read out. The full record, with Taiwan's coverage and out-of-pocket reality, laid out in one place.",
+  "lead": "The oropharyngeal phase 3 trial is the weightiest piece of randomised evidence protons currently have, and the easiest to over-read. This article tells it in three layers, then sets the trials that have and have not read out into one honest list, and ends in Taiwan: which number to get before you sign anything.",
+  "note": "If you are considering paying for proton therapy yourself, take two questions to your next visit: for my cancer and stage, is there a randomised comparison that has read out? What is the total cost of the whole course, and can I have it in writing? It is not too late to decide once you hold both answers."
+ },
+ "nt-carbon": {
+  "title": "Carbon ions: heavier is not better",
+  "dek": "The only carbon-ion randomised trial ever to read out was a safety comparison against protons, and it found no difference. This article unpacks what RBE really means, and which Taiwan facts can — and cannot — be looked up.",
+  "lead": "Japan treated tens of thousands of people over twenty years, yet the largest group in its national registry is prostate cancer — a cancer photons also treat very well. This article reads from that gap: what \"strong\" means in physics, what record the randomised trials have left, what Taiwan has published, and which number is missing.",
+  "note": "The reasonable setting for carbon ions is a very short list: a radioresistant tumour, surgery not possible, and a multidisciplinary team behind the discussion. If someone recommends it to you, ask one question first: in my cancer, is there a randomised comparison that has read out? Then ask the medical affairs office for the whole-course cost in writing."
+ },
+ "nt-flash": {
+  "title": "FLASH: radiotherapy in under a second, still in phase 1",
+  "dek": "The animal evidence is real, yet in humans there are only about thirty people's worth of phase 1 and feasibility data, with no efficacy comparison of any kind. It is this topic's first lesson in reading the news.",
+  "lead": "This article has two key numbers: the 'one second' in the headlines, and the 'thirty people' the papers add up to. On FLASH, news volume and evidence move in opposite directions — that is nobody's fault, but it happens to train one skill: reading a radiotherapy news item back down to its original size.",
+  "note": "Seeing FLASH in the news calls for no change to any treatment arrangement: the course proceeds as planned, the follow-up visits stay booked. If you really want to do something, take the news item to clinic and ask: 'With my disease, which options actually stand up right now?' No current evidence supports delaying treatment to wait for a new technology."
+ },
+ "nt-bnct": {
+  "title": "BNCT: the radiotherapy that does not aim",
+  "dek": "Its aim is biological: the selectivity lives in where the boron goes, which is both the clever part and the limit. Japan's approval covers one specific indication; in Taiwan it is trials and a compassionate route, not routine care.",
+  "lead": "This article pulls apart three things that keep getting mixed together: a cell-level selectivity that is physically real, a Japanese drug licence earned with one 21-patient trial, and a Taiwanese compassionate route with an officially posted price. Once they are apart, you will find that what usually needs watching is not the technology itself — it is the headline.",
+  "note": "If you are looking up BNCT for a family member with recurrent head and neck cancer or a brain tumour, the order is: first confirm with the original treatment team that the standard options really are exhausted, then have the team assess the compassionate referral criteria and the boron uptake; then list the official fee side by side with the other uses of the same money, and take that to clinic."
+ }
+}
