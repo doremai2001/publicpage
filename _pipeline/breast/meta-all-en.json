@@ -1,0 +1,146 @@
+{
+ "first-month": {
+  "title": "What the first month after diagnosis looks like",
+  "dek": "What the first month has to nail down is the tissue diagnosis, the receptor results and the stage; along the way it sorts out the administration — the catastrophic illness certificate, the waiting for reports, and the scheduling of surgery.",
+  "lead": "A catastrophic illness certificate is valid for three years in stage I disease; stage II and above fall under a different clause and get five years. And the effective date is the day the National Health Insurance Administration accepts the application, not the day you were diagnosed. There is one more piece of paperwork in this month than most people expect.",
+  "note": "Everyone's order of tests is different, and what is written here is the common rhythm, not your timetable. One thing you can do today: take a sheet of paper and leave a line each for the core-needle report, the receptor results, the stage and the date the catastrophic illness application went in. Whichever line is blank is where the next clinic visit starts."
+ },
+ "receptor-report": {
+  "title": "What ER, PR and HER2 are telling you",
+  "dek": "Taking the receptor lines apart box by box: where the 1% threshold came from, why HER2 has to be tested again, and why a Ki-67 from one hospital cannot be held against another's.",
+  "lead": "ER-positive covers the whole stretch from 1% to 100%, and if the report says \"ER Low Positive\", that is a box the guideline deliberately kept. As for the HER2-low so many people ask about, in 2026 there is still no such box on the pathology report — it is a category the treatment side uses.",
+  "note": "The same report can produce very different Ki-67 values in different laboratories, so please do not hold someone else's number against your own. At the next visit, ask your doctor to read out the ER percentage, the HER2 score, the laboratory and reference range for the Ki-67, and the three component scores behind the grade, one item at a time, and write them down."
+ },
+ "three-subtypes": {
+  "title": "Three breast cancers, three different roads",
+  "dek": "Subtype decides the order of treatment and how recurrence risk is distributed over time; this also sets out which era of patients drew those much-quoted recurrence curves.",
+  "lead": "Of the four boxes in SEER, the largest is hormone-receptor-positive, HER2-negative disease at 72.7%, with triple-negative at 12.2%. What this article is about is not which one is fiercer, but how differently the same \"early breast cancer\" behaves along the timeline — and why the most quoted curves cannot actually tell you the height.",
+  "note": "Subtype describes the road; what decides the height of the risk is how big that tumour was and what the axilla looked like at the start, and two people within the same subtype can differ threefold. At the next visit, get the question \"are my risk years the early ones?\" said out loud, and take home what is planned for the next three months, the next year and the next five years."
+ },
+ "which-lines-matter": {
+  "title": "Which lines of the report actually change treatment",
+  "dek": "Splitting what patients call \"genetic testing\" into three lines: proving you can have less chemotherapy, finding a target to aim at, and the inherited risk you were born with.",
+  "lead": "Several boxes will not change your treatment today: variants of uncertain significance, a Ki-67 that lands in the middle ground, and a HER2-low grade that does not yet exist on the report at all. Put those lines down and there are far fewer questions left to ask.",
+  "note": "The three lines apply to different groups of people, so a test someone else has had is not necessarily yours to have. At the next visit, first ask \"was this run on tumour or on blood, and which question is it answering\", then ask \"if the result came back the other way round, would your advice change\" — the second one often settles whether to do it at all."
+ },
+ "imaging-extent": {
+  "title": "The size on the scan isn't the real size",
+  "dek": "A preoperative magnetic resonance scan sees more, but what happens after it has seen it? Two randomised trials, a meta-analysis, and one set of lobular carcinoma data pointing the other way.",
+  "lead": "The randomised trials say reoperations did not go down, and the largest observational study works the cost out as 11.3 percentage points more mastectomy; but in invasive lobular carcinoma the matched analysis reverses the whole direction — reoperation 1.9% against 12.6%, with no difference in the mastectomy rate. The same test, a different histological type, a different answer.",
+  "note": "This article is not telling you to refuse a test your doctor has arranged; it is telling you to ask what the reason for it is. At the next visit, ask \"if something extra shows up, would you confirm it with a biopsy first or change the operation straight away\", and ask while you are there how far back this test moves your surgery date."
+ },
+ "germline-brca": {
+  "title": "Family history: should you test for BRCA now?",
+  "dek": "Germline testing changes the surgical decision and the age at which your family starts screening, so it is discussed before the operation; this also sets the guideline threshold and the NHI provision side by side.",
+  "lead": "From blood draw to result, a median of 10 days and of 18 days — the time is there. The real gap is on the other side: the guideline says everyone aged 65 or under should be offered testing, while the only thing listed in the NHI provision is triple-negative breast cancer.",
+  "note": "Being a carrier or not changes your options; it does not decide the extent of your surgery for you. If you have not yet had the operation, get \"do I need this test, is there time, and do I meet that NHI provision\" said out loud at this visit; and if you already know you are a carrier, the next step is to ask which relatives should go, and from what age they start being followed."
+ },
+ "breast-conserving": {
+  "title": "Conservation or mastectomy: is survival the same?",
+  "dek": "The randomised trials say \"not worse\", and the 2021 Swedish cohort even leans towards conservation — but that result has always hung on the two words \"plus radiotherapy\".",
+  "lead": "Both of the foundation trials enrolled in the 1970s, when HER2-targeted drugs did not exist. The other number that usually gets skipped: bilateral mastectomy all but abolishes contralateral breast cancer, and yet the twenty-year breast cancer mortality is 8.50% against 8.54%.",
+  "note": "On the day, take the imaging report with the tumour's size and position, and get \"can conserving surgery get a clean margin\" out of your mouth. If you are considering having the other breast removed as well, write the reasons down first — what that operation buys is not survival. For the reimbursement conditions for contralateral prophylactic mastectomy, ask your case manager first."
+ },
+ "sentinel-node": {
+  "title": "How much of the axilla has to go?",
+  "dek": "The box with a negative sentinel node holds the hardest evidence; in the box with a sentinel macrometastasis, the 2026 numbers point the unfavourable way instead.",
+  "lead": "Z0011's conclusion only counts when four preconditions hold at once: the operation was a lumpectomy, the radiotherapy was whole-breast with standard tangential fields, systemic adjuvant therapy was given, and no third field was added. Those four lines are written into the trial design, not into your notes — so the first thing to ask is not \"can I have less done\", it is \"do I meet those four lines\".",
+  "note": "Before surgery, get the axillary ultrasound report, whether a node has been sampled, and the planned radiotherapy fields clear. If the sentinel node carries a macrometastasis, whether to clear the axilla is for the team to assess; it is not something to ask to have omitted. Whether the tracer used for localisation is self-pay is a question for your case manager."
+ },
+ "neoadjuvant": {
+  "title": "Surgery first, or chemotherapy first?",
+  "dek": "The order does not change distant recurrence or survival; what it changes is the chance of keeping the breast, the local recurrence rate, and what is left to adjust after the operation.",
+  "lead": "The word pCR carries a great deal of weight in triple-negative and HER2-positive disease and far less in hormone-receptor-positive/HER2-negative disease; and at trial level, pushing the pCR rate up does not reliably convert into a survival improvement.",
+  "note": "Take ER, PR and HER2 from the biopsy report and the tumour size on imaging to the discussion, and ask clearly: if there is residual disease after surgery, what is the next adjustment? The NHI provision for T-DM1 carries a 12-week deadline after surgery; and if you want to preserve fertility, it has to be discussed before the first chemotherapy."
+ },
+ "genomic-chemo": {
+  "title": "What this test is actually trying to prove",
+  "dek": "It asks whether adding chemotherapy would bring any further benefit — sometimes the answer is that it would not, sometimes it is not; it applies only to people who are hormone-receptor-positive and HER2-negative, and the same score means different things under different ovarian function.",
+  "lead": "RxPONDER's 2026 AMH analysis rewrites \"premenopausal women get a chemotherapy benefit\" into \"the ones with normal ovarian reserve do\". And in Taiwan, the road of using ovarian suppression in place of chemotherapy has a different shape in the provisions from the one it has in the trials.",
+  "note": "This article does not make the decision for anyone. On the day, take the complete pathology report and your menopausal status, and if you already have a score, take the platform along with it. Get \"which items are you weighing, and what range does my recurrence risk fall in without chemotherapy\" out of your mouth. Confirm the cost with your case manager."
+ },
+ "her2-therapy": {
+  "title": "HER2-positive: how the drugs are ordered",
+  "dek": "Which trial that ten-year overall survival of 75.2% to 84.0% belongs to, who dual blockade is any use to, and why six months is still unsettled.",
+  "lead": "The cardiac numbers are not a footnote: the relative risk of congestive heart failure worked out by Cochrane is 5.11, and most of APHINITY's cardiac events were asymptomatic falls in ejection fraction, with more than eight in ten recovering. Those two things have to be read on the same page.",
+  "note": "Take how HER2 was read, the axillary nodal status and your most recent ejection fraction to clinic, and ask how many cycles are planned altogether and how many have already been used before surgery. If during treatment you become breathless on walking, your ankles swell or your heartbeat speeds up, contact the treatment team the same day."
+ },
+ "endocrine-years": {
+  "title": "Five years of endocrine therapy, or ten?",
+  "dek": "The benefit of extending is small and arrives very late, and the cost lands on bone and endometrium; and for stopping the drug on your own, Taiwan has numbers of its own.",
+  "lead": "A Taiwanese National Health Insurance database study of 30,573 people defined an interruption as a gap of more than 180 days between two consecutive prescriptions — 14.9% had done it, and the hazard ratio between interruption and all-cause mortality is 1.32.",
+  "note": "The conversation has to start between the fourth and the fifth year. Take the original pathology report, which drug you have taken and for how many years, your most recent bone density, and a list of the symptoms that genuinely trouble you. The length of the course is itself part of the effect, so you must not stop on your own, reduce the dose on your own, or give yourself a few months off; whether to adjust is the treatment team's decision, and if you really are going to stop, stop in the clinic, not at home."
+ },
+ "rt-hypofx": {
+  "title": "Five treatments, fifteen, or twenty-five",
+  "dek": "The randomised trials of hypofractionation and of partial breast irradiation have now been read out to ten years. This one covers who fits how many treatments, what fewer treatments costs, and where the NHI provisions fix the number.",
+  "lead": "Five treatments in one week is not one thing: 26 Gy and 27 Gy give different ten-year cosmetic results. Two things called partial breast irradiation are not one thing either: once a day and twice a day differ a great deal in late toxicity. What decides the outcome is the detail of dose and technique, not the words \"how many times\".",
+  "note": "Almost all of these trials enrolled operable early breast cancer, and a different population cannot be read across. At your next appointment, ask one thing: in my case, does the treated area include the supraclavicular fossa or the axilla? If not, is fifteen treatments or five the fit for me, and on what grounds?"
+ },
+ "rt-omission": {
+  "title": "Omitting radiotherapy: every condition has to hold",
+  "dek": "The evidence for omitting radiotherapy exists, but the group it applies to is narrow, and every trial assumes you will finish the anti-hormone tablets. This one lists the conditions and the costs one at a time.",
+  "lead": "In the 2025 interim analysis of EUROPA, the endocrine-therapy-alone group had a worse two-year global health status than the radiotherapy-alone group, and its recurrence endpoint has not yet been reported. The assumption that leaving out one treatment buys you quality of life is not supported by the data.",
+  "note": "The condition most easily missed of all of them is \"keeps taking the anti-hormone tablet\", and in the real world only about half of people finish the course. Take your pathology report to clinic and go through age, tumour size, receptor status, nodes and margins one at a time; if you fall short on one, ask what that turns your risk into."
+ },
+ "rt-regional": {
+  "title": "Should the axilla and supraclavicular area be treated too?",
+  "dek": "Regional nodal irradiation improves disease-free survival and breast cancer mortality, not overall survival; and after mastectomy with one to three positive nodes there are two pieces of evidence that will not meet.",
+  "lead": "The timing of reconstruction is settled before surgery and it narrows the road afterwards: immediate or delayed, implant or autologous — there are data in both directions and they point opposite ways. This one also draws the boundary of the proton evidence: its primary cardiovascular endpoint has not read out.",
+  "note": "The trade-off between treating and not treating turns on your individual features, and you are entitled to ask your doctor to say which ones he is weighing. Before surgery, ask breast surgery, plastic surgery and radiation oncology to settle in the same room whether post-operative radiotherapy is likely."
+ },
+ "chemo-side-effects": {
+  "title": "Which side effects mean phoning the same day",
+  "dek": "From chemotherapy and HER2 targeted therapy through to CDK4/6, PARP and immunotherapy, every line names the drug and a concrete symptom, and never says \"see a doctor if you feel unwell\".",
+  "lead": "Grade 3 or above thrombocytopenia with T-DM1 in Asian patients is 45%, against 15% in the overall population — the label itself states that the incidence and severity are higher in Asian patients. With T-DXd's interstitial lung disease, remember the timing: median onset at 5.5 months, 87% within twelve months, and on adjudication more than half of the events began earlier than had originally been judged.",
+  "note": "On a call at midnight the first thing you will be asked is what drug you are on. Today, copy the drug names down and practise saying them, write them with the chemotherapy day unit's, your case manager's and the night and weekend numbers on one sheet beside the pill box, and check there is a working thermometer in the house."
+ },
+ "endocrine-side-effects": {
+  "title": "The side effects that actually make people stop",
+  "dek": "Joint pain, hot flushes, vaginal dryness, bone loss and the risk to the womb: how much evidence each one has, what can be done, and where Taiwan's reimbursement threshold gets in the way.",
+  "lead": "Only three of the ways of handling this have randomised evidence — exercise, duloxetine and acupuncture — and the size of the effect is small in all three, with acupuncture explicitly listed as not recommended for hot flushes. For incidence in Asian populations there is one retrospective series of 299 patients.",
+  "note": "Say the side effects out loud, but whether you stop is the treatment team's decision — the length of the course is part of the effect itself. From today, keep four numbers: worst pain score, which movement you cannot do, how many hot flushes a day, how many days of tablets you have missed this month. Numbers are what make the next step negotiable."
+ },
+ "fertility-young": {
+  "title": "Young patients: fertility preservation and ovarian function",
+  "dek": "The window for fertility preservation is before the first chemotherapy; Taiwan has had a subsidy scheme since September 2025, but its eligibility, its amounts and its deadlines are all written in fine detail.",
+  "lead": "The Ministry's subsidy scheme carries a caveat of its own: there is not yet sufficient evidence on the safety of ovarian stimulation in patients with hormone-receptor-positive breast cancer, and fertility preservation should be undertaken with caution. This one sets the text of the scheme, the live birth and utilisation figures, and the design limits of POSITIVE side by side.",
+  "note": "\"My periods have stopped\" does not mean you cannot get pregnant — the tamoxifen label says so itself. If you still want children, that sentence has to be said before the first systemic treatment; if you have already started chemotherapy, the contraception periods and the assessment of ovarian function can still be asked about now."
+ },
+ "followup-schedule": {
+  "title": "Does follow-up need a yearly whole-body scan?",
+  "dek": "Intensive follow-up does get some recurrences detected earlier, but two randomised trials and a meta-analysis all failed to see survival improve; what should be done is a different set of things.",
+  "lead": "In that 1,243-patient Italian trial the intensive arm picked up more isolated intrathoracic and bone metastases, 112 against 71 — they genuinely did know sooner. Five-year overall mortality was 18.6% against 19.5%. Those extra months of knowing did not turn into extra months of living.",
+  "note": "Your risk of distant recurrence between year 5 and year 20 is set by the size of the original tumour and the nodes, and it runs anywhere from 13% to 41%. At your next visit ask them to point at your pathology report and read those two items out, then put the next three years of appointments and mammograms into the calendar together."
+ },
+ "lymphoedema": {
+  "title": "A swollen arm: the real odds of lymphoedema",
+  "dek": "The incidence of lymphoedema is decided mainly by which axillary operation was done, from 8% to 30%; and the three precautions people are warned about longest are not in fact supported by the prospective data.",
+  "lead": "In a prospective study that accumulated 3,041 measurements, blood draws, injections, blood-pressure measurements and air travel were none of them associated with an increase in arm volume; what was associated, in that same study, was body weight and cellulitis. What needs guarding against is not quite what is on the list of warnings.",
+  "note": "Among people who had a sentinel lymph node biopsy only, 8.0% at five years is still not zero. Make \"the arm\" a fixed item at every appointment this year; and on the day the skin turns red, swollen, hot or painful, or a fever starts, contact the team rather than saving it for the next visit."
+ },
+ "bone-health": {
+  "title": "Bone density, bone-targeted drugs and exercise",
+  "dek": "Aromatase inhibitors do increase fractures, the benefit of adjuvant bisphosphonates holds only in postmenopausal women, and a complete dental assessment goes before any bone-modifying agent.",
+  "lead": "In the EBCTCG meta-analysis of 18,766 women, the recurrence rate ratio in the whole population was 0.94, which did not even reach statistical significance; split apart, the benefit holds only in the 11,767 postmenopausal women. The word most often dropped from this item is \"postmenopausal\".",
+  "note": "\"Postmenopausal\" in a breast cancer patient includes menopause caused by chemotherapy or by ovarian function suppression, so you cannot place yourself by age. If any bone-modifying agent might be started soon, book the dentist this month — that square comes before the drug."
+ },
+ "self-pay-and-trials": {
+  "title": "This test is self-pay. Is it worth it?",
+  "dek": "The NHI covers breast cancer sequencing in one situation only; a price sticks to the name of the test, and the form of the report decides whether it will count later.",
+  "lead": "On one medical centre's official fee schedule, Oncotype DX is NT$170,000, a hereditary breast cancer gene test is NT$25,000, and a comprehensive genomic profile run on blood is NT$125,000. The three answer three different questions, and none of those prices can stand in for another.",
+  "note": "Before spending this money, finish three questions: which question does this test answer, do my subtype and stage qualify, and will the NHI accept the form of the report. For the price, confirm with the official published charges of the hospital treating you or with its medical affairs office; I am not going to put an estimate in the article for you."
+ },
+ "metastatic-genomics": {
+  "title": "After metastasis, genomic testing is about finding a drug",
+  "dek": "51% of patients have an ESCAT tier I or II alteration detected and only 7% actually receive a matched drug; and in Taiwan that gap has the layer of NHI provisions added on top of it.",
+  "lead": "Finding no usable target is a common result, and the odds are set by subtype: the proportion with an ESCAT tier I/II alteration on baseline plasma testing is 63% in hormone-receptor-positive, HER2-negative disease (n=344) and only 25% in triple-negative disease (n=95). This article also lays out, cell by cell, the gaps between Taiwan's reimbursement provisions and the populations the trials enrolled.",
+  "note": "No usable target on the report is not bad news, and it is not a failed test. At your next appointment finish four questions: what ESCAT tier this alteration is, whether the corresponding drug is marketed in Taiwan, what preconditions the NHI provision demands, and whether the form of this report is one the NHI will accept."
+ },
+ "metastatic-outlook": {
+  "title": "Metastatic disease: what happens next",
+  "dek": "The course of metastatic breast cancer is decided mainly by subtype, with median survival running from 14 months to 42 months; and for oligometastatic disease the randomised breast-specific data do not yet support it.",
+  "lead": "Underneath the phrase \"metastatic breast cancer\", the longest subtype and the shortest differ threefold — but that threefold spread is not all this article has to handle. Taiwan's CDK4/6 provision has three walls (bone-only metastasis is not covered, a lifetime cap of 24 months, and ER or PR must be above 30%), and one of them is shorter than the median progression-free survival in the first line of the trials.",
+  "note": "These are medians for a group, not a prediction for you. Confirm two things this month: which line of the report carries your subtype; and if you are on a CDK4/6 inhibitor, how many months have been used and what the next step is once the lifetime cap is reached — that has to be asked in advance, not on the day it expires."
+ }
+}
