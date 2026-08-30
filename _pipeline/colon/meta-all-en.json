@@ -1,0 +1,98 @@
+{
+ "malignant-polyp": {
+  "title": "The polyp is out. Why operate again?",
+  "dek": "Does a pT1 malignant polyp need a second operation? This takes apart the lines of the pathology report that decide it, and puts the benefit and the cost of completion surgery on the same table.",
+  "lead": "Roughly one in every ten people with a pT1 lesion already has cancer in a lymph node; if the other nine all go to theatre, most of their specimens will hold no residual tumour. The difficulty is that nobody can point out in advance which one of the ten it is — this article puts the weight on both sides of that onto one scale.",
+  "note": "Everyone's combination of features is different, and the numbers here are population averages, not your probability. Take the whole pathology report to your next appointment, turn to the histology page, and have the doctor read out each of four items: lymphovascular invasion, differentiation, tumour budding and margin distance. Those four are what decide whether that operation should happen."
+ },
+ "reading-stage-report": {
+  "title": "Where T3N1 actually comes from",
+  "dek": "Takes T, N and M apart box by box: how the stage is assembled out of them, where the twelve-node line came from, and what CEA can and cannot tell you.",
+  "lead": "Nobody decides your stage for you — it is looked up out of those boxes on the report, and you can look it up yourself. It also settles a question that gets passed around wrongly: in 2026 colon cancer still uses AJCC 8th edition, and the articles online saying it has moved to the 9th are not talking about the bowel.",
+  "note": "A stage describes how much is known now, not how long is left, and two people with the same IIIB can turn out very differently. One thing you can do today: turn to the pTNM line of the report and copy the edition, the T, the N and the total number of nodes examined onto a piece of paper, then point at it and ask at your next appointment."
+ },
+ "first-month": {
+  "title": "What the first month after diagnosis looks like",
+  "dek": "What is actually moving in the first month after diagnosis: imaging, assessment of the rest of the colon, the multidisciplinary team meeting, the catastrophic illness certificate — and why \"when is my operation\" has no standard answer.",
+  "lead": "The catastrophic illness certificate takes effect on the date you file it, the NHI Administration has 14 days excluding holidays to decide, and for colon cancer the certificate runs for five years. This article puts that month's examinations, meetings and paperwork into order, and is straight about which of them cannot be hurried.",
+  "note": "Hospitals differ a great deal in how fast they schedule, so what this article gives is the order of events, not a number of days. Before the end of today, ring your case manager and ask two things: has the catastrophic illness certificate application gone in, and what date was the certificate of diagnosis issued — that piece of paper is valid for 30 days from the date of issue, and after that it has to be issued again."
+ },
+ "biomarkers-and-family": {
+  "title": "Your gene report decides more than your treatment",
+  "dek": "Which fields on the report are heritable and which are not, why MMR is tested in everybody rather than only in people with a family history, and — once Lynch syndrome is confirmed — what age your relatives should start colonoscopy at.",
+  "lead": "The NHI-covered RAS and BRAF tests are tied to the targeted drugs used in metastatic disease, once per person per lifetime, and are not run simply because you were diagnosed. The item that can change a whole family is MMR — it may point to a colonoscopy schedule that starts when your brothers and sisters are 25.",
+  "note": "Variants in the tumour are not passed on and germline MMR variants are, and on the same page those two are easy to confuse. At your next appointment, ask one thing: has my tumour had MMR or MSI testing, and if it is abnormal, can you refer me for genetic counselling? Your relatives' colonoscopy schedule starts from there."
+ },
+ "lymph-node-yield": {
+  "title": "What the node count really decides",
+  "dek": "The number of lymph nodes retrieved governs how much information this report can give, not how severe the cancer is; whether a wider clearance does better has not been settled by the randomised trial.",
+  "lead": "RELARC, the one large randomised trial to put a wider clearance against a standard one, missed its primary endpoint, and its own authors concluded that a standard D2 clearance should stay the routine operation. So this article deals with what has to happen in theatre before the pathologist has anything to find, and with why too few nodes makes the risk estimate less reliable rather than the cancer milder.",
+  "note": "If the count on your report is on the low side, do not convert it on your own into \"so I need chemotherapy\". Take the operative note and the pathology report back to clinic together, and ask outright whether the risk assessment in this report changes because of it, and whether pathology should sample the specimen again."
+ },
+ "stage-ii-chemo": {
+  "title": "Stage II: chemotherapy or not?",
+  "dek": "The absolute benefit of adjuvant chemotherapy in stage II is counted in single-digit percentage points, and the guidelines do not agree on what \"high risk\" means — this is a decision to take to clinic with your pathology report.",
+  "lead": "The absolute survival improvement QUASAR converted out is 3.6 percentage points, but that number rests on an assumed five-year mortality of 20% without chemotherapy; and if the report says dMMR, the whole logic changes again. This article lays the difference in wording between ESMO and ASCO out clause by clause.",
+  "note": "On the day, bring the complete pathology report and the MMR/MSI box, and get the question \"which features are you weighing?\" out of your mouth. Confirm the NHI reimbursement conditions for stage II with your case manager or the hospital's medical affairs office beforehand, rather than finding out the conditions are different after the course has been booked."
+ },
+ "three-or-six-months": {
+  "title": "Three months or six",
+  "dek": "IDEA's non-inferiority failed in formal terms twice, yet five-year overall survival differs by 0.4 percentage points; what separates the answers is the regimen and the stage, not the number of months.",
+  "lead": "What the NHI writes for adjuvant capecitabine in stage III colon cancer is \"limited to eight cycles\", and that maps onto the six-month end. As for when to start, what the data give is a continuous slope, not a date after which the ticket expires.",
+  "note": "Take the name of your regimen and the T and N from your pathology report into the room, and ask in advance: if the neuropathy becomes obvious, is the plan to drop the oxaliplatin first or to shorten the total course? Writing down what your fingers and the soles of your feet are doing, with dates, is a great deal more accurate than recalling it in the room."
+ },
+ "immunotherapy-dmmr": {
+  "title": "Immunotherapy is not an option for everyone",
+  "dek": "About one in twenty patients with metastatic colorectal cancer is dMMR; in 2026 ATOMIC brought stage III into the discussion too, and the cost arrives together with the benefit.",
+  "lead": "The NHI provision confines pembrolizumab to first-line use in \"unresectable or metastatic\" disease, and for the early-stage adjuvant setting I could find no provision at all. This article sets out the precondition the option rests on, the endocrine damage that may last for life, and the full qualifiers on the sentence about MSS disease.",
+  "note": "Check the MMR/MSI box first and discuss everything else after it. During treatment, if persistent diarrhoea, increasing breathlessness, unusual tiredness with dizziness, or unexplained thirst and frequent urination appear, contact your treatment team the same day; the reimbursement conditions in the adjuvant setting are to confirm with your case manager or the hospital's medical affairs office."
+ },
+ "oxaliplatin-neuropathy": {
+  "title": "Numb hands and feet: when to speak up",
+  "dek": "Oxaliplatin causes two kinds of numbness — the sort the cold sets off and the sort that piles up. This is about which stage to say something at, who decides on a dose reduction or a stop, and why shortening the course yourself loses on both sides.",
+  "lead": "One number in the neurotoxicity data deserves to reach patients above all the others: of the people who end up with severe neuropathy, eight in ten got there through the mildest grade. So this article is not about where the limit of your endurance lies. It is about when to report, and about one line you do not get to cross on your own.",
+  "note": "Recovery runs at a different speed in everybody, and the same grade means something different to someone who works with their hands and someone at a desk. Tell your doctor your occupation and which hand you write with — it changes his judgement about when to adjust. Before your next visit, write those three lines from the article and bring them in."
+ },
+ "capecitabine-at-home": {
+  "title": "The chemotherapy you take at home",
+  "dek": "Section 17 of the label gives patients thresholds they can count: how many stools, what temperature, how far the hands and feet have gone. This article sets that alongside the same-day warnings for five other commonly used drugs, naming each drug one by one.",
+  "lead": "This is where the whole series keeps its emergency warnings: from the fever, diarrhoea, dehydration, mouth ulceration and hand-foot syndrome thresholds for the oral 5-FU-type drug capecitabine, through to which single symptom means a phone call the same day for oxaliplatin, irinotecan, bevacizumab and cetuximab — every line written with the drug's name and a number you can count.",
+  "note": "Practise saying the drug names on your bag out loud, because the first thing you'll be asked on a call at midnight is what you are on. Today, copy the chemotherapy day unit's, your case manager's and the night emergency number onto one sheet of paper and stick it beside the pill box, and check there is a working thermometer in the house."
+ },
+ "bowel-recovery": {
+  "title": "How long until your bowel settles down",
+  "dek": "From when you can eat after surgery, and the odds of ileus and of anastomotic leak, to where bowel habit ends up a year later — plus the blank where the temporary stoma answer should be.",
+  "lead": "Anastomotic leak has two numbers that often get run together, and how long a temporary stoma stays before it is closed has no citable answer at all in colon surgery. This article keeps what is solid separate from what could not be found, and writes the pattern that means going back to hospital the same day in sentences you can recognise.",
+  "note": "How bowel function changes after surgery is very individual: right-sided or left-sided resection, age and your bowel habit before all come into it. Rather than asking how long until it's better, take a month of bowel records to clinic and have the doctor look at the trend; if you have a stoma, ask there and then when the assessment before closure is due."
+ },
+ "supplements": {
+  "title": "Supplements during treatment: worth it?",
+  "dek": "Multivitamins have been measured in colon cancer patients: no benefit, and no reduction in side effects. This article covers nutrition, muscle mass, herbal medicine, and the window for fertility preservation.",
+  "lead": "One number the supplement adverts will not tell you: among sarcopenic patients, the mean BMI was still in the overweight range. Not looking thin does not mean you have enough muscle to carry the doses chemotherapy delivers — and that is not something another tub of supplements fixes.",
+  "note": "If you are losing weight, or find the stairs more breathless than they used to be, that is a signal for nutritional assessment, not something another tub of supplements will fix. At your next appointment just say \"I'd like a dietitian referral\"; and if you are still of reproductive age, put fertility preservation as the first question of that same appointment."
+ },
+ "surveillance-intensity": {
+  "title": "Is closer follow-up worth it?",
+  "dek": "The conclusion here is uncomfortable, and it is the point of the article rather than a footnote. By the end you will know the question to ask is not \"can I have one more CT?\" but \"which month should my colonoscopy go in?\"",
+  "lead": "What the trials compared was intensive against less intensive follow-up, not follow-up against none at all — and that distinction decides whether this article gets read correctly. On how often follow-up should happen, the guidelines themselves admit there is no international consensus.",
+  "note": "If the scope did not get all the way round your colon at diagnosis, the 3-to-6-month box matters more than anything else here. At your next appointment get this sentence out: how many CEA tests and how many CT scans do I have this year, and which month should my colonoscopy be in. Copy the answers into your calendar before you leave the room."
+ },
+ "ctdna-mrd": {
+  "title": "What an undetectable ctDNA actually means",
+  "dek": "An undetectable result does not mean there is no residual disease, and a detected one does not mean recurrence is certain. De-escalation and escalation have both been through randomised trials, and each got stuck in a different place.",
+  "lead": "The term this article turns on is non-inferiority — it asks not whether the new approach is better, but whether it is worse than the old one by more than a margin agreed in advance. That one term decides how much you can take away from an undetectable report, and what you cannot.",
+  "note": "When a report comes back, settle three things: which kind of assay this was, at what point after surgery or chemotherapy the blood was drawn, and whether the result will change any part of your management. If the answer to the third is \"no\", there is no need to repeat it this time. Price and coverage conditions have to be confirmed with your case manager; I am not going to give you a figure in the article."
+ },
+ "metastatic-cure": {
+  "title": "Metastatic disease: is cure still possible?",
+  "dek": "Among people who already had liver metastases at diagnosis, five-year survival in recent years is about 20%; among the group who came through assessment and actually had liver surgery it is 42%. Most of that gap comes from who gets selected in, not from surgery making everybody better.",
+  "lead": "This article does not use the word \"miracle\", and it does not put anybody's story up as representative. It does one thing: it turns the line between operable and not operable into a set of conditions you can check off item by item with your notes in your hand — including the question patients in Taiwan miss most often, which is whether their imaging has ever been looked at by hepatobiliary surgery.",
+  "note": "Whichever box you are in at the moment, settle one thing first: whether your imaging has been looked at by hepatobiliary surgery or by a liver multidisciplinary team. If the answer is \"not yet\", that is the first sentence out of your mouth at the next appointment. The coverage conditions for each of the local treatments have to be confirmed with your case manager."
+ },
+ "exercise-recurrence": {
+  "title": "Exercise lowers recurrence. How much do you need?",
+  "dek": "A phase 3 trial that randomised 889 people found an eight-year overall survival difference of 7.1 percentage points. What this article writes out is the exercise prescription itself, not an argument for moving more.",
+  "lead": "The trial had 48 behavioural support sessions, a consultant alongside for three years and a manual written for the purpose propping it up, and adherence still fell from 83% to 63%. To follow it you need to know what the prescription looks like, and you need to know why it is so hard to keep up — nobody tells you that second part in clinic.",
+  "note": "If you are still on chemotherapy, this prescription does not start now. If you have finished, write down first how many times you actually walked this week — without a baseline, \"an extra 10 MET-hours a week\" means nothing. At your next appointment, get it settled what intensity you should be starting at."
+ }
+}
