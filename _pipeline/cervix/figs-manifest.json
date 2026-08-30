@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fig-cx-hpv-timeline",
+    "zh_alt": "示意圖：HPV 自然史時間軸。感染很常見（模型估計約85%的人一生感染過；女性84.6%、男性91.3%，美國、疫苗前）；多數在一到兩年內自行清除（12個月67%、24個月91%）；持續超過一年的少數，通常在5到10年內才可能形成癌前病變（CIN），發生在不到10%的新感染；從CIN2/3到侵襲癌的中位時間為模型估計23.5年，10年內進展者約1.6%（HPV16陽性2.4%）。時間軸本身說明：醫學上無法判定誰傳給誰、何時感染，無法用今天的診斷推論伴侶近期的行為。",
+    "en_alt": "Schematic timeline of HPV natural history. Infection is near-universal (modelled estimate: about 85% acquire HPV in their lifetime; women 84.6%, men 91.3%, US, pre-vaccine); most infections clear within one to two years (67% by 12 months, 91% by 24 months); the minority persisting beyond a year may form precancer (CIN), usually over 5 to 10 years and in under 10% of new infections; the modelled median from CIN2/3 to invasive cancer is 23.5 years, with about 1.6% progressing within 10 years (2.4% if HPV16). The timeline itself shows why it is not possible to determine who transmitted the infection or when, and why today's diagnosis says nothing about a partner's recent behaviour.",
+    "zh_caption": "示意圖，依 Chesson 2014、Rodríguez 2008、Plummer 2007、Schiffman 2007、Vink 2013 與 CDC 2021 重繪；各節點族群與方法不同，時間軸為概念性整合。",
+    "en_caption": "Schematic redrawn from Chesson 2014, Rodríguez 2008, Plummer 2007, Schiffman 2007, Vink 2013 and CDC 2021; cohorts and methods differ across nodes — a conceptual timeline, not a personal forecast.",
+    "files": {
+      "desktop": "fig-cx-hpv-timeline.svg",
+      "mobile": "fig-cx-hpv-timeline-mobile.svg",
+      "en": "fig-cx-hpv-timeline-en.svg",
+      "en_mobile": "fig-cx-hpv-timeline-en-mobile.svg"
+    },
+    "used_by": [
+      "cx-hpv"
+    ]
+  },
+  {
+    "id": "fig-cx-brachy-dose",
+    "zh_alt": "示意圖：橫軸為 EQD2 劑量 0 至 100 Gy。腫瘤（CTV-HR D90）需要 85–95 Gy EQD2；體外放療全骨盆給 45 Gy／25 次，近接治療只對腫瘤再加 40–45 Gy EQD2；同時直腸 D2cm³ 目標小於 65 Gy（上限 75）、膀胱目標小於 80（上限 90）。「要求」高於「上限」的落差，體外放療跨不過去；把放射源放進腫瘤、劑量隨距離急遽下降的近接治療跨得過去。近接是根治性放療的必要組成，不能用體外加強取代（光子、質子都不行）；不做近接的代價：SEER 配對分析 4 年整體存活 64.0% 對 51.4%。",
+    "en_alt": "Schematic with a dose axis from 0 to 100 Gy EQD2. The tumour (CTV-HR D90) needs 85–95 Gy EQD2; external-beam radiotherapy gives the whole pelvis 45 Gy in 25 fractions, and brachytherapy adds 40–45 Gy EQD2 to the tumour alone; meanwhile the rectum D2cm³ must stay below 65 Gy (hard limit 75) and the bladder below 80 (hard limit 90). External beam cannot bridge a demand that sits above the organ limits; a source inside the tumour, with dose falling steeply with distance, can. Brachytherapy is an essential component of definitive radiotherapy and must not be replaced by an external boost, photon or proton; the cost of skipping it in a matched SEER analysis was 4-year overall survival of 64.0% versus 51.4%.",
+    "zh_caption": "示意圖，依 ESGO/ESTRO/ESP 2023 指引與 EMBRACE-II 計畫書之劑量目標重繪；近接治療是根治性放療的必要組成，不是加強選項。",
+    "en_caption": "Schematic redrawn from the ESGO/ESTRO/ESP 2023 guideline and the EMBRACE-II protocol dose aims; brachytherapy is an essential component of definitive radiotherapy, not an optional boost.",
+    "files": {
+      "desktop": "fig-cx-brachy-dose.svg",
+      "mobile": "fig-cx-brachy-dose-mobile.svg",
+      "en": "fig-cx-brachy-dose-en.svg",
+      "en_mobile": "fig-cx-brachy-dose-en-mobile.svg"
+    },
+    "used_by": [
+      "cx-brachytherapy"
+    ]
+  },
+  {
+    "id": "fig-cx-treatment-map",
+    "zh_alt": "示意圖：各期別的主要治療地圖，依 ESGO/ESTRO/ESP 2023 指引。IA1 錐切即可為根治治療；IA2 錐切或單純子宮切除；IB1–IB2／IIA1 淋巴結陰性者，根治性手術「或」根治性化放療＋近接，擇一而不是都做——20 年存活 72% 對 77% 無差異（Landoni），但先開刀者超過一半之後又需要放療（≤4 cm 54%、>4 cm 84%），嚴重併發症在合併治療時最高；IB3／IIA2 淋巴結陰性是灰色地帶，建議轉專業中心討論；IB3–IVA（含淋巴結陽性）的標準是根治性同步化放療加影像導引近接，而且是根治意圖——化放療標準臂 5 年整體存活 72%，不開刀不是放棄；化放療之後不追加常規子宮切除。",
+    "en_alt": "Schematic map of primary treatment by stage, after the ESGO/ESTRO/ESP 2023 guideline. IA1: conisation alone is definitive treatment; IA2: conisation or simple hysterectomy; IB1–IB2/IIA1 node-negative: radical surgery OR definitive chemoradiotherapy plus brachytherapy — one route, not both, since survival was equivalent at 20 years (72% vs 77%, Landoni) yet over half of those operated on later needed radiotherapy too (54% if ≤4 cm, 84% if >4 cm) and severe complications are highest with combined treatment; IB3/IIA2 node-negative is a grey zone for specialist discussion; IB3–IVA including node-positive disease is treated with definitive concurrent chemoradiotherapy plus image-guided brachytherapy with curative intent — the chemoradiotherapy standard arm of a contemporary trial reached 72% five-year overall survival, so no surgery is not giving up; routine hysterectomy after chemoradiotherapy adds nothing.",
+    "zh_caption": "示意圖，依 ESGO/ESTRO/ESP 2023 指引重繪；存活數字出處見內文（Landoni 1997/2017、INTERLACE 化放療臂）。",
+    "en_caption": "Schematic redrawn from the ESGO/ESTRO/ESP 2023 guideline; survival figures are referenced in the article text (Landoni 1997/2017, INTERLACE chemoradiotherapy arm).",
+    "files": {
+      "desktop": "fig-cx-treatment-map.svg",
+      "mobile": "fig-cx-treatment-map-mobile.svg",
+      "en": "fig-cx-treatment-map-en.svg",
+      "en_mobile": "fig-cx-treatment-map-en-mobile.svg"
+    },
+    "used_by": [
+      "cx-surgery-or-rt"
+    ]
+  },
+  {
+    "id": "fig-cx-treatment-weeks",
+    "zh_alt": "示意圖：根治性化放療的行事曆。體外放療每週一到週五各一次、45 Gy 分 25 次約五週，配每日影像導引；每週一次 cisplatin 40 mg/m²，共 5–6 次；近接治療 3–4 次排在療程尾聲或結束後 1–2 週內完成，每次間隔至少 6–8 小時。總治療時間的三個錨點各自標註、不可混用：ESGO 指引含近接不超過 7 週；EMBRACE-II 目標 50 天內（EMBRACE-I 有 21% 超過）；回溯資料顯示近接超過 56 天完成者骨盆復發 26% 對 9%。第四、五週最難受也最不能自行中斷——症狀要回報，暫停與否由團隊決定。",
+    "en_alt": "Schematic calendar of definitive chemoradiotherapy. External-beam radiotherapy runs Monday to Friday, 45 Gy in 25 fractions over about five weeks with daily image guidance; cisplatin 40 mg/m² once a week for 5–6 doses; 3–4 brachytherapy insertions fall in the final weeks or within 1–2 weeks after, at least 6–8 hours apart. Three separately sourced finish-line anchors are labelled and must not be merged: the ESGO guideline caps overall treatment time including brachytherapy at 7 weeks; EMBRACE-II targets 50 days (21% of the EMBRACE-I cohort exceeded it); retrospective data show pelvic recurrence of 26% versus 9% when brachytherapy finished beyond 56 days. Weeks four and five feel worst and are exactly when not to pause on your own — report symptoms and let the team decide.",
+    "zh_caption": "示意圖，依 ESGO/ESTRO/ESP 2023 與 EMBRACE-II 之療程設計重繪（總治療時間錨點另依 Girinsky 1993、Song 2013，各自標註）；實際排程以你的治療團隊為準。",
+    "en_caption": "Schematic redrawn from the ESGO/ESTRO/ESP 2023 guideline and EMBRACE-II treatment design (time anchors separately from Girinsky 1993 and Song 2013); your own schedule comes from your team.",
+    "files": {
+      "desktop": "fig-cx-treatment-weeks.svg",
+      "mobile": "fig-cx-treatment-weeks-mobile.svg",
+      "en": "fig-cx-treatment-weeks-en.svg",
+      "en_mobile": "fig-cx-treatment-weeks-en-mobile.svg"
+    },
+    "used_by": [
+      "cx-pelvic-rt-weeks"
+    ]
+  },
+  {
+    "id": "fig-cx-cin-ladder",
+    "zh_alt": "示意圖：CIN 階梯與各階處置。CIN 1 約六成自行消退（約三成持續、10% 進展到 CIN 3、1% 到侵襲癌，舊研究合成值），觀察為首選；CIN 2 在 24 個月內約一半消退（30 歲以下六成）、32% 持續、18% 進展，建議治療、生育考量下可條件式觀察；CIN 3 即「原位癌」，還不是癌，但指引寫明觀察是不可接受的——治療得當者 30 年內變成侵襲癌的只有 0.7%，未治療者 31.3%（病灶持續者 50.3%），兩個數字同框呈現。越過基底膜即為侵襲癌、路從此不同：IA1 錐切可為根治治療、IA2 錐切或單純子宮切除、IB 起進入分期與治療分流。",
+    "en_alt": "Schematic of the CIN ladder and the management of each grade. CIN 1 mostly regresses (about 60%, with 30% persisting, 10% progressing to CIN 3 and 1% to invasive cancer in a synthesis of older studies) and observation is preferred; about half of CIN 2 regresses within 24 months (60% under age 30) with 32% persisting and 18% progressing, so treatment is recommended with conditional observation possible; CIN 3 is carcinoma in situ — not yet cancer, but the guideline calls observation unacceptable: with proper treatment only 0.7% progress to invasive cancer over 30 years, against 31.3% untreated (50.3% if the lesion persisted), both numbers shown in the same frame. Beyond the basement membrane the road changes to invasive cancer: IA1 can be cured by conisation alone, IA2 by conisation or simple hysterectomy, and from IB onwards staging and treatment routing take over.",
+    "zh_caption": "示意圖，各階數據依 Östör 1993、Tainio 2018（BMJ）、McCredie 2008（Lancet Oncol）與 ASCCP 2019／ESGO 2023 重繪；CIN 2 為 24 個月觀察數據、CIN 3 為未治療世代 30 年數據，時間軸不同。",
+    "en_caption": "Schematic redrawn from Östör 1993, Tainio 2018 (BMJ), McCredie 2008 (Lancet Oncol) and ASCCP 2019 / ESGO 2023; CIN 2 figures are 24-month surveillance data and CIN 3 figures are 30-year untreated-cohort data — the timelines differ.",
+    "files": {
+      "desktop": "fig-cx-cin-ladder.svg",
+      "mobile": "fig-cx-cin-ladder-mobile.svg",
+      "en": "fig-cx-cin-ladder-en.svg",
+      "en_mobile": "fig-cx-cin-ladder-en-mobile.svg"
+    },
+    "used_by": [
+      "cx-cin-vs-cancer"
+    ]
+  }
+]

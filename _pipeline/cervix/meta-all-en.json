@@ -1,0 +1,98 @@
+{
+ "cx-cin-vs-cancer": {
+  "title": "Before it is cancer: CIN and carcinoma in situ",
+  "dek": "Putting cytology, CIN grades, carcinoma in situ and invasive cancer back on one road: which grade can wait, which cannot, and when conisation is itself the treatment.",
+  "lead": "The same diagnosis, treated or not treated, ends thirty years later at 0.7% versus 31.3% — \"carcinoma in situ is nothing to fear\" is a sentence that is only half true. This article writes out the condition that makes it hold, and maps every term on the report to its next move.",
+  "note": "Every grade's management carries caveats about age and fertility plans — the same report can mean different answers in two different people. Before the visit, dig out the pathology report and ask item by item: which grade, are the margins clear, is the next step observation or excision. Margin status and the HPV test at 6 months after treatment are the two boxes most often missed."
+ },
+ "cx-staging": {
+  "title": "Staged by examination and imaging, not surgery",
+  "dek": "The stage is set by pelvic examination plus imaging: what each tool answers, why clean imaging does not mean definitely clear, and why a bigger stage number does not have to mean a worse outlook.",
+  "lead": "In an American database of more than sixty thousand patients, five-year survival in IIIC1 is higher than in IIIA or IIIB — a bigger stage number does not always mean a worse prognosis. This article explains that counterintuitive result, and lays out what each staging tool can answer and what it misses.",
+  "note": "The commonest misreading of a staging report is treating the Roman numeral as a ranking of life expectancy. At the next visit, get two questions answered: was my stage set by imaging or confirmed by pathology, and which specialty leads from here — the answers decide which article you read next. And do not transplant the American database survival figures onto yourself."
+ },
+ "cx-hpv": {
+  "title": "HPV: infection is common, cancer is rare",
+  "dek": "Infection close to universal, most of it cleared by the body, progression measured in decades — the natural-history numbers laid out, and why \"who gave it to me\" has no answer.",
+  "lead": "From persistent infection to a precancerous lesion usually takes 5 to 10 years; from precancer to cancer, a national registry model puts the median at 23.5 years. This article is written for the person who wants to ask \"who gave this to me\" — and for the partner sitting alongside, not knowing what he is supposed to do.",
+  "note": "\"Who gave this to me\" has damaged many couples in clinic, and as a matter of laboratory testing it is unanswerable. If it is fermenting in your household, take this article and its sources to the appointment and have the doctor say it once with both of you in the room; a partner does not need testing, the vaccine is his own protection, and the schedule can be asked about on the spot."
+ },
+ "cx-first-month": {
+  "title": "What the first month after diagnosis looks like",
+  "dek": "The order and division of labour across the tumour board, staging tests and the catastrophic illness certificate — and how Taiwan's nationwide data answer whether the weeks of testing are safe.",
+  "lead": "In Taiwan's nationwide data, 96.4% of patients started treatment within 90 days of diagnosis, and the harm signal appears only past the three-month mark — finishing the tests and letting the tumour board meet is exactly what this window was designed to hold. This article turns the month into a timetable you can read.",
+  "note": "Actual day counts vary a great deal between hospitals; this article gives the order, not the days. Call your case manager today with two questions: which day my tests run to, and who files my catastrophic illness certificate. If you need to discuss fertility or ovarian preservation, ask for that referral in the same phone call."
+ },
+ "cx-surgery-or-rt": {
+  "title": "Surgery or radiotherapy: not operating is not giving up",
+  "dek": "A randomised trial followed for twenty years found no survival difference between the two early-stage roads; what really needs avoiding is having both — in that trial, 64% of the surgery arm ended up having radiotherapy too.",
+  "lead": "This article is written for two readers at once: the person scheduled for chemoradiation who suspects she is beyond saving, and the person insisting on surgery who does not know that about half of those with tumours of 2 to 4 cm need further treatment after the operation. The answer is not in any specialty — it is in five fields of your pathology report.",
+  "note": "If you have been told the plan is chemoradiation, hold on to the words \"curative intent\" — that is a route to cure, not a consolation. At the next visit, bring the pathology and imaging reports and ask one question: with my characteristics, if I operate first, how likely is it I will need further treatment afterwards?"
+ },
+ "cx-mis-brake": {
+  "title": "Where minimally invasive surgery hit the brakes",
+  "dek": "A randomised trial found recurrence three to four times faster after minimally invasive radical hysterectomy, and the guidelines wrote open surgery back in as the standard. Where the boundary of that brake is drawn matters as much as the brake itself.",
+  "lead": "The intuition that a smaller wound and faster recovery must be better was overturned by the evidence for this one operation — and only this one operation. If you have already had minimally invasive surgery, the last two sections are written for you: there is no remedial treatment to chase, and there is one thing worth doing.",
+  "note": "If you are about to have a radical hysterectomy, get \"which approach, and why\" out of your mouth — the guideline gives you that right. If you have already had minimally invasive surgery, bring the operation record to your next visit and get the follow-up schedule set — what is needed is not panic, it is attendance."
+ },
+ "cx-why-chemo": {
+  "title": "Why chemotherapy runs alongside radiotherapy",
+  "dek": "Four randomised trials plus one meta-analysis: weekly low-dose chemotherapy adds 6 percentage points to five-year survival. The same body of evidence also says something else — adding more after the course ends buys zero.",
+  "lead": "The weekly injection's role is radiosensitisation — making the same radiotherapy's kill more complete. This article also lays out the evidence for the three \"add-on\" options: adding at the end failed, adding at the front is still being argued over, and adding immunotherapy is self-paid in Taiwan — each with its population label.",
+  "note": "Whether the weekly chemotherapy goes ahead or is postponed is the team's call from that day's blood counts — a dose the team holds is not your loss; the one you skip on your own is. If anything is hard to bear, say so the same day and let the team adjust rather than solving it by staying away. And if anyone proposes an \"extra boost\" outside the course, bring this article and ask whether the evidence applies to your stage."
+ },
+ "cx-fertility": {
+  "title": "Young patients: fertility and the ovaries",
+  "dek": "The threshold for uterus-sparing surgery is 2 cm and negative nodes; after radiotherapy the ovaries can be rescued but the uterus cannot. Every option's deadline is the same: before the first treatment begins.",
+  "lead": "This article holds three honest sentences: only a minority qualify for the uterus-sparing operation; keeping the uterus does not mean a safe full-term pregnancy; ovarian transposition protects hormones, not the ability to carry a child. None of them is pleasant — and all of them are only useful if heard before treatment starts.",
+  "note": "Say \"I still want to have children\" at the very first visit after diagnosis, and ask the team for a reproductive-medicine referral in the same breath. The national subsidy currently does not include cervical cancer; check county and city schemes and the costs with your case manager — not one of these questions is too early."
+ },
+ "cx-brachytherapy": {
+  "title": "Brachytherapy: the scariest name, the decisive days",
+  "dek": "The tumour needs 85 to 95 Gy; the rectum and bladder pressed against it can take only 65 to 90 — a gap only brachytherapy, delivered from inside, can fill, and the price of skipping it is survival.",
+  "lead": "This article does two things at once: it nails down the answer to \"can I skip it?\" with database evidence and the guideline's own words, and it tells every step — insertion, anaesthesia, the waiting, the pain — as it is, including under which protocol that 41% post-traumatic stress figure was measured. The fear, most of the time, is because nobody told the truth first.",
+  "note": "Hospitals differ widely in the number of brachytherapy sessions, the anaesthesia and the day's routine; what I have written is the general shape. At your next visit, ask directly: how many sessions am I expected to have, when do they start, and who do I turn to when it hurts? Once those three are answered, the fear is usually half its size."
+ },
+ "cx-pelvic-rt-weeks": {
+  "title": "Getting through five or six weeks of pelvic radiotherapy",
+  "dek": "The whole series' emergency master table lives here: the fever threshold in degrees, what diarrhoea with dehydration looks like, which situations mean same-day contact. And why a course that stretches a week longer loses control rate.",
+  "lead": "Weeks four and five, when it is at its worst, are exactly when most people think about taking leave. This article lays out the three pieces of evidence behind \"do not interrupt on your own\", and spells out how the \"low-residue diet\" convention has not caught up with the evidence — when it is bad, say so and let the team handle it, instead of handling it through absence.",
+  "note": "Screenshot the emergency master table section and keep it on your phone — give your family a copy too. From today, note three lines a day: temperature, bowel movements, the most uncomfortable thing. Whether the course finishes inside seven weeks is something this logbook can help with."
+ },
+ "cx-weekly-cisplatin": {
+  "title": "The weekly chemotherapy day",
+  "dek": "Blood draw, antiemetics, fluids, chemotherapy, more fluids — the order of that long day is arranged around the kidneys. Plus hearing, blood counts, and the honest alternative when cisplatin cannot be given.",
+  "lead": "This article covers only how to get each week in safely: why not a drop of the fluid can be skipped, why feeling more sick on days two to five at home is expected, why the ringing in your ears must be mentioned without memorising the scariest number. As for how much benefit the weekly chemotherapy buys, the evidence is written in \"Why chemotherapy runs alongside radiotherapy\".",
+  "note": "Pack the bag the night before chemotherapy: water, snacks, a jacket, something to pass the time, plus one sheet of paper listing last week's uncomfortable days. Book nothing for that afternoon, and treat \"drink water, watch the urine output\" as formal homework for the three days after you get home."
+ },
+ "cx-vagina-during-rt": {
+  "title": "Changes already under way during treatment",
+  "dek": "Prospective data show the vaginal changes appear early in treatment: the severe ones are few, the mild ones near-universal. The handover point is the day radiotherapy ends, not months later.",
+  "lead": "This article's job is to put the timing right: what is happening now, what to report, and why dilator education has to be connected up the moment the course ends. How to use the dilator belongs to the next article, hormone replacement to the next stage — your part is to take the question \"when do we start?\" to your follow-up visit.",
+  "note": "At the last few visits before radiotherapy ends, ask two questions yourself: when does my dilator education start, and who teaches me? Do I need topical oestrogen? Nobody raising it first does not mean it is unimportant — write the words into your phone's notes first, and speaking is reduced to reading them out."
+ },
+ "cx-menopause-hrt": {
+  "title": "Early menopause: hormone therapy is not forbidden",
+  "dek": "The guidelines write \"not contraindicated\", yet the direct evidence is one small study from 1987; while the price of not replacing — the heart and the bones — has harder numbers.",
+  "lead": "This article dismantles two errors at once: \"cancer patients must not touch hormones\" is a taboo without foundation, and \"everyone can take it without a second thought\" is the overcorrection. The road between them is called individualisation — squamous disease and adenocarcinoma differ, a uterus still in place differs from one removed — and data from three countries show most patients never even get the conversation.",
+  "note": "Your histology, whether your uterus is still there, and any history of breast cancer decide the formulation — not whether the conversation can happen. Read those three items out at your next visit and ask your doctor for an answer that belongs to you; if you are already taking it, report unexplained bleeding — do not stop on your own."
+ },
+ "cx-dilator-sex": {
+  "title": "Dilators and sex: the question nobody raises first",
+  "dek": "The stenosis numbers have to be read in three layers; the dilator evidence is told as it is — including where it is only consensus. Timing, frequency, and what to do when you cannot keep going, all in one article.",
+  "lead": "This is a question the medical side should raise first, so I will: regular users had moderate-or-worse stenosis of 23% against 37% at five years, at the cost of a little more mild dryness and bleeding. And fewer than half keep it up for a full year — the pain, the lack of teaching, the embarrassment are all real, and every one of them has an adjustment that can be made.",
+  "note": "Hospitals' dilator protocols genuinely differ — your own team's version is the one that counts. Today's homework is a single item: confirm \"who teaches me, and when do we start\". If it hurts, do not grit your teeth; report it to the radiation oncology nurse and adjust the size and frequency — this can be adjusted, and giving up does not have to be the ending."
+ },
+ "cx-followup-hpv": {
+  "title": "Follow-up, vaccines and smears from here on",
+  "dek": "Every three to four months for the first two years, a symptom review plus a pelvic examination — while for smears after radiotherapy, what the guideline writes is not recommended. Which population the vaccine evidence belongs to also has to be labelled clearly.",
+  "lead": "\"Treatment is over — why are there fewer tests, not more?\" That sparseness has sources. By the end you will know which of the \"not scheduled\" items are the guideline being followed, and which kinds of discomfort mean not waiting for the next visit.",
+  "note": "No smear on the follow-up schedule is mostly not an omission — the guideline never recommended one. Copy the symptom list into your phone, and any item persisting beyond two or three weeks means an earlier visit; if there is a junior-high student at home, do not miss September's publicly funded 9-valent vaccine notice — boys get it too."
+ },
+ "cx-recurrence": {
+  "title": "After recurrence: the roads that remain",
+  "dek": "Inside the pelvis and distant are two roads: one still holds options with curative intent, the other's goal is control and quality of life. The numbers, the costs and Taiwan's reimbursement, each carrying its label.",
+  "lead": "Recurrence is not one diagnosis; it is a set of questions: where, how many sites, confirmed by pathology or not. Different answers, completely different roads — from an operation with five-year survival above half (but 4.3% in the wrong candidate), to self-paid immunotherapy, to the palliative care clinic that deserves an early slot — every road has its numbers and its preconditions.",
+  "note": "Every number in this article is tied to a population label — before you copy a number away, check which box you are in. Ask three questions at the next visit: which type is my recurrence? Is the goal cure or control? Is there a clinical trial that fits me? The answers will decide what the next twelve months look like."
+ }
+}
