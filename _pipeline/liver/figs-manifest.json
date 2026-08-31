@@ -1,0 +1,146 @@
+[
+  {
+    "id": "fig-lv-lc-size",
+    "zh_alt": "示意圖：局部控制與腫瘤大小。大小效應來自 Wahl 2016 回溯研究（224 人、不可手術）：腫瘤每大 1 公分，RFA 局部失敗風險乘以 1.54（p 值 0.006），SBRT 乘以 1.21（p 值 0.617，看不出大小效應）；2 公分以上，RFA 局部惡化風險是 SBRT 的 3.35 倍；可切除且超過 2 公分者，BCLC 建議優先考慮切除。位置也是邊界：緊鄰大血管的腫瘤 RFA 後殘留或局部復發 48% 對非血管旁 7%（Lu 2003），門脈旁侵襲性節段內復發 15% 對整體 3.7%（Kang 2015）。成對數點各帶族群標籤：Wahl 2 年免於局部惡化 RFA 80.2% 對 SBRT 83.8%；Xi 2025 隨機試驗（復發性單顆 5 公分以內、中國單中心）2 年局部無惡化存活 75.8% 對 92.7%；Yoon 2020 前瞻二期 SBRT 2 年局部控制 100%（5 年 97.1%，單臂）；HyTEC 合併分析 2 年 89%（單臂）。整體存活看不出差別——Wahl 2 年 53% 對 46% 統計相當，NCDB 回溯配對偏 RFA（5 年 29.8% 對 19.3%，缺肝功能變數），統合分析 3、5 年無差異；Kim 2020 顯示 SBRT 組基線明顯更差（BCLC B 到 C 期 65% 對 16%）而 3 年局部復發仍較低（21.2% 對 27.9%）。本圖談局部控制，不可讀成 SBRT 全面較好。",
+    "en_alt": "Schematic of local control versus tumour size. The size effect comes from the retrospective Wahl 2016 study (224 inoperable patients): each additional centimetre multiplies the risk of local failure after RFA by 1.54 (p 0.006), versus 1.21 for SBRT (p 0.617, no detectable size effect); at 2 cm and above, local progression risk after RFA is 3.35 times that of SBRT, and for resectable tumours beyond 2 cm BCLC favours resection. Location is a boundary too: RFA residual or local recurrence 48% beside large vessels versus 7% elsewhere (Lu 2003), and aggressive intrasegmental recurrence 15% periportal versus 3.7% overall (Kang 2015). Paired points carry their cohort labels: Wahl 2-year freedom from local progression 80.2% RFA versus 83.8% SBRT; the Xi 2025 randomised trial (recurrent single tumour up to 5 cm, single Chinese centre) 2-year local progression-free survival 75.8% versus 92.7%; Yoon 2020 prospective phase II SBRT 100% local control at 2 years (97.1% at 5, single arm); HyTEC pooled analysis 89% at 2 years (single arm). Overall survival shows no demonstrable difference — Wahl 53% versus 46% at 2 years was statistically similar, matched NCDB retrospective data favoured RFA (29.8% versus 19.3% at 5 years, liver function unrecorded), and meta-analysis found no difference at 3 and 5 years; in Kim 2020 the SBRT arm started far worse (BCLC B to C 65% versus 16%) yet had lower 3-year local recurrence (21.2% versus 27.9%). This figure is about local control and must not be read as SBRT being better across the board.",
+    "zh_caption": "示意圖，依 Wahl 2016、Xi 2025、Yoon 2020、Ohri 2021（HyTEC）、Kim 2020、Lu 2003、Kang 2015 與 BCLC 2022 重繪；各研究族群、設計與終點不同，數點不可直接互比。",
+    "en_caption": "Schematic, redrawn from Wahl 2016, Xi 2025, Yoon 2020, Ohri 2021 (HyTEC), Kim 2020, Lu 2003, Kang 2015 and BCLC 2022; cohorts, designs and endpoints differ — points are not directly comparable.",
+    "files": {
+      "desktop": "fig-lv-lc-size.svg",
+      "mobile": "fig-lv-lc-size-mobile.svg",
+      "en": "fig-lv-lc-size-en.svg",
+      "en_mobile": "fig-lv-lc-size-en-mobile.svg"
+    },
+    "used_by": [
+      "lv-three-roads"
+    ],
+    "placement": {
+      "article": "lv-three-roads",
+      "after_h4": "電燒的主場：兩公分以內、針到得了的位置"
+    },
+    "sources": [
+      "B[S1] Wahl 2016",
+      "B[S4] Xi 2025",
+      "B[S24] Yoon 2020",
+      "B[S26] Ohri 2021 (HyTEC)",
+      "B[S2] Kim 2020",
+      "B[S8] Lu 2003",
+      "B[S9] Kang 2015",
+      "B[S7] Rajyaguru 2018 (NCDB)",
+      "B[S6] Yang 2023",
+      "B[S13] BCLC 2022"
+    ]
+  },
+  {
+    "id": "fig-lv-parallel",
+    "zh_alt": "示意圖（非實際劑量分布）：肝是平均劑量器官。決定放射性肝損傷的是平均肝劑量與被照到的體積，不是最高點（QUANTEC），規則是保留至少 700 立方公分正常肝在 15 Gy 以下（3 至 5 次分次）。左格畫光子 SBRT：三道光束交叉把高劑量集中在腫瘤，但每道光束穿過腫瘤前後都在正常肝留下低劑量浴，並帶著出射劑量穿出體外——光子 SBRT 有健保給付、本身已經很好。右格畫質子：光束在布拉格峰把劑量放完就停，幾乎無出射劑量，更多正常肝幾乎沒被照到——同一個治療的工程升級。臨床對照：質子對 RFA 的隨機試驗（復發性小肝癌）治療後 Child-Pugh 分數上升 7.5% 對 19.6%（AASLD 轉述）——非劣性試驗，證明的是不劣於；質子對光子的回溯比較（MGH）非古典放射性肝損傷較少（勝算比 0.26），回溯性、選擇偏差不可排除。質子不是零代價（日本前瞻登錄第 3 級以上晚期不良事件 4.7%）；質子對光子的隨機試驗 NRG-GI003 收案完成、尚未發表。",
+    "en_alt": "Schematic (not an actual dose distribution): the liver is a mean-dose organ. Radiation-induced liver injury tracks mean liver dose and irradiated volume rather than the hottest spot (QUANTEC), and the rule is to keep at least 700 cc of normal liver at 15 Gy or less over 3 to 5 fractions. Left panel, photon SBRT: three crossing beams concentrate the high dose on the tumour, but each beam leaves a low-dose bath across normal liver on its way in and out and exits the body — photon SBRT is NHI-covered and already very good. Right panel, protons: the beam deposits its dose at the Bragg peak and stops, with almost no exit dose, leaving more normal liver largely untouched — the same treatment, engineered further. Clinical anchors: in the randomised proton-versus-RFA trial in recurrent small HCC, Child-Pugh scores worsened in 7.5% versus 19.6% (as cited by AASLD) — a non-inferiority trial proving not-inferior, not superior; a retrospective proton-versus-photon comparison (MGH) found less non-classic radiation-induced liver injury (odds ratio 0.26), retrospective with selection bias not excludable. Protons are not cost-free (Japanese prospective registry: grade 3 or higher late events 4.7%), and the proton-versus-photon randomised trial NRG-GI003 has completed accrual and remains unpublished.",
+    "zh_caption": "示意圖（非實際劑量分布），依 Pan 2010（QUANTEC）、Newhauser & Zhang 2015、Kim TH 2021、AASLD 2023 與 Sanford 2019 重繪。",
+    "en_caption": "Schematic (not an actual dose distribution), redrawn from Pan 2010 (QUANTEC), Newhauser & Zhang 2015, Kim TH 2021, AASLD 2023 and Sanford 2019.",
+    "files": {
+      "desktop": "fig-lv-parallel.svg",
+      "mobile": "fig-lv-parallel-mobile.svg",
+      "en": "fig-lv-parallel-en.svg",
+      "en_mobile": "fig-lv-parallel-en-mobile.svg"
+    },
+    "used_by": [
+      "lv-proton"
+    ],
+    "placement": {
+      "article": "lv-proton",
+      "after_h4": "為什麼偏偏是肝臟：平均劑量器官，遇上沒有出射的射線"
+    },
+    "sources": [
+      "B[S27] Pan 2010 (QUANTEC)",
+      "B[S65] Newhauser & Zhang 2015",
+      "B[S31] Kim TH 2021",
+      "B[S15] AASLD 2023",
+      "B[S33] Sanford 2019",
+      "B[S35] Mizumoto 2024",
+      "B[S34] NRG-GI003 registry"
+    ]
+  },
+  {
+    "id": "fig-lv-three-roads",
+    "zh_alt": "示意圖：小顆肝癌三條路加移植的適用地圖，三個維度一起看：大小、位置、肝功能。第一格：開得了刀、肝功能好——手術切除仍是預設（AASLD 2023：無肝硬化的局部肝癌，切除是治癒性治療首選；BCLC 2022：同時符合移植與手術條件者，切除為第一選擇）；「校正後打平」不能讀成「不開也一樣」，沒有 SBRT 對切除的隨機試驗完成。第二格：2 公分以內、針到得了——切除或 RFA 存活效益相同（BCLC 2022）；超過 2 公分燒灼效果下降，可切除者應優先考慮切除。第三格：不適合開、不適合燒、或堅決不開——SBRT 的格：AASLD 寫明可用於中央型與緊鄰血管的腫瘤；台灣健保 37047B 自 2015 年起給付，條件為單一病灶 5 公分以內、Child-Pugh A 至 B、經評估無法手術、栓塞、電燒或上述治療失敗。第四格：肝功能付不起——Child-Pugh 8 分以上、控制不了的腹水或肝性腦病變應避免體外放射（AASLD），這時 SBRT 是錯的答案。第五格：符合 Milan 準則（單顆 5 公分以內，或 3 顆以內、每顆 3 公分以內）——移植評估不可跳過，它是唯一同時治肝癌與肝硬化的選項（1996 年米蘭 48 人：4 年存活 75%、無復發 83%）。最終決定由多專科團隊做出。",
+    "en_alt": "Schematic map of the three roads for a small HCC plus transplantation, read across size, location and liver function together. Box one: resectable with good liver function — surgical resection remains the default (AASLD 2023: the curative treatment of choice for localised HCC without cirrhosis; BCLC 2022: resection first when transplant and surgery are both options); equal-after-adjustment must not be read as skipping surgery being the same, as no randomised trial of SBRT versus resection has been completed. Box two: up to 2 cm in a needle-reachable position — resection and RFA offer the same survival benefit (BCLC 2022); beyond 2 cm ablation loses ground and resection should be favoured in resectable patients. Box three: unfit for surgery, unfit for ablation, or firmly declining surgery — the SBRT slot: AASLD states it can be used for central and perivascular tumours, and Taiwan NHI code 37047B has reimbursed it since 2015 for a single lesion up to 5 cm, Child-Pugh A to B, assessed unfit for or failed surgery, embolisation or ablation. Box four: a liver that cannot pay — Child-Pugh 8 or above, uncontrolled ascites or hepatic encephalopathy mean external-beam radiotherapy should be avoided (AASLD); here SBRT is the wrong answer. Box five: within the Milan criteria (single tumour up to 5 cm, or up to 3 tumours each up to 3 cm) — transplant assessment must not be skipped, being the only option treating both the cancer and the cirrhosis (Milan 1996, 48 patients: 4-year survival 75%, recurrence-free 83%). The final decision belongs to the multidisciplinary team.",
+    "zh_caption": "示意圖，依 AASLD 2023、BCLC 2022、健保 37047B 給付條文（2015 年起）與 Mazzaferro 1996 重繪；你的落點由多專科團隊依影像與肝功能判定。",
+    "en_caption": "Schematic, redrawn from AASLD 2023, BCLC 2022, the Taiwan NHI 37047B reimbursement criteria (since 2015) and Mazzaferro 1996; where you land is for the multidisciplinary team to judge.",
+    "files": {
+      "desktop": "fig-lv-three-roads.svg",
+      "mobile": "fig-lv-three-roads-mobile.svg",
+      "en": "fig-lv-three-roads-en.svg",
+      "en_mobile": "fig-lv-three-roads-en-mobile.svg"
+    },
+    "used_by": [
+      "lv-three-roads"
+    ],
+    "placement": {
+      "article": "lv-three-roads",
+      "after_h4": "健保條文，其實就是官方版的分工圖"
+    },
+    "sources": [
+      "B[S15] AASLD 2023",
+      "B[S13] BCLC 2022",
+      "B[S60] 健保 37047B 條文",
+      "B[S59] 衛福部 2015-01-13 新聞稿",
+      "B[S39] Mazzaferro 1996",
+      "B[S28] Lasley 2015（肝功能紅線背景）"
+    ]
+  },
+  {
+    "id": "fig-lv-bclc",
+    "zh_alt": "示意圖：BCLC 分期簡圖與指引跟上證據的時間差。五格各連一個第一線建議：0 極早期（單顆小病灶、肝功能保留）——消融或切除，可移植且符合手術條件者切除為第一選擇；A 早期（單顆或少數幾顆、侷限肝內）——在切除、移植、消融等根治選項間選路；B 中期（多顆、侷限肝內）——TACE 為預設，但 B 期畫成光譜不是一格：腫瘤負荷有限（up-to-7 內）可考慮根治性選項，超過 up-to-11 強烈不建議 TACE、轉全身治療（台灣肝癌醫學會 2025 共識，100% 同意度）；C 晚期（血管侵犯或肝外轉移）——全身治療為主；D 末期（肝功能失代償、體能差）——支持照護為主。註記一，圖的作者自己說（BCLC 2022 原文）：最終決定必須由負責的醫師與多專科團隊做出，治療決策不應只建立在一張簡化的圖上；並內建治療期別轉移——分期沒變，路可以正當地變。註記二，指引與證據的時間差——同一個 SBRT：APASL 2017 寫「未被證明能改善結果」，BCLC 2022 寫「具抗腫瘤活性、仍需前瞻研究」，AASLD 2023 給出具體適用的格，台灣健保 2015 年 2 月起實際給付（37047B）；2026 年多國合併分析稱之為「遲來的接受」。BCLC 2026 更新版原文取不到，本圖依 2022 版繪製。",
+    "en_alt": "Schematic of the BCLC staging system and the time lag between guidelines and evidence. Five boxes, each linked to a first-line recommendation: stage 0 very early (single small lesion, preserved liver function) — ablation or resection, with resection first if transplant and surgery are both options; stage A early (single or a few nodules, liver-confined) — a choice among curative options of resection, transplant and ablation; stage B intermediate (multinodular, liver-confined) — TACE by default, but drawn as a spectrum rather than one box: limited burden within up-to-7 may merit curative-intent options, while beyond up-to-11 TACE is strongly discouraged in favour of systemic therapy (Taiwan Liver Cancer Association 2025 consensus, 100% agreement); stage C advanced (vascular invasion or extrahepatic spread) — systemic therapy leads; stage D terminal (decompensated liver, poor performance) — best supportive care leads. Footnote one, in the map's own words (BCLC 2022): the final decision must be taken by the responsible physician and multidisciplinary tumour board, and treatment decisions should not rest on a simplified figure alone; treatment-stage migration is built in — the stage stays, the road can legitimately move. Footnote two, the time lag — the same SBRT: APASL 2017 wrote 'not shown to improve outcomes', BCLC 2022 'bears antitumoral activity but further prospective studies are needed', AASLD 2023 gave it a concrete slot, and Taiwan's NHI has actually reimbursed it since February 2015 (37047B); a 2026 multinational pooled analysis called this 'delayed acceptance'. The 2026 BCLC update is paywalled, so this figure follows the 2022 version.",
+    "zh_caption": "示意圖，依 BCLC 2022（Reig）、TLCA 2025 中期肝癌共識、APASL 2017、AASLD 2023、Moon 2026 與健保 37047B 條文重繪；2026 年 BCLC 更新版原文取不到，本圖依 2022 版。",
+    "en_caption": "Schematic, redrawn from BCLC 2022 (Reig), the TLCA 2025 intermediate-stage consensus, APASL 2017, AASLD 2023, Moon 2026 and the Taiwan NHI 37047B criteria; the 2026 BCLC update is paywalled, so this figure follows the 2022 version.",
+    "files": {
+      "desktop": "fig-lv-bclc.svg",
+      "mobile": "fig-lv-bclc-mobile.svg",
+      "en": "fig-lv-bclc-en.svg",
+      "en_mobile": "fig-lv-bclc-en-mobile.svg"
+    },
+    "used_by": [
+      "lv-staging-bclc"
+    ],
+    "placement": {
+      "article": "lv-staging-bclc",
+      "after_h4": "BCLC 這張圖，到底在做什麼"
+    },
+    "sources": [
+      "B[S13]/A[S7] BCLC 2022",
+      "A[S5]/B[S21] TLCA 2025 中期共識",
+      "B[S18] APASL 2017",
+      "B[S15] AASLD 2023",
+      "B[S25] Moon 2026",
+      "B[S59][S60] 健保 37047B",
+      "B[S14] BCLC 2026（僅書目）"
+    ]
+  },
+  {
+    "id": "fig-lv-surveillance",
+    "zh_alt": "示意圖：治療後追蹤的迴圈，四步循環。第一步，每 3 至 6 個月一次：腹部加胸部斷層影像（CT 或 MRI）加 AFP 加肝功能（AASLD 2023），治療後建議無限期追蹤，頭兩年最密——切除後復發風險第一年最高、5 年接近五到七成。第二步，一起判讀、不能只看一項：46% 的肝癌病人 AFP 正常（Farinati 2006），AFP 正常不代表沒事；肝硬化監測族群中超音波單獨對早期腫瘤敏感度 47%、加上 AFP 升到 63%（Tzartzeva 2018；治療後族群屬外推），影像與 AFP 互相補漏。第三步，抓到復發就回到治療：再切、再燒、再照都在桌上，符合準則者第一時間評估救援移植（110 人策略分析 5 年整體存活 69%）；復發是這個病的常態，不是誰的失敗。第四步，治療後回到同一個迴圈；沒有復發者回到下一次排程。誠實註記：間隔是 Level 3 證據、追蹤多久是 Level 5 專家意見、更密集的追蹤沒有存活證據（AASLD 自標）——追蹤買到的不是存活數字，是「復發還在根治窗口內」的選項。消融後約 6 週、放射或 Y-90 後約 12 週先照反應，再回到每 3 至 6 個月；急症症狀不等排程。",
+    "en_alt": "Schematic of the post-treatment surveillance loop in four steps. Step one, every 3 to 6 months: abdominal plus chest cross-sectional imaging (CT or MRI) plus AFP plus liver function (AASLD 2023), continued indefinitely and densest in the first two years — recurrence risk peaks in the first year after resection and approaches 50 to 70% at 5 years. Step two, read them together: 46% of HCC patients have a normal AFP (Farinati 2006), so a normal AFP is not the all-clear; in cirrhosis surveillance cohorts ultrasound alone detects early tumours with 47% sensitivity, rising to 63% with AFP (Tzartzeva 2018; an extrapolation for treated patients) — imaging and AFP cover each other's blind spots. Step three, recurrence caught means back to treatment: repeat resection, ablation and radiotherapy remain on the table, and patients within criteria should be assessed for salvage transplantation at once (5-year overall survival 69% in a 110-patient strategy analysis); recurrence is this disease's habit, not anyone's failure. Step four, after treatment the same loop restarts; with no recurrence, on to the next scheduled round. Honest footnote: the interval is Level 3 evidence, the duration Level 5 expert opinion, and more frequent surveillance has no proven survival benefit (AASLD's own grading) — what surveillance buys is the window in which recurrence still has curative options. A response scan comes about 6 weeks after ablation and about 12 weeks after radiotherapy or Y-90, then back to every 3 to 6 months; red-flag symptoms do not wait for the schedule.",
+    "zh_caption": "示意圖，依 AASLD 2023、Farinati 2006、Tzartzeva 2018 與 Imamura 2003 重繪；追蹤間隔依個人風險由醫師調整，急症症狀不等排程、當天回醫院。",
+    "en_caption": "Schematic, redrawn from AASLD 2023, Farinati 2006, Tzartzeva 2018 and Imamura 2003; intervals are adjusted to personal risk by your doctor, and red-flag symptoms do not wait for the schedule.",
+    "files": {
+      "desktop": "fig-lv-surveillance.svg",
+      "mobile": "fig-lv-surveillance-mobile.svg",
+      "en": "fig-lv-surveillance-en.svg",
+      "en_mobile": "fig-lv-surveillance-en-mobile.svg"
+    },
+    "used_by": [
+      "lv-followup"
+    ],
+    "placement": {
+      "article": "lv-followup",
+      "after_h4": "指引怎麼排：每三到六個月，斷層加 AFP"
+    },
+    "sources": [
+      "D[S1] AASLD 2023",
+      "D[S3] Farinati 2006",
+      "D[S2] Tzartzeva 2018",
+      "D[S4] Imamura 2003"
+    ]
+  }
+]

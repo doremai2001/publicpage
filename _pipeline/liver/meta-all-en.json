@@ -1,0 +1,122 @@
+{
+ "lv-no-biopsy": {
+  "title": "Why liver cancer is often diagnosed without a biopsy",
+  "dek": "When typical imaging in a high-risk group calls it liver cancer, the chance it is wrong is roughly 4% to 6% — but the same standard's sensitivity is only 61.3%. You need to know both sides.",
+  "lead": "The case for skipping the biopsy stands on the 'it almost never wrongly convicts' side, not on 'it sees everything'. Biopsy has limits of its own: sensitivity for small tumours can drop to about 60%, a negative result cannot exclude the disease, and complications run at about 3%.",
+  "note": "If your report stops at LR-3 or LR-4 and you are booked for another scan in three to six months, you are not being left on a shelf — that is the management the criteria prescribe. At your next visit, start by asking: 'Do I belong to the group the imaging criteria apply to?'"
+ },
+ "lv-two-diseases": {
+  "title": "You have two diseases: the cancer and the cirrhosis",
+  "dek": "Child-Pugh, ALBI, decompensation, competing risk — liver function is the currency of this whole topic, and the vocabulary is covered once, here.",
+  "lead": "In patients whose tumour has been treated successfully, early hepatic decompensation threatens survival (hazard ratio 7.5) more than early tumour recurrence does (2.5). That intuition-inverting number is the starting point for understanding every treatment decision in liver cancer.",
+  "note": "Take three questions to your next visit: what are my Child-Pugh and ALBI, have I ever had a decompensation event, and how much liver function is this treatment expected to cost. The three answers are the current score between your two diseases."
+ },
+ "lv-staging-bclc": {
+  "title": "Where the staging chart puts you",
+  "dek": "BCLC is a map, not a sentencing document: its own text says the final decision belongs to the physician and the multidisciplinary team — and stage B above all is a spectrum, not a box.",
+  "lead": "In data from ten high-volume centres across East and West, half of the liver resections fell outside what the guidelines of the day recommended; Taiwan's consensus states, at 100% agreement, that the intermediate stage is a heterogeneous group. What the staging chart does not say is often where your answer lies.",
+  "note": "If you have been told you are stage B, ask one question at your next visit: which side of up-to-7 is my tumour burden on? That question makes the conversation concrete at once."
+ },
+ "lv-hepatitis": {
+  "title": "Hepatitis B and C: the antivirals matter more now",
+  "dek": "Without an antiviral during radiotherapy, hepatitis B reactivation runs 33.3% against 7.5%; staying on the drug after resection, a randomised trial's five-year survival was 63% against 42%.",
+  "lead": "The new oral hepatitis C drugs were once suspected of driving more liver cancer recurrences; meta-analyses and large cohorts then dismantled the suspicion step by step, and the guidelines finally wrote 'improves survival'. The full course of that false alarm is science correcting itself at its best.",
+  "note": "Whatever stage your treatment has reached, the antiviral is never to be stopped on your own — even planned withdrawal under a doctor's supervision has cost lives. And remind your family: ages 45 to 79 get a once-in-a-lifetime publicly funded hepatitis B and C screen."
+ },
+ "lv-first-month": {
+  "title": "How the first month after diagnosis unfolds",
+  "dek": "Who will see you, what the multidisciplinary meeting does, how long a wait is normal, how the catastrophic illness certificate works — the chaos of the first month actually has a map.",
+  "lead": "Behind the case manager stand national policy and budget — 'who is my case manager' is a question every patient can ask out loud; the catastrophic illness certificate is filed with a diagnosis certificate issued within 30 days, decided within 14 days, and valid five years for liver cancer. Both are things to get clear in the first month.",
+  "note": "Before you leave the consulting room, confirm five things: who your case manager is, whether your case has been to the multidisciplinary meeting, whether the catastrophic illness certificate has been filed, whether your hepatitis B and C have been tested, and whether your family have used their publicly funded screening."
+ },
+ "lv-three-roads": {
+  "title": "Three roads for a small liver cancer",
+  "dek": "Surgery, ablation and radiotherapy will each be offered to you as \"possible\". This article lays out each road's home ground, boundaries and evidence — including the official division of labour written into the NHI reimbursement clause.",
+  "lead": "The three roads are not a multiple-choice guess: the NHI reimbursement clause states in black and white who goes first — SBRT's coverage opens only when surgery, embolisation or ablation is not feasible or has failed. This article lays that official map out alongside each road's evidence, including the evidence that points the other way.",
+  "note": "This article takes no one's side. Your combination of size, position and liver function is unique: take your imaging and liver-function numbers to surgery, hepatology and radiation oncology for one hearing each, and let every doctor talk over your actual films before you decide; if you fit the transplant criteria, add the transplant surgeons."
+ },
+ "lv-sbrt": {
+  "title": "Why SBRT works in the liver, and when it is the wrong answer",
+  "dek": "What the liver fears is mean dose — that is the geometric reason SBRT stands up. But liver function is the currency and SBRT pays in it too: the toxicity numbers are here, exactly as they are.",
+  "lead": "In prospective trials of small tumours, two-year local control runs 90% to 100% — that is the good half. The other half is Child-Pugh B undergoing SBRT, where severe liver toxicity climbs from about 10% to nearly 40%. This article writes both halves, because an article that tells only one is not fit to decide with.",
+  "note": "SBRT's box is defined by whether the other two roads are passable — and by your liver function. Before your next visit, have your liver blood tests ready, ask the doctor to compute the Child-Pugh score in front of you and to say plainly whether your normal liver volume is enough — if the answer is vague, take the references at the end to a second opinion."
+ },
+ "lv-proton": {
+  "title": "Protons for liver cancer: the upgrade and the trials",
+  "dek": "The liver is a mean-dose organ and protons have no exit dose — the mechanism holds especially well in the liver. How far the trials have got, and what published prices exist for fully self-paid adult treatment, are all laid out here.",
+  "lead": "A 144-patient randomised trial proved proton local control non-inferior to ablation, with less liver-function deterioration; the photon-versus-proton randomised trial has completed accrual and is unpublished. So it is three sentences: there is reason to expect, there is one non-inferiority randomised trial, superiority is being tested — and not one word more on any of them.",
+  "note": "Photon SBRT is NHI-reimbursed and its results are already very good; protons are an engineering upgrade of the same road, fully self-paid. Before asking about protons, first have your radiation oncologist answer whether a photon plan can keep the liver dose down, then take the Korean trial's paper to a second opinion."
+ },
+ "lv-transplant": {
+  "title": "Transplant: the one option that treats both diseases",
+  "dek": "Resection, ablation and radiation all deal with the tumour; the cirrhosis stays put. A transplant deals with both diseases at once — criteria, waiting, living donors and salvage transplantation, all in one article.",
+  "lead": "The Milan criteria's four-year survival of 75% and recurrence-free survival of 83% are a line drawn by 48 patients in 1996. Thirty years on it still decides who a transplant goes to; and the wait, living donation and lifelong immunosuppression are the three costs this road puts on the table first.",
+  "note": "If you are young, your liver function is poor and your tumour sits near the criteria, complete a transplant assessment before accepting any local treatment — \"assessed and found unsuitable\" and \"never assessed\" are two different things. The waiting-list numbers change daily; check the registry's published figure on the day."
+ },
+ "lv-tace-y90": {
+  "title": "TACE and Y-90: the intermediate-stage workhorses",
+  "dek": "TACE's randomised evidence dates from 2002; when embolisation stops moving the tumour, it is time to change roads. Y-90 lost both of its duels with targeted therapy, but it has a box of its own.",
+  "lead": "\"Let's embolise once more and see\" is sometimes inertia, not a plan. Refractory patients who keep embolising fare worse than those who change roads early; radiation after incomplete embolisation is a formal handover written into the NHI clause. Every embolisation spends from the liver-function account — this article shows you what to ask before the next one.",
+  "note": "Before your next visit, gather how many TACE sessions you have had, each one's imaging response and this round's liver-function numbers, and ask: what is this session's goal? If the response is incomplete, at which point is the next step decided? Y-90 is self-paid — confirm the amount with the medical affairs office; do not extrapolate from someone else's quote."
+ },
+ "lv-sbrt-weeks": {
+  "title": "What the two weeks of SBRT actually look like",
+  "dek": "The NHI clause fixes the course at two weeks and no more than six fractions; from simulation, respiratory control and fiducial markers to the imaging changes after treatment, this walks through what is normal and what means going back to hospital.",
+  "lead": "This article has two honest gaps: how many days sit between simulation and the first treatment, and how many minutes a single session takes — I could not find a citable source for either, so I give no numbers. What I can give has sources: the fractionation schemes, the shape of the side effects in two very different populations, and why the scans do not go clean straight after treatment.",
+  "note": "Your number of fractions and your schedule go by your treatment plan. If a follow-up report says \"enhancement still present\", do not panic first — bring the report in; what we look at is the change in size. The situations that mean going back to hospital the same day are collected in \"When to come back to hospital the same day\"; please save it now."
+ },
+ "lv-warning-signs": {
+  "title": "When to come back to hospital the same day",
+  "dek": "One list, three actions: contact the team the same day, come back to hospital the same day, call an ambulance now. Every line has a source — and the most important one depends on your family noticing it for you.",
+  "lead": "The ordering of this list is deliberate: the four emergencies of cirrhosis itself come before any drug side effect, because they do not care which treatment you are on — they apply to every liver cancer patient. When you have read it, copy out the lines that are yours and put them up somewhere at home where they can be seen.",
+  "note": "Everyone's priority list is different: people with ascites, people on the immune combination, people on targeted tablets each have their own top three. Take this article to your next clinic visit and ask your doctor: with my liver function and my treatment combination, which lines are my priorities? Have them circled for you."
+ },
+ "lv-systemic-days": {
+  "title": "Life on targeted therapy and immunotherapy",
+  "dek": "First line is a choice of four and the NHI lets you choose once; the endoscopy before the first dose is a hard requirement shared by the trial design, the international guideline and the NHI clause. Benefit and cost, told in the same paragraph.",
+  "lead": "One principle runs through this article: every set of numbers comes from trial populations that were predominantly Child-Pugh A — if your liver function is not in that box, treat the numbers as direction and leave the decision to the clinic. The honest state of second line is here too: gains measured in months, and the evidence on sequencing not yet caught up.",
+  "note": "Before starting first line, check that your endoscopy is within six months, photograph everything you are taking (including traditional remedies and supplements) for your doctor, and ask one question: once this first line is spent, which roads are left for second? Whether cabozantinib in liver cancer is self-paid, please confirm with the medical affairs office."
+ },
+ "lv-nutrition": {
+  "title": "Albumin, muscle and what to eat",
+  "dek": "\"Weak liver, eat less protein\" has been formally overturned by the current guidelines — the recommendation is in fact to eat more; 40% of patients have sarcopenia, and being able to eat enough is itself a treatment goal.",
+  "lead": "The protagonist of this article is an overturned habit: restricting protein did not rescue the brain — it ate the muscle first. From the overturning randomised trial to the current recommendations of the two major guidelines, the evidence is attached in the text and can be checked directly with your dietitian.",
+  "note": "The protein target varies with weight and liver function — ask for your own number at the clinic; nutrition products are mostly self-paid, so talk to the hospital's dietitian before buying. Dietary adjustment during an acute episode of encephalopathy is the team's decision — do not restrict on your own, and do not add on your own."
+ },
+ "lv-tace-days": {
+  "title": "The days before and after TACE",
+  "dek": "About 90% of people get at least one of fever, poor appetite or nausea after embolisation — that is the tumour dying, not the treatment failing. What you are watching for is the fever going the wrong way.",
+  "lead": "This article withholds three numbers I could not source: days in hospital, how many days the symptoms last, and what temperature counts as infection. What it can give has sources: the symptom rates, the dip-then-recover curve of liver function, and why \"not embolising again\" means changing weapons rather than giving up.",
+  "note": "Before discharge, copy the three warning lines into your phone, and do not skip the follow-up blood test just because you feel fine. At the next visit ask: how much of the tumour did this course take — is the next step another round, watching, or time to talk about a different weapon? That question puts you and your doctor in front of the same map."
+ },
+ "lv-followup": {
+  "title": "Follow-up and AFP: how often to scan",
+  "dek": "Where the every-three-to-six-months schedule comes from, why even the guideline can only mark it \"expert opinion\", and why a normal AFP is not the all-clear — the story underneath the follow-up numbers.",
+  "lead": "The AASLD marked the evidence levels on its own guideline: the schedule is Level 3, and \"how long to follow\" is Level 5 — expert opinion. This article does not pretend the evidence is hard; it wants to tell you the opposite: precisely because it is thin, your doctor adjusting the interval to your risk is entirely reasonable — what matters is not being absent.",
+  "note": "Whether your follow-up interval is three months or six depends on your treatment and your recurrence risk — both sit within the guideline's range. Today, write the date of your next scan and blood test into the calendar and fill in the twelve months that follow; at your next visit, ask one question: what was my interval decided on?"
+ },
+ "lv-recurrence": {
+  "title": "Recurrence is not failure — it is how this disease behaves",
+  "dek": "Within five years of resection, 50 to 70% recur — but most of it is not failure at the original site; it is the cirrhotic liver growing new tumours. See the shape of recurrence clearly, then lay out every road that follows it.",
+  "lead": "In ten years of RFA data, the ablated tumour progressed at its own site in only 3.2% — while other sites in the liver reached 80.8%. \"Recurrence\" is mostly a new tumour, not something left untreated. That difference decides the next step: the ground is still diseased, and there are still several roads.",
+  "note": "When a recurrence is caught, ask about every option in the same clinic visit: the conditions for repeat resection, repeat ablation, repeat radiotherapy and transplant assessment. If you might meet the transplant criteria, the earlier the referral for assessment the better — it is the only road that deals with the liver cancer and the cirrhosis at once."
+ },
+ "lv-liver-care": {
+  "title": "The liver needs care for life after treatment ends",
+  "dek": "Why the antivirals must not be stopped on your own, who is missing from the NHI clause's \"curative treatment\" list, and why the alcohol recommendation is zero — the three long-term assignments after treatment ends.",
+  "lead": "Even among patients who stopped after assessment by a doctor, 18.6% had a flare of five times or more within a year — that is the number the global RETRACT-B cohort measured. Stopping on your own means running the same curve with the net removed: nobody watching your blood tests, and nobody there to brake for you.",
+  "note": "If you are a hepatitis B patient whose curative treatment was SBRT, the NHI long-term reimbursement clause's list does not include radiotherapy — that does not equal no reimbursement, but it is worth having your case manager or the medical affairs office confirm against the clause, case by case, before the course ends. You can take this article to clinic with you."
+ },
+ "lv-post-transplant": {
+  "title": "Life after a liver transplant",
+  "dek": "Missed anti-rejection doses as everyone's default risk, follow-up tools switching to CT, the bill of a second cancer, and the living donor's own follow-up — the homework after transplant, laid out in one place.",
+  "lead": "Even within the criteria, 10 to 15% of patients recur after transplant — and the most common site is the lungs, which is why surveillance uses chest plus abdominal CT, not ultrasound. This article also keeps a section for the person who gave you part of their liver: their follow-up is follow-up too.",
+  "note": "Take three questions to your next transplant clinic: what is my RETREAT score? What tools does my imaging schedule use, and until when? Who is watching my antivirals and my anti-rejection drugs, respectively? Report missed doses as they happened — the team wants information, not confession."
+ },
+ "lv-bridging": {
+  "title": "The days on the waiting list",
+  "dek": "Why you still get treated while waiting, SBRT's rightful place in bridging, and both sides of downstaging — every treatment in these days has one purpose: protecting your eligibility for transplant.",
+  "lead": "Bridging therapy has no randomised trials, and the guideline still lists it as routine — because dropping off the list is an irreversible price. The AASLD in black and white: no one local treatment is superior to another, and external-beam radiotherapy is on the list. This article lays out every square of the wait for you.",
+  "note": "A change in your condition while waiting changes your status on the list: for an emergency, go to hospital first and notify the transplant team at the same time. Confirm your listing status with the transplant case manager every three months; if family are willing to be assessed for living donation, start early — the assessment itself takes time."
+ }
+}
