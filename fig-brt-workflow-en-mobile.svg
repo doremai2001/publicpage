@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="2106" viewBox="0 0 620 2106" role="img" aria-labelledby="t d">
+  <title id="t">Simulation to treatment: the steps can be drawn, the days cannot</title>
+  <desc id="d">Schematic of the path from simulation to treatment, drawing the steps and no days. The eight steps in order: one, clinic visit and decision — what is treated and over how many fractions is settled in clinic first; two, planning CT simulation — a three-dimensional map in the treatment position, with at least two scans that day for patients having DIBH, one free breathing and one breath hold; three, DIBH practice — where studies state a duration, the typical training session is 15 to 30 minutes, the only time figure on the whole page; four, marks and skin tattoos — the coordinates used to set the patient up each day, which should not be redrawn or rubbed out at home; five, outlining target and organs — the doctor draws the volume to be treated and the organs to be avoided, slice by slice; six, plan design and dose calculation — the physicist arranges the fields and computes the dose; seven, quality verification on the machine — checking that what the machine actually delivers matches what the computer calculated; eight, first treatment and weekly review — check in, set-up, imaging, beam on, with set-up and verification taking most of the time and nothing hurting or feeling hot. A separate panel covers the breath hold itself: the tolerance on the inspiration position is typically just 2 to 5 mm and the beam stops automatically outside it; every field starts with a fresh breath in and a fresh hold, and the literature consistently reports high levels of compliance; even so, after pre-selection and training about three in ten cannot complete a breath-hold planning scan, and then the plan is made another way. The figure states plainly that it carries no days and no minutes: how many days from simulation to the first treatment, how many minutes a single session takes, and how many seconds each breath hold lasts are three questions for which no citable general figure was found, so none is drawn or invented and patients should go by their own hospital's schedule and instructions. What is citable is the 15 to 30 minute training session (systematic review of 38 studies covering literature from 2000 to 2014), which is how long the practice takes and not how long treatment takes.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="2106" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">SIMULATION → FIRST TREATMENT</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">Simulation to treatment: the</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">steps can be drawn, the days</text>
+<text x="44" y="192" font-size="30" fill="#123641" font-weight="800" class="r">cannot</text>
+<text x="44" y="234" font-size="14.5" fill="#527078">This flow shows what happens, not how many days you wait — that</text>
+<text x="44" y="256" font-size="14.5" fill="#527078">figure is not in the literature, and it is not invented here.</text>
+<text x="44" y="278" font-size="14.5" fill="#527078">The only citable time figure on the whole page is the DIBH</text>
+<text x="44" y="300" font-size="14.5" fill="#527078">training session.</text>
+<g filter="url(#sh)"><rect x="44" y="334" width="532" height="110" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="366" font-size="16.5" fill="#123641" font-weight="800">① Clinic visit and decision</text>
+<text x="66" y="392" font-size="13.8" fill="#345963">What is treated and over how many fractions is settled in</text>
+<text x="66" y="414" font-size="13.8" fill="#345963">clinic first.</text>
+<line x1="84" y1="450" x2="84" y2="470" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="470" x2="78.8" y2="460.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="470" x2="89.2" y2="460.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<g filter="url(#sh)"><rect x="44" y="478" width="532" height="110" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="510" font-size="16.5" fill="#123641" font-weight="800">② Planning CT simulation</text>
+<text x="66" y="536" font-size="13.8" fill="#345963">A three-dimensional map in the treatment position. For DIBH, at</text>
+<text x="66" y="558" font-size="13.8" fill="#345963">least two scans that day: one free breathing, one breath hold.</text>
+<line x1="84" y1="594" x2="84" y2="614" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="614" x2="78.8" y2="604.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="614" x2="89.2" y2="604.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<g filter="url(#sh)"><rect x="44" y="622" width="532" height="110" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="654" font-size="16.5" fill="#123641" font-weight="800">③ DIBH practice</text>
+<text x="66" y="680" font-size="13.8" fill="#345963">Where studies state a duration, the typical training session is</text>
+<text x="66" y="702" font-size="13.8" fill="#345963">15 to 30 minutes — the only time figure on this page.</text>
+<line x1="84" y1="738" x2="84" y2="758" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="758" x2="78.8" y2="748.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="758" x2="89.2" y2="748.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<g filter="url(#sh)"><rect x="44" y="766" width="532" height="110" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="798" font-size="16.5" fill="#123641" font-weight="800">④ Marks and skin tattoos</text>
+<text x="66" y="824" font-size="13.8" fill="#345963">The coordinates used to set you up each day; do not redraw or</text>
+<text x="66" y="846" font-size="13.8" fill="#345963">rub out the lines and dots yourself.</text>
+<line x1="84" y1="882" x2="84" y2="902" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="902" x2="78.8" y2="892.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="902" x2="89.2" y2="892.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<g filter="url(#sh)"><rect x="44" y="910" width="532" height="110" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="942" font-size="16.5" fill="#123641" font-weight="800">⑤ Outlining target and organs</text>
+<text x="66" y="968" font-size="13.8" fill="#345963">The doctor draws the volume to be treated and the organs to be</text>
+<text x="66" y="990" font-size="13.8" fill="#345963">avoided, slice by slice.</text>
+<line x1="84" y1="1026" x2="84" y2="1046" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="1046" x2="78.8" y2="1036.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="1046" x2="89.2" y2="1036.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<g filter="url(#sh)"><rect x="44" y="1054" width="532" height="110" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="1086" font-size="16.5" fill="#123641" font-weight="800">⑥ Plan design and dose calculation</text>
+<text x="66" y="1112" font-size="13.8" fill="#345963">The physicist arranges the fields and computes the dose; during</text>
+<text x="66" y="1134" font-size="13.8" fill="#345963">the wait your plan is being drawn and calculated.</text>
+<line x1="84" y1="1170" x2="84" y2="1190" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="1190" x2="78.8" y2="1180.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="1190" x2="89.2" y2="1180.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<g filter="url(#sh)"><rect x="44" y="1198" width="532" height="110" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="1230" font-size="16.5" fill="#123641" font-weight="800">⑦ Quality verification on the machine</text>
+<text x="66" y="1256" font-size="13.8" fill="#345963">Checking that what the machine actually delivers matches what</text>
+<text x="66" y="1278" font-size="13.8" fill="#345963">the computer calculated.</text>
+<line x1="84" y1="1314" x2="84" y2="1334" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="1334" x2="78.8" y2="1324.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="84" y1="1334" x2="89.2" y2="1324.3" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<g filter="url(#sh)"><rect x="44" y="1342" width="532" height="110" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="1374" font-size="16.5" fill="#123641" font-weight="800">⑧ First treatment and weekly review</text>
+<text x="66" y="1400" font-size="13.8" fill="#345963">Check in, set-up, imaging, beam on; set-up and verification</text>
+<text x="66" y="1422" font-size="13.8" fill="#345963">take most of the time, and nothing hurts or feels hot.</text>
+<g filter="url(#sh)"><rect x="44" y="1476" width="532" height="220" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="1508" font-size="16.5" fill="#123641" font-weight="800">The breath hold is yours; the equipment only watches</text>
+<text x="66" y="1534" font-size="13.8" fill="#345963">The tolerance on the inspiration position is typically just 2</text>
+<text x="66" y="1556" font-size="13.8" fill="#345963">to 5 mm, and the beam stops automatically outside it.</text>
+<text x="66" y="1578" font-size="13.8" fill="#345963">Every field starts with a fresh breath in and a fresh hold; the</text>
+<text x="66" y="1600" font-size="13.8" fill="#345963">literature consistently reports high levels of compliance.</text>
+<text x="66" y="1622" font-size="13.8" fill="#345963">Even so, after pre-selection and training about three in ten</text>
+<text x="66" y="1644" font-size="13.8" fill="#345963">cannot complete a breath-hold planning scan — and then the plan</text>
+<text x="66" y="1666" font-size="13.8" fill="#345963">is made another way.</text>
+<rect x="44" y="1720" width="532" height="270" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="1752" font-size="15.5" fill="#8F7418" font-weight="800">No days on this page, and no minutes either</text>
+<text x="66" y="1776" font-size="13.8" fill="#345963">How many days from simulation to the first treatment, how many</text>
+<text x="66" y="1800" font-size="13.8" fill="#345963">minutes a single session takes, how many seconds each breath</text>
+<text x="66" y="1824" font-size="13.8" fill="#345963">hold lasts — no citable general figure was found for any of the</text>
+<text x="66" y="1848" font-size="13.8" fill="#345963">three, so none is drawn or invented; go by your own hospital's</text>
+<text x="66" y="1872" font-size="13.8" fill="#345963">schedule and instructions.</text>
+<text x="66" y="1896" font-size="13.8" fill="#345963">What is citable is the 15 to 30 minute training session</text>
+<text x="66" y="1920" font-size="13.8" fill="#345963">(systematic review of 38 studies, covering literature from 2000</text>
+<text x="66" y="1944" font-size="13.8" fill="#345963">to 2014) — that is how long the practice takes, not how long</text>
+<text x="66" y="1968" font-size="13.8" fill="#345963">treatment takes, and the two must not be conflated.</text>
+<text x="44" y="2026" font-size="12" fill="#6B8084">Schematic, redrawn from Latty 2015, Bergom 2018 and Lai 2022</text>
+<text x="44" y="2046" font-size="12" fill="#6B8084">Steps follow the usual clinical order; names, sequence and scheduling differ</text>
+<text x="44" y="2066" font-size="12" fill="#6B8084">between centres — go by your own hospital's instructions</text>
+  </g>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1726" viewBox="0 0 620 1726" role="img" aria-labelledby="t d">
+  <title id="t">深吸氣閉氣：拉開的是距離，降下來的是劑量</title>
+  <desc id="d">示意圖（非實際解剖，也非實際劑量分布）：深吸氣閉氣如何把心臟拉離照野，以及降下來的是什麼。左格自由呼吸：心臟貼著胸壁，切線照野的邊緣容易掃到心臟前緣。右格深吸氣閉氣：橫膈下移、肺撐開，心臟被推離照野，兩者之間出現一段距離。量得到的降幅：全心與左前降支的平均劑量降低約 20 到 70%，區間很寬、因人而異（綜述）；12 篇觀察性研究、1,019 位左側病人的統合分析顯示心臟與左前降支劑量顯著較低，而標靶涵蓋沒有差異；文獻平均（2014 到 2017 年發表、左側）有呼吸控制 1.7 Gy、沒有呼吸控制 4.5 Gy，2003 到 2013 年文獻中切線照野加呼吸控制為 1.3 Gy。同樣量得到的另一面：一項研究裡 72 名經過預選與訓練的病人，仍有 29% 無法完成閉氣定位掃描；另一項 112 人中有 20 人無法耐受主動呼吸控制系統；綜述估計約 75% 做閉氣的人有劑量學獲益，練不起來會回到自由呼吸下的心臟閃避去規劃。證據等級是本圖的核心標記：以上每一個數字都是劑量學終點，DIBH 降低心臟事件的直接證據（已讀出的隨機試驗或大型世代比較）查無；事件那一層來自世代研究——平均心臟劑量每多 1 Gy，主要冠狀動脈事件率相對上升 7.4%，看不到明顯的安全下限（瑞典與丹麥 1958 到 2001 年世代）。兩截都硬，但它們是兩截，不能縫成「閉氣已證明減少心臟病發作」。腳註提醒基本款不是沒有保護：一般強度調控與 3D 順形技術做出來的現代左乳平均心臟劑量，文獻平均已落在 2.16 到 3.6 Gy 之間。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1726" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">DIBH — DOSIMETRY, NOT EVENTS</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">深吸氣閉氣：拉開的是距離，降下來</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">的是劑量</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">吸飽氣，橫膈下移、肺張開，心臟被拉離胸壁與照野——這是姿勢，不是機器，可</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">以疊加在任何光子技術上。</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">圖上每一個數字都是劑量學終點；心臟事件那一層另外標，兩層不能縫成一句話。</text>
+<g filter="url(#sh)"><rect x="44" y="272" width="532" height="308" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="304" font-size="16.5" fill="#123641" font-weight="800">自由呼吸</text>
+<rect x="135.36" y="330.5" width="349.28" height="189" rx="42.48" fill="#F4EFE3" stroke="#9A9282" stroke-width="2"/>
+<ellipse cx="229.76" cy="404" rx="63.72" ry="42" fill="#E9E2CF"/>
+<ellipse cx="390.24" cy="404" rx="63.72" ry="42" fill="#E9E2CF"/>
+<text x="229.76" y="408.32" font-size="12" fill="#6B8084" font-weight="700" text-anchor="middle">肺</text>
+<path d="M 143.36,452.3 Q 310,422.9 476.64,452.3" fill="none" stroke="#6B8084" stroke-width="2.5"/>
+<text x="189.64" y="474.3" font-size="12" fill="#6B8084" text-anchor="middle">橫膈</text>
+<path d="M 451.6,359.9 C 536.56,366.2 536.56,416.6 451.6,422.9" fill="#F4EFE3" stroke="#9A9282" stroke-width="2"/>
+<rect x="378.44" y="351.5" width="141.6" height="77.7" rx="10" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="446.88" y="341" font-size="12" fill="#8F7418" font-weight="700" text-anchor="middle">乳房與切線照野</text>
+<ellipse cx="340.68" cy="425" rx="49.56" ry="28.35" fill="#5C77C4" opacity="0.88"/>
+<text x="340.68" y="429.32" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">心臟</text>
+<text x="74" y="560" font-size="13.8" fill="#345963">心臟貼著胸壁，切線照野的邊緣容易掃到心臟前緣。</text>
+<g filter="url(#sh)"><rect x="44" y="606" width="532" height="308" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="638" font-size="16.5" fill="#123641" font-weight="800">深吸氣閉氣（DIBH）</text>
+<rect x="135.36" y="664.5" width="349.28" height="189" rx="42.48" fill="#F4EFE3" stroke="#9A9282" stroke-width="2"/>
+<ellipse cx="229.76" cy="744.3" rx="63.72" ry="52.5" fill="#E9E2CF"/>
+<ellipse cx="390.24" cy="744.3" rx="63.72" ry="52.5" fill="#E9E2CF"/>
+<text x="229.76" y="748.62" font-size="12" fill="#6B8084" font-weight="700" text-anchor="middle">肺</text>
+<path d="M 143.36,813.6 Q 310,784.2 476.64,813.6" fill="none" stroke="#6B8084" stroke-width="2.5"/>
+<text x="189.64" y="835.6" font-size="12" fill="#6B8084" text-anchor="middle">橫膈</text>
+<path d="M 451.6,693.9 C 536.56,700.2 536.56,750.6 451.6,756.9" fill="#F4EFE3" stroke="#9A9282" stroke-width="2"/>
+<rect x="378.44" y="685.5" width="141.6" height="77.7" rx="10" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="446.88" y="675" font-size="12" fill="#8F7418" font-weight="700" text-anchor="middle">乳房與切線照野</text>
+<ellipse cx="288.76" cy="775.8" rx="49.56" ry="28.35" fill="#5C77C4" opacity="0.88"/>
+<text x="288.76" y="780.12" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">心臟</text>
+<line x1="348.32" y1="775.8" x2="374.44" y2="775.8" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<line x1="374.44" y1="775.8" x2="364.74" y2="781" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<line x1="374.44" y1="775.8" x2="364.74" y2="770.6" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<line x1="368.44" y1="775.8" x2="342.32" y2="775.8" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<line x1="342.32" y1="775.8" x2="352.02" y2="781" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<line x1="342.32" y1="775.8" x2="352.02" y2="770.6" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<text x="358.38" y="824.15" font-size="12" fill="#123641" font-weight="800" text-anchor="middle">距離拉開</text>
+<text x="74" y="894" font-size="13.8" fill="#345963">橫膈下移、肺撐開，心臟被推離照野——拉開的是距離。</text>
+<g filter="url(#sh)"><rect x="44" y="946" width="532" height="198" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="978" font-size="16.5" fill="#123641" font-weight="800">量得到的：降幅</text>
+<text x="66" y="1004" font-size="13.8" fill="#345963">全心與左前降支（LAD）的平均劑量降低約 20 到 70%——區間很寬，因人而異</text>
+<text x="66" y="1026" font-size="13.8" fill="#345963">（綜述）。</text>
+<text x="66" y="1048" font-size="13.8" fill="#345963">12 篇觀察性研究、1,019 位左側病人的統合分析：心臟與 LAD 劑量顯著較低，</text>
+<text x="66" y="1070" font-size="13.8" fill="#345963">標靶涵蓋沒有差異。</text>
+<text x="66" y="1092" font-size="13.8" fill="#345963">文獻平均（2014 到 2017 年發表、左側）：有呼吸控制 1.7 Gy、沒有 4.5</text>
+<text x="66" y="1114" font-size="13.8" fill="#345963">Gy；切線照野加呼吸控制 1.3 Gy（2003 到 2013 年文獻）。</text>
+<g filter="url(#sh)"><rect x="44" y="1168" width="532" height="154" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="1200" font-size="16.5" fill="#123641" font-weight="800">同樣量得到的：不是人人做得到</text>
+<text x="66" y="1226" font-size="13.8" fill="#345963">一項研究裡 72 名經過預選與訓練的病人，仍有 29% 無法完成閉氣定位掃描。</text>
+<text x="66" y="1248" font-size="13.8" fill="#345963">另一項 112 人中有 20 人無法耐受主動呼吸控制系統；綜述估計約 75% 做閉</text>
+<text x="66" y="1270" font-size="13.8" fill="#345963">氣的人有劑量學獲益。</text>
+<text x="66" y="1292" font-size="13.8" fill="#345963">練不起來不是誰的失敗——計畫會回到自由呼吸下的心臟閃避去做。</text>
+<rect x="44" y="1346" width="532" height="198" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="1378" font-size="15.5" fill="#8F7418" font-weight="800">證據等級：這張圖畫的是劑量，不是心臟事件</text>
+<text x="66" y="1402" font-size="13.8" fill="#345963">上面每一個數字都是劑量學終點。DIBH 降低心臟事件的直接證據——已讀出的</text>
+<text x="66" y="1426" font-size="13.8" fill="#345963">隨機試驗或大型世代比較——查無。</text>
+<text x="66" y="1450" font-size="13.8" fill="#345963">事件那一層來自世代研究：平均心臟劑量每多 1 Gy，主要冠狀動脈事件率相對</text>
+<text x="66" y="1474" font-size="13.8" fill="#345963">上升 7.4%，看不到明顯的安全下限（瑞典與丹麥 1958 到 2001 年世代）。</text>
+<text x="66" y="1498" font-size="13.8" fill="#345963">兩截都硬，但它們是兩截：劑量降低量得到、劑量與事件的關係有世代證據——</text>
+<text x="66" y="1522" font-size="13.8" fill="#345963">不能縫成「閉氣已證明減少心臟病發作」。</text>
+<text x="44" y="1582" font-size="13" fill="#6B8084" font-weight="600">基本款不是沒有保護：一般強度調控與 3D 順形技術做出來的現代左乳平均心臟劑量，文獻</text>
+<text x="44" y="1604" font-size="13" fill="#6B8084" font-weight="600">平均已落在 2.16 到 3.6 Gy 之間。</text>
+<text x="44" y="1646" font-size="12" fill="#6B8084">示意圖（非實際解剖，也非實際劑量分布），依 Lai 2022、Lu 2020、Taylor 2015、Drost</text>
+<text x="44" y="1666" font-size="12" fill="#6B8084">2018 與 Darby 2013 重繪</text>
+<text x="44" y="1686" font-size="12" fill="#6B8084">劑量學與臨床事件是兩層證據，圖上分開標示；適用性與收費身分請與你的治療團隊確認</text>
+  </g>
+</svg>

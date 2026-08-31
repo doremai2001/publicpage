@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1536" viewBox="0 0 1440 1536" role="img" aria-labelledby="t d">
+  <title id="t">技術 × 呼吸：一張兩個軸的地圖</title>
+  <desc id="d">示意圖：技術與呼吸的兩軸地圖。橫軸是劑量分布的精細程度——3D 順形、強度調控 IMRT、旋轉調控、質子；縱軸只有一件事，深吸氣閉氣（DIBH）。兩個軸互相獨立，落點由適應症決定，不是預算決定。第一格「3D 順形與強度調控 IMRT」（健保給付的一般技術）填的是真實數字，不是形容詞：現代左乳平均心臟劑量在 2003 到 2013 年文獻平均 5.4 Gy、2014 到 2017 年文獻平均 3.6 Gy，其中 2017 年發表者平均 2.6 Gy；單機構 4,687 人實測，左側傳統分次（50 Gy 分 25 次）中位 2.16 Gy、低分次（42.6 Gy 分 16 次）中位 1.47 Gy；加上呼吸控制，文獻平均 1.7 Gy（沒有呼吸控制者 4.5 Gy），切線照野加呼吸控制 1.3 Gy；相對於更早年代的楔形板與 2D 技術，隨機試驗顯示濕性脫屑 31.2% 對 47.8%、5 年外觀變化 40% 對 58%、整體外觀不佳勝算比 0.68。第二格是「旋轉調控」，VMAT 與 TOMO 在同一格、格內不排名：有意義的差出現在複雜標靶（胸壁加區域淋巴尤其含內乳、重建後胸壁、雙側同時照射、解剖困難）；台灣 108 人的左乳加區域淋巴比較裡，VMAT 平均心臟劑量 3.82 Gy、TOMO 5.13 Gy，肺與對側乳房同方向，兩者互有勝負、看情境與規劃；代價是螺旋斷層對非標靶體積增加低劑量浴；TOMO 與一般 IMRT 之間查無隨機的臨床療效比較；健保支付標準全表查無 TOMO 專屬項目，各院自費金額查無官方公告。第三格質子：不含內乳的平均心臟劑量 0.5 Gy 級、含內乳 2.6 Gy，是各技術中最低，70 人前瞻系列實測全心 0.44 Gy；隨機試驗 RADCOMP 收案完成 1,238 人、主要終點是重大心血管事件、尚未讀出，試驗登錄的主要完成日估在 2036 年 11 月；質子有自己的代價，前瞻世代肋骨骨折 7%、225 人系列 3 年 3.7%（有症狀 0.4%），入射端沒有光子的皮膚保護效應、皮膚劑量取決於規劃；健保質子三碼限未滿十九歲，成人乳癌質子全自費。第四列是 DIBH：可疊加在 3D、IMRT、VMAT、TOMO 任何一種光子技術上，降幅約 20 到 70%、因人而異（劑量學），預選訓練後仍約三成無法完成閉氣定位掃描；質子那一格例外，自由呼吸已是 0.48 Gy、閉氣再降到 0.31 Gy，邊際效益小；健保支付標準全表查無呼吸調控或閉氣項目，光子閉氣的自費收費查無任何醫院官方公告。腳註提醒側別不是唯一的軸：左側平均心臟劑量 5.4 Gy、右側 3.3 Gy，把內乳納入會讓典型心臟劑量翻倍。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1536" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">TECHNIQUE × DIBH — A MAP, NOT A PRICE LIST</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">技術 × 呼吸：一張兩個軸的地圖</text>
+<text x="84" y="194" font-size="21" fill="#527078">橫軸是劑量分布的精細程度：3D 順形 → 強度調控 → 旋轉調控 → 質子；縱軸只有一件事，深吸氣閉氣。</text>
+<text x="84" y="224" font-size="21" fill="#527078">兩個軸互相獨立：「用哪一種機器」和「要不要閉氣」是兩個問題，落點由適應症決定。</text>
+<line x1="114" y1="294" x2="1296" y2="294" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1290" y1="294" x2="1326" y2="294" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1326" y1="294" x2="1316.3" y2="299.2" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1326" y1="294" x2="1316.3" y2="288.8" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="194" cy="294" r="7" fill="#123641"/>
+<text x="194" y="276" font-size="15.5" fill="#123641" font-weight="800" text-anchor="middle">3D 順形</text>
+<circle cx="531.33" cy="294" r="7" fill="#123641"/>
+<text x="531.33" y="276" font-size="15.5" fill="#123641" font-weight="800" text-anchor="middle">強度調控 IMRT</text>
+<circle cx="868.67" cy="294" r="7" fill="#123641"/>
+<text x="868.67" y="276" font-size="15.5" fill="#123641" font-weight="800" text-anchor="middle">旋轉調控 VMAT／TOMO</text>
+<circle cx="1206" cy="294" r="7" fill="#123641"/>
+<text x="1206" y="276" font-size="15.5" fill="#123641" font-weight="800" text-anchor="middle">質子</text>
+<text x="84" y="328" font-size="14.5" fill="#6B8084">劑量分布逐步更貼——但更貼不等於每一格都贏，各格的條件寫在下面</text>
+<rect x="84" y="356" width="1272" height="82" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="388" font-size="17" fill="#8F7418" font-weight="800">落點由適應症決定，不是預算決定</text>
+<text x="110" y="416" font-size="15" fill="#345963">腫瘤位置、照射範圍、你的解剖條件決定你落在哪一格；價格排在這兩題後面。查不到官方公告的項目，一律問醫務課。</text>
+<g filter="url(#sh)"><rect x="84" y="468" width="1272" height="188" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="490" width="272" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="246" y="513.46" font-size="17.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">3D 順形／強度調控 IMRT</text>
+<text x="246" y="550" font-size="14" fill="#6B8084" text-anchor="middle">健保給付的一般技術</text>
+<text x="426" y="504" font-size="19" fill="#123641" font-weight="800">現行標準，不是陽春款——這一格填的是真實數字</text>
+<text x="426" y="530" font-size="14.2" fill="#345963">現代左乳平均心臟劑量：2003 到 2013 年文獻平均 5.4 Gy；2014 到 2017 年文獻平均降到 3.6 Gy，其中 2017 年發表者平均 2.6 Gy。</text>
+<text x="426" y="554" font-size="14.2" fill="#345963">單機構 4,687 人實測：左側傳統分次（50 Gy 分 25 次）中位 2.16 Gy、低分次（42.6 Gy 分 16 次）中位 1.47 Gy。</text>
+<text x="426" y="578" font-size="14.2" fill="#345963">加上呼吸控制：文獻平均 1.7 Gy，沒有呼吸控制的 4.5 Gy；切線照野加呼吸控制 1.3 Gy。</text>
+<text x="426" y="602" font-size="14.2" fill="#345963">隨機證據（對照是更早年代的楔形板與 2D）：濕性脫屑 31.2% 對 47.8%、5 年外觀變化 40% 對 58%、整體外觀不佳勝算比 0.68。</text>
+<g filter="url(#sh)"><rect x="84" y="682" width="1272" height="236" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="704" width="272" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="246" y="727.46" font-size="17.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">旋轉調控：VMAT 與 TOMO</text>
+<text x="246" y="764" font-size="14" fill="#6B8084" text-anchor="middle">同一格，格內不排名</text>
+<text x="426" y="718" font-size="19" fill="#123641" font-weight="800">有意義的差出現在複雜標靶</text>
+<text x="426" y="744" font-size="14.2" fill="#345963">情境：胸壁加區域淋巴（尤其含內乳）、重建後的胸壁、雙側同時照射、解剖困難——旋轉調控能同時把涵蓋與均勻度做好（劑量學）。</text>
+<text x="426" y="768" font-size="14.2" fill="#345963">格內不排名：台灣 108 人的左乳加區域淋巴比較裡，VMAT 平均心臟劑量 3.82 Gy、TOMO 5.13 Gy，肺與對側乳房同方向——兩者互有勝負，</text>
+<text x="426" y="792" font-size="14.2" fill="#345963">看情境與規劃。</text>
+<text x="426" y="816" font-size="14.2" fill="#345963">代價寫在原文裡：螺旋斷層對非標靶體積增加「低劑量浴」。</text>
+<text x="426" y="840" font-size="14.2" fill="#345963">TOMO 與一般 IMRT 之間，查無隨機的臨床療效比較；能比的都是劑量分布與回溯資料。</text>
+<text x="426" y="864" font-size="14.2" fill="#345963">健保支付標準全表查無 TOMO 專屬項目；各院自費金額查無任何官方公告——問醫務課。</text>
+<g filter="url(#sh)"><rect x="84" y="944" width="1272" height="188" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="966" width="272" height="34" rx="14.98" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="246" y="989.46" font-size="17.5" fill="#9A9282" font-weight="800" text-anchor="middle">質子</text>
+<text x="246" y="1026" font-size="14" fill="#6B8084" text-anchor="middle">轉診／成人全自費</text>
+<text x="426" y="980" font-size="19" fill="#123641" font-weight="800">劑量學明確，隨機答案還沒讀出</text>
+<text x="426" y="1006" font-size="14.2" fill="#345963">劑量學：不含內乳的平均心臟劑量 0.5 Gy 級、含內乳 2.6 Gy（各技術中最低）；70 人前瞻系列實測全心 0.44 Gy。</text>
+<text x="426" y="1030" font-size="14.2" fill="#345963">隨機試驗 RADCOMP 收案完成（1,238 人），主要終點是重大心血管事件，尚未讀出——試驗登錄的主要完成日估在 2036 年 11 月。</text>
+<text x="426" y="1054" font-size="14.2" fill="#345963">自己的代價也在：前瞻世代肋骨骨折 7%、225 人系列 3 年 3.7%（有症狀 0.4%）；入射端沒有光子的皮膚保護效應，皮膚劑量取決於規劃。</text>
+<text x="426" y="1078" font-size="14.2" fill="#345963">健保質子三碼（115 年 1 月生效）適用範圍均限未滿十九歲；成人乳癌質子全自費。</text>
+<g filter="url(#sh)"><rect x="84" y="1158" width="1272" height="188" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="1180" width="272" height="34" rx="14.98" fill="#00806B"/>
+<text x="246" y="1203.46" font-size="17.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">DIBH 深吸氣閉氣</text>
+<text x="246" y="1240" font-size="14" fill="#6B8084" text-anchor="middle">縱軸：疊加在任何光子技術</text>
+<text x="426" y="1194" font-size="19" fill="#123641" font-weight="800">不是機器，是照射當下的姿勢</text>
+<text x="426" y="1220" font-size="14.2" fill="#345963">可以疊加在 3D、IMRT、VMAT、TOMO 任何一種光子技術上——和「用哪一種機器」是兩個獨立的問題。</text>
+<text x="426" y="1244" font-size="14.2" fill="#345963">降幅約 20 到 70%、因人而異（劑量學）；預選訓練後仍有約三成無法完成閉氣定位掃描。</text>
+<text x="426" y="1268" font-size="14.2" fill="#345963">質子那一格例外：質子自由呼吸的平均心臟劑量已是 0.48 Gy，閉氣再降到 0.31 Gy——邊際效益小。</text>
+<text x="426" y="1292" font-size="14.2" fill="#345963">健保支付標準全表查無呼吸調控或閉氣項目；光子閉氣的自費收費查無任何醫院官方公告——問醫務課。</text>
+<text x="84" y="1388" font-size="14.5" fill="#6B8084" font-weight="600">側別不是唯一的軸：左側平均心臟劑量 5.4 Gy、右側 3.3 Gy；把內乳納入會讓典型心臟劑量翻倍——所以右側要照內乳時，一樣要把心臟攤開來看。</text>
+<text x="84" y="1440" font-size="16" fill="#6B8084">示意圖，依 Taylor 2015、Drost 2018、Trivedi 2020、Pignol 2008、Donovan 2007、Mukesh 2013、Lin 2021、Mutter 2021（PTCOG 共識）、RADCOMP 試驗登錄與健保</text>
+<text x="84" y="1464" font-size="16" fill="#6B8084">支付標準條文重繪</text>
+<text x="84" y="1488" font-size="16" fill="#6B8084">各研究族群、設計與終點不同，格與格之間的數字不可直接互比</text>
+  </g>
+</svg>

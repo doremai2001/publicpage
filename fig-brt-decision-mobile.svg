@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1976" viewBox="0 0 620 1976" role="img" aria-labelledby="t d">
+  <title id="t">誰需要術後放療：手術型式 × 淋巴結的診間地圖</title>
+  <desc id="d">示意圖：誰需要術後放射治療的診間地圖，兩個變數是手術型式（乳房保留手術或全切除）與腋下淋巴結狀態（陰性、陽性、幾顆）。格上的標籤有三種，不可互換：建議、要談的決定、不是常規適應症。保留手術加淋巴結陰性，標籤是建議——全乳照射是配套不是加購：EBCTCG 統合（17 個試驗、pN0 共 7,287 人）10 年任何首次復發從 31.0% 降到 15.6%、15 年乳癌死亡從 20.5% 降到 17.2%；地標 NSABP B-06 追 20 年，單純腫瘤切除不照的同側乳房復發累積 39.2%、加上照射 14.3%；年紀較大、腫瘤小、荷爾蒙受體陽性的一群有省略照射可談，條件與代價另有專篇。保留手術加淋巴結陽性，標籤同樣是建議：同一份統合（pN+ 共 1,050 人，人數少、信賴區間較寬）10 年復發從 63.7% 降到 42.5%、15 年乳癌死亡從 51.3% 降到 42.8%；要不要連區域淋巴一起照是另一個決定。全切除加淋巴結陰性（腋下廓清後 0 顆陽性），標籤是不是常規適應症：EBCTCG 統合的 700 人裡，照了復發與乳癌死亡都沒有降，率比 1.06 與 1.18、兩個都不顯著。全切除加淋巴結陽性分成兩格。1 到 3 顆陽性的標籤是要談的決定：老統合 1,314 人顯示照胸壁加區域淋巴把乳癌死亡率比壓到 0.80（95% 信賴區間 0.67 到 0.95），但 2025 年讀出的 SUPREMO 用現代全身治療重做（1,607 人、中位追蹤 9.6 年），10 年總存活 81.4% 對 81.9%（風險比 1.04、p 值 0.80，沒有差），胸壁復發 1.1% 對 2.5%（風險比 0.45，有差）；兩份的介入也不同，老試驗照胸壁加區域淋巴、SUPREMO 只照胸壁——所以這一格不是自動要、也不是自動不要，是把顆數、腫瘤大小、分化等級、淋巴血管侵犯攤開來談的決定。4 顆以上陽性的標籤才是建議：老統合 1,772 人顯示整體復發率比 0.79、乳癌死亡率比 0.87，而且沒有任何用現代藥物重做的隨機試驗挑戰過這一格。圖末提醒兩件事：EBCTCG 兩份統合的族群在 1960 到 80 年代收案，今日病人的絕對數字普遍比表上低、比例效應比較可信，這個標籤不可省；這張圖是診間地圖不是判決，最終落點由你的團隊依完整病理、影像與全身治療計畫判定，照射改變的是機率、不是保單。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1976" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">WHO NEEDS POST-OPERATIVE RADIOTHERAPY</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">誰需要術後放療：手術型式 × 淋巴結的</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">診間地圖</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">兩個變數決定你落在哪一格：做的是保留手術還是全切除、腋下淋巴結有沒有</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">轉移、幾顆。</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">格子上的標籤有三種——建議、要談的決定、不是常規適應症——它們不一樣，不可</text>
+<text x="44" y="260" font-size="14.5" fill="#527078">以互換。</text>
+<text x="44" y="294" font-size="14" fill="#8F7418" font-weight="800">乳房保留手術（PM） ／ 淋巴結陰性</text>
+<g filter="url(#sh)"><rect x="44" y="320" width="532" height="258.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="342" width="150" height="30" rx="13.22" fill="#00806B"/>
+<text x="141" y="362.7" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">建議</text>
+<text x="66" y="400" font-size="16.5" fill="#123641" font-weight="800">全乳照射是配套，不是加購</text>
+<text x="66" y="434.5" font-size="13.8" fill="#345963">EBCTCG 統合（17 個試驗、pN0 共 7,287 人）：10 年任何首次復發 31.0%</text>
+<text x="66" y="456.5" font-size="13.8" fill="#345963">降到 15.6%、15 年乳癌死亡 20.5% 降到 17.2%。</text>
+<text x="66" y="478.5" font-size="13.8" fill="#345963">地標 NSABP B-06 追 20 年：單純腫瘤切除不照，同側乳房復發累積 39.2%；</text>
+<text x="66" y="500.5" font-size="13.8" fill="#345963">加上照射 14.3%。</text>
+<text x="66" y="522.5" font-size="13.8" fill="#345963">年紀較大、腫瘤小、荷爾蒙受體陽性的一群有「省略照射」可談，條件與代價另</text>
+<text x="66" y="544.5" font-size="13.8" fill="#345963">有專篇。</text>
+<text x="44" y="602.5" font-size="14" fill="#8F7418" font-weight="800">全切除（含改良型根除手術，MRM） ／ 淋巴結陰性</text>
+<g filter="url(#sh)"><rect x="44" y="628.5" width="532" height="192.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="650.5" width="163" height="30" rx="13.22" fill="none" stroke="#6B8084" stroke-width="2"/>
+<text x="147.5" y="671.2" font-size="15" fill="#6B8084" font-weight="800" text-anchor="middle">不是常規適應症</text>
+<text x="66" y="708.5" font-size="16.5" fill="#123641" font-weight="800">腋下廓清後 0 顆陽性</text>
+<text x="66" y="743" font-size="13.8" fill="#345963">EBCTCG 統合（700 人）：照了，復發與乳癌死亡都沒有降——率比 1.06 與</text>
+<text x="66" y="765" font-size="13.8" fill="#345963">1.18，兩個都不顯著。</text>
+<text x="66" y="787" font-size="13.8" fill="#345963">所以全切除後淋巴結陰性，不是常規適應症。</text>
+<text x="44" y="845" font-size="14" fill="#8F7418" font-weight="800">乳房保留手術（PM） ／ 淋巴結陽性</text>
+<g filter="url(#sh)"><rect x="44" y="871" width="532" height="236.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="893" width="150" height="30" rx="13.22" fill="#00806B"/>
+<text x="141" y="913.7" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">建議</text>
+<text x="66" y="951" font-size="16.5" fill="#123641" font-weight="800">淋巴結陽性的保留手術</text>
+<text x="66" y="985.5" font-size="13.8" fill="#345963">同一份統合（pN+ 共 1,050 人，人數少、信賴區間較寬）：10 年復發</text>
+<text x="66" y="1007.5" font-size="13.8" fill="#345963">63.7% 降到 42.5%、15 年乳癌死亡 51.3% 降到 42.8%。</text>
+<text x="66" y="1029.5" font-size="13.8" fill="#345963">要不要連區域淋巴一起照，是另一個決定。</text>
+<text x="66" y="1051.5" font-size="13.8" fill="#345963">比例上砍掉的幅度各族群差不多，但你本來的風險越高，照射替你擋掉的絕對數</text>
+<text x="66" y="1073.5" font-size="13.8" fill="#345963">字就越大——所以同一張表，每個人讀出來的獲益不一樣。</text>
+<text x="44" y="1131.5" font-size="14" fill="#8F7418" font-weight="800">全切除（含改良型根除手術，MRM） ／ 淋巴結陽性</text>
+<g filter="url(#sh)"><rect x="44" y="1157.5" width="532" height="302.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="1179.5" width="150" height="30" rx="13.22" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="141" y="1200.2" font-size="15" fill="#9A9282" font-weight="800" text-anchor="middle">要談的決定</text>
+<text x="66" y="1237.5" font-size="16.5" fill="#123641" font-weight="800">1 到 3 顆陽性</text>
+<text x="66" y="1272" font-size="13.8" fill="#345963">老統合（1,314 人）：照胸壁加區域淋巴，把乳癌死亡率比壓到 0.80（95% 信</text>
+<text x="66" y="1294" font-size="13.8" fill="#345963">賴區間 0.67 到 0.95）。</text>
+<text x="66" y="1316" font-size="13.8" fill="#345963">2025 年讀出的 SUPREMO 用現代全身治療重做（1,607 人、中位追蹤 9.6 年）：</text>
+<text x="66" y="1338" font-size="13.8" fill="#345963">10 年總存活 81.4% 對 81.9%（風險比 1.04、p=0.80，沒有差）；胸壁</text>
+<text x="66" y="1360" font-size="13.8" fill="#345963">復發 1.1% 對 2.5%（風險比 0.45，有差）。</text>
+<text x="66" y="1382" font-size="13.8" fill="#345963">兩份的介入也不同：老試驗照胸壁加區域淋巴，SUPREMO 只照胸壁。所以這一格</text>
+<text x="66" y="1404" font-size="13.8" fill="#345963">不是自動要、也不是自動不要，是把顆數、腫瘤大小、分化等級、淋巴血管侵犯</text>
+<text x="66" y="1426" font-size="13.8" fill="#345963">攤開來談的決定。</text>
+<text x="44" y="1484" font-size="14" fill="#8F7418" font-weight="800">全切除（含改良型根除手術，MRM） ／ 淋巴結陽性</text>
+<g filter="url(#sh)"><rect x="44" y="1510" width="532" height="170.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="1532" width="150" height="30" rx="13.22" fill="#00806B"/>
+<text x="141" y="1552.7" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">建議</text>
+<text x="66" y="1590" font-size="16.5" fill="#123641" font-weight="800">4 顆以上陽性</text>
+<text x="66" y="1624.5" font-size="13.8" fill="#345963">老統合（1,772 人）：整體復發率比 0.79、乳癌死亡率比 0.87。</text>
+<text x="66" y="1646.5" font-size="13.8" fill="#345963">而且沒有任何用現代藥物重做的隨機試驗挑戰過這一格。</text>
+<rect x="44" y="1710.5" width="532" height="150" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="1742.5" font-size="15.5" fill="#8F7418" font-weight="800">這些數字怎麼讀</text>
+<text x="66" y="1766.5" font-size="13.8" fill="#345963">EBCTCG 兩份統合的族群在 1960 到 80 年代收案：今日病人的絕對數字普遍比</text>
+<text x="66" y="1790.5" font-size="13.8" fill="#345963">表上低，比例效應比較可信——這個標籤不可省。</text>
+<text x="66" y="1814.5" font-size="13.8" fill="#345963">這張圖是診間地圖，不是判決：最終落點由你的團隊依完整病理、影像與全身治</text>
+<text x="66" y="1838.5" font-size="13.8" fill="#345963">療計畫判定；照射改變的是機率，不是保單。</text>
+<text x="44" y="1896.5" font-size="12" fill="#6B8084">示意圖，依 EBCTCG 2011、EBCTCG 2014、Kunkler 2025（SUPREMO）與 Fisher 2002（NSABP</text>
+<text x="44" y="1916.5" font-size="12" fill="#6B8084">B-06）重繪</text>
+<text x="44" y="1936.5" font-size="12" fill="#6B8084">各研究的年代、族群與照射範圍不同，格與格之間的數字不可直接互比</text>
+  </g>
+</svg>

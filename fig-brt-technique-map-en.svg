@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2082" viewBox="0 0 1440 2082" role="img" aria-labelledby="t d">
+  <title id="t">Technique and breathing: a map with two axes</title>
+  <desc id="d">Schematic map with two axes, technique and breathing. The horizontal axis is how finely dose is shaped — 3D conformal, IMRT, rotational modulation, protons; the vertical axis holds one thing only, deep inspiration breath hold (DIBH). The axes are independent, and indication decides where a patient lands, not budget. The first cell, 3D conformal and IMRT (the NHI-covered standard technique), is filled with real figures rather than adjectives: modern mean heart dose for left-sided treatment averaged 5.4 Gy in literature published 2003 to 2013 and 3.6 Gy in literature published 2014 to 2017, with those published in 2017 averaging 2.6 Gy; measured across 4,687 patients at one institution, left-sided conventional fractionation (50 Gy in 25 fractions) had a median of 2.16 Gy and hypofractionation (42.6 Gy in 16 fractions) a median of 1.47 Gy; with respiratory control the literature average was 1.7 Gy against 4.5 Gy without, and tangential fields plus respiratory control 1.3 Gy; against the wedged and 2D technique of an earlier era, randomised trials showed moist desquamation 31.2% against 47.8%, 5-year change in breast appearance 40% against 58%, and an odds ratio of 0.68 for poor overall cosmesis. The second cell is rotational modulation, with VMAT and TOMO inside the same cell and no ranking between them: the differences that matter appear on complex targets — chest wall plus regional nodes especially the internal mammary chain, a reconstructed chest wall, synchronous bilateral treatment, difficult anatomy. In a Taiwanese comparison of 108 left-sided plans with regional nodal irradiation, mean heart dose was 3.82 Gy with VMAT against 5.13 Gy with TOMO, with lung and contralateral breast pointing the same way, so the two trade places depending on the situation and the planning; the cost is that helical delivery increases the low-dose bath to non-target volumes; no randomised comparison of clinical outcomes between TOMO and ordinary IMRT was found; the NHI schedule contains no TOMO-specific item and no official self-pay amount was found at any hospital. The third cell, protons: mean heart dose in the 0.5 Gy range without the internal mammary chain and 2.6 Gy with it, the lowest of any technique, with a 70-patient prospective series measuring 0.44 Gy to the whole heart; the randomised RADCOMP trial has completed accrual at 1,238 patients with major cardiovascular events as its primary endpoint and has not reported, the registry's estimated primary completion date being November 2036; protons carry their own costs, with rib fracture in 7% of a prospective cohort and 3.7% at 3 years in a 225-patient series (0.4% symptomatic), and no photon skin-sparing effect at the entrance so that skin dose depends on the planning; Taiwan's three NHI proton codes apply only to patients under nineteen, so proton therapy for adult breast cancer is entirely self-paid. The fourth row is DIBH: it layers onto 3D conformal, IMRT, VMAT or TOMO alike, reduces dose by roughly 20 to 70% varying from person to person (dosimetric), and after pre-selection and training about three in ten still cannot complete a breath-hold planning scan; the proton cell is the exception, where free breathing already gives 0.48 Gy and breath hold 0.31 Gy, a small marginal gain; the NHI schedule contains no respiratory-control or breath-hold item, and no official self-pay charge for photon breath hold was found at any hospital. A footnote records that side is not the only axis: mean heart dose averages 5.4 Gy on the left and 3.3 Gy on the right, and including the internal mammary chain doubles the typical heart dose.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2082" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">TECHNIQUE × DIBH — A MAP, NOT A PRICE LIST</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">Technique and breathing: a map with two axes</text>
+<text x="84" y="194" font-size="21" fill="#527078">The horizontal axis is how finely dose is shaped: 3D conformal, then IMRT, then rotational modulation, then</text>
+<text x="84" y="224" font-size="21" fill="#527078">protons. The vertical axis holds one thing only — DIBH.</text>
+<text x="84" y="254" font-size="21" fill="#527078">The axes are independent: which machine delivers the dose and whether you hold your breath are two separate</text>
+<text x="84" y="284" font-size="21" fill="#527078">questions, and indication decides where you land.</text>
+<line x1="114" y1="354" x2="1296" y2="354" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1290" y1="354" x2="1326" y2="354" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1326" y1="354" x2="1316.3" y2="359.2" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1326" y1="354" x2="1316.3" y2="348.8" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="194" cy="354" r="7" fill="#123641"/>
+<text x="194" y="336" font-size="15.5" fill="#123641" font-weight="800" text-anchor="middle">3D conformal</text>
+<circle cx="531.33" cy="354" r="7" fill="#123641"/>
+<text x="531.33" y="336" font-size="15.5" fill="#123641" font-weight="800" text-anchor="middle">IMRT</text>
+<circle cx="868.67" cy="354" r="7" fill="#123641"/>
+<text x="868.67" y="336" font-size="15.5" fill="#123641" font-weight="800" text-anchor="middle">Rotational: VMAT/TOMO</text>
+<circle cx="1206" cy="354" r="7" fill="#123641"/>
+<text x="1206" y="336" font-size="15.5" fill="#123641" font-weight="800" text-anchor="middle">Protons</text>
+<text x="84" y="388" font-size="14.5" fill="#6B8084">Dose conforms more closely along the axis — but closer does not win every cell; each cell's conditions are set out below</text>
+<rect x="84" y="416" width="1272" height="110" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="448" font-size="17" fill="#8F7418" font-weight="800">Indication decides where you land, not budget</text>
+<text x="110" y="476" font-size="15" fill="#345963">Tumour site, the volume to be treated and your own anatomy decide the cell; price comes after those two questions. Where no official schedule of</text>
+<text x="110" y="504" font-size="15" fill="#345963">charges exists, ask the hospital's business office.</text>
+<g filter="url(#sh)"><rect x="84" y="556" width="1272" height="284" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="578" width="272" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="246" y="601.46" font-size="17.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">3D conformal / IMRT</text>
+<text x="246" y="638" font-size="14" fill="#6B8084" text-anchor="middle">NHI-covered standard technique</text>
+<text x="426" y="592" font-size="19" fill="#123641" font-weight="800">The current standard, not a stripped-down option — this cell holds real numbers</text>
+<text x="426" y="618" font-size="14.2" fill="#345963">Modern mean heart dose, left-sided: literature published 2003 to 2013 averaged 5.4 Gy; published 2014 to 2017, 3.6</text>
+<text x="426" y="642" font-size="14.2" fill="#345963">Gy, and among those published in 2017, 2.6 Gy.</text>
+<text x="426" y="666" font-size="14.2" fill="#345963">Measured in a single institution across 4,687 patients: left-sided conventional fractionation (50 Gy in 25</text>
+<text x="426" y="690" font-size="14.2" fill="#345963">fractions) median 2.16 Gy; hypofractionation (42.6 Gy in 16 fractions) median 1.47 Gy.</text>
+<text x="426" y="714" font-size="14.2" fill="#345963">With respiratory control: literature average 1.7 Gy against 4.5 Gy without; tangential fields plus respiratory</text>
+<text x="426" y="738" font-size="14.2" fill="#345963">control 1.3 Gy.</text>
+<text x="426" y="762" font-size="14.2" fill="#345963">Randomised evidence (against the wedged and 2D technique of an earlier era): moist desquamation 31.2% against</text>
+<text x="426" y="786" font-size="14.2" fill="#345963">47.8%; 5-year change in breast appearance 40% against 58%; odds ratio 0.68 for poor overall cosmesis.</text>
+<g filter="url(#sh)"><rect x="84" y="866" width="1272" height="356" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="888" width="272" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="246" y="911.46" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">Rotational: VMAT and TOMO</text>
+<text x="246" y="948" font-size="14" fill="#6B8084" text-anchor="middle">one cell, no ranking inside it</text>
+<text x="426" y="902" font-size="19" fill="#123641" font-weight="800">The differences that matter show up on complex targets</text>
+<text x="426" y="928" font-size="14.2" fill="#345963">Where it counts: chest wall plus regional nodes (particularly the internal mammary chain), a reconstructed chest</text>
+<text x="426" y="952" font-size="14.2" fill="#345963">wall, synchronous bilateral treatment, difficult anatomy — rotational delivery can hold coverage and homogeneity</text>
+<text x="426" y="976" font-size="14.2" fill="#345963">together (dosimetric).</text>
+<text x="426" y="1000" font-size="14.2" fill="#345963">No ranking inside the cell: in a Taiwanese comparison of 108 left-sided plans with regional nodal irradiation, mean</text>
+<text x="426" y="1024" font-size="14.2" fill="#345963">heart dose was 3.82 Gy with VMAT against 5.13 Gy with TOMO, with lung and contralateral breast pointing the same</text>
+<text x="426" y="1048" font-size="14.2" fill="#345963">way — the two trade places depending on the situation and the planning.</text>
+<text x="426" y="1072" font-size="14.2" fill="#345963">The cost is in the source text: helical delivery increases the low-dose bath to non-target volumes.</text>
+<text x="426" y="1096" font-size="14.2" fill="#345963">Between TOMO and ordinary IMRT, no randomised comparison of clinical outcomes was found; what can be compared is</text>
+<text x="426" y="1120" font-size="14.2" fill="#345963">dose distribution and retrospective data.</text>
+<text x="426" y="1144" font-size="14.2" fill="#345963">The NHI schedule contains no TOMO-specific item, and no official published self-pay amount was found at any</text>
+<text x="426" y="1168" font-size="14.2" fill="#345963">hospital — ask the business office.</text>
+<g filter="url(#sh)"><rect x="84" y="1248" width="1272" height="308" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="1270" width="272" height="34" rx="14.98" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="246" y="1293.46" font-size="17.5" fill="#9A9282" font-weight="800" text-anchor="middle">Protons</text>
+<text x="246" y="1330" font-size="14" fill="#6B8084" text-anchor="middle">referral / fully self-paid in adults</text>
+<text x="426" y="1284" font-size="19" fill="#123641" font-weight="800">Dosimetrically clear; the randomised answer has not reported</text>
+<text x="426" y="1310" font-size="14.2" fill="#345963">Dosimetry: mean heart dose in the 0.5 Gy range without the internal mammary chain and 2.6 Gy with it (the lowest of</text>
+<text x="426" y="1334" font-size="14.2" fill="#345963">any technique); a 70-patient prospective series measured 0.44 Gy to the whole heart.</text>
+<text x="426" y="1358" font-size="14.2" fill="#345963">The randomised RADCOMP trial has completed accrual (1,238 patients) with major cardiovascular events as its primary</text>
+<text x="426" y="1382" font-size="14.2" fill="#345963">endpoint, and has not reported — the registry's estimated primary completion date is November 2036.</text>
+<text x="426" y="1406" font-size="14.2" fill="#345963">Protons carry their own costs: rib fracture in 7% of a prospective cohort, and 3.7% at 3 years in a 225-patient</text>
+<text x="426" y="1430" font-size="14.2" fill="#345963">series (0.4% symptomatic); there is no photon skin-sparing effect at the entrance, so skin dose depends on the</text>
+<text x="426" y="1454" font-size="14.2" fill="#345963">planning.</text>
+<text x="426" y="1478" font-size="14.2" fill="#345963">Taiwan's three NHI proton codes (effective January 2026) all apply only to patients under nineteen; proton therapy</text>
+<text x="426" y="1502" font-size="14.2" fill="#345963">for adult breast cancer is entirely self-paid.</text>
+<g filter="url(#sh)"><rect x="84" y="1582" width="1272" height="284" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="1604" width="272" height="34" rx="14.98" fill="#00806B"/>
+<text x="246" y="1627.46" font-size="17.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">DIBH</text>
+<text x="246" y="1664" font-size="14" fill="#6B8084" text-anchor="middle">vertical axis: layers onto any photon technique</text>
+<text x="426" y="1618" font-size="19" fill="#123641" font-weight="800">Not a machine — the posture you hold while the beam is on</text>
+<text x="426" y="1644" font-size="14.2" fill="#345963">It layers onto 3D conformal, IMRT, VMAT or TOMO alike — which is a separate question from which machine delivers</text>
+<text x="426" y="1668" font-size="14.2" fill="#345963">the dose.</text>
+<text x="426" y="1692" font-size="14.2" fill="#345963">Reduction of roughly 20 to 70%, varying from person to person (dosimetric); after pre-selection and training, about</text>
+<text x="426" y="1716" font-size="14.2" fill="#345963">three in ten still cannot complete a breath-hold planning scan.</text>
+<text x="426" y="1740" font-size="14.2" fill="#345963">The proton cell is the exception: mean heart dose with protons under free breathing is already 0.48 Gy and falls to</text>
+<text x="426" y="1764" font-size="14.2" fill="#345963">0.31 Gy with breath hold — the marginal gain is small.</text>
+<text x="426" y="1788" font-size="14.2" fill="#345963">The NHI schedule contains no respiratory-control or breath-hold item, and no official published self-pay charge for</text>
+<text x="426" y="1812" font-size="14.2" fill="#345963">photon breath hold was found at any hospital — ask the business office.</text>
+<text x="84" y="1908" font-size="14.5" fill="#6B8084" font-weight="600">Side is not the only axis: mean heart dose averages 5.4 Gy on the left and 3.3 Gy on the right, and including the internal mammary chain doubles the typical</text>
+<text x="84" y="1934" font-size="14.5" fill="#6B8084" font-weight="600">heart dose — so a right-sided patient having the chain treated needs the heart looked at too.</text>
+<text x="84" y="1986" font-size="16" fill="#6B8084">Schematic, redrawn from Taylor 2015, Drost 2018, Trivedi 2020, Pignol 2008, Donovan 2007, Mukesh 2013, Lin 2021, Mutter 2021 (PTCOG consensus),</text>
+<text x="84" y="2010" font-size="16" fill="#6B8084">the RADCOMP trial registry and Taiwan's NHI fee schedule</text>
+<text x="84" y="2034" font-size="16" fill="#6B8084">Cohorts, designs and endpoints differ between studies; figures are not directly comparable across cells</text>
+  </g>
+</svg>

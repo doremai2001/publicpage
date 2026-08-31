@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1508" viewBox="0 0 1440 1508" role="img" aria-labelledby="t d">
+  <title id="t">DIBH: what moves is distance, what falls is dose</title>
+  <desc id="d">Schematic (neither real anatomy nor a real dose distribution) of how deep inspiration breath hold moves the heart away from the field, and of what actually falls. Left panel, free breathing: the heart lies against the chest wall, where the edge of a tangential field can catch its front surface. Right panel, DIBH: the diaphragm drops and the lungs expand, pushing the heart clear of the field and opening a gap between the two. What is measurable: mean dose to the whole heart and to the left anterior descending artery falls by roughly 20 to 70%, a wide range varying from person to person (narrative review); a meta-analysis of 12 observational studies in 1,019 left-sided patients found heart and LAD doses significantly lower with no difference in target coverage; literature averages for left-sided treatment published 2014 to 2017 were 1.7 Gy with respiratory control against 4.5 Gy without, and 1.3 Gy for tangential fields plus respiratory control in the 2003 to 2013 literature. Equally measurable is the other side: in one study 29% of 72 pre-selected and trained patients still could not complete a breath-hold planning scan, in another 20 of 112 could not tolerate an active breathing control system, and the review estimates about 75% of those treated with DIBH gain dosimetrically — if the technique cannot be managed, the plan returns to cardiac sparing under free breathing. The evidence grade is the figure's central mark: every number above is a dosimetric endpoint, and direct evidence that DIBH reduces cardiac events, meaning a reported randomised trial or large cohort comparison, was not found. The event layer comes from cohort research: each additional 1 Gy of mean heart dose raises the rate of major coronary events by about 7.4% in relative terms, with no apparent safe threshold (Swedish and Danish cohort, 1958 to 2001). Both layers are solid but they are two layers, and together they do not amount to a claim that breath hold has been shown to prevent heart attacks. A footnote records that standard technique is not unprotected: with ordinary intensity-modulated and 3D conformal plans, modern mean heart doses for left-sided breast cancer average between 2.16 and 3.6 Gy in the literature.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1508" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">DIBH — DOSIMETRY, NOT EVENTS</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">DIBH: what moves is distance, what falls is dose</text>
+<text x="84" y="194" font-size="21" fill="#527078">Breathe in deeply: the diaphragm drops, the lungs expand, and the heart is drawn away from the chest wall and</text>
+<text x="84" y="224" font-size="21" fill="#527078">the field — a posture, not a machine, and it layers onto any photon technique.</text>
+<text x="84" y="254" font-size="21" fill="#527078">Every figure on this page is a dosimetric endpoint; the cardiac-event layer is labelled separately, and the</text>
+<text x="84" y="284" font-size="21" fill="#527078">two must not be stitched into one sentence.</text>
+<g filter="url(#sh)"><rect x="84" y="324" width="600" height="382" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="358" font-size="18" fill="#123641" font-weight="800">Free breathing</text>
+<rect x="184.2" y="388.5" width="399.6" height="225" rx="48.6" fill="#F4EFE3" stroke="#9A9282" stroke-width="2"/>
+<ellipse cx="292.2" cy="476" rx="72.9" ry="50" fill="#E9E2CF"/>
+<ellipse cx="475.8" cy="476" rx="72.9" ry="50" fill="#E9E2CF"/>
+<text x="292.2" y="480.86" font-size="13.5" fill="#6B8084" font-weight="700" text-anchor="middle">Lung</text>
+<path d="M 192.2,533.5 Q 384,498.5 575.8,533.5" fill="none" stroke="#6B8084" stroke-width="2.5"/>
+<text x="246.3" y="555.5" font-size="13.5" fill="#6B8084" text-anchor="middle">Diaphragm</text>
+<path d="M 546,423.5 C 643.2,431 643.2,491 546,498.5" fill="#F4EFE3" stroke="#9A9282" stroke-width="2"/>
+<rect x="462.3" y="413.5" width="162" height="92.5" rx="10" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="540.6" y="401" font-size="13.5" fill="#8F7418" font-weight="700" text-anchor="middle">Breast and tangential field</text>
+<ellipse cx="419.1" cy="501" rx="56.7" ry="33.75" fill="#5C77C4" opacity="0.88"/>
+<text x="419.1" y="505.86" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Heart</text>
+<text x="114" y="660" font-size="14.2" fill="#345963">The heart lies against the chest wall, where the edge of a</text>
+<text x="114" y="684" font-size="14.2" fill="#345963">tangential field can catch its front surface.</text>
+<g filter="url(#sh)"><rect x="756" y="324" width="600" height="382" rx="18" fill="#FFFFFF"/></g>
+<text x="782" y="358" font-size="18" fill="#123641" font-weight="800">Deep inspiration breath hold (DIBH)</text>
+<rect x="856.2" y="388.5" width="399.6" height="225" rx="48.6" fill="#F4EFE3" stroke="#9A9282" stroke-width="2"/>
+<ellipse cx="964.2" cy="483.5" rx="72.9" ry="62.5" fill="#E9E2CF"/>
+<ellipse cx="1147.8" cy="483.5" rx="72.9" ry="62.5" fill="#E9E2CF"/>
+<text x="964.2" y="488.36" font-size="13.5" fill="#6B8084" font-weight="700" text-anchor="middle">Lung</text>
+<path d="M 864.2,566 Q 1056,531 1247.8,566" fill="none" stroke="#6B8084" stroke-width="2.5"/>
+<text x="918.3" y="588" font-size="13.5" fill="#6B8084" text-anchor="middle">Diaphragm</text>
+<path d="M 1218,423.5 C 1315.2,431 1315.2,491 1218,498.5" fill="#F4EFE3" stroke="#9A9282" stroke-width="2"/>
+<rect x="1134.3" y="413.5" width="162" height="92.5" rx="10" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="1212.6" y="401" font-size="13.5" fill="#8F7418" font-weight="700" text-anchor="middle">Breast and tangential field</text>
+<ellipse cx="1031.7" cy="521" rx="56.7" ry="33.75" fill="#5C77C4" opacity="0.88"/>
+<text x="1031.7" y="525.86" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Heart</text>
+<line x1="1098.4" y1="521" x2="1130.3" y2="521" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<line x1="1130.3" y1="521" x2="1120.6" y2="526.2" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<line x1="1130.3" y1="521" x2="1120.6" y2="515.8" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<line x1="1124.3" y1="521" x2="1092.4" y2="521" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<line x1="1092.4" y1="521" x2="1102.1" y2="526.2" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<line x1="1092.4" y1="521" x2="1102.1" y2="515.8" stroke="#123641" stroke-width="2" stroke-linecap="round"/>
+<text x="1111.35" y="574.75" font-size="13.5" fill="#123641" font-weight="800" text-anchor="middle">Distance opens up</text>
+<text x="786" y="660" font-size="14.2" fill="#345963">The diaphragm drops and the lungs expand, pushing the heart clear of</text>
+<text x="786" y="684" font-size="14.2" fill="#345963">the field — what moves is distance.</text>
+<g filter="url(#sh)"><rect x="84" y="738" width="600" height="298" rx="18" fill="#FFFFFF"/></g>
+<g filter="url(#sh)"><rect x="756" y="738" width="600" height="298" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="774" font-size="18" fill="#123641" font-weight="800">What is measurable: the reduction</text>
+<text x="110" y="804" font-size="14.2" fill="#345963">Mean dose to the whole heart and to the left anterior descending</text>
+<text x="110" y="828" font-size="14.2" fill="#345963">artery (LAD) falls by roughly 20 to 70% — a wide range, varying from</text>
+<text x="110" y="852" font-size="14.2" fill="#345963">person to person (narrative review).</text>
+<text x="110" y="876" font-size="14.2" fill="#345963">Meta-analysis of 12 observational studies, 1,019 left-sided patients:</text>
+<text x="110" y="900" font-size="14.2" fill="#345963">heart and LAD doses significantly lower, with no difference in target</text>
+<text x="110" y="924" font-size="14.2" fill="#345963">coverage.</text>
+<text x="110" y="948" font-size="14.2" fill="#345963">Literature averages (studies published 2014 to 2017, left-sided): 1.7</text>
+<text x="110" y="972" font-size="14.2" fill="#345963">Gy with respiratory control against 4.5 Gy without; tangents plus</text>
+<text x="110" y="996" font-size="14.2" fill="#345963">respiratory control 1.3 Gy (2003 to 2013 literature).</text>
+<text x="782" y="774" font-size="18" fill="#123641" font-weight="800">Equally measurable: not everyone can do it</text>
+<text x="782" y="804" font-size="14.2" fill="#345963">In one study, 29% of 72 pre-selected and trained patients still could</text>
+<text x="782" y="828" font-size="14.2" fill="#345963">not complete a breath-hold planning scan.</text>
+<text x="782" y="852" font-size="14.2" fill="#345963">In another, 20 of 112 could not tolerate an active breathing control</text>
+<text x="782" y="876" font-size="14.2" fill="#345963">system; the review estimates about 75% of those treated with DIBH</text>
+<text x="782" y="900" font-size="14.2" fill="#345963">gain dosimetrically.</text>
+<text x="782" y="924" font-size="14.2" fill="#345963">Not managing it is nobody's failure — the plan goes back to cardiac</text>
+<text x="782" y="948" font-size="14.2" fill="#345963">sparing under free breathing.</text>
+<rect x="84" y="1068" width="1272" height="222" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="1100" font-size="17" fill="#8F7418" font-weight="800">Evidence grade: this figure shows dose, not cardiac events</text>
+<text x="110" y="1128" font-size="15" fill="#345963">Every number above is a dosimetric endpoint. Direct evidence that DIBH reduces cardiac events — a reported randomised trial or large cohort</text>
+<text x="110" y="1156" font-size="15" fill="#345963">comparison — was not found.</text>
+<text x="110" y="1184" font-size="15" fill="#345963">The event layer comes from cohort research: each additional 1 Gy of mean heart dose raises the rate of major coronary events by about 7.4% in</text>
+<text x="110" y="1212" font-size="15" fill="#345963">relative terms, with no apparent safe threshold (Swedish and Danish cohort, 1958 to 2001).</text>
+<text x="110" y="1240" font-size="15" fill="#345963">Both layers are solid, but they are two layers: the dose reduction is measured, and the dose-to-event relationship is cohort evidence — together</text>
+<text x="110" y="1268" font-size="15" fill="#345963">they do not amount to 'breath hold has been shown to prevent heart attacks'.</text>
+<text x="84" y="1334" font-size="14.5" fill="#6B8084" font-weight="600">Standard technique is not unprotected: with ordinary intensity-modulated and 3D conformal plans, modern mean heart doses for left-sided breast cancer average</text>
+<text x="84" y="1360" font-size="14.5" fill="#6B8084" font-weight="600">between 2.16 and 3.6 Gy in the literature.</text>
+<text x="84" y="1412" font-size="16" fill="#6B8084">Schematic (neither real anatomy nor a real dose distribution), redrawn from Lai 2022, Lu 2020, Taylor 2015, Drost 2018 and Darby 2013</text>
+<text x="84" y="1436" font-size="16" fill="#6B8084">Dosimetry and clinical events are two separate layers of evidence, labelled separately; suitability and charges are for your own treating team</text>
+<text x="84" y="1460" font-size="16" fill="#6B8084">to confirm</text>
+  </g>
+</svg>

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="2078" viewBox="0 0 620 2078" role="img" aria-labelledby="t d">
+  <title id="t">Radiation dermatitis: three anchors and one crease</title>
+  <desc id="d">Schematic of the timeline and the site of radiation dermatitis. The timeline carries only the three anchors that have a source, and the figure adds no further detail. Anchor one, onset: the nursing guideline's defining sentence states the reaction usually appears 1 to 4 weeks after treatment starts. Anchor two, the peak: a prospective observation of 148 patients, mainly on conventional fractionation of 50 Gy in 25 fractions, found grade 2 reactions peaking at 61.9% two weeks after the end of treatment with grade 3 peaking at the same time at 8.3%, and across techniques and doses alike the peak fell 1 to 2 weeks after the end — so finishing treatment is not the end of it. Anchor three, settling: the guideline states the reaction can persist for several weeks afterwards, and the acute phase is defined as the first 90 days; the acute sub-study of a randomised trial found erythema after the one-week schedule settling about 2 weeks earlier than after the three-week schedule. Only one site is marked: the grading definition names grade 2 moist desquamation as mostly confined to skin folds and creases, which in breast radiotherapy means the axilla and the inframammary fold. No source specific to any other site was found, so no other site is marked. Who gets it worse also has sources: larger breast size raises the risk of moist desquamation as an independent factor in a randomised trial, and after mastectomy the addition of bolus to the chest wall gave a pooled grade 3 dermatitis rate of 9.6% across 27 studies against 1.2% without. The figure carries a red-line marker stating that two categories are not a self-care problem but a come-back-in problem: moist desquamation (broken skin, blistering, weeping) is flagged URGENT in the nursing guideline and requires medical attention within 24 hours — come back and let the team look at it rather than buying dressings and managing an open wound alone; and signs of infection mean coming back in, namely fever, foul odour, purulent discharge, and pain and swelling extending outside the treatment area, with rapidly worsening pain and a wound opening up belonging in the same category. A footnote gives the scale: taking radiotherapy at all sites together, about 90 to 95% of patients develop radiation dermatitis of some degree, the variable being severity.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="2078" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">SKIN — THREE ANCHORS, ONE PLACE</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">Radiation dermatitis: three</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">anchors and one crease</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">Only three points on the timeline have a source: onset, peak,</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">settling. A finer week-by-week script does not exist in the</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">literature, so this figure does not draw one.</text>
+<text x="44" y="260" font-size="14.5" fill="#527078">Finishing treatment is not the end — the peak usually falls in</text>
+<text x="44" y="282" font-size="14.5" fill="#527078">the week or two after the last fraction.</text>
+<text x="78" y="332" font-size="14" fill="#8F7418" font-weight="800">Treatment starts</text>
+<g filter="url(#sh)"><rect x="78" y="358" width="498" height="110" rx="18" fill="#FFFFFF"/></g>
+<text x="100" y="390" font-size="16.5" fill="#123641" font-weight="800">Weeks 1 to 4: onset</text>
+<text x="100" y="416" font-size="13.8" fill="#345963">The nursing guideline's defining sentence: the reaction</text>
+<text x="100" y="438" font-size="13.8" fill="#345963">usually appears 1 to 4 weeks after treatment starts.</text>
+<text x="78" y="494" font-size="14" fill="#8F7418" font-weight="800">Treatment ends</text>
+<g filter="url(#sh)"><rect x="78" y="520" width="498" height="198" rx="18" fill="#FFFFFF"/></g>
+<text x="100" y="552" font-size="16.5" fill="#123641" font-weight="800">About 2 weeks after the end: the peak</text>
+<text x="100" y="578" font-size="13.8" fill="#345963">Prospective observation of 148 patients (mainly</text>
+<text x="100" y="600" font-size="13.8" fill="#345963">conventional fractionation, 50 Gy in 25 fractions): grade 2</text>
+<text x="100" y="622" font-size="13.8" fill="#345963">reactions peaked at 61.9% two weeks after the end, with</text>
+<text x="100" y="644" font-size="13.8" fill="#345963">grade 3 peaking at the same time at 8.3%.</text>
+<text x="100" y="666" font-size="13.8" fill="#345963">Across techniques and doses alike, the peak fell 1 to 2</text>
+<text x="100" y="688" font-size="13.8" fill="#345963">weeks after the end.</text>
+<g filter="url(#sh)"><rect x="78" y="738" width="498" height="198" rx="18" fill="#FFFFFF"/></g>
+<text x="100" y="770" font-size="16.5" fill="#123641" font-weight="800">Settling over the following weeks</text>
+<text x="100" y="796" font-size="13.8" fill="#345963">The guideline states the reaction can persist for several</text>
+<text x="100" y="818" font-size="13.8" fill="#345963">weeks after treatment; the acute phase is defined as the</text>
+<text x="100" y="840" font-size="13.8" fill="#345963">first 90 days.</text>
+<text x="100" y="862" font-size="13.8" fill="#345963">Erythema after the one-week schedule settles about 2 weeks</text>
+<text x="100" y="884" font-size="13.8" fill="#345963">earlier than after the three-week schedule (acute sub-study</text>
+<text x="100" y="906" font-size="13.8" fill="#345963">of a randomised trial).</text>
+<line x1="56" y1="326" x2="56" y2="778" stroke="#DBD3BF" stroke-width="3" stroke-linecap="round"/>
+<line x1="48" y1="326" x2="64" y2="326" stroke="#8F7418" stroke-width="2.5"/>
+<circle cx="56" cy="378" r="8" fill="#123641"/>
+<line x1="48" y1="488" x2="64" y2="488" stroke="#8F7418" stroke-width="2.5"/>
+<circle cx="56" cy="540" r="8" fill="#123641"/>
+<circle cx="56" cy="758" r="8" fill="#123641"/>
+<g filter="url(#sh)"><rect x="44" y="962" width="532" height="486" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="994" font-size="16.5" fill="#123641" font-weight="800">Where it breaks down first: the creases</text>
+<rect x="100.8" y="1031.36" width="212.8" height="149.52" rx="19.6" fill="#F4EFE3" stroke="#9A9282" stroke-width="2"/>
+<ellipse cx="201.6" cy="1113.24" rx="56" ry="53.4" fill="#E9E2CF" stroke="#9A9282" stroke-width="2"/>
+<circle cx="201.6" cy="1113.24" r="11.76" fill="none" stroke="#9A9282" stroke-width="1.5"/>
+<path d="M 120.4,1077.64 Q 131.6,1052.72 168,1045.6" fill="none" stroke="#C9A83E" stroke-width="10" stroke-linecap="round" opacity="0.92"/>
+<text x="127.4" y="1026.02" font-size="12" fill="#8F7418" font-weight="800" text-anchor="middle">Axilla</text>
+<path d="M 148.4,1138.16 Q 201.6,1175.54 254.8,1138.16" fill="none" stroke="#C9A83E" stroke-width="10" stroke-linecap="round" opacity="0.92"/>
+<text x="201.6" y="1191.56" font-size="12" fill="#8F7418" font-weight="800" text-anchor="middle">Inframammary fold</text>
+<text x="66" y="1230" font-size="13.8" fill="#345963">The grading definition names one place only: grade 2 moist</text>
+<text x="66" y="1252" font-size="13.8" fill="#345963">desquamation is 'mostly confined to skin folds and creases' —</text>
+<text x="66" y="1274" font-size="13.8" fill="#345963">in breast radiotherapy, that means the axilla and the</text>
+<text x="66" y="1296" font-size="13.8" fill="#345963">inframammary fold.</text>
+<text x="66" y="1318" font-size="13.8" fill="#345963">Who gets it worse: larger breast size raises the risk of moist</text>
+<text x="66" y="1340" font-size="13.8" fill="#345963">desquamation (an independent factor in a randomised trial);</text>
+<text x="66" y="1362" font-size="13.8" fill="#345963">after mastectomy, adding bolus to the chest wall gave a pooled</text>
+<text x="66" y="1384" font-size="13.8" fill="#345963">grade 3 dermatitis rate of 9.6% across 27 studies, against 1.2%</text>
+<text x="66" y="1406" font-size="13.8" fill="#345963">without.</text>
+<text x="66" y="1428" font-size="13.8" fill="#345963">No source specific to any other site was found, so this figure</text>
+<text x="66" y="1450" font-size="13.8" fill="#345963">marks the creases only.</text>
+<rect x="44" y="1472" width="532" height="374" rx="16" fill="none" stroke="#C9A83E" stroke-width="2"/>
+<rect x="62" y="1490" width="496" height="68" rx="14" fill="#8F7418"/>
+<text x="310" y="1516" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">These two are not a self-care problem — they are</text>
+<text x="310" y="1540" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">a come-back-in problem</text>
+<text x="66" y="1592" font-size="13.8" fill="#345963">Moist desquamation (broken skin, blistering, weeping) is</text>
+<text x="66" y="1616" font-size="13.8" fill="#345963">flagged URGENT in the nursing guideline: medical attention</text>
+<text x="66" y="1640" font-size="13.8" fill="#345963">within 24 hours. Come back and let us look at it; do not buy</text>
+<text x="66" y="1664" font-size="13.8" fill="#345963">dressings and manage an open wound yourself.</text>
+<text x="66" y="1688" font-size="13.8" fill="#345963">Signs of infection mean coming back in, not self-care: fever,</text>
+<text x="66" y="1712" font-size="13.8" fill="#345963">foul odour, purulent discharge, and pain and swelling extending</text>
+<text x="66" y="1736" font-size="13.8" fill="#345963">outside the treatment area. Rapidly worsening pain and a wound</text>
+<text x="66" y="1760" font-size="13.8" fill="#345963">opening up belong here too.</text>
+<text x="66" y="1784" font-size="13.8" fill="#345963">Say so at the next session if anything is getting worse — you</text>
+<text x="66" y="1808" font-size="13.8" fill="#345963">see the treatment team every day during the course, and that is</text>
+<text x="66" y="1832" font-size="13.8" fill="#345963">the safety net built into it.</text>
+<text x="44" y="1872" font-size="13" fill="#6B8084" font-weight="600">The scale of it: taking radiotherapy at all sites together, about 90 to</text>
+<text x="44" y="1894" font-size="13" fill="#6B8084" font-weight="600">95% of patients develop radiation dermatitis of some degree — the</text>
+<text x="44" y="1916" font-size="13" fill="#6B8084" font-weight="600">variable is severity, not whether it happens.</text>
+<text x="44" y="1958" font-size="12" fill="#6B8084">Schematic, redrawn from the BC Cancer symptom management guideline on radiation</text>
+<text x="44" y="1978" font-size="12" fill="#6B8084">dermatitis, Drost 2018, Brunt 2016 (FAST-Forward acute sub-study), Pignol 2008</text>
+<text x="44" y="1998" font-size="12" fill="#6B8084">and Zasadziński 2022</text>
+<text x="44" y="2018" font-size="12" fill="#6B8084">Peak figures come from a mainly conventionally fractionated cohort; the</text>
+<text x="44" y="2038" font-size="12" fill="#6B8084">grade-to-action pairing follows the guideline's own wording</text>
+  </g>
+</svg>

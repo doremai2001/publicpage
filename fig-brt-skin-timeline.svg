@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1126" viewBox="0 0 1440 1126" role="img" aria-labelledby="t d">
+  <title id="t">皮膚反應：三個錨，和先破皮的那道皺摺</title>
+  <desc id="d">示意圖：放射性皮膚反應的時間軸與好發位置。時間軸只有三個有來源的錨，圖上不加密度。第一個錨，出現：護理指引的定義句寫，反應通常在開始治療後 1 到 4 週出現。第二個錨，到頂：一份 148 人的前瞻觀察（族群以 50 Gy 分 25 次的傳統分次為主）顯示，第 2 級反應在治療結束後 2 週達到高峰 61.9%、第 3 級同時到頂 8.3%，而且不分技術與劑量，高峰都落在結束後 1 到 2 週——所以照完不等於結束。第三個錨，消退：指引寫反應可在結束後持續數週，醫學上的急性期以 90 天為界；隨機試驗的急性反應子研究顯示一週方案的紅斑比三週方案早約 2 週消退。好發位置只標一處：分級定義的原文只寫到第 2 級的濕性脫屑多半侷限於皮膚皺摺處，落到乳房放療就是腋下和乳房下緣那道皺摺；其他位置查無專屬來源，本圖不標。誰會重一點也有出處：乳房較大者濕性脫屑風險較高（隨機試驗中的獨立因子），乳房切除後胸壁加了組織等效物的人，27 篇系統性回顧算出第 3 級皮膚炎合併率 9.6%、沒加的 1.2%。圖上另有一條紅線標記，寫明兩類情況不是照顧問題而是回診問題：濕性脫屑（破皮、水疱、滲液）被護理指引標為 URGENT，要在 24 小時內接受醫療評估，回來給我們看，不要自己買敷料處理開放性傷口；感染徵象要回診，包括發燒、傷口臭味、化膿性分泌物、疼痛與腫脹擴散到治療範圍以外，快速惡化的痛與傷口裂開同列。腳註給量級：把所有部位的放射治療合併來看，約 90 到 95% 的人會出現某種程度的放射性皮膚炎，差別在深淺。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1126" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">SKIN — THREE ANCHORS, ONE PLACE</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">皮膚反應：三個錨，和先破皮的那道皺摺</text>
+<text x="84" y="194" font-size="21" fill="#527078">時間軸只有三個錨有來源：出現、到頂、消退。更細的「第幾週會怎樣」文獻裡沒有，本圖不畫。</text>
+<text x="84" y="224" font-size="21" fill="#527078">照完不等於結束——高峰通常落在療程結束後那一兩週。</text>
+<line x1="110" y1="326" x2="1300" y2="326" stroke="#DBD3BF" stroke-width="3" stroke-linecap="round"/>
+<line x1="1300" y1="326" x2="1332" y2="326" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1332" y1="326" x2="1322.3" y2="331.2" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1332" y1="326" x2="1322.3" y2="320.8" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="150" y1="311" x2="150" y2="341" stroke="#8F7418" stroke-width="2.5"/>
+<text x="150" y="364" font-size="14.5" fill="#8F7418" font-weight="800" text-anchor="middle">開始治療</text>
+<line x1="566" y1="311" x2="566" y2="341" stroke="#8F7418" stroke-width="2.5"/>
+<text x="566" y="364" font-size="14.5" fill="#8F7418" font-weight="800" text-anchor="middle">療程結束</text>
+<circle cx="284" cy="326" r="10" fill="#123641"/>
+<text x="284" y="300" font-size="17" fill="#123641" font-weight="800" text-anchor="middle">1 到 4 週：出現</text>
+<circle cx="720" cy="326" r="10" fill="#123641"/>
+<text x="720" y="300" font-size="17" fill="#123641" font-weight="800" text-anchor="middle">結束後約 2 週：到頂</text>
+<circle cx="1156" cy="326" r="10" fill="#123641"/>
+<text x="1156" y="300" font-size="17" fill="#123641" font-weight="800" text-anchor="middle">之後數週內退</text>
+<g filter="url(#sh)"><rect x="84" y="384" width="400" height="148" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="420" font-size="14.2" fill="#345963">護理指引的定義句：反應通常在開始治療後 1 到</text>
+<text x="110" y="444" font-size="14.2" fill="#345963">4 週出現。</text>
+<g filter="url(#sh)"><rect x="520" y="384" width="400" height="148" rx="18" fill="#FFFFFF"/></g>
+<text x="546" y="420" font-size="14.2" fill="#345963">148 人前瞻觀察（以 50 Gy 分 25 次的傳統分次族群</text>
+<text x="546" y="444" font-size="14.2" fill="#345963">為主）：第 2 級反應在結束後 2 週達到高峰 61.9%，</text>
+<text x="546" y="468" font-size="14.2" fill="#345963">第 3 級同時到頂 8.3%。</text>
+<text x="546" y="492" font-size="14.2" fill="#345963">不分技術與劑量，高峰都落在結束後 1 到 2 週。</text>
+<g filter="url(#sh)"><rect x="956" y="384" width="400" height="148" rx="18" fill="#FFFFFF"/></g>
+<text x="982" y="420" font-size="14.2" fill="#345963">指引寫反應可在結束後持續數週；醫學上的急性期以</text>
+<text x="982" y="444" font-size="14.2" fill="#345963">90 天為界。</text>
+<text x="982" y="468" font-size="14.2" fill="#345963">一週方案的紅斑比三週方案早約 2 週消退（隨機試驗</text>
+<text x="982" y="492" font-size="14.2" fill="#345963">的急性反應子研究）。</text>
+<g filter="url(#sh)"><rect x="84" y="566" width="612" height="402" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="602" font-size="18" fill="#123641" font-weight="800">好發位置：皺摺處</text>
+<rect x="162" y="641.04" width="228" height="161.28" rx="21" fill="#F4EFE3" stroke="#9A9282" stroke-width="2"/>
+<ellipse cx="270" cy="729.36" rx="60" ry="57.6" fill="#E9E2CF" stroke="#9A9282" stroke-width="2"/>
+<circle cx="270" cy="729.36" r="12.6" fill="none" stroke="#9A9282" stroke-width="1.5"/>
+<path d="M 183,690.96 Q 195,664.08 234,656.4" fill="none" stroke="#C9A83E" stroke-width="10" stroke-linecap="round" opacity="0.92"/>
+<text x="190.5" y="635.28" font-size="13.5" fill="#8F7418" font-weight="800" text-anchor="middle">腋下</text>
+<path d="M 213,756.24 Q 270,796.56 327,756.24" fill="none" stroke="#C9A83E" stroke-width="10" stroke-linecap="round" opacity="0.92"/>
+<text x="270" y="813.84" font-size="13.5" fill="#8F7418" font-weight="800" text-anchor="middle">乳房下緣皺摺</text>
+<text x="110" y="854" font-size="14.2" fill="#345963">分級定義的原文只寫到一個位置：第 2 級的濕性脫屑「多半侷限於皮膚皺摺處」——落到</text>
+<text x="110" y="878" font-size="14.2" fill="#345963">乳房放療，就是腋下和乳房下緣那道皺摺。</text>
+<text x="110" y="902" font-size="14.2" fill="#345963">誰會重一點：乳房較大者濕性脫屑風險較高（隨機試驗的獨立因子）；乳房切除後胸壁加</text>
+<text x="110" y="926" font-size="14.2" fill="#345963">了組織等效物的人，27 篇回顧算出第 3 級皮膚炎合併率 9.6%，沒加的 1.2%。</text>
+<text x="110" y="950" font-size="14.2" fill="#345963">其他位置查無專屬來源，所以本圖只標皺摺處。</text>
+<rect x="744" y="566" width="612" height="402" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<rect x="766" y="660" width="568" height="40" rx="14" fill="#8F7418"/>
+<text x="1050" y="686" font-size="16.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">這兩類不是照顧問題，是回診問題</text>
+<text x="770" y="730" font-size="15" fill="#345963">濕性脫屑（破皮、水疱、滲液）＝護理指引標為 URGENT：24 小時內要接受醫療評</text>
+<text x="770" y="758" font-size="15" fill="#345963">估。回來給我們看，不要自己買敷料處理開放性傷口。</text>
+<text x="770" y="786" font-size="15" fill="#345963">感染徵象＝回診：發燒、傷口臭味、化膿性分泌物、疼痛與腫脹擴散到治療範圍以外。</text>
+<text x="770" y="814" font-size="15" fill="#345963">快速惡化的痛、傷口裂開同列。</text>
+<text x="770" y="842" font-size="15" fill="#345963">任何惡化都要在下次治療時主動講——療程期間你每天都會見到治療團隊，那是這件</text>
+<text x="770" y="870" font-size="15" fill="#345963">事內建的安全網。</text>
+<text x="84" y="1002" font-size="14.5" fill="#6B8084" font-weight="600">量級：把所有部位的放射治療合併來看，約 90 到 95% 的人會出現某種程度的放射性皮膚炎——差別在深淺，不在有沒有。</text>
+<text x="84" y="1054" font-size="16" fill="#6B8084">示意圖，依 BC Cancer 放射性皮膚炎症狀處理護理指引、Drost 2018、Brunt 2016（FAST-Forward 急性反應子研究）、Pignol 2008 與 Zasadziński 2022 重繪</text>
+<text x="84" y="1078" font-size="16" fill="#6B8084">峰值數字出自以傳統分次為主的族群；分級與行動的對照採護理指引原文，不自創措辭</text>
+  </g>
+</svg>

@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="2575" viewBox="0 0 620 2575" role="img" aria-labelledby="t d">
+  <title id="t">Who needs post-operative radiotherapy: a clinic map of surgery by nodes</title>
+  <desc id="d">Schematic clinic map of who needs post-operative radiotherapy, built on two variables: the type of surgery (breast-conserving surgery or mastectomy) and the axillary nodes (negative, positive, and how many). The cells carry three labels that are not interchangeable: recommended, a decision to discuss, and not a routine indication. Breast-conserving surgery with negative nodes is labelled recommended — whole breast irradiation is part of the package, not an add-on: the EBCTCG meta-analysis (17 trials, 7,287 pN0 women) found any first recurrence at 10 years falling from 31.0% to 15.6% and breast cancer death at 15 years from 20.5% to 17.2%; the landmark NSABP B-06 trial at 20 years found cumulative ipsilateral breast recurrence of 39.2% after lumpectomy alone against 14.3% with irradiation; older patients with small, hormone-receptor-positive tumours have omission to discuss, with the conditions and trade-offs set out in a separate article. Breast-conserving surgery with positive nodes is also labelled recommended: the same meta-analysis (1,050 pN+ women, a small group with wide confidence intervals) found recurrence at 10 years falling from 63.7% to 42.5% and breast cancer death at 15 years from 51.3% to 42.8%; whether the regional nodes are treated as well is a separate decision. Mastectomy with negative nodes, meaning no positive nodes after axillary clearance, is labelled not a routine indication: among 700 women in the EBCTCG meta-analysis, irradiation lowered neither recurrence nor breast cancer death, with rate ratios of 1.06 and 1.18, neither significant. Mastectomy with positive nodes splits into two cells. One to three positive nodes is labelled a decision to discuss: the older meta-analysis of 1,314 women found chest wall plus regional nodal irradiation bringing the breast cancer mortality rate ratio to 0.80 (95% confidence interval 0.67 to 0.95), but SUPREMO, reported in 2025, repeated the question on modern systemic therapy in 1,607 women with median follow-up of 9.6 years and found 10-year overall survival of 81.4% against 81.9% (hazard ratio 1.04, p value 0.80, no difference) with chest wall recurrence of 1.1% against 2.5% (hazard ratio 0.45, a difference); the interventions differ too, the older trials treating chest wall plus regional nodes and SUPREMO the chest wall only — so this cell is neither an automatic yes nor an automatic no, but a decision taken with node count, tumour size, grade and lymphovascular invasion all on the table. Only four or more positive nodes is labelled recommended: the older meta-analysis of 1,772 women found an overall recurrence rate ratio of 0.79 and a breast cancer mortality rate ratio of 0.87, and no randomised trial repeating the question on modern drugs has challenged this cell. The figure closes with two reminders: both EBCTCG meta-analyses recruited in the 1960s to 1980s, so absolute figures for patients treated today are generally lower than the table and the proportional effect is the more reliable part, a label that cannot be dropped; and this is a clinic map rather than a verdict, with the final placing settled by the treating team on the full pathology, imaging and systemic therapy plan, since radiotherapy changes the odds and is not an insurance policy.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.55"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="2575" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">WHO NEEDS POST-OPERATIVE RADIOTHERAPY</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">Who needs post-operative</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">radiotherapy: a clinic map of</text>
+<text x="44" y="192" font-size="30" fill="#123641" font-weight="800" class="r">surgery by nodes</text>
+<text x="44" y="234" font-size="14.5" fill="#527078">Two variables decide the cell: breast-conserving surgery or</text>
+<text x="44" y="256" font-size="14.5" fill="#527078">mastectomy, and whether the axillary nodes are involved and in</text>
+<text x="44" y="278" font-size="14.5" fill="#527078">what number.</text>
+<text x="44" y="300" font-size="14.5" fill="#527078">The cells carry three different labels — recommended, a decision</text>
+<text x="44" y="322" font-size="14.5" fill="#527078">to be discussed, and not a routine indication. They are not</text>
+<text x="44" y="344" font-size="14.5" fill="#527078">interchangeable.</text>
+<text x="44" y="378" font-size="14" fill="#8F7418" font-weight="800">Breast-conserving surgery (PM) ／ Node negative</text>
+<g filter="url(#sh)"><rect x="44" y="404" width="532" height="349" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="426" width="150" height="30" rx="13.22" fill="#00806B"/>
+<text x="141" y="446.7" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">Recommended</text>
+<text x="66" y="484" font-size="16.5" fill="#123641" font-weight="800">Whole breast irradiation is part of the package, not</text>
+<text x="66" y="508.5" font-size="16.5" fill="#123641" font-weight="800">an add-on</text>
+<text x="66" y="543" font-size="13.8" fill="#345963">EBCTCG meta-analysis (17 trials, 7,287 pN0 women): any first</text>
+<text x="66" y="565" font-size="13.8" fill="#345963">recurrence at 10 years fell from 31.0% to 15.6%, and breast</text>
+<text x="66" y="587" font-size="13.8" fill="#345963">cancer death at 15 years from 20.5% to 17.2%.</text>
+<text x="66" y="609" font-size="13.8" fill="#345963">The landmark NSABP B-06 trial at 20 years: cumulative</text>
+<text x="66" y="631" font-size="13.8" fill="#345963">ipsilateral breast recurrence 39.2% after lumpectomy alone, and</text>
+<text x="66" y="653" font-size="13.8" fill="#345963">14.3% with irradiation.</text>
+<text x="66" y="675" font-size="13.8" fill="#345963">Older patients with small, hormone-receptor-positive tumours</text>
+<text x="66" y="697" font-size="13.8" fill="#345963">have omission to discuss; the conditions and the trade-offs</text>
+<text x="66" y="719" font-size="13.8" fill="#345963">have an article of their own.</text>
+<text x="44" y="777" font-size="14" fill="#8F7418" font-weight="800">Mastectomy (including modified radical, MRM) ／ Node negative</text>
+<g filter="url(#sh)"><rect x="44" y="803" width="532" height="236.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="825" width="269" height="30" rx="13.22" fill="none" stroke="#6B8084" stroke-width="2"/>
+<text x="200.5" y="845.7" font-size="15" fill="#6B8084" font-weight="800" text-anchor="middle">Not a routine indication</text>
+<text x="66" y="883" font-size="16.5" fill="#123641" font-weight="800">No positive nodes after axillary clearance</text>
+<text x="66" y="917.5" font-size="13.8" fill="#345963">EBCTCG meta-analysis (700 women): irradiation lowered neither</text>
+<text x="66" y="939.5" font-size="13.8" fill="#345963">recurrence nor breast cancer death — rate ratios 1.06 and 1.18,</text>
+<text x="66" y="961.5" font-size="13.8" fill="#345963">neither significant.</text>
+<text x="66" y="983.5" font-size="13.8" fill="#345963">So node-negative disease after mastectomy is not a routine</text>
+<text x="66" y="1005.5" font-size="13.8" fill="#345963">indication.</text>
+<text x="44" y="1063.5" font-size="14" fill="#8F7418" font-weight="800">Breast-conserving surgery (PM) ／ Node positive</text>
+<g filter="url(#sh)"><rect x="44" y="1089.5" width="532" height="346.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="1111.5" width="150" height="30" rx="13.22" fill="#00806B"/>
+<text x="141" y="1132.2" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">Recommended</text>
+<text x="66" y="1169.5" font-size="16.5" fill="#123641" font-weight="800">Node-positive breast-conserving surgery</text>
+<text x="66" y="1204" font-size="13.8" fill="#345963">The same meta-analysis (1,050 pN+ women, a small group with</text>
+<text x="66" y="1226" font-size="13.8" fill="#345963">wide confidence intervals): recurrence at 10 years fell from</text>
+<text x="66" y="1248" font-size="13.8" fill="#345963">63.7% to 42.5%, and breast cancer death at 15 years from 51.3%</text>
+<text x="66" y="1270" font-size="13.8" fill="#345963">to 42.8%.</text>
+<text x="66" y="1292" font-size="13.8" fill="#345963">Whether the regional nodes are treated as well is a separate</text>
+<text x="66" y="1314" font-size="13.8" fill="#345963">decision.</text>
+<text x="66" y="1336" font-size="13.8" fill="#345963">The proportional reduction is much the same across groups, but</text>
+<text x="66" y="1358" font-size="13.8" fill="#345963">the higher your own baseline risk, the larger the absolute</text>
+<text x="66" y="1380" font-size="13.8" fill="#345963">number irradiation takes off — so the same table reads</text>
+<text x="66" y="1402" font-size="13.8" fill="#345963">differently for each person.</text>
+<text x="44" y="1460" font-size="14" fill="#8F7418" font-weight="800">Mastectomy (including modified radical, MRM) ／ Node positive</text>
+<g filter="url(#sh)"><rect x="44" y="1486" width="532" height="412.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="1508" width="241" height="30" rx="13.22" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="186.5" y="1528.7" font-size="15" fill="#9A9282" font-weight="800" text-anchor="middle">A decision to discuss</text>
+<text x="66" y="1566" font-size="16.5" fill="#123641" font-weight="800">1 to 3 positive nodes</text>
+<text x="66" y="1600.5" font-size="13.8" fill="#345963">The older meta-analysis (1,314 women): chest wall plus regional</text>
+<text x="66" y="1622.5" font-size="13.8" fill="#345963">nodal irradiation brought the breast cancer mortality rate</text>
+<text x="66" y="1644.5" font-size="13.8" fill="#345963">ratio to 0.80 (95% confidence interval 0.67 to 0.95).</text>
+<text x="66" y="1666.5" font-size="13.8" fill="#345963">SUPREMO, reported in 2025, repeated the question on modern</text>
+<text x="66" y="1688.5" font-size="13.8" fill="#345963">systemic therapy (1,607 women, median follow-up 9.6 years):</text>
+<text x="66" y="1710.5" font-size="13.8" fill="#345963">10-year overall survival 81.4% against 81.9% (hazard ratio</text>
+<text x="66" y="1732.5" font-size="13.8" fill="#345963">1.04, p=0.80, no difference); chest wall recurrence 1.1%</text>
+<text x="66" y="1754.5" font-size="13.8" fill="#345963">against 2.5% (hazard ratio 0.45, a difference).</text>
+<text x="66" y="1776.5" font-size="13.8" fill="#345963">The interventions differ too: the older trials treated chest</text>
+<text x="66" y="1798.5" font-size="13.8" fill="#345963">wall plus regional nodes, SUPREMO the chest wall only. So this</text>
+<text x="66" y="1820.5" font-size="13.8" fill="#345963">cell is neither an automatic yes nor an automatic no — it is a</text>
+<text x="66" y="1842.5" font-size="13.8" fill="#345963">decision taken with node count, tumour size, grade and</text>
+<text x="66" y="1864.5" font-size="13.8" fill="#345963">lymphovascular invasion all on the table.</text>
+<text x="44" y="1922.5" font-size="14" fill="#8F7418" font-weight="800">Mastectomy (including modified radical, MRM) ／ Node positive</text>
+<g filter="url(#sh)"><rect x="44" y="1948.5" width="532" height="214.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="1970.5" width="150" height="30" rx="13.22" fill="#00806B"/>
+<text x="141" y="1991.2" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">Recommended</text>
+<text x="66" y="2028.5" font-size="16.5" fill="#123641" font-weight="800">4 or more positive nodes</text>
+<text x="66" y="2063" font-size="13.8" fill="#345963">The older meta-analysis (1,772 women): overall recurrence rate</text>
+<text x="66" y="2085" font-size="13.8" fill="#345963">ratio 0.79 and breast cancer mortality rate ratio 0.87.</text>
+<text x="66" y="2107" font-size="13.8" fill="#345963">And no randomised trial repeating the question on modern drugs</text>
+<text x="66" y="2129" font-size="13.8" fill="#345963">has challenged this cell.</text>
+<rect x="44" y="2193" width="532" height="246" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="2225" font-size="15.5" fill="#8F7418" font-weight="800">How to read these figures</text>
+<text x="66" y="2249" font-size="13.8" fill="#345963">Both EBCTCG meta-analyses recruited in the 1960s to 1980s:</text>
+<text x="66" y="2273" font-size="13.8" fill="#345963">absolute figures for patients treated today are generally lower</text>
+<text x="66" y="2297" font-size="13.8" fill="#345963">than the table, and the proportional effect is the more</text>
+<text x="66" y="2321" font-size="13.8" fill="#345963">reliable part — that label cannot be dropped.</text>
+<text x="66" y="2345" font-size="13.8" fill="#345963">This is a clinic map, not a verdict: where you land is settled</text>
+<text x="66" y="2369" font-size="13.8" fill="#345963">by your own team on the full pathology, imaging and systemic</text>
+<text x="66" y="2393" font-size="13.8" fill="#345963">therapy plan. Radiotherapy changes the odds; it is not an</text>
+<text x="66" y="2417" font-size="13.8" fill="#345963">insurance policy.</text>
+<text x="44" y="2475" font-size="12" fill="#6B8084">Schematic, redrawn from EBCTCG 2011, EBCTCG 2014, Kunkler 2025 (SUPREMO) and</text>
+<text x="44" y="2495" font-size="12" fill="#6B8084">Fisher 2002 (NSABP B-06)</text>
+<text x="44" y="2515" font-size="12" fill="#6B8084">Eras, cohorts and treated volumes differ between studies; figures are not</text>
+<text x="44" y="2535" font-size="12" fill="#6B8084">directly comparable across cells</text>
+  </g>
+</svg>
