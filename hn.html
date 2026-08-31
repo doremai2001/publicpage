@@ -423,27 +423,6 @@ footer{background:var(--navy-dark);border-top:1px solid rgba(176,144,32,.25);
   .article-figure figcaption{padding:0 8px;font-size:.75rem;text-align:left}
 }
 
-/* ---------- 致癌物專題：總覽表 ---------- */
-.ctwrap{margin:30px 0 8px;border:1px solid rgba(176,144,32,.3);border-radius:16px;
-  background:rgba(245,239,230,.03);overflow-x:auto}
-.ctwrap .hint{display:none;font-size:.72rem;opacity:.45;letter-spacing:.08em;padding:12px 16px 0}
-@media (max-width:820px){.ctwrap .hint{display:block}}
-table.ctable{border-collapse:collapse;width:100%;min-width:780px;font-size:.84rem}
-table.ctable caption{caption-side:top;text-align:left;padding:18px 18px 10px;
-  font-size:.72rem;letter-spacing:.22em;color:var(--gold);opacity:.85}
-table.ctable th,table.ctable td{padding:11px 14px;text-align:left;vertical-align:top;
-  border-bottom:1px solid rgba(245,239,230,.1);line-height:1.75}
-table.ctable thead th{font-weight:500;color:var(--gold-light);letter-spacing:.04em;
-  border-bottom:1px solid rgba(176,144,32,.4);white-space:nowrap;font-size:.8rem}
-table.ctable tbody tr:last-child td{border-bottom:none}
-table.ctable tbody tr:hover{background:rgba(176,144,32,.06)}
-table.ctable td:first-child{color:var(--ivory);font-weight:400;white-space:nowrap}
-table.ctable td{opacity:.85}
-table.ctable .g1{color:var(--gold-light);white-space:nowrap}
-table.ctable a{color:var(--gold-light);text-decoration:none;
-  border-bottom:1px solid rgba(216,188,94,.35);white-space:nowrap}
-table.ctable a:hover{border-color:var(--gold)}
-.ctnote{font-size:.78rem;opacity:.55;line-height:1.9;margin:10px 2px 0}
 </style>
 </head>
 <body>
@@ -467,6 +446,7 @@ table.ctable a:hover{border-color:var(--gold)}
       <li><a href="index.html">首頁</a></li>
       <li><a href="nt.html">次世代治療</a></li>
       <li><a href="topics.html" class="on">疾病專題</a></li>
+      <li><a href="situ.html">處境專題</a></li>
       <li><a href="faq.html">病人衛教</a></li>
       <li><a href="carc.html">致癌物</a></li>
       <li><a href="insights.html">醫學新知</a></li>
@@ -484,7 +464,7 @@ table.ctable a:hover{border-color:var(--gold)}
 
   <div class="tagbar" id="tagbar">
     <div class="tagbar-h">用標籤篩選：</div>
-    <div class="tagbar-c"><button class="tagf on" data-tag="">全部 <i>16</i></button><button class="tagf" data-tag="npc">#鼻咽癌 <i>1</i></button><button class="tagf" data-tag="proton">#質子治療 <i>1</i></button><button class="tagf" data-tag="chemo">#化學治療 <i>2</i></button><button class="tagf" data-tag="immuno">#免疫治療 <i>1</i></button><button class="tagf" data-tag="targeted">#標靶治療 <i>1</i></button><button class="tagf" data-tag="surgery">#手術 <i>1</i></button><button class="tagf" data-tag="hyperthermia">#腫瘤熱治療 <i>1</i></button><button class="tagf" data-tag="sideeffect">#副作用 <i>6</i></button><button class="tagf" data-tag="nhi">#健保給付 <i>5</i></button><button class="tagf" data-tag="biomarker">#生物標記 <i>1</i></button><button class="tagf" data-tag="recurrence">#復發 <i>2</i></button><button class="tagf" data-tag="exercise">#運動與體能 <i>2</i></button><button class="tagf" data-tag="decision">#治療決策 <i>5</i></button><button class="tagf" data-tag="prep">#就醫準備 <i>3</i></button><button class="tagf" data-tag="workflow">#療程流程 <i>3</i></button><button class="tagf" data-tag="daily">#療程中的生活 <i>4</i></button><button class="tagf" data-tag="work">#工作與交通 <i>1</i></button><button class="tagf" data-tag="nutrition">#飲食營養 <i>3</i></button><button class="tagf" data-tag="supplement">#保健補充品 <i>1</i></button><button class="tagf" data-tag="caregiver">#家屬與照顧者 <i>1</i></button><button class="tagf" data-tag="dental">#牙科與口腔 <i>4</i></button><button class="tagf" data-tag="orn">#下顎骨壞死 <i>2</i></button><button class="tagf" data-tag="mucositis">#口腔黏膜炎 <i>2</i></button><button class="tagf" data-tag="xerostomia">#口乾 <i>3</i></button><button class="tagf" data-tag="swallow">#吞嚥與進食 <i>2</i></button><button class="tagf" data-tag="trismus">#張口困難 <i>1</i></button><button class="tagf" data-tag="imaging">#影像檢查 <i>2</i></button><button class="tagf" data-tag="followup">#追蹤與復健 <i>3</i></button><button class="tagf" data-tag="lateeffect">#晚期副作用 <i>3</i></button><button class="tagf" data-tag="survivor">#康復期 <i>4</i></button><button class="tagf" data-tag="quitting">#戒菸戒檳榔 <i>4</i></button><button class="tagf" data-tag="mdt">#多專科團隊 <i>1</i></button></div>
+    <div class="tagbar-c"><button class="tagf on" data-tag="">全部 <i>16</i></button><button class="tagf" data-tag="npc">#鼻咽癌 <i>1</i></button><button class="tagf" data-tag="proton">#質子治療 <i>1</i></button><button class="tagf" data-tag="chemo">#化學治療 <i>2</i></button><button class="tagf" data-tag="immuno">#免疫治療 <i>1</i></button><button class="tagf" data-tag="targeted">#標靶治療 <i>1</i></button><button class="tagf" data-tag="surgery">#手術 <i>1</i></button><button class="tagf" data-tag="hyperthermia">#腫瘤熱治療 <i>1</i></button><button class="tagf" data-tag="sideeffect">#副作用 <i>6</i></button><button class="tagf" data-tag="nhi">#健保給付 <i>5</i></button><button class="tagf" data-tag="biomarker">#生物標記 <i>1</i></button><button class="tagf" data-tag="recurrence">#復發 <i>2</i></button><button class="tagf" data-tag="decision">#治療決策 <i>5</i></button><button class="tagf" data-tag="prep">#就醫準備 <i>3</i></button><button class="tagf" data-tag="workflow">#療程流程 <i>3</i></button><button class="tagf" data-tag="daily">#療程中的生活 <i>4</i></button><button class="tagf" data-tag="work">#工作與交通 <i>1</i></button><button class="tagf" data-tag="nutrition">#飲食營養 <i>3</i></button><button class="tagf" data-tag="supplement">#保健補充品 <i>1</i></button><button class="tagf" data-tag="caregiver">#家屬與照顧者 <i>1</i></button><button class="tagf" data-tag="dental">#牙科與口腔 <i>4</i></button><button class="tagf" data-tag="orn">#下顎骨壞死 <i>2</i></button><button class="tagf" data-tag="mucositis">#口腔黏膜炎 <i>2</i></button><button class="tagf" data-tag="xerostomia">#口乾 <i>3</i></button><button class="tagf" data-tag="swallow">#吞嚥與進食 <i>2</i></button><button class="tagf" data-tag="trismus">#張口困難 <i>1</i></button><button class="tagf" data-tag="imaging">#影像檢查 <i>2</i></button><button class="tagf" data-tag="followup">#追蹤與復健 <i>3</i></button><button class="tagf" data-tag="lateeffect">#晚期副作用 <i>3</i></button><button class="tagf" data-tag="survivor">#康復期 <i>4</i></button><button class="tagf" data-tag="exercise">#運動與體能 <i>2</i></button><button class="tagf" data-tag="quitting">#戒菸戒檳榔 <i>4</i></button><button class="tagf" data-tag="mdt">#多專科團隊 <i>1</i></button></div>
   </div>
   <p class="note tagempty" id="tagempty" hidden>這個標籤下目前沒有文章。</p>
 
@@ -642,6 +622,7 @@ table.ctable a:hover{border-color:var(--gold)}
         <a href="index.html">首頁</a>
         <a href="nt.html">次世代治療</a>
         <a href="topics.html">疾病專題</a>
+        <a href="situ.html">處境專題</a>
         <a href="faq.html">病人衛教</a>
         <a href="carc.html">致癌物</a>
         <a href="insights.html">醫學新知</a>
