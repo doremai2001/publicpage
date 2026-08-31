@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1012" viewBox="0 0 1440 1012" role="img" aria-labelledby="t d">
+  <title id="t">The surveillance loop</title>
+  <desc id="d">Schematic of the post-treatment surveillance loop. Step one: every 3 to 6 months, abdominal plus chest cross-sectional imaging (CT or MRI) plus AFP plus liver function, continued indefinitely, densest in the first two years (recurrence risk is highest in the first year after resection and approaches 50 to 70% at 5 years). Step two: read them together — 46% of HCC patients have a normal AFP, so a normal AFP is not the all-clear; in cirrhosis surveillance cohorts ultrasound alone detects early tumours with 47% sensitivity, rising to 63% with AFP (an extrapolation from surveillance data). Step three: if recurrence is caught, back to treatment — repeat resection, ablation or radiotherapy remain on the table, and patients within criteria should be assessed for salvage transplantation at once (5-year survival 69% in a 110-patient strategy analysis). Step four: after treatment, the same loop restarts; with no recurrence, on to the next scheduled round. Honest footnote: the interval is Level 3 evidence and the duration Level 5 expert opinion, and more frequent surveillance has no proven survival benefit — what surveillance buys is the window in which recurrence still has curative options.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1012" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">AFTER TREATMENT — THE LOOP</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">The surveillance loop</text>
+<text x="84" y="194" font-size="21" fill="#527078">Finishing treatment is not graduation: imaging, AFP and liver function every 3–6 months; recurrence goes</text>
+<text x="84" y="224" font-size="21" fill="#527078">back to treatment, then back into the same loop. The schedule is consensus — its evidence grade is below.</text>
+<g filter="url(#sh)"><rect x="84" y="268" width="600" height="168" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="304" font-size="18" fill="#123641" font-weight="800">① Every 3–6 months</text>
+<text x="110" y="334" font-size="14.2" fill="#345963">Abdominal + chest cross-sectional imaging (CT/MRI) + AFP + liver</text>
+<text x="110" y="358" font-size="14.2" fill="#345963">function (AASLD 2023). Continued indefinitely; densest in the first</text>
+<text x="110" y="382" font-size="14.2" fill="#345963">two years — recurrence peaks in year one, nearing 50–70% by year 5.</text>
+<g filter="url(#sh)"><rect x="756" y="268" width="600" height="168" rx="18" fill="#FFFFFF"/></g>
+<text x="782" y="304" font-size="18" fill="#123641" font-weight="800">② Read them together</text>
+<text x="782" y="334" font-size="14.2" fill="#345963">46% of HCC patients have a normal AFP (Farinati 2006) — a normal</text>
+<text x="782" y="358" font-size="14.2" fill="#345963">AFP is not the all-clear. In cirrhosis surveillance, ultrasound alone</text>
+<text x="782" y="382" font-size="14.2" fill="#345963">finds 47% of early tumours; with AFP, 63% (Tzartzeva 2018; an</text>
+<text x="782" y="406" font-size="14.2" fill="#345963">extrapolation for treated patients). Each covers the other's blind spots.</text>
+<g filter="url(#sh)"><rect x="756" y="462" width="600" height="174" rx="18" fill="#FFFFFF"/></g>
+<text x="782" y="498" font-size="18" fill="#123641" font-weight="800">③ Recurrence caught → back to treatment</text>
+<text x="782" y="528" font-size="14.2" fill="#345963">Repeat resection, ablation or radiotherapy stay on the table; within</text>
+<text x="782" y="552" font-size="14.2" fill="#345963">criteria, assess salvage transplantation at once (5-year overall</text>
+<text x="782" y="576" font-size="14.2" fill="#345963">survival 69% in a 110-patient strategy analysis, cited by AASLD).</text>
+<text x="782" y="600" font-size="14.2" fill="#345963">Recurrence is this disease's habit, not anyone's failure.</text>
+<g filter="url(#sh)"><rect x="84" y="462" width="600" height="174" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="498" font-size="18" fill="#123641" font-weight="800">④ After treatment, the same loop restarts</text>
+<text x="110" y="528" font-size="14.2" fill="#345963">Bring three things to every visit: the last imaging report, the AFP</text>
+<text x="110" y="552" font-size="14.2" fill="#345963">trend, and your own note of new symptoms. The loop's worst enemy</text>
+<text x="110" y="576" font-size="14.2" fill="#345963">is 'felt fine, skipped it' — most recurrences cause no symptoms.</text>
+<line x1="692" y1="352" x2="748" y2="352" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="748" y1="352" x2="738.0" y2="356.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="748" y1="352" x2="738.0" y2="347.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1056" y1="442" x2="1056" y2="456" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1056" y1="456" x2="1051.4" y2="446.0" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1056" y1="456" x2="1060.6" y2="446.0" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="748" y1="549" x2="692" y2="549" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="692" y1="549" x2="702.0" y2="544.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="692" y1="549" x2="702.0" y2="553.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="456" x2="384" y2="442" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="442" x2="388.6" y2="452.0" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="442" x2="379.4" y2="452.0" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 756,470 C 726,458 716,454 692,442" fill="none" stroke="#6B8084" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="560" y="453" font-size="13.5" fill="#6B8084" font-weight="700" text-anchor="middle">No recurrence → next round</text>
+<rect x="84" y="672" width="1272" height="116" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="108" y="704" font-size="17" fill="#8F7418" font-weight="800">The guideline grades its own schedule</text>
+<text x="108" y="732" font-size="15" fill="#345963">The interval (3–6 months) is Level 3; 'how long' is Level 5 — expert opinion; more frequent surveillance has no proven survival benefit.</text>
+<text x="108" y="760" font-size="15" fill="#345963" font-weight="600">What surveillance buys is not a survival figure but the window in which recurrence still has curative options.</text>
+<text x="84" y="828" font-size="14.5" fill="#6B8084" font-weight="600">First response scan ~6 weeks after ablation, ~12 weeks after radiotherapy or Y-90; then back to every 3–6 months (AASLD 2023).</text>
+<text x="84" y="854" font-size="14.5" fill="#6B8084" font-weight="600">Why the first two years are densest: recurrence after resection 30.1% at 1 year, 62.3% at 3, 79.0% at 5 (Imamura 2003, Japan, n=249).</text>
+<text x="84" y="960" font-size="16" fill="#6B8084">Schematic, redrawn from AASLD 2023, Farinati 2006, Tzartzeva 2018 and Imamura 2003</text>
+<text x="84" y="984" font-size="16" fill="#6B8084">Intervals are adjusted to personal risk by your doctor; red-flag symptoms do not wait for the schedule</text>
+  </g>
+</svg>

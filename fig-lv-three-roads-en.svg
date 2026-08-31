@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1246" viewBox="0 0 1440 1246" role="img" aria-labelledby="t d">
+  <title id="t">Three roads: a map of who fits where</title>
+  <desc id="d">Schematic map of the three roads for a small HCC, plus transplantation. Resectable with good liver function — surgical resection remains the default (AASLD 2023, BCLC 2022); up to 2 cm in a needle-reachable position — resection and RFA offer the same survival benefit, and beyond 2 cm resection should be favoured in resectable patients (BCLC 2022); not fit for surgery, not fit for ablation, or firmly declining surgery — the SBRT slot (AASLD: usable for central and perivascular tumours; Taiwan NHI code 37047B, reimbursed since 2015: single lesion up to 5 cm, Child-Pugh A to B, unfit for or failed surgery, embolisation or ablation); a liver that cannot pay (Child-Pugh score 8 or above, uncontrolled ascites or encephalopathy) — avoid external-beam radiotherapy; within the Milan criteria (single tumour up to 5 cm, or up to 3 tumours each up to 3 cm) — transplant assessment must not be skipped, as the only option treating both the cancer and the cirrhosis. The final decision belongs to the multidisciplinary team.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1246" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">SIZE × LOCATION × LIVER FUNCTION</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">Three roads: a map of who fits where</text>
+<text x="84" y="194" font-size="21" fill="#527078">'All feasible' is not 'all the same' — each road has its home ground, plus a fourth: transplant.</text>
+<text x="84" y="224" font-size="21" fill="#527078">Where you land depends on imaging and liver function; the final call belongs to the multidisciplinary team.</text>
+<rect x="84" y="256" width="1272" height="54" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="720" y="290" font-size="19" fill="#8F7418" font-weight="800" text-anchor="middle">Resectable with good liver function — surgical resection remains the default (AASLD 2023 / BCLC 2022)</text>
+<g filter="url(#sh)"><rect x="84" y="330" width="1272" height="155" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="346" width="300" height="34" rx="15" fill="#5C77C4"/>
+<text x="258.0" y="368.58" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Resectable · good liver</text>
+<line x1="424" y1="363" x2="458" y2="363" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="458" y1="363" x2="448.0" y2="367.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="458" y1="363" x2="448.0" y2="358.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="476" y="369" font-size="19" fill="#123641" font-weight="800">Surgical resection = the default road</text>
+<text x="476" y="396" font-size="14.6" fill="#345963">AASLD 2023: the curative treatment of choice for localised HCC without cirrhosis;</text>
+<text x="476" y="421" font-size="14.6" fill="#345963">BCLC 2022: if transplant and surgery are both options, resection should be the first choice.</text>
+<text x="476" y="446" font-size="14.6" fill="#345963">'Equal after adjustment' is not 'skipping surgery is the same' — no SBRT-vs-resection trial exists.</text>
+<g filter="url(#sh)"><rect x="84" y="495" width="1272" height="130" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="511" width="300" height="34" rx="15" fill="#96790F"/>
+<text x="258.0" y="533.58" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Up to 2 cm · needle-reachable</text>
+<line x1="424" y1="528" x2="458" y2="528" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="458" y1="528" x2="448.0" y2="532.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="458" y1="528" x2="448.0" y2="523.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="476" y="534" font-size="19" fill="#123641" font-weight="800">Resection or RFA: the same survival benefit (BCLC 2022)</text>
+<text x="476" y="561" font-size="14.6" fill="#345963">Beyond 2 cm, complete responses fall and local recurrence rises after ablation —</text>
+<text x="476" y="586" font-size="14.6" fill="#345963">resection should be favoured in resectable patients (BCLC 2022).</text>
+<g filter="url(#sh)"><rect x="84" y="635" width="1272" height="180" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="651" width="300" height="34" rx="15" fill="#00806B"/>
+<text x="258.0" y="673.58" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Unfit to operate or ablate</text>
+<line x1="424" y1="668" x2="458" y2="668" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="458" y1="668" x2="448.0" y2="672.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="458" y1="668" x2="448.0" y2="663.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="476" y="674" font-size="19" fill="#123641" font-weight="800">The SBRT slot — real, and large</text>
+<text x="476" y="701" font-size="14.6" fill="#345963">For those unfit for surgery, unfit for ablation — or firmly declining surgery after hearing all sides.</text>
+<text x="476" y="726" font-size="14.6" fill="#345963">AASLD 2023: another route to durable local control when thermal ablation is not feasible;</text>
+<text x="476" y="751" font-size="14.6" fill="#345963">usable for central and perivascular tumours. Taiwan NHI 37047B (reimbursed since 2015):</text>
+<text x="476" y="776" font-size="14.6" fill="#345963">single lesion ≤5 cm, Child-Pugh A–B, unfit for — or failed — surgery, embolisation or ablation.</text>
+<g filter="url(#sh)"><rect x="84" y="825" width="1272" height="130" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="841" width="300" height="34" rx="15" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="258.0" y="863.58" font-size="15.5" fill="#9A9282" font-weight="800" text-anchor="middle">A liver that cannot pay</text>
+<line x1="424" y1="858" x2="458" y2="858" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="458" y1="858" x2="448.0" y2="862.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="458" y1="858" x2="448.0" y2="853.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="476" y="864" font-size="19" fill="#123641" font-weight="800">Here SBRT is the wrong answer</text>
+<text x="476" y="891" font-size="14.6" fill="#345963">AASLD 2023: Child-Pugh 8 or above, uncontrolled ascites or hepatic encephalopathy —</text>
+<text x="476" y="916" font-size="14.6" fill="#345963">avoid external-beam radiotherapy. Restore the liver first, or assess for transplant.</text>
+<g filter="url(#sh)"><rect x="84" y="965" width="1272" height="155" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="981" width="300" height="34" rx="15" fill="#123641"/>
+<text x="258.0" y="1003.58" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Within transplant criteria</text>
+<line x1="424" y1="998" x2="458" y2="998" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="458" y1="998" x2="448.0" y2="1002.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="458" y1="998" x2="448.0" y2="993.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="476" y="1004" font-size="19" fill="#123641" font-weight="800">Transplant assessment must not be skipped</text>
+<text x="476" y="1031" font-size="14.6" fill="#345963">The only option treating the cancer and the cirrhosis together. Milan criteria (single ≤5 cm,</text>
+<text x="476" y="1056" font-size="14.6" fill="#345963">or ≤3 tumours each ≤3 cm): 4-year survival 75%, recurrence-free 83% (1996, 48 patients).</text>
+<text x="476" y="1081" font-size="14.6" fill="#345963">Every local-treatment road runs alongside transplant assessment — it does not replace it.</text>
+<text x="84" y="1150" font-size="15" fill="#6B8084" font-weight="600">Read size, location and liver function together; for multinodular, embolisable intermediate-stage disease see the TACE and Y-90 article.</text>
+<text x="84" y="1194" font-size="16" fill="#6B8084">Schematic, redrawn from AASLD 2023, BCLC 2022, the Taiwan NHI 37047B reimbursement criteria (since 2015) and Mazzaferro 1996</text>
+<text x="84" y="1218" font-size="16" fill="#6B8084">Where you land is for the multidisciplinary team to judge</text>
+  </g>
+</svg>

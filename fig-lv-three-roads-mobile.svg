@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1406" viewBox="0 0 620 1406" role="img" aria-labelledby="t d">
+  <title id="t">三條路適用地圖：大小 × 位置 × 肝功能</title>
+  <desc id="d">示意圖：小顆肝癌的三條路加上移植的適用地圖。開得了刀、肝功能好——手術切除仍是預設（AASLD 2023、BCLC 2022）；2 公分以內、針到得了的位置——切除或 RFA 存活效益相同，超過 2 公分且可切除者應優先考慮切除（BCLC 2022）；不適合開、不適合燒、或堅決不開——SBRT 的格（AASLD：可用於中央型與血管旁腫瘤；健保 37047B 自 2015 年起給付：單一病灶 5 公分以內、Child-Pugh A 至 B、無法手術／栓塞／電燒或治療失敗）；肝功能付不起（Child-Pugh 8 分以上、失控腹水或肝性腦病變）——應避免體外放射；符合 Milan 準則（單顆 5 公分以內，或 3 顆以內、每顆 3 公分以內）——移植評估不可跳過，它是唯一同時治肝癌與肝硬化的選項。最終決定由多專科團隊做出。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1406" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">SIZE × LOCATION × LIVER</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">三條路適用地圖：</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">大小 × 位置 × 肝功能</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">「都可以」跟「都一樣」是兩回事——三條路各有</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">主場，加上第四條：移植；最終決定屬於多專科團隊。</text>
+<rect x="44" y="246" width="532" height="84" rx="16" fill="none" stroke="#C9A83E" stroke-width="2"/>
+<text x="66" y="278" font-size="15.5" fill="#8F7418" font-weight="800">開得了刀、肝功能好——手術切除</text>
+<text x="66" y="302" font-size="15.5" fill="#8F7418" font-weight="800">仍然是預設的那條路（AASLD／BCLC）</text>
+<g filter="url(#sh)"><rect x="44" y="350" width="532" height="182" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="368" width="300" height="30" rx="13" fill="#5C77C4"/>
+<text x="216.0" y="388.04" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">開得了・肝功能好</text>
+<text x="66" y="424" font-size="16.5" fill="#123641" font-weight="800">手術切除＝預設的那條路</text>
+<text x="66" y="448" font-size="13.8" fill="#345963">AASLD：無肝硬化的局部肝癌，切除是治癒性治療</text>
+<text x="66" y="470" font-size="13.8" fill="#345963">首選；BCLC：符合移植與手術條件者，切除第一。</text>
+<text x="66" y="492" font-size="13.8" fill="#345963">「校正後打平」不能讀成「不開也一樣」——</text>
+<text x="66" y="514" font-size="13.8" fill="#345963">沒有 SBRT 對切除的隨機試驗完成。</text>
+<g filter="url(#sh)"><rect x="44" y="546" width="532" height="162" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="564" width="300" height="30" rx="13" fill="#96790F"/>
+<text x="216.0" y="584.04" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">≤2 公分・針到得了</text>
+<text x="66" y="620" font-size="16.5" fill="#123641" font-weight="800">切除或 RFA：存活效益相同</text>
+<text x="66" y="644" font-size="16.5" fill="#123641" font-weight="800">（BCLC 2022）</text>
+<text x="66" y="668" font-size="13.8" fill="#345963">超過 2 公分：燒灼完全反應率下降、局部復發</text>
+<text x="66" y="690" font-size="13.8" fill="#345963">上升——可切除者應優先考慮切除。</text>
+<g filter="url(#sh)"><rect x="44" y="722" width="532" height="182" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="740" width="300" height="30" rx="13" fill="#00806B"/>
+<text x="216.0" y="760.04" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">不適合開・不適合燒・堅決不開</text>
+<text x="66" y="796" font-size="16.5" fill="#123641" font-weight="800">SBRT 的格——真實而且巨大</text>
+<text x="66" y="820" font-size="13.8" fill="#345963">AASLD：不適合熱燒灼者的另一個持久局部控制</text>
+<text x="66" y="842" font-size="13.8" fill="#345963">方法；可用於中央型與緊鄰血管的腫瘤。</text>
+<text x="66" y="864" font-size="13.8" fill="#345963">健保 37047B（2015 年起）：單一病灶 ≤5 cm、</text>
+<text x="66" y="886" font-size="13.8" fill="#345963">Child-Pugh A–B，無法手術／栓塞／電燒或失敗。</text>
+<g filter="url(#sh)"><rect x="44" y="918" width="532" height="160" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="936" width="300" height="30" rx="13" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="216.0" y="956.04" font-size="14" fill="#9A9282" font-weight="800" text-anchor="middle">肝功能付不起</text>
+<text x="66" y="992" font-size="16.5" fill="#123641" font-weight="800">這時 SBRT 是錯的答案</text>
+<text x="66" y="1016" font-size="13.8" fill="#345963">AASLD：Child-Pugh ≥8、控制不了的腹水或肝性</text>
+<text x="66" y="1038" font-size="13.8" fill="#345963">腦病變——應避免體外放射。肝功能是貨幣，</text>
+<text x="66" y="1060" font-size="13.8" fill="#345963">SBRT 也要付；先顧肝，或評估移植。</text>
+<g filter="url(#sh)"><rect x="44" y="1092" width="532" height="182" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="1110" width="300" height="30" rx="13" fill="#123641"/>
+<text x="216.0" y="1130.04" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">符合移植準則</text>
+<text x="66" y="1166" font-size="16.5" fill="#123641" font-weight="800">移植評估不可跳過</text>
+<text x="66" y="1190" font-size="13.8" fill="#345963">唯一同時治肝癌與肝硬化的選項。Milan 準則</text>
+<text x="66" y="1212" font-size="13.8" fill="#345963">（單顆 ≤5 cm，或 ≤3 顆、每顆 ≤3 cm）：4 年</text>
+<text x="66" y="1234" font-size="13.8" fill="#345963">存活 75%、無復發 83%（1996 年、48 人）。</text>
+<text x="66" y="1256" font-size="13.8" fill="#345963">年輕、肝硬化明顯者：局部治療與移植評估並行。</text>
+<text x="44" y="1294" font-size="13" fill="#6B8084" font-weight="600">三個維度一起看；多顆、栓得住的中期病人</text>
+<text x="44" y="1314" font-size="13" fill="#6B8084" font-weight="600">另見〈TACE 與 Y-90〉。</text>
+<text x="44" y="1344" font-size="12" fill="#6B8084">示意圖，依 AASLD 2023、BCLC 2022、健保 37047B 給付</text>
+<text x="44" y="1364" font-size="12" fill="#6B8084">條文（2015 年起）與 Mazzaferro 1996 重繪｜你的落點由</text>
+<text x="44" y="1384" font-size="12" fill="#6B8084">多專科團隊依影像與肝功能判定</text>
+  </g>
+</svg>

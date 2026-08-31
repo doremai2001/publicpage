@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1006" viewBox="0 0 1440 1006" role="img" aria-labelledby="t d">
+  <title id="t">The liver is a mean-dose organ</title>
+  <desc id="d">Schematic (not an actual dose distribution): radiation-induced liver injury tracks mean liver dose and irradiated volume (QUANTEC); the rule is to keep at least 700 cc of normal liver at 15 Gy or less over 3 to 5 fractions. Left: photon SBRT concentrates the high dose on the tumour, but every beam leaves a low-dose bath across normal liver on its way in and out, and exits the body. Right: protons deposit their dose at the Bragg peak and stop — almost no exit dose, so more normal liver goes largely untouched. Clinical anchors: in a randomised trial against RFA, Child-Pugh scores worsened in 7.5% vs 19.6%; a retrospective proton-vs-photon comparison found less non-classic radiation-induced liver injury (OR 0.26; selection bias cannot be excluded). Protons are not cost-free, and the proton-vs-photon randomised trial NRG-GI003 is unpublished.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1006" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">LIVER AS A PARALLEL ORGAN</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">The liver is a mean-dose organ</text>
+<text x="84" y="194" font-size="21" fill="#527078">Radiation-induced liver injury tracks mean liver dose and irradiated volume, not the hottest spot (QUANTEC).</text>
+<text x="84" y="224" font-size="21" fill="#527078">Protons stop at the end of their range with almost no exit dose — sparing exactly that low-dose bath.</text>
+<g filter="url(#sh)"><rect x="84" y="262" width="616" height="396" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="284" width="10" height="26" rx="4" fill="#5C77C4"/>
+<text x="130" y="304" font-size="19" fill="#123641" font-weight="800">Photon SBRT — NHI-covered, already very good</text>
+<g transform="translate(132,330) scale(1.02)">
+<path d="M 18,142 C 26,58 132,14 252,22 C 372,30 462,58 494,116 C 510,152 486,196 428,218 C 338,250 218,252 138,236 C 68,222 10,206 18,142 Z" fill="#E9E2CF" stroke="#9A9282" stroke-width="2.5"/>
+<polygon points="65.6,93.9 528.5,175.5 534.4,142.1 71.5,60.5" fill="#5C77C4" opacity="0.16"/>
+<polygon points="547.2,161.6 529.9,167.7 533.0,149.9" fill="#5C77C4" opacity="0.42"/>
+<polygon points="118.0,242.7 499.0,22.7 482.0,-6.7 101.0,213.3" fill="#5C77C4" opacity="0.16"/>
+<polygon points="504.4,0.0 495.0,15.8 486.0,0.2" fill="#5C77C4" opacity="0.42"/>
+<polygon points="154.9,10.2 422.4,251.1 445.1,225.8 177.6,-15.1" fill="#5C77C4" opacity="0.16"/>
+<polygon points="445.7,249.1 427.7,245.1 439.8,231.8" fill="#5C77C4" opacity="0.42"/>
+<text x="95" y="208" font-size="15" fill="#5C77C4" font-weight="700">Low-dose bath</text>
+<text x="455" y="22" font-size="15" fill="#5C77C4" font-weight="700">Exit dose</text>
+<circle cx="300" cy="118" r="25" fill="#A98722"/>
+<text x="300" y="166" font-size="15" fill="#8F7418" font-weight="800" text-anchor="middle">Tumour</text>
+</g>
+<text x="114" y="598" font-size="15" fill="#345963" font-weight="600">The high dose sits on the tumour, but each beam sweeps</text>
+<text x="114" y="622" font-size="15" fill="#345963" font-weight="600">normal liver coming and going — a low-dose bath, plus exit dose.</text>
+<g filter="url(#sh)"><rect x="740" y="262" width="616" height="396" rx="18" fill="#FFFFFF"/></g>
+<rect x="764" y="284" width="10" height="26" rx="4" fill="#00806B"/>
+<text x="786" y="304" font-size="19" fill="#123641" font-weight="800">Proton — the same treatment, engineered further</text>
+<g transform="translate(788,330) scale(1.02)">
+<path d="M 18,142 C 26,58 132,14 252,22 C 372,30 462,58 494,116 C 510,152 486,196 428,218 C 338,250 218,252 138,236 C 68,222 10,206 18,142 Z" fill="#E9E2CF" stroke="#9A9282" stroke-width="2.5"/>
+<polygon points="3.0,72.3 296.5,134.6 303.5,101.4 10.1,39.0" fill="#00806B" opacity="0.2"/>
+<polygon points="271.0,129.2 296.5,134.6 303.5,101.4 278.1,96.0" fill="#00806B" opacity="0.56"/>
+<polygon points="69.6,259.8 308.0,133.0 292.0,103.0 53.6,229.7" fill="#00806B" opacity="0.2"/>
+<polygon points="285.0,145.2 308.0,133.0 292.0,103.0 269.1,115.2" fill="#00806B" opacity="0.56"/>
+<text x="338" y="62" font-size="15" fill="#00806B" font-weight="700">Bragg peak</text>
+<line x1="330" y1="70" x2="312" y2="96" stroke="#6B8084" stroke-width="1.5"/>
+<text x="60" y="208" font-size="15" fill="#00806B" font-weight="700">Liver largely untouched</text>
+<circle cx="300" cy="118" r="25" fill="#A98722"/>
+<text x="300" y="166" font-size="15" fill="#8F7418" font-weight="800" text-anchor="middle">Tumour</text>
+</g>
+<text x="770" y="598" font-size="15" fill="#345963" font-weight="600">The dose is spent at the Bragg peak and stops: almost no</text>
+<text x="770" y="622" font-size="15" fill="#345963" font-weight="600">exit dose, and more normal liver goes largely untouched.</text>
+<g filter="url(#sh)"><rect x="84" y="700" width="400" height="148" rx="18" fill="#FFFFFF"/></g>
+<text x="108" y="732" font-size="15.5" fill="#8F7418" font-weight="800">The liver's rule (QUANTEC)</text>
+<text x="108" y="758" font-size="13.8" fill="#345963">Injury tracks mean liver dose × volume;</text>
+<text x="108" y="781" font-size="13.8" fill="#345963">keep at least 700 cc of normal liver at</text>
+<text x="108" y="804" font-size="13.8" fill="#345963">15 Gy or less (3–5 fractions) — the</text>
+<text x="108" y="827" font-size="13.8" fill="#345963">surgeons' liver-remnant logic.</text>
+<g filter="url(#sh)"><rect x="520" y="700" width="400" height="148" rx="18" fill="#FFFFFF"/></g>
+<text x="544" y="732" font-size="15.5" fill="#8F7418" font-weight="800">Randomised trial: proton vs RFA</text>
+<text x="544" y="758" font-size="13.8" fill="#345963">Recurrent small HCC: Child-Pugh scores</text>
+<text x="544" y="781" font-size="13.8" fill="#345963">worsened in 7.5% vs 19.6% (cited by AASLD).</text>
+<text x="544" y="804" font-size="13.8" fill="#345963">A non-inferiority trial — it proves</text>
+<text x="544" y="827" font-size="13.8" fill="#345963">'not inferior', not 'superior'.</text>
+<g filter="url(#sh)"><rect x="956" y="700" width="400" height="148" rx="18" fill="#FFFFFF"/></g>
+<text x="980" y="732" font-size="15.5" fill="#8F7418" font-weight="800">Retrospective: proton vs photon (MGH)</text>
+<text x="980" y="758" font-size="13.8" fill="#345963">Less non-classic radiation-induced liver</text>
+<text x="980" y="781" font-size="13.8" fill="#345963">injury (OR 0.26). Retrospective —</text>
+<text x="980" y="804" font-size="13.8" fill="#345963">selection bias cannot be excluded;</text>
+<text x="980" y="827" font-size="13.8" fill="#345963">keep the label.</text>
+<text x="84" y="886" font-size="15" fill="#6B8084" font-weight="600">Protons are not cost-free (Japanese prospective registry: grade 3+ late events 4.7%); the proton-vs-photon randomised trial</text>
+<text x="84" y="910" font-size="15" fill="#6B8084" font-weight="600">NRG-GI003 has completed accrual and is unpublished — superiority is still being tested.</text>
+<text x="84" y="978" font-size="16" fill="#6B8084">Schematic (not an actual dose distribution), redrawn from Pan 2010 (QUANTEC), Newhauser &amp; Zhang 2015, Kim TH 2021, AASLD 2023 and Sanford 2019</text>
+  </g>
+</svg>

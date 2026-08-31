@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1174" viewBox="0 0 1440 1174" role="img" aria-labelledby="t d">
+  <title id="t">BCLC 簡圖，與指引跟上證據的時間差</title>
+  <desc id="d">示意圖：BCLC 分期把腫瘤負荷、肝功能與體能放進五格（0 極早期、A 早期、B 中期、C 晚期、D 末期），每格連著一個第一線建議：0 期消融或切除（可移植且符合手術條件者切除為第一選擇）；A 期在切除、移植、消融等根治選項間選路；B 期以 TACE 為預設，但 B 期是光譜不是一格——腫瘤負荷有限（up-to-7 內）者可考慮根治性選項，超過 up-to-11 者強烈不建議 TACE（台灣肝癌醫學會 2025 共識，100% 同意度）；C 期以全身治療為主；D 期以支持照護為主。兩個註記：BCLC 2022 原文寫明最終決定屬於醫師與多專科團隊、並內建治療期別轉移；同一個 SBRT，APASL 2017 寫「未被證明改善結果」、BCLC 2022 寫「仍需前瞻研究」、AASLD 2023 給出具體適用格、台灣健保 2015 年起實際給付（37047B）——指引措辭跟上證據需要時間。2026 年 BCLC 更新版原文取不到，本圖依 2022 版繪製。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1174" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">BCLC — MAP, NOT VERDICT</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">BCLC 簡圖，與指引跟上證據的時間差</text>
+<text x="84" y="194" font-size="21" fill="#527078">BCLC 把腫瘤負荷 × 肝功能 × 體能放進五格，每格連著一個第一線建議。</text>
+<text x="84" y="224" font-size="21" fill="#527078">下面兩個註記，是這張表通常不會被病人看到的部分。</text>
+<g filter="url(#sh)"><rect x="84" y="262" width="1272" height="84" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="278" width="226" height="34" rx="15" fill="#5C77C4"/>
+<text x="221.0" y="300.76" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">0 極早期</text>
+<text x="221.0" y="332" font-size="13.5" fill="#6B8084" text-anchor="middle">單顆小病灶、肝功能保留</text>
+<line x1="350" y1="295" x2="384" y2="295" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="295" x2="374.0" y2="299.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="295" x2="374.0" y2="290.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="402" y="301" font-size="18" fill="#123641" font-weight="800">消融或切除；可移植且符合手術條件者，切除為第一選擇（BCLC 2022）</text>
+<g filter="url(#sh)"><rect x="84" y="356" width="1272" height="84" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="372" width="226" height="34" rx="15" fill="#5C77C4"/>
+<text x="221.0" y="394.76" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">A 早期</text>
+<text x="221.0" y="426" font-size="13.5" fill="#6B8084" text-anchor="middle">單顆或少數幾顆、侷限肝內</text>
+<line x1="350" y1="389" x2="384" y2="389" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="389" x2="374.0" y2="393.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="389" x2="374.0" y2="384.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="402" y="395" font-size="18" fill="#123641" font-weight="800">在根治選項間選路：切除／移植／消融——依肝功能與腫瘤條件</text>
+<g filter="url(#sh)"><rect x="84" y="450" width="1272" height="150" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="466" width="226" height="34" rx="15" fill="#96790F"/>
+<text x="221.0" y="488.76" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">B 中期</text>
+<text x="221.0" y="520" font-size="13.5" fill="#6B8084" text-anchor="middle">多顆、侷限肝內</text>
+<line x1="350" y1="483" x2="384" y2="483" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="483" x2="374.0" y2="487.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="483" x2="374.0" y2="478.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="402" y="489" font-size="18" fill="#123641" font-weight="800">TACE 為預設——但 B 期是光譜，不是一格（TLCA 2025・100% 同意度）</text>
+<defs><linearGradient id="spec" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00806B"/><stop offset="0.5" stop-color="#C9A83E"/><stop offset="1" stop-color="#9A9282"/></linearGradient></defs>
+<rect x="402" y="512" width="940" height="14" rx="7" fill="url(#spec)" opacity="0.85"/>
+<text x="402" y="548" font-size="14" fill="#00806B" font-weight="700">負荷有限（up-to-7 內）：可考慮切除、消融、擴大準則移植</text>
+<text x="1342" y="570" font-size="14" fill="#6F675A" font-weight="700" text-anchor="end">超過 up-to-11：強烈不建議 TACE——轉全身治療</text>
+<g filter="url(#sh)"><rect x="84" y="610" width="1272" height="84" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="626" width="226" height="34" rx="15" fill="#9A9282"/>
+<text x="221.0" y="648.76" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">C 晚期</text>
+<text x="221.0" y="680" font-size="13.5" fill="#6B8084" text-anchor="middle">血管侵犯或肝外轉移</text>
+<line x1="350" y1="643" x2="384" y2="643" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="643" x2="374.0" y2="647.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="643" x2="374.0" y2="638.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="402" y="649" font-size="18" fill="#123641" font-weight="800">全身治療為主</text>
+<g filter="url(#sh)"><rect x="84" y="704" width="1272" height="84" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="720" width="226" height="34" rx="15" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="221.0" y="742.76" font-size="16" fill="#9A9282" font-weight="800" text-anchor="middle">D 末期</text>
+<text x="221.0" y="774" font-size="13.5" fill="#6B8084" text-anchor="middle">肝功能失代償、體能差</text>
+<line x1="350" y1="737" x2="384" y2="737" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="737" x2="374.0" y2="741.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="737" x2="374.0" y2="732.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="402" y="743" font-size="18" fill="#123641" font-weight="800">以支持照護為主；個別條件由團隊評估</text>
+<rect x="84" y="810" width="1272" height="104" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="108" y="842" font-size="17" fill="#8F7418" font-weight="800">圖的作者自己說（BCLC 2022 原文）</text>
+<text x="108" y="870" font-size="15" fill="#345963">最終決定必須由負責的醫師與多專科團隊做出；治療決策不應只建立在一張簡化的圖上。</text>
+<text x="108" y="894" font-size="15" fill="#345963">並內建「治療期別轉移」：個別條件可以正當地把建議移往「更晚期那一格」的治療——分期沒變，路可以變。</text>
+<g filter="url(#sh)"><rect x="84" y="930" width="1272" height="168" rx="18" fill="#FFFFFF"/></g>
+<text x="108" y="964" font-size="17" fill="#8F7418" font-weight="800">指引與證據的時間差——同一個 SBRT，四種措辭</text>
+<text x="108" y="994" font-size="15" fill="#345963">APASL 2017：「放射治療未被證明能改善肝癌病人的結果」（等級 C2）　｜　BCLC 2022：「具抗腫瘤活性，仍需前瞻研究定義其角色」</text>
+<text x="108" y="1020" font-size="15" fill="#345963">AASLD 2023：給出具體適用的格（不適合燒灼、中央型、血管旁）　｜　台灣健保：2015 年 2 月起實際給付肝癌 SBRT（37047B）</text>
+<text x="108" y="1050" font-size="15" fill="#345963" font-weight="600">中間隔的不是證據翻盤，是整個領域的慣例跟上證據的速度——2026 年多國合併分析稱之為「遲來的接受」（Moon 2026）。</text>
+<text x="108" y="1076" font-size="13.5" fill="#6B8084">BCLC 2026 年更新版已出版、原文取不到——本圖依 2022 版繪製。</text>
+<text x="84" y="1146" font-size="16" fill="#6B8084">示意圖，依 BCLC 2022（Reig）、TLCA 2025 中期肝癌共識、APASL 2017、AASLD 2023、Moon 2026 與健保 37047B 條文重繪</text>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1381" viewBox="0 0 620 1381" role="img" aria-labelledby="t d">
+  <title id="t">BCLC 簡圖，與指引跟上證據的時間差</title>
+  <desc id="d">示意圖：BCLC 分期把腫瘤負荷、肝功能與體能放進五格（0 極早期、A 早期、B 中期、C 晚期、D 末期），每格連著一個第一線建議：0 期消融或切除（可移植且符合手術條件者切除為第一選擇）；A 期在切除、移植、消融等根治選項間選路；B 期以 TACE 為預設，但 B 期是光譜不是一格——腫瘤負荷有限（up-to-7 內）者可考慮根治性選項，超過 up-to-11 者強烈不建議 TACE（台灣肝癌醫學會 2025 共識，100% 同意度）；C 期以全身治療為主；D 期以支持照護為主。兩個註記：BCLC 2022 原文寫明最終決定屬於醫師與多專科團隊、並內建治療期別轉移；同一個 SBRT，APASL 2017 寫「未被證明改善結果」、BCLC 2022 寫「仍需前瞻研究」、AASLD 2023 給出具體適用格、台灣健保 2015 年起實際給付（37047B）——指引措辭跟上證據需要時間。2026 年 BCLC 更新版原文取不到，本圖依 2022 版繪製。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1381" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<defs><linearGradient id="spec" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00806B"/><stop offset="0.5" stop-color="#C9A83E"/><stop offset="1" stop-color="#9A9282"/></linearGradient></defs>
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">BCLC — MAP, NOT VERDICT</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">BCLC 簡圖，與指引</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">跟上證據的時間差</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">五格，每格連著一個第一線建議；下面兩個註記，</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">是這張表通常不會被病人看到的部分。</text>
+<g filter="url(#sh)"><rect x="44" y="246" width="532" height="118" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="264" width="170" height="30" rx="13" fill="#5C77C4"/>
+<text x="151.0" y="284.04" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">0 極早期</text>
+<text x="250" y="285" font-size="12.5" fill="#6B8084">單顆小病灶、肝功能保留</text>
+<text x="66" y="322" font-size="15.5" fill="#123641" font-weight="800">消融或切除；可移植且符合手術</text>
+<text x="66" y="345" font-size="15.5" fill="#123641" font-weight="800">條件者，切除為第一選擇</text>
+<g filter="url(#sh)"><rect x="44" y="378" width="532" height="118" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="396" width="170" height="30" rx="13" fill="#5C77C4"/>
+<text x="151.0" y="416.04" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">A 早期</text>
+<text x="250" y="417" font-size="12.5" fill="#6B8084">單顆或少數幾顆、侷限肝內</text>
+<text x="66" y="454" font-size="15.5" fill="#123641" font-weight="800">切除／移植／消融——</text>
+<text x="66" y="477" font-size="15.5" fill="#123641" font-weight="800">依肝功能與腫瘤條件選路</text>
+<g filter="url(#sh)"><rect x="44" y="510" width="532" height="204" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="528" width="170" height="30" rx="13" fill="#96790F"/>
+<text x="151.0" y="548.04" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">B 中期</text>
+<text x="250" y="549" font-size="12.5" fill="#6B8084">多顆、侷限肝內</text>
+<text x="66" y="586" font-size="15.5" fill="#123641" font-weight="800">TACE 為預設——但 B 期是光譜，</text>
+<text x="66" y="609" font-size="15.5" fill="#123641" font-weight="800">不是一格（TLCA 2025）</text>
+<rect x="66" y="634" width="488" height="12" rx="6" fill="url(#spec)" opacity="0.85"/>
+<text x="66" y="666" font-size="12.8" fill="#00806B" font-weight="700">負荷有限（up-to-7 內）：可考慮根治性選項</text>
+<text x="66" y="688" font-size="12.8" fill="#6F675A" font-weight="700">超過 up-to-11：強烈不建議 TACE→全身治療</text>
+<g filter="url(#sh)"><rect x="44" y="728" width="532" height="95" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="746" width="170" height="30" rx="13" fill="#9A9282"/>
+<text x="151.0" y="766.04" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">C 晚期</text>
+<text x="250" y="767" font-size="12.5" fill="#6B8084">血管侵犯或肝外轉移</text>
+<text x="66" y="804" font-size="15.5" fill="#123641" font-weight="800">全身治療為主</text>
+<g filter="url(#sh)"><rect x="44" y="837" width="532" height="118" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="855" width="170" height="30" rx="13" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="151.0" y="875.04" font-size="14" fill="#9A9282" font-weight="800" text-anchor="middle">D 末期</text>
+<text x="250" y="876" font-size="12.5" fill="#6B8084">肝功能失代償、體能差</text>
+<text x="66" y="913" font-size="15.5" fill="#123641" font-weight="800">以支持照護為主；</text>
+<text x="66" y="936" font-size="15.5" fill="#123641" font-weight="800">個別條件由團隊評估</text>
+<rect x="44" y="975" width="532" height="122" rx="16" fill="none" stroke="#C9A83E" stroke-width="2"/>
+<text x="64" y="1005" font-size="13.5" fill="#8F7418" font-weight="800">圖的作者自己說（BCLC 2022 原文）：最終決定</text>
+<text x="64" y="1027" font-size="13.5" fill="#345963">必須由醫師與多專科團隊做出；治療決策不應</text>
+<text x="64" y="1049" font-size="13.5" fill="#345963">只建立在一張簡化的圖上。並內建「治療期別</text>
+<text x="64" y="1071" font-size="13.5" fill="#345963">轉移」：分期沒變，路可以正當地變。</text>
+<g filter="url(#sh)"><rect x="44" y="1113" width="532" height="188" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="1143" font-size="13.5" fill="#8F7418" font-weight="800">指引與證據的時間差——同一個 SBRT：</text>
+<text x="64" y="1165" font-size="13.5" fill="#345963">APASL 2017：「未被證明能改善結果」（C2）</text>
+<text x="64" y="1187" font-size="13.5" fill="#345963">BCLC 2022：「仍需前瞻研究定義其角色」</text>
+<text x="64" y="1209" font-size="13.5" fill="#345963">AASLD 2023：給出具體適用的格</text>
+<text x="64" y="1231" font-size="13.5" fill="#345963">台灣健保：2015 年起實際給付（37047B）</text>
+<text x="64" y="1253" font-size="13.5" fill="#345963">慣例跟上證據需要時間——「遲來的接受」</text>
+<text x="64" y="1275" font-size="13.5" fill="#345963">（Moon 2026）。2026 版原文取不到，本圖依 2022 版。</text>
+<text x="44" y="1339" font-size="12" fill="#6B8084">示意圖，依 BCLC 2022、TLCA 2025 中期共識、APASL 2017、</text>
+<text x="44" y="1359" font-size="12" fill="#6B8084">AASLD 2023、Moon 2026 與健保 37047B 條文重繪</text>
+  </g>
+</svg>

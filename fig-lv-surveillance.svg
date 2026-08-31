@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1012" viewBox="0 0 1440 1012" role="img" aria-labelledby="t d">
+  <title id="t">追蹤迴圈：影像、AFP、肝功能一起看</title>
+  <desc id="d">示意圖：治療後追蹤的迴圈。第一步，每 3 至 6 個月一次腹部加胸部斷層影像（CT 或 MRI）加 AFP 加肝功能，治療後建議無限期追蹤，頭兩年最密（切除後復發風險第一年最高、5 年接近五到七成）。第二步，一起判讀：46% 的肝癌病人 AFP 正常，AFP 正常不代表沒事；肝硬化監測族群中超音波單獨敏感度 47%、加 AFP 升到 63%（外推自監測資料）。第三步，若抓到復發，回到治療：再切、再燒、再照都在桌上，符合準則者第一時間評估救援移植（110 人策略分析 5 年存活 69%）。第四步，治療後回到同一個迴圈；沒有復發者回到下一次排程。誠實註記：間隔是 Level 3 證據、追蹤多久是 Level 5 專家意見，更密集的追蹤沒有存活證據——追蹤買到的是「復發還在根治窗口內」的選項。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1012" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">AFTER TREATMENT — THE LOOP</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">追蹤迴圈：影像、AFP、肝功能一起看</text>
+<text x="84" y="194" font-size="21" fill="#527078">治療結束不是畢業：影像、AFP、肝功能每 3–6 個月一輪，抓到復發就回到治療，然後回到同一個迴圈。</text>
+<text x="84" y="224" font-size="21" fill="#527078">排程本身是共識，不是隨機試驗的勝利——證據等級誠實標在下面。</text>
+<g filter="url(#sh)"><rect x="84" y="268" width="600" height="168" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="304" font-size="18" fill="#123641" font-weight="800">① 每 3–6 個月一次</text>
+<text x="110" y="334" font-size="14.2" fill="#345963">腹部＋胸部斷層影像（CT／MRI）＋ AFP ＋ 肝功能（AASLD 2023）。</text>
+<text x="110" y="358" font-size="14.2" fill="#345963">治療後建議「無限期」追蹤；頭兩年最密——切除後復發風險</text>
+<text x="110" y="382" font-size="14.2" fill="#345963">第一年最高，5 年接近五到七成。</text>
+<g filter="url(#sh)"><rect x="756" y="268" width="600" height="168" rx="18" fill="#FFFFFF"/></g>
+<text x="782" y="304" font-size="18" fill="#123641" font-weight="800">② 一起判讀，不能只看一項</text>
+<text x="782" y="334" font-size="14.2" fill="#345963">46% 的肝癌病人 AFP 正常（Farinati 2006）——AFP 正常不代表沒事。</text>
+<text x="782" y="358" font-size="14.2" fill="#345963">肝硬化監測族群：超音波單獨對早期腫瘤敏感度 47%、加 AFP 63%</text>
+<text x="782" y="382" font-size="14.2" fill="#345963">（Tzartzeva 2018；治療後族群是外推）。互相補漏，一起看。</text>
+<g filter="url(#sh)"><rect x="756" y="462" width="600" height="174" rx="18" fill="#FFFFFF"/></g>
+<text x="782" y="498" font-size="18" fill="#123641" font-weight="800">③ 抓到復發 → 回到治療</text>
+<text x="782" y="528" font-size="14.2" fill="#345963">再切、再燒、再照都在桌上；符合準則者第一時間評估救援移植</text>
+<text x="782" y="552" font-size="14.2" fill="#345963">（110 人策略分析：5 年整體存活 69%，AASLD 引述）。</text>
+<text x="782" y="576" font-size="14.2" fill="#345963">復發是這個病的常態，不是誰的失敗。</text>
+<g filter="url(#sh)"><rect x="84" y="462" width="600" height="174" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="498" font-size="18" fill="#123641" font-weight="800">④ 治療後，回到同一個迴圈</text>
+<text x="110" y="528" font-size="14.2" fill="#345963">每次回診帶三樣：上次影像報告、AFP 走勢、自己記下的新症狀。</text>
+<text x="110" y="552" font-size="14.2" fill="#345963">追蹤最大的敵人是「覺得沒事就沒去」——</text>
+<text x="110" y="576" font-size="14.2" fill="#345963">這個病的復發多數沒有症狀，行事曆比感覺可靠。</text>
+<line x1="692" y1="352" x2="748" y2="352" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="748" y1="352" x2="738.0" y2="356.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="748" y1="352" x2="738.0" y2="347.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1056" y1="442" x2="1056" y2="456" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1056" y1="456" x2="1051.4" y2="446.0" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1056" y1="456" x2="1060.6" y2="446.0" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="748" y1="549" x2="692" y2="549" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="692" y1="549" x2="702.0" y2="544.4" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="692" y1="549" x2="702.0" y2="553.6" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="456" x2="384" y2="442" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="442" x2="388.6" y2="452.0" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="384" y1="442" x2="379.4" y2="452.0" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 756,470 C 726,458 716,454 692,442" fill="none" stroke="#6B8084" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="560" y="453" font-size="13.5" fill="#6B8084" font-weight="700" text-anchor="middle">沒有復發 → 下一次排程</text>
+<rect x="84" y="672" width="1272" height="116" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="108" y="704" font-size="17" fill="#8F7418" font-weight="800">這個排程的證據等級，指引自己標了</text>
+<text x="108" y="732" font-size="15" fill="#345963">間隔（每 3–6 個月）是 Level 3；「要追多久」是 Level 5——專家意見；更密集的追蹤沒有存活證據（AASLD 2023 自標）。</text>
+<text x="108" y="760" font-size="15" fill="#345963" font-weight="600">追蹤買到的不是存活數字，是「復發還在根治窗口內」的選項——排程被醫師依你的風險調緊或放鬆，都在合理範圍。</text>
+<text x="84" y="828" font-size="14.5" fill="#6B8084" font-weight="600">消融後約 6 週先照一次確認反應；放射治療或 Y-90 後約 12 週再照；確認無存活腫瘤後回到每 3–6 個月（AASLD 2023）。</text>
+<text x="84" y="854" font-size="14.5" fill="#6B8084" font-weight="600">頭兩年為什麼最密：切除後精算復發 1 年 30.1%、3 年 62.3%、5 年 79.0%（Imamura 2003，日本單中心 249 人）；兩年內與兩年後的復發，機轉不同。</text>
+<text x="84" y="984" font-size="16" fill="#6B8084">示意圖，依 AASLD 2023、Farinati 2006、Tzartzeva 2018 與 Imamura 2003 重繪｜追蹤間隔依個人風險由醫師調整；急症症狀不等排程、當天回醫院</text>
+  </g>
+</svg>
