@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1647.2" viewBox="0 0 620 1647.2" role="img" aria-labelledby="t d">
+  <title id="t">滿膀胱與空膀胱：兩種計畫，同一件事</title>
+  <desc id="d">示意圖：膀胱準備的兩種流程並陳，主題是複製計畫當初的那個狀態，不是憋越多越好。左格是滿膀胱流程，用在子宮頸癌、子宮內膜癌與直腸癌的多數計畫：一份局部晚期直腸癌的前瞻研究讓 48 位病人同時做滿膀胱與空膀胱兩套流程、各 7 次錐狀束影像，滿膀胱流程下的膀胱體積平均 243 立方公分、標準差 164，屬幾何終點；滿膀胱做的事是把小腸頂出照野，膀胱體積每多 100 毫升，腸道 V15 顯著下降 16%，這一筆出自直腸癌 IMRT 的計畫研究、對象是健康志願者，屬劑量學；另一份 29 人的婦癌計畫研究顯示滿膀胱把膀胱自身的整體劑量壓下來，D50 由中位 94% 降到 87%。右格是空膀胱流程，用在整顆膀胱要照的計畫，也就是肌肉侵犯型膀胱癌：同一批人的空膀胱指令下膀胱體積平均 73 立方公分、標準差 58，變異只有滿膀胱那一格的三分之一；一份 40 人、55 Gy 分 20 次的流程稽核顯示，空膀胱組在模擬電腦斷層與治療當天影像之間的膀胱體積沒有顯著差異，滿膀胱組有；同一份稽核裡，在標靶涵蓋沒有差別的前提下，接受 25.0 到 45.8 Gy 的身體體積在空膀胱組顯著較小。兩種流程都存在是專家層級的事實：法國兩個學會的專家共識 34 個議題有 30 項達成共識，沒有共識的 4 項之一正是空膀胱與滿膀胱流程的標靶邊界該怎麼定。圖的中段畫出「越滿越好」在臨床終點上被打回票的那一格：低於 300 毫升那組的膀胱 V30 與 V40 最高、小腸 V40 最高，晚期放射性膀胱炎最多；300 到 500 毫升那組的放射性膀胱炎發生率顯著最低；高於 500 毫升那組的膀胱與直腸 2 立方公分處劑量最高，晚期放射性直腸炎最多。這一格的族群標籤是子宮頸癌術後放療、兩份單中心回溯世代共 142 人與 71 人，依模擬當天的膀胱容積分組，也是全圖唯一的臨床終點。圖的下段說明膀胱一動器官就跟著動：膀胱與直腸的充盈改變讓子宮體在頭尾向位移中位 7 毫米、95% 信賴區間 3 到 15 毫米；子宮底的平均三維位置變化 26.1 加減 10.8 毫米；模擬那天憋得越大的人療程中掉得越多，相關係數負 0.69。圖注提醒兩層標籤不可混：體積、位移、V15 與 D50 是幾何與劑量學終點，只有 300 到 500 毫升那一格是臨床終點；憋不住、解不乾淨要說出來不要硬撐，療程後段裝不住是被量到的常態，團隊依影像調整你的準備方式不是你做錯。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1647.2" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.0px">BLADDER REPRODUCIBILITY — TWO PROTOCOLS</text>
+<text x="44" y="112" font-size="28" fill="#123641" font-weight="800" class="r">滿膀胱與空膀胱：兩種計畫，同一件事</text>
+<text x="44" y="154" font-size="14.5" fill="#527078">你的計畫要滿還是要空，由計畫決定；你要做的是每天複製那個狀態，不是憋得</text>
+<text x="44" y="176" font-size="14.5" fill="#527078">比昨天多。</text>
+<text x="44" y="198" font-size="14.5" fill="#527078">這張圖上的體積、位移與劑量體積數字是幾何與劑量學終點，不是副作用發生率。</text>
+<g filter="url(#sh)"><rect x="44" y="236" width="532" height="267.8" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="256" width="492" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="310" y="279.46" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">滿膀胱流程</text>
+<text x="310" y="311" font-size="13" fill="#6B8084" text-anchor="middle">子宮頸癌、子宮內膜癌、直腸癌的多數計畫</text>
+<text x="64" y="339" font-size="16" fill="#123641" font-weight="800">裝滿的膀胱把小腸頂出照野</text>
+<text x="64" y="366.13" font-size="13" fill="#345963">同一批人、兩套流程（局部晚期直腸癌前瞻研究，48 人，各 7 次錐狀束影像）：滿</text>
+<text x="64" y="387.13" font-size="13" fill="#345963">膀胱流程下膀胱體積平均 243 立方公分、標準差 164。｜幾何</text>
+<text x="64" y="413.13" font-size="13" fill="#345963">膀胱體積每多 100 毫升，腸道 V15 顯著下降 16%（直腸癌 IMRT 計畫研究、健康</text>
+<text x="64" y="434.13" font-size="13" fill="#345963">志願者）。｜劑量學</text>
+<text x="64" y="460.13" font-size="13" fill="#345963">婦癌計畫研究（29 人，同一批人各做兩套計畫）：滿膀胱把膀胱自身的整體劑量壓</text>
+<text x="64" y="481.13" font-size="13" fill="#345963">下來，D50 由中位 94% 降到 87%。｜劑量學</text>
+<g filter="url(#sh)"><rect x="44" y="521.8" width="532" height="267.8" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="541.8" width="492" height="34" rx="14.98" fill="#00806B"/>
+<text x="310" y="565.26" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">空膀胱流程</text>
+<text x="310" y="596.8" font-size="13" fill="#6B8084" text-anchor="middle">整顆膀胱要照的計畫（肌肉侵犯型膀胱癌）</text>
+<text x="64" y="624.8" font-size="16" fill="#123641" font-weight="800">空的膀胱體積比較穩定，照野也比較小</text>
+<text x="64" y="651.93" font-size="13" fill="#345963">同一批人的空膀胱指令：膀胱體積平均 73 立方公分、標準差 58——變異只有滿膀胱</text>
+<text x="64" y="672.93" font-size="13" fill="#345963">那一格的三分之一。｜幾何</text>
+<text x="64" y="698.93" font-size="13" fill="#345963">40 人、55 Gy 分 20 次的流程稽核：空膀胱組在模擬電腦斷層與治療當天影像之間</text>
+<text x="64" y="719.93" font-size="13" fill="#345963">的膀胱體積沒有顯著差異（p=0.11），滿膀胱組有（p 小於 0.05）。｜幾何</text>
+<text x="64" y="745.93" font-size="13" fill="#345963">同一份稽核：在標靶涵蓋沒有差別的前提下，接受 25.0 到 45.8 Gy 的身體體積在</text>
+<text x="64" y="766.93" font-size="13" fill="#345963">空膀胱組顯著較小（p 小於 0.05）。｜劑量學</text>
+<rect x="44" y="807.6" width="532" height="100.08" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="64" y="841.14" font-size="14.72" fill="#8F7418" font-weight="800">兩種流程都存在，這是專家層級的事實</text>
+<text x="64" y="866.06" font-size="13" fill="#345963">法國兩個學會的專家共識，34 個議題有 30 項達成共識；沒有共識的 4 項之一，正</text>
+<text x="64" y="887.06" font-size="13" fill="#345963">是「空膀胱與滿膀胱流程的標靶邊界該怎麼定」。</text>
+<text x="44" y="943.68" font-size="16" fill="#123641" font-weight="800">「越滿越好」在臨床終點上被打回票：300 到 500 毫升那一格</text>
+<rect x="44" y="960.88" width="532" height="40" rx="12" fill="#E9E2CF" stroke="#9A9282" stroke-width="2"/>
+<text x="310" y="986.88" font-size="16" fill="#123641" font-weight="800" text-anchor="middle">低於 300 毫升</text>
+<text x="48" y="1023.68" font-size="13" fill="#345963">膀胱 V30 與 V40 最高、小腸 V40 最高；晚期放射性膀胱炎最多。</text>
+<rect x="44" y="1041.88" width="532" height="40" rx="12" fill="#C9A83E" stroke="#A98722" stroke-width="2.5"/>
+<text x="310" y="1067.88" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">300 到 500 毫升</text>
+<text x="48" y="1104.68" font-size="13" fill="#345963">放射性膀胱炎發生率顯著最低（p=0.0396）。</text>
+<rect x="44" y="1122.88" width="532" height="40" rx="12" fill="#E9E2CF" stroke="#9A9282" stroke-width="2"/>
+<text x="310" y="1148.88" font-size="16" fill="#123641" font-weight="800" text-anchor="middle">高於 500 毫升</text>
+<text x="48" y="1185.68" font-size="13" fill="#345963">膀胱與直腸 2 立方公分處的劑量最高；晚期放射性直腸炎最多。</text>
+<text x="44" y="1215.4" font-size="12.8" fill="#6B8084" font-weight="600">族群標籤：子宮頸癌術後放療、兩份單中心回溯世代（142 人與 71 人），依模擬當</text>
+<text x="44" y="1235.4" font-size="12.8" fill="#6B8084" font-weight="600">天的膀胱容積分組。｜臨床終點——這是全圖唯一的臨床終點那一格。</text>
+<g filter="url(#sh)"><rect x="44" y="1271.4" width="532" height="179.8" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="1307.4" font-size="16" fill="#123641" font-weight="800">膀胱一動，器官就跟著動</text>
+<text x="64" y="1334.53" font-size="13" fill="#345963">膀胱與直腸的充盈改變，讓子宮體在頭尾向位移中位 7 毫米（95% 信賴區間 3 到</text>
+<text x="64" y="1355.53" font-size="13" fill="#345963">15 毫米）。｜幾何</text>
+<text x="64" y="1381.53" font-size="13" fill="#345963">子宮底的平均三維位置變化 26.1±10.8 毫米（子宮頸癌，13 人）。｜幾何</text>
+<text x="64" y="1407.53" font-size="13" fill="#345963">模擬那天憋得越大的人，療程中掉得越多（相關係數 −0.69）——一開始就衝到極限，</text>
+<text x="64" y="1428.53" font-size="13" fill="#345963">反而最難複製。｜幾何</text>
+<text x="44" y="1465.2" font-size="12.8" fill="#6B8084" font-weight="600">兩層標籤不可混：體積、位移、V15 與 D50 是幾何與劑量學終點；只有 300 到 500</text>
+<text x="44" y="1485.2" font-size="12.8" fill="#6B8084" font-weight="600">毫升那一格是臨床終點（晚期膀胱炎與直腸炎的發生率）。</text>
+<text x="44" y="1511.2" font-size="12.8" fill="#6B8084" font-weight="600">憋不住、解不乾淨要說出來，不要硬撐；療程後段裝不住是被量到的常態，團隊依影</text>
+<text x="44" y="1531.2" font-size="12.8" fill="#6B8084" font-weight="600">像調整你的準備方式，不是你做錯。</text>
+<text x="44" y="1569.2" font-size="12" fill="#6B8084">示意圖，依 MESORECT 研究 2026、Guel 2024、Khalifa 2021、Buchali 1999、Ahmad</text>
+<text x="44" y="1589.2" font-size="12" fill="#6B8084">2011、Nijkamp 2012、Byun 2020、Wu 2026 與 Wang 2025 重繪</text>
+<text x="44" y="1609.2" font-size="12" fill="#6B8084">各研究的癌別、流程、劑量與終點不同，格與格之間的數字不可直接互比</text>
+  </g>
+</svg>

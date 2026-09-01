@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1596.15" viewBox="0 0 1440 1596.15" role="img" aria-labelledby="t d">
+  <title id="t">皮膚：分級線就畫在皺摺上</title>
+  <desc id="d">示意圖：骨盆腔放射治療的皮膚反應，位置收斂到皺摺與摩擦處，風險軸是離肛門口的距離。分級的分界線就畫在皺摺上——第 2 級是斑塊狀的濕性脫屑，多半侷限於皮膚的皺摺與摺痕處；第 3 級是濕性脫屑出現在皺摺與摺痕以外的地方。所以每天要看的不是有沒有紅，是有沒有跑出皺摺。本圖不點名任何一道解剖構造，因為更細的部位名稱查無逐字來源。風險軸畫的是離肛門口有多遠：腫瘤距離肛門口 5 公分以內，勝算比 2.86；同方向的其他因子有未做造口 3.12、總劑量超過 50 Gy 2.59、合併同步化療 2.73；劑量的轉折點落在 50 Gy，超過之後每多 5 Gy 嚴重皮膚炎的風險增加 29%。高風險癌別是肛門癌與外陰癌，理由是照野本身就淺；肥胖造成的皮膚皺摺會增加該處的皮膚劑量。這一組數字的族群標籤是直腸與肛門癌、50 篇 4,892 人的統合分析。量級的部分：直腸與肛門癌的放射性皮膚炎總發生率 58.7%、第 3 級以上 12.3%、濕性脫屑 34.5%；另一份 63 人的單中心隨機試驗總發生率是 100%、嚴重者 36.5%，差別在分母與評估密度；全放療族群最多 95% 會出現急性放射性皮膚炎是全部位、全癌別的上限式敘述，不是骨盆腔的行情。時間畫成一條沒有刻度的區間帶：護理指引寫反應通常在開始治療後 1 到 4 週出現、可能在結束後持續數週，ESTRO 寫療程超過 4 到 5 週會延後恢復開始的時間；第幾週會紅、第幾週會破、幾週後退乾淨查無骨盆腔專屬來源，乳房放療的曲線不可挪用，所以這條帶不標刻度。圖上另有一格寫明已經超出保養品範圍的狀況：破皮、水疱、滲液在護理指引的分級與行動對照表裡被標為緊急，需在 24 小時內接受醫療評估；感染徵象四項是疼痛與腫脹擴散到治療範圍以外、化膿性分泌物、傷口臭味、發燒；已經開放的傷口該敷什麼是醫療端看過之後才做的決定，不要自己在藥局挑一種貼上去；骨盆腔療程的條件是治療團隊幾乎天天見得到，下一次躺上治療床時說出來就成立。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1596.15" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">SKIN — FOLDS AND FRICTION, NOT A LIST OF SITES</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">皮膚：分級線就畫在皺摺上</text>
+<text x="84" y="194" font-size="21" fill="#527078">可引的位置只到「皺摺與摩擦處」——更細的部位名稱查無逐字來源，本圖不點名。</text>
+<text x="84" y="224" font-size="21" fill="#527078">所以風險軸畫的不是部位，是「離肛門口有多遠」。</text>
+<g filter="url(#sh)"><rect x="84" y="274" width="578.76" height="434.2" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="319" font-size="19" fill="#123641" font-weight="800">分級的分界線，就是皺摺</text>
+<g transform="translate(152.88,336.5) scale(1.05)">
+<rect x="10" y="20" width="400" height="164" rx="30" fill="#F4EFE3" stroke="#9A9282" stroke-width="2.5"/>
+<path d="M 52,64 C 106,40 150,92 206,64" fill="none" stroke="#C9A83E" stroke-width="13" stroke-linecap="round" opacity="0.95"/>
+<path d="M 60,120 C 120,98 158,146 214,122" fill="none" stroke="#C9A83E" stroke-width="13" stroke-linecap="round" opacity="0.95"/>
+<path d="M 48,158 C 104,140 148,178 200,156" fill="none" stroke="#C9A83E" stroke-width="13" stroke-linecap="round" opacity="0.95"/>
+<rect x="264" y="52" width="120" height="106" rx="22" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="7 6" opacity="0.85"/>
+<text x="128" y="200" font-size="14.5" fill="#8F7418" font-weight="800" text-anchor="middle">皺摺與摩擦處＝第 2 級</text>
+<text x="324" y="200" font-size="14.5" fill="#8F7418" font-weight="800" text-anchor="middle">跑出皺摺＝第 3 級</text>
+</g>
+<text x="110" y="589.92" font-size="14.2" fill="#345963">第 2 級：斑塊狀的濕性脫屑，多半侷限於皮膚的皺摺與摺痕處。</text>
+<text x="110" y="618.92" font-size="14.2" fill="#345963">第 3 級：濕性脫屑出現在皺摺與摺痕以外的地方。</text>
+<text x="110" y="647.92" font-size="14.2" fill="#345963">所以每天要看的不是「有沒有紅」，是「有沒有跑出皺摺」。</text>
+<text x="110" y="676.92" font-size="14.2" fill="#345963">本圖不點名任何一道解剖構造：更細的部位名稱查無逐字來源，只寫皺摺與摩擦處。</text>
+<g filter="url(#sh)"><rect x="698.76" y="274" width="657.24" height="434.2" rx="18" fill="#FFFFFF"/></g>
+<text x="724.76" y="319" font-size="19" fill="#123641" font-weight="800">風險軸：離肛門口有多遠</text>
+<rect x="734.76" y="340.5" width="210" height="34" rx="12" fill="#C9A83E" opacity="0.55" stroke="#A98722" stroke-width="2"/>
+<text x="839.76" y="362.5" font-size="14" fill="#8F7418" font-weight="800" text-anchor="middle">5 公分以內：勝算比 2.86</text>
+<line x1="734.76" y1="394.5" x2="1324" y2="394.5" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1324" y1="394.5" x2="1314.3" y2="399.7" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1324" y1="394.5" x2="1314.3" y2="389.3" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="734.76" cy="394.5" r="7" fill="#123641"/>
+<line x1="944.76" y1="374.5" x2="944.76" y2="390.5" stroke="#9A9282" stroke-width="1.6" stroke-dasharray="4 4"/>
+<text x="734.76" y="418.5" font-size="14" fill="#123641" font-weight="800">肛門口</text>
+<text x="1324" y="418.5" font-size="14" fill="#6B8084" font-weight="600" text-anchor="end">距離變遠，風險下降</text>
+<text x="724.76" y="459.22" font-size="14.2" fill="#345963">腫瘤距離肛門口 5 公分以內：勝算比 2.86。</text>
+<text x="724.76" y="488.22" font-size="14.2" fill="#345963">同方向的其他因子：未做造口 3.12、總劑量超過 50 Gy 2.59、合併同步化療 2.73。</text>
+<text x="724.76" y="517.22" font-size="14.2" fill="#345963">劑量的轉折點落在 50 Gy——超過之後每多 5 Gy，嚴重皮膚炎的風險增加 29%。</text>
+<text x="724.76" y="546.22" font-size="14.2" fill="#345963">高風險癌別：肛門癌與外陰癌被點名（照野本身就淺）；肥胖造成的皮膚皺摺會增加該處的皮</text>
+<text x="724.76" y="570.22" font-size="14.2" fill="#345963">膚劑量。</text>
+<text x="724.76" y="599.22" font-size="14.2" fill="#345963">族群標籤：直腸與肛門癌、50 篇 4,892 人的系統性回顧與統合分析。｜臨床終點・統合</text>
+<g filter="url(#sh)"><rect x="84" y="734.2" width="1272" height="163.45" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="779.2" font-size="19" fill="#123641" font-weight="800">先給量級，再談程度</text>
+<text x="110" y="810.5" font-size="14.2" fill="#345963">直腸與肛門癌（骨盆腔最可比的族群，50 篇、4,892 人）：放射性皮膚炎總發生率 58.7%（95% 信賴區間 55.2 到 62.1）、第 3 級以上 12.3%、濕性脫屑 34.5%。</text>
+<text x="110" y="839.5" font-size="14.2" fill="#345963">另一份 63 人的單中心隨機試驗總發生率是 100%、嚴重者 36.5%——不是文獻在打架，是分母與「看得多勤」不同（每次護理門診逐次評估）。</text>
+<text x="110" y="868.5" font-size="14.2" fill="#345963">全放療族群的上限式敘述是最多 95% 會出現急性放射性皮膚炎；那是全部位、全癌別的句子，不是骨盆腔的行情。</text>
+<g filter="url(#sh)"><rect x="84" y="923.65" width="1272" height="250.5" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="968.65" font-size="19" fill="#123641" font-weight="800">時間：只有一段區間，所以不標刻度</text>
+<rect x="110" y="1004.15" width="1220" height="40" rx="14" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="8 7" opacity="0.9"/>
+<text x="110" y="996.15" font-size="14" fill="#6B8084" font-weight="700">開始治療</text>
+<text x="1330" y="996.15" font-size="14" fill="#6B8084" font-weight="700" text-anchor="end">療程結束之後數週</text>
+<text x="110" y="1084.87" font-size="14.2" fill="#345963">護理指引的定義句：反應通常在開始治療後 1 到 4 週出現，並且可能在治療結束後持續數週。</text>
+<text x="110" y="1113.87" font-size="14.2" fill="#345963">ESTRO 的第二個錨：療程長度超過 4 到 5 週，會延後皮膚反應開始恢復的時間——骨盆腔的療程多半落在五到六週。</text>
+<text x="110" y="1142.87" font-size="14.2" fill="#345963">本圖不標刻度：第幾週會紅、第幾週會破、幾週後退乾淨，查無骨盆腔專屬來源；乳房放療那條「結束後約兩週達到高峰」的曲線不可挪用。</text>
+<rect x="84" y="1200.15" width="1272" height="220" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<rect x="110" y="1226.15" width="1220" height="40" rx="14" fill="#8F7418"/>
+<text x="720" y="1252.15" font-size="18.05" fill="#FFFFFF" font-weight="800" text-anchor="middle">這一格已經超出保養品的範圍</text>
+<text x="110" y="1298.15" font-size="15" fill="#345963">破皮、水疱、滲液：護理指引在分級與行動的對照表裡，把第 2 級到第 3 級標為「緊急：需在 24 小時內接受醫療評估」。</text>
+<text x="110" y="1328.15" font-size="15" fill="#345963">感染徵象四項，從最容易被忽略的排起：疼痛與腫脹擴散到治療範圍以外、傷口滲出化膿性分泌物、傷口出現臭味、發燒。</text>
+<text x="110" y="1358.15" font-size="15" fill="#345963">已經開放的傷口該敷什麼、隔多久換一次，是醫療端看過之後才做的決定——不要在藥局自己挑一種貼上去。</text>
+<text x="110" y="1388.15" font-size="15" fill="#345963">骨盆腔的療程給了你一個條件：治療團隊你幾乎天天見得到，下一次躺上治療床時說出來就成立，不必等回診那天。</text>
+<text x="84" y="1442.15" font-size="14.5" fill="#6B8084" font-weight="600">位置只標到皺摺與摩擦處，時間只標一段區間——這兩處的留白是真的空白，不是省略。</text>
+<text x="84" y="1472.15" font-size="14.5" fill="#6B8084" font-weight="600">會陰皮膚為什麼最難顧、洗澡禁令是怎麼被隨機試驗推翻的，另有專篇；坐浴是照顧皮膚的做法，不是治療腸子的方法。</text>
+<text x="84" y="1522.15" font-size="16" fill="#6B8084">示意圖，依 BC Cancer 放射性皮膚炎症狀處理護理指引、Forde 2025（ESTRO 放射性皮膚炎實務建議）與 He 2026（直腸肛門癌統合分析）重繪</text>
+<text x="84" y="1546.15" font-size="16" fill="#6B8084">分級與行動的對照、感染徵象四項採護理指引原文措辭；位置收斂到皺摺與摩擦處，更細的部位名稱查無逐字來源</text>
+  </g>
+</svg>

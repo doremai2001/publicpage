@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1781.18" viewBox="0 0 620 1781.18" role="img" aria-labelledby="t d">
+  <title id="t">同一塊解剖區，五種癌別的鄰居都一樣</title>
+  <desc id="d">示意圖（非實際解剖比例）：骨盆腔器官與五個癌別照野的鄰接關係。圖上畫出同一塊骨盆腔裡的器官——上方是小腸、前側是膀胱、中間是子宮與子宮頸、後側是直腸與乙狀結腸、膀胱下方是攝護腺，兩側是骨盆骨與骨髓、以及沿著骨盆壁的骨盆淋巴區；同一張圖同時標了兩性的器官，實際上不會同時存在。五個癌別各一列。膀胱癌：標靶是膀胱本身，保留膀胱的三聯療法先做內視鏡刮除、再合併放療與化療；鄰居是直腸、小腸與骨盆淋巴區，整顆膀胱要照時很多醫院用的是空膀胱流程；膀胱癌另有專題規劃中。子宮頸癌：標靶是子宮頸、子宮與骨盆淋巴區，外照之後多半還有近接治療；鄰居是前方的膀胱、後方的直腸與乙狀結腸、上方的小腸。子宮內膜癌：術後照骨盆腔或只照陰道殘端，高中度風險的隨機試驗顯示只照陰道就夠；照的範圍不同，鄰居就不同；子宮內膜癌另有專題規劃中。直腸癌：術前照直腸與腸繫膜區、骨盆淋巴區；鄰居是小腸與膀胱，這也是裝滿的膀胱把小腸頂出照野的那一格。攝護腺癌：標靶是攝護腺，視病情加上精囊或骨盆淋巴區；鄰居是緊貼在後的直腸前壁與上方的膀胱頸。圖的另一格說明同一組器官各自被算的東西不同：小腸有明確閾值，腹膜腔勾畫 V45 小於 195 立方公分或逐段腸圈 V15 小於 120 立方公分；腸道的 EMBRACE-II 規劃目標是 V40 小於 250 立方公分、V30 小於 500 立方公分；直腸有完整的劑量體積模型；膀胱那一格的證據最弱，QUANTEC 的膀胱章自己寫部分器官照射的資料可疑，因為沒有把膀胱會動這件事算進去，所以本圖不給膀胱的劑量門檻。五癌別各自要不要放療、照幾次、要不要合併化療，是各自專題的事，本圖只畫誰在誰旁邊。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1781.18" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">PELVIS — ONE ANATOMY, FIVE CANCERS</text>
+<text x="44" y="112" font-size="28" fill="#123641" font-weight="800" class="r">同一塊解剖區，五種癌別的鄰居都一樣</text>
+<text x="44" y="154" font-size="14.5" fill="#527078">五種診斷書完全不同的癌症，照的是同一塊骨盆腔；被掃到的也是同一組器官——</text>
+<text x="44" y="176" font-size="14.5" fill="#527078">膀胱、直腸、小腸、骨髓。</text>
+<text x="44" y="198" font-size="14.5" fill="#527078">示意圖（非實際解剖比例）：畫的是誰在誰旁邊，不是照野範圍。</text>
+<g filter="url(#sh)"><rect x="44" y="236" width="532" height="351.38" rx="18" fill="#FFFFFF"/></g>
+<g transform="translate(64,256) scale(0.75)">
+<path d="M 46,52 C 14,138 46,264 138,306" fill="none" stroke="#9A9282" stroke-width="15" stroke-linecap="round" opacity="0.42"/>
+<path d="M 520,52 C 552,138 520,264 428,306" fill="none" stroke="#9A9282" stroke-width="15" stroke-linecap="round" opacity="0.42"/>
+<path d="M 84,68 C 60,146 88,244 158,284" fill="none" stroke="#A98722" stroke-width="7" stroke-dasharray="9 8" stroke-linecap="round" opacity="0.75"/>
+<path d="M 482,68 C 506,146 478,244 408,284" fill="none" stroke="#A98722" stroke-width="7" stroke-dasharray="9 8" stroke-linecap="round" opacity="0.75"/>
+<ellipse cx="283" cy="80" rx="146" ry="46" fill="#E9E2CF" stroke="#9A9282" stroke-width="2.5"/>
+<path d="M 168,86 C 196,54 216,110 246,78 C 276,46 296,106 326,76 C 356,46 374,102 400,80" fill="none" stroke="#9A9282" stroke-width="2.5" opacity="0.8"/>
+<ellipse cx="196" cy="186" rx="74" ry="56" fill="#DCE6F3" stroke="#5C77C4" stroke-width="2.5"/>
+<path d="M 272,156 C 264,118 348,112 350,158 C 352,192 322,202 316,214 L 316,256 L 294,256 L 294,214 C 288,202 274,192 272,156 Z" fill="#EFE3C8" stroke="#A98722" stroke-width="2.5"/>
+<path d="M 386,122 C 362,158 368,226 388,268 L 424,268 C 406,226 402,158 424,122 Z" fill="#E9E2CF" stroke="#6B8084" stroke-width="2.5"/>
+<circle cx="196" cy="270" r="27" fill="#DCE6F3" stroke="#5C77C4" stroke-width="2.5"/>
+<line x1="306" y1="276" x2="306" y2="262" stroke="#9A9282" stroke-width="1.6"/>
+<line x1="502" y1="182" x2="430" y2="192" stroke="#9A9282" stroke-width="1.6"/>
+<text x="283" y="87" font-size="21.76" fill="#8F7418" font-weight="800" text-anchor="middle">小腸</text>
+<text x="196" y="192" font-size="21.76" fill="#3C55A0" font-weight="800" text-anchor="middle">膀胱</text>
+<text x="306" y="296" font-size="19.2" fill="#8F7418" font-weight="800" text-anchor="middle">子宮與子宮頸</text>
+<text x="508" y="187" font-size="19.2" fill="#4E6469" font-weight="800">直腸與乙狀結腸</text>
+<text x="196" y="320" font-size="19.2" fill="#3C55A0" font-weight="800" text-anchor="middle">攝護腺</text>
+<text x="36" y="26" font-size="18.56" fill="#6B8084" font-weight="700">骨盆骨與骨髓</text>
+<text x="624" y="26" font-size="18.56" fill="#8F7418" font-weight="700" text-anchor="end">骨盆淋巴區</text>
+<text x="96" y="348" font-size="17.92" fill="#6B8084" font-weight="600" text-anchor="middle">身體前側</text>
+<text x="470" y="348" font-size="17.92" fill="#6B8084" font-weight="600" text-anchor="middle">身體後側</text>
+<line x1="150" y1="344" x2="420" y2="344" stroke="#6B8084" stroke-width="2" stroke-linecap="round"/>
+<line x1="420" y1="344" x2="410.3" y2="349.2" stroke="#6B8084" stroke-width="2" stroke-linecap="round"/>
+<line x1="420" y1="344" x2="410.3" y2="338.8" stroke="#6B8084" stroke-width="2" stroke-linecap="round"/>
+</g>
+<text x="64" y="547.76" font-size="13" fill="#6B8084">示意圖（非實際解剖比例）。同一張圖上同時標了兩性的器官，實際上不會同時存</text>
+<text x="64" y="568.76" font-size="13" fill="#6B8084">在；器官的相對位置為示意。</text>
+<g filter="url(#sh)"><rect x="44" y="605.38" width="532" height="154" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="625.38" width="492" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="310" y="648.84" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">膀胱癌</text>
+<text x="310" y="680.38" font-size="13" fill="#6B8084" text-anchor="middle">另有專題規劃中</text>
+<text x="64" y="710.71" font-size="13" fill="#345963">標靶：保留膀胱的三聯療法照的是膀胱本身——先做內視鏡刮除，再合併放療與化療。</text>
+<text x="64" y="736.71" font-size="13" fill="#345963">鄰居：直腸、小腸、骨盆淋巴區。整顆膀胱要照時，很多醫院用的是空膀胱流程。</text>
+<g filter="url(#sh)"><rect x="44" y="773.38" width="532" height="129" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="793.38" width="492" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="310" y="816.84" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">子宮頸癌</text>
+<text x="64" y="853.71" font-size="13" fill="#345963">標靶：子宮頸、子宮與骨盆淋巴區，外照之後多半還有近接治療。</text>
+<text x="64" y="879.71" font-size="13" fill="#345963">鄰居：膀胱在前、直腸與乙狀結腸在後、小腸在上——四個器官全在照野邊上。</text>
+<g filter="url(#sh)"><rect x="44" y="916.38" width="532" height="154" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="936.38" width="492" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="310" y="959.84" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">子宮內膜癌</text>
+<text x="310" y="991.38" font-size="13" fill="#6B8084" text-anchor="middle">另有專題規劃中</text>
+<text x="64" y="1021.71" font-size="13" fill="#345963">標靶：術後照骨盆腔，或只照陰道殘端——高中度風險的隨機試驗顯示只照陰道就夠。</text>
+<text x="64" y="1047.71" font-size="13" fill="#345963">鄰居：照的範圍不同，鄰居就不同；這正是「照哪裡」要分層決定的原因。</text>
+<g filter="url(#sh)"><rect x="44" y="1084.38" width="532" height="129" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="1104.38" width="492" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="310" y="1127.84" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">直腸癌</text>
+<text x="64" y="1164.71" font-size="13" fill="#345963">標靶：術前照直腸與腸繫膜區、骨盆淋巴區。</text>
+<text x="64" y="1190.71" font-size="13" fill="#345963">鄰居：小腸與膀胱。裝滿的膀胱把小腸頂出照野，道理就在這一格。</text>
+<g filter="url(#sh)"><rect x="44" y="1227.38" width="532" height="129" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="1247.38" width="492" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="310" y="1270.84" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">攝護腺癌</text>
+<text x="64" y="1307.71" font-size="13" fill="#345963">標靶：攝護腺，視病情加上精囊或骨盆淋巴區。</text>
+<text x="64" y="1333.71" font-size="13" fill="#345963">鄰居：直腸前壁緊貼在後、膀胱頸在上——兩個器官幾乎沒有距離。</text>
+<g filter="url(#sh)"><rect x="44" y="1378.38" width="532" height="226.8" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="1414.38" font-size="16" fill="#123641" font-weight="800">同一組器官，各自被算的東西不同</text>
+<text x="64" y="1441.51" font-size="13" fill="#345963">小腸：有明確的閾值——腹膜腔勾畫 V45 小於 195 立方公分，或逐段腸圈 V15 小於</text>
+<text x="64" y="1462.51" font-size="13" fill="#345963">120 立方公分。｜劑量學</text>
+<text x="64" y="1488.51" font-size="13" fill="#345963">腸道：EMBRACE-II 的規劃目標寫 V40 小於 250 立方公分、V30 小於 500 立</text>
+<text x="64" y="1509.51" font-size="13" fill="#345963">方公分。｜規劃目標</text>
+<text x="64" y="1535.51" font-size="13" fill="#345963">直腸：有完整的劑量體積模型可以估風險。｜劑量學</text>
+<text x="64" y="1561.51" font-size="13" fill="#345963">膀胱：這一格的證據最弱。QUANTEC 的膀胱章自己寫，部分器官照射的資料「可</text>
+<text x="64" y="1582.51" font-size="13" fill="#345963">疑」，因為沒有把膀胱會動這件事算進去——所以本圖不給膀胱的劑量門檻。</text>
+<text x="44" y="1619.18" font-size="12.8" fill="#6B8084" font-weight="600">五癌別各自要不要放療、照幾次、要不要合併化療，是各自專題的事；本圖只畫「誰</text>
+<text x="44" y="1639.18" font-size="12.8" fill="#6B8084" font-weight="600">在誰旁邊」。膀胱癌與子宮內膜癌另有專題規劃中。</text>
+<text x="44" y="1665.18" font-size="12.8" fill="#6B8084" font-weight="600">你的照野由你的醫師依分期與影像決定，本圖不代表任何一個人的實際照野。</text>
+<text x="44" y="1703.18" font-size="12" fill="#6B8084">示意圖（非實際解剖比例），依 Kavanagh 2010、Michalski 2010、Viswanathan 2010</text>
+<text x="44" y="1723.18" font-size="12" fill="#6B8084">（QUANTEC 三章）與 Pötter 2018（EMBRACE-II 規劃目標）重繪</text>
+<text x="44" y="1743.18" font-size="12" fill="#6B8084">各癌別的標靶與鄰接關係依既有隨機試驗與指引的照射範圍描述繪製；器官位置為示意</text>
+  </g>
+</svg>

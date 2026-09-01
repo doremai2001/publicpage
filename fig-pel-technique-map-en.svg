@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2472.72" viewBox="0 0 1440 2472.72" role="img" aria-labelledby="t d">
+  <title id="t">Modulation, image guidance, particle: three layers that stack</title>
+  <desc id="d">Schematic map of technique in pelvic radiotherapy as three layers that stack: modulation (fixed-field IMRT and rotational VMAT or TOMO), image guidance (a layer added on top of any cell) and particle (photons or protons). Where a patient lands is decided by indication rather than budget: target shape, the extent of the field and individual anatomy decide the cell, and for anything with no official published figure the hospital's finance office is the place to ask. The first cell is standard IMRT with daily IGRT, the NHI-covered general technique, and it carries real numbers rather than adjectives: in a randomised trial of 300 patients treated after surgery for cervical cancer with 50 Gy in 25 fractions, late gastrointestinal toxicity of grade 2 or worse at 3 years was 21.1% against 42.4% with 3D conformal radiotherapy, hazard ratio 0.46, the trial arm being registered as image-guided radiotherapy delivered on helical tomotherapy; in a randomised patient-reported trial after surgery for endometrial or cervical cancer, 33.7% reported frequent or almost constant diarrhoea at the end of treatment against 51.9% with the standard four-field technique, and at one year high-frequency diarrhoea was 5.8% against 15.1%; in 52 evaluable patients given dose-painted IMRT with chemotherapy for anal cancer, acute gastrointestinal toxicity of grade 3 or worse was 21% and skin toxicity 23%, a single arm against a historical control; in 308 patients given 74.8 Gy for prostate cancer at one centre, 5-year cumulative late toxicity of grade 2 or worse was 7.3% urinary and 6.2% gastrointestinal; and on field size, a consistent contouring protocol with IMRT, daily image guidance and a 5 mm margin brings the mean volume receiving 43 Gy to about 1,500 cc, which is dosimetric. The second cell is rotational delivery, with helical tomotherapy and VMAT placed together and not ranked against each other, because results go both ways: Taiwanese data in 93 patients having chemoradiotherapy for cervical cancer give median rectal V30 of 56.4%, 86.5% and 97.5% and acute diarrhoea of grade 2 or worse of 10.0%, 54.5% and 66.7%, from a single retrospective centre; Japanese retrospective data in 308 men with prostate cancer give late gastrointestinal toxicity of grade 2 or worse of 0% with VMAT, 7.3% with five-field IMRT and 11% with helical tomotherapy; the only randomised pelvic trial including helical tomotherapy compares it with the older technique in 123 men with high-risk prostate cancer at a median follow-up of 161 months, where late rectal toxicity of grade 2 or worse was 8.3% with 3D conformal radiotherapy against 11.1% with helical tomotherapy, showing no difference; and no randomised clinical comparison of helical tomotherapy against standard IMRT was found. The third cell is protons: in a pelvic field intensity-modulated proton therapy leaves roughly half as much tissue volume receiving a low dose as photon modulation, and a planning comparison after gynaecological surgery gives bone marrow V10 of 58% against 86% and small bowel V20 of 21% against 56%, all dosimetric; the only randomised comparison that has read out, in prostate cancer, showed no difference in quality-of-life outcomes, its primary results paper is not yet published and only accounts in review articles can be cited; and the eligibility text of all three NHI proton codes begins with patients under nineteen years of age, so adult pelvic disease is entirely self-funded. The fourth cell is daily image guidance, the layer running across the map: the EMBRACE-II protocol states that with daily in-room imaging, bony fusion and couch correction the target margin can fall from 10 mm to 5 mm without compromising coverage, and the mean pelvic volume receiving 43 Gy falls from 2,500 cc to about 1,500 cc, which is a dosimetric and volume endpoint rather than a toxicity endpoint; in prostate series using real-time imaging, roughly 12% to 17% of fractions were interrupted for a correction. The footnote warns that bone marrow, small bowel and volume figures are dosimetric while diarrhoea and toxicity-grade percentages are clinical endpoints, that the two cannot be added and that cells are not directly comparable.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2472.72" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">TECHNIQUE MAP — A MAP, NOT A PRICE LIST</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">Modulation, image guidance, particle: three layers</text>
+<text x="84" y="202" font-size="44" fill="#123641" font-weight="800" class="r">that stack</text>
+<text x="84" y="248" font-size="21" fill="#527078">Modulation is how the machine slices the dose on its way in: fixed-field IMRT and rotational delivery (VMAT,</text>
+<text x="84" y="278" font-size="21" fill="#527078">TOMO) both sit in that layer.</text>
+<text x="84" y="308" font-size="21" fill="#527078">IGRT is not a fourth technique but a layer added on top of any cell; protons change the particle that goes in.</text>
+<line x1="114" y1="402" x2="1332" y2="402" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1332" y1="402" x2="1322.3" y2="407.2" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1332" y1="402" x2="1322.3" y2="396.8" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="194" cy="402" r="7" fill="#123641"/>
+<text x="194" y="384" font-size="15.5" fill="#123641" font-weight="800" text-anchor="middle">fixed-field IMRT</text>
+<circle cx="735" cy="402" r="7" fill="#123641"/>
+<text x="735" y="384" font-size="15.5" fill="#123641" font-weight="800" text-anchor="middle">rotational VMAT and TOMO</text>
+<circle cx="1276" cy="402" r="7" fill="#123641"/>
+<text x="1276" y="384" font-size="15.5" fill="#123641" font-weight="800" text-anchor="middle">protons</text>
+<text x="84" y="436" font-size="14.5" fill="#6B8084">Each step shapes the dose more tightly — but tighter does not mean every cell wins; image guidance runs across the whole map</text>
+<rect x="84" y="476" width="1272" height="122.22" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="518.08" font-size="17.48" fill="#8F7418" font-weight="800">Where you land is decided by indication, not by budget</text>
+<text x="110" y="546.94" font-size="14.2" fill="#345963">Target shape, the extent of the field and your own anatomy decide the cell; price comes after those two questions. For anything with no official published</text>
+<text x="110" y="570.94" font-size="14.2" fill="#345963">figure, ask the hospital's finance office; prices circulating in the media are not cited.</text>
+<g filter="url(#sh)"><rect x="84" y="624.22" width="1272" height="422.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="650.22" width="272" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="246" y="673.68" font-size="13.48" fill="#FFFFFF" font-weight="800" text-anchor="middle">Standard IMRT with daily IGRT</text>
+<text x="246" y="710.42" font-size="14.2" fill="#6B8084" text-anchor="middle">the NHI-covered general technique</text>
+<text x="426" y="669.22" font-size="19" fill="#123641" font-weight="800">No adjectives in this cell — it is filled with real numbers</text>
+<text x="426" y="703.44" font-size="14.2" fill="#345963">Cervical cancer after surgery (50 Gy in 25 fractions, 300 patients randomised): late gastrointestinal toxicity of grade</text>
+<text x="426" y="727.44" font-size="14.2" fill="#345963">2 or worse at 3 years 21.1% against 42.4% with 3D conformal radiotherapy, hazard ratio 0.46 (95% confidence interval</text>
+<text x="426" y="751.44" font-size="14.2" fill="#345963">0.29 to 0.73). | clinical endpoint, randomised — the trial arm is registered as image-guided radiotherapy delivered on</text>
+<text x="426" y="775.44" font-size="14.2" fill="#345963">helical tomotherapy</text>
+<text x="426" y="805.44" font-size="14.2" fill="#345963">Endometrial and cervical cancer after surgery (randomised, patient-reported): 33.7% reported frequent or almost</text>
+<text x="426" y="829.44" font-size="14.2" fill="#345963">constant diarrhoea at the end of treatment against 51.9% with the standard four-field technique; at one year,</text>
+<text x="426" y="853.44" font-size="14.2" fill="#345963">high-frequency diarrhoea 5.8% against 15.1%. | clinical endpoint, randomised</text>
+<text x="426" y="883.44" font-size="14.2" fill="#345963">Anal cancer (dose-painted IMRT with chemotherapy, 52 evaluable patients): acute gastrointestinal toxicity of grade 3</text>
+<text x="426" y="907.44" font-size="14.2" fill="#345963">or worse 21%, skin toxicity 23%. | clinical endpoint, single arm against historical control</text>
+<text x="426" y="937.44" font-size="14.2" fill="#345963">Prostate cancer at 74.8 Gy (308 patients, single centre): 5-year cumulative late toxicity of grade 2 or worse, urinary</text>
+<text x="426" y="961.44" font-size="14.2" fill="#345963">7.3% and gastrointestinal 6.2%. | clinical endpoint, retrospective</text>
+<text x="426" y="991.44" font-size="14.2" fill="#345963">Field size (cervical cancer): with a consistent contouring protocol, IMRT, daily image guidance and a 5 mm margin, the</text>
+<text x="426" y="1015.44" font-size="14.2" fill="#345963">mean volume receiving 43 Gy is about 1,500 cc. | dosimetric</text>
+<g filter="url(#sh)"><rect x="84" y="1072.72" width="1272" height="416.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="1098.72" width="272" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="246" y="1122.18" font-size="15.48" fill="#FFFFFF" font-weight="800" text-anchor="middle">Rotational: TOMO and VMAT</text>
+<text x="246" y="1158.92" font-size="14.2" fill="#6B8084" text-anchor="middle">one cell, no ranking inside it</text>
+<text x="426" y="1117.72" font-size="19" fill="#123641" font-weight="800">Wins go both ways, depending on site, target shape and how the centre plans</text>
+<text x="426" y="1151.94" font-size="14.2" fill="#345963">One result favours helical tomotherapy and comes from Taiwan (93 patients having chemoradiotherapy for cervical</text>
+<text x="426" y="1175.94" font-size="14.2" fill="#345963">cancer, technique compared in the last 30): median rectal V30 56.4%, 86.5% and 97.5% for helical tomotherapy, VMAT and</text>
+<text x="426" y="1199.94" font-size="14.2" fill="#345963">3D conformal radiotherapy; acute diarrhoea of grade 2 or worse 10.0%, 54.5% and 66.7%. | single centre, retrospective,</text>
+<text x="426" y="1223.94" font-size="14.2" fill="#345963">small denominator</text>
+<text x="426" y="1253.94" font-size="14.2" fill="#345963">One result favours arc therapy and comes from Japan (308 patients with prostate cancer): late gastrointestinal</text>
+<text x="426" y="1277.94" font-size="14.2" fill="#345963">toxicity of grade 2 or worse 0% with VMAT, 7.3% with five-field IMRT and 11% with helical tomotherapy (p=0.025). |</text>
+<text x="426" y="1301.94" font-size="14.2" fill="#345963">retrospective</text>
+<text x="426" y="1331.94" font-size="14.2" fill="#345963">The only randomised pelvic trial that includes helical tomotherapy compares it with the older technique: 123 men with</text>
+<text x="426" y="1355.94" font-size="14.2" fill="#345963">high-risk prostate cancer and a median follow-up of 161 months, late rectal toxicity of grade 2 or worse 8.3% with 3D</text>
+<text x="426" y="1379.94" font-size="14.2" fill="#345963">conformal radiotherapy against 11.1% with helical tomotherapy (p=.83); the authors note the small sample and low</text>
+<text x="426" y="1403.94" font-size="14.2" fill="#345963">event rate. | clinical endpoint, randomised</text>
+<text x="426" y="1433.94" font-size="14.2" fill="#345963">A randomised clinical comparison of helical tomotherapy against standard IMRT: none found. This cell is not ranked,</text>
+<text x="426" y="1457.94" font-size="14.2" fill="#345963">not out of politeness, but because that control arm does not exist.</text>
+<g filter="url(#sh)"><rect x="84" y="1515.22" width="1272" height="344.5" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="1541.22" width="272" height="34" rx="14.98" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="246" y="1564.68" font-size="17.48" fill="#9A9282" font-weight="800" text-anchor="middle">Protons</text>
+<text x="246" y="1601.42" font-size="14.2" fill="#6B8084" text-anchor="middle">a different particle; entirely</text>
+<text x="246" y="1625.42" font-size="14.2" fill="#6B8084" text-anchor="middle">self-funded for adult pelvic disease</text>
+<text x="426" y="1560.22" font-size="19" fill="#123641" font-weight="800">The dose distribution is clear; the clinical cell has not read out</text>
+<text x="426" y="1594.44" font-size="14.2" fill="#345963">In a pelvic field, intensity-modulated proton therapy leaves roughly half as much tissue volume receiving a low dose (10</text>
+<text x="426" y="1618.44" font-size="14.2" fill="#345963">CGE or less) as photon modulation does, with no loss of target coverage. | dosimetric</text>
+<text x="426" y="1648.44" font-size="14.2" fill="#345963">Planning comparison after gynaecological surgery: bone marrow V10 58% against 86%, small bowel V20 21% against 56%. |</text>
+<text x="426" y="1672.44" font-size="14.2" fill="#345963">dosimetric</text>
+<text x="426" y="1702.44" font-size="14.2" fill="#345963">The only randomised comparison that has read out (in prostate cancer) showed no difference in quality-of-life</text>
+<text x="426" y="1726.44" font-size="14.2" fill="#345963">outcomes; the primary results paper is not yet published, so only accounts in review articles can be cited. | clinical</text>
+<text x="426" y="1750.44" font-size="14.2" fill="#345963">endpoint, randomised</text>
+<text x="426" y="1780.44" font-size="14.2" fill="#345963">Status in Taiwan: the eligibility text of all three NHI proton codes begins with patients under nineteen years of age,</text>
+<text x="426" y="1804.44" font-size="14.2" fill="#345963">and the eight adult proton items in the full schedule are all marked as HTA items with zero points — adult pelvic disease</text>
+<text x="426" y="1828.44" font-size="14.2" fill="#345963">is entirely self-funded.</text>
+<g filter="url(#sh)"><rect x="84" y="1885.72" width="1272" height="271" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="1911.72" width="272" height="34" rx="14.98" fill="#00806B"/>
+<text x="246" y="1935.18" font-size="17.48" fill="#FFFFFF" font-weight="800" text-anchor="middle">Daily image guidance</text>
+<text x="246" y="1971.92" font-size="14.2" fill="#6B8084" text-anchor="middle">the layer that runs across the map</text>
+<text x="426" y="1930.72" font-size="19" fill="#123641" font-weight="800">Not a grade of machine, but confirming each day that you are lying in the right</text>
+<text x="426" y="1959.22" font-size="19" fill="#123641" font-weight="800">place</text>
+<text x="426" y="1993.44" font-size="14.2" fill="#345963">The EMBRACE-II protocol states that with daily in-room imaging, bony fusion and couch correction the target margin</text>
+<text x="426" y="2017.44" font-size="14.2" fill="#345963">can be reduced from 10 mm to 5 mm without compromising coverage. | protocol level</text>
+<text x="426" y="2047.44" font-size="14.2" fill="#345963">The consequence has a number: the mean pelvic volume receiving 43 Gy falls from 2,500 cc to about 1,500 cc. |</text>
+<text x="426" y="2071.44" font-size="14.2" fill="#345963">dosimetric and volume endpoint, not a toxicity endpoint</text>
+<text x="426" y="2101.44" font-size="14.2" fill="#345963">It really does catch things: in prostate cancer series using real-time imaging, roughly 12% to 17% of fractions were</text>
+<text x="426" y="2125.44" font-size="14.2" fill="#345963">interrupted for a correction; tolerances are set locally by each centre. | retrospective</text>
+<text x="84" y="2198.72" font-size="14.5" fill="#6B8084" font-weight="600">The bone marrow, small bowel and volume figures above are dosimetric; the diarrhoea and toxicity-grade percentages are clinical endpoints — the two</text>
+<text x="84" y="2222.72" font-size="14.5" fill="#6B8084" font-weight="600">cannot be added together, and cells are not directly comparable, because cancer site, dose, design and endpoint all differ.</text>
+<text x="84" y="2252.72" font-size="14.5" fill="#6B8084" font-weight="600">A search of the full NHI schedule finds no dedicated code for IMRT, IGRT or tomotherapy; the phrase for intensity-modulated radiotherapy appears</text>
+<text x="84" y="2276.72" font-size="14.5" fill="#6B8084" font-weight="600">once in the whole schedule, in the note to code 36015B, complex computerised treatment planning, at 11,483 points — a planning code rather than a</text>
+<text x="84" y="2300.72" font-size="14.5" fill="#6B8084" font-weight="600">treatment code, from which no conclusion about coverage can be drawn.</text>
+<text x="84" y="2350.72" font-size="16" fill="#6B8084">Schematic, redrawn from Chopra 2021 (PARCER), the NCT01279135 trial registry record, Klopp 2018 and Yeung 2022 (RTOG 1203), Kachnic 2013</text>
+<text x="84" y="2374.72" font-size="16" fill="#6B8084">(RTOG 0529), Kita 2022, Cheng 2022, Roy 2024, Pötter 2018 (EMBRACE-II), Navrátil 2019, Ger 2025, Gomis-Sellés 2025, the Executive Yuan gazette</text>
+<text x="84" y="2398.72" font-size="16" fill="#6B8084">text of the three proton codes and the full NHI fee schedule</text>
+<text x="84" y="2422.72" font-size="16" fill="#6B8084">Cancer sites, doses, cohorts, designs and endpoints differ between studies; figures are not directly comparable across cells</text>
+  </g>
+</svg>

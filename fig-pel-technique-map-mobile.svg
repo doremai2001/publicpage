@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="2214.8" viewBox="0 0 620 2214.8" role="img" aria-labelledby="t d">
+  <title id="t">調控、影像導引、粒子：三層可以疊起來</title>
+  <desc id="d">示意圖：骨盆腔放射治療的技術地圖，三層可以疊起來——調控（固定野 IMRT 與旋轉調控 VMAT、TOMO）、影像導引（疊在每一格上面的一層）、粒子（光子或質子）。落在哪一格由適應症決定，不是由預算決定；標靶形狀、照射範圍與你的解剖條件決定落點，查不到官方公告的項目一律問醫務課。第一格是一般強度調控加上每日影像導引，也就是健保給付的一般技術，這一格不用形容詞、填的是真實數字：子宮頸癌術後 50 Gy 分 25 次的 300 人隨機試驗，3 年第 2 級以上晚期腸胃道毒性 21.1%，對照三維順形 42.4%，風險比 0.46，而該試驗的試驗臂登錄為以螺旋斷層執行的影像導引放療；子宮內膜癌與子宮頸癌術後的隨機病人自評試驗，療程結束時回報頻繁或幾乎持續腹瀉者 33.7%，對照標準四野 51.9%，一年後高程度腹瀉 5.8% 對 15.1%；肛門癌劑量繪製 IMRT 合併化療的 52 人試驗，急性第 3 級以上腸胃道毒性 21%、皮膚毒性 23%，屬單臂對歷史對照；攝護腺癌 74.8 Gy 的 308 人單中心回溯資料，5 年累積晚期第 2 級以上泌尿道毒性 7.3%、腸胃道 6.2%；照野體積方面，一致的勾畫協定加上 IMRT、每日影像導引與 5 毫米邊界，子宮頸癌病人接受 43 Gy 的平均體積約 1,500 立方公分，屬劑量學。第二格是旋轉調控，螺旋斷層與 VMAT 放在同一格、格內不排名，因為互有勝負：偏螺旋斷層的一筆是台灣 93 位子宮頸癌同步化放療資料，直腸 V30 中位數 56.4%、86.5%、97.5%，第 2 級以上急性腹瀉 10.0%、54.5%、66.7%，單中心回溯；偏弧形調控的一筆是日本 308 人攝護腺癌回溯資料，晚期第 2 級以上腸胃道毒性 VMAT 0%、五野固定 IMRT 7.3%、螺旋斷層 11%；唯一含螺旋斷層的骨盆腔隨機試驗比的是它跟老技術，123 位高風險攝護腺癌、中位追蹤 161 個月，晚期第 2 級以上直腸毒性三維順形 8.3% 對螺旋斷層 11.1%，看不出差別；螺旋斷層對一般強度調控的隨機臨床療效比較查無。第三格是質子：骨盆照野裡調控質子讓接受低劑量的組織體積大約只有光子調控的一半，婦癌術後規劃比較骨髓 V10 58% 對 86%、小腸 V20 21% 對 56%，這些都是劑量學；唯一讀出的隨機比較（攝護腺癌）沒有做出生活品質的差異，主要結果論文尚未發表，只能引回顧文章轉述；健保三個質子給付項目的適用範圍原文都以年齡未滿十九歲病人開頭，成人骨盆腔癌症的質子是全自費。第四格是每日影像導引，橫跨全圖的一層：EMBRACE-II 方案原文寫，有了每日院內影像、骨性配準與治療床修正，標靶邊界可以從 10 毫米縮到 5 毫米而不犧牲涵蓋，骨盆接受 43 Gy 的平均體積由 2,500 立方公分降到約 1,500 立方公分，這是劑量學與體積終點不是毒性終點；攝護腺癌的即時影像資料裡約 12% 到 17% 的分次因為看到偏移而被叫停修正。圖注提醒：骨髓、小腸與體積數字是劑量學，腹瀉與毒性分級的百分比是臨床終點，兩者不可相加，格與格之間也不可直接互比。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="2214.8" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">TECHNIQUE MAP — A MAP, NOT A PRICE LIST</text>
+<text x="44" y="112" font-size="28" fill="#123641" font-weight="800" class="r">調控、影像導引、粒子：三層可以</text>
+<text x="44" y="150" font-size="28" fill="#123641" font-weight="800" class="r">疊起來</text>
+<text x="44" y="192" font-size="14.5" fill="#527078">調控是機器怎麼把劑量切開送進去：固定野 IMRT 與旋轉調控（VMAT、</text>
+<text x="44" y="214" font-size="14.5" fill="#527078">TOMO）都在這一層。</text>
+<text x="44" y="236" font-size="14.5" fill="#527078">影像導引不是第四種技術，是疊在每一格上面的一層；質子換的是射進去的粒子。</text>
+<circle cx="52" cy="278" r="6" fill="#123641"/>
+<line x1="52" y1="286" x2="52" y2="304" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<text x="70" y="283.5" font-size="15.5" fill="#123641" font-weight="800">固定野 IMRT</text>
+<circle cx="52" cy="312" r="6" fill="#123641"/>
+<line x1="52" y1="320" x2="52" y2="338" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<text x="70" y="317.5" font-size="15.5" fill="#123641" font-weight="800">旋轉調控 VMAT 與 TOMO</text>
+<circle cx="52" cy="346" r="6" fill="#123641"/>
+<text x="70" y="351.5" font-size="15.5" fill="#123641" font-weight="800">質子</text>
+<text x="44" y="395.52" font-size="12.8" fill="#6B8084">劑量分布逐步更貼——但更貼不等於每一格都贏；影像導引橫跨全圖，疊在哪一格上都成立</text>
+<rect x="44" y="429.52" width="532" height="100.08" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="64" y="463.06" font-size="14.72" fill="#8F7418" font-weight="800">落點由適應症決定，不是預算決定</text>
+<text x="64" y="487.98" font-size="13" fill="#345963">標靶形狀、照射範圍、你的解剖條件決定你落在哪一格；價格排在這兩題後面。查</text>
+<text x="64" y="508.98" font-size="13" fill="#345963">不到官方公告的項目，一律問醫務課，媒體流傳的價格不引。</text>
+<g filter="url(#sh)"><rect x="44" y="549.6" width="532" height="403.8" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="569.6" width="492" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="310" y="593.06" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">一般強度調控＋每日影像導引</text>
+<text x="310" y="624.6" font-size="13" fill="#6B8084" text-anchor="middle">健保給付的一般技術</text>
+<text x="64" y="652.6" font-size="16" fill="#123641" font-weight="800">這一格不用形容詞，填的是真實數字</text>
+<text x="64" y="679.73" font-size="13" fill="#345963">子宮頸癌術後（50 Gy 分 25 次、300 人隨機）：3 年第 2 級以上晚期腸胃道毒性</text>
+<text x="64" y="700.73" font-size="13" fill="#345963">21.1%，對照三維順形 42.4%，風險比 0.46（95% 信賴區間 0.29 到 0.73）。｜臨</text>
+<text x="64" y="721.73" font-size="13" fill="#345963">床終點・隨機——該試驗的試驗臂登錄為以螺旋斷層執行的影像導引放療</text>
+<text x="64" y="747.73" font-size="13" fill="#345963">子宮內膜癌與子宮頸癌術後（隨機、病人自評）：療程結束時回報「頻繁或幾乎持</text>
+<text x="64" y="768.73" font-size="13" fill="#345963">續腹瀉」33.7%，對照標準四野 51.9%；一年後高程度腹瀉 5.8% 對 15.1%。｜臨床</text>
+<text x="64" y="789.73" font-size="13" fill="#345963">終點・隨機</text>
+<text x="64" y="815.73" font-size="13" fill="#345963">肛門癌（劑量繪製 IMRT 合併化療，52 人可評估）：急性第 3 級以上腸胃道毒性</text>
+<text x="64" y="836.73" font-size="13" fill="#345963">21%、皮膚毒性 23%。｜臨床終點・單臂對歷史對照</text>
+<text x="64" y="862.73" font-size="13" fill="#345963">攝護腺癌 74.8 Gy（308 人單中心）：5 年累積晚期第 2 級以上泌尿道毒性 7.3%、</text>
+<text x="64" y="883.73" font-size="13" fill="#345963">腸胃道 6.2%。｜臨床終點・回溯</text>
+<text x="64" y="909.73" font-size="13" fill="#345963">照野體積（子宮頸癌）：一致的勾畫協定加上 IMRT、每日影像導引與 5 毫米邊界，</text>
+<text x="64" y="930.73" font-size="13" fill="#345963">接受 43 Gy 的平均體積約 1,500 立方公分。｜劑量學</text>
+<g filter="url(#sh)"><rect x="44" y="971.4" width="532" height="356.8" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="991.4" width="492" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="310" y="1014.86" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">旋轉調控：TOMO 與 VMAT</text>
+<text x="310" y="1046.4" font-size="13" fill="#6B8084" text-anchor="middle">同一格，格內不排名</text>
+<text x="64" y="1074.4" font-size="16" fill="#123641" font-weight="800">互有勝負，看部位、標靶形狀與那家醫院怎麼規劃</text>
+<text x="64" y="1101.53" font-size="13" fill="#345963">偏螺旋斷層的一筆是台灣資料（93 位子宮頸癌同步化放療、末 30 人做技術比較）：</text>
+<text x="64" y="1122.53" font-size="13" fill="#345963">直腸 V30 中位數 56.4%、86.5%、97.5%（螺旋斷層、VMAT、三維順形）；第 2</text>
+<text x="64" y="1143.53" font-size="13" fill="#345963">級以上急性腹瀉 10.0%、54.5%、66.7%。｜單中心回溯，分母小</text>
+<text x="64" y="1169.53" font-size="13" fill="#345963">偏弧形調控的一筆是日本資料（308 人攝護腺癌）：晚期第 2 級以上腸胃道毒性</text>
+<text x="64" y="1190.53" font-size="13" fill="#345963">VMAT 0%、五野固定 IMRT 7.3%、螺旋斷層 11%（p=0.025）。｜回溯</text>
+<text x="64" y="1216.53" font-size="13" fill="#345963">唯一含螺旋斷層的骨盆腔隨機試驗比的是它跟老技術：123 位高風險攝護腺癌、中</text>
+<text x="64" y="1237.53" font-size="13" fill="#345963">位追蹤 161 個月，晚期第 2 級以上直腸毒性三維順形 8.3% 對螺旋斷層 11.1%</text>
+<text x="64" y="1258.53" font-size="13" fill="#345963">（p=.83）；作者自己註明樣本小、事件率低。｜臨床終點・隨機</text>
+<text x="64" y="1284.53" font-size="13" fill="#345963">螺旋斷層對一般強度調控的隨機臨床療效比較：查無。這一格不排名，不是客氣，</text>
+<text x="64" y="1305.53" font-size="13" fill="#345963">是沒有那個對照臂。</text>
+<g filter="url(#sh)"><rect x="44" y="1346.2" width="532" height="314.8" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="1366.2" width="492" height="34" rx="14.98" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="310" y="1389.66" font-size="14.72" fill="#9A9282" font-weight="800" text-anchor="middle">質子</text>
+<text x="310" y="1421.2" font-size="13" fill="#6B8084" text-anchor="middle">另一種粒子；成人骨盆腔全自費</text>
+<text x="64" y="1449.2" font-size="16" fill="#123641" font-weight="800">劑量分布明確，臨床那一格的答案還沒讀出</text>
+<text x="64" y="1476.33" font-size="13" fill="#345963">骨盆照野裡，調控質子讓接受低劑量（10 CGE 以內）的組織體積大約只有光子調</text>
+<text x="64" y="1497.33" font-size="13" fill="#345963">控的一半，標靶涵蓋不打折。｜劑量學</text>
+<text x="64" y="1523.33" font-size="13" fill="#345963">婦癌術後的規劃比較：骨髓 V10 58% 對 86%、小腸 V20 21% 對 56%。｜劑量學</text>
+<text x="64" y="1549.33" font-size="13" fill="#345963">唯一讀出的隨機比較（攝護腺癌）沒有做出生活品質的差異；主要結果論文尚未發</text>
+<text x="64" y="1570.33" font-size="13" fill="#345963">表，目前只能引回顧文章的轉述。｜臨床終點・隨機</text>
+<text x="64" y="1596.33" font-size="13" fill="#345963">身分：健保三個質子給付項目的適用範圍原文都以「年齡未滿十九歲病人」開頭；</text>
+<text x="64" y="1617.33" font-size="13" fill="#345963">支付標準全表裡與成人質子相關的八個項目全部標「HTA 項目」、點數 0——成人骨</text>
+<text x="64" y="1638.33" font-size="13" fill="#345963">盆腔癌症＝全自費。</text>
+<g filter="url(#sh)"><rect x="44" y="1679" width="532" height="267.8" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="1699" width="492" height="34" rx="14.98" fill="#00806B"/>
+<text x="310" y="1722.46" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">每日影像導引</text>
+<text x="310" y="1754" font-size="13" fill="#6B8084" text-anchor="middle">橫跨全圖的一層</text>
+<text x="64" y="1782" font-size="16" fill="#123641" font-weight="800">不是機器等級，是每天確認你躺對位置</text>
+<text x="64" y="1809.13" font-size="13" fill="#345963">歐洲子宮頸癌 EMBRACE-II 方案原文：有了每日院內影像、骨性配準與治療床</text>
+<text x="64" y="1830.13" font-size="13" fill="#345963">修正，標靶邊界可以從 10 毫米縮到 5 毫米而不犧牲涵蓋。｜方案層級</text>
+<text x="64" y="1856.13" font-size="13" fill="#345963">後果有數字：骨盆接受 43 Gy 的平均體積由 2,500 立方公分降到約 1,500 立方公</text>
+<text x="64" y="1877.13" font-size="13" fill="#345963">分。｜劑量學與體積終點，不是毒性終點</text>
+<text x="64" y="1903.13" font-size="13" fill="#345963">每天真的會抓到東西：攝護腺癌的即時影像資料裡，約 12% 到 17% 的分次因為看</text>
+<text x="64" y="1924.13" font-size="13" fill="#345963">到偏移而被叫停修正；容許度各院自訂。｜回溯</text>
+<text x="44" y="1972.8" font-size="12.8" fill="#6B8084" font-weight="600">上圖的骨髓、小腸與體積數字是劑量學；腹瀉與毒性分級的百分比是臨床終點——兩者</text>
+<text x="44" y="1992.8" font-size="12.8" fill="#6B8084" font-weight="600">不可相加，格與格之間也不可直接互比，因為癌別、劑量、設計與終點都不同。</text>
+<text x="44" y="2018.8" font-size="12.8" fill="#6B8084" font-weight="600">健保支付標準全表查無 IMRT、IGRT、斷層放射的專屬代碼；「強度調控放射治療」</text>
+<text x="44" y="2038.8" font-size="12.8" fill="#6B8084" font-weight="600">全表只出現一次，在 36015B「電腦治療規劃—複雜」11,483 點的備註條文裡——那是</text>
+<text x="44" y="2058.8" font-size="12.8" fill="#6B8084" font-weight="600">規劃的碼不是治療的碼，不可據此推論給付方向。</text>
+<text x="44" y="2096.8" font-size="12" fill="#6B8084">示意圖，依 Chopra 2021（PARCER）、NCT01279135 試驗登錄頁、Klopp 2018 與 Yeung</text>
+<text x="44" y="2116.8" font-size="12" fill="#6B8084">2022（RTOG 1203）、Kachnic 2013（RTOG 0529）、Kita 2022、Cheng 2022、Roy</text>
+<text x="44" y="2136.8" font-size="12" fill="#6B8084">2024、Pötter 2018（EMBRACE-II）、Navrátil 2019、Ger 2025、Gomis-Sellés</text>
+<text x="44" y="2156.8" font-size="12" fill="#6B8084">2025、行政院公報質子三碼條文與健保支付標準全表重繪</text>
+<text x="44" y="2176.8" font-size="12" fill="#6B8084">各研究的癌別、劑量、族群、設計與終點不同，格與格之間的數字不可直接互比</text>
+  </g>
+</svg>

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1986.15" viewBox="0 0 1440 1986.15" role="img" aria-labelledby="t d">
+  <title id="t">Skin: the grading line is drawn on the folds</title>
+  <desc id="d">Schematic of skin reactions in pelvic radiotherapy, with site limited to folds and areas of friction and the risk axis given as distance from the anal verge. The line between grades is drawn on the folds: grade 2 is patchy moist desquamation mostly confined to skin folds and creases, while grade 3 is moist desquamation in areas other than folds and creases. The daily question is therefore not whether the skin is red but whether it has moved outside the folds. No individual anatomical site is named, because no finer wording could be sourced. The risk axis is distance from the anal verge: a tumour within 5 cm carries an odds ratio of 2.86, with other factors pointing the same way — no stoma 3.12, total dose above 50 Gy 2.59 and concurrent chemotherapy 2.73 — and the dose inflection sits at 50 Gy, beyond which every further 5 Gy raises the risk of severe dermatitis by 29%. Anal and vulvar cancer are named as higher-risk cancers because the fields are shallow, and skin folds from obesity raise the dose in the fold. These figures come from rectal and anal cancer, in a meta-analysis of 50 studies and 4,892 patients. On magnitude: overall radiation dermatitis in rectal and anal cancer is 58.7%, grade 3 or worse 12.3% and moist desquamation 34.5%; a single-centre randomised trial of 63 patients reports 100% overall and 36.5% severe, the difference lying in the denominator and the intensity of assessment; and the statement that up to 95% of patients develop acute radiation dermatitis covers every site and every cancer rather than the pelvis. Time is drawn as an interval band with no ticks: the nursing guideline states that reactions are evident one to four weeks after treatment begins and can persist for several weeks afterwards, and ESTRO states that schedules longer than four to five weeks delay the onset of recovery; which week it reddens, which week it breaks and how long it takes to settle have no pelvic-specific source, the breast curve cannot be borrowed, and so the band carries no ticks. A further panel sets out what is past the point of any skincare product: broken skin, blisters or exudate are marked urgent in the guideline's grade-to-action table, requiring medical assessment within 24 hours; the four signs of infection are pain and swelling spreading beyond the treated area, purulent discharge, an odour from the wound and fever; what an open wound should be dressed with is decided after the medical team has seen it, rather than picked off a pharmacy shelf; and a pelvic course means the treatment team is seen almost every day, so saying it at the next session counts.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1986.15" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">SKIN — FOLDS AND FRICTION, NOT A LIST OF SITES</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">Skin: the grading line is drawn on the folds</text>
+<text x="84" y="194" font-size="21" fill="#527078">The only site that can be cited is folds and areas of friction — no wording for anything finer was found, so no</text>
+<text x="84" y="224" font-size="21" fill="#527078">individual site is named here.</text>
+<text x="84" y="254" font-size="21" fill="#527078">The risk axis is therefore not a list of sites but distance from the anal verge.</text>
+<g filter="url(#sh)"><rect x="84" y="304" width="578.76" height="530.2" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="349" font-size="19" fill="#123641" font-weight="800">The line between grades is the fold itself</text>
+<g transform="translate(152.88,366.5) scale(1.05)">
+<rect x="10" y="20" width="400" height="164" rx="30" fill="#F4EFE3" stroke="#9A9282" stroke-width="2.5"/>
+<path d="M 52,64 C 106,40 150,92 206,64" fill="none" stroke="#C9A83E" stroke-width="13" stroke-linecap="round" opacity="0.95"/>
+<path d="M 60,120 C 120,98 158,146 214,122" fill="none" stroke="#C9A83E" stroke-width="13" stroke-linecap="round" opacity="0.95"/>
+<path d="M 48,158 C 104,140 148,178 200,156" fill="none" stroke="#C9A83E" stroke-width="13" stroke-linecap="round" opacity="0.95"/>
+<rect x="264" y="52" width="120" height="106" rx="22" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="7 6" opacity="0.85"/>
+<text x="128" y="200" font-size="14.5" fill="#8F7418" font-weight="800" text-anchor="middle">folds and friction = grade 2</text>
+<text x="324" y="200" font-size="14.5" fill="#8F7418" font-weight="800" text-anchor="middle">outside the folds = grade 3</text>
+</g>
+<text x="110" y="619.92" font-size="14.2" fill="#345963">Grade 2: patchy moist desquamation, mostly confined to skin folds</text>
+<text x="110" y="643.92" font-size="14.2" fill="#345963">and creases.</text>
+<text x="110" y="672.92" font-size="14.2" fill="#345963">Grade 3: moist desquamation in areas other than skin folds and</text>
+<text x="110" y="696.92" font-size="14.2" fill="#345963">creases.</text>
+<text x="110" y="725.92" font-size="14.2" fill="#345963">So the daily question is not whether it is red, but whether it has</text>
+<text x="110" y="749.92" font-size="14.2" fill="#345963">moved outside the folds.</text>
+<text x="110" y="778.92" font-size="14.2" fill="#345963">No individual anatomical site is named here: no wording finer than</text>
+<text x="110" y="802.92" font-size="14.2" fill="#345963">folds and areas of friction could be sourced.</text>
+<g filter="url(#sh)"><rect x="698.76" y="304" width="657.24" height="530.2" rx="18" fill="#FFFFFF"/></g>
+<text x="724.76" y="349" font-size="19" fill="#123641" font-weight="800">The risk axis: how far from the anal verge</text>
+<rect x="734.76" y="370.5" width="210" height="34" rx="12" fill="#C9A83E" opacity="0.55" stroke="#A98722" stroke-width="2"/>
+<text x="839.76" y="392.5" font-size="14" fill="#8F7418" font-weight="800" text-anchor="middle">within 5 cm: odds ratio 2.86</text>
+<line x1="734.76" y1="424.5" x2="1324" y2="424.5" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1324" y1="424.5" x2="1314.3" y2="429.7" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1324" y1="424.5" x2="1314.3" y2="419.3" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="734.76" cy="424.5" r="7" fill="#123641"/>
+<line x1="944.76" y1="404.5" x2="944.76" y2="420.5" stroke="#9A9282" stroke-width="1.6" stroke-dasharray="4 4"/>
+<text x="734.76" y="448.5" font-size="14" fill="#123641" font-weight="800">anal verge</text>
+<text x="1324" y="448.5" font-size="14" fill="#6B8084" font-weight="600" text-anchor="end">further away, lower risk</text>
+<text x="724.76" y="489.22" font-size="14.2" fill="#345963">Tumour within 5 cm of the anal verge: odds ratio 2.86.</text>
+<text x="724.76" y="518.22" font-size="14.2" fill="#345963">Other factors pointing the same way: no stoma 3.12, total dose above 50 Gy</text>
+<text x="724.76" y="542.22" font-size="14.2" fill="#345963">2.59, concurrent chemotherapy 2.73.</text>
+<text x="724.76" y="571.22" font-size="14.2" fill="#345963">The dose inflection sits at 50 Gy — beyond it, every further 5 Gy raises the risk</text>
+<text x="724.76" y="595.22" font-size="14.2" fill="#345963">of severe dermatitis by 29%.</text>
+<text x="724.76" y="624.22" font-size="14.2" fill="#345963">Higher-risk cancers: anal and vulvar cancer are named (the fields themselves</text>
+<text x="724.76" y="648.22" font-size="14.2" fill="#345963">are shallow); skin folds from obesity raise the skin dose in the fold.</text>
+<text x="724.76" y="677.22" font-size="14.2" fill="#345963">Cohort label: rectal and anal cancer, systematic review and meta-analysis of 50</text>
+<text x="724.76" y="701.22" font-size="14.2" fill="#345963">studies and 4,892 patients. | clinical endpoint, pooled</text>
+<g filter="url(#sh)"><rect x="84" y="860.2" width="1272" height="235.45" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="905.2" font-size="19" fill="#123641" font-weight="800">Magnitude first, severity second</text>
+<text x="110" y="936.5" font-size="14.2" fill="#345963">Rectal and anal cancer (the most comparable pelvic cohort, 50 studies, 4,892 patients): overall radiation dermatitis 58.7% (95% confidence interval 55.2 to 62.1),</text>
+<text x="110" y="960.5" font-size="14.2" fill="#345963">grade 3 or worse 12.3%, moist desquamation 34.5%.</text>
+<text x="110" y="989.5" font-size="14.2" fill="#345963">A single-centre randomised trial of 63 patients reports 100% overall and 36.5% severe — not a contradiction, but a different denominator and a different</text>
+<text x="110" y="1013.5" font-size="14.2" fill="#345963">intensity of assessment (graded at every nursing visit).</text>
+<text x="110" y="1042.5" font-size="14.2" fill="#345963">The ceiling statement for radiotherapy as a whole is that up to 95% develop acute radiation dermatitis; that sentence covers every site and every cancer, and is</text>
+<text x="110" y="1066.5" font-size="14.2" fill="#345963">not the pelvic figure.</text>
+<g filter="url(#sh)"><rect x="84" y="1121.65" width="1272" height="274.5" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="1166.65" font-size="19" fill="#123641" font-weight="800">Time: only an interval is sourced, so no ticks are drawn</text>
+<rect x="110" y="1202.15" width="1220" height="40" rx="14" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="8 7" opacity="0.9"/>
+<text x="110" y="1194.15" font-size="14" fill="#6B8084" font-weight="700">treatment starts</text>
+<text x="1330" y="1194.15" font-size="14" fill="#6B8084" font-weight="700" text-anchor="end">weeks after treatment ends</text>
+<text x="110" y="1282.87" font-size="14.2" fill="#345963">The defining sentence in the nursing guideline: reactions are evident one to four weeks after beginning treatment and can persist for several weeks afterwards.</text>
+<text x="110" y="1311.87" font-size="14.2" fill="#345963">A second anchor from ESTRO: schedules longer than four to five weeks delay the onset of recovery — and most pelvic courses run five to six weeks.</text>
+<text x="110" y="1340.87" font-size="14.2" fill="#345963">No ticks are drawn: which week it reddens, which week it breaks and how long it takes to settle have no pelvic-specific source, and the breast curve peaking</text>
+<text x="110" y="1364.87" font-size="14.2" fill="#345963">about two weeks after the end cannot be borrowed.</text>
+<rect x="84" y="1422.15" width="1272" height="316" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<rect x="110" y="1448.15" width="1220" height="40" rx="14" fill="#8F7418"/>
+<text x="720" y="1474.15" font-size="18.05" fill="#FFFFFF" font-weight="800" text-anchor="middle">This cell is past the point where any skincare product applies</text>
+<text x="110" y="1520.15" font-size="15" fill="#345963">Broken skin, blisters or exudate: in the guideline's grade-to-action table, grade 2 to grade 3 is marked urgent, requiring medical assessment within 24</text>
+<text x="110" y="1544.15" font-size="15" fill="#345963">hours.</text>
+<text x="110" y="1574.15" font-size="15" fill="#345963">Four signs of infection, starting with the one most easily missed: pain and swelling spreading beyond the treated area, purulent discharge from the</text>
+<text x="110" y="1598.15" font-size="15" fill="#345963">wound, an odour from the wound, and fever.</text>
+<text x="110" y="1628.15" font-size="15" fill="#345963">What an open wound should be dressed with, and how often, is decided after the medical team has seen it — do not pick something off a pharmacy shelf</text>
+<text x="110" y="1652.15" font-size="15" fill="#345963">and cover it yourself.</text>
+<text x="110" y="1682.15" font-size="15" fill="#345963">A pelvic course gives you one advantage: you see the treatment team almost every day, so saying it at the next session counts, without waiting for a</text>
+<text x="110" y="1706.15" font-size="15" fill="#345963">clinic appointment.</text>
+<text x="84" y="1760.15" font-size="14.5" fill="#6B8084" font-weight="600">Only folds and areas of friction are marked, and only an interval is marked in time — both gaps are genuinely empty rather than omitted.</text>
+<text x="84" y="1790.15" font-size="14.5" fill="#6B8084" font-weight="600">Why perineal skin is the hardest to look after, and how the ban on washing was overturned by randomised trials, are covered in separate articles; a sitz</text>
+<text x="84" y="1814.15" font-size="14.5" fill="#6B8084" font-weight="600">bath cares for the skin and is not a treatment for the bowel.</text>
+<text x="84" y="1864.15" font-size="16" fill="#6B8084">Schematic, redrawn from the BC Cancer nursing guideline on managing radiation dermatitis, Forde 2025 (ESTRO practice recommendations on</text>
+<text x="84" y="1888.15" font-size="16" fill="#6B8084">radiation dermatitis) and He 2026 (meta-analysis in rectal and anal cancer)</text>
+<text x="84" y="1912.15" font-size="16" fill="#6B8084">The grade-to-action table and the four signs of infection follow the nursing guideline's own wording; site is limited to folds and areas of friction, no</text>
+<text x="84" y="1936.15" font-size="16" fill="#6B8084">finer wording being sourceable</text>
+  </g>
+</svg>

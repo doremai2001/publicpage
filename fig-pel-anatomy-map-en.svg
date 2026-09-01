@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2060.25" viewBox="0 0 1440 2060.25" role="img" aria-labelledby="t d">
+  <title id="t">One anatomy, five cancers, the same neighbours</title>
+  <desc id="d">Schematic (not to anatomical scale) of pelvic organs and how the fields of five cancers sit against them. The drawing shows the organs of one pelvis: small bowel above, bladder at the front, uterus and cervix in the middle, rectum and sigmoid behind, prostate below the bladder, with pelvic bone and marrow at the sides and the pelvic nodes running along the pelvic wall; organs of both sexes are labelled on one drawing and never coexist. Five cancers each take a row. Bladder cancer: the target is the bladder itself, since bladder-preserving trimodality therapy begins with endoscopic resection and then combines radiotherapy with chemotherapy; the neighbours are rectum, small bowel and pelvic nodes, and when the whole bladder is treated many centres use an empty-bladder protocol; a separate series on bladder cancer is planned. Cervical cancer: the target is cervix, uterus and pelvic nodes, usually followed by brachytherapy, with bladder in front, rectum and sigmoid behind and small bowel above. Endometrial cancer: after surgery either the pelvis or the vaginal vault alone, a randomised trial having found the vault sufficient at high-intermediate risk; change the extent and the neighbours change; a separate series is planned. Rectal cancer: before surgery the rectum and mesorectum with pelvic nodes, the neighbours being small bowel and bladder — this is the cell in which a full bladder pushing small bowel out of the field matters. Prostate cancer: the prostate, with seminal vesicles or pelvic nodes where indicated, the anterior rectal wall directly behind and the bladder neck above. A further panel notes that the same organs are not judged by the same numbers: small bowel has clear thresholds, V45 under 195 cc for the peritoneal bowel bag or V15 under 120 cc for individual loops; the EMBRACE-II planning aims for bowel are V40 under 250 cc and V30 under 500 cc; the rectum has a complete dose-volume model; and the bladder is the weakest cell, because the QUANTEC bladder chapter states that its partial-organ data are suspect since bladder motion is not accounted for, so no bladder dose threshold is given here. Whether to irradiate, how many fractions and whether to add chemotherapy belong to each cancer's own series; this figure only shows what sits next to what.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2060.25" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">PELVIS — ONE ANATOMY, FIVE CANCERS</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">One anatomy, five cancers, the same neighbours</text>
+<text x="84" y="194" font-size="21" fill="#527078">Five cancers with entirely different diagnoses are treated in the same pelvis, and the same organs sit in the way</text>
+<text x="84" y="224" font-size="21" fill="#527078">— bladder, rectum, small bowel, bone marrow.</text>
+<text x="84" y="254" font-size="21" fill="#527078">Schematic (not to anatomical scale): it shows what sits next to what, not the shape of any treatment field.</text>
+<g filter="url(#sh)"><rect x="84" y="306" width="1272" height="631.8" rx="18" fill="#FFFFFF"/></g>
+<g transform="translate(208.5,332) scale(1.55)">
+<path d="M 46,52 C 14,138 46,264 138,306" fill="none" stroke="#9A9282" stroke-width="15" stroke-linecap="round" opacity="0.42"/>
+<path d="M 520,52 C 552,138 520,264 428,306" fill="none" stroke="#9A9282" stroke-width="15" stroke-linecap="round" opacity="0.42"/>
+<path d="M 84,68 C 60,146 88,244 158,284" fill="none" stroke="#A98722" stroke-width="7" stroke-dasharray="9 8" stroke-linecap="round" opacity="0.75"/>
+<path d="M 482,68 C 506,146 478,244 408,284" fill="none" stroke="#A98722" stroke-width="7" stroke-dasharray="9 8" stroke-linecap="round" opacity="0.75"/>
+<ellipse cx="283" cy="80" rx="146" ry="46" fill="#E9E2CF" stroke="#9A9282" stroke-width="2.5"/>
+<path d="M 168,86 C 196,54 216,110 246,78 C 276,46 296,106 326,76 C 356,46 374,102 400,80" fill="none" stroke="#9A9282" stroke-width="2.5" opacity="0.8"/>
+<ellipse cx="196" cy="186" rx="74" ry="56" fill="#DCE6F3" stroke="#5C77C4" stroke-width="2.5"/>
+<path d="M 272,156 C 264,118 348,112 350,158 C 352,192 322,202 316,214 L 316,256 L 294,256 L 294,214 C 288,202 274,192 272,156 Z" fill="#EFE3C8" stroke="#A98722" stroke-width="2.5"/>
+<path d="M 386,122 C 362,158 368,226 388,268 L 424,268 C 406,226 402,158 424,122 Z" fill="#E9E2CF" stroke="#6B8084" stroke-width="2.5"/>
+<circle cx="196" cy="270" r="27" fill="#DCE6F3" stroke="#5C77C4" stroke-width="2.5"/>
+<line x1="306" y1="276" x2="306" y2="262" stroke="#9A9282" stroke-width="1.6"/>
+<line x1="502" y1="182" x2="430" y2="192" stroke="#9A9282" stroke-width="1.6"/>
+<text x="283" y="87" font-size="17" fill="#8F7418" font-weight="800" text-anchor="middle">small bowel</text>
+<text x="196" y="192" font-size="17" fill="#3C55A0" font-weight="800" text-anchor="middle">bladder</text>
+<text x="306" y="296" font-size="15" fill="#8F7418" font-weight="800" text-anchor="middle">uterus and cervix</text>
+<text x="508" y="187" font-size="15" fill="#4E6469" font-weight="800">rectum and sigmoid</text>
+<text x="196" y="320" font-size="15" fill="#3C55A0" font-weight="800" text-anchor="middle">prostate</text>
+<text x="36" y="26" font-size="14.5" fill="#6B8084" font-weight="700">pelvic bone and marrow</text>
+<text x="624" y="26" font-size="14.5" fill="#8F7418" font-weight="700" text-anchor="end">pelvic nodes</text>
+<text x="96" y="348" font-size="14" fill="#6B8084" font-weight="600" text-anchor="middle">front of the body</text>
+<text x="470" y="348" font-size="14" fill="#6B8084" font-weight="600" text-anchor="middle">back of the body</text>
+<line x1="150" y1="344" x2="420" y2="344" stroke="#6B8084" stroke-width="2" stroke-linecap="round"/>
+<line x1="420" y1="344" x2="410.3" y2="349.2" stroke="#6B8084" stroke-width="2" stroke-linecap="round"/>
+<line x1="420" y1="344" x2="410.3" y2="338.8" stroke="#6B8084" stroke-width="2" stroke-linecap="round"/>
+</g>
+<text x="110" y="912.52" font-size="14.2" fill="#6B8084">Schematic, not to anatomical scale. Organs of both sexes are labelled on one drawing and never coexist; relative positions are indicative only.</text>
+<g filter="url(#sh)"><rect x="84" y="959.8" width="1272" height="150" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="985.8" width="272" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="246" y="1009.26" font-size="17.48" fill="#FFFFFF" font-weight="800" text-anchor="middle">Bladder cancer</text>
+<text x="246" y="1038" font-size="14.2" fill="#6B8084" text-anchor="middle">a separate series is planned</text>
+<text x="414" y="1003.8" font-size="14.2" fill="#345963">Target: bladder-preserving trimodality therapy treats the bladder itself — endoscopic resection first, then</text>
+<text x="414" y="1027.8" font-size="14.2" fill="#345963">radiotherapy with chemotherapy.</text>
+<text x="414" y="1059.8" font-size="14.2" fill="#345963">Neighbours: rectum, small bowel, pelvic nodes. When the whole bladder is treated, many centres use an empty-bladder</text>
+<text x="414" y="1083.8" font-size="14.2" fill="#345963">protocol.</text>
+<g filter="url(#sh)"><rect x="84" y="1123.8" width="1272" height="102" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="1149.8" width="272" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="246" y="1173.26" font-size="17.48" fill="#FFFFFF" font-weight="800" text-anchor="middle">Cervical cancer</text>
+<text x="414" y="1167.8" font-size="14.2" fill="#345963">Target: cervix, uterus and pelvic nodes, usually followed by brachytherapy.</text>
+<text x="414" y="1199.8" font-size="14.2" fill="#345963">Neighbours: bladder in front, rectum and sigmoid behind, small bowel above — all four sit at the edge of the field.</text>
+<g filter="url(#sh)"><rect x="84" y="1239.8" width="1272" height="126" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="1265.8" width="272" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="246" y="1289.26" font-size="17.48" fill="#FFFFFF" font-weight="800" text-anchor="middle">Endometrial cancer</text>
+<text x="246" y="1318" font-size="14.2" fill="#6B8084" text-anchor="middle">a separate series is planned</text>
+<text x="414" y="1283.8" font-size="14.2" fill="#345963">Target: after surgery, either the pelvis or the vaginal vault alone — a randomised trial found the vault sufficient at</text>
+<text x="414" y="1307.8" font-size="14.2" fill="#345963">high-intermediate risk.</text>
+<text x="414" y="1339.8" font-size="14.2" fill="#345963">Neighbours: change the extent and you change the neighbours, which is why where to treat is decided by risk group.</text>
+<g filter="url(#sh)"><rect x="84" y="1379.8" width="1272" height="102" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="1405.8" width="272" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="246" y="1429.26" font-size="17.48" fill="#FFFFFF" font-weight="800" text-anchor="middle">Rectal cancer</text>
+<text x="414" y="1423.8" font-size="14.2" fill="#345963">Target: before surgery, the rectum and mesorectum with the pelvic nodes.</text>
+<text x="414" y="1455.8" font-size="14.2" fill="#345963">Neighbours: small bowel and bladder. This is the cell in which a full bladder pushing small bowel out of the field matters.</text>
+<g filter="url(#sh)"><rect x="84" y="1495.8" width="1272" height="102" rx="18" fill="#FFFFFF"/></g>
+<rect x="110" y="1521.8" width="272" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="246" y="1545.26" font-size="17.48" fill="#FFFFFF" font-weight="800" text-anchor="middle">Prostate cancer</text>
+<text x="414" y="1539.8" font-size="14.2" fill="#345963">Target: the prostate, with seminal vesicles or pelvic nodes added where indicated.</text>
+<text x="414" y="1571.8" font-size="14.2" fill="#345963">Neighbours: the anterior rectal wall directly behind and the bladder neck above — almost no distance at all.</text>
+<g filter="url(#sh)"><rect x="84" y="1619.8" width="1272" height="216.45" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="1664.8" font-size="19" fill="#123641" font-weight="800">The same organs, but not the same things are calculated for each</text>
+<text x="110" y="1696.1" font-size="14.2" fill="#345963">Small bowel: clear thresholds — V45 under 195 cc for the peritoneal bowel bag, or V15 under 120 cc for individual bowel loops. | dosimetric</text>
+<text x="110" y="1725.1" font-size="14.2" fill="#345963">Bowel: the EMBRACE-II planning aims are V40 under 250 cc and V30 under 500 cc. | planning aim</text>
+<text x="110" y="1754.1" font-size="14.2" fill="#345963">Rectum: a complete dose-volume model exists for estimating risk. | dosimetric</text>
+<text x="110" y="1783.1" font-size="14.2" fill="#345963">Bladder: the weakest cell. The QUANTEC bladder chapter states that its partial-organ data are suspect because bladder motion is not accounted for — so no</text>
+<text x="110" y="1807.1" font-size="14.2" fill="#345963">bladder dose threshold is given here.</text>
+<text x="84" y="1858.25" font-size="14.5" fill="#6B8084" font-weight="600">Whether to irradiate at all, how many fractions and whether to add chemotherapy are decisions covered in each cancer's own series; this figure only</text>
+<text x="84" y="1882.25" font-size="14.5" fill="#6B8084" font-weight="600">shows what sits next to what. Separate series on bladder and endometrial cancer are planned.</text>
+<text x="84" y="1912.25" font-size="14.5" fill="#6B8084" font-weight="600">Your own field is set by your doctor from staging and imaging; this figure represents nobody's actual treatment field.</text>
+<text x="84" y="1962.25" font-size="16" fill="#6B8084">Schematic (not to anatomical scale), redrawn from Kavanagh 2010, Michalski 2010 and Viswanathan 2010 (three QUANTEC chapters) and Pötter 2018</text>
+<text x="84" y="1986.25" font-size="16" fill="#6B8084">(EMBRACE-II planning aims)</text>
+<text x="84" y="2010.25" font-size="16" fill="#6B8084">Targets and adjacencies are drawn from the field descriptions in the published trials and guidelines; organ positions are indicative</text>
+  </g>
+</svg>

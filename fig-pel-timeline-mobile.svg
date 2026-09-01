@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1659" viewBox="0 0 620 1659" role="img" aria-labelledby="t d">
+  <title id="t">四條線，只有兩條標得出節點</title>
+  <desc id="d">示意圖：骨盆腔放射治療四種反應的時間形狀，其中只有兩條線標得出節點。第一條有刻度的線是急性腸道反應，三個節點分別是第 2 週開始、最後一週最難、照完至少再 1 到 2 週；英國腸胃學會 2025 年指引逐字寫急性腸胃道症狀通常在開始放療後的第二週出現、傾向在療程的最後一週達到高峰、並在結束後至少再持續一到兩週，同一段還寫了例外：接受大分次療程的人，急性症狀可能到療程結束之後才開始，所以直腸癌術前五次的人可能照完那天沒事、一週後才難受。這一條的證據等級是指引的臨床實務陳述，不是統合分析的量化結果。第二條有刻度的線是晚期出血，三個節點分別是結束後幾個月開始注意到、三年內達到高峰、十年以上有時持續；同一份指引寫，因骨盆腔腫瘤接受放療者最多有一半會出現直腸出血、多數偶發量少，嚴重出血約佔根治性骨盆腔照射病人的 1%；出血風險與腸壁受到的劑量直接相關，近接治療還可能把受損最重的位置從直腸移到乙狀結腸。另外兩條畫成沒有刻度的區間帶。皮膚那一條可引的只有一段區間：反應通常在開始治療後 1 到 4 週出現、可能在結束後持續數週，療程長度超過 4 到 5 週會延後恢復開始的時間；第幾週會紅、第幾週會破、幾週後退乾淨查無骨盆腔專屬來源，乳房放療的曲線不可挪用。泌尿那一條同樣沒有刻度：療程中約三分之一的人出現新的或惡化的泌尿症狀，有症狀的人裡最多的是解尿疼痛 83%，而原文用的是累積劑量不是週數——四分之三的症狀出現在累積 16 到 45 Gy 之間，可以說大約落在療程的中段，但不可換算成第幾週。圖注提醒：兩條有刻度的線出自同一份指引原文，兩條區間帶沒有可引的週數，帶的寬度不代表嚴重度；四條線的癌別與族群不同，不可互相比較。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1659" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="1.75px">TIMELINE — TWO LINES WITH TICKS, TWO WITHOUT</text>
+<text x="44" y="112" font-size="28" fill="#123641" font-weight="800" class="r">四條線，只有兩條標得出節點</text>
+<text x="44" y="154" font-size="14.5" fill="#527078">腸道與晚期出血有指引原文可以逐段對照，所以標節點；皮膚與泌尿只有區間，</text>
+<text x="44" y="176" font-size="14.5" fill="#527078">所以畫成沒有刻度的帶。</text>
+<text x="44" y="198" font-size="14.5" fill="#527078">節點標的是先後，不是等比例的時間軸；四條線的族群不同，不可互相比較。</text>
+<g filter="url(#sh)"><rect x="44" y="236" width="532" height="318" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="272" font-size="16" fill="#5C77C4" font-weight="800">腸道（急性）</text>
+<line x1="73" y1="298" x2="73" y2="389" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="73" cy="298" r="8" fill="#123641"/>
+<text x="95" y="303" font-size="14.5" fill="#123641" font-weight="800">第 2 週開始</text>
+<circle cx="73" cy="335" r="8" fill="#123641"/>
+<text x="95" y="340" font-size="14.5" fill="#123641" font-weight="800">最後一週最難</text>
+<circle cx="73" cy="372" r="8" fill="#123641"/>
+<text x="95" y="377" font-size="14.5" fill="#123641" font-weight="800">照完至少再 1 到 2 週</text>
+<text x="64" y="435.38" font-size="13" fill="#345963">英國腸胃學會 2025 年指引逐字：急性腸胃道症狀通常在開始放療後的第二週出現，</text>
+<text x="64" y="456.38" font-size="13" fill="#345963">傾向在療程的最後一週達到高峰，並在結束後至少再持續一到兩週。</text>
+<text x="64" y="482.38" font-size="13" fill="#345963">同一段還寫了一個例外：接受大分次療程的人，急性症狀可能到療程結束之後才開</text>
+<text x="64" y="503.38" font-size="13" fill="#345963">始——直腸癌術前五次的人，照完那天沒事、一週後才難受，是有指引原文可引的。</text>
+<text x="64" y="529.38" font-size="13" fill="#345963">證據等級：指引的臨床實務陳述，不是統合分析的量化結果。</text>
+<g filter="url(#sh)"><rect x="44" y="570" width="532" height="339" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="606" font-size="16" fill="#8F7418" font-weight="800">晚期出血</text>
+<line x1="73" y1="632" x2="73" y2="723" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="73" cy="632" r="8" fill="#123641"/>
+<text x="95" y="637" font-size="14.5" fill="#123641" font-weight="800">結束後幾個月：開始注意到</text>
+<circle cx="73" cy="669" r="8" fill="#123641"/>
+<text x="95" y="674" font-size="14.5" fill="#123641" font-weight="800">三年內：達到高峰</text>
+<circle cx="73" cy="706" r="8" fill="#123641"/>
+<text x="95" y="711" font-size="14.5" fill="#123641" font-weight="800">十年以上：有時持續</text>
+<text x="64" y="769.38" font-size="13" fill="#345963">同一份指引逐字：病人通常在放療結束後幾個月開始注意到間歇性出血，通常在三</text>
+<text x="64" y="790.38" font-size="13" fill="#345963">年內達到高峰，有時持續十年以上。</text>
+<text x="64" y="816.38" font-size="13" fill="#345963">量級也在同一段：因骨盆腔腫瘤接受放療者，最多有一半會出現直腸出血，多數偶</text>
+<text x="64" y="837.38" font-size="13" fill="#345963">發量少；嚴重出血約佔根治性骨盆腔照射病人的 1%。</text>
+<text x="64" y="863.38" font-size="13" fill="#345963">出血風險與腸壁受到的劑量直接相關；近接治療還可能把受損最重的位置從直腸移</text>
+<text x="64" y="884.38" font-size="13" fill="#345963">到乙狀結腸。</text>
+<g filter="url(#sh)"><rect x="44" y="925" width="532" height="245" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="961" font-size="16" fill="#345963" font-weight="800">皮膚</text>
+<rect x="112" y="949.48" width="88" height="26" rx="10" fill="none" stroke="#A98722" stroke-width="1.8" stroke-dasharray="6 5"/>
+<text x="156" y="967.48" font-size="13.5" fill="#8F7418" font-weight="800" text-anchor="middle">不標刻度</text>
+<rect x="64" y="999" width="492" height="40" rx="14" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="8 7" opacity="0.9"/>
+<text x="64" y="991" font-size="14" fill="#6B8084" font-weight="700">開始治療</text>
+<text x="556" y="991" font-size="14" fill="#6B8084" font-weight="700" text-anchor="end">療程結束之後數週</text>
+<text x="64" y="1077.38" font-size="13" fill="#345963">可引的只有一段區間：反應通常在開始治療後 1 到 4 週出現，並且可能在治療結束</text>
+<text x="64" y="1098.38" font-size="13" fill="#345963">後持續數週；療程長度超過 4 到 5 週會延後恢復開始的時間。</text>
+<text x="64" y="1124.38" font-size="13" fill="#345963">沒有刻度的理由：第幾週會紅、第幾週會破、幾週後退乾淨，查無骨盆腔專屬來源。</text>
+<text x="64" y="1145.38" font-size="13" fill="#345963">乳房放療的「結束後約兩週達到高峰」不可挪用。</text>
+<g filter="url(#sh)"><rect x="44" y="1186" width="532" height="245" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="1222" font-size="16" fill="#345963" font-weight="800">泌尿</text>
+<rect x="112" y="1210.48" width="88" height="26" rx="10" fill="none" stroke="#A98722" stroke-width="1.8" stroke-dasharray="6 5"/>
+<text x="156" y="1228.48" font-size="13.5" fill="#8F7418" font-weight="800" text-anchor="middle">不標刻度</text>
+<rect x="64" y="1260" width="492" height="40" rx="14" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="8 7" opacity="0.9"/>
+<text x="64" y="1252" font-size="14" fill="#6B8084" font-weight="700">療程前段</text>
+<text x="556" y="1252" font-size="14" fill="#6B8084" font-weight="700" text-anchor="end">療程後段</text>
+<text x="64" y="1338.38" font-size="13" fill="#345963">療程中約三分之一（24/72）出現新的或惡化的泌尿症狀；有症狀的人裡最多的是</text>
+<text x="64" y="1359.38" font-size="13" fill="#345963">解尿疼痛 83%。｜跨癌別前瞻世代、單中心、因結果與預期不符提前中止</text>
+<text x="64" y="1385.38" font-size="13" fill="#345963">沒有刻度的理由：原文用的是累積劑量，不是週數——四分之三的症狀出現在累積 16</text>
+<text x="64" y="1406.38" font-size="13" fill="#345963">到 45 Gy 之間。這條線可以說「大約落在療程的中段」，但不可換算成第幾週。</text>
+<text x="44" y="1457" font-size="12.8" fill="#6B8084" font-weight="600">兩條有刻度的線出自同一份 2025 年指引的原文；兩條區間帶沒有可引的週數，帶的</text>
+<text x="44" y="1477" font-size="12.8" fill="#6B8084" font-weight="600">寬度不代表嚴重度，只代表「有來源的區間到這裡為止」。</text>
+<text x="44" y="1503" font-size="12.8" fill="#6B8084" font-weight="600">四條線的癌別與族群不同（指引的跨癌別實務陳述、跨癌別前瞻世代、護理指引定義</text>
+<text x="44" y="1523" font-size="12.8" fill="#6B8084" font-weight="600">句），不可互相比較，也不可與任何一個人的療程對號入座。</text>
+<text x="44" y="1561" font-size="12" fill="#6B8084">示意圖，依 Andreyev 2025（英國腸胃學會癌症治療腸胃副作用指引）、Xavier 2019、BC</text>
+<text x="44" y="1581" font-size="12" fill="#6B8084">Cancer 放射性皮膚炎護理指引與 Forde 2025（ESTRO 實務建議）重繪</text>
+<text x="44" y="1601" font-size="12" fill="#6B8084">節點的位置代表先後順序，不是等比例的時間軸；沒有刻度的兩條線是因為查無可引的週數，不是</text>
+<text x="44" y="1621" font-size="12" fill="#6B8084">省略</text>
+  </g>
+</svg>

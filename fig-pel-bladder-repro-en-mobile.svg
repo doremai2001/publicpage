@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="2146.48" viewBox="0 0 620 2146.48" role="img" aria-labelledby="t d">
+  <title id="t">Full bladder or empty: two protocols, one job</title>
+  <desc id="d">Schematic setting the two bladder-preparation protocols side by side: the job is to copy the state the plan was built on, not to hold as much as possible. The left panel is the full-bladder protocol, used for most cervical, endometrial and rectal plans. A prospective study in locally advanced rectal cancer put 48 patients through both protocols with seven cone-beam scans each and found a mean bladder volume of 243 cc with a standard deviation of 164 on the full protocol, a geometric endpoint; what a full bladder does is push small bowel out of the field, every extra 100 mL of bladder volume lowering bowel V15 by a significant 16% in a rectal cancer IMRT planning study in healthy volunteers, a dosimetric endpoint; and a gynaecological planning study in 29 patients found a full bladder lowering the integral dose to the bladder itself, D50 falling from a median of 94% to 87%. The right panel is the empty-bladder protocol, used where the whole bladder is treated in muscle-invasive bladder cancer: the same patients under an empty-bladder instruction had a mean bladder volume of 73 cc with a standard deviation of 58, a third of the variability of the full protocol; an audit of 40 patients treated with 55 Gy in 20 fractions found no significant difference in bladder volume between the planning CT and the treatment-day image in the empty arm but a significant one in the full arm; and in the same audit, with no difference in target coverage, the body volume receiving 25.0 to 45.8 Gy was significantly smaller in the empty arm. That both protocols exist is a statement at expert-consensus level: in a consensus from two French societies, 30 of 34 topics reached agreement and one of the four that did not was how to define target margins for empty-bladder and full-bladder protocols. The middle of the figure shows the cell in which the idea that fuller is better fails on clinical endpoints: the group below 300 mL had the highest bladder V30 and V40 and the highest small bowel V40 and the most late radiation cystitis; the group between 300 and 500 mL had significantly the lowest rate of radiation cystitis; and the group above 500 mL had the highest dose to 2 cc of bladder and rectum and the most late radiation proctitis. The cohort label for that cell is post-operative radiotherapy for cervical cancer in two single-centre retrospective cohorts of 142 and 71 patients grouped by bladder volume on the planning day, and it is the only clinical-endpoint cell in the figure. The lower panel shows that when the bladder moves the organs move with it: changes in bladder and rectal filling shifted the uterine body by a median of 7 mm cranio-caudally with a 95% confidence interval of 3 to 15 mm; the mean three-dimensional change in the position of the uterine fundus was 26.1 plus or minus 10.8 mm; and the larger the volume held on the planning day, the more it fell away over the course, with a correlation coefficient of minus 0.69. The footnote warns that the two layers must not be mixed, volumes, displacements, V15 and D50 being geometric and dosimetric endpoints while only the 300 to 500 mL cell reports clinical endpoints, and adds that not being able to hold it or to empty properly should be said rather than pushed through, that holding less in the later weeks is a measured norm, and that the team adjusting the preparation from the images is not the patient getting it wrong.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="2146.48" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.0px">BLADDER REPRODUCIBILITY — TWO PROTOCOLS</text>
+<text x="44" y="112" font-size="28" fill="#123641" font-weight="800" class="r">Full bladder or empty: two</text>
+<text x="44" y="150" font-size="28" fill="#123641" font-weight="800" class="r">protocols, one job</text>
+<text x="44" y="192" font-size="14.5" fill="#527078">Whether your plan wants the bladder full or empty is set by the plan;</text>
+<text x="44" y="214" font-size="14.5" fill="#527078">your job is to copy that state each day, not to hold more than</text>
+<text x="44" y="236" font-size="14.5" fill="#527078">yesterday.</text>
+<text x="44" y="258" font-size="14.5" fill="#527078">The volumes, displacements and dose-volume figures here are</text>
+<text x="44" y="280" font-size="14.5" fill="#527078">geometric and dosimetric endpoints, not rates of side effects.</text>
+<g filter="url(#sh)"><rect x="44" y="318" width="532" height="330.8" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="338" width="492" height="34" rx="14.98" fill="#5C77C4"/>
+<text x="310" y="361.46" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">Full-bladder protocol</text>
+<text x="310" y="393" font-size="13" fill="#6B8084" text-anchor="middle">most cervical, endometrial and rectal plans</text>
+<text x="64" y="421" font-size="16" fill="#123641" font-weight="800">A full bladder pushes small bowel out of the field</text>
+<text x="64" y="448.13" font-size="13" fill="#345963">Same patients, both protocols (prospective study in locally advanced</text>
+<text x="64" y="469.13" font-size="13" fill="#345963">rectal cancer, 48 patients, 7 cone-beam scans each): mean bladder</text>
+<text x="64" y="490.13" font-size="13" fill="#345963">volume on the full protocol 243 cc, standard deviation 164. | geometric</text>
+<text x="64" y="516.13" font-size="13" fill="#345963">Every extra 100 mL of bladder volume lowered bowel V15 by a</text>
+<text x="64" y="537.13" font-size="13" fill="#345963">significant 16% (rectal cancer IMRT planning study in healthy</text>
+<text x="64" y="558.13" font-size="13" fill="#345963">volunteers). | dosimetric</text>
+<text x="64" y="584.13" font-size="13" fill="#345963">Gynaecological planning study (29 patients, each with both plans): a full</text>
+<text x="64" y="605.13" font-size="13" fill="#345963">bladder lowered the integral dose to the bladder itself, D50 falling</text>
+<text x="64" y="626.13" font-size="13" fill="#345963">from a median of 94% to 87%. | dosimetric</text>
+<g filter="url(#sh)"><rect x="44" y="666.8" width="532" height="351.8" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="686.8" width="492" height="34" rx="14.98" fill="#00806B"/>
+<text x="310" y="710.26" font-size="14.72" fill="#FFFFFF" font-weight="800" text-anchor="middle">Empty-bladder protocol</text>
+<text x="310" y="741.8" font-size="13" fill="#6B8084" text-anchor="middle">plans that treat the whole bladder (muscle-invasive bladder cancer)</text>
+<text x="64" y="769.8" font-size="16" fill="#123641" font-weight="800">An empty bladder is steadier, and the field is smaller</text>
+<text x="64" y="796.93" font-size="13" fill="#345963">The same patients under an empty-bladder instruction: mean bladder</text>
+<text x="64" y="817.93" font-size="13" fill="#345963">volume 73 cc, standard deviation 58 — a third of the variability of the</text>
+<text x="64" y="838.93" font-size="13" fill="#345963">full protocol. | geometric</text>
+<text x="64" y="864.93" font-size="13" fill="#345963">Audit of 40 patients treated with 55 Gy in 20 fractions: bladder</text>
+<text x="64" y="885.93" font-size="13" fill="#345963">volume between the planning CT and the treatment-day image did not</text>
+<text x="64" y="906.93" font-size="13" fill="#345963">differ significantly in the empty arm (p=0.11) but did in the full arm (p</text>
+<text x="64" y="927.93" font-size="13" fill="#345963">below 0.05). | geometric</text>
+<text x="64" y="953.93" font-size="13" fill="#345963">Same audit: with no difference in target coverage, the body volume</text>
+<text x="64" y="974.93" font-size="13" fill="#345963">receiving 25.0 to 45.8 Gy was significantly smaller in the empty arm (p</text>
+<text x="64" y="995.93" font-size="13" fill="#345963">below 0.05). | dosimetric</text>
+<rect x="44" y="1036.6" width="532" height="143.16" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="64" y="1070.14" font-size="14.72" fill="#8F7418" font-weight="800">Both protocols exist — and that is a statement at</text>
+<text x="64" y="1092.22" font-size="14.72" fill="#8F7418" font-weight="800">expert-consensus level</text>
+<text x="64" y="1117.14" font-size="13" fill="#345963">In a consensus from two French societies, 30 of 34 topics reached</text>
+<text x="64" y="1138.14" font-size="13" fill="#345963">agreement; one of the four that did not was how to define target</text>
+<text x="64" y="1159.14" font-size="13" fill="#345963">margins for empty-bladder and full-bladder protocols.</text>
+<text x="44" y="1215.76" font-size="16" fill="#123641" font-weight="800">“The fuller the better” fails on clinical endpoints: the 300</text>
+<text x="44" y="1238.96" font-size="16" fill="#123641" font-weight="800">to 500 mL cell</text>
+<rect x="44" y="1256.16" width="532" height="40" rx="12" fill="#E9E2CF" stroke="#9A9282" stroke-width="2"/>
+<text x="310" y="1282.16" font-size="16" fill="#123641" font-weight="800" text-anchor="middle">Below 300 mL</text>
+<text x="48" y="1318.96" font-size="13" fill="#345963">Highest bladder V30 and V40 and highest small bowel V40; most late</text>
+<text x="48" y="1339.96" font-size="13" fill="#345963">radiation cystitis.</text>
+<rect x="44" y="1358.16" width="532" height="40" rx="12" fill="#C9A83E" stroke="#A98722" stroke-width="2.5"/>
+<text x="310" y="1384.16" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">300 to 500 mL</text>
+<text x="48" y="1420.96" font-size="13" fill="#345963">Significantly the lowest rate of radiation cystitis (p=0.0396).</text>
+<rect x="44" y="1439.16" width="532" height="40" rx="12" fill="#E9E2CF" stroke="#9A9282" stroke-width="2"/>
+<text x="310" y="1465.16" font-size="16" fill="#123641" font-weight="800" text-anchor="middle">Above 500 mL</text>
+<text x="48" y="1501.96" font-size="13" fill="#345963">Highest dose to 2 cc of bladder and rectum; most late radiation proctitis.</text>
+<text x="44" y="1531.68" font-size="12.8" fill="#6B8084" font-weight="600">Cohort label: post-operative radiotherapy for cervical cancer, two</text>
+<text x="44" y="1551.68" font-size="12.8" fill="#6B8084" font-weight="600">single-centre retrospective cohorts (142 and 71 patients), grouped by</text>
+<text x="44" y="1571.68" font-size="12.8" fill="#6B8084" font-weight="600">bladder volume on the planning day. | clinical endpoint — the only</text>
+<text x="44" y="1591.68" font-size="12.8" fill="#6B8084" font-weight="600">clinical-endpoint cell in this figure.</text>
+<g filter="url(#sh)"><rect x="44" y="1627.68" width="532" height="242.8" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="1663.68" font-size="16" fill="#123641" font-weight="800">Move the bladder and the organs move with it</text>
+<text x="64" y="1690.81" font-size="13" fill="#345963">Changes in bladder and rectal filling shifted the uterine body by a</text>
+<text x="64" y="1711.81" font-size="13" fill="#345963">median of 7 mm in the cranio-caudal direction (95% confidence interval</text>
+<text x="64" y="1732.81" font-size="13" fill="#345963">3 to 15 mm). | geometric</text>
+<text x="64" y="1758.81" font-size="13" fill="#345963">Mean three-dimensional change in the position of the uterine fundus</text>
+<text x="64" y="1779.81" font-size="13" fill="#345963">26.1 plus or minus 10.8 mm (cervical cancer, 13 patients). | geometric</text>
+<text x="64" y="1805.81" font-size="13" fill="#345963">The larger the volume held on the planning day, the more it fell away</text>
+<text x="64" y="1826.81" font-size="13" fill="#345963">over the course (correlation coefficient minus 0.69) — going straight</text>
+<text x="64" y="1847.81" font-size="13" fill="#345963">to the limit is the hardest state to copy. | geometric</text>
+<text x="44" y="1884.48" font-size="12.8" fill="#6B8084" font-weight="600">Do not mix the two layers: volumes, displacements, V15 and D50 are</text>
+<text x="44" y="1904.48" font-size="12.8" fill="#6B8084" font-weight="600">geometric and dosimetric endpoints; only the 300 to 500 mL cell reports</text>
+<text x="44" y="1924.48" font-size="12.8" fill="#6B8084" font-weight="600">clinical endpoints (rates of late cystitis and proctitis).</text>
+<text x="44" y="1950.48" font-size="12.8" fill="#6B8084" font-weight="600">Say so if you cannot hold it or cannot empty properly, rather than</text>
+<text x="44" y="1970.48" font-size="12.8" fill="#6B8084" font-weight="600">pushing through; holding less in the later weeks is a measured norm, and</text>
+<text x="44" y="1990.48" font-size="12.8" fill="#6B8084" font-weight="600">the team adjusting your preparation from the images is not you getting</text>
+<text x="44" y="2010.48" font-size="12.8" fill="#6B8084" font-weight="600">it wrong.</text>
+<text x="44" y="2048.48" font-size="12" fill="#6B8084">Schematic, redrawn from the MESORECT study 2026, Guel 2024, Khalifa 2021,</text>
+<text x="44" y="2068.48" font-size="12" fill="#6B8084">Buchali 1999, Ahmad 2011, Nijkamp 2012, Byun 2020, Wu 2026 and Wang 2025</text>
+<text x="44" y="2088.48" font-size="12" fill="#6B8084">Cancer sites, protocols, doses and endpoints differ between studies; figures are</text>
+<text x="44" y="2108.48" font-size="12" fill="#6B8084">not directly comparable across cells</text>
+  </g>
+</svg>

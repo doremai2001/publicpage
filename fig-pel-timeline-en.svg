@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1910" viewBox="0 0 1440 1910" role="img" aria-labelledby="t d">
+  <title id="t">Four lines, and only two of them can carry ticks</title>
+  <desc id="d">Schematic of the shape in time of four reactions to pelvic radiotherapy, only two of which can carry ticks. The first ticked line is the acute bowel reaction, with three nodes: from week 2, hardest in the final week, and at least one to two weeks after the end. The 2025 British Society of Gastroenterology guideline states that acute gastrointestinal symptoms usually begin in the second week after starting radiotherapy, tend to peak in the last week of treatment and continue for at least one to two weeks after completion, and the same passage carries an exception: with hypofractionated regimens acute symptoms may not start before treatment is completed, so someone given five fractions before rectal surgery may feel fine on the last day and unwell a week later. The level of evidence here is a practice statement in a guideline rather than a pooled quantitative result. The second ticked line is late bleeding, with three nodes: first noticed a few months after the end, peaking within three years, and sometimes persisting for ten years or more. The same guideline states that rectal bleeding occurs in up to half of all patients treated with radiotherapy for a pelvic tumour and is often occasional and minor, while severe bleeding affects about 1% of patients after radical pelvic irradiation; the risk relates directly to the dose delivered to the bowel wall, and brachytherapy may move the site of maximum damage from the rectum to the sigmoid. The other two lines are drawn as bands without ticks. For skin, only an interval can be cited: reactions are evident one to four weeks after beginning treatment and can persist for several weeks afterwards, and schedules longer than four to five weeks delay the onset of recovery; which week it reddens, which week it breaks and how long it takes to settle have no pelvic-specific source, and the breast curve cannot be borrowed. The urinary line is likewise unticked: about a third of patients developed new or worsening urinary symptoms during treatment, the commonest among those affected being pain on passing urine at 83%, and the source counts cumulative dose rather than weeks, three quarters of the symptoms appearing between a cumulative 16 and 45 Gy — roughly the middle of the course, but not convertible into a week number. The footnote notes that both ticked lines come from the text of the same guideline, that the two bands have no citable week numbers and that their width does not represent severity, and that the four lines come from different cancers and cohorts and are not comparable with each other.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hz" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#96790F" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1910" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">TIMELINE — TWO LINES WITH TICKS, TWO WITHOUT</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">Four lines, and only two of them can carry ticks</text>
+<text x="84" y="194" font-size="21" fill="#527078">Bowel and late bleeding can be read off the guideline text stage by stage, so they carry ticks; skin and urinary</text>
+<text x="84" y="224" font-size="21" fill="#527078">have only an interval, so they are drawn as bands without ticks.</text>
+<text x="84" y="254" font-size="21" fill="#527078">The ticks mark order, not a time axis to scale; the four lines come from different cohorts and are not</text>
+<text x="84" y="284" font-size="21" fill="#527078">comparable with each other.</text>
+<g filter="url(#sh)"><rect x="84" y="334" width="1272" height="324.5" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="379" font-size="19" fill="#5C77C4" font-weight="800">Bowel (acute)</text>
+<line x1="120" y1="432.5" x2="1290" y2="432.5" stroke="#DBD3BF" stroke-width="3" stroke-linecap="round"/>
+<line x1="1288" y1="432.5" x2="1322" y2="432.5" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1322" y1="432.5" x2="1312.3" y2="437.7" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1322" y1="432.5" x2="1312.3" y2="427.3" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="150" cy="432.5" r="10" fill="#123641"/>
+<text x="166.78" y="412.5" font-size="16" fill="#123641" font-weight="800" text-anchor="middle">from week 2</text>
+<circle cx="635.9" cy="432.5" r="10" fill="#123641"/>
+<text x="635.9" y="412.5" font-size="16" fill="#123641" font-weight="800" text-anchor="middle">hardest in the final week</text>
+<circle cx="1121.8" cy="432.5" r="10" fill="#123641"/>
+<text x="1121.8" y="412.5" font-size="16" fill="#123641" font-weight="800" text-anchor="middle">at least 1 to 2 weeks after the end</text>
+<text x="110" y="521.22" font-size="14.2" fill="#345963">The 2025 British Society of Gastroenterology guideline states that acute gastrointestinal symptoms usually begin in the second week after starting</text>
+<text x="110" y="545.22" font-size="14.2" fill="#345963">radiotherapy, tend to peak in the last week of treatment and continue for at least one to two weeks after completion.</text>
+<text x="110" y="574.22" font-size="14.2" fill="#345963">The same passage carries an exception: with hypofractionated regimens, acute symptoms may not start before treatment is completed — so for someone given</text>
+<text x="110" y="598.22" font-size="14.2" fill="#345963">five fractions before rectal surgery, feeling fine on the last day and unwell a week later is written into the guideline.</text>
+<text x="110" y="627.22" font-size="14.2" fill="#345963">Level of evidence: a practice statement in a guideline, not a pooled quantitative result.</text>
+<g filter="url(#sh)"><rect x="84" y="680.5" width="1272" height="348.5" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="725.5" font-size="19" fill="#8F7418" font-weight="800">Late bleeding</text>
+<line x1="120" y1="779" x2="1290" y2="779.0" stroke="#DBD3BF" stroke-width="3" stroke-linecap="round"/>
+<line x1="1288" y1="779" x2="1322" y2="779" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1322" y1="779" x2="1312.3" y2="784.2" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1322" y1="779" x2="1312.3" y2="773.8" stroke="#9A9282" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="150" cy="779" r="10" fill="#123641"/>
+<text x="301.06" y="759" font-size="16" fill="#123641" font-weight="800" text-anchor="middle">a few months after the end: first noticed</text>
+<circle cx="635.9" cy="779" r="10" fill="#123641"/>
+<text x="635.9" y="759" font-size="16" fill="#123641" font-weight="800" text-anchor="middle">within 3 years: the peak</text>
+<circle cx="1121.8" cy="779" r="10" fill="#123641"/>
+<text x="1121.8" y="759" font-size="16" fill="#123641" font-weight="800" text-anchor="middle">10 years or more: sometimes persists</text>
+<text x="110" y="867.72" font-size="14.2" fill="#345963">The same guideline states that people usually start to notice intermittent bleeding a few months after the end of radiotherapy, that it usually reaches a peak</text>
+<text x="110" y="891.72" font-size="14.2" fill="#345963">within three years and that it sometimes then persists for ten or more years.</text>
+<text x="110" y="920.72" font-size="14.2" fill="#345963">The magnitude sits in the same passage: rectal bleeding occurs in up to half of all patients treated with radiotherapy for a pelvic tumour, often occasional and</text>
+<text x="110" y="944.72" font-size="14.2" fill="#345963">minor, while severe bleeding affects about 1% of patients after radical pelvic irradiation.</text>
+<text x="110" y="973.72" font-size="14.2" fill="#345963">The risk of bleeding is directly related to the dose delivered to the bowel wall; brachytherapy may move the site of maximum damage from the rectum to the</text>
+<text x="110" y="997.72" font-size="14.2" fill="#345963">sigmoid.</text>
+<g filter="url(#sh)"><rect x="84" y="1051" width="1272" height="273.5" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="1096" font-size="19" fill="#345963" font-weight="800">Skin</text>
+<rect x="173.12" y="1082.32" width="96" height="26" rx="10" fill="none" stroke="#A98722" stroke-width="1.8" stroke-dasharray="6 5"/>
+<text x="221.12" y="1100.32" font-size="13.5" fill="#8F7418" font-weight="800" text-anchor="middle">no ticks</text>
+<rect x="110" y="1135.5" width="1220" height="40" rx="14" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="8 7" opacity="0.9"/>
+<text x="110" y="1127.5" font-size="14" fill="#6B8084" font-weight="700">treatment starts</text>
+<text x="1330" y="1127.5" font-size="14" fill="#6B8084" font-weight="700" text-anchor="end">weeks after treatment ends</text>
+<text x="110" y="1216.22" font-size="14.2" fill="#345963">Only an interval can be cited: reactions are evident one to four weeks after beginning treatment and can persist for several weeks afterwards, and schedules</text>
+<text x="110" y="1240.22" font-size="14.2" fill="#345963">longer than four to five weeks delay the onset of recovery.</text>
+<text x="110" y="1269.22" font-size="14.2" fill="#345963">Why there are no ticks: which week it reddens, which week it breaks and how long it takes to settle have no pelvic-specific source, and the breast figure of a</text>
+<text x="110" y="1293.22" font-size="14.2" fill="#345963">peak about two weeks after the end cannot be borrowed.</text>
+<g filter="url(#sh)"><rect x="84" y="1346.5" width="1272" height="273.5" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="1391.5" font-size="19" fill="#345963" font-weight="800">Urinary</text>
+<rect x="208.46" y="1377.82" width="96" height="26" rx="10" fill="none" stroke="#A98722" stroke-width="1.8" stroke-dasharray="6 5"/>
+<text x="256.46" y="1395.82" font-size="13.5" fill="#8F7418" font-weight="800" text-anchor="middle">no ticks</text>
+<rect x="110" y="1431" width="1220" height="40" rx="14" fill="url(#hz)" stroke="#96790F" stroke-width="2" stroke-dasharray="8 7" opacity="0.9"/>
+<text x="110" y="1423" font-size="14" fill="#6B8084" font-weight="700">earlier in the course</text>
+<text x="1330" y="1423" font-size="14" fill="#6B8084" font-weight="700" text-anchor="end">later in the course</text>
+<text x="110" y="1511.72" font-size="14.2" fill="#345963">About a third of patients (24 of 72) developed new or worsening urinary symptoms during treatment, and the commonest among those affected was pain on</text>
+<text x="110" y="1535.72" font-size="14.2" fill="#345963">passing urine at 83%. | prospective cohort across cancer sites, single centre, stopped early because the result did not match expectation</text>
+<text x="110" y="1564.72" font-size="14.2" fill="#345963">Why there are no ticks: the source counts cumulative dose rather than weeks — three quarters of the symptoms appeared between a cumulative 16 and 45 Gy.</text>
+<text x="110" y="1588.72" font-size="14.2" fill="#345963">This line can be described as roughly the middle of the course, but it cannot be converted into a week number.</text>
+<text x="84" y="1660" font-size="14.5" fill="#6B8084" font-weight="600">The two ticked lines come from the text of the same 2025 guideline; the two bands have no citable week numbers, and their width represents how far the</text>
+<text x="84" y="1684" font-size="14.5" fill="#6B8084" font-weight="600">sourced interval reaches rather than severity.</text>
+<text x="84" y="1714" font-size="14.5" fill="#6B8084" font-weight="600">The four lines come from different cancers and cohorts (a cross-site practice statement in a guideline, a cross-site prospective cohort and a nursing</text>
+<text x="84" y="1738" font-size="14.5" fill="#6B8084" font-weight="600">guideline definition), are not comparable with each other, and should not be matched to any individual course.</text>
+<text x="84" y="1788" font-size="16" fill="#6B8084">Schematic, redrawn from Andreyev 2025 (British Society of Gastroenterology guideline on the gastrointestinal side effects of cancer treatment),</text>
+<text x="84" y="1812" font-size="16" fill="#6B8084">Xavier 2019, the BC Cancer nursing guideline on radiation dermatitis and Forde 2025 (ESTRO practice recommendations)</text>
+<text x="84" y="1836" font-size="16" fill="#6B8084">Tick positions mark order rather than a time axis to scale; the two lines without ticks are unticked because no week numbers could be sourced, not</text>
+<text x="84" y="1860" font-size="16" fill="#6B8084">because they were omitted</text>
+  </g>
+</svg>
