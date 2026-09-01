@@ -24,6 +24,17 @@
 4. build 前必先 `git pull`——作者會在 session 之間高頻率直接改 repo
 5. 上傳落地後把本地 clone reset 對齊 origin
 
+## 待上線草稿（`pending/`）
+
+寫完但作者還沒決定上線的成品放在 `pending/<slug>/`，每個資料夾內含成品 HTML、
+查證 brief，以及一份 README 寫明狀態、文章支點、紅線、以及「上線前還要做的事」。
+**這些不是廢稿**——是等時機的稿子，每次新 session 起手時值得掃一眼。
+
+目前：
+
+- `pending/insight-jp-advanced/` —〈自費，但不能各做各的〉，日本先進醫療A 制度下的
+  粒子線治療（醫學新知）。中文完稿、未上線；英文版未產出。2026-09-01。
+
 ## 已知的路徑注意事項
 
 `cervix.py` 的 `_STAGE` 指向建題當時的 scratchpad 絕對路徑；`stage_cervix_figs.py`
