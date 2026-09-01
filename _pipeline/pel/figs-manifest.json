@@ -1,0 +1,162 @@
+[
+  {
+    "id": "fig-pel-bladder-repro",
+    "zh_alt": "示意圖：膀胱準備的兩種流程並陳，主題是複製計畫當初的那個狀態，不是憋越多越好。左格是滿膀胱流程，用在子宮頸癌、子宮內膜癌與直腸癌的多數計畫：一份局部晚期直腸癌的前瞻研究讓 48 位病人同時做滿膀胱與空膀胱兩套流程、各 7 次錐狀束影像，滿膀胱流程下的膀胱體積平均 243 立方公分、標準差 164，屬幾何終點；滿膀胱做的事是把小腸頂出照野，膀胱體積每多 100 毫升，腸道 V15 顯著下降 16%，這一筆出自直腸癌 IMRT 的計畫研究、對象是健康志願者，屬劑量學；另一份 29 人的婦癌計畫研究顯示滿膀胱把膀胱自身的整體劑量壓下來，D50 由中位 94% 降到 87%。右格是空膀胱流程，用在整顆膀胱要照的計畫，也就是肌肉侵犯型膀胱癌：同一批人的空膀胱指令下膀胱體積平均 73 立方公分、標準差 58，變異只有滿膀胱那一格的三分之一；一份 40 人、55 Gy 分 20 次的流程稽核顯示，空膀胱組在模擬電腦斷層與治療當天影像之間的膀胱體積沒有顯著差異，滿膀胱組有；同一份稽核裡，在標靶涵蓋沒有差別的前提下，接受 25.0 到 45.8 Gy 的身體體積在空膀胱組顯著較小。兩種流程都存在是專家層級的事實：法國兩個學會的專家共識 34 個議題有 30 項達成共識，沒有共識的 4 項之一正是空膀胱與滿膀胱流程的標靶邊界該怎麼定。圖的中段畫出「越滿越好」在臨床終點上被打回票的那一格：低於 300 毫升那組的膀胱 V30 與 V40 最高、小腸 V40 最高，晚期放射性膀胱炎最多；300 到 500 毫升那組的放射性膀胱炎發生率顯著最低；高於 500 毫升那組的膀胱與直腸 2 立方公分處劑量最高，晚期放射性直腸炎最多。這一格的族群標籤是子宮頸癌術後放療、兩份單中心回溯世代共 142 人與 71 人，依模擬當天的膀胱容積分組，也是全圖唯一的臨床終點。圖的下段說明膀胱一動器官就跟著動：膀胱與直腸的充盈改變讓子宮體在頭尾向位移中位 7 毫米、95% 信賴區間 3 到 15 毫米；子宮底的平均三維位置變化 26.1 加減 10.8 毫米；模擬那天憋得越大的人療程中掉得越多，相關係數負 0.69。圖注提醒兩層標籤不可混：體積、位移、V15 與 D50 是幾何與劑量學終點，只有 300 到 500 毫升那一格是臨床終點；憋不住、解不乾淨要說出來不要硬撐，療程後段裝不住是被量到的常態，團隊依影像調整你的準備方式不是你做錯。",
+    "en_alt": "Schematic setting the two bladder-preparation protocols side by side: the job is to copy the state the plan was built on, not to hold as much as possible. The left panel is the full-bladder protocol, used for most cervical, endometrial and rectal plans. A prospective study in locally advanced rectal cancer put 48 patients through both protocols with seven cone-beam scans each and found a mean bladder volume of 243 cc with a standard deviation of 164 on the full protocol, a geometric endpoint; what a full bladder does is push small bowel out of the field, every extra 100 mL of bladder volume lowering bowel V15 by a significant 16% in a rectal cancer IMRT planning study in healthy volunteers, a dosimetric endpoint; and a gynaecological planning study in 29 patients found a full bladder lowering the integral dose to the bladder itself, D50 falling from a median of 94% to 87%. The right panel is the empty-bladder protocol, used where the whole bladder is treated in muscle-invasive bladder cancer: the same patients under an empty-bladder instruction had a mean bladder volume of 73 cc with a standard deviation of 58, a third of the variability of the full protocol; an audit of 40 patients treated with 55 Gy in 20 fractions found no significant difference in bladder volume between the planning CT and the treatment-day image in the empty arm but a significant one in the full arm; and in the same audit, with no difference in target coverage, the body volume receiving 25.0 to 45.8 Gy was significantly smaller in the empty arm. That both protocols exist is a statement at expert-consensus level: in a consensus from two French societies, 30 of 34 topics reached agreement and one of the four that did not was how to define target margins for empty-bladder and full-bladder protocols. The middle of the figure shows the cell in which the idea that fuller is better fails on clinical endpoints: the group below 300 mL had the highest bladder V30 and V40 and the highest small bowel V40 and the most late radiation cystitis; the group between 300 and 500 mL had significantly the lowest rate of radiation cystitis; and the group above 500 mL had the highest dose to 2 cc of bladder and rectum and the most late radiation proctitis. The cohort label for that cell is post-operative radiotherapy for cervical cancer in two single-centre retrospective cohorts of 142 and 71 patients grouped by bladder volume on the planning day, and it is the only clinical-endpoint cell in the figure. The lower panel shows that when the bladder moves the organs move with it: changes in bladder and rectal filling shifted the uterine body by a median of 7 mm cranio-caudally with a 95% confidence interval of 3 to 15 mm; the mean three-dimensional change in the position of the uterine fundus was 26.1 plus or minus 10.8 mm; and the larger the volume held on the planning day, the more it fell away over the course, with a correlation coefficient of minus 0.69. The footnote warns that the two layers must not be mixed, volumes, displacements, V15 and D50 being geometric and dosimetric endpoints while only the 300 to 500 mL cell reports clinical endpoints, and adds that not being able to hold it or to empty properly should be said rather than pushed through, that holding less in the later weeks is a measured norm, and that the team adjusting the preparation from the images is not the patient getting it wrong.",
+    "zh_caption": "示意圖，依 MESORECT 研究 2026、Guel 2024、Khalifa 2021、Buchali 1999、Ahmad 2011、Nijkamp 2012、Byun 2020、Wu 2026 與 Wang 2025 重繪；體積、位移與劑量體積數字是幾何與劑量學終點，只有 300 到 500 毫升那一格是臨床終點，兩層不可混為一談，各研究的癌別與流程不同也不可直接互比。",
+    "en_caption": "Schematic, redrawn from the MESORECT study 2026, Guel 2024, Khalifa 2021, Buchali 1999, Ahmad 2011, Nijkamp 2012, Byun 2020, Wu 2026 and Wang 2025; volumes, displacements and dose-volume figures are geometric and dosimetric endpoints while only the 300 to 500 mL cell reports clinical endpoints, the two layers must not be mixed, and cancer sites and protocols differ between studies.",
+    "files": {
+      "desktop": "fig-pel-bladder-repro.svg",
+      "mobile": "fig-pel-bladder-repro-mobile.svg",
+      "en": "fig-pel-bladder-repro-en.svg",
+      "en_mobile": "fig-pel-bladder-repro-en-mobile.svg"
+    },
+    "used_by": [
+      "pel-bladder-bowel"
+    ],
+    "placement": {
+      "article": "pel-bladder-bowel",
+      "after_h4": "憋過頭同樣要付代價：300 到 500 毫升的那一格"
+    },
+    "sources": [
+      "A[S17] MESORECT／Alexandre 2026（同一批人兩套流程：滿膀胱 243±164 cm³ vs 空膀胱 73±58 cm³）",
+      "A[S18] Guel 2024（膀胱癌 55 Gy/20 次流程稽核：空膀胱 p=0.11、滿膀胱 p 小於 0.05；25.0–45.8 Gy 身體體積）",
+      "A[S19] Khalifa 2021（法國兩學會共識：34 項中 30 項達成共識，未達共識者含滿／空流程的 PTV 邊界）",
+      "A[S14] Buchali 1999（滿膀胱 D50 由 94% 降到 87%；子宮體頭尾向位移中位 7 mm、95% CI 3–15）",
+      "A[S15] Ahmad 2011（子宮底平均 3D 位置變化 26.1±10.8 mm，n=13）",
+      "A[S28] Nijkamp 2012（膀胱每多 100 mL，腸道 V15 下降 16%；志願者計畫研究）",
+      "A[S26] Byun 2020（第 5 次分次膀胱體積少 19.0%；模擬時越大掉越多，ρ=−0.69）",
+      "A[S20] Wu 2026（子宮頸癌術後 142 人回溯：300–500 mL 組放射性膀胱炎顯著最低，p=0.0396）",
+      "A[S21] Wang 2025（子宮頸癌術後 71 人回溯：小於 300 mL 晚期膀胱炎最多、500 mL 以上晚期直腸炎最多）",
+      "A[FAIL-4] 喝水方案本身的隨機試驗查無——圖上不給任何毫升數或時間指令"
+    ]
+  },
+  {
+    "id": "fig-pel-anatomy-map",
+    "zh_alt": "示意圖（非實際解剖比例）：骨盆腔器官與五個癌別照野的鄰接關係。圖上畫出同一塊骨盆腔裡的器官——上方是小腸、前側是膀胱、中間是子宮與子宮頸、後側是直腸與乙狀結腸、膀胱下方是攝護腺，兩側是骨盆骨與骨髓、以及沿著骨盆壁的骨盆淋巴區；同一張圖同時標了兩性的器官，實際上不會同時存在。五個癌別各一列。膀胱癌：標靶是膀胱本身，保留膀胱的三聯療法先做內視鏡刮除、再合併放療與化療；鄰居是直腸、小腸與骨盆淋巴區，整顆膀胱要照時很多醫院用的是空膀胱流程；膀胱癌另有專題規劃中。子宮頸癌：標靶是子宮頸、子宮與骨盆淋巴區，外照之後多半還有近接治療；鄰居是前方的膀胱、後方的直腸與乙狀結腸、上方的小腸。子宮內膜癌：術後照骨盆腔或只照陰道殘端，高中度風險的隨機試驗顯示只照陰道就夠；照的範圍不同，鄰居就不同；子宮內膜癌另有專題規劃中。直腸癌：術前照直腸與腸繫膜區、骨盆淋巴區；鄰居是小腸與膀胱，這也是裝滿的膀胱把小腸頂出照野的那一格。攝護腺癌：標靶是攝護腺，視病情加上精囊或骨盆淋巴區；鄰居是緊貼在後的直腸前壁與上方的膀胱頸。圖的另一格說明同一組器官各自被算的東西不同：小腸有明確閾值，腹膜腔勾畫 V45 小於 195 立方公分或逐段腸圈 V15 小於 120 立方公分；腸道的 EMBRACE-II 規劃目標是 V40 小於 250 立方公分、V30 小於 500 立方公分；直腸有完整的劑量體積模型；膀胱那一格的證據最弱，QUANTEC 的膀胱章自己寫部分器官照射的資料可疑，因為沒有把膀胱會動這件事算進去，所以本圖不給膀胱的劑量門檻。五癌別各自要不要放療、照幾次、要不要合併化療，是各自專題的事，本圖只畫誰在誰旁邊。",
+    "en_alt": "Schematic (not to anatomical scale) of pelvic organs and how the fields of five cancers sit against them. The drawing shows the organs of one pelvis: small bowel above, bladder at the front, uterus and cervix in the middle, rectum and sigmoid behind, prostate below the bladder, with pelvic bone and marrow at the sides and the pelvic nodes running along the pelvic wall; organs of both sexes are labelled on one drawing and never coexist. Five cancers each take a row. Bladder cancer: the target is the bladder itself, since bladder-preserving trimodality therapy begins with endoscopic resection and then combines radiotherapy with chemotherapy; the neighbours are rectum, small bowel and pelvic nodes, and when the whole bladder is treated many centres use an empty-bladder protocol; a separate series on bladder cancer is planned. Cervical cancer: the target is cervix, uterus and pelvic nodes, usually followed by brachytherapy, with bladder in front, rectum and sigmoid behind and small bowel above. Endometrial cancer: after surgery either the pelvis or the vaginal vault alone, a randomised trial having found the vault sufficient at high-intermediate risk; change the extent and the neighbours change; a separate series is planned. Rectal cancer: before surgery the rectum and mesorectum with pelvic nodes, the neighbours being small bowel and bladder — this is the cell in which a full bladder pushing small bowel out of the field matters. Prostate cancer: the prostate, with seminal vesicles or pelvic nodes where indicated, the anterior rectal wall directly behind and the bladder neck above. A further panel notes that the same organs are not judged by the same numbers: small bowel has clear thresholds, V45 under 195 cc for the peritoneal bowel bag or V15 under 120 cc for individual loops; the EMBRACE-II planning aims for bowel are V40 under 250 cc and V30 under 500 cc; the rectum has a complete dose-volume model; and the bladder is the weakest cell, because the QUANTEC bladder chapter states that its partial-organ data are suspect since bladder motion is not accounted for, so no bladder dose threshold is given here. Whether to irradiate, how many fractions and whether to add chemotherapy belong to each cancer's own series; this figure only shows what sits next to what.",
+    "zh_caption": "示意圖（非實際解剖比例），依 Kavanagh 2010、Michalski 2010、Viswanathan 2010（QUANTEC 三章）與 Pötter 2018（EMBRACE-II 規劃目標）重繪，五癌別的標靶與鄰接關係依既有隨機試驗與指引的照射範圍描述繪製；器官位置為示意，你的照野由你的醫師依分期與影像決定。",
+    "en_caption": "Schematic (not to anatomical scale), redrawn from Kavanagh 2010, Michalski 2010 and Viswanathan 2010 (three QUANTEC chapters) and Pötter 2018 (EMBRACE-II planning aims), with targets and adjacencies drawn from the field descriptions in the published trials and guidelines; organ positions are indicative and your own field is set by your doctor from staging and imaging.",
+    "files": {
+      "desktop": "fig-pel-anatomy-map.svg",
+      "mobile": "fig-pel-anatomy-map-mobile.svg",
+      "en": "fig-pel-anatomy-map-en.svg",
+      "en_mobile": "fig-pel-anatomy-map-en-mobile.svg"
+    },
+    "used_by": [
+      "pel-who"
+    ],
+    "placement": {
+      "article": "pel-who",
+      "after_h4": "攝護腺癌：兩條路的癌症死亡率一樣低"
+    },
+    "sources": [
+      "B[S20] Kavanagh 2010（QUANTEC 小腸：bowel bag V45 小於 195 cm³、逐段腸圈 V15 小於 120 cm³）",
+      "B[S21] Michalski 2010（QUANTEC 直腸：完整劑量體積模型）",
+      "B[S22] Viswanathan 2010（QUANTEC 膀胱：partial-organ 資料「are suspect」——膀胱那一格留白）",
+      "B[S23] Pötter 2018（EMBRACE-II 規劃目標：腸道 V40 小於 250 cm³、V30 小於 500 cm³）",
+      "A[S1] Zlotta 2023／A[S2] BC2001（膀胱癌三聯療法的標靶敘述）",
+      "A[S4] CCCMAC 2008（子宮頸癌根治性同步化放療）",
+      "A[S6] PORTEC-1／A[S7] PORTEC-2（子宮內膜癌：骨盆腔或只照陰道殘端）",
+      "A[S10] Dutch TME／A[S11] CAO/ARO/AIO-94（直腸癌術前放療的標靶敘述）",
+      "A[S12] ProtecT 15 年（攝護腺癌根治性放療）",
+      "SPEC §一5：膀胱癌與子宮內膜癌另有專題規劃中，本圖與本篇不代寫疾病介紹"
+    ]
+  },
+  {
+    "id": "fig-pel-technique-map",
+    "zh_alt": "示意圖：骨盆腔放射治療的技術地圖，三層可以疊起來——調控（固定野 IMRT 與旋轉調控 VMAT、TOMO）、影像導引（疊在每一格上面的一層）、粒子（光子或質子）。落在哪一格由適應症決定，不是由預算決定；標靶形狀、照射範圍與你的解剖條件決定落點，查不到官方公告的項目一律問醫務課。第一格是一般強度調控加上每日影像導引，也就是健保給付的一般技術，這一格不用形容詞、填的是真實數字：子宮頸癌術後 50 Gy 分 25 次的 300 人隨機試驗，3 年第 2 級以上晚期腸胃道毒性 21.1%，對照三維順形 42.4%，風險比 0.46，而該試驗的試驗臂登錄為以螺旋斷層執行的影像導引放療；子宮內膜癌與子宮頸癌術後的隨機病人自評試驗，療程結束時回報頻繁或幾乎持續腹瀉者 33.7%，對照標準四野 51.9%，一年後高程度腹瀉 5.8% 對 15.1%；肛門癌劑量繪製 IMRT 合併化療的 52 人試驗，急性第 3 級以上腸胃道毒性 21%、皮膚毒性 23%，屬單臂對歷史對照；攝護腺癌 74.8 Gy 的 308 人單中心回溯資料，5 年累積晚期第 2 級以上泌尿道毒性 7.3%、腸胃道 6.2%；照野體積方面，一致的勾畫協定加上 IMRT、每日影像導引與 5 毫米邊界，子宮頸癌病人接受 43 Gy 的平均體積約 1,500 立方公分，屬劑量學。第二格是旋轉調控，螺旋斷層與 VMAT 放在同一格、格內不排名，因為互有勝負：偏螺旋斷層的一筆是台灣 93 位子宮頸癌同步化放療資料，直腸 V30 中位數 56.4%、86.5%、97.5%，第 2 級以上急性腹瀉 10.0%、54.5%、66.7%，單中心回溯；偏弧形調控的一筆是日本 308 人攝護腺癌回溯資料，晚期第 2 級以上腸胃道毒性 VMAT 0%、五野固定 IMRT 7.3%、螺旋斷層 11%；唯一含螺旋斷層的骨盆腔隨機試驗比的是它跟老技術，123 位高風險攝護腺癌、中位追蹤 161 個月，晚期第 2 級以上直腸毒性三維順形 8.3% 對螺旋斷層 11.1%，看不出差別；螺旋斷層對一般強度調控的隨機臨床療效比較查無。第三格是質子：骨盆照野裡調控質子讓接受低劑量的組織體積大約只有光子調控的一半，婦癌術後規劃比較骨髓 V10 58% 對 86%、小腸 V20 21% 對 56%，這些都是劑量學；唯一讀出的隨機比較（攝護腺癌）沒有做出生活品質的差異，主要結果論文尚未發表，只能引回顧文章轉述；健保三個質子給付項目的適用範圍原文都以年齡未滿十九歲病人開頭，成人骨盆腔癌症的質子是全自費。第四格是每日影像導引，橫跨全圖的一層：EMBRACE-II 方案原文寫，有了每日院內影像、骨性配準與治療床修正，標靶邊界可以從 10 毫米縮到 5 毫米而不犧牲涵蓋，骨盆接受 43 Gy 的平均體積由 2,500 立方公分降到約 1,500 立方公分，這是劑量學與體積終點不是毒性終點；攝護腺癌的即時影像資料裡約 12% 到 17% 的分次因為看到偏移而被叫停修正。圖注提醒：骨髓、小腸與體積數字是劑量學，腹瀉與毒性分級的百分比是臨床終點，兩者不可相加，格與格之間也不可直接互比。",
+    "en_alt": "Schematic map of technique in pelvic radiotherapy as three layers that stack: modulation (fixed-field IMRT and rotational VMAT or TOMO), image guidance (a layer added on top of any cell) and particle (photons or protons). Where a patient lands is decided by indication rather than budget: target shape, the extent of the field and individual anatomy decide the cell, and for anything with no official published figure the hospital's finance office is the place to ask. The first cell is standard IMRT with daily IGRT, the NHI-covered general technique, and it carries real numbers rather than adjectives: in a randomised trial of 300 patients treated after surgery for cervical cancer with 50 Gy in 25 fractions, late gastrointestinal toxicity of grade 2 or worse at 3 years was 21.1% against 42.4% with 3D conformal radiotherapy, hazard ratio 0.46, the trial arm being registered as image-guided radiotherapy delivered on helical tomotherapy; in a randomised patient-reported trial after surgery for endometrial or cervical cancer, 33.7% reported frequent or almost constant diarrhoea at the end of treatment against 51.9% with the standard four-field technique, and at one year high-frequency diarrhoea was 5.8% against 15.1%; in 52 evaluable patients given dose-painted IMRT with chemotherapy for anal cancer, acute gastrointestinal toxicity of grade 3 or worse was 21% and skin toxicity 23%, a single arm against a historical control; in 308 patients given 74.8 Gy for prostate cancer at one centre, 5-year cumulative late toxicity of grade 2 or worse was 7.3% urinary and 6.2% gastrointestinal; and on field size, a consistent contouring protocol with IMRT, daily image guidance and a 5 mm margin brings the mean volume receiving 43 Gy to about 1,500 cc, which is dosimetric. The second cell is rotational delivery, with helical tomotherapy and VMAT placed together and not ranked against each other, because results go both ways: Taiwanese data in 93 patients having chemoradiotherapy for cervical cancer give median rectal V30 of 56.4%, 86.5% and 97.5% and acute diarrhoea of grade 2 or worse of 10.0%, 54.5% and 66.7%, from a single retrospective centre; Japanese retrospective data in 308 men with prostate cancer give late gastrointestinal toxicity of grade 2 or worse of 0% with VMAT, 7.3% with five-field IMRT and 11% with helical tomotherapy; the only randomised pelvic trial including helical tomotherapy compares it with the older technique in 123 men with high-risk prostate cancer at a median follow-up of 161 months, where late rectal toxicity of grade 2 or worse was 8.3% with 3D conformal radiotherapy against 11.1% with helical tomotherapy, showing no difference; and no randomised clinical comparison of helical tomotherapy against standard IMRT was found. The third cell is protons: in a pelvic field intensity-modulated proton therapy leaves roughly half as much tissue volume receiving a low dose as photon modulation, and a planning comparison after gynaecological surgery gives bone marrow V10 of 58% against 86% and small bowel V20 of 21% against 56%, all dosimetric; the only randomised comparison that has read out, in prostate cancer, showed no difference in quality-of-life outcomes, its primary results paper is not yet published and only accounts in review articles can be cited; and the eligibility text of all three NHI proton codes begins with patients under nineteen years of age, so adult pelvic disease is entirely self-funded. The fourth cell is daily image guidance, the layer running across the map: the EMBRACE-II protocol states that with daily in-room imaging, bony fusion and couch correction the target margin can fall from 10 mm to 5 mm without compromising coverage, and the mean pelvic volume receiving 43 Gy falls from 2,500 cc to about 1,500 cc, which is a dosimetric and volume endpoint rather than a toxicity endpoint; in prostate series using real-time imaging, roughly 12% to 17% of fractions were interrupted for a correction. The footnote warns that bone marrow, small bowel and volume figures are dosimetric while diarrhoea and toxicity-grade percentages are clinical endpoints, that the two cannot be added and that cells are not directly comparable.",
+    "zh_caption": "示意圖，依 Chopra 2021（PARCER）、NCT01279135 試驗登錄頁、Klopp 2018 與 Yeung 2022（RTOG 1203）、Kachnic 2013（RTOG 0529）、Kita 2022、Cheng 2022、Roy 2024、Pötter 2018（EMBRACE-II）、Navrátil 2019、Ger 2025、Gomis-Sellés 2025、行政院公報質子三碼條文與健保支付標準全表重繪；骨髓、小腸與體積數字是劑量學，毒性分級的百分比是臨床終點，兩者不可相加，格與格之間也不可直接互比。",
+    "en_caption": "Schematic, redrawn from Chopra 2021 (PARCER), the NCT01279135 trial registry record, Klopp 2018 and Yeung 2022 (RTOG 1203), Kachnic 2013 (RTOG 0529), Kita 2022, Cheng 2022, Roy 2024, Pötter 2018 (EMBRACE-II), Navrátil 2019, Ger 2025, Gomis-Sellés 2025, the Executive Yuan gazette text of the three proton codes and the full NHI fee schedule; bone marrow, small bowel and volume figures are dosimetric while toxicity-grade percentages are clinical endpoints, the two cannot be added, and cells are not directly comparable.",
+    "files": {
+      "desktop": "fig-pel-technique-map.svg",
+      "mobile": "fig-pel-technique-map-mobile.svg",
+      "en": "fig-pel-technique-map-en.svg",
+      "en_mobile": "fig-pel-technique-map-en-mobile.svg"
+    },
+    "used_by": [
+      "pel-technique-map"
+    ],
+    "placement": {
+      "article": "pel-technique-map",
+      "after_h4": "調控、影像導引、粒子：三件可以疊起來的事"
+    },
+    "sources": [
+      "B[S1] Chopra 2021（PARCER：3 年 grade 2 以上晚期腸胃道毒性 21.1% vs 42.4%，HR 0.46）",
+      "B[S2] ClinicalTrials.gov NCT01279135（PARCER 試驗臂登錄為「Tomotherapy based IGRT」——標籤依據）",
+      "B[S3] Klopp 2018（RTOG 1203：療程末頻繁或幾乎持續腹瀉 33.7% vs 51.9%）",
+      "B[S4] Yeung 2022（RTOG 1203 一年後：高程度腹瀉 5.8% vs 15.1%）",
+      "B[S10] Kachnic 2013（RTOG 0529：肛門癌急性 G3+ 腸胃道 21%、皮膚 23%）",
+      "B[S29] Kita 2022（日本 308 人：晚期 G2 以上腸胃道 VMAT 0%／五野 IMRT 7.3%／HT 11%；5 年晚期 G2 以上泌尿 7.3%、腸胃 6.2%）",
+      "B[S34] Cheng 2022（台灣 93 人子宮頸癌：直腸 V30 56.4%／86.5%／97.5%；G2 以上急性腹瀉 10.0%／54.5%／66.7%）",
+      "B[S19] Roy 2024（123 人隨機、中位追蹤 161 個月：晚期 G2 以上直腸 3D-CRT 8.3% vs HT 11.1%，p=.83）",
+      "B[S23] Pötter 2018（EMBRACE-II：邊界 10 mm 降到 5 mm、43 Gy 體積 2,500 降到約 1,500 cm³）",
+      "B[S53] Navrátil 2019（IMPT 低劑量體積約為光子調控的一半）",
+      "B[S54b] Ger 2025（婦癌術後規劃：骨髓 V10 58% vs 86%、小腸 V20 21% vs 56%）",
+      "B[S48] ClinicalTrials.gov NCT01617161（PARTIQoL：hasResults false）／B[S49] Gomis-Sellés 2025、B[S50] 世界粒子治療論壇報告（唯一可引的轉述）",
+      "B[S30][S31] 攝護腺癌即時影像：約 12% 到 17% 的分次被叫停修正",
+      "B[S60] 健保支付標準全表（IMRT／IGRT／斷層放射 0 筆；「強度調控」僅見於 36015B 備註 11,483 點；成人質子八項標 HTA、點數 0）",
+      "B[S61] 行政院公報質子三碼 36025B–36027B（適用範圍原文均以「年齡未滿十九歲病人」開頭）",
+      "B[FAIL-3] TOMO 對一般 IMRT 的隨機臨床療效比較：查無（圖上標為查無，格內不排名）",
+      "B[FAIL-8] TOMO 與 IGRT 的自費金額查無官方公告（圖上導向醫務課）"
+    ]
+  },
+  {
+    "id": "fig-pel-skin-sites",
+    "zh_alt": "示意圖：骨盆腔放射治療的皮膚反應，位置收斂到皺摺與摩擦處，風險軸是離肛門口的距離。分級的分界線就畫在皺摺上——第 2 級是斑塊狀的濕性脫屑，多半侷限於皮膚的皺摺與摺痕處；第 3 級是濕性脫屑出現在皺摺與摺痕以外的地方。所以每天要看的不是有沒有紅，是有沒有跑出皺摺。本圖不點名任何一道解剖構造，因為更細的部位名稱查無逐字來源。風險軸畫的是離肛門口有多遠：腫瘤距離肛門口 5 公分以內，勝算比 2.86；同方向的其他因子有未做造口 3.12、總劑量超過 50 Gy 2.59、合併同步化療 2.73；劑量的轉折點落在 50 Gy，超過之後每多 5 Gy 嚴重皮膚炎的風險增加 29%。高風險癌別是肛門癌與外陰癌，理由是照野本身就淺；肥胖造成的皮膚皺摺會增加該處的皮膚劑量。這一組數字的族群標籤是直腸與肛門癌、50 篇 4,892 人的統合分析。量級的部分：直腸與肛門癌的放射性皮膚炎總發生率 58.7%、第 3 級以上 12.3%、濕性脫屑 34.5%；另一份 63 人的單中心隨機試驗總發生率是 100%、嚴重者 36.5%，差別在分母與評估密度；全放療族群最多 95% 會出現急性放射性皮膚炎是全部位、全癌別的上限式敘述，不是骨盆腔的行情。時間畫成一條沒有刻度的區間帶：護理指引寫反應通常在開始治療後 1 到 4 週出現、可能在結束後持續數週，ESTRO 寫療程超過 4 到 5 週會延後恢復開始的時間；第幾週會紅、第幾週會破、幾週後退乾淨查無骨盆腔專屬來源，乳房放療的曲線不可挪用，所以這條帶不標刻度。圖上另有一格寫明已經超出保養品範圍的狀況：破皮、水疱、滲液在護理指引的分級與行動對照表裡被標為緊急，需在 24 小時內接受醫療評估；感染徵象四項是疼痛與腫脹擴散到治療範圍以外、化膿性分泌物、傷口臭味、發燒；已經開放的傷口該敷什麼是醫療端看過之後才做的決定，不要自己在藥局挑一種貼上去；骨盆腔療程的條件是治療團隊幾乎天天見得到，下一次躺上治療床時說出來就成立。",
+    "en_alt": "Schematic of skin reactions in pelvic radiotherapy, with site limited to folds and areas of friction and the risk axis given as distance from the anal verge. The line between grades is drawn on the folds: grade 2 is patchy moist desquamation mostly confined to skin folds and creases, while grade 3 is moist desquamation in areas other than folds and creases. The daily question is therefore not whether the skin is red but whether it has moved outside the folds. No individual anatomical site is named, because no finer wording could be sourced. The risk axis is distance from the anal verge: a tumour within 5 cm carries an odds ratio of 2.86, with other factors pointing the same way — no stoma 3.12, total dose above 50 Gy 2.59 and concurrent chemotherapy 2.73 — and the dose inflection sits at 50 Gy, beyond which every further 5 Gy raises the risk of severe dermatitis by 29%. Anal and vulvar cancer are named as higher-risk cancers because the fields are shallow, and skin folds from obesity raise the dose in the fold. These figures come from rectal and anal cancer, in a meta-analysis of 50 studies and 4,892 patients. On magnitude: overall radiation dermatitis in rectal and anal cancer is 58.7%, grade 3 or worse 12.3% and moist desquamation 34.5%; a single-centre randomised trial of 63 patients reports 100% overall and 36.5% severe, the difference lying in the denominator and the intensity of assessment; and the statement that up to 95% of patients develop acute radiation dermatitis covers every site and every cancer rather than the pelvis. Time is drawn as an interval band with no ticks: the nursing guideline states that reactions are evident one to four weeks after treatment begins and can persist for several weeks afterwards, and ESTRO states that schedules longer than four to five weeks delay the onset of recovery; which week it reddens, which week it breaks and how long it takes to settle have no pelvic-specific source, the breast curve cannot be borrowed, and so the band carries no ticks. A further panel sets out what is past the point of any skincare product: broken skin, blisters or exudate are marked urgent in the guideline's grade-to-action table, requiring medical assessment within 24 hours; the four signs of infection are pain and swelling spreading beyond the treated area, purulent discharge, an odour from the wound and fever; what an open wound should be dressed with is decided after the medical team has seen it, rather than picked off a pharmacy shelf; and a pelvic course means the treatment team is seen almost every day, so saying it at the next session counts.",
+    "zh_caption": "示意圖，依 BC Cancer 放射性皮膚炎症狀處理護理指引、Forde 2025（ESTRO 放射性皮膚炎實務建議）與 He 2026（直腸肛門癌統合分析）重繪；位置收斂到皺摺與摩擦處，更細的部位名稱查無逐字來源，時間只畫不標刻度的區間帶。",
+    "en_caption": "Schematic, redrawn from the BC Cancer nursing guideline on managing radiation dermatitis, Forde 2025 (ESTRO practice recommendations on radiation dermatitis) and He 2026 (meta-analysis in rectal and anal cancer); site is limited to folds and areas of friction because no finer wording could be sourced, and time is drawn only as an interval band without ticks.",
+    "files": {
+      "desktop": "fig-pel-skin-sites.svg",
+      "mobile": "fig-pel-skin-sites-mobile.svg",
+      "en": "fig-pel-skin-sites-en.svg",
+      "en_mobile": "fig-pel-skin-sites-en-mobile.svg"
+    },
+    "used_by": [
+      "pel-skin"
+    ],
+    "placement": {
+      "article": "pel-skin",
+      "after_h4": "皺摺是分級線，也是每天要看的那幾道摺痕"
+    },
+    "sources": [
+      "C[S1] BC Cancer 放射性皮膚炎護理指引（grade 2「confined to skin folds and creases」、grade 3「other than skin folds and creases」；1 到 4 週出現、可持續數週；grade 2–3 標為 24 小時內需醫療評估；感染徵象四項）",
+      "C[S2] Forde 2025（ESTRO：最多 95% 出現急性放射性皮膚炎；肛門癌與外陰癌為高風險癌別；肥胖造成的皮膚皺摺增加該處皮膚劑量；療程超過 4 到 5 週延後恢復開始的時間）",
+      "C[S3] He 2026（直腸肛門癌 50 篇 4,892 人：總發生率 58.7%、G3 以上 12.3%、濕性脫屑 34.5%；距肛門口 5 公分以內 OR 2.86、未做造口 3.12、劑量超過 50 Gy 2.59、同步化療 2.73；50 Gy 之後每多 5 Gy 風險增 29%）",
+      "C[S6] Simões 2024（肛管與直腸癌 63 人單中心隨機：總發生率 100%、嚴重者 36.5%）",
+      "C[FAIL-1] 骨盆腔皮膚反應的逐週時間軸查無（圖上畫成不標刻度的區間帶；乳癌的「結束後約 2 週達峰」不可挪用）",
+      "C[FAIL-3] 鼠蹊、臀溝等具體部位名稱查無逐字來源（圖上收斂到皺摺與摩擦處，不逐一點名）"
+    ]
+  },
+  {
+    "id": "fig-pel-timeline",
+    "zh_alt": "示意圖：骨盆腔放射治療四種反應的時間形狀，其中只有兩條線標得出節點。第一條有刻度的線是急性腸道反應，三個節點分別是第 2 週開始、最後一週最難、照完至少再 1 到 2 週；英國腸胃學會 2025 年指引逐字寫急性腸胃道症狀通常在開始放療後的第二週出現、傾向在療程的最後一週達到高峰、並在結束後至少再持續一到兩週，同一段還寫了例外：接受大分次療程的人，急性症狀可能到療程結束之後才開始，所以直腸癌術前五次的人可能照完那天沒事、一週後才難受。這一條的證據等級是指引的臨床實務陳述，不是統合分析的量化結果。第二條有刻度的線是晚期出血，三個節點分別是結束後幾個月開始注意到、三年內達到高峰、十年以上有時持續；同一份指引寫，因骨盆腔腫瘤接受放療者最多有一半會出現直腸出血、多數偶發量少，嚴重出血約佔根治性骨盆腔照射病人的 1%；出血風險與腸壁受到的劑量直接相關，近接治療還可能把受損最重的位置從直腸移到乙狀結腸。另外兩條畫成沒有刻度的區間帶。皮膚那一條可引的只有一段區間：反應通常在開始治療後 1 到 4 週出現、可能在結束後持續數週，療程長度超過 4 到 5 週會延後恢復開始的時間；第幾週會紅、第幾週會破、幾週後退乾淨查無骨盆腔專屬來源，乳房放療的曲線不可挪用。泌尿那一條同樣沒有刻度：療程中約三分之一的人出現新的或惡化的泌尿症狀，有症狀的人裡最多的是解尿疼痛 83%，而原文用的是累積劑量不是週數——四分之三的症狀出現在累積 16 到 45 Gy 之間，可以說大約落在療程的中段，但不可換算成第幾週。圖注提醒：兩條有刻度的線出自同一份指引原文，兩條區間帶沒有可引的週數，帶的寬度不代表嚴重度；四條線的癌別與族群不同，不可互相比較。",
+    "en_alt": "Schematic of the shape in time of four reactions to pelvic radiotherapy, only two of which can carry ticks. The first ticked line is the acute bowel reaction, with three nodes: from week 2, hardest in the final week, and at least one to two weeks after the end. The 2025 British Society of Gastroenterology guideline states that acute gastrointestinal symptoms usually begin in the second week after starting radiotherapy, tend to peak in the last week of treatment and continue for at least one to two weeks after completion, and the same passage carries an exception: with hypofractionated regimens acute symptoms may not start before treatment is completed, so someone given five fractions before rectal surgery may feel fine on the last day and unwell a week later. The level of evidence here is a practice statement in a guideline rather than a pooled quantitative result. The second ticked line is late bleeding, with three nodes: first noticed a few months after the end, peaking within three years, and sometimes persisting for ten years or more. The same guideline states that rectal bleeding occurs in up to half of all patients treated with radiotherapy for a pelvic tumour and is often occasional and minor, while severe bleeding affects about 1% of patients after radical pelvic irradiation; the risk relates directly to the dose delivered to the bowel wall, and brachytherapy may move the site of maximum damage from the rectum to the sigmoid. The other two lines are drawn as bands without ticks. For skin, only an interval can be cited: reactions are evident one to four weeks after beginning treatment and can persist for several weeks afterwards, and schedules longer than four to five weeks delay the onset of recovery; which week it reddens, which week it breaks and how long it takes to settle have no pelvic-specific source, and the breast curve cannot be borrowed. The urinary line is likewise unticked: about a third of patients developed new or worsening urinary symptoms during treatment, the commonest among those affected being pain on passing urine at 83%, and the source counts cumulative dose rather than weeks, three quarters of the symptoms appearing between a cumulative 16 and 45 Gy — roughly the middle of the course, but not convertible into a week number. The footnote notes that both ticked lines come from the text of the same guideline, that the two bands have no citable week numbers and that their width does not represent severity, and that the four lines come from different cancers and cohorts and are not comparable with each other.",
+    "zh_caption": "示意圖，依 Andreyev 2025（英國腸胃學會癌症治療腸胃副作用指引）、Xavier 2019、BC Cancer 放射性皮膚炎護理指引與 Forde 2025（ESTRO 實務建議）重繪；只有腸道與晚期出血兩條有指引原文可標節點，皮膚與泌尿只有區間、畫成不標刻度的帶，節點位置代表先後而非等比例時間軸。",
+    "en_caption": "Schematic, redrawn from Andreyev 2025 (British Society of Gastroenterology guideline on the gastrointestinal side effects of cancer treatment), Xavier 2019, the BC Cancer nursing guideline on radiation dermatitis and Forde 2025 (ESTRO practice recommendations); only the bowel and late-bleeding lines have guideline text to hang ticks on, skin and urinary have only an interval and are drawn as bands without ticks, and tick positions mark order rather than a time axis to scale.",
+    "files": {
+      "desktop": "fig-pel-timeline.svg",
+      "mobile": "fig-pel-timeline-mobile.svg",
+      "en": "fig-pel-timeline-en.svg",
+      "en_mobile": "fig-pel-timeline-en-mobile.svg"
+    },
+    "used_by": [
+      "pel-colitis",
+      "pel-late"
+    ],
+    "placement": {
+      "article": "pel-colitis",
+      "after_h4": "四段時間，指引都寫進去了"
+    },
+    "sources": [
+      "C[S8] Andreyev 2025（BSG：急性腸胃道症狀第二週開始、最後一週達高峰、結束後至少再 1 到 2 週；大分次者可能到照完才開始；晚期出血結束後幾個月開始、三年內達高峰、有時持續十年以上；最多一半出現直腸出血、嚴重出血約 1%；風險與腸壁劑量直接相關）",
+      "C[S12] Xavier 2019（跨癌別前瞻世代 72 人：療程中 33% 出現新的或惡化泌尿症狀、解尿疼痛 83%；四分之三的症狀出現在累積 16 到 45 Gy 之間；因結果與預期不符提前中止）",
+      "C[S1] BC Cancer 放射性皮膚炎護理指引（1 到 4 週出現、可持續數週）",
+      "C[S2] Forde 2025（ESTRO：療程超過 4 到 5 週會延後恢復開始的時間）",
+      "C[FAIL-1] 骨盆腔皮膚的逐週劇本查無（皮膚線不標刻度）",
+      "C[FAIL-2] 急性泌尿反應的週數查無，原文只有累積劑量（泌尿線不標刻度）"
+    ]
+  }
+]

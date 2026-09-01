@@ -1,0 +1,93 @@
+{
+ "pel-who": {
+  "slug": "pel-who",
+  "title": "Which cancers pelvic radiotherapy is used for",
+  "dek": "Bladder, cervical, endometrial, rectal and prostate cancer: where radiotherapy stands in each of the five, and whether what it buys is local control or survival — one evidence anchor per cell.",
+  "lead": "The rectal cancer cell carries an extra institutional shape in Taiwan: the NHI has a code for preoperative radiotherapy paid as a bundle of five fractions, reimbursed once in a lifetime per person. This article puts the evidence anchors for all five cancers on the same page as the rules that can actually be looked up at the Taiwan end.",
+  "note": "This is a map, not a decision document. For the detail of your own cell I have pointed you to the topic that already covers it; the bladder cancer and endometrial cancer topics are still being planned. At your next appointment, open with one sentence: is the goal of my course local control, organ preservation, or survival? That answer decides how much you are willing to put up with for it."
+ },
+ "pel-sim-day": {
+  "slug": "pel-sim-day",
+  "title": "What happens on the day of the planning scan",
+  "dek": "That day fixes your position, your immobilisation and your marks for every day that follows; prone or supine is decided by the plan, not by which is better. The two questions people ask most about timing, I could not find answers to.",
+  "lead": "The best preparation for that day is not an empty stomach. It is saying two things out loud: the bladder and bowel preparation you have been given, and the parts of you that will not bend, cannot lie still for long, or have been operated on. Once the position is set, the following weeks all run on it.",
+  "note": "Every limit you mention on the day of the planning scan gets written into every treatment afterwards. Prone and supine are not better or worse than each other; there is only what your plan needs. Before you leave, ask one question: what is my preparation, and which day does treatment start — your case manager will answer that second half more accurately than I can."
+ },
+ "pel-bladder-bowel": {
+  "slug": "pel-bladder-bowel",
+  "title": "Bladder and bowel: copying the same state each day",
+  "dek": "Full or empty is decided by your treatment plan; holding more is not better. The volume you hold in is itself the least reproducible thing there is, and the requirement to empty the rectum is being loosened.",
+  "lead": "300 to 500 mL is the range pointed to by those two retrospective datasets in cervical cancer: below it, the bladder itself takes more dose; above it, the rectum does. The thing runs in both directions from beginning to end, which is why I am not going to tell you to hold as much as you can. I give this one sourced range and invent no other millilitres.",
+  "note": "If you cannot hold it, or cannot empty properly, say so that day rather than enduring until the treatment is over — during those minutes of holding still, the body is in fact moving the whole time. Later in the course the bladder holds less; that has been measured and it is normal. When the team changes your preparation on the strength of the images, that is the data telling us to change it, not you having done something wrong."
+ },
+ "pel-implants": {
+  "slug": "pel-implants",
+  "title": "Markers and spacers: two purposes, two kinds of evidence",
+  "dek": "Fiducials help the machine see; no randomised evidence, but safety numbers with a denominator. Spacers push the rectum away; randomised evidence exists, but in the severe-toxicity cell both meta-analyses found no difference.",
+  "lead": "In Taiwan, both the fiducial and the spacer return zero entries in the full table of the NHI fee schedule, and for approval and charging status I could find no official announcement I could cite — so please do not work the price out from the internet. Take that cell straight to the department concerned and the medical affairs office.",
+  "note": "The spacer is not something my department provides; I write it as an option you can go and ask about. If what worries you most is severe late rectal side effects, the current meta-analyses cannot give you that promise; and anyone who has had pelvic radiotherapy before is at higher risk. If you do want to ask, ask first which department performs it and how the charge is worked out — that question belongs to the medical affairs office."
+ },
+ "pel-technique-map": {
+  "slug": "pel-technique-map",
+  "title": "Not three machines — three layers",
+  "dek": "Modulation, image guidance and particles are three things that stack, not three products to choose one from; which cell you land in is decided by the indication, and the modulated radiotherapy the NHI already pays for has a string of numbers of its own, each with its cancer attached.",
+  "lead": "Helical tomotherapy and arc modulation sit in the same cell on this map, and I do not rank them inside it — the Taiwanese data lean towards the first, the Japanese data towards the second, and between the two there is no randomised clinical comparison. For an adult having protons in the pelvis, the shape in the official documents is entirely self-paid.",
+  "note": "Sort the technical names into layers first, then ask about the indication, and put the price last. At your next appointment ask the team to spell out which regions your treated field includes and where the complexity lies; if someone hands you a percentage for how much better something is, remember to ask which cancer and which endpoint it came from. If there is a self-paid difference, ask the medical affairs office to put it in writing."
+ },
+ "pel-igrt": {
+  "slug": "pel-igrt",
+  "title": "Daily imaging: the underrated half",
+  "dek": "The machine is checking how closely you have copied today's state; daily image guidance takes the safety margin from 10 mm down to 5 mm — and that is a volume endpoint, not a toxicity endpoint.",
+  "lead": "Being stopped and asked to start again is not you getting it wrong — tolerance is a line each hospital draws for itself, and the tighter the line is drawn, the more fractions get interrupted for correction. As for online adaptive radiotherapy, it is still at feasibility and dosimetry; the randomised clinical comparison has not read out.",
+  "note": "At your appointment, treat the image matching as something you are allowed to ask about: do I have matching every day, is it matched to bone or to soft tissue, and what do you do when the image differs a lot from the plan? If the answer is \"the back end of your bladder often does not hold\", that is something to be adjusted together, not something for you to put up with on your own."
+ },
+ "pel-toxicity": {
+  "slug": "pel-toxicity",
+  "title": "What you buy is side effects, not survival",
+  "dek": "Modulated radiotherapy took 3-year late bowel toxicity after surgery for cervical cancer from 42.4% down to 21.1%; but on survival four separate datasets all say no difference, and acute gastrointestinal toxicity in rectal cancer did not improve either.",
+  "lead": "For the bladder box I will not give you a dose number — the QUANTEC bladder chapter, which collates dose-volume relationships, says itself that those partial-organ data are suspect. In the same trial, patients reported high-grade diarrhoea a great deal more often than the doctors recorded it (the figure in the paper is 38.5%); if you do not say it, the improvement cannot be seen.",
+  "note": "When you hear about the benefit of any technique, ask the person to finish the sentence: which endpoint improved, in which cancer, and in a study of what design. Cervical cancer after surgery has a randomised trial behind it, and the acute gastrointestinal box in rectal cancer is empty; both of those are true at the same time."
+ },
+ "pel-proton": {
+  "slug": "pel-proton",
+  "title": "Protons in the pelvis: where the evidence stands",
+  "dek": "The gap in dose distribution is measurable, and the only randomised comparison that has read out found no difference; in anal cancer the marrow dose came down and the haematologic toxicity did not follow it down.",
+  "lead": "For an adult with a pelvic cancer wanting protons, the shape in the official documents is entirely self-paid — the scope of all three NHI proton codes opens with \"patients under nineteen years of age\". The physics and the regulations are in the two existing articles on protons; here I only set out where the evidence has got to.",
+  "note": "Before the referral consultation, get the rectal, bladder and small bowel doses of your own photon plan from your own hospital first, and only then go and hear the written quotation from the proton side. If you are there to discuss re-irradiation, take the grade 4 toxicity case counts from those single-arm series in with you and ask about them as well."
+ },
+ "pel-skin": {
+  "slug": "pel-skin",
+  "title": "Pelvic skin breaks down in the folds",
+  "dek": "What goes first is what rubs; the bans on washing and on deodorant have both been reversed in the guidelines, and broken skin with weeping is the grade the clinical side has to see inside twenty-four hours.",
+  "lead": "The nearer the tumour sits to the anal verge, the higher the dose, and with chemotherapy alongside, the harder the skin is to look after — that axis has odds ratios you can look up. What I could find no citable source for is the week-by-week pelvic script of when it reddens and when it clears, so this article gives two time anchors and nothing in between.",
+  "note": "Put the sitz bath in its right place: it is skin care, not a treatment for the bowel. The folds redden first and break first, so what you check daily is whether those creases have come out of bounds. Pain and swelling spreading beyond the treated area, pus, an odour from the wound, fever, and broken skin with weeping — those five mean coming back the same day, not reaching for a different pot of cream."
+ },
+ "pel-colitis": {
+  "slug": "pel-colitis",
+  "title": "Bowel reactions: when they come, how to get through",
+  "dek": "It starts in the second week, the last week is the worst, and it runs at least another one to two weeks after the course ends; for anyone on a hypofractionated course, the symptoms may not begin until the treatment is over.",
+  "lead": "On diet, one and the same guideline says two opposite things: what it names is high fibre rather than low residue, and it also says that dietary interventions as a whole have insufficient evidence and should not be used outside a clinical trial. So this article hands you no list, only the people to ask.",
+  "note": "Diarrhoea is not automatically the radiotherapy's doing, and stool testing is a necessary step — do not skip it on your own. Smoking and weight are the two things the guideline explicitly says should be addressed before radiotherapy, and both the smoking cessation referral and the dietitian appointment can be arranged today. And however bad it gets, never decide on your own to miss today's fraction."
+ },
+ "pel-urinary": {
+  "slug": "pel-urinary",
+  "title": "Those weeks of bladder and passing urine",
+  "dek": "One person in three develops new urinary symptoms during the course, most often pain on passing urine; it looks a great deal like an infection and mostly is not one — telling them apart takes urine testing plus culture.",
+  "lead": "For when the symptoms arrive I have cumulative dose in hand and no number of weeks: three-quarters of onsets fall between 16 and 45 Gy. The dose-volume relationship for the bladder is the weakest box in the whole dataset to begin with, which is why you will not find \"at such and such a dose, such and such happens\" anywhere in this article.",
+  "note": "Blood in the urine with being unable to pass urine or a distended, painful lower abdomen; being completely unable to pass urine; fever with pain on passing urine — those three mean coming back the same day, not holding on until your next appointment. At clinic, saying \"how many times in the day, how many at night, which part of it hurts, and which day it started\" is worth far more than \"passing urine is uncomfortable\"."
+ },
+ "pel-late": {
+  "slug": "pel-late",
+  "title": "Late bleeding: treatments and their evidence",
+  "dek": "Bleeding starts months later, peaks within three years and can run past ten; the options are set out one by one with their level of evidence, and of the three randomised hyperbaric oxygen trials the two in proctitis point opposite ways.",
+  "lead": "The first question is not how to stop the bleeding but where the blood is coming from — the guideline's opening principle is not to rush the attribution, and not to biopsy. On the Taiwan box I draw no conclusion in either direction: hyperbaric oxygen has a code, and the official documents carry no indication provision for it.",
+  "note": "Occasional small amounts of blood that stop on their own get noted down for your next appointment; a large amount of fresh blood, clots, or bleeding with dizziness or a cold sweat means being seen the same day. If it does need dealing with, ask about the non-invasive option first — gastroenterologist- or specialist-nurse-led algorithmic care is the only one where you do not have to accept a harm up front."
+ },
+ "pel-fistula": {
+  "slug": "pel-fistula",
+  "title": "Fistula: risk, warning signs, order of care",
+  "dek": "Under the most modern image-guided technique there is, five-year grade 3 or worse fistula still runs at 3.2%; the risk factors come one by one with their numbers, and the day the symptoms appear is the day to be seen, not the day to wait for clinic.",
+  "lead": "That 3.2% blocks two readings at once: \"a newer technique avoids it\" and \"there is nothing to worry about\". This article counts the hole made by the tumour separately from the hole made by the treatment, and puts the most important section where it will not be skipped: which situations mean being seen the same day.",
+  "note": "The first danger in a fistula is not the hole, it is sepsis — any one of the symptoms together with fever, chills or severe pelvic pain is an emergency. When a fistula is suspected, recurrence gets ruled out first, and that is not a delay. Smoking is the only significant factor in the multivariable analysis, and it is the one you can move today."
+ }
+}
