@@ -230,7 +230,12 @@ print("3c. the conflict-of-interest disclosure paragraph appears byte-identical 
 # 4 -------------------------- style = template + injected figure CSS, stable --
 hh = rd(REPO, "hn-first-week.html")
 a = hh.index("/* ---------- article figures ---------- */")
-b = hh.index("/* ----------", a + 10)
+# that block is the last one in this file's <style> now: stop at the next
+# section comment if one follows, otherwise at </style>
+b = hh.find("/* ----------", a + 10)
+e = hh.index("</style>", a)
+if b < 0 or b > e:
+    b = e
 BLOCK = hh[a:b]
 tpl_style = tb.RE_STYLE.search(rd(REPO, ART_TPL["zh"])).group(0)
 for f in (ART_TPL["en"], HUB_TPL["zh"], HUB_TPL["en"]):

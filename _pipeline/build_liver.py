@@ -56,7 +56,12 @@ def figure_css():
     'article figures' comment up to (not including) the next comment."""
     h = open(os.path.join(REPO, "hn-first-week.html"), encoding="utf-8").read()
     a = h.index("/* ---------- article figures ---------- */")
-    b = h.index("/* ----------", a + 10)
+    # the block is the last one in that file's <style> now, so stop at the
+    # next section comment if there is one and at </style> otherwise
+    b = h.find("/* ----------", a + 10)
+    e = h.index("</style>", a)
+    if b < 0 or b > e:
+        b = e
     return h[a:b]
 
 
