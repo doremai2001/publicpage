@@ -1,0 +1,149 @@
+[
+  {
+    "id": "fig-brt-decision",
+    "zh_alt": "示意圖：誰需要術後放射治療的診間地圖，兩個變數是手術型式（乳房保留手術或全切除）與腋下淋巴結狀態（陰性、陽性、幾顆）。格上的標籤有三種，不可互換：建議、要談的決定、不是常規適應症。保留手術加淋巴結陰性，標籤是建議——全乳照射是配套不是加購：EBCTCG 統合（17 個試驗、pN0 共 7,287 人）10 年任何首次復發從 31.0% 降到 15.6%、15 年乳癌死亡從 20.5% 降到 17.2%；地標 NSABP B-06 追 20 年，單純腫瘤切除不照的同側乳房復發累積 39.2%、加上照射 14.3%；年紀較大、腫瘤小、荷爾蒙受體陽性的一群有省略照射可談，條件與代價另有專篇。保留手術加淋巴結陽性，標籤同樣是建議：同一份統合（pN+ 共 1,050 人，人數少、信賴區間較寬）10 年復發從 63.7% 降到 42.5%、15 年乳癌死亡從 51.3% 降到 42.8%；要不要連區域淋巴一起照是另一個決定。全切除加淋巴結陰性（腋下廓清後 0 顆陽性），標籤是不是常規適應症：EBCTCG 統合的 700 人裡，照了復發與乳癌死亡都沒有降，率比 1.06 與 1.18、兩個都不顯著。全切除加淋巴結陽性分成兩格。1 到 3 顆陽性的標籤是要談的決定：老統合 1,314 人顯示照胸壁加區域淋巴把乳癌死亡率比壓到 0.80（95% 信賴區間 0.67 到 0.95），但 2025 年讀出的 SUPREMO 用現代全身治療重做（1,607 人、中位追蹤 9.6 年），10 年總存活 81.4% 對 81.9%（風險比 1.04、p 值 0.80，沒有差），胸壁復發 1.1% 對 2.5%（風險比 0.45，有差）；兩份的介入也不同，老試驗照胸壁加區域淋巴、SUPREMO 只照胸壁——所以這一格不是自動要、也不是自動不要，是把顆數、腫瘤大小、分化等級、淋巴血管侵犯攤開來談的決定。4 顆以上陽性的標籤才是建議：老統合 1,772 人顯示整體復發率比 0.79、乳癌死亡率比 0.87，而且沒有任何用現代藥物重做的隨機試驗挑戰過這一格。圖末提醒兩件事：EBCTCG 兩份統合的族群在 1960 到 80 年代收案，今日病人的絕對數字普遍比表上低、比例效應比較可信，這個標籤不可省；這張圖是診間地圖不是判決，最終落點由你的團隊依完整病理、影像與全身治療計畫判定，照射改變的是機率、不是保單。",
+    "en_alt": "Schematic clinic map of who needs post-operative radiotherapy, built on two variables: the type of surgery (breast-conserving surgery or mastectomy) and the axillary nodes (negative, positive, and how many). The cells carry three labels that are not interchangeable: recommended, a decision to discuss, and not a routine indication. Breast-conserving surgery with negative nodes is labelled recommended — whole breast irradiation is part of the package, not an add-on: the EBCTCG meta-analysis (17 trials, 7,287 pN0 women) found any first recurrence at 10 years falling from 31.0% to 15.6% and breast cancer death at 15 years from 20.5% to 17.2%; the landmark NSABP B-06 trial at 20 years found cumulative ipsilateral breast recurrence of 39.2% after lumpectomy alone against 14.3% with irradiation; older patients with small, hormone-receptor-positive tumours have omission to discuss, with the conditions and trade-offs set out in a separate article. Breast-conserving surgery with positive nodes is also labelled recommended: the same meta-analysis (1,050 pN+ women, a small group with wide confidence intervals) found recurrence at 10 years falling from 63.7% to 42.5% and breast cancer death at 15 years from 51.3% to 42.8%; whether the regional nodes are treated as well is a separate decision. Mastectomy with negative nodes, meaning no positive nodes after axillary clearance, is labelled not a routine indication: among 700 women in the EBCTCG meta-analysis, irradiation lowered neither recurrence nor breast cancer death, with rate ratios of 1.06 and 1.18, neither significant. Mastectomy with positive nodes splits into two cells. One to three positive nodes is labelled a decision to discuss: the older meta-analysis of 1,314 women found chest wall plus regional nodal irradiation bringing the breast cancer mortality rate ratio to 0.80 (95% confidence interval 0.67 to 0.95), but SUPREMO, reported in 2025, repeated the question on modern systemic therapy in 1,607 women with median follow-up of 9.6 years and found 10-year overall survival of 81.4% against 81.9% (hazard ratio 1.04, p value 0.80, no difference) with chest wall recurrence of 1.1% against 2.5% (hazard ratio 0.45, a difference); the interventions differ too, the older trials treating chest wall plus regional nodes and SUPREMO the chest wall only — so this cell is neither an automatic yes nor an automatic no, but a decision taken with node count, tumour size, grade and lymphovascular invasion all on the table. Only four or more positive nodes is labelled recommended: the older meta-analysis of 1,772 women found an overall recurrence rate ratio of 0.79 and a breast cancer mortality rate ratio of 0.87, and no randomised trial repeating the question on modern drugs has challenged this cell. The figure closes with two reminders: both EBCTCG meta-analyses recruited in the 1960s to 1980s, so absolute figures for patients treated today are generally lower than the table and the proportional effect is the more reliable part, a label that cannot be dropped; and this is a clinic map rather than a verdict, with the final placing settled by the treating team on the full pathology, imaging and systemic therapy plan, since radiotherapy changes the odds and is not an insurance policy.",
+    "zh_caption": "示意圖，依 EBCTCG 2011、EBCTCG 2014、Kunkler 2025（SUPREMO）與 Fisher 2002（NSABP B-06）重繪；各研究的年代、族群與照射範圍不同，格與格之間的數字不可直接互比，最終落點由多專科團隊判定。",
+    "en_caption": "Schematic, redrawn from EBCTCG 2011, EBCTCG 2014, Kunkler 2025 (SUPREMO) and Fisher 2002 (NSABP B-06); eras, cohorts and treated volumes differ so figures are not directly comparable across cells, and where you land is for the multidisciplinary team to judge.",
+    "files": {
+      "desktop": "fig-brt-decision.svg",
+      "mobile": "fig-brt-decision-mobile.svg",
+      "en": "fig-brt-decision-en.svg",
+      "en_mobile": "fig-brt-decision-en-mobile.svg"
+    },
+    "used_by": [
+      "brt-who-needs"
+    ],
+    "placement": {
+      "article": "brt-who-needs",
+      "after_h4": "1 到 3 顆：不是「建議」，是「要談的決定」"
+    },
+    "sources": [
+      "A[S1] EBCTCG 2011（保留手術後放療統合：pN0 與 pN+ 分層數字）",
+      "A[S2] Fisher 2002（NSABP B-06 二十年：同側乳房復發 39.2% vs 14.3%）",
+      "A[S3] EBCTCG 2014（乳房切除後放療統合：0 顆、1 到 3 顆、4 顆以上三格數字）",
+      "A[S7] Kunkler 2025（SUPREMO：10 年總存活 81.4% vs 81.9%、胸壁復發 1.1% vs 2.5%）"
+    ]
+  },
+  {
+    "id": "fig-brt-technique-map",
+    "zh_alt": "示意圖：技術與呼吸的兩軸地圖。橫軸是劑量分布的精細程度——3D 順形、強度調控 IMRT、旋轉調控、質子；縱軸只有一件事，深吸氣閉氣（DIBH）。兩個軸互相獨立，落點由適應症決定，不是預算決定。第一格「3D 順形與強度調控 IMRT」（健保給付的一般技術）填的是真實數字，不是形容詞：現代左乳平均心臟劑量在 2003 到 2013 年文獻平均 5.4 Gy、2014 到 2017 年文獻平均 3.6 Gy，其中 2017 年發表者平均 2.6 Gy；單機構 4,687 人實測，左側傳統分次（50 Gy 分 25 次）中位 2.16 Gy、低分次（42.6 Gy 分 16 次）中位 1.47 Gy；加上呼吸控制，文獻平均 1.7 Gy（沒有呼吸控制者 4.5 Gy），切線照野加呼吸控制 1.3 Gy；相對於更早年代的楔形板與 2D 技術，隨機試驗顯示濕性脫屑 31.2% 對 47.8%、5 年外觀變化 40% 對 58%、整體外觀不佳勝算比 0.68。第二格是「旋轉調控」，VMAT 與 TOMO 在同一格、格內不排名：有意義的差出現在複雜標靶（胸壁加區域淋巴尤其含內乳、重建後胸壁、雙側同時照射、解剖困難）；台灣 108 人的左乳加區域淋巴比較裡，VMAT 平均心臟劑量 3.82 Gy、TOMO 5.13 Gy，肺與對側乳房同方向，兩者互有勝負、看情境與規劃；代價是螺旋斷層對非標靶體積增加低劑量浴；TOMO 與一般 IMRT 之間查無隨機的臨床療效比較；健保支付標準全表查無 TOMO 專屬項目，各院自費金額查無官方公告。第三格質子：不含內乳的平均心臟劑量 0.5 Gy 級、含內乳 2.6 Gy，是各技術中最低，70 人前瞻系列實測全心 0.44 Gy；隨機試驗 RADCOMP 收案完成 1,238 人、主要終點是重大心血管事件、尚未讀出，試驗登錄的主要完成日估在 2036 年 11 月；質子有自己的代價，前瞻世代肋骨骨折 7%、225 人系列 3 年 3.7%（有症狀 0.4%），入射端沒有光子的皮膚保護效應、皮膚劑量取決於規劃；健保質子三碼限未滿十九歲，成人乳癌質子全自費。第四列是 DIBH：可疊加在 3D、IMRT、VMAT、TOMO 任何一種光子技術上，降幅約 20 到 70%、因人而異（劑量學），預選訓練後仍約三成無法完成閉氣定位掃描；質子那一格例外，自由呼吸已是 0.48 Gy、閉氣再降到 0.31 Gy，邊際效益小；健保支付標準全表查無呼吸調控或閉氣項目，光子閉氣的自費收費查無任何醫院官方公告。腳註提醒側別不是唯一的軸：左側平均心臟劑量 5.4 Gy、右側 3.3 Gy，把內乳納入會讓典型心臟劑量翻倍。",
+    "en_alt": "Schematic map with two axes, technique and breathing. The horizontal axis is how finely dose is shaped — 3D conformal, IMRT, rotational modulation, protons; the vertical axis holds one thing only, deep inspiration breath hold (DIBH). The axes are independent, and indication decides where a patient lands, not budget. The first cell, 3D conformal and IMRT (the NHI-covered standard technique), is filled with real figures rather than adjectives: modern mean heart dose for left-sided treatment averaged 5.4 Gy in literature published 2003 to 2013 and 3.6 Gy in literature published 2014 to 2017, with those published in 2017 averaging 2.6 Gy; measured across 4,687 patients at one institution, left-sided conventional fractionation (50 Gy in 25 fractions) had a median of 2.16 Gy and hypofractionation (42.6 Gy in 16 fractions) a median of 1.47 Gy; with respiratory control the literature average was 1.7 Gy against 4.5 Gy without, and tangential fields plus respiratory control 1.3 Gy; against the wedged and 2D technique of an earlier era, randomised trials showed moist desquamation 31.2% against 47.8%, 5-year change in breast appearance 40% against 58%, and an odds ratio of 0.68 for poor overall cosmesis. The second cell is rotational modulation, with VMAT and TOMO inside the same cell and no ranking between them: the differences that matter appear on complex targets — chest wall plus regional nodes especially the internal mammary chain, a reconstructed chest wall, synchronous bilateral treatment, difficult anatomy. In a Taiwanese comparison of 108 left-sided plans with regional nodal irradiation, mean heart dose was 3.82 Gy with VMAT against 5.13 Gy with TOMO, with lung and contralateral breast pointing the same way, so the two trade places depending on the situation and the planning; the cost is that helical delivery increases the low-dose bath to non-target volumes; no randomised comparison of clinical outcomes between TOMO and ordinary IMRT was found; the NHI schedule contains no TOMO-specific item and no official self-pay amount was found at any hospital. The third cell, protons: mean heart dose in the 0.5 Gy range without the internal mammary chain and 2.6 Gy with it, the lowest of any technique, with a 70-patient prospective series measuring 0.44 Gy to the whole heart; the randomised RADCOMP trial has completed accrual at 1,238 patients with major cardiovascular events as its primary endpoint and has not reported, the registry's estimated primary completion date being November 2036; protons carry their own costs, with rib fracture in 7% of a prospective cohort and 3.7% at 3 years in a 225-patient series (0.4% symptomatic), and no photon skin-sparing effect at the entrance so that skin dose depends on the planning; Taiwan's three NHI proton codes apply only to patients under nineteen, so proton therapy for adult breast cancer is entirely self-paid. The fourth row is DIBH: it layers onto 3D conformal, IMRT, VMAT or TOMO alike, reduces dose by roughly 20 to 70% varying from person to person (dosimetric), and after pre-selection and training about three in ten still cannot complete a breath-hold planning scan; the proton cell is the exception, where free breathing already gives 0.48 Gy and breath hold 0.31 Gy, a small marginal gain; the NHI schedule contains no respiratory-control or breath-hold item, and no official self-pay charge for photon breath hold was found at any hospital. A footnote records that side is not the only axis: mean heart dose averages 5.4 Gy on the left and 3.3 Gy on the right, and including the internal mammary chain doubles the typical heart dose.",
+    "zh_caption": "示意圖，依 Taylor 2015、Drost 2018、Trivedi 2020、Pignol 2008、Donovan 2007、Mukesh 2013、Lin 2021、Mutter 2021（PTCOG 共識）、RADCOMP 試驗登錄與健保支付標準條文重繪；各研究族群、設計與終點不同，格與格之間的數字不可直接互比。",
+    "en_caption": "Schematic, redrawn from Taylor 2015, Drost 2018, Trivedi 2020, Pignol 2008, Donovan 2007, Mukesh 2013, Lin 2021, Mutter 2021 (PTCOG consensus), the RADCOMP trial registry and Taiwan's NHI fee schedule; cohorts, designs and endpoints differ, so figures are not directly comparable across cells.",
+    "files": {
+      "desktop": "fig-brt-technique-map.svg",
+      "mobile": "fig-brt-technique-map-mobile.svg",
+      "en": "fig-brt-technique-map-en.svg",
+      "en_mobile": "fig-brt-technique-map-en-mobile.svg"
+    },
+    "used_by": [
+      "brt-technique-map"
+    ],
+    "placement": {
+      "article": "brt-technique-map",
+      "after_h4": "兩個軸：劑量怎麼給、心臟在哪裡"
+    },
+    "sources": [
+      "B[S3] Taylor 2015（左 5.4 Gy vs 右 3.3 Gy；含內乳翻倍；切線加呼吸控制 1.3 Gy；質子 0.5 Gy）",
+      "B[S4] Drost 2018（2014 到 2017 年平均 3.6 Gy、2017 年 2.6 Gy；呼吸控制 1.7 vs 4.5 Gy）",
+      "B[S5b] Trivedi 2020（左側傳統分次中位 2.16 Gy、低分次 1.47 Gy）",
+      "A[S18] Pignol 2008／A[S19] Donovan 2007／A[S20] Mukesh 2013（IMRT 隨機三連）",
+      "B[S13] Lin 2021（台灣 108 人：VMAT 3.82 Gy vs TOMO 5.13 Gy）",
+      "B[S15] Cancer Radiother 2023（螺旋斷層的低劑量浴原句）",
+      "B[S14][S16][S18][S21][S22] 旋轉調控在複雜標靶的劑量學系列",
+      "B[S29] 質子前瞻 70 人系列（全心 0.44 Gy）",
+      "B[S30] 質子加 DIBH 系統性回顧（0.48 Gy 降至 0.31 Gy）",
+      "B[S31] Wang 2020 肋骨骨折 7%／B[S32] 225 人系列 3 年 3.7%",
+      "B[S27] RADCOMP 試驗登錄（收案 1,238、主要完成日估 2036-11、hasResults false）",
+      "B[S28] Mutter 2021（PTCOG 乳癌質子共識）",
+      "B[S38] 健保支付標準全表（查無 TOMO 專屬碼、查無呼吸調控項目）",
+      "B[S40] 行政院公報質子三碼 36025B 至 36027B（限未滿十九歲）",
+      "B[S6] Lai 2022（DIBH 降幅約 20 到 70%、29% 無法完成閉氣定位）"
+    ]
+  },
+  {
+    "id": "fig-brt-heart-dibh",
+    "zh_alt": "示意圖（非實際解剖，也非實際劑量分布）：深吸氣閉氣如何把心臟拉離照野，以及降下來的是什麼。左格自由呼吸：心臟貼著胸壁，切線照野的邊緣容易掃到心臟前緣。右格深吸氣閉氣：橫膈下移、肺撐開，心臟被推離照野，兩者之間出現一段距離。量得到的降幅：全心與左前降支的平均劑量降低約 20 到 70%，區間很寬、因人而異（綜述）；12 篇觀察性研究、1,019 位左側病人的統合分析顯示心臟與左前降支劑量顯著較低，而標靶涵蓋沒有差異；文獻平均（2014 到 2017 年發表、左側）有呼吸控制 1.7 Gy、沒有呼吸控制 4.5 Gy，2003 到 2013 年文獻中切線照野加呼吸控制為 1.3 Gy。同樣量得到的另一面：一項研究裡 72 名經過預選與訓練的病人，仍有 29% 無法完成閉氣定位掃描；另一項 112 人中有 20 人無法耐受主動呼吸控制系統；綜述估計約 75% 做閉氣的人有劑量學獲益，練不起來會回到自由呼吸下的心臟閃避去規劃。證據等級是本圖的核心標記：以上每一個數字都是劑量學終點，DIBH 降低心臟事件的直接證據（已讀出的隨機試驗或大型世代比較）查無；事件那一層來自世代研究——平均心臟劑量每多 1 Gy，主要冠狀動脈事件率相對上升 7.4%，看不到明顯的安全下限（瑞典與丹麥 1958 到 2001 年世代）。兩截都硬，但它們是兩截，不能縫成「閉氣已證明減少心臟病發作」。腳註提醒基本款不是沒有保護：一般強度調控與 3D 順形技術做出來的現代左乳平均心臟劑量，文獻平均已落在 2.16 到 3.6 Gy 之間。",
+    "en_alt": "Schematic (neither real anatomy nor a real dose distribution) of how deep inspiration breath hold moves the heart away from the field, and of what actually falls. Left panel, free breathing: the heart lies against the chest wall, where the edge of a tangential field can catch its front surface. Right panel, DIBH: the diaphragm drops and the lungs expand, pushing the heart clear of the field and opening a gap between the two. What is measurable: mean dose to the whole heart and to the left anterior descending artery falls by roughly 20 to 70%, a wide range varying from person to person (narrative review); a meta-analysis of 12 observational studies in 1,019 left-sided patients found heart and LAD doses significantly lower with no difference in target coverage; literature averages for left-sided treatment published 2014 to 2017 were 1.7 Gy with respiratory control against 4.5 Gy without, and 1.3 Gy for tangential fields plus respiratory control in the 2003 to 2013 literature. Equally measurable is the other side: in one study 29% of 72 pre-selected and trained patients still could not complete a breath-hold planning scan, in another 20 of 112 could not tolerate an active breathing control system, and the review estimates about 75% of those treated with DIBH gain dosimetrically — if the technique cannot be managed, the plan returns to cardiac sparing under free breathing. The evidence grade is the figure's central mark: every number above is a dosimetric endpoint, and direct evidence that DIBH reduces cardiac events, meaning a reported randomised trial or large cohort comparison, was not found. The event layer comes from cohort research: each additional 1 Gy of mean heart dose raises the rate of major coronary events by about 7.4% in relative terms, with no apparent safe threshold (Swedish and Danish cohort, 1958 to 2001). Both layers are solid but they are two layers, and together they do not amount to a claim that breath hold has been shown to prevent heart attacks. A footnote records that standard technique is not unprotected: with ordinary intensity-modulated and 3D conformal plans, modern mean heart doses for left-sided breast cancer average between 2.16 and 3.6 Gy in the literature.",
+    "zh_caption": "示意圖（非實際解剖，也非實際劑量分布），依 Lai 2022、Lu 2020、Taylor 2015、Drost 2018 與 Darby 2013 重繪；圖上的降幅是劑量學終點，心臟事件那一層另有出處，兩層分開標示。",
+    "en_caption": "Schematic (neither real anatomy nor a real dose distribution), redrawn from Lai 2022, Lu 2020, Taylor 2015, Drost 2018 and Darby 2013; the reductions shown are dosimetric endpoints, and the cardiac-event layer has its own separate source.",
+    "files": {
+      "desktop": "fig-brt-heart-dibh.svg",
+      "mobile": "fig-brt-heart-dibh-mobile.svg",
+      "en": "fig-brt-heart-dibh-en.svg",
+      "en_mobile": "fig-brt-heart-dibh-en-mobile.svg"
+    },
+    "used_by": [
+      "brt-heart"
+    ],
+    "placement": {
+      "article": "brt-heart",
+      "after_h4": "深吸氣閉氣：降的是「劑量」，這兩個字要標好"
+    },
+    "sources": [
+      "B[S6] Lai 2022（Bergom 團隊，DIBH 綜述：降幅約 20 到 70%、29% 無法完成閉氣定位、75% 有劑量學獲益）",
+      "B[S8] Lu 2020（DIBH 對自由呼吸統合分析，12 篇、1,019 人）",
+      "B[S3] Taylor 2015（2003 到 2013 年心臟劑量系統性回顧：切線加呼吸控制 1.3 Gy）",
+      "B[S4] Drost 2018（2014 到 2017 年心臟劑量系統性回顧：呼吸控制 1.7 Gy vs 4.5 Gy）",
+      "B[S5b] Trivedi 2020（單機構 4,687 人：左側傳統分次 2.16 Gy、低分次 1.47 Gy）",
+      "B[S1] Darby 2013（每 Gy 主要冠狀動脈事件率上升 7.4%、無明顯閾值）",
+      "B[FAIL-5] DIBH 的臨床心臟事件比較：查無已讀出研究（圖上標為 gap）"
+    ]
+  },
+  {
+    "id": "fig-brt-skin-timeline",
+    "zh_alt": "示意圖：放射性皮膚反應的時間軸與好發位置。時間軸只有三個有來源的錨，圖上不加密度。第一個錨，出現：護理指引的定義句寫，反應通常在開始治療後 1 到 4 週出現。第二個錨，到頂：一份 148 人的前瞻觀察（族群以 50 Gy 分 25 次的傳統分次為主）顯示，第 2 級反應在治療結束後 2 週達到高峰 61.9%、第 3 級同時到頂 8.3%，而且不分技術與劑量，高峰都落在結束後 1 到 2 週——所以照完不等於結束。第三個錨，消退：指引寫反應可在結束後持續數週，醫學上的急性期以 90 天為界；隨機試驗的急性反應子研究顯示一週方案的紅斑比三週方案早約 2 週消退。好發位置只標一處：分級定義的原文只寫到第 2 級的濕性脫屑多半侷限於皮膚皺摺處，落到乳房放療就是腋下和乳房下緣那道皺摺；其他位置查無專屬來源，本圖不標。誰會重一點也有出處：乳房較大者濕性脫屑風險較高（隨機試驗中的獨立因子），乳房切除後胸壁加了組織等效物的人，27 篇系統性回顧算出第 3 級皮膚炎合併率 9.6%、沒加的 1.2%。圖上另有一條紅線標記，寫明兩類情況不是照顧問題而是回診問題：濕性脫屑（破皮、水疱、滲液）被護理指引標為 URGENT，要在 24 小時內接受醫療評估，回來給我們看，不要自己買敷料處理開放性傷口；感染徵象要回診，包括發燒、傷口臭味、化膿性分泌物、疼痛與腫脹擴散到治療範圍以外，快速惡化的痛與傷口裂開同列。腳註給量級：把所有部位的放射治療合併來看，約 90 到 95% 的人會出現某種程度的放射性皮膚炎，差別在深淺。",
+    "en_alt": "Schematic of the timeline and the site of radiation dermatitis. The timeline carries only the three anchors that have a source, and the figure adds no further detail. Anchor one, onset: the nursing guideline's defining sentence states the reaction usually appears 1 to 4 weeks after treatment starts. Anchor two, the peak: a prospective observation of 148 patients, mainly on conventional fractionation of 50 Gy in 25 fractions, found grade 2 reactions peaking at 61.9% two weeks after the end of treatment with grade 3 peaking at the same time at 8.3%, and across techniques and doses alike the peak fell 1 to 2 weeks after the end — so finishing treatment is not the end of it. Anchor three, settling: the guideline states the reaction can persist for several weeks afterwards, and the acute phase is defined as the first 90 days; the acute sub-study of a randomised trial found erythema after the one-week schedule settling about 2 weeks earlier than after the three-week schedule. Only one site is marked: the grading definition names grade 2 moist desquamation as mostly confined to skin folds and creases, which in breast radiotherapy means the axilla and the inframammary fold. No source specific to any other site was found, so no other site is marked. Who gets it worse also has sources: larger breast size raises the risk of moist desquamation as an independent factor in a randomised trial, and after mastectomy the addition of bolus to the chest wall gave a pooled grade 3 dermatitis rate of 9.6% across 27 studies against 1.2% without. The figure carries a red-line marker stating that two categories are not a self-care problem but a come-back-in problem: moist desquamation (broken skin, blistering, weeping) is flagged URGENT in the nursing guideline and requires medical attention within 24 hours — come back and let the team look at it rather than buying dressings and managing an open wound alone; and signs of infection mean coming back in, namely fever, foul odour, purulent discharge, and pain and swelling extending outside the treatment area, with rapidly worsening pain and a wound opening up belonging in the same category. A footnote gives the scale: taking radiotherapy at all sites together, about 90 to 95% of patients develop radiation dermatitis of some degree, the variable being severity.",
+    "zh_caption": "示意圖，依 BC Cancer 放射性皮膚炎症狀處理護理指引、Drost 2018、Brunt 2016（FAST-Forward 急性反應子研究）、Pignol 2008 與 Zasadziński 2022 重繪；峰值數字出自以傳統分次為主的族群，分級與行動的對照採護理指引原文。",
+    "en_caption": "Schematic, redrawn from the BC Cancer symptom management guideline on radiation dermatitis, Drost 2018, Brunt 2016 (FAST-Forward acute sub-study), Pignol 2008 and Zasadziński 2022; peak figures come from a mainly conventionally fractionated cohort, and the grade-to-action pairing follows the guideline's own wording.",
+    "files": {
+      "desktop": "fig-brt-skin-timeline.svg",
+      "mobile": "fig-brt-skin-timeline-mobile.svg",
+      "en": "fig-brt-skin-timeline-en.svg",
+      "en_mobile": "fig-brt-skin-timeline-en-mobile.svg"
+    },
+    "used_by": [
+      "brt-skin"
+    ],
+    "placement": {
+      "article": "brt-skin",
+      "after_h4": "先破皮的地方：皺摺處"
+    },
+    "sources": [
+      "C[S4] BC Cancer 放射性皮膚炎護理指引（1 到 4 週出現、持續數週、濕性脫屑 URGENT 24 小時內、感染四徵象、第 2 級「多半侷限於皮膚皺摺處」）",
+      "C[S6] Drost 2018（148 人前瞻：結束後 2 週第 2 級 61.9%、第 3 級 8.3%）",
+      "C[S7] Brunt 2016（FAST-Forward 急性反應子研究：一週方案紅斑早約 2 週消退）",
+      "C[S5] Zasadziński 2022（90 到 95% 量級、急性期 90 天定義）",
+      "C[S8] Pignol 2008（乳房大小為濕性脫屑獨立因子）",
+      "C[S22] Dahn 2021（bolus：第 3 級皮膚炎 9.6% vs 1.2%）",
+      "C[H5] 乳頭乳暈與鎖骨上野查無專屬來源（圖上收斂到皺摺處）"
+    ]
+  },
+  {
+    "id": "fig-brt-workflow",
+    "zh_alt": "示意圖：從定位到治療的流程，只畫節點、不畫天數。八個節點依序是：一，門診與決定——照哪裡、照幾次先在門診定下來；二，模擬定位電腦斷層——取得治療姿勢下的立體地圖，做深吸氣閉氣的人這天至少照兩套，自由呼吸一套、閉氣一套；三，深吸氣閉氣練習——有寫明時間的研究裡，典型訓練時段 15 到 30 分鐘，這是整張圖唯一的時間數字；四，畫線與皮膚標記——留下之後每天對位用的座標，線和點不要自己補、也不要自己擦；五，勾畫標靶與正常器官——醫師在定位影像上逐層畫出要照的範圍與要避開的器官；六，計畫設計與劑量計算——物理師排照野、算劑量；七，上機品質驗證——確認機器實際打出來的劑量和電腦算出來的一致；八，第一次治療與每週評估——報到、擺位、影像確認、照射，擺位與確認占大部分時間，過程不痛不熱。另有一段說明閉氣的操作：吸氣位置的容許範圍典型只有 2 到 5 公釐，一超出範圍機器自動停束；每一個照野開始前都要重新吸氣、重新閉住，文獻的一致觀察是配合度很高；但預選訓練後仍有約三成無法完成閉氣定位掃描，練不起來會改用其他方式規劃。圖上明白標示：這張圖沒有天數，也沒有分鐘數——定位到第一次治療隔幾天、單次治療躺幾分鐘、一口氣要閉幾秒，三個問題在文獻裡都查不到可引用的通則，所以不畫、不編，依你醫院的排程與說明為準；查得到的只有訓練時段 15 到 30 分鐘（38 篇研究的系統性回顧，涵蓋 2000 到 2014 年間文獻），那是練習要花多久，不是治療要花多久。",
+    "en_alt": "Schematic of the path from simulation to treatment, drawing the steps and no days. The eight steps in order: one, clinic visit and decision — what is treated and over how many fractions is settled in clinic first; two, planning CT simulation — a three-dimensional map in the treatment position, with at least two scans that day for patients having DIBH, one free breathing and one breath hold; three, DIBH practice — where studies state a duration, the typical training session is 15 to 30 minutes, the only time figure on the whole page; four, marks and skin tattoos — the coordinates used to set the patient up each day, which should not be redrawn or rubbed out at home; five, outlining target and organs — the doctor draws the volume to be treated and the organs to be avoided, slice by slice; six, plan design and dose calculation — the physicist arranges the fields and computes the dose; seven, quality verification on the machine — checking that what the machine actually delivers matches what the computer calculated; eight, first treatment and weekly review — check in, set-up, imaging, beam on, with set-up and verification taking most of the time and nothing hurting or feeling hot. A separate panel covers the breath hold itself: the tolerance on the inspiration position is typically just 2 to 5 mm and the beam stops automatically outside it; every field starts with a fresh breath in and a fresh hold, and the literature consistently reports high levels of compliance; even so, after pre-selection and training about three in ten cannot complete a breath-hold planning scan, and then the plan is made another way. The figure states plainly that it carries no days and no minutes: how many days from simulation to the first treatment, how many minutes a single session takes, and how many seconds each breath hold lasts are three questions for which no citable general figure was found, so none is drawn or invented and patients should go by their own hospital's schedule and instructions. What is citable is the 15 to 30 minute training session (systematic review of 38 studies covering literature from 2000 to 2014), which is how long the practice takes and not how long treatment takes.",
+    "zh_caption": "示意圖，依 Latty 2015、Bergom 2018 與 Lai 2022 重繪；流程節點依一般臨床順序繪製，各院的名稱、順序與排程不同，本圖不標天數與分鐘數。",
+    "en_caption": "Schematic, redrawn from Latty 2015, Bergom 2018 and Lai 2022; the steps follow the usual clinical order, names and scheduling differ between centres, and the figure carries no days or minutes.",
+    "files": {
+      "desktop": "fig-brt-workflow.svg",
+      "mobile": "fig-brt-workflow-mobile.svg",
+      "en": "fig-brt-workflow-en.svg",
+      "en_mobile": "fig-brt-workflow-en-mobile.svg"
+    },
+    "used_by": [
+      "brt-sim-to-first"
+    ],
+    "placement": {
+      "article": "brt-sim-to-first",
+      "after_h4": "畫完線之後，為什麼還要等"
+    },
+    "sources": [
+      "C[S1] Latty 2015（38 篇系統性回顧：典型訓練時段 15 到 30 分鐘、閘門窗 2 到 5 公釐、每照野重新閉氣、配合度高）",
+      "C[S2] Bergom 2018（模擬需自由呼吸與閉氣兩套 CT、紋身點與影像導引併用）",
+      "B[S6] Lai 2022（預選訓練後仍約 29% 無法完成閉氣定位掃描）",
+      "C[H1][H2][H3] 定位到首次治療天數、單次治療分鐘數、閉氣秒數皆查無可引用來源（圖上不標）"
+    ]
+  }
+]

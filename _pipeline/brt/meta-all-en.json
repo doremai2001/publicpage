@@ -1,0 +1,65 @@
+{
+ "brt-who-needs": {
+  "title": "The operation is done — why radiotherapy as well?",
+  "dek": "After breast-conserving surgery, whole-breast irradiation is part of the package; after a mastectomy it turns on the node count — 0 nodes no, 4 or more recommended, 1 to 3 a decision to sit down and discuss.",
+  "lead": "One box on this map is particularly hard: 1 to 3 positive nodes after mastectomy, where the old meta-analysis says radiotherapy lowers breast cancer mortality and the new trial says ten-year overall survival is no different. The two pieces of evidence still do not meet, and I lay them out as they are without declaring a winner. At the end it also picks up how long the catastrophic illness certificate lasts — stage I breast cancer is not the same as the other stages.",
+  "note": "The pN line on your pathology report decides which box of this map you are in. Take the type of operation, the number of positive nodes and the grade with you to your next appointment and ask straight out: \"Which box am I in? Which features are you weighing up?\" That question can always be asked out loud, and it should get a specific answer."
+ },
+ "brt-fractionation": {
+  "title": "Why am I not on the shorter course?",
+  "dek": "16 treatments against 25 is not a ranking of severity: the ten-year data on whole-breast hypofractionation is mature, the randomised trials in the nodal areas have only just read out, and each of the two choices has reasons that stand up.",
+  "lead": "The international randomised trials and the guidelines in their own words, the three reasons our department keeps conventional fractionation, and the population the NHI provision restricts it to — this article stands all three legs side by side. When you have read it you can ask in clinic whether the 15-fraction data applies to you, and you will know what each of the two answers means; neither side is the wrong one.",
+  "note": "The fractionation is a decision you may ask about, not a one-way notification. Take three sentences to your next appointment: which trial population am I in, does the new 15-fraction data apply to me, and if it stays at 25 which of the reasons is it. Whichever answer comes back, a discussion that can spell out its reasons is a good discussion."
+ },
+ "brt-technique-map": {
+  "title": "The machine, and the breathing",
+  "dek": "IMRT, TOMO and protons are about how the machine delivers the dose; deep inspiration breath-hold is about how you breathe. Separate the two axes and the choice of technique goes back from being a price list to being an indication.",
+  "lead": "The ordinary IMRT the NHI pays for has 3 randomised trials behind it and is not a superseded budget model; TOMO and protons each get a sentence placing them, with the depth left to the articles that follow. Once you have this map, the next time you hear a technical term you will know which box to put it in and which question to press.",
+  "note": "When you hear a new term, ask first whether it is about the machine or about the breathing, then ask about the indication, and put the price last. If your tumour is on the left, put \"do I need to practise the deep inspiration breath-hold?\" on the question list for your next appointment — that is the one thing on this map you can take away today."
+ },
+ "brt-heart": {
+  "slug": "brt-heart",
+  "title": "Heart dose: the core question on the left side",
+  "dek": "The line that says every extra 1 Gy raises the risk by 7.4% is real; so is the fact that techniques you do not have to pay extra for bring the mean heart dose for the left breast to somewhere around 2 Gy.",
+  "lead": "The skeleton of this article is a chain of evidence: the relationship between dose and events comes from two cohort studies, and how far the dose can be brought down comes from a dosimetric meta-analysis — the two pieces sit at different levels of evidence, and I label each one. Not everyone can manage a breath-hold, and the direct evidence at the level of cardiac events is still empty; both of those are written as they are.",
+  "note": "Being on the left is not a verdict; what matters is the numbers in your own plan. At your next appointment ask straight out, \"what is my mean heart dose in Gy?\", and ask the team to assess whether you are suitable for a deep inspiration breath-hold. If a self-paid item comes up, ask the medical affairs office to list the name and the amount in writing."
+ },
+ "brt-tomo": {
+  "slug": "brt-tomo",
+  "title": "TOMO and ordinary IMRT: where the difference is",
+  "dek": "The dosimetric difference for a complex field is real; in the Taiwanese data the mean heart dose with VMAT is in fact lower than with TOMO — technique is chosen by looking at your treatment field, not at the price list.",
+  "lead": "There is no randomised comparison of clinical outcomes between TOMO and ordinary IMRT; everything that can be compared is dose distribution. This article lays out the situations where rotational modulation comes out ahead, the Taiwanese evidence in which the wins between it and VMAT go both ways, and the price paid in the low-dose bath. On self-paid amounts I could find no announcement, so I write it as I found it.",
+  "note": "At your appointment ask first, \"which areas does my treatment field include?\", then ask the team to tell you what heart, lung and contralateral breast doses that field plans out to. If there is a self-paid difference, ask the medical affairs office to put the item name and the amount in writing, and make the decision once you have the numbers in your hand."
+ },
+ "brt-proton": {
+  "slug": "brt-proton",
+  "title": "Protons for the breast: where the evidence stands",
+  "dek": "A heart dose at the 0.5 Gy level is measurable dosimetry; RADCOMP is estimated to read out only in 2036 — not read out is not about to read out — and for adult breast cancer in Taiwan the whole cost is self-paid.",
+  "lead": "The physics and the regulations were taken apart in the next-generation therapy topic; here I look only at the breast: the dosimetric numbers, the prospective trial in 70 patients, the randomised trial that has not read out, the costs in ribs and skin, the NHI provision restricted to patients under nineteen, and the one announced price I could find — each put into its own box.",
+  "note": "Young, left-sided, internal mammary nodes to be treated, a cardiac history — the more of those stack up, the more reason there is to put protons into the discussion. Before the referral consultation, get the mean heart dose of your own photon plan from your own hospital, and only then compare the proton side's written quotation and number of fractions."
+ },
+ "brt-sim-to-first": {
+  "title": "From planning scan to first treatment",
+  "dek": "What the planning scan is doing, how the breath-hold is trained, what happens at the first treatment; as for how many days until it starts and how many minutes you lie there, I could find no citable source, so no number is given here.",
+  "lead": "The only time figure in this article I can put a source to is the deep inspiration breath-hold training session, 15 to 30 minutes. The three patients most want to know — how many days until it starts, how long one session takes, how many seconds one breath-hold lasts — have no general figure in the literature, so they do not appear here either.",
+  "note": "What to ask on planning day is the process, not the numbers: do I need to practise the breath-hold, how do I look after the skin marks, who tells me the next step. In those waiting days your plan is being drawn, calculated and checked. Go by the timetable your own hospital gives you."
+ },
+ "brt-skin": {
+  "title": "Skin reactions: when they come, how to care for them",
+  "dek": "The timeline has only three anchors and the peak falls about 2 weeks after the end; randomised trials threw out the bans on washing and deodorant, and broken skin with weeping is the grade that needs medical assessment within 24 hours.",
+  "lead": "It is not one or two minor rules that have been overturned: no washing, no deodorant — both lost to randomised trials. This article also draws the other line clearly — which situations are not solved by a different pot of cream, but need the clinical side to see them within a day.",
+  "note": "There is plenty you can do about your skin: wash as usual, moisturise regularly, ask before you put anything new on. But broken skin with weeping, fever, odour from the wound, pus, and pain and swelling spreading beyond the treated area — those five are not self-care, they are come back and let us look at it. You see the treatment team every day; do not hold out until your clinic date."
+ },
+ "brt-beyond-skin": {
+  "title": "Beyond the skin: fatigue, lungs, lymphoedema",
+  "dek": "The 1.2% and the 10% for pneumonitis have different denominators, and one in four people are on the high-fatigue trajectory; for second cancers, the modelled absolute risk differs by an order of magnitude.",
+  "lead": "You can find 1% online for radiation pneumonitis and you can find nearly 40%, and both are true — the difference is only in how hard you look. One section here is written for people who still smoke: for the same course of treatment, the long-term risk calculated for long-term smokers is an order of magnitude higher.",
+  "note": "When you are tired, move first and ask about intensity with your team. If a dry cough, breathlessness on walking or a low fever appears in the weeks to months after radiotherapy ends, tell whoever you see that your chest has had radiotherapy. If you still smoke, ask at your next appointment how to get referred to a smoking cessation clinic."
+ },
+ "brt-after": {
+  "title": "After it ends: recovery and the long run",
+  "dek": "Pigmentation, fibrosis and telangiectasia are three different long-term changes; there are randomised ten-year figures for appearance, and the words that matter in a mammogram report are stable and changed again.",
+  "lead": "Two questions in this article have no answer I could find, and I have left them blank on purpose: how many months until the colour fades, and how many years until the changes on the film settle. What can be found is more useful — the appearance figures at ten years, and the two words a radiologist is actually looking for on your mammogram.",
+  "note": "The colour fades gradually and the firmness may stay; I am not giving you a number of months for either, because the literature does not have one. What to remember are the words that decide the reading: stable, and changed again after being stable. Put the dates of appointments and imaging in your calendar, and take your old films with you if you change hospital."
+ }
+}
