@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1649" viewBox="0 0 620 1649" role="img" aria-labelledby="t d">
+  <title id="t">五到六週怎麼過：食道炎照表來，體重悄悄走</title>
+  <desc id="d">示意圖：根治性化放療五到六週的行事曆與症狀曲線。左邊週曆：體外放療以 1.8 Gy 乘 28 次等於 50.4 Gy 為例，週一到週五、共五週又三天（60 Gy 版本約六週）；化療以每週一次為例（carboplatin/paclitaxel 週療），cisplatin/5-FU 為隔數週一輪、排法由團隊決定；第 2 到 3 週旁標示食道炎多在此開始，合併化療平均提早約 1 週。右邊曲線：食道炎症狀曲線在第 2 到 3 週上升、第 4 到 6 週最高、放療結束後 4 週內回落，虛線為合併化療提早一週的版本；體重曲線反向緩降；曲線形狀為肺癌放療文獻類推（Baker 與 Fairchild 2016），食道癌試驗未單獨報告食道炎比例。下方四格：CTCAE v5.0 食道炎第三級定義為嚴重改變進食或吞嚥、需管灌、靜脈營養或住院，肺癌同步化放療第三級約 10 到 20%（類推）；ARTDECO 放療完成率 94%，RTOG 85-01 同步化放療嚴重與危及生命副作用 44% 與 20%；局部控制對總療程時間每延一天減 2.3%（食道癌 1994 年放療單獨 n=88）與 1.4%（頭頸鱗癌類推），為族群回歸斜率非個人風險，2025 年同步化放療回溯中位只延 4 天看不出影響；放射性肺炎第二級以上約 6.6%，多在結束後數週到數月。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1649" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">THE 5–6 WEEK CALENDAR</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">五到六週怎麼過：食道炎照表來，體重</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">悄悄走</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">左邊是療程行事曆（以 50.4 Gy 分 28 次為例）；右邊是症狀與體重的示意曲線——</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">食道炎在第 2–3 週開始，是照表走，不是出了問題。</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">曲線形狀來自肺癌放療文獻的類推，食道癌試驗沒有單獨報食道炎比例。</text>
+<g filter="url(#sh)"><rect x="44" y="272" width="532" height="391.6" rx="18" fill="#FFFFFF"/></g>
+<text x="165.6" y="302" font-size="12.5" fill="#6B8084" font-weight="700" text-anchor="middle">一</text>
+<text x="252.8" y="302" font-size="12.5" fill="#6B8084" font-weight="700" text-anchor="middle">二</text>
+<text x="340" y="302" font-size="12.5" fill="#6B8084" font-weight="700" text-anchor="middle">三</text>
+<text x="427.2" y="302" font-size="12.5" fill="#6B8084" font-weight="700" text-anchor="middle">四</text>
+<text x="514.4" y="302" font-size="12.5" fill="#6B8084" font-weight="700" text-anchor="middle">五</text>
+<text x="110" y="335.5" font-size="12.5" fill="#345963" font-weight="700" text-anchor="end">第 1 週</text>
+<rect x="124" y="316" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<circle cx="165.6" cy="331" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<rect x="211.2" y="316" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="298.4" y="316" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="385.6" y="316" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="472.8" y="316" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="110" y="373.5" font-size="12.5" fill="#345963" font-weight="700" text-anchor="end">第 2 週</text>
+<rect x="124" y="354" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<circle cx="165.6" cy="369" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<rect x="211.2" y="354" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="298.4" y="354" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="385.6" y="354" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="472.8" y="354" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="110" y="411.5" font-size="12.5" fill="#345963" font-weight="700" text-anchor="end">第 3 週</text>
+<rect x="124" y="392" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<circle cx="165.6" cy="407" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<rect x="211.2" y="392" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="298.4" y="392" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="385.6" y="392" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="472.8" y="392" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="110" y="449.5" font-size="12.5" fill="#345963" font-weight="700" text-anchor="end">第 4 週</text>
+<rect x="124" y="430" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<circle cx="165.6" cy="445" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<rect x="211.2" y="430" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="298.4" y="430" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="385.6" y="430" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="472.8" y="430" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="110" y="487.5" font-size="12.5" fill="#345963" font-weight="700" text-anchor="end">第 5 週</text>
+<rect x="124" y="468" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<circle cx="165.6" cy="483" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<rect x="211.2" y="468" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="298.4" y="468" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="385.6" y="468" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="472.8" y="468" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="110" y="525.5" font-size="12.5" fill="#345963" font-weight="700" text-anchor="end">第 6 週</text>
+<rect x="124" y="506" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="211.2" y="506" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="298.4" y="506" width="83.2" height="30" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="385.6" y="506" width="83.2" height="30" rx="7" fill="none" stroke="#DBD3BF" stroke-width="1.5"/>
+<rect x="472.8" y="506" width="83.2" height="30" rx="7" fill="none" stroke="#DBD3BF" stroke-width="1.5"/>
+<line x1="564" y1="356" x2="564" y2="420" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<rect x="62" y="559" width="14" height="14" rx="4" fill="#5C77C4" opacity="0.85"/>
+<text x="84" y="569.2" font-size="12" fill="#345963" font-weight="600">體外放療：1.8 Gy ×28＝50.4 Gy，週一到週五（劑量依處方；60 Gy 版本約 6 週）</text>
+<circle cx="69" cy="591.4" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<text x="84" y="594.6" font-size="12" fill="#345963" font-weight="600">化療：圖以每週一次為例（carboplatin/paclitaxel 週療）；cisplatin/5-FU 是隔數週一</text>
+<text x="84" y="612" font-size="12" fill="#345963" font-weight="600">輪，排法由團隊定</text>
+<line x1="69" y1="627.2" x2="69" y2="641.2" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<text x="84" y="637.4" font-size="12" fill="#345963" font-weight="600">第 2–3 週：食道炎多在這裡開始；合併化療平均提早約 1 週</text>
+<g filter="url(#sh)"><rect x="44" y="679.6" width="532" height="330" rx="18" fill="#FFFFFF"/></g>
+<rect x="96" y="727.6" width="253.12" height="192" fill="#E3E8F6" opacity="0.7"/>
+<text x="222.56" y="717.6" font-size="12" fill="#5C77C4" font-weight="800" text-anchor="middle">放療 5–6 週</text>
+<text x="448.56" y="717.6" font-size="12" fill="#6B8084" font-weight="700" text-anchor="middle">結束後 4 週內回落</text>
+<line x1="96" y1="919.6" x2="548" y2="919.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="96" y1="919.6" x2="96" y2="924.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="96" y="939.6" font-size="11.5" fill="#6B8084" text-anchor="middle">0</text>
+<line x1="141.2" y1="919.6" x2="141.2" y2="924.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="186.4" y1="919.6" x2="186.4" y2="924.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="186.4" y="939.6" font-size="11.5" fill="#6B8084" text-anchor="middle">2</text>
+<line x1="231.6" y1="919.6" x2="231.6" y2="924.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="276.8" y1="919.6" x2="276.8" y2="924.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="276.8" y="939.6" font-size="11.5" fill="#6B8084" text-anchor="middle">4</text>
+<line x1="322" y1="919.6" x2="322" y2="924.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="322" y="939.6" font-size="11.5" fill="#6B8084" text-anchor="middle">5</text>
+<line x1="367.2" y1="919.6" x2="367.2" y2="924.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="367.2" y="939.6" font-size="11.5" fill="#6B8084" text-anchor="middle">6</text>
+<line x1="412.4" y1="919.6" x2="412.4" y2="924.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="457.6" y1="919.6" x2="457.6" y2="924.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="457.6" y="939.6" font-size="11.5" fill="#6B8084" text-anchor="middle">8</text>
+<line x1="502.8" y1="919.6" x2="502.8" y2="924.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="548" y1="919.6" x2="548" y2="924.6" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="548" y="939.6" font-size="11.5" fill="#6B8084" text-anchor="middle">10</text>
+<text x="548" y="955.6" font-size="11.5" fill="#6B8084" text-anchor="end">週</text>
+<path d="M96 913.84 Q132.16 911.92 159.28 896.56 Q195.44 823.6 240.64 766 Q285.84 750.64 331.04 762.16 Q376.24 800.56 430.48 862 Q466.64 896.56 502.8 910" fill="none" stroke="#B04A4A" stroke-width="2" stroke-dasharray="6 5" opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96 913.84 Q168.32 913.84 204.48 896.56 Q240.64 823.6 285.84 766 Q331.04 750.64 376.24 762.16 Q421.44 800.56 475.68 862 Q511.84 896.56 548 910" fill="none" stroke="#B04A4A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96 731.44 Q163.8 733.36 231.6 746.8 Q299.4 762.16 367.2 777.52 Q435 789.04 502.8 794.8 Q525.4 795.76 548 796.72" fill="none" stroke="#96790F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="407.88" y="754.48" font-size="12.5" fill="#B04A4A" font-weight="800" text-anchor="start">食道炎症狀（示意）</text>
+<text x="154.76" y="871.6" font-size="11.5" fill="#B04A4A" font-weight="600" opacity="0.85">合併化療：提早約 1 週（虛線）</text>
+<text x="548" y="824.72" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="end">體重（示意，反向緩降）</text>
+<text x="88" y="731.6" font-size="11.5" fill="#6B8084" text-anchor="end">高</text>
+<text x="88" y="919.6" font-size="11.5" fill="#6B8084" text-anchor="end">低</text>
+<text x="62" y="977.6" font-size="11.5" fill="#6B8084">肺癌放療文獻類推（Baker &amp; Fairchild 2016）；食道癌試驗未單獨報告食道炎比例</text>
+<g filter="url(#sh)"><rect x="44" y="1027.6" width="532" height="96.92" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="1043.6" width="86.48" height="20.12" rx="10.06" fill="#B04A4A"/>
+<text x="105.24" y="1057.8" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">第三級是什麼</text>
+<text x="62" y="1085.92" font-size="12" fill="#345963">CTCAE v5.0 食道炎 G3：「嚴重改變進食／吞嚥；需管灌、靜脈營養或住院」。G2：有症</text>
+<text x="62" y="1103.33" font-size="12" fill="#345963">狀、需改變吃法與口服補充。肺癌同步化放療 G3 約 10–20%（類推）。</text>
+<g filter="url(#sh)"><rect x="44" y="1136.52" width="532" height="96.92" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="1152.52" width="98.21" height="20.12" rx="10.06" fill="#5C77C4"/>
+<text x="111.11" y="1166.73" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">大多數人做得完</text>
+<text x="62" y="1194.85" font-size="12" fill="#345963">ARTDECO（n=260，鱗癌 61%）放療完成率 94%。RTOG 85-01 同步化放療嚴重／危及生命副作</text>
+<text x="62" y="1212.25" font-size="12" fill="#345963">用 44%／20%（1992 年代、n=121）。</text>
+<g filter="url(#sh)"><rect x="44" y="1245.45" width="532" height="114.32" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="1261.45" width="109.94" height="20.12" rx="10.06" fill="#96790F"/>
+<text x="116.97" y="1275.65" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">為什麼不要自己停</text>
+<text x="62" y="1303.77" font-size="12" fill="#345963">局部控制對總療程時間：−2.3%／天（食道癌，1994 年放療單獨、n=88）；−1.4%／天（頭</text>
+<text x="62" y="1321.17" font-size="12" fill="#345963">頸鱗癌，類推）——族群回歸斜率，不是個人風險；2025 年同步化放療回溯（中位只延 4 天）</text>
+<text x="62" y="1338.57" font-size="12" fill="#345963">看不出影響，不能當「可以隨便停」的證據。</text>
+<g filter="url(#sh)"><rect x="44" y="1371.77" width="532" height="96.92" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="1387.77" width="63.02" height="20.12" rx="10.06" fill="#00806B"/>
+<text x="93.51" y="1401.98" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">不只食道</text>
+<text x="62" y="1430.1" font-size="12" fill="#345963">放射性肺炎 ≥G2 約 6.6%（IMRT 時代系統性回顧），多在結束後數週到數月——咳嗽、喘要</text>
+<text x="62" y="1447.5" font-size="12" fill="#345963">講。</text>
+<text x="44" y="1493.2" font-size="12.5" fill="#6B8084" font-weight="600">第四、五週最痛，也最容易想「休息幾天」——難受要回報，讓團隊處理症狀與營養；要不要暫</text>
+<text x="44" y="1511.32" font-size="12.5" fill="#6B8084" font-weight="600">停、怎麼補償，由團隊決定。</text>
+<text x="44" y="1551.45" font-size="12" fill="#6B8084">示意圖，依 Baker &amp; Fairchild 2016（肺癌放射性食道炎綜述，類推）、CTCAE v5.0、Hulshof</text>
+<text x="44" y="1569.45" font-size="12" fill="#6B8084">2021（ARTDECO）、Herskovic 1992（RTOG 85-01）、Nishimura 1994、Bese 2007、Xiang</text>
+<text x="44" y="1587.45" font-size="12" fill="#6B8084">2025 與 Tonison 2019（IMRT 時代放射性肺炎回顧）重繪｜曲線為示意，不代表個人病程；排程以</text>
+<text x="44" y="1605.45" font-size="12" fill="#6B8084">你的團隊為準</text>
+  </g>
+</svg>

@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1925" viewBox="0 0 1440 1925" role="img" aria-labelledby="t d">
+  <title id="t">The oesophageal cancer treatment map: stage × histology → road</title>
+  <desc id="d">Schematic treatment map for oesophageal cancer: stage by histology points to a road. Taiwan SCC at diagnosis: stages III plus IV 77.3% (registry plus NHI database 2008–2014, ages 40–79, n=7,763; SCC 96.6%, adenocarcinoma 3.4%). Five squamous boxes: box 1, cT1a mucosal disease, endoscopic resection; JES CQ6 says that for pT1a-MM with lymphovascular invasion or pT1b, additional surgery or chemoradiotherapy are both supported. Box 2, cStage I: oesophagectomy or definitive chemoradiotherapy with close follow-up and salvage, both weak JES recommendations; a matched Taiwan study found no difference in clinical stage I. Box 3, resectable cStage II–III, three roads: preoperative chemoradiotherapy plus surgery (CROSS 10-year overall survival 38% vs 25%; NEOCRTEC5010 SCC 5-year 59.9% vs 49.1%), preoperative chemotherapy plus surgery (Japanese DCF, JES strong recommendation A; JCOG1109 3-year 72.1% vs 62.6%), and definitive chemoradiotherapy with or without salvage surgery (JCOG0909 single arm, 5-year overall survival 64.5%, oesophagus preserved 54.9%; ESMO footnote: preferred for unwilling or unfit patients and cervical tumours); ASCO 2020 writes 'or', ESMO 2025 'equally effective'; actual Taiwan SCC distribution: definitive chemoradiotherapy 54%, preoperative chemoradiotherapy plus surgery 26%, surgery alone 20%. Box 4, cT4b: definitive chemoradiotherapy (JES CQ12 weak, consensus 100%); surgery if it becomes resectable has weak evidence. Box 5, metastatic: systemic therapy, palliation of swallowing, trials and palliative care in parallel; postoperative nivolumab only for residual tumour in the specimen. Adenocarcinoma column: perioperative FLOT plus surgery, ESMO [I, A]; ESOPEC 3-year overall survival 57.4% vs 50.7% with CROSS, HR 0.70; preoperative chemoradiotherapy only if unfit for FLOT [I, C].</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1925" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">STAGE × HISTOLOGY → ROAD</text>
+<text x="84" y="148" font-size="38" fill="#123641" font-weight="800" class="r">The oesophageal cancer treatment map: stage × histology → road</text>
+<text x="84" y="194" font-size="21" fill="#527078">Squamous cell carcinoma runs down the five boxes; adenocarcinoma takes a different road (FLOT) in the locally advanced</text>
+<text x="84" y="224" font-size="21" fill="#527078">box. Each box carries the guideline grade; every number carries its trial name.</text>
+<text x="84" y="254" font-size="21" fill="#527078">Where you land is decided by imaging, biopsy and the multidisciplinary meeting — this map is for asking, in clinic, 'which box am</text>
+<text x="84" y="284" font-size="21" fill="#527078">I in?'</text>
+<rect x="84" y="328" width="1272" height="70.95" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="106" y="353" font-size="14.5" fill="#8F7418" font-weight="800">Stage at diagnosis, Taiwan SCC: stages III + IV together 77.3% (Cancer Registry + NHI database 2008–2014, ages 40–79, n=7,763; SCC 96.6%, adenocarcinoma 3.4%</text>
+<text x="106" y="374.75" font-size="14.5" fill="#8F7418" font-weight="800">of these two types)</text>
+<text x="84" y="435.95" font-size="19" fill="#123641" font-weight="800">Squamous cell carcinoma (over 90% in Taiwan)</text>
+<text x="1038" y="435.95" font-size="19" fill="#123641" font-weight="800">Adenocarcinoma</text>
+<g filter="url(#sh)"><rect x="84" y="451.95" width="932" height="163.84" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="473.95" width="240" height="34" rx="17" fill="#5C77C4"/>
+<text x="228" y="496.53" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Box 1 | cT1a, mucosa</text>
+<line x1="356" y1="490.95" x2="380" y2="490.95" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="380" y1="490.95" x2="370.87" y2="486.87" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="380" y1="490.95" x2="370.87" y2="495.03" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="384" y="492" font-size="19" fill="#123641" font-weight="800">Endoscopic resection (ESD/EMR) can deal with it</text>
+<text x="384" y="523.65" font-size="14.6" fill="#345963">JES 2022 CQ6: if the specimen shows pT1a-MM with lymphovascular invasion, or</text>
+<text x="384" y="546.28" font-size="14.6" fill="#345963">pT1b, additional oesophagectomy or chemoradiotherapy are both supported and</text>
+<text x="384" y="568.91" font-size="14.6" fill="#345963">neither can be singled out (consensus 89.3%, evidence C).</text>
+<text x="384" y="595.54" font-size="14" fill="#6B8084">→ 'Can endoscopy alone deal with an early lesion?'</text>
+<g filter="url(#sh)"><rect x="84" y="629.79" width="932" height="189.49" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="651.79" width="240" height="34" rx="17" fill="#5C77C4"/>
+<text x="228" y="674.37" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Box 2 | cStage I (T1bN0)</text>
+<line x1="356" y1="668.79" x2="380" y2="668.79" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="380" y1="668.79" x2="370.87" y2="664.71" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="380" y1="668.79" x2="370.87" y2="672.87" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="384" y="669.84" font-size="19" fill="#123641" font-weight="800">Oesophagectomy, or organ-preserving definitive</text>
+<text x="384" y="695.49" font-size="19" fill="#123641" font-weight="800">chemoradiotherapy with close follow-up and salvage</text>
+<text x="384" y="727.14" font-size="14.6" fill="#345963">JES CQ5: both carry only a weak recommendation (consensus 92.3%, C). A matched</text>
+<text x="384" y="749.77" font-size="14.6" fill="#345963">Taiwan registry study (cT1–3 SCC, n=4,931) found no survival difference between</text>
+<text x="384" y="772.4" font-size="14.6" fill="#345963">the two in clinical stage I.</text>
+<text x="384" y="799.03" font-size="14" fill="#6B8084">→ 'What surgery removes' · 'Why a higher radiation dose is not better'</text>
+<g filter="url(#sh)"><rect x="84" y="833.28" width="932" height="493.66" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="855.28" width="311.81" height="34" rx="17" fill="#96790F"/>
+<text x="263.91" y="877.86" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Box 3 | cStage II–III, resectable</text>
+<text x="108" y="917.43" font-size="19" fill="#123641" font-weight="800">Three roads the guidelines recognise — ASCO 2020 writes 'or', ESMO 2025 writes 'equally</text>
+<text x="108" y="943.08" font-size="19" fill="#123641" font-weight="800">effective with regard to OS'</text>
+<rect x="108" y="970.58" width="284" height="233" rx="14" fill="#E3E8F6"/>
+<rect x="108" y="970.58" width="6" height="233" rx="3" fill="#5C77C4"/>
+<text x="126" y="998.62" font-size="15.6" fill="#123641" font-weight="800">Preoperative</text>
+<text x="126" y="1019.68" font-size="15.6" fill="#123641" font-weight="800">chemoradiotherapy + surgery</text>
+<text x="126" y="1044.74" font-size="14" fill="#345963">CROSS (n=366, 75% adenocarcinoma):</text>
+<text x="126" y="1065.74" font-size="14" fill="#345963">10-year OS 38% vs 25% with surgery</text>
+<text x="126" y="1086.74" font-size="14" fill="#345963">alone; SCC subgroup HR 0.48.</text>
+<text x="126" y="1107.74" font-size="14" fill="#345963">NEOCRTEC5010 (SCC, n=451): 5-year</text>
+<text x="126" y="1128.74" font-size="14" fill="#345963">OS 59.9% vs 49.1%.</text>
+<rect x="126" y="1151.74" width="130.34" height="21.88" rx="10.94" fill="#5C77C4"/>
+<text x="191.17" y="1167.18" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">ESMO 2025 [I, A]</text>
+<rect x="408" y="970.58" width="284" height="254.06" rx="14" fill="#EFE7CC"/>
+<rect x="408" y="970.58" width="6" height="254.06" rx="3" fill="#96790F"/>
+<text x="426" y="998.62" font-size="15.6" fill="#123641" font-weight="800">Preoperative chemotherapy +</text>
+<text x="426" y="1019.68" font-size="15.6" fill="#123641" font-weight="800">surgery (the Japanese</text>
+<text x="426" y="1040.74" font-size="15.6" fill="#123641" font-weight="800">standard)</text>
+<text x="426" y="1065.8" font-size="14" fill="#345963">JES CQ8, strong recommendation A:</text>
+<text x="426" y="1086.8" font-size="14" fill="#345963">preoperative DCF triplet</text>
+<text x="426" y="1107.8" font-size="14" fill="#345963">chemotherapy.</text>
+<text x="426" y="1128.8" font-size="14" fill="#345963">JCOG1109: 3-year OS 72.1% with</text>
+<text x="426" y="1149.8" font-size="14" fill="#345963">DCF vs 62.6% with CF (HR 0.68).</text>
+<rect x="426" y="1172.8" width="238.24" height="17.5" rx="8.75" fill="#96790F"/>
+<text x="545.12" y="1185.15" font-size="10" fill="#FFFFFF" font-weight="800" text-anchor="middle">Same box, different mainstream by country</text>
+<rect x="708" y="970.58" width="284" height="254" rx="14" fill="#D8EDE7"/>
+<rect x="708" y="970.58" width="6" height="254" rx="3" fill="#00806B"/>
+<text x="726" y="998.62" font-size="15.6" fill="#123641" font-weight="800">Definitive chemoradiotherapy</text>
+<text x="726" y="1019.68" font-size="15.6" fill="#123641" font-weight="800">(± salvage surgery)</text>
+<text x="726" y="1044.74" font-size="14" fill="#345963">JCOG0909 (cStage II/III SCC,</text>
+<text x="726" y="1065.74" font-size="14" fill="#345963">n=94, single arm): 5-year OS 64.5%,</text>
+<text x="726" y="1086.74" font-size="14" fill="#345963">oesophagus preserved in 54.9%.</text>
+<text x="726" y="1107.74" font-size="14" fill="#345963">ESMO 2025 footnote: preferred for</text>
+<text x="726" y="1128.74" font-size="14" fill="#345963">patients unwilling or unfit for</text>
+<text x="726" y="1149.74" font-size="14" fill="#345963">surgery, and for cervical tumours.</text>
+<rect x="726" y="1172.74" width="238.79" height="21.88" rx="10.94" fill="#00806B"/>
+<text x="845.39" y="1188.18" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">JES CQ7: surgery first = weak (C)</text>
+<text x="108" y="1255.23" font-size="14" fill="#345963">Where Taiwan SCC patients actually stand (registry 2008–2016, cT1b–4 N0/+ M0, n=7,637)</text>
+<rect x="109" y="1270.93" width="475.36" height="30" rx="6" fill="#00806B" opacity="0.9"/>
+<text x="346.68" y="1290.93" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Definitive CRT 54%</text>
+<rect x="586.36" y="1270.93" width="227.84" height="30" rx="6" fill="#5C77C4" opacity="0.9"/>
+<text x="700.28" y="1290.93" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Preop CRT + surgery 26%</text>
+<rect x="816.2" y="1270.93" width="174.8" height="30" rx="6" fill="#9A9282" opacity="0.9"/>
+<text x="903.6" y="1290.93" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Surgery alone 20%</text>
+<g filter="url(#sh)"><rect x="84" y="1340.93" width="932" height="163.84" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="1362.93" width="315.5" height="34" rx="17" fill="#00806B"/>
+<text x="265.75" y="1385.51" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Box 4 | cT4b, airway or great vessel</text>
+<line x1="431.5" y1="1379.93" x2="455.5" y2="1379.93" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="455.5" y1="1379.93" x2="446.37" y2="1375.86" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="455.5" y1="1379.93" x2="446.37" y2="1384.01" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="459.5" y="1380.98" font-size="19" fill="#123641" font-weight="800">Not resected first: definitive chemoradiotherapy</text>
+<text x="459.5" y="1412.63" font-size="14.6" fill="#345963">JES CQ12: weak recommendation for definitive chemoradiotherapy</text>
+<text x="459.5" y="1435.27" font-size="14.6" fill="#345963">(consensus 100%, C); CQ14: if it becomes resectable after</text>
+<text x="459.5" y="1457.89" font-size="14.6" fill="#345963">chemoradiotherapy, surgery has only weak evidence (consensus 89.3%, C).</text>
+<text x="459.5" y="1484.53" font-size="14" fill="#6B8084">→ 'The tests that decide operability' · 'When to come back the same day'</text>
+<g filter="url(#sh)"><rect x="84" y="1518.77" width="932" height="189.49" rx="18" fill="#FFFFFF"/></g>
+<rect x="108" y="1540.77" width="240" height="34" rx="17" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="228" y="1563.35" font-size="15.5" fill="#9A9282" font-weight="800" text-anchor="middle">Box 5 | Metastatic</text>
+<line x1="356" y1="1557.77" x2="380" y2="1557.77" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="380" y1="1557.77" x2="370.87" y2="1553.7" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="380" y1="1557.77" x2="370.87" y2="1561.85" stroke="#123641" stroke-width="2.5" stroke-linecap="round"/>
+<text x="384" y="1558.82" font-size="19" fill="#123641" font-weight="800">Systemic therapy, palliation of swallowing, trials and palliative</text>
+<text x="384" y="1584.47" font-size="19" fill="#123641" font-weight="800">care — in parallel, not in sequence</text>
+<text x="384" y="1616.12" font-size="14.6" fill="#345963">Immunotherapy plus chemotherapy is stratified by PD-L1 (see the immunotherapy</text>
+<text x="384" y="1638.75" font-size="14.6" fill="#345963">article). Postoperative nivolumab is limited to residual vital tumour in the resection</text>
+<text x="384" y="1661.38" font-size="14.6" fill="#345963">specimen (ESMO 2025 footnote g; JES CQ9, strong recommendation A).</text>
+<text x="384" y="1688.01" font-size="14" fill="#6B8084">→ 'Who does immunotherapy actually help?' · 'After recurrence or metastasis'</text>
+<g filter="url(#sh)"><rect x="1038" y="451.95" width="318" height="1256.31" rx="18" fill="#EFE7CC"/></g>
+<rect x="1038" y="451.95" width="318" height="8" rx="4" fill="#96790F"/>
+<text x="1060" y="489.95" font-size="14" fill="#6B8084" font-weight="600">About 3.4% of Taiwan cases (registry sample)</text>
+<rect x="1060" y="517.95" width="274" height="34" rx="17" fill="#96790F"/>
+<text x="1197" y="540.53" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Locally advanced, resectable</text>
+<text x="1060" y="583.45" font-size="19" fill="#123641" font-weight="800">Adenocarcinoma takes</text>
+<text x="1060" y="609.1" font-size="19" fill="#123641" font-weight="800">another road</text>
+<text x="1060" y="642.75" font-size="14.6" fill="#345963">Resectable locally advanced</text>
+<text x="1060" y="665.38" font-size="14.6" fill="#345963">adenocarcinoma: perioperative FLOT</text>
+<text x="1060" y="688.01" font-size="14.6" fill="#345963">chemotherapy + surgery [I, A]</text>
+<text x="1060" y="710.64" font-size="14.6" fill="#345963">(ESMO 2025 interim update).</text>
+<text x="1060" y="737.27" font-size="14.6" fill="#345963">ESOPEC (Germany, n=438): 3-year OS</text>
+<text x="1060" y="759.9" font-size="14.6" fill="#345963">57.4% with FLOT vs 50.7% with</text>
+<text x="1060" y="782.53" font-size="14.6" fill="#345963">CROSS, HR 0.70; 90-day</text>
+<text x="1060" y="805.16" font-size="14.6" fill="#345963">postoperative mortality 3.1% vs 5.6%.</text>
+<text x="1060" y="831.79" font-size="14.6" fill="#345963">Preoperative chemoradiotherapy only</text>
+<text x="1060" y="854.42" font-size="14.6" fill="#345963">if unfit for FLOT [I, C]. Neo-AEGIS</text>
+<text x="1060" y="877.05" font-size="14.6" fill="#345963">(mostly older ECF/EOX) was a draw.</text>
+<text x="1060" y="909.68" font-size="14" fill="#6B8084">→ 'Squamous and adenocarcinoma are</text>
+<text x="1060" y="929.98" font-size="14" fill="#6B8084">two different diseases'</text>
+<text x="1060" y="1682.26" font-size="14" fill="#6B8084">Early and metastatic: see that article</text>
+<text x="84" y="1756.26" font-size="14" fill="#6B8084" font-weight="600">Boxes move: deeper than expected after ESD → box 2; metastasis found on PET after chemoradiotherapy → box 5; a T4 tumour shrinking on re-evaluation → box 3. The map is drawn once;</text>
+<text x="84" y="1776.56" font-size="14" fill="#6B8084" font-weight="600">other articles do not redraw it.</text>
+<text x="84" y="1822.86" font-size="16" fill="#6B8084">Schematic, redrawn from the JES 2022 guideline, the ESMO 2025 interim update, the ASCO 2020 guideline, CROSS (Eyck 2021), NEOCRTEC5010 (Yang 2021),</text>
+<text x="84" y="1846.86" font-size="16" fill="#6B8084">JCOG0909, ESOPEC (Hoeppner 2025) and Taiwan Cancer Registry studies (Chen HY 2022, Chen HS 2022, Chang 2022) | cohorts, stages and endpoints differ</text>
+<text x="84" y="1870.86" font-size="16" fill="#6B8084">between trials — numbers in different boxes are not directly comparable | where you land is for the multidisciplinary team to judge</text>
+  </g>
+</svg>

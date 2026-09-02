@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1727" viewBox="0 0 620 1727" role="img" aria-labelledby="t d">
+  <title id="t">光子 IMRT 對質子：心與肺吃到的低劑量</title>
+  <desc id="d">示意圖（非實際劑量分布）：胸腔橫切面兩格。左格光子 IMRT：多道光束交叉把高劑量集中在食道腫瘤，但每道光束穿過腫瘤後繼續往外走，低劑量浴覆蓋兩肺與心臟；IMRT 是健保常規的基本款、已經很好。右格質子：後斜方向兩束光束在布拉格峰放完劑量就停，幾乎沒有出射劑量。下方三張卡。劑量學（Zhang 2008，MD Anderson 遠端食道癌 15 人的計畫比較）：肺 V5 兩束質子比 IMRT 少 35.6%、三束少 17.4%；平均肺劑量少 5.1 Gy 與 2.9 Gy；心臟 V40 IMRT 35.7%、兩束質子 41.8% 反而較高、三束 27.7%，省肺與省心要取捨。唯一完成的隨機比較（Lin 2020，隨機第二期 n=145，50.4 Gy，鱗癌加腺癌）：主要終點總毒性負擔為複合分數，IMRT 39.9 對質子 17.4，術後併發症分數 19.1 對 2.5；3 年 PFS 50.8% 對 51.2%、3 年整體存活 44.5% 對 44.5% 相同；80% 質子為被動散射。淋巴球（Shiraishi 2018，傾向配對 136 對 136，回溯）：G4 淋巴球低下 IMRT 40.4% 對質子 17.6%；與存活的連結不畫。第三期 NRG-GI006 主要終點為整體存活，主要完成估 2031 年 11 月。圖上沒有存活優勢箭頭。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><clipPath id="clip_imrt"><ellipse cx="310" cy="465.2" rx="162.5" ry="113.75"/></clipPath><clipPath id="clip_proton"><ellipse cx="310" cy="811.2" rx="162.5" ry="113.75"/></clipPath><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1727" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">PHOTON IMRT vs PROTON — WHERE THE LOW DOSE GOES</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">光子 IMRT 對質子：心與肺吃到的低</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">劑量</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">同一顆食道腫瘤、同樣的處方劑量：差別在腫瘤以外的地方。左邊是今天的基本</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">款、已經很好；右邊是同一個治療的工程升級。</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">圖上沒有存活箭頭：唯一完成的隨機比較，存活相同。</text>
+<g filter="url(#sh)"><rect x="44" y="272" width="532" height="330" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="290" width="237.27" height="30" rx="15" fill="#96790F"/>
+<text x="180.63" y="309.68" font-size="13" fill="#FFFFFF" font-weight="800" text-anchor="middle">光子 IMRT（健保常規、基本款）</text>
+<path d="M147.5 465.2 a162.5 113.75 0 1 0 325 0 a162.5 113.75 0 1 0 -325 0" fill="#F7F3EA" stroke="#C9C0AC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M252.8 387.2 c -71.5 -6.5 -84.5 97.5 -39 149.5 c 39 19.5 97.5 -58.5 39 -149.5 z" fill="#E9EEF3" stroke="#B7C3CC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M367.2 387.2 c 71.5 -6.5 84.5 97.5 39 149.5 c -39 19.5 -97.5 -58.5 -39 -149.5 z" fill="#E9EEF3" stroke="#B7C3CC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="310" cy="548.4" r="16.9" fill="#D9D2C2" stroke="#B9AF98" stroke-width="1.5"/>
+<circle cx="339.9" cy="527.6" r="11.05" fill="#E8C9C9" stroke="#B98686" stroke-width="1.5"/>
+<path d="M323 426.2 c 58.5 -6.5 71.5 58.5 26 81.25 c -32.5 16.25 -78 -19.5 -26 -81.25 z" fill="#F0D5D5" stroke="#B98686" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip_imrt)">
+<path d="M297 707 L333.4 707 L333.4 317 L297 317 z" fill="#96790F" opacity="0.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M154.12 623.4 L177.52 651.29 L476.28 400.6 L452.88 372.71 z" fill="#96790F" opacity="0.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M452.88 651.29 L476.28 623.4 L177.52 372.71 L154.12 400.6 z" fill="#96790F" opacity="0.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M138.18 428.2 L125.74 462.41 L492.22 595.8 L504.66 561.59 z" fill="#96790F" opacity="0.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M504.66 462.41 L492.22 428.2 L125.74 561.59 L138.18 595.8 z" fill="#96790F" opacity="0.13" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="68" y="578" font-size="12" fill="#345963">每道光束穿過腫瘤後繼續往外走：低劑量浴覆蓋兩肺、心臟</text>
+<circle cx="315.2" cy="512" r="15.6" fill="#F1DDDD" stroke="#B04A4A" stroke-width="2"/>
+<circle cx="315.2" cy="512" r="7.15" fill="#B04A4A"/>
+<text x="407.5" y="380.7" font-size="12" fill="#6B8084" font-weight="700" text-anchor="middle">肺</text>
+<text x="212.5" y="380.7" font-size="12" fill="#6B8084" font-weight="700" text-anchor="middle">肺</text>
+<text x="358.75" y="461.95" font-size="12" fill="#8E5A5A" font-weight="700" text-anchor="middle">心</text>
+<text x="310" y="551.65" font-size="11" fill="#7A6E58" font-weight="700" text-anchor="middle">脊椎</text>
+<text x="337.3" y="516" font-size="12" fill="#B04A4A" font-weight="800">食道腫瘤</text>
+<text x="310" y="361.2" font-size="11" fill="#6B8084" text-anchor="middle">前（胸骨側）</text>
+<text x="142.3" y="469.2" font-size="12" fill="#6B8084" font-weight="700" text-anchor="end">右</text>
+<text x="477.7" y="469.2" font-size="12" fill="#6B8084" font-weight="700" text-anchor="start">左</text>
+<g filter="url(#sh)"><rect x="44" y="618" width="532" height="330" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="636" width="261.42" height="30" rx="15" fill="#00806B"/>
+<text x="192.71" y="655.68" font-size="13" fill="#FFFFFF" font-weight="800" text-anchor="middle">質子（成人自費；同一個治療的升級）</text>
+<path d="M147.5 811.2 a162.5 113.75 0 1 0 325 0 a162.5 113.75 0 1 0 -325 0" fill="#F7F3EA" stroke="#C9C0AC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M252.8 733.2 c -71.5 -6.5 -84.5 97.5 -39 149.5 c 39 19.5 97.5 -58.5 39 -149.5 z" fill="#E9EEF3" stroke="#B7C3CC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M367.2 733.2 c 71.5 -6.5 84.5 97.5 39 149.5 c -39 19.5 -97.5 -58.5 -39 -149.5 z" fill="#E9EEF3" stroke="#B7C3CC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="310" cy="894.4" r="16.9" fill="#D9D2C2" stroke="#B9AF98" stroke-width="1.5"/>
+<circle cx="339.9" cy="873.6" r="11.05" fill="#E8C9C9" stroke="#B98686" stroke-width="1.5"/>
+<path d="M323 772.2 c 58.5 -6.5 71.5 58.5 26 81.25 c -32.5 16.25 -78 -19.5 -26 -81.25 z" fill="#F0D5D5" stroke="#B98686" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip_proton)">
+<path d="M187.38 1006.55 L219.33 1028.92 L327.98 866.95 L302.42 849.05 z" fill="#00806B" opacity="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M329.26 867.84 L301.14 848.16" fill="none" stroke="#00806B" stroke-width="3.25" opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M411.07 1028.92 L443.02 1006.55 L327.98 849.05 L302.42 866.95 z" fill="#00806B" opacity="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M329.26 848.16 L301.14 867.84" fill="none" stroke="#00806B" stroke-width="3.25" opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="68" y="924" font-size="12" fill="#345963">光束在布拉格峰放完劑量就停：幾乎沒有出射劑量（示意，非實際劑量分布）</text>
+<circle cx="315.2" cy="858" r="15.6" fill="#F1DDDD" stroke="#B04A4A" stroke-width="2"/>
+<circle cx="315.2" cy="858" r="7.15" fill="#B04A4A"/>
+<text x="407.5" y="726.7" font-size="12" fill="#6B8084" font-weight="700" text-anchor="middle">肺</text>
+<text x="212.5" y="726.7" font-size="12" fill="#6B8084" font-weight="700" text-anchor="middle">肺</text>
+<text x="358.75" y="807.95" font-size="12" fill="#8E5A5A" font-weight="700" text-anchor="middle">心</text>
+<text x="310" y="897.65" font-size="11" fill="#7A6E58" font-weight="700" text-anchor="middle">脊椎</text>
+<text x="337.3" y="862" font-size="12" fill="#B04A4A" font-weight="800">食道腫瘤</text>
+<text x="310" y="707.2" font-size="11" fill="#6B8084" text-anchor="middle">前（胸骨側）</text>
+<text x="142.3" y="815.2" font-size="12" fill="#6B8084" font-weight="700" text-anchor="end">右</text>
+<text x="477.7" y="815.2" font-size="12" fill="#6B8084" font-weight="700" text-anchor="start">左</text>
+<g filter="url(#sh)"><rect x="44" y="966" width="532" height="256" rx="18" fill="#FFFFFF"/></g>
+<rect x="54" y="980" width="5" height="228" rx="2.5" fill="#96790F"/>
+<text x="62" y="994.62" font-size="12.5" fill="#123641" font-weight="800">劑量學：Zhang 2008（MD Anderson，遠端食道癌 15 人，4D-CT 計畫比較）</text>
+<circle cx="66" cy="1017.75" r="3" fill="#96790F"/>
+<text x="76" y="1022.12" font-size="12.5" fill="#345963">肺 V5：兩束質子比 IMRT 少 35.6%、三束少 17.4%</text>
+<circle cx="66" cy="1041.88" r="3" fill="#96790F"/>
+<text x="76" y="1046.25" font-size="12.5" fill="#345963">平均肺劑量：少 5.1 Gy（兩束）／2.9 Gy（三束）</text>
+<circle cx="66" cy="1066" r="3" fill="#96790F"/>
+<text x="76" y="1070.38" font-size="12.5" fill="#345963">心臟 V40：IMRT 35.7%、兩束質子 41.8%（反而高）、三束 27.7%——省肺與省心要</text>
+<text x="76" y="1088.5" font-size="12.5" fill="#345963">取捨</text>
+<text x="62" y="1121.5" font-size="11.5" fill="#6B8084" font-weight="700">心臟 V40（%，Zhang 2008）</text>
+<text x="62" y="1143.5" font-size="11.5" fill="#345963" font-weight="600">IMRT</text>
+<rect x="120.92" y="1132.5" width="349.08" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="120.92" y="1132.5" width="249.24" height="16" rx="4" fill="#96790F" opacity="0.9"/>
+<text x="376.16" y="1144.5" font-size="11.5" fill="#123641" font-weight="800">35.7</text>
+<text x="62" y="1169.5" font-size="11.5" fill="#345963" font-weight="600">兩束質子</text>
+<rect x="120.92" y="1158.5" width="349.08" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="120.92" y="1158.5" width="291.83" height="16" rx="4" fill="#00806B" opacity="0.9"/>
+<text x="418.75" y="1170.5" font-size="11.5" fill="#123641" font-weight="800">41.8</text>
+<text x="62" y="1195.5" font-size="11.5" fill="#345963" font-weight="600">三束質子</text>
+<rect x="120.92" y="1184.5" width="349.08" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="120.92" y="1184.5" width="193.39" height="16" rx="4" fill="#00806B" opacity="0.9"/>
+<text x="320.31" y="1196.5" font-size="11.5" fill="#123641" font-weight="800">27.7</text>
+<g filter="url(#sh)"><rect x="44" y="1236" width="532" height="166.12" rx="18" fill="#FFFFFF"/></g>
+<rect x="54" y="1250" width="5" height="138.12" rx="2.5" fill="#00806B"/>
+<text x="62" y="1264.62" font-size="12.5" fill="#123641" font-weight="800">唯一完成的隨機比較：Lin 2020（隨機第二期，n=145，50.4 Gy，鱗癌＋腺癌）</text>
+<circle cx="66" cy="1287.75" r="3" fill="#00806B"/>
+<text x="76" y="1292.12" font-size="12.5" fill="#345963">主要終點是「總毒性負擔」（11 種不良事件與術後併發症的複合分數）：IMRT 39.9</text>
+<text x="76" y="1310.25" font-size="12.5" fill="#345963">對質子 17.4（2.3 倍）</text>
+<circle cx="66" cy="1330" r="3" fill="#00806B"/>
+<text x="76" y="1334.38" font-size="12.5" fill="#345963">術後併發症分數 19.1 對 2.5</text>
+<circle cx="66" cy="1354.12" r="3" fill="#00806B"/>
+<text x="76" y="1358.5" font-size="12.5" fill="#345963">3 年 PFS 50.8% 對 51.2%；3 年 OS 44.5% 對 44.5%——相同。80% 的質子是被動散</text>
+<text x="76" y="1376.62" font-size="12.5" fill="#345963">射。</text>
+<g filter="url(#sh)"><rect x="44" y="1416.12" width="532" height="129.88" rx="18" fill="#FFFFFF"/></g>
+<rect x="54" y="1430.12" width="5" height="101.88" rx="2.5" fill="#5C77C4"/>
+<text x="62" y="1444.75" font-size="12.5" fill="#123641" font-weight="800">淋巴球：Shiraishi 2018（傾向配對 136 對 136，術前化放療，回溯）</text>
+<circle cx="66" cy="1467.88" r="3" fill="#5C77C4"/>
+<text x="76" y="1472.25" font-size="12.5" fill="#345963">G4 淋巴球低下：IMRT 40.4% 對質子 17.6%</text>
+<circle cx="66" cy="1492" r="3" fill="#5C77C4"/>
+<text x="76" y="1496.38" font-size="12.5" fill="#345963">低劑量浴照到循環中的淋巴球，是機轉假說；它跟存活的連結本圖不畫。</text>
+<circle cx="66" cy="1516.12" r="3" fill="#5C77C4"/>
+<text x="76" y="1520.5" font-size="12.5" fill="#345963">第三期 NRG-GI006（主要終點 OS）主要完成估 2031 年 11 月。</text>
+<text x="44" y="1570.5" font-size="12.5" fill="#6B8084" font-weight="600">Zhou 2023 統合（45 篇、全部非隨機）：質子顯著減少 G2+ 放射性肺炎、心包積液、G4+ 淋巴</text>
+<text x="44" y="1588.62" font-size="12.5" fill="#6B8084" font-weight="600">球低下；統合的存活優勢全來自非隨機資料、病人經過選擇，本圖不畫。回溯資料（Lin 2017</text>
+<text x="44" y="1606.75" font-size="12.5" fill="#6B8084" font-weight="600">）：住院天數質子 9.3 對 IMRT 11.6 天；90 天死亡 0.9% 對 4.3% 未達顯著。</text>
+<text x="44" y="1646.88" font-size="12" fill="#6B8084">示意圖（非實際劑量分布），依 Zhang 2008、Lin 2020（JCO 隨機第二期）、Shiraishi 2018、</text>
+<text x="44" y="1664.88" font-size="12" fill="#6B8084">Lin 2017、Zhou 2023 與 ClinicalTrials.gov NRG-GI006 登錄重繪｜劑量學數字來自 15 人的計畫</text>
+<text x="44" y="1682.88" font-size="12" fill="#6B8084">比較，隨機試驗主要終點是毒性負擔不是存活；成人質子在台灣為自費，費用問醫務課</text>
+  </g>
+</svg>

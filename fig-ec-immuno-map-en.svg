@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1466" viewBox="0 0 1440 1466" role="img" aria-labelledby="t d">
+  <title id="t">Who has evidence for immunotherapy: a three-box map plus the Taiwan NHI box</title>
+  <desc id="d">Schematic three-box map of immunotherapy in oesophageal cancer plus a Taiwan NHI box. Box 1, residual tumour after surgery (tick): CheckMate 577 (n=794, residual disease after preoperative chemoradiotherapy and R0 resection, SCC plus adenocarcinoma), one year of postoperative nivolumab, median disease-free survival 22.4 vs 11.0 months, HR 0.69; overall survival not statistically significant (as cited); treatment-related grade 3/4 adverse events 13% vs 6%; JES CQ9 strong recommendation A. Box 2, first-line metastatic (tick; the higher the PD-L1, the larger the benefit): CheckMate 648 (all SCC, n=970), TPS 1% or more, nivolumab plus chemotherapy overall survival 15.4 vs 9.1 months, HR 0.54; all randomised 13.2 vs 10.7 months, HR 0.74; KEYNOTE-590 (SCC plus adenocarcinoma, n=749), SCC with CPS 10 or more 13.9 vs 8.8 months, HR 0.57; all patients 5-year survival 10.6% vs 3.0%; grade 3/4 treatment-related events 47%/32%/36% across the 648 arms and 72% vs 68% in 590. Box 3, immunotherapy added to definitive chemoradiotherapy (cross): KEYNOTE-975 (pembrolizumab, n=703) did not meet its EFS primary endpoint; RATIONALE-311 (tislelizumab, Chinese SCC, n=370) PFS HR 0.92, OS HR 1.10; SKYSCRAPER-07 (consolidation atezolizumab with or without tiragolumab, SCC, n=760) missed its primary endpoint with PFS HR 0.82, while the atezolizumab-alone arm had a descriptive overall survival HR 0.69; KUNLUN data expected 2027, ESCORT-CRT not read out. Taiwan NHI box (Drug Reimbursement Regulations 9.69, 2026-08-21 version): second-line nivolumab monotherapy from 1 April 2024; first-line nivolumab with fluoropyrimidine and cisplatin or oxaliplatin from 1 February 2026; both require PD-L1 TC 1% or more, ECOG 1 or less, prior approval, 12 weeks per application and at most 2 years; no clause for postoperative adjuvant use; pembrolizumab not yet reimbursed for this indication.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1466" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">IMMUNOTHERAPY — WHO HAS THE EVIDENCE</text>
+<text x="84" y="148" font-size="38" fill="#123641" font-weight="800" class="r">Who has evidence for immunotherapy: a three-box map plus the</text>
+<text x="84" y="191.7" font-size="38" fill="#123641" font-weight="800" class="r">Taiwan NHI box</text>
+<text x="84" y="237.7" font-size="21" fill="#527078">Each box has its own trials and entry conditions: residual disease after surgery, first-line metastatic (read PD-L1), and</text>
+<text x="84" y="267.7" font-size="21" fill="#527078">immunotherapy added to definitive chemoradiotherapy. Directions are written as found — negative means negative.</text>
+<text x="84" y="297.7" font-size="21" fill="#527078">The bottom box is the current NHI text (consolidated version dated 2026-08-21): two clauses only, both nivolumab, both</text>
+<text x="84" y="327.7" font-size="21" fill="#527078">requiring TC≧1%.</text>
+<g filter="url(#sh)"><rect x="84" y="371.7" width="412" height="543.72" rx="18" fill="#FFFFFF"/></g>
+<rect x="84" y="371.7" width="412" height="7" rx="3.5" fill="#00806B"/>
+<rect x="104" y="395.7" width="313.73" height="30" rx="15" fill="#00806B"/>
+<text x="260.86" y="415.92" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Box 1 | Residual tumour after surgery</text>
+<path d="M453 410.7 L461.25 418.4 L475 402.45" fill="none" stroke="#00806B" stroke-width="3.52" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="104" y="450.53" font-size="15.1" fill="#123641" font-weight="800">One year of postoperative nivolumab:</text>
+<text x="104" y="471.67" font-size="15.1" fill="#123641" font-weight="800">disease-free survival longer, overall survival</text>
+<text x="104" y="492.81" font-size="15.1" fill="#123641" font-weight="800">not statistically significant</text>
+<rect x="104" y="509.12" width="372" height="66.6" rx="8" fill="#D8EDE7"/>
+<text x="110" y="526.17" font-size="13" fill="#345963">Entry: preoperative chemoradiotherapy + R0 resection +</text>
+<text x="110" y="544.37" font-size="13" fill="#345963">residual disease on pathology (stage II–III, SCC +</text>
+<text x="110" y="562.57" font-size="13" fill="#345963">adenocarcinoma)</text>
+<rect x="104" y="587.72" width="4" height="37.1" rx="2" fill="#00806B"/>
+<text x="118" y="598.77" font-size="13" fill="#6B8084" font-weight="800">CheckMate 577 (n=794)</text>
+<text x="118" y="617.39" font-size="13.5" fill="#123641">median DFS 22.4 vs 11.0 months, HR 0.69</text>
+<rect x="104" y="636.82" width="4" height="56" rx="2" fill="#9A9282"/>
+<text x="118" y="647.87" font-size="13" fill="#6B8084" font-weight="800">Overall survival</text>
+<text x="118" y="666.5" font-size="13.5" fill="#345963">'non-significant' (as cited by a real-world study; no</text>
+<text x="118" y="685.39" font-size="13.5" fill="#345963">formal paper found)</text>
+<rect x="104" y="704.82" width="4" height="56" rx="2" fill="#9A9282"/>
+<text x="118" y="715.87" font-size="13" fill="#6B8084" font-weight="800">Cost</text>
+<text x="118" y="734.5" font-size="13.5" fill="#345963">treatment-related grade 3/4 adverse events 13% vs</text>
+<text x="118" y="753.39" font-size="13.5" fill="#345963">6%</text>
+<line x1="104" y1="770.82" x2="476" y2="770.82" stroke="#DBD3BF" stroke-width="1.5" stroke-linecap="round"/>
+<text x="104" y="789.87" font-size="13" fill="#6B8084">JES CQ9 strong recommendation (A), regardless of</text>
+<text x="104" y="808.07" font-size="13" fill="#6B8084">histology or PD-L1; benefit not established for pCR.</text>
+<g filter="url(#sh)"><rect x="514" y="371.7" width="412" height="543.72" rx="18" fill="#FFFFFF"/></g>
+<rect x="514" y="371.7" width="412" height="7" rx="3.5" fill="#5C77C4"/>
+<rect x="534" y="395.7" width="245.97" height="30" rx="15" fill="#5C77C4"/>
+<text x="656.98" y="415.92" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Box 2 | Metastatic, first line</text>
+<path d="M883 410.7 L891.25 418.4 L905 402.45" fill="none" stroke="#5C77C4" stroke-width="3.52" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="534" y="450.53" font-size="15.1" fill="#123641" font-weight="800">The higher the PD-L1, the larger the benefit;</text>
+<text x="534" y="471.67" font-size="15.1" fill="#123641" font-weight="800">low expressors gain less with wider confidence</text>
+<text x="534" y="492.81" font-size="15.1" fill="#123641" font-weight="800">intervals</text>
+<rect x="534" y="509.12" width="372" height="48.4" rx="8" fill="#E3E8F6"/>
+<text x="540" y="526.17" font-size="13" fill="#345963">Entry: incurable advanced or metastatic disease; read</text>
+<text x="540" y="544.37" font-size="13" fill="#345963">the PD-L1 report first (TPS/CPS and the assay)</text>
+<rect x="534" y="569.52" width="4" height="56" rx="2" fill="#5C77C4"/>
+<text x="548" y="580.57" font-size="13" fill="#6B8084" font-weight="800">CheckMate 648 (all SCC, n=970), TPS≥1%</text>
+<text x="548" y="599.2" font-size="13.5" fill="#123641">nivolumab + chemotherapy OS 15.4 vs 9.1 months, HR</text>
+<text x="548" y="618.1" font-size="13.5" fill="#123641">0.54</text>
+<rect x="534" y="637.52" width="4" height="37.1" rx="2" fill="#5C77C4"/>
+<text x="548" y="648.57" font-size="13" fill="#6B8084" font-weight="800">CheckMate 648, all randomised</text>
+<text x="548" y="667.2" font-size="13.5" fill="#123641">OS 13.2 vs 10.7 months, HR 0.74</text>
+<rect x="534" y="686.62" width="4" height="56" rx="2" fill="#5C77C4"/>
+<text x="548" y="697.67" font-size="13" fill="#6B8084" font-weight="800">KEYNOTE-590 (SCC + adenocarcinoma, n=749)</text>
+<text x="548" y="716.3" font-size="13.5" fill="#123641">SCC with CPS≥10: 13.9 vs 8.8 months, HR 0.57; all</text>
+<text x="548" y="735.2" font-size="13.5" fill="#123641">patients 5-year survival 10.6% vs 3.0%</text>
+<rect x="534" y="754.62" width="4" height="56" rx="2" fill="#9A9282"/>
+<text x="548" y="765.67" font-size="13" fill="#6B8084" font-weight="800">Cost</text>
+<text x="548" y="784.3" font-size="13.5" fill="#345963">grade 3/4 treatment-related events: 648 arms</text>
+<text x="548" y="803.2" font-size="13.5" fill="#345963">47%/32%/36%; 590 72% vs 68%</text>
+<line x1="534" y1="820.62" x2="906" y2="820.62" stroke="#DBD3BF" stroke-width="1.5" stroke-linecap="round"/>
+<text x="534" y="839.67" font-size="13" fill="#6B8084">ASCO 2026: immunotherapy with doublet chemotherapy</text>
+<text x="534" y="857.87" font-size="13" fill="#6B8084">for PD-L1 ≥1; higher expression, more likely to benefit.</text>
+<g filter="url(#sh)"><rect x="944" y="371.7" width="412" height="543.72" rx="18" fill="#FFFFFF"/></g>
+<rect x="944" y="371.7" width="412" height="7" rx="3.5" fill="#B04A4A"/>
+<rect x="964" y="395.7" width="262.55" height="30" rx="15" fill="#B04A4A"/>
+<text x="1095.27" y="415.92" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Box 3 | Added to definitive CRT</text>
+<line x1="1315.75" y1="402.45" x2="1332.25" y2="418.95" stroke="#B04A4A" stroke-width="3.52" stroke-linecap="round"/>
+<line x1="1332.25" y1="402.45" x2="1315.75" y2="418.95" stroke="#B04A4A" stroke-width="3.52" stroke-linecap="round"/>
+<text x="964" y="450.53" font-size="15.1" fill="#123641" font-weight="800">Three phase III trials have read out: two</text>
+<text x="964" y="471.67" font-size="15.1" fill="#123641" font-weight="800">negative, one missed its primary endpoint but</text>
+<text x="964" y="492.81" font-size="15.1" fill="#123641" font-weight="800">left a single-agent signal</text>
+<rect x="964" y="509.12" width="372" height="48.4" rx="8" fill="#F1DDDD"/>
+<text x="970" y="526.17" font-size="13" fill="#345963">Entry: locally advanced disease on definitive</text>
+<text x="970" y="544.37" font-size="13" fill="#345963">chemoradiotherapy — no standard in this box yet</text>
+<rect x="964" y="569.52" width="4" height="56" rx="2" fill="#B04A4A"/>
+<text x="978" y="580.57" font-size="13" fill="#6B8084" font-weight="800">KEYNOTE-975 (pembrolizumab, n=703)</text>
+<text x="978" y="599.2" font-size="13.5" fill="#123641">× EFS primary endpoint not met (Merck 8-K; no</text>
+<text x="978" y="618.1" font-size="13.5" fill="#123641">paper)</text>
+<rect x="964" y="637.52" width="4" height="37.1" rx="2" fill="#B04A4A"/>
+<text x="978" y="648.57" font-size="13" fill="#6B8084" font-weight="800">RATIONALE-311 (tislelizumab, Chinese SCC, n=370)</text>
+<text x="978" y="667.2" font-size="13.5" fill="#123641">× PFS HR 0.92 (0.68–1.25); OS HR 1.10</text>
+<rect x="964" y="686.62" width="4" height="74.2" rx="2" fill="#B04A4A"/>
+<text x="978" y="697.67" font-size="13" fill="#6B8084" font-weight="800">SKYSCRAPER-07 (consolidation atezolizumab ±</text>
+<text x="978" y="715.87" font-size="13" fill="#6B8084" font-weight="800">tiragolumab, SCC, n=760)</text>
+<text x="978" y="734.5" font-size="13.5" fill="#123641">× primary endpoint not met (PFS HR 0.82);</text>
+<text x="978" y="753.39" font-size="13.5" fill="#123641">atezolizumab-alone arm OS HR 0.69 (descriptive)</text>
+<rect x="964" y="772.82" width="4" height="56" rx="2" fill="#9A9282"/>
+<text x="978" y="783.87" font-size="13" fill="#6B8084" font-weight="800">KUNLUN (durvalumab) / ESCORT-CRT</text>
+<text x="978" y="802.5" font-size="13.5" fill="#345963">not read out: KUNLUN data expected 2027;</text>
+<text x="978" y="821.39" font-size="13.5" fill="#345963">ESCORT-CRT registry status unknown</text>
+<line x1="964" y1="838.82" x2="1336" y2="838.82" stroke="#DBD3BF" stroke-width="1.5" stroke-linecap="round"/>
+<text x="964" y="857.87" font-size="13" fill="#6B8084">Calling this a 'new standard' overreaches; calling it 'all</text>
+<text x="964" y="876.07" font-size="13" fill="#6B8084">negative' is not honest either — the single-agent signal</text>
+<text x="964" y="894.27" font-size="13" fill="#6B8084">sits third in the hierarchical test.</text>
+<rect x="84" y="933.42" width="1272" height="314.22" rx="18" fill="#FFFFFF" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="104" y="968.72" font-size="18" fill="#8F7418" font-weight="800">Taiwan NHI current text (Drug Reimbursement Regulations 9.69, consolidated 2026-08-21)</text>
+<rect x="104" y="987.72" width="295.63" height="21.88" rx="10.94" fill="#00806B"/>
+<text x="251.82" y="1003.16" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Second line, monotherapy | from 2024-04-01</text>
+<text x="112" y="1027.07" font-size="13.5" fill="#345963">nivolumab: unresectable advanced or recurrent oesophageal SCC that progressed after</text>
+<text x="112" y="1045.97" font-size="13.5" fill="#345963">platinum- and fluoropyrimidine-based chemotherapy.</text>
+<rect x="104" y="1063.39" width="320.29" height="21.88" rx="10.94" fill="#00806B"/>
+<text x="264.14" y="1078.83" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">First line with chemotherapy | from 2026-02-01</text>
+<text x="112" y="1102.74" font-size="13.5" fill="#345963">nivolumab with fluoropyrimidine and cisplatin or oxaliplatin, first line for adults with</text>
+<text x="112" y="1121.64" font-size="13.5" fill="#345963">advanced or metastatic oesophageal SCC not amenable to curative treatment.</text>
+<rect x="104" y="1139.07" width="130.44" height="21.88" rx="10.94" fill="#9A9282"/>
+<text x="169.22" y="1154.51" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Shared conditions</text>
+<text x="112" y="1178.42" font-size="13.5" fill="#345963">PD-L1 TC≧1% (Dako 28-8 or Ventana SP263); ECOG≦1; prior approval; 12 weeks per</text>
+<text x="112" y="1197.32" font-size="13.5" fill="#345963">application; at most 2 years from first prescription; one checkpoint inhibitor per</text>
+<text x="112" y="1216.22" font-size="13.5" fill="#345963">indication, no switching.</text>
+<rect x="730" y="987.72" width="216.34" height="21.88" rx="10.94" fill="#B04A4A"/>
+<text x="838.17" y="1003.16" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Postoperative adjuvant (box 1)</text>
+<text x="738" y="1027.07" font-size="13.5" fill="#345963">No clause — 'oesophagus' appears 8 times in section 9, none postoperative/adjuvant; ask</text>
+<text x="738" y="1045.97" font-size="13.5" fill="#345963">the pharmacy or case manager (self-pay or trial).</text>
+<rect x="730" y="1063.39" width="160.02" height="21.88" rx="10.94" fill="#B04A4A"/>
+<text x="810.01" y="1078.83" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">pembrolizumab (box 2)</text>
+<text x="738" y="1102.74" font-size="13.5" fill="#345963">Both first- and second-line columns of the biomarker table read 'not yet reimbursed for</text>
+<text x="738" y="1121.64" font-size="13.5" fill="#345963">this indication'.</text>
+<line x1="720" y1="987.72" x2="720" y2="1227.64" stroke="#DBD3BF" stroke-width="1.5" stroke-linecap="round"/>
+<text x="84" y="1273.64" font-size="14" fill="#6B8084" font-weight="600">Four Chinese first-line SCC trials (camrelizumab, toripalimab, sintilimab, tislelizumab) all showed longer survival, but their availability and reimbursement in Taiwan were not verified and</text>
+<text x="84" y="1293.94" font-size="14" fill="#6B8084" font-weight="600">are not drawn. CheckMate 577's SCC subgroup and KEYNOTE-590's SCC proportion are not in the abstracts and are not drawn.</text>
+<text x="84" y="1340.24" font-size="16" fill="#6B8084">Schematic, redrawn from Kelly 2021 (CheckMate 577), Verhoeven 2026 (OS as cited), Doki 2022 and Kato 2026 (CheckMate 648), Sun 2021 and Metges 2025</text>
+<text x="84" y="1364.24" font-size="16" fill="#6B8084">(KEYNOTE-590), Merck's 2026 Q1 8-K (KEYNOTE-975), ClinicalTrials.gov posted results for RATIONALE-311, SKYSCRAPER-07 (Ann Oncol 2026), the KUNLUN</text>
+<text x="84" y="1388.24" font-size="16" fill="#6B8084">and ESCORT-CRT registry records, the ASCO 2023/2026 guidelines, JES 2022 and section 9 of the Taiwan NHI Drug Reimbursement Regulations (2026-08-21</text>
+<text x="84" y="1412.24" font-size="16" fill="#6B8084">version) | cohorts, designs and endpoints differ — numbers in different boxes are not directly comparable</text>
+  </g>
+</svg>

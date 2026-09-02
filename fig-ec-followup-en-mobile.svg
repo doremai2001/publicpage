@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="2263" viewBox="0 0 620 2263" role="img" aria-labelledby="t d">
+  <title id="t">Planning five years of follow-up: 90% of relapses within two years, plus a throat to watch</title>
+  <desc id="d">Schematic five-year follow-up timeline for oesophageal cancer plus head and neck second primaries. Top timeline runs from diagnosis or end of treatment to year 5, with imaging fading beyond year 6. The first two years are shaded 'about 90% of relapses fall within these two years (ESMO [V, A])'; the MSKCC surgical cohort (n=1,147) recurrence rate was 27 per 100 person-years in year 1 and 4 in year 6, linked by a schematic dashed line. Four lanes: every visit (both groups) covers symptoms, nutrition and psychosocial support, ESMO 2022 [V, A], V being expert opinion; after surgery, in the MSKCC cohort half of recurrences were found by symptoms, 45% by routine CT and only 1% by surveillance endoscopy, and the authors concluded imaging beyond year 6 is probably unnecessary; after complete response to definitive chemoradiotherapy, endoscopy plus biopsies plus CT every 3 months to catch the salvage-surgery window, ESMO 2022 [IV, B], with no stated duration — drawn to year 2 with the team deciding afterwards; head and neck examination, which ESMO 2022 says oesophageal SCC patients should undergo as a qualified clinical examination, with no sourced frequency. Three boxes below: head and neck second primary in 6.7% (meta-analysis of 12 Japanese studies, n=6,483; 60.3% hypopharynx, 85.3% low stage), with two Taiwan centres (n=435) finding age under 50 the only independent factor (HR 4.13) and cumulative incidence in the under-50s of 14.3%, 22.1% and 34.2% at 3, 5 and 10 years, and in the reverse direction 21.9% of Taiwan head and neck cancer patients having a synchronous oesophageal lesion; Lugol-voiding lesions 0, 1–9 and 10 or more giving combined 2-year metachronous oesophageal plus head and neck SCC of 4.0%, 10.0% and 31.4% (Katada 2016, n=331 after ESD of early SCC), with stopping alcohol aHR 0.47 and smoking cessation not significant in that analysis; tumour markers SCC-Ag and CEA reaching only 19.6% and 20.3% specificity at 60% sensitivity, below the preset 70% (pooled JCOG0502 and 0909, n=239), while PET for recurrence has 96% sensitivity and 78% specificity and a positive needs biopsy.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="2263" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">FIVE-YEAR FOLLOW-UP — AND THE SECOND PRIMARY</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">Planning five years of follow-up:</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">90% of relapses within two years,</text>
+<text x="44" y="192" font-size="30" fill="#123641" font-weight="800" class="r">plus a throat to watch</text>
+<text x="44" y="234" font-size="14.5" fill="#527078">The guideline itself admits that, except for patients who might still be</text>
+<text x="44" y="256" font-size="14.5" fill="#527078">candidates for salvage surgery, there is no evidence that regular follow-up</text>
+<text x="44" y="278" font-size="14.5" fill="#527078">improves survival — so every slot on this figure carries its evidence grade</text>
+<text x="44" y="300" font-size="14.5" fill="#527078">and its reason.</text>
+<text x="44" y="322" font-size="14.5" fill="#527078">Follow-up looks different after surgery and after chemoradiotherapy</text>
+<text x="44" y="344" font-size="14.5" fill="#527078">alone; the second cancer often grows in the throat.</text>
+<g filter="url(#sh)"><rect x="44" y="378" width="532" height="691.6" rx="18" fill="#FFFFFF"/></g>
+<line x1="62" y1="426" x2="558" y2="426" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<line x1="62" y1="420" x2="62" y2="432" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="62" y="414" font-size="12" fill="#345963" font-weight="700" text-anchor="middle">End</text>
+<line x1="138.31" y1="420" x2="138.31" y2="432" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="138.31" y="414" font-size="12" fill="#345963" font-weight="700" text-anchor="middle">Y1</text>
+<line x1="214.62" y1="420" x2="214.62" y2="432" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="214.62" y="414" font-size="12" fill="#345963" font-weight="700" text-anchor="middle">Y2</text>
+<line x1="290.92" y1="420" x2="290.92" y2="432" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="290.92" y="414" font-size="12" fill="#345963" font-weight="700" text-anchor="middle">Y3</text>
+<line x1="367.23" y1="420" x2="367.23" y2="432" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="367.23" y="414" font-size="12" fill="#345963" font-weight="700" text-anchor="middle">Y4</text>
+<line x1="443.54" y1="420" x2="443.54" y2="432" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="443.54" y="414" font-size="12" fill="#345963" font-weight="700" text-anchor="middle">Y5</text>
+<text x="542.74" y="414" font-size="12" fill="#6B8084" font-weight="600" text-anchor="end">fades after Y6</text>
+<rect x="62" y="438" width="152.62" height="26" rx="8" fill="#F1DDDD"/>
+<text x="222.62" y="456" font-size="12" fill="#B04A4A" font-weight="800">~90% of relapses within these two years (ESMO [V, A])</text>
+<text x="62" y="486" font-size="11.5" fill="#6B8084" font-weight="600">MSKCC surgical cohort recurrence rate (per 100 person-years)</text>
+<circle cx="100.15" cy="508" r="14.45" fill="#5C77C4" opacity="0.85"/>
+<text x="100.15" y="536.45" font-size="11.5" fill="#345963" font-weight="700" text-anchor="middle">27 (year 1)</text>
+<circle cx="481.69" cy="508" r="6.4" fill="#5C77C4" opacity="0.85"/>
+<text x="481.69" y="528.4" font-size="11.5" fill="#345963" font-weight="700" text-anchor="middle">4 (year 6)</text>
+<line x1="120.15" y1="508" x2="469.69" y2="508" stroke="#5C77C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4" opacity="0.6"/>
+<text x="62" y="574" font-size="12" fill="#123641" font-weight="800">Every visit (both groups)</text>
+<rect x="62" y="590" width="381.54" height="14" rx="7" fill="#123641" opacity="0.18"/>
+<circle cx="81.08" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="100.15" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="119.23" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="138.31" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="176.46" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="214.62" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="252.77" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="290.92" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="329.08" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="367.23" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="405.38" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="443.54" cy="597" r="4" fill="#123641" opacity="0.8"/>
+<text x="62" y="634.2" font-size="12" fill="#345963">Symptoms, nutrition (weight), psychosocial support — ESMO 2022 [V, A] (V =</text>
+<text x="62" y="651" font-size="12" fill="#345963">expert opinion)</text>
+<text x="62" y="683.6" font-size="12" fill="#5C77C4" font-weight="800">After surgery</text>
+<rect x="62" y="699.6" width="381.54" height="14" rx="7" fill="#5C77C4" opacity="0.2"/>
+<rect x="443.54" y="699.6" width="106.83" height="14" rx="7" fill="#5C77C4" opacity="0.06"/>
+<text x="252.77" y="710.92" font-size="11.5" fill="#123641" font-weight="600" text-anchor="middle">Routine CT (frequency per team); endoscopy of limited value for asymptomatic local recurrence</text>
+<text x="62" y="743.8" font-size="12" fill="#345963">MSKCC surgical cohort (n=1,147): half of recurrences were found by symptoms, 45%</text>
+<text x="62" y="760.6" font-size="12" fill="#345963">by routine CT, only 1% by surveillance endoscopy; the authors concluded imaging</text>
+<text x="62" y="777.4" font-size="12" fill="#345963">beyond year 6 is probably unnecessary</text>
+<text x="62" y="810" font-size="12" fill="#00806B" font-weight="800">Complete response after definitive CRT</text>
+<rect x="74.08" y="824" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="93.15" y="824" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="112.23" y="824" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="131.31" y="824" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="150.38" y="824" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="169.46" y="824" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="188.54" y="824" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="207.62" y="824" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="222.25" y="826" width="221.29" height="14" rx="7" fill="#00806B" opacity="0.12"/>
+<text x="332.89" y="837.32" font-size="11.5" fill="#123641" font-weight="600" text-anchor="middle">Afterwards: not specified by the guideline; the team decides</text>
+<text x="62" y="870.2" font-size="12" fill="#345963">Every 3 months: endoscopy + biopsies + CT, to catch the window for salvage</text>
+<text x="62" y="887" font-size="12" fill="#345963">surgery — ESMO 2022 [IV, B] (IV = retrospective cohorts); the guideline does not</text>
+<text x="62" y="903.8" font-size="12" fill="#345963">say for how long — drawn here to year 2 because 90% of relapses occur within two</text>
+<text x="62" y="920.6" font-size="12" fill="#345963">years</text>
+<text x="62" y="953.2" font-size="12" fill="#96790F" font-weight="800">Head and neck examination (SCC)</text>
+<rect x="62" y="969.2" width="488.37" height="14" rx="7" fill="none" stroke="#96790F" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="156.34" y="966.2" width="299.68" height="20" rx="6" fill="#FFFFFF"/>
+<text x="306.18" y="980.52" font-size="11.5" fill="#96790F" font-weight="700" text-anchor="middle">Ongoing: ENT examination; no sourced frequency</text>
+<text x="62" y="1013.4" font-size="12" fill="#345963">ESMO 2022: patients with oesophageal SCC 'should undergo a qualified clinical</text>
+<text x="62" y="1030.2" font-size="12" fill="#345963">examination of the head and neck region'; no source gives a frequency, so none is</text>
+<text x="62" y="1047" font-size="12" fill="#345963">drawn</text>
+<g filter="url(#sh)"><rect x="44" y="1087.6" width="532" height="303.25" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="1105.6" width="277.55" height="21" rx="10.5" fill="#96790F"/>
+<text x="200.77" y="1120.42" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">Head and neck second primary: how common</text>
+<text x="62" y="1145.92" font-size="12" fill="#345963">6.7% of oesophageal SCC patients have a head and neck second primary</text>
+<text x="62" y="1162.96" font-size="12" fill="#345963">(meta-analysis of 12 studies, all Japanese, n=6,483); 60.3% in the hypopharynx,</text>
+<text x="62" y="1180" font-size="12" fill="#345963">85.3% low stage; 48% synchronous, 52% metachronous.</text>
+<text x="62" y="1205.04" font-size="12" fill="#123641" font-weight="700">Two Taiwan centres (n=435, after curative SCC surgery): age under 50 the only</text>
+<text x="62" y="1221.84" font-size="12" fill="#123641" font-weight="700">independent factor (HR 4.13); cumulative incidence under 50</text>
+<text x="62" y="1249.44" font-size="12" fill="#345963" font-weight="700">3 years</text>
+<rect x="123.82" y="1237.44" width="378.18" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="123.82" y="1237.44" width="135.2" height="16" rx="4" fill="#96790F" opacity="0.9"/>
+<text x="265.02" y="1249.44" font-size="12" fill="#123641" font-weight="800">14.3%</text>
+<text x="62" y="1275.44" font-size="12" fill="#345963" font-weight="700">5 years</text>
+<rect x="123.82" y="1263.44" width="378.18" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="123.82" y="1263.44" width="208.95" height="16" rx="4" fill="#96790F" opacity="0.9"/>
+<text x="338.76" y="1275.44" font-size="12" fill="#123641" font-weight="800">22.1%</text>
+<text x="62" y="1301.44" font-size="12" fill="#345963" font-weight="700">10 years</text>
+<rect x="123.82" y="1289.44" width="378.18" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="123.82" y="1289.44" width="323.35" height="16" rx="4" fill="#96790F" opacity="0.9"/>
+<text x="453.16" y="1301.44" font-size="12" fill="#123641" font-weight="800">34.2%</text>
+<text x="62" y="1332.64" font-size="12" fill="#6B8084">The other direction: 21.9% of Taiwan head and neck cancer patients had a</text>
+<text x="62" y="1349.44" font-size="12" fill="#6B8084">synchronous oesophageal lesion (n=315, prospective) — screening is covered in the</text>
+<text x="62" y="1366.24" font-size="12" fill="#6B8084">ESD article</text>
+<g filter="url(#sh)"><rect x="44" y="1404.84" width="532" height="286.44" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="1422.84" width="353.25" height="21" rx="10.5" fill="#00806B"/>
+<text x="238.62" y="1437.66" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">One mucosal field: more Lugol-voiding lesions, more risk</text>
+<text x="62" y="1463.17" font-size="12" fill="#345963">Katada 2016 (Japanese multicentre prospective, n=331 after ESD of early SCC):</text>
+<text x="62" y="1480.21" font-size="12" fill="#345963">grouped by number of Lugol-voiding lesions, metachronous oesophageal plus head and</text>
+<text x="62" y="1497.25" font-size="12" fill="#345963">neck SCC within 2 years</text>
+<text x="62" y="1522.29" font-size="12" fill="#123641" font-weight="700">Combined 2-year risk</text>
+<text x="62" y="1549.89" font-size="12" fill="#345963" font-weight="700">0 lesions</text>
+<rect x="141.22" y="1537.89" width="360.78" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="141.22" y="1537.89" width="36.08" height="16" rx="4" fill="#00806B" opacity="0.9"/>
+<text x="183.29" y="1549.89" font-size="12" fill="#123641" font-weight="800">4%</text>
+<text x="62" y="1575.89" font-size="12" fill="#345963" font-weight="700">1–9 lesions</text>
+<rect x="141.22" y="1563.89" width="360.78" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="141.22" y="1563.89" width="90.2" height="16" rx="4" fill="#00806B" opacity="0.9"/>
+<text x="237.41" y="1575.89" font-size="12" fill="#123641" font-weight="800">10%</text>
+<text x="62" y="1601.89" font-size="12" fill="#345963" font-weight="700">≥10 lesions</text>
+<rect x="141.22" y="1589.89" width="360.78" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="141.22" y="1589.89" width="283.22" height="16" rx="4" fill="#00806B" opacity="0.9"/>
+<text x="430.43" y="1601.89" font-size="12" fill="#123641" font-weight="800">31.4%</text>
+<text x="62" y="1633.09" font-size="12" fill="#6B8084">Same study: stopping alcohol halved the risk of multiple SCC (aHR 0.47, 95% CI</text>
+<text x="62" y="1649.89" font-size="12" fill="#6B8084">0.25–0.91); stopping smoking did not reach significance in that analysis — which is</text>
+<text x="62" y="1666.69" font-size="12" fill="#6B8084">not the same as useless</text>
+<g filter="url(#sh)"><rect x="44" y="1705.29" width="532" height="286.68" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="1723.29" width="291.91" height="21" rx="10.5" fill="#9A9282"/>
+<text x="207.96" y="1738.11" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">Tumour markers: for reference, not an alarm</text>
+<text x="62" y="1763.61" font-size="12" fill="#345963">Pooled JCOG0502 + JCOG0909 (n=239, intensive CT and endoscopy after definitive</text>
+<text x="62" y="1780.65" font-size="12" fill="#345963">chemoradiotherapy): at sensitivity ≥60%, the best specificity for SCC-Ag and CEA</text>
+<text x="62" y="1797.69" font-size="12" fill="#345963">was only 19.6%/20.3%, below the preset standard (sensitivity ≥60% and specificity</text>
+<text x="62" y="1814.73" font-size="12" fill="#345963">≥70%).</text>
+<text x="62" y="1839.77" font-size="12" fill="#123641" font-weight="700">Specificity at 60% sensitivity</text>
+<text x="62" y="1867.37" font-size="12" fill="#345963" font-weight="700">SCC-Ag</text>
+<rect x="173.22" y="1855.37" width="328.78" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="173.22" y="1855.37" width="80.55" height="16" rx="4" fill="#9A9282" opacity="0.9"/>
+<text x="259.77" y="1867.37" font-size="12" fill="#123641" font-weight="800">19.6%</text>
+<text x="62" y="1893.37" font-size="12" fill="#345963" font-weight="700">CEA</text>
+<rect x="173.22" y="1881.37" width="328.78" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="173.22" y="1881.37" width="83.43" height="16" rx="4" fill="#9A9282" opacity="0.9"/>
+<text x="262.65" y="1893.37" font-size="12" fill="#123641" font-weight="800">20.3%</text>
+<text x="62" y="1919.37" font-size="12" fill="#345963" font-weight="700">Preset standard</text>
+<rect x="173.22" y="1907.37" width="328.78" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="173.22" y="1907.37" width="287.68" height="16" rx="4" fill="#9A9282" opacity="0.9"/>
+<text x="466.9" y="1919.37" font-size="12" fill="#123641" font-weight="800">70%</text>
+<text x="62" y="1950.57" font-size="12" fill="#6B8084">PET for recurrence: sensitivity 96%, specificity 78% (meta-analysis of 8 studies,</text>
+<text x="62" y="1967.37" font-size="12" fill="#6B8084">n=486) — rarely misses, but a positive needs biopsy confirmation</text>
+<text x="44" y="2016.47" font-size="12.5" fill="#6B8084" font-weight="600">Most relapses occur within two years, but treatable relapses have been reported</text>
+<text x="44" y="2034.6" font-size="12.5" fill="#6B8084" font-weight="600">beyond five years; 'safe after five years' does not hold. Whether head and neck</text>
+<text x="44" y="2052.72" font-size="12.5" fill="#6B8084" font-weight="600">examination improves survival has no forward data; in the reverse direction (oral</text>
+<text x="44" y="2070.85" font-size="12.5" fill="#6B8084" font-weight="600">cancer → oesophageal screening) a Taiwan registry showed lower mortality in the</text>
+<text x="44" y="2088.97" font-size="12.5" fill="#6B8084" font-weight="600">screened group (aHR 0.80).</text>
+<text x="44" y="2129.1" font-size="12" fill="#6B8084">Schematic, redrawn from the ESMO 2022 oesophageal cancer guideline (Obermannová), Lou</text>
+<text x="44" y="2147.1" font-size="12" fill="#6B8084">2013 (MSKCC recurrence patterns), van de Ven 2019 (head and neck second-primary</text>
+<text x="44" y="2165.1" font-size="12" fill="#6B8084">meta-analysis), Tsai 2025 (two Taiwan centres), Wang 2016 (Taiwan head and neck</text>
+<text x="44" y="2183.1" font-size="12" fill="#6B8084">prospective cohort), Katada 2016, Sakanaka 2026 (JCOG0502 + 0909 tumour markers) and</text>
+<text x="44" y="2201.1" font-size="12" fill="#6B8084">a PET recurrence meta-analysis | cohorts, designs and endpoints differ — numbers are not</text>
+<text x="44" y="2219.1" font-size="12" fill="#6B8084">directly comparable; your team adjusts the interval to your risk</text>
+  </g>
+</svg>

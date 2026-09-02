@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="2541" viewBox="0 0 620 2541" role="img" aria-labelledby="t d">
+  <title id="t">化放療之後的三條路：三合一、根治性化放療加救援、主動監測</title>
+  <desc id="d">示意圖：化放療之後的三條路時間軸。第一條，三合一（CROSS，荷蘭 n=366，腺癌 75%、鱗癌 23%）：化放療 5 週（41.4 Gy 分 23 次加 carboplatin/paclitaxel 每週 5 次）→化放療結束後 6 到 8 週手術（院內死亡兩組皆 4%，R0 92% 對 69%）→病理 pCR 29%（鱗癌 49%、腺癌 23%）→中位追蹤 147 個月：10 年整體存活 38% 對單純手術 25%，HR 0.70；鱗癌次族群中位存活 81.6 對 21.1 個月（HR 0.48）；NEOCRTEC5010（鱗癌 n=451）5 年 59.9% 對 49.1%；兩個試驗都沒有不開刀那一臂。第二條，根治性化放療加救援（JCOG0909，日本 cStage II/III 鱗癌 n=94，單臂）：50.4 Gy（1.8 Gy 乘 28）加 cisplatin/5-FU→完全反應 59%→殘存或復發者救援 ESD 5%、救援手術 27%（R0 76%、G3 到 4 早期併發症 20%、1 例手術死亡）→5 年整體存活 64.5%、5 年食道保留 54.9%、3 年整體存活 74.2%。第三條，主動監測，標示「試驗中」（SANO，荷蘭 12 院，n=309 cCR，腺癌約四分之三、鱗癌約兩成，中位追蹤 38 個月）：化放療→4 到 6 週 bite-on-bite 切片→12 週 PET-CT 加切片加 EUS-FNA，cCR 37%（274/750）→監測，局部再生長 48% 轉延後手術、遠端轉移 17%→54 個月只有 25% 維持 cCR；2 年整體存活 74% 對 71% 非劣性成立（邊界 15%），中位 43 對 53 個月（HR 1.14 無統計差異），遠端轉移方向偏向手術組。下方三條警語：preSANO 一般切片漏 31%、bite-on-bite 加 FNA 仍漏 10%，鱗癌 preSINO 陰性預測值 68.7%，SANO 手術組 cCR 者 pT0 只有 35.6%；NEEDS（鱗癌，約 1,020 人）收案中、主要完成估 2026 年 12 月，ESOSTRATE 終止（188 人）；反向：Cochrane 加手術整體存活 HR 0.99、治療死亡 RR 5.11，計畫性食道切除 90 天死亡 4.5%、救援 9.5%。三條路族群不同，數字只能在各自那一列讀。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="2541" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">THREE ROADS AFTER CHEMORADIOTHERAPY</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">化放療之後的三條路：三合一、根治性</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">化放療加救援、主動監測</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">三條路各有自己的試驗、族群與追蹤年限，數字不能橫著比。第三條路目前只在試</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">驗設計裡成立。</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">院內在鱗癌化放療後仍建議開刀的理由，寫在第三條路的下方。</text>
+<g filter="url(#sh)"><rect x="44" y="272" width="532" height="583.75" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="290" width="254.2" height="30" rx="15" fill="#5C77C4"/>
+<text x="189.1" y="310.04" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">第一條｜三合一：先化放療再開刀</text>
+<text x="62" y="348.02" font-size="16.5" fill="#123641" font-weight="800">這是院內建議、也是 CROSS／NEOCRTEC5010 證明「比只開刀</text>
+<text x="62" y="370.3" font-size="16.5" fill="#123641" font-weight="800">好」的那條路</text>
+<text x="62" y="393.18" font-size="12.5" fill="#6B8084">CROSS：荷蘭，n=366，腺癌 75%／鱗癌 23%，cT1N1／T2–3N0–1；兩個試驗都沒有</text>
+<text x="62" y="411.3" font-size="12.5" fill="#6B8084">「不開刀」那一臂。</text>
+<rect x="62" y="432.8" width="496" height="55.67" rx="10" fill="#E3E8F6"/>
+<rect x="62" y="432.8" width="5" height="55.67" rx="2.5" fill="#5C77C4"/>
+<text x="78" y="455.43" font-size="12.5" fill="#123641" font-weight="800">化放療 5 週</text>
+<text x="78" y="474.3" font-size="12" fill="#345963">41.4 Gy／23 次＋carboplatin/paclitaxel 每週 ×5</text>
+<line x1="310" y1="491.48" x2="310" y2="507.48" stroke="#5C77C4" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="507.48" x2="314.08" y2="498.34" stroke="#5C77C4" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="507.48" x2="305.92" y2="498.34" stroke="#5C77C4" stroke-width="2" stroke-linecap="round"/>
+<rect x="62" y="510.48" width="496" height="55.67" rx="10" fill="#E3E8F6"/>
+<rect x="62" y="510.48" width="5" height="55.67" rx="2.5" fill="#5C77C4"/>
+<text x="78" y="533.1" font-size="12.5" fill="#123641" font-weight="800">手術</text>
+<text x="78" y="551.98" font-size="12" fill="#345963">化放療結束後 6–8 週；院內死亡兩組皆 4%；R0 92% 對 69%</text>
+<line x1="310" y1="569.15" x2="310" y2="585.15" stroke="#5C77C4" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="585.15" x2="314.08" y2="576.02" stroke="#5C77C4" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="585.15" x2="305.92" y2="576.02" stroke="#5C77C4" stroke-width="2" stroke-linecap="round"/>
+<rect x="62" y="588.15" width="496" height="55.67" rx="10" fill="#E3E8F6"/>
+<rect x="62" y="588.15" width="5" height="55.67" rx="2.5" fill="#5C77C4"/>
+<text x="78" y="610.77" font-size="12.5" fill="#123641" font-weight="800">病理報告</text>
+<text x="78" y="629.65" font-size="12" fill="#345963">pCR 29%（鱗癌 49%、腺癌 23%）；有殘存者→術後 nivolumab 那一格</text>
+<line x1="310" y1="646.82" x2="310" y2="662.82" stroke="#5C77C4" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="662.82" x2="314.08" y2="653.69" stroke="#5C77C4" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="662.82" x2="305.92" y2="653.69" stroke="#5C77C4" stroke-width="2" stroke-linecap="round"/>
+<rect x="62" y="665.82" width="496" height="55.67" rx="10" fill="#E3E8F6"/>
+<rect x="62" y="665.82" width="5" height="55.67" rx="2.5" fill="#5C77C4"/>
+<text x="78" y="688.45" font-size="12.5" fill="#123641" font-weight="800">長期追蹤</text>
+<text x="78" y="707.32" font-size="12" fill="#345963">中位追蹤 147 個月（Eyck 2021）</text>
+<rect x="62" y="737.5" width="496" height="100.25" rx="12" fill="#E3E8F6" stroke="#5C77C4" stroke-width="2"/>
+<text x="76" y="772.7" font-size="24" fill="#5C77C4" font-weight="800">10 年 OS 38%</text>
+<text x="76" y="798.12" font-size="12.5" fill="#345963">對單純手術 25%，HR 0.70；鱗癌次族群中位 OS 81.6 對 21.1 個月（HR 0.48）。</text>
+<text x="76" y="816.25" font-size="12.5" fill="#345963">NEOCRTEC5010（鱗癌 n=451）：5 年 OS 59.9% 對 49.1%。</text>
+<g filter="url(#sh)"><rect x="44" y="871.75" width="532" height="561.48" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="889.75" width="225.64" height="30" rx="15" fill="#00806B"/>
+<text x="174.82" y="909.79" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">第二條｜根治性化放療＋救援</text>
+<text x="62" y="947.77" font-size="16.5" fill="#123641" font-weight="800">不開刀不是放棄：有前瞻試驗把「救援」寫進療程</text>
+<text x="62" y="970.65" font-size="12.5" fill="#6B8084">JCOG0909：日本，cStage II/III 鱗癌，n=94，單臂確認性試驗、無對照組；ESMO</text>
+<text x="62" y="988.77" font-size="12.5" fill="#6B8084">2025：不願或不適合手術者、頸段——首選。</text>
+<rect x="62" y="1010.27" width="496" height="55.67" rx="10" fill="#D8EDE7"/>
+<rect x="62" y="1010.27" width="5" height="55.67" rx="2.5" fill="#00806B"/>
+<text x="78" y="1032.9" font-size="12.5" fill="#123641" font-weight="800">化放療 50.4 Gy</text>
+<text x="78" y="1051.78" font-size="12" fill="#345963">1.8 Gy ×28＋cisplatin/5-FU；日本自 60 Gy 改回 50.4 以減少副作用與救援手術風險</text>
+<line x1="310" y1="1068.95" x2="310" y2="1084.95" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1084.95" x2="314.08" y2="1075.82" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1084.95" x2="305.92" y2="1075.82" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<rect x="62" y="1087.95" width="496" height="55.67" rx="10" fill="#D8EDE7"/>
+<rect x="62" y="1087.95" width="5" height="55.67" rx="2.5" fill="#00806B"/>
+<text x="78" y="1110.58" font-size="12.5" fill="#123641" font-weight="800">評估反應</text>
+<text x="78" y="1129.45" font-size="12" fill="#345963">完全反應 59%；反應好者加 1–2 次化療</text>
+<line x1="310" y1="1146.62" x2="310" y2="1162.62" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1162.62" x2="314.08" y2="1153.49" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1162.62" x2="305.92" y2="1153.49" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<rect x="62" y="1165.62" width="496" height="55.67" rx="10" fill="#D8EDE7"/>
+<rect x="62" y="1165.62" width="5" height="55.67" rx="2.5" fill="#00806B"/>
+<text x="78" y="1188.25" font-size="12.5" fill="#123641" font-weight="800">殘存或復發 → 救援</text>
+<text x="78" y="1207.12" font-size="12" fill="#345963">救援 ESD 5%、救援手術 27%（R0 76%；G3–4 早期併發症 20%；1 例手術死亡）</text>
+<line x1="310" y1="1224.3" x2="310" y2="1240.3" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1240.3" x2="314.08" y2="1231.17" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1240.3" x2="305.92" y2="1231.17" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<rect x="62" y="1243.3" width="496" height="55.67" rx="10" fill="#D8EDE7"/>
+<rect x="62" y="1243.3" width="5" height="55.67" rx="2.5" fill="#00806B"/>
+<text x="78" y="1265.92" font-size="12.5" fill="#123641" font-weight="800">追蹤</text>
+<text x="78" y="1284.8" font-size="12" fill="#345963">晚期 G3 毒性 9.6%</text>
+<rect x="62" y="1314.97" width="496" height="100.25" rx="12" fill="#D8EDE7" stroke="#00806B" stroke-width="2"/>
+<text x="76" y="1350.17" font-size="24" fill="#00806B" font-weight="800">5 年 OS 64.5%</text>
+<text x="76" y="1375.6" font-size="12.5" fill="#345963">5 年食道保留率 54.9%（95% CI 44.3–64.4）；3 年 OS 74.2%。單臂，無法與第一</text>
+<text x="76" y="1393.72" font-size="12.5" fill="#345963">條路直接比。</text>
+<rect x="44" y="1449.22" width="532" height="875.35" rx="18" fill="#FFFFFF" stroke="#9A9282" stroke-width="2" stroke-dasharray="8 6"/>
+<rect x="62" y="1467.22" width="218.08" height="30" rx="15" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="171.04" y="1487.26" font-size="14" fill="#9A9282" font-weight="800" text-anchor="middle">第三條｜主動監測——試驗中</text>
+<text x="62" y="1525.25" font-size="16.5" fill="#123641" font-weight="800">SANO 讀出「兩年非劣」，但族群是荷蘭腺癌、追蹤三年多、遠端</text>
+<text x="62" y="1547.53" font-size="16.5" fill="#123641" font-weight="800">轉移方向不利、長期結果未出</text>
+<text x="62" y="1570.4" font-size="12.5" fill="#6B8084">SANO：荷蘭 12 院，階梯楔形群集隨機，n=309 位 cCR（監測 198／手術 111），腺癌約</text>
+<text x="62" y="1588.52" font-size="12.5" fill="#6B8084">四分之三、鱗癌約兩成，中位追蹤 38 個月。沒有任何指引把它列為標準選項。</text>
+<rect x="62" y="1610.02" width="496" height="55.67" rx="10" fill="#ECE8DE" stroke="#9A9282" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="62" y="1610.02" width="5" height="55.67" rx="2.5" fill="#9A9282"/>
+<text x="78" y="1632.65" font-size="12.5" fill="#123641" font-weight="800">化放療（CROSS 方案）</text>
+<text x="78" y="1651.52" font-size="12" fill="#345963">750 人接受化放療</text>
+<line x1="310" y1="1668.7" x2="310" y2="1684.7" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1684.7" x2="314.08" y2="1675.57" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1684.7" x2="305.92" y2="1675.57" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<rect x="62" y="1687.7" width="496" height="55.67" rx="10" fill="#ECE8DE" stroke="#9A9282" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="62" y="1687.7" width="5" height="55.67" rx="2.5" fill="#9A9282"/>
+<text x="78" y="1710.32" font-size="12.5" fill="#123641" font-weight="800">評估一：4–6 週</text>
+<text x="78" y="1729.2" font-size="12" fill="#345963">內視鏡 bite-on-bite 切片</text>
+<line x1="310" y1="1746.37" x2="310" y2="1762.37" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1762.37" x2="314.08" y2="1753.24" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1762.37" x2="305.92" y2="1753.24" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<rect x="62" y="1765.37" width="496" height="55.67" rx="10" fill="#ECE8DE" stroke="#9A9282" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="62" y="1765.37" width="5" height="55.67" rx="2.5" fill="#9A9282"/>
+<text x="78" y="1788" font-size="12.5" fill="#123641" font-weight="800">評估二：12 週</text>
+<text x="78" y="1806.87" font-size="12" fill="#345963">PET-CT＋切片＋EUS-FNA → cCR 37%（274/750）</text>
+<line x1="310" y1="1824.05" x2="310" y2="1840.05" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1840.05" x2="314.08" y2="1830.92" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1840.05" x2="305.92" y2="1830.92" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<rect x="62" y="1843.05" width="496" height="72.47" rx="10" fill="#ECE8DE" stroke="#9A9282" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="62" y="1843.05" width="5" height="72.47" rx="2.5" fill="#9A9282"/>
+<text x="78" y="1865.67" font-size="12.5" fill="#123641" font-weight="800">主動監測</text>
+<text x="78" y="1884.55" font-size="12" fill="#345963">6、9、12、16、20、24、30、36、48、60 個月重複評估；局部再生長 48%→延後手</text>
+<text x="78" y="1901.35" font-size="12" fill="#345963">術；遠端轉移 17%</text>
+<line x1="310" y1="1918.52" x2="310" y2="1934.52" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1934.52" x2="314.08" y2="1925.39" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="1934.52" x2="305.92" y2="1925.39" stroke="#9A9282" stroke-width="2" stroke-linecap="round"/>
+<rect x="62" y="1937.52" width="496" height="55.67" rx="10" fill="#ECE8DE" stroke="#9A9282" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="62" y="1937.52" width="5" height="55.67" rx="2.5" fill="#9A9282"/>
+<text x="78" y="1960.15" font-size="12.5" fill="#123641" font-weight="800">長期？</text>
+<text x="78" y="1979.02" font-size="12" fill="#345963">54 個月時只有 25% 維持 cCR；作者自承長期可能反映在 OS</text>
+<rect x="62" y="2009.2" width="496" height="100.25" rx="12" fill="#ECE8DE" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="76" y="2044.4" font-size="24" fill="#345963" font-weight="800">2 年 OS 74% 對 71%</text>
+<text x="76" y="2069.82" font-size="12.5" fill="#345963">非劣性成立（邊界 15%）；中位 OS 43 對 53 個月（HR 1.14，無統計差異）；遠端</text>
+<text x="76" y="2087.95" font-size="12.5" fill="#345963">轉移方向偏向手術組。6 個月時吞嚥困難等生活品質較好。</text>
+<circle cx="67" cy="2131.7" r="3.5" fill="#B04A4A"/>
+<text x="80" y="2136.07" font-size="12.5" fill="#345963">「看不到」不等於沒有：preSANO 一般切片漏掉 31% 的 TRG3–4 殘存，</text>
+<text x="80" y="2154.2" font-size="12.5" fill="#345963">bite-on-bite＋FNA 仍漏 10%；鱗癌 preSINO 陰性預測值 68.7%；SANO 手術組</text>
+<text x="80" y="2172.32" font-size="12.5" fill="#345963">被判 cCR 的 101 人開刀後 pT0 只有 36 人（35.6%，批評方引附錄）。</text>
+<circle cx="67" cy="2192.07" r="3.5" fill="#B04A4A"/>
+<text x="80" y="2196.45" font-size="12.5" fill="#345963">還在驗證：NEEDS（限鱗癌，估 1,020 人）收案中，主要完成估 2026 年 12 月；</text>
+<text x="80" y="2214.57" font-size="12.5" fill="#345963">ESOSTRATE（法國）因收案不足終止（188 人）；SANO-2 在查試驗外環境能否複</text>
+<text x="80" y="2232.7" font-size="12.5" fill="#345963">製。</text>
+<circle cx="67" cy="2252.45" r="3.5" fill="#B04A4A"/>
+<text x="80" y="2256.82" font-size="12.5" fill="#345963">反向也要記得：對化放療有反應的鱗癌，加手術不增加整體存活（Cochrane HR</text>
+<text x="80" y="2274.95" font-size="12.5" fill="#345963">0.99）但治療死亡風險 RR 5.11；計畫性食道切除 90 天死亡 4.5%（Esodata）、救</text>
+<text x="80" y="2293.07" font-size="12.5" fill="#345963">援手術 9.5%（Markar 2014）。</text>
+<text x="44" y="2349.07" font-size="12.5" fill="#6B8084" font-weight="600">三條路的族群不同：第一條 75% 腺癌、第二條全鱗癌、第三條四分之三腺癌；期別、年代、追蹤</text>
+<text x="44" y="2367.2" font-size="12.5" fill="#6B8084" font-weight="600">年限也不同——同一列的數字只能在該列裡讀。</text>
+<text x="44" y="2407.32" font-size="12" fill="#6B8084">示意圖，依 CROSS（van Hagen 2012、Shapiro 2015、Eyck 2021）、NEOCRTEC5010（Yang</text>
+<text x="44" y="2425.32" font-size="12" fill="#6B8084">2021）、JCOG0909（Takeuchi 2021；JES 2022 引最終分析）、SANO（Noordman 2018 設計、</text>
+<text x="44" y="2443.32" font-size="12" fill="#6B8084">van der Wilk 2025、Gangaram Panday 2026、Housman 2025 評論）、preSANO（Noordman</text>
+<text x="44" y="2461.32" font-size="12" fill="#6B8084">2018）、preSINO（Yang 2025）、Cochrane 2017、Esodata（Kuppusamy 2022）、Markar</text>
+<text x="44" y="2479.32" font-size="12" fill="#6B8084">2014 與 ClinicalTrials.gov NEEDS／ESOSTRATE 登錄重繪｜各試驗族群、設計與終點不同，數字</text>
+<text x="44" y="2497.32" font-size="12" fill="#6B8084">不可直接互比</text>
+  </g>
+</svg>

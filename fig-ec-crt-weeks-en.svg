@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1299" viewBox="0 0 1440 1299" role="img" aria-labelledby="t d">
+  <title id="t">Getting through five to six weeks: oesophagitis arrives on schedule, weight slips quietly</title>
+  <desc id="d">Schematic calendar and symptom curves for five to six weeks of definitive chemoradiotherapy. Left, the weekly calendar: external-beam radiotherapy shown as 1.8 Gy times 28 fractions equals 50.4 Gy, Monday to Friday, five weeks and three days (a 60 Gy course runs about six weeks); chemotherapy shown as weekly (carboplatin/paclitaxel), whereas cisplatin/5-FU runs in cycles weeks apart and the team sets the schedule; weeks 2–3 are marked as the usual onset of oesophagitis, about one week earlier with concurrent chemotherapy. Right, the curves: the oesophagitis symptom curve rises in weeks 2–3, peaks in weeks 4–6 and settles within 4 weeks after radiotherapy ends, with a dashed version one week earlier for concurrent chemotherapy; the weight curve declines slowly in the opposite direction; the shapes are extrapolated from lung-cancer radiotherapy literature (Baker and Fairchild 2016) because oesophageal trials did not report oesophagitis separately. Four boxes below: CTCAE v5.0 grade 3 oesophagitis means severely altered eating or swallowing with tube feeding, parenteral nutrition or hospitalisation, about 10–20% grade 3 in lung-cancer chemoradiotherapy (extrapolated); ARTDECO radiotherapy completion 94%, RTOG 85-01 concurrent chemoradiotherapy severe and life-threatening toxicity 44% and 20%; local control falls 2.3% per day of prolongation (oesophageal cancer, 1994 radiotherapy alone, n=88) and 1.4% per day (head and neck SCC, extrapolated), population regression slopes rather than personal risk, while a 2025 chemoradiotherapy series with a median delay of only 4 days showed no effect; radiation pneumonitis grade 2 or higher about 6.6%, mostly weeks to months after the end.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1299" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">THE 5–6 WEEK CALENDAR</text>
+<text x="84" y="148" font-size="38" fill="#123641" font-weight="800" class="r">Getting through five to six weeks: oesophagitis arrives on</text>
+<text x="84" y="191.7" font-size="38" fill="#123641" font-weight="800" class="r">schedule, weight slips quietly</text>
+<text x="84" y="237.7" font-size="21" fill="#527078">Left, the treatment calendar (50.4 Gy in 28 fractions as the example); right, schematic curves of symptoms and weight —</text>
+<text x="84" y="267.7" font-size="21" fill="#527078">oesophagitis starting in weeks 2–3 is on schedule, not a sign that something is wrong.</text>
+<text x="84" y="297.7" font-size="21" fill="#527078">The curve shape is extrapolated from the lung-cancer radiotherapy literature; oesophageal trials did not report</text>
+<text x="84" y="327.7" font-size="21" fill="#527078">oesophagitis separately.</text>
+<g filter="url(#sh)"><rect x="84" y="371.7" width="560" height="467.1" rx="18" fill="#FFFFFF"/></g>
+<text x="220.6" y="405.7" font-size="14" fill="#6B8084" font-weight="700" text-anchor="middle">Mon</text>
+<text x="309.8" y="405.7" font-size="14" fill="#6B8084" font-weight="700" text-anchor="middle">Tue</text>
+<text x="399" y="405.7" font-size="14" fill="#6B8084" font-weight="700" text-anchor="middle">Wed</text>
+<text x="488.2" y="405.7" font-size="14" fill="#6B8084" font-weight="700" text-anchor="middle">Thu</text>
+<text x="577.4" y="405.7" font-size="14" fill="#6B8084" font-weight="700" text-anchor="middle">Fri</text>
+<text x="164" y="441.74" font-size="14" fill="#345963" font-weight="700" text-anchor="end">Week 1</text>
+<rect x="178" y="419.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<circle cx="220.6" cy="436.7" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<rect x="267.2" y="419.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="356.4" y="419.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="445.6" y="419.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="534.8" y="419.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="164" y="483.74" font-size="14" fill="#345963" font-weight="700" text-anchor="end">Week 2</text>
+<rect x="178" y="461.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<circle cx="220.6" cy="478.7" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<rect x="267.2" y="461.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="356.4" y="461.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="445.6" y="461.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="534.8" y="461.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="164" y="525.74" font-size="14" fill="#345963" font-weight="700" text-anchor="end">Week 3</text>
+<rect x="178" y="503.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<circle cx="220.6" cy="520.7" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<rect x="267.2" y="503.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="356.4" y="503.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="445.6" y="503.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="534.8" y="503.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="164" y="567.74" font-size="14" fill="#345963" font-weight="700" text-anchor="end">Week 4</text>
+<rect x="178" y="545.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<circle cx="220.6" cy="562.7" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<rect x="267.2" y="545.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="356.4" y="545.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="445.6" y="545.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="534.8" y="545.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="164" y="609.74" font-size="14" fill="#345963" font-weight="700" text-anchor="end">Week 5</text>
+<rect x="178" y="587.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<circle cx="220.6" cy="604.7" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<rect x="267.2" y="587.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="356.4" y="587.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="445.6" y="587.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="534.8" y="587.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<text x="164" y="651.74" font-size="14" fill="#345963" font-weight="700" text-anchor="end">Week 6</text>
+<rect x="178" y="629.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="267.2" y="629.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="356.4" y="629.7" width="85.2" height="34" rx="7" fill="#5C77C4" opacity="0.85"/>
+<rect x="445.6" y="629.7" width="85.2" height="34" rx="7" fill="none" stroke="#DBD3BF" stroke-width="1.5"/>
+<rect x="534.8" y="629.7" width="85.2" height="34" rx="7" fill="none" stroke="#DBD3BF" stroke-width="1.5"/>
+<line x1="628" y1="463.7" x2="628" y2="535.7" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<rect x="106" y="686.7" width="14" height="14" rx="4" fill="#5C77C4" opacity="0.85"/>
+<text x="128" y="697.75" font-size="13" fill="#345963" font-weight="600">External-beam radiotherapy: 1.8 Gy ×28 = 50.4 Gy, Monday to Friday (dose</text>
+<text x="128" y="716.6" font-size="13" fill="#345963" font-weight="600">per prescription; a 60 Gy course runs about 6 weeks)</text>
+<circle cx="113" cy="739.4" r="6.5" fill="#C9A83E" stroke="#8F7418" stroke-width="1.5"/>
+<text x="128" y="743.45" font-size="13" fill="#345963" font-weight="600">Chemotherapy: weekly shown as the example (carboplatin/paclitaxel);</text>
+<text x="128" y="762.3" font-size="13" fill="#345963" font-weight="600">cisplatin/5-FU runs in cycles weeks apart — the team sets the schedule</text>
+<line x1="113" y1="778.1" x2="113" y2="792.1" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<text x="128" y="789.15" font-size="13" fill="#345963" font-weight="600">Weeks 2–3: oesophagitis usually starts here; about 1 week earlier with</text>
+<text x="128" y="808" font-size="13" fill="#345963" font-weight="600">concurrent chemotherapy</text>
+<g filter="url(#sh)"><rect x="664" y="371.7" width="692" height="467.1" rx="18" fill="#FFFFFF"/></g>
+<rect x="720" y="423.7" width="338.24" height="321.1" fill="#E3E8F6" opacity="0.7"/>
+<text x="889.12" y="413.7" font-size="13" fill="#5C77C4" font-weight="800" text-anchor="middle">Radiotherapy, 5–6 weeks</text>
+<text x="1191.12" y="413.7" font-size="13" fill="#6B8084" font-weight="700" text-anchor="middle">Settles within 4 weeks after</text>
+<line x1="720" y1="744.8" x2="1324" y2="744.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="720" y1="744.8" x2="720" y2="749.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="720" y="764.8" font-size="12.5" fill="#6B8084" text-anchor="middle">0</text>
+<line x1="780.4" y1="744.8" x2="780.4" y2="749.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="840.8" y1="744.8" x2="840.8" y2="749.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="840.8" y="764.8" font-size="12.5" fill="#6B8084" text-anchor="middle">2</text>
+<line x1="901.2" y1="744.8" x2="901.2" y2="749.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="961.6" y1="744.8" x2="961.6" y2="749.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="961.6" y="764.8" font-size="12.5" fill="#6B8084" text-anchor="middle">4</text>
+<line x1="1022" y1="744.8" x2="1022" y2="749.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="1022" y="764.8" font-size="12.5" fill="#6B8084" text-anchor="middle">5</text>
+<line x1="1082.4" y1="744.8" x2="1082.4" y2="749.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="1082.4" y="764.8" font-size="12.5" fill="#6B8084" text-anchor="middle">6</text>
+<line x1="1142.8" y1="744.8" x2="1142.8" y2="749.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="1203.2" y1="744.8" x2="1203.2" y2="749.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="1203.2" y="764.8" font-size="12.5" fill="#6B8084" text-anchor="middle">8</text>
+<line x1="1263.6" y1="744.8" x2="1263.6" y2="749.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="1324" y1="744.8" x2="1324" y2="749.8" stroke="#B9B1A0" stroke-width="1.5" stroke-linecap="round"/>
+<text x="1324" y="764.8" font-size="12.5" fill="#6B8084" text-anchor="middle">10</text>
+<text x="1324" y="780.8" font-size="12.5" fill="#6B8084" text-anchor="end">weeks</text>
+<path d="M720 735.17 Q768.32 731.96 804.56 706.27 Q852.88 584.25 913.28 487.92 Q973.68 462.23 1034.08 481.5 Q1094.48 545.72 1166.96 648.47 Q1215.28 706.27 1263.6 728.75" fill="none" stroke="#B04A4A" stroke-width="2" stroke-dasharray="6 5" opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M720 735.17 Q816.64 735.17 864.96 706.27 Q913.28 584.25 973.68 487.92 Q1034.08 462.23 1094.48 481.5 Q1154.88 545.72 1227.36 648.47 Q1275.68 706.27 1324 728.75" fill="none" stroke="#B04A4A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M720 430.12 Q810.6 433.33 901.2 455.81 Q991.8 481.5 1082.4 507.19 Q1173 526.45 1263.6 536.09 Q1293.8 537.69 1324 539.3" fill="none" stroke="#96790F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1136.76" y="468.65" font-size="13.5" fill="#B04A4A" font-weight="800" text-anchor="start">Oesophagitis symptoms (schematic)</text>
+<text x="798.52" y="664.52" font-size="12.5" fill="#B04A4A" font-weight="600" opacity="0.85">With chemotherapy: ~1 week earlier (dashed)</text>
+<text x="1324" y="567.3" font-size="13.5" fill="#96790F" font-weight="800" text-anchor="end">Weight (schematic, slow decline)</text>
+<text x="712" y="427.7" font-size="12.5" fill="#6B8084" text-anchor="end">high</text>
+<text x="712" y="744.8" font-size="12.5" fill="#6B8084" text-anchor="end">low</text>
+<text x="686" y="802.8" font-size="12.5" fill="#6B8084">Extrapolated from lung radiotherapy literature (Baker &amp; Fairchild 2016); oesophageal trials did not report</text>
+<text x="686" y="818.8" font-size="12.5" fill="#6B8084">oesophagitis separately</text>
+<g filter="url(#sh)"><rect x="84" y="856.8" width="306" height="248.05" rx="18" fill="#FFFFFF"/></g>
+<rect x="106" y="876.8" width="141.71" height="21.88" rx="10.94" fill="#B04A4A"/>
+<text x="176.86" y="892.24" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">What grade 3 means</text>
+<text x="106" y="922.15" font-size="13.5" fill="#345963">CTCAE v5.0 oesophagitis grade 3:</text>
+<text x="106" y="941.73" font-size="13.5" fill="#345963">'severely altered eating/swallowing;</text>
+<text x="106" y="961.3" font-size="13.5" fill="#345963">tube feeding, TPN or hospitalisation</text>
+<text x="106" y="980.88" font-size="13.5" fill="#345963">indicated'. Grade 2: symptomatic,</text>
+<text x="106" y="1000.45" font-size="13.5" fill="#345963">altered eating, oral supplements. About</text>
+<text x="106" y="1020.02" font-size="13.5" fill="#345963">10–20% grade 3 in lung-cancer</text>
+<text x="106" y="1039.6" font-size="13.5" fill="#345963">chemoradiotherapy (extrapolated).</text>
+<g filter="url(#sh)"><rect x="406" y="856.8" width="306" height="248.05" rx="18" fill="#FFFFFF"/></g>
+<rect x="428" y="876.8" width="131.86" height="21.88" rx="10.94" fill="#5C77C4"/>
+<text x="493.93" y="892.24" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Most people finish</text>
+<text x="428" y="922.15" font-size="13.5" fill="#345963">ARTDECO (n=260, 61% SCC):</text>
+<text x="428" y="941.73" font-size="13.5" fill="#345963">radiotherapy completion 94%. RTOG</text>
+<text x="428" y="961.3" font-size="13.5" fill="#345963">85-01 concurrent chemoradiotherapy:</text>
+<text x="428" y="980.88" font-size="13.5" fill="#345963">severe/life-threatening toxicity 44%/20% (1992</text>
+<text x="428" y="1000.45" font-size="13.5" fill="#345963">era, n=121).</text>
+<g filter="url(#sh)"><rect x="728" y="856.8" width="306" height="248.05" rx="18" fill="#FFFFFF"/></g>
+<rect x="750" y="876.8" width="194.95" height="21.88" rx="10.94" fill="#96790F"/>
+<text x="847.47" y="892.24" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Why not to stop on your own</text>
+<text x="750" y="922.15" font-size="13.5" fill="#345963">Local control vs total treatment time:</text>
+<text x="750" y="941.73" font-size="13.5" fill="#345963">−2.3%/day (oesophageal cancer, 1994</text>
+<text x="750" y="961.3" font-size="13.5" fill="#345963">radiotherapy alone, n=88); −1.4%/day</text>
+<text x="750" y="980.88" font-size="13.5" fill="#345963">(head and neck SCC, extrapolated) —</text>
+<text x="750" y="1000.45" font-size="13.5" fill="#345963">population regression slopes, not</text>
+<text x="750" y="1020.02" font-size="13.5" fill="#345963">personal risk; a 2025</text>
+<text x="750" y="1039.6" font-size="13.5" fill="#345963">chemoradiotherapy series (median</text>
+<text x="750" y="1059.17" font-size="13.5" fill="#345963">delay only 4 days) showed no effect and</text>
+<text x="750" y="1078.75" font-size="13.5" fill="#345963">is not evidence that stopping is safe.</text>
+<g filter="url(#sh)"><rect x="1050" y="856.8" width="306" height="248.05" rx="18" fill="#FFFFFF"/></g>
+<rect x="1072" y="876.8" width="169.47" height="21.88" rx="10.94" fill="#00806B"/>
+<text x="1156.73" y="892.24" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Not only the oesophagus</text>
+<text x="1072" y="922.15" font-size="13.5" fill="#345963">Radiation pneumonitis grade 2 or higher</text>
+<text x="1072" y="941.73" font-size="13.5" fill="#345963">about 6.6% (IMRT-era systematic</text>
+<text x="1072" y="961.3" font-size="13.5" fill="#345963">review), mostly weeks to months after</text>
+<text x="1072" y="980.88" font-size="13.5" fill="#345963">the end — report cough and</text>
+<text x="1072" y="1000.45" font-size="13.5" fill="#345963">breathlessness.</text>
+<text x="84" y="1130.85" font-size="14" fill="#6B8084" font-weight="600">Weeks four and five hurt most and are when 'a few days off' is most tempting — report it and let the team handle symptoms and nutrition; whether to pause, and how to compensate, is the</text>
+<text x="84" y="1151.15" font-size="14" fill="#6B8084" font-weight="600">team's call.</text>
+<text x="84" y="1197.45" font-size="16" fill="#6B8084">Schematic, redrawn from Baker &amp; Fairchild 2016 (lung-cancer radiation oesophagitis review, extrapolated), CTCAE v5.0, Hulshof 2021 (ARTDECO), Herskovic 1992</text>
+<text x="84" y="1221.45" font-size="16" fill="#6B8084">(RTOG 85-01), Nishimura 1994, Bese 2007, Xiang 2025 and Tonison 2019 (IMRT-era pneumonitis review) | curves are schematic, not an individual course; your team</text>
+<text x="84" y="1245.45" font-size="16" fill="#6B8084">sets the actual schedule</text>
+  </g>
+</svg>

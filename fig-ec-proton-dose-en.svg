@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1350" viewBox="0 0 1440 1350" role="img" aria-labelledby="t d">
+  <title id="t">Photon IMRT versus protons: the low dose the heart and lungs receive</title>
+  <desc id="d">Schematic (not an actual dose distribution): two axial thoracic cross-sections. Left, photon IMRT: several crossing beams concentrate the high dose on the oesophageal tumour, but each beam continues after the tumour, leaving a low-dose bath across both lungs and the heart; IMRT is the routine, NHI-covered baseline and already very good. Right, protons: two posterior-oblique beams deposit their dose at the Bragg peak and stop, with almost no exit dose. Three cards below. Dosimetry (Zhang 2008, a 15-patient planning comparison of distal oesophageal cancer at MD Anderson): lung V5 35.6% lower with two-beam protons than IMRT and 17.4% lower with three beams; mean lung dose 5.1 Gy and 2.9 Gy lower; heart V40 35.7% with IMRT, 41.8% with two-beam protons (higher) and 27.7% with three beams — sparing lung and sparing heart trade off. The only completed randomised comparison (Lin 2020, randomised phase IIB, n=145, 50.4 Gy, SCC plus adenocarcinoma): the primary endpoint total toxicity burden is a composite score, IMRT 39.9 vs protons 17.4, postoperative complication score 19.1 vs 2.5; 3-year PFS 50.8% vs 51.2% and 3-year overall survival 44.5% vs 44.5%, identical; 80% of protons were passive scattering. Lymphocytes (Shiraishi 2018, propensity-matched 136 vs 136, retrospective): grade 4 lymphopenia 40.4% with IMRT vs 17.6% with protons; the link to survival is not drawn. Phase III NRG-GI006 has overall survival as its primary endpoint, with primary completion estimated November 2031. There is no survival-advantage arrow on the figure.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><clipPath id="clip_imrt"><ellipse cx="397" cy="583.62" rx="216.25" ry="151.38"/></clipPath><clipPath id="clip_proton"><ellipse cx="1043" cy="583.62" rx="216.25" ry="151.38"/></clipPath><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1350" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">PHOTON IMRT vs PROTON — WHERE THE LOW DOSE GOES</text>
+<text x="84" y="148" font-size="38" fill="#123641" font-weight="800" class="r">Photon IMRT versus protons: the low dose the heart and lungs</text>
+<text x="84" y="191.7" font-size="38" fill="#123641" font-weight="800" class="r">receive</text>
+<text x="84" y="237.7" font-size="21" fill="#527078">Same oesophageal tumour, same prescribed dose: the difference is outside the tumour. Left is today's baseline — already</text>
+<text x="84" y="267.7" font-size="21" fill="#527078">very good; right is the same treatment, engineered further.</text>
+<text x="84" y="297.7" font-size="21" fill="#527078">There is no survival arrow on this figure: in the only completed randomised comparison, survival was identical.</text>
+<g filter="url(#sh)"><rect x="84" y="341.7" width="626" height="420" rx="18" fill="#FFFFFF"/></g>
+<rect x="106" y="363.7" width="378.1" height="30" rx="15" fill="#96790F"/>
+<text x="295.05" y="383.92" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Photon IMRT (routine, NHI-covered baseline)</text>
+<path d="M180.75 583.62 a216.25 151.38 0 1 0 432.5 0 a216.25 151.38 0 1 0 -432.5 0" fill="#F7F3EA" stroke="#C9C0AC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M320.88 479.82 c -95.15 -8.65 -112.45 129.75 -51.9 198.95 c 51.9 25.95 129.75 -77.85 51.9 -198.95 z" fill="#E9EEF3" stroke="#B7C3CC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M473.12 479.82 c 95.15 -8.65 112.45 129.75 51.9 198.95 c -51.9 25.95 -129.75 -77.85 -51.9 -198.95 z" fill="#E9EEF3" stroke="#B7C3CC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="397" cy="694.34" r="22.49" fill="#D9D2C2" stroke="#B9AF98" stroke-width="1.5"/>
+<circle cx="436.79" cy="666.66" r="14.71" fill="#E8C9C9" stroke="#B98686" stroke-width="1.5"/>
+<path d="M414.3 531.72 c 77.85 -8.65 95.15 77.85 34.6 108.12 c -43.25 21.62 -103.8 -25.95 -34.6 -108.12 z" fill="#F0D5D5" stroke="#B98686" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip_imrt)">
+<path d="M379.7 905.4 L428.14 905.4 L428.14 386.4 L379.7 386.4 z" fill="#96790F" opacity="0.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M189.56 794.15 L220.7 831.26 L618.28 497.65 L587.14 460.54 z" fill="#96790F" opacity="0.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M587.14 831.26 L618.28 794.15 L220.7 460.54 L189.56 497.65 z" fill="#96790F" opacity="0.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.35 534.39 L151.79 579.91 L639.49 757.41 L656.05 711.89 z" fill="#96790F" opacity="0.13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M656.05 579.91 L639.49 534.39 L151.79 711.89 L168.35 757.41 z" fill="#96790F" opacity="0.13" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="108" y="737.7" font-size="13" fill="#345963">Each beam keeps going after the tumour: a low-dose bath over both lungs and the heart</text>
+<circle cx="403.92" cy="645.9" r="20.76" fill="#F1DDDD" stroke="#B04A4A" stroke-width="2"/>
+<circle cx="403.92" cy="645.9" r="9.52" fill="#B04A4A"/>
+<text x="526.75" y="471.17" font-size="13" fill="#6B8084" font-weight="700" text-anchor="middle">Lung</text>
+<text x="267.25" y="471.17" font-size="13" fill="#6B8084" font-weight="700" text-anchor="middle">Lung</text>
+<text x="461.88" y="579.29" font-size="13" fill="#8E5A5A" font-weight="700" text-anchor="middle">Heart</text>
+<text x="397" y="698.66" font-size="12" fill="#7A6E58" font-weight="700" text-anchor="middle">Spine</text>
+<text x="433.33" y="649.9" font-size="13" fill="#B04A4A" font-weight="800">Tumour</text>
+<text x="397" y="445.22" font-size="12" fill="#6B8084" text-anchor="middle">Anterior (sternum)</text>
+<text x="173.83" y="587.62" font-size="13" fill="#6B8084" font-weight="700" text-anchor="end">R</text>
+<text x="620.17" y="587.62" font-size="13" fill="#6B8084" font-weight="700" text-anchor="start">L</text>
+<g filter="url(#sh)"><rect x="730" y="341.7" width="626" height="420" rx="18" fill="#FFFFFF"/></g>
+<rect x="752" y="363.7" width="489.44" height="30" rx="15" fill="#00806B"/>
+<text x="996.72" y="383.92" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Protons (self-pay for adults; the same treatment, upgraded)</text>
+<path d="M826.75 583.62 a216.25 151.38 0 1 0 432.5 0 a216.25 151.38 0 1 0 -432.5 0" fill="#F7F3EA" stroke="#C9C0AC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M966.88 479.82 c -95.15 -8.65 -112.45 129.75 -51.9 198.95 c 51.9 25.95 129.75 -77.85 51.9 -198.95 z" fill="#E9EEF3" stroke="#B7C3CC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1119.12 479.82 c 95.15 -8.65 112.45 129.75 51.9 198.95 c -51.9 25.95 -129.75 -77.85 -51.9 -198.95 z" fill="#E9EEF3" stroke="#B7C3CC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1043" cy="694.34" r="22.49" fill="#D9D2C2" stroke="#B9AF98" stroke-width="1.5"/>
+<circle cx="1082.79" cy="666.66" r="14.71" fill="#E8C9C9" stroke="#B98686" stroke-width="1.5"/>
+<path d="M1060.3 531.72 c 77.85 -8.65 95.15 77.85 34.6 108.12 c -43.25 21.62 -103.8 -25.95 -34.6 -108.12 z" fill="#F0D5D5" stroke="#B98686" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip_proton)">
+<path d="M879.82 843.59 L922.33 873.35 L1066.93 657.81 L1032.91 633.99 z" fill="#00806B" opacity="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1068.63 659 L1031.21 632.8" fill="none" stroke="#00806B" stroke-width="4.33" opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1177.51 873.35 L1220.02 843.59 L1066.93 633.99 L1032.91 657.81 z" fill="#00806B" opacity="0.16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1068.63 632.8 L1031.21 659" fill="none" stroke="#00806B" stroke-width="4.33" opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="754" y="737.7" font-size="13" fill="#345963">The beam stops at the Bragg peak: almost no exit dose (schematic, not a real dose distribution)</text>
+<circle cx="1049.92" cy="645.9" r="20.76" fill="#F1DDDD" stroke="#B04A4A" stroke-width="2"/>
+<circle cx="1049.92" cy="645.9" r="9.52" fill="#B04A4A"/>
+<text x="1172.75" y="471.17" font-size="13" fill="#6B8084" font-weight="700" text-anchor="middle">Lung</text>
+<text x="913.25" y="471.17" font-size="13" fill="#6B8084" font-weight="700" text-anchor="middle">Lung</text>
+<text x="1107.88" y="579.29" font-size="13" fill="#8E5A5A" font-weight="700" text-anchor="middle">Heart</text>
+<text x="1043" y="698.66" font-size="12" fill="#7A6E58" font-weight="700" text-anchor="middle">Spine</text>
+<text x="1079.33" y="649.9" font-size="13" fill="#B04A4A" font-weight="800">Tumour</text>
+<text x="1043" y="445.22" font-size="12" fill="#6B8084" text-anchor="middle">Anterior (sternum)</text>
+<text x="819.83" y="587.62" font-size="13" fill="#6B8084" font-weight="700" text-anchor="end">R</text>
+<text x="1266.17" y="587.62" font-size="13" fill="#6B8084" font-weight="700" text-anchor="start">L</text>
+<g filter="url(#sh)"><rect x="84" y="779.7" width="412" height="355.3" rx="18" fill="#FFFFFF"/></g>
+<rect x="94" y="793.7" width="5" height="327.3" rx="2.5" fill="#96790F"/>
+<text x="106" y="813.6" font-size="14" fill="#123641" font-weight="800">Dosimetry: Zhang 2008 (MD Anderson, 15 distal</text>
+<text x="106" y="833.2" font-size="14" fill="#123641" font-weight="800">oesophageal cancers, 4D-CT planning comparison)</text>
+<circle cx="110" cy="857.9" r="3" fill="#96790F"/>
+<text x="120" y="862.8" font-size="14" fill="#345963">Lung V5: two-beam protons 35.6% lower than</text>
+<text x="120" y="883.1" font-size="14" fill="#345963">IMRT, three-beam 17.4% lower</text>
+<circle cx="110" cy="904.5" r="3" fill="#96790F"/>
+<text x="120" y="909.4" font-size="14" fill="#345963">Mean lung dose: 5.1 Gy (two-beam) / 2.9 Gy</text>
+<text x="120" y="929.7" font-size="14" fill="#345963">(three-beam) lower</text>
+<circle cx="110" cy="951.1" r="3" fill="#96790F"/>
+<text x="120" y="956" font-size="14" fill="#345963">Heart V40: IMRT 35.7%, two-beam protons 41.8%</text>
+<text x="120" y="976.3" font-size="14" fill="#345963">(higher), three-beam 27.7% — sparing lung and</text>
+<text x="120" y="996.6" font-size="14" fill="#345963">sparing heart trade off</text>
+<text x="106" y="1031.5" font-size="12.5" fill="#6B8084" font-weight="700">Heart V40 (%, Zhang 2008)</text>
+<text x="106" y="1053.5" font-size="12.5" fill="#345963" font-weight="600">IMRT</text>
+<rect x="210.65" y="1042.5" width="135.35" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="210.65" y="1042.5" width="96.64" height="16" rx="4" fill="#96790F" opacity="0.9"/>
+<text x="313.29" y="1054.5" font-size="12.5" fill="#123641" font-weight="800">35.7</text>
+<text x="106" y="1079.5" font-size="12.5" fill="#345963" font-weight="600">2-beam proton</text>
+<rect x="210.65" y="1068.5" width="135.35" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="210.65" y="1068.5" width="113.15" height="16" rx="4" fill="#00806B" opacity="0.9"/>
+<text x="329.8" y="1080.5" font-size="12.5" fill="#123641" font-weight="800">41.8</text>
+<text x="106" y="1105.5" font-size="12.5" fill="#345963" font-weight="600">3-beam proton</text>
+<rect x="210.65" y="1094.5" width="135.35" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="210.65" y="1094.5" width="74.98" height="16" rx="4" fill="#00806B" opacity="0.9"/>
+<text x="291.63" y="1106.5" font-size="12.5" fill="#123641" font-weight="800">27.7</text>
+<g filter="url(#sh)"><rect x="514" y="779.7" width="412" height="355.3" rx="18" fill="#FFFFFF"/></g>
+<rect x="524" y="793.7" width="5" height="327.3" rx="2.5" fill="#00806B"/>
+<text x="536" y="813.6" font-size="14" fill="#123641" font-weight="800">The only completed randomised comparison: Lin</text>
+<text x="536" y="833.2" font-size="14" fill="#123641" font-weight="800">2020 (randomised phase IIB, n=145, 50.4 Gy, SCC +</text>
+<text x="536" y="852.8" font-size="14" fill="#123641" font-weight="800">adenocarcinoma)</text>
+<circle cx="540" cy="877.5" r="3" fill="#00806B"/>
+<text x="550" y="882.4" font-size="14" fill="#345963">Primary endpoint was 'total toxicity burden' (a</text>
+<text x="550" y="902.7" font-size="14" fill="#345963">composite of 11 adverse events and postoperative</text>
+<text x="550" y="923" font-size="14" fill="#345963">complications): IMRT 39.9 vs protons 17.4</text>
+<text x="550" y="943.3" font-size="14" fill="#345963">(2.3-fold)</text>
+<circle cx="540" cy="964.7" r="3" fill="#00806B"/>
+<text x="550" y="969.6" font-size="14" fill="#345963">Postoperative complication score 19.1 vs 2.5</text>
+<circle cx="540" cy="991" r="3" fill="#00806B"/>
+<text x="550" y="995.9" font-size="14" fill="#345963">3-year PFS 50.8% vs 51.2%; 3-year OS 44.5% vs</text>
+<text x="550" y="1016.2" font-size="14" fill="#345963">44.5% — identical. 80% of the protons were passive</text>
+<text x="550" y="1036.5" font-size="14" fill="#345963">scattering.</text>
+<g filter="url(#sh)"><rect x="944" y="779.7" width="412" height="355.3" rx="18" fill="#FFFFFF"/></g>
+<rect x="954" y="793.7" width="5" height="327.3" rx="2.5" fill="#5C77C4"/>
+<text x="966" y="813.6" font-size="14" fill="#123641" font-weight="800">Lymphocytes: Shiraishi 2018 (propensity-matched</text>
+<text x="966" y="833.2" font-size="14" fill="#123641" font-weight="800">136 vs 136, preoperative chemoradiotherapy,</text>
+<text x="966" y="852.8" font-size="14" fill="#123641" font-weight="800">retrospective)</text>
+<circle cx="970" cy="877.5" r="3" fill="#5C77C4"/>
+<text x="980" y="882.4" font-size="14" fill="#345963">Grade 4 lymphopenia: IMRT 40.4% vs protons 17.6%</text>
+<circle cx="970" cy="903.8" r="3" fill="#5C77C4"/>
+<text x="980" y="908.7" font-size="14" fill="#345963">The low-dose bath hitting circulating lymphocytes</text>
+<text x="980" y="929" font-size="14" fill="#345963">is the mechanistic hypothesis; its link to survival is</text>
+<text x="980" y="949.3" font-size="14" fill="#345963">not drawn here.</text>
+<circle cx="970" cy="970.7" r="3" fill="#5C77C4"/>
+<text x="980" y="975.6" font-size="14" fill="#345963">Phase III NRG-GI006 (primary endpoint OS) —</text>
+<text x="980" y="995.9" font-size="14" fill="#345963">primary completion estimated November 2031.</text>
+<text x="84" y="1161" font-size="14" fill="#6B8084" font-weight="600">Zhou 2023 meta-analysis (45 studies, all non-randomised): protons significantly reduced grade 2+ pneumonitis, pericardial effusion and grade 4+ lymphopenia; its pooled survival advantage</text>
+<text x="84" y="1181.3" font-size="14" fill="#6B8084" font-weight="600">comes entirely from non-randomised, selected patients and is not drawn. Retrospective data (Lin 2017): hospital stay 9.3 days with protons vs 11.6 with IMRT; 90-day mortality 0.9% vs</text>
+<text x="84" y="1201.6" font-size="14" fill="#6B8084" font-weight="600">4.3%, not significant.</text>
+<text x="84" y="1247.9" font-size="16" fill="#6B8084">Schematic (not an actual dose distribution), redrawn from Zhang 2008, Lin 2020 (JCO randomised phase IIB), Shiraishi 2018, Lin 2017, Zhou 2023 and the</text>
+<text x="84" y="1271.9" font-size="16" fill="#6B8084">ClinicalTrials.gov NRG-GI006 record | dosimetric numbers come from a 15-patient planning comparison; the randomised trial's primary endpoint was toxicity</text>
+<text x="84" y="1295.9" font-size="16" fill="#6B8084">burden, not survival; adult proton therapy in Taiwan is self-pay — ask the hospital's billing office</text>
+  </g>
+</svg>

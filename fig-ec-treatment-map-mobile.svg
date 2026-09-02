@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="2365" viewBox="0 0 620 2365" role="img" aria-labelledby="t d">
+  <title id="t">食道癌的治療地圖：期別 × 組織型態 → 路</title>
+  <desc id="d">示意圖：食道癌治療地圖，期別乘組織型態指向治療路徑。台灣鱗癌確診時第三加第四期合計 77.3%（癌登加健保資料庫 2008 到 2014 年、40 到 79 歲、n=7,763；鱗癌 96.6%、腺癌 3.4%）。鱗癌五格：第一格 cT1a 黏膜層，內視鏡切除；JES CQ6 若 pT1a-MM 有脈管侵犯或 pT1b，追加手術或化放療皆可、無法擇一。第二格 cStage I，食道切除或根治性化放療加密切追蹤與救援，JES CQ5 皆弱建議；台灣配對回溯臨床第一期兩組無差異。第三格 cStage II 到 III 可切除，三條路：術前化放療加手術（CROSS 10 年整體存活 38% 對 25%；NEOCRTEC5010 鱗癌 5 年 59.9% 對 49.1%）、術前化療加手術（日本 DCF，JES 強建議 A；JCOG1109 3 年 72.1% 對 62.6%）、根治性化放療加減救援手術（JCOG0909 單臂 5 年整體存活 64.5%、食道保留 54.9%；ESMO 註腳：不願或不適合手術者與頸段腫瘤首選）；ASCO 2020 寫 or、ESMO 2025 寫 equally effective；台灣鱗癌實際分布根治性化放療 54%、術前化放療加手術 26%、單純手術 20%。第四格 cT4b，根治性化放療（JES CQ12 弱建議、共識 100%），轉為可切除者手術弱證據。第五格轉移：全身治療、吞嚥緩和、臨床試驗與安寧並行；術後 nivolumab 只限切除標本仍有殘存腫瘤者。腺癌欄：周術期 FLOT 加手術 ESMO [I, A]；ESOPEC 3 年整體存活 57.4% 對 CROSS 50.7%，HR 0.70；不適合 FLOT 才考慮術前化放療 [I, C]。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="2365" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">STAGE × HISTOLOGY → ROAD</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">食道癌的治療地圖：期別 × 組織型態</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">→ 路</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">鱗癌走上面五格；腺癌在局部晚期那一格走的是另一條路（FLOT）。每格標出指</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">引的建議強度，數字帶試驗名。</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">你的落點由影像、切片與多專科會議決定——這張圖是拿去門診問「我在哪一格」用</text>
+<text x="44" y="260" font-size="14.5" fill="#527078">的。</text>
+<rect x="44" y="294" width="532" height="86.45" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="318.25" font-size="13" fill="#8F7418" font-weight="800">台灣鱗癌確診時的期別：第 III＋IV 期合計 77.3%（癌登＋健保資料庫</text>
+<text x="66" y="337.75" font-size="13" fill="#8F7418" font-weight="800">2008–2014、40–79 歲、n=7,763；鱗癌佔 96.6%、腺癌 3.4%，分母只含這兩</text>
+<text x="66" y="357.25" font-size="13" fill="#8F7418" font-weight="800">型）</text>
+<text x="44" y="414.95" font-size="16.5" fill="#123641" font-weight="800">鱗癌（台灣九成以上）</text>
+<g filter="url(#sh)"><rect x="44" y="430.95" width="532" height="167.18" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="448.95" width="300" height="30" rx="15" fill="#5C77C4"/>
+<text x="216" y="468.99" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">第一格｜cT1a 黏膜層</text>
+<text x="66" y="504.15" font-size="16.5" fill="#123641" font-weight="800">內視鏡切除（ESD／EMR）就能處理</text>
+<text x="66" y="532.42" font-size="13.8" fill="#345963">JES 2022 CQ6：切下來若是 pT1a-MM 有脈管侵犯、或已到 pT1b，追加食道</text>
+<text x="66" y="553.81" font-size="13.8" fill="#345963">切除或化放療皆有證據、無法擇一（共識 89.3%、證據 C）。</text>
+<text x="66" y="579.2" font-size="12.5" fill="#6B8084">→〈早期病灶內視鏡就能解決嗎〉</text>
+<g filter="url(#sh)"><rect x="44" y="612.13" width="532" height="167.18" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="630.13" width="300" height="30" rx="15" fill="#5C77C4"/>
+<text x="216" y="650.17" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">第二格｜cStage I（T1bN0）</text>
+<text x="66" y="685.33" font-size="16.5" fill="#123641" font-weight="800">食道切除，或保留食道的根治性化放療＋密切追蹤與救援</text>
+<text x="66" y="713.61" font-size="13.8" fill="#345963">JES CQ5：兩條都只有弱建議（共識 92.3%、C）。台灣癌登配對回溯（</text>
+<text x="66" y="735" font-size="13.8" fill="#345963">cT1–3 鱗癌 n=4,931）：臨床第 I 期兩組存活無差異。</text>
+<text x="66" y="760.38" font-size="12.5" fill="#6B8084">→〈開刀會拿掉什麼〉〈放療劑量，為什麼不是越高越好〉</text>
+<g filter="url(#sh)"><rect x="44" y="793.31" width="532" height="735.79" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="811.31" width="300" height="30" rx="15" fill="#96790F"/>
+<text x="216" y="831.35" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">第三格｜cStage II–III 可切除</text>
+<text x="68" y="867.33" font-size="16.5" fill="#123641" font-weight="800">三條被指引承認的路——ASCO 2020 寫「or」，ESMO 2025 寫</text>
+<text x="68" y="889.61" font-size="16.5" fill="#123641" font-weight="800">「equally effective with regard to OS」</text>
+<rect x="66" y="915.86" width="488" height="163.5" rx="14" fill="#E3E8F6"/>
+<rect x="66" y="915.86" width="6" height="163.5" rx="3" fill="#5C77C4"/>
+<text x="84" y="943.18" font-size="14.8" fill="#123641" font-weight="800">術前化放療 ＋ 手術</text>
+<text x="84" y="967.16" font-size="13.2" fill="#345963">CROSS（n=366、腺癌 75%）：10 年 OS 38% 對單純手術 25%；鱗癌次族群</text>
+<text x="84" y="986.96" font-size="13.2" fill="#345963">HR 0.48。</text>
+<text x="84" y="1006.76" font-size="13.2" fill="#345963">NEOCRTEC5010（鱗癌 n=451）：5 年 OS 59.9% 對 49.1%。</text>
+<rect x="84" y="1028.56" width="202.02" height="20.12" rx="10.06" fill="#5C77C4"/>
+<text x="185.01" y="1042.76" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">ESMO 2025 [I, A]（多模式治療）</text>
+<rect x="66" y="1093.36" width="488" height="143.7" rx="14" fill="#EFE7CC"/>
+<rect x="66" y="1093.36" width="6" height="143.7" rx="3" fill="#96790F"/>
+<text x="84" y="1120.68" font-size="14.8" fill="#123641" font-weight="800">術前化療 ＋ 手術（日本主流）</text>
+<text x="84" y="1144.66" font-size="13.2" fill="#345963">JES CQ8 強建議 A：術前 DCF 三藥化療。</text>
+<text x="84" y="1164.46" font-size="13.2" fill="#345963">JCOG1109：3 年 OS DCF 72.1% 對 CF 62.6%（HR 0.68）。</text>
+<rect x="84" y="1186.26" width="156.86" height="20.12" rx="10.06" fill="#96790F"/>
+<text x="162.43" y="1200.47" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">同一格、不同國家不同主流</text>
+<rect x="66" y="1251.07" width="488" height="163.5" rx="14" fill="#D8EDE7"/>
+<rect x="66" y="1251.07" width="6" height="163.5" rx="3" fill="#00806B"/>
+<text x="84" y="1278.39" font-size="14.8" fill="#123641" font-weight="800">根治性化放療（± 救援手術）</text>
+<text x="84" y="1302.37" font-size="13.2" fill="#345963">JCOG0909（cStage II/III 鱗癌 n=94、單臂）：5 年 OS 64.5%、食道保留</text>
+<text x="84" y="1322.17" font-size="13.2" fill="#345963">54.9%。</text>
+<text x="84" y="1341.97" font-size="13.2" fill="#345963">ESMO 2025 註腳：不願或不適合手術者、頸段腫瘤——首選。</text>
+<rect x="84" y="1363.77" width="216.11" height="20.12" rx="10.06" fill="#00806B"/>
+<text x="192.05" y="1377.97" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">JES CQ7：以手術為主是弱建議（C）</text>
+<text x="68" y="1443.82" font-size="12.5" fill="#345963">台灣鱗癌病人實際站的格（癌登 2008–2016，cT1b–4 N0/+ M0，n=7,637）</text>
+<rect x="69" y="1458.7" width="259.36" height="30" rx="6" fill="#00806B" opacity="0.9"/>
+<text x="198.68" y="1478.7" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">根治性化放療 54%</text>
+<rect x="330.36" y="1458.7" width="123.84" height="30" rx="6" fill="#5C77C4" opacity="0.9"/>
+<rect x="456.2" y="1458.7" width="94.8" height="30" rx="6" fill="#9A9282" opacity="0.9"/>
+<text x="503.6" y="1478.7" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">單純手術 20%</text>
+<text x="68" y="1510.2" font-size="11.5" fill="#6B8084">根治性化放療 54%  術前化放療＋手術 26%  單純手術 20%</text>
+<g filter="url(#sh)"><rect x="44" y="1543.1" width="532" height="167.18" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="1561.1" width="300" height="30" rx="15" fill="#00806B"/>
+<text x="216" y="1581.14" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">第四格｜cT4b 侵犯氣管／大血管</text>
+<text x="66" y="1616.3" font-size="16.5" fill="#123641" font-weight="800">先不切：根治性化放療</text>
+<text x="66" y="1644.58" font-size="13.8" fill="#345963">JES CQ12：弱建議根治性化放療（共識 100%、C）；CQ14：化放療後若轉為</text>
+<text x="66" y="1665.97" font-size="13.8" fill="#345963">可切除，手術只有弱證據（共識 89.3%、C）。</text>
+<text x="66" y="1691.36" font-size="12.5" fill="#6B8084">→〈決定能不能開刀的，是這幾張檢查〉〈哪些狀況要當天回來〉</text>
+<g filter="url(#sh)"><rect x="44" y="1724.28" width="532" height="167.18" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="1742.28" width="300" height="30" rx="15" fill="none" stroke="#9A9282" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="216" y="1762.32" font-size="14" fill="#9A9282" font-weight="800" text-anchor="middle">第五格｜轉移</text>
+<text x="66" y="1797.48" font-size="16.5" fill="#123641" font-weight="800">全身治療、吞嚥的緩和、臨床試驗與安寧——三者並行，不分先後</text>
+<text x="66" y="1825.76" font-size="13.8" fill="#345963">免疫合併化療依 PD-L1 表現分層（見免疫那篇）。術後 nivolumab 只限「切除</text>
+<text x="66" y="1847.15" font-size="13.8" fill="#345963">標本仍有殘存腫瘤」者（ESMO 2025 註腳 g；JES CQ9 強建議 A）。</text>
+<text x="66" y="1872.54" font-size="12.5" fill="#6B8084">→〈免疫治療到底幫了誰〉〈復發與轉移之後，還有哪些路〉</text>
+<g filter="url(#sh)"><rect x="44" y="1905.46" width="532" height="256.74" rx="18" fill="#EFE7CC"/></g>
+<rect x="66" y="1923.46" width="300" height="30" rx="15" fill="#96790F"/>
+<text x="216" y="1943.5" font-size="14" fill="#FFFFFF" font-weight="800" text-anchor="middle">腺癌｜局部晚期可切除</text>
+<text x="66" y="1978.66" font-size="16.5" fill="#123641" font-weight="800">腺癌走另一條路</text>
+<text x="66" y="2006.94" font-size="13.8" fill="#345963">可切除的局部晚期腺癌：周術期 FLOT 化療＋手術 [I, A]（ESMO 2025</text>
+<text x="66" y="2028.33" font-size="13.8" fill="#345963">interim update）。</text>
+<text x="66" y="2049.72" font-size="13.8" fill="#345963">ESOPEC（德國，n=438）：3 年 OS FLOT 57.4% 對 CROSS 50.7%，HR</text>
+<text x="66" y="2071.11" font-size="13.8" fill="#345963">0.70；術後 90 天死亡 3.1% 對 5.6%。</text>
+<text x="66" y="2092.5" font-size="13.8" fill="#345963">不適合 FLOT 才考慮術前化放療 [I, C]。Neo-AEGIS（多為舊化療</text>
+<text x="66" y="2113.89" font-size="13.8" fill="#345963">ECF/EOX）打平。</text>
+<text x="66" y="2139.28" font-size="12.5" fill="#6B8084">→〈鱗癌和腺癌，其實是兩種病〉</text>
+<text x="44" y="2208.7" font-size="12.5" fill="#6B8084" font-weight="600">格子會移動：ESD 後深度超出→第二格；化放療後 PET 找到轉移→第五格；T4 縮小重新評估→</text>
+<text x="44" y="2226.82" font-size="12.5" fill="#6B8084" font-weight="600">第三格。地圖只畫一次，其他篇不重畫。</text>
+<text x="44" y="2266.95" font-size="12" fill="#6B8084">示意圖，依 JES 2022 指引、ESMO 2025 interim update、ASCO 2020 指引、CROSS（Eyck</text>
+<text x="44" y="2284.95" font-size="12" fill="#6B8084">2021）、NEOCRTEC5010（Yang 2021）、JCOG0909、ESOPEC（Hoeppner 2025）與台灣癌登</text>
+<text x="44" y="2302.95" font-size="12" fill="#6B8084">資料庫研究（Chen HY 2022、Chen HS 2022、Chang 2022）重繪｜各試驗族群、期別與終點不同，</text>
+<text x="44" y="2320.95" font-size="12" fill="#6B8084">格與格之間的數字不可直接互比｜你的落點由多專科團隊判定</text>
+  </g>
+</svg>

@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1972" viewBox="0 0 620 1972" role="img" aria-labelledby="t d">
+  <title id="t">免疫治療誰有證據：三格地圖＋台灣健保格</title>
+  <desc id="d">示意圖：食道癌免疫治療的三格地圖加台灣健保格。格一，開完刀病理仍有殘存（打勾）：CheckMate 577（n=794，術前化放療加 R0 切除後殘存，鱗癌加腺癌）術後 nivolumab 一年，中位無病存活 22.4 對 11.0 個月，HR 0.69；整體存活未達統計顯著（轉述）；治療相關 G3/4 不良事件 13% 對 6%；JES CQ9 強建議 A。格二，已轉移第一線加免疫（打勾，PD-L1 越高獲益越大）：CheckMate 648（全鱗癌 n=970）TPS 大於等於 1% nivolumab 加化療整體存活 15.4 對 9.1 個月 HR 0.54，全族群 13.2 對 10.7 個月 HR 0.74；KEYNOTE-590（鱗癌加腺癌 n=749）鱗癌 CPS 大於等於 10 者 13.9 對 8.8 個月 HR 0.57，全族群 5 年存活 10.6% 對 3.0%；G3/4 治療相關不良事件 648 三臂 47%／32%／36%、590 72% 對 68%。格三，根治性化放療加免疫（打叉）：KEYNOTE-975（pembrolizumab n=703）未達 EFS 主要終點；RATIONALE-311（tislelizumab 中國鱗癌 n=370）PFS HR 0.92、OS HR 1.10；SKYSCRAPER-07（鞏固 atezolizumab 加減 tiragolumab，鱗癌 n=760）主要終點未達 PFS HR 0.82，atezolizumab 單藥臂整體存活 HR 0.69 為描述性；KUNLUN 資料預計 2027，ESCORT-CRT 未讀出。台灣健保格（藥品給付規定 9.69，2026-08-21 版）：第二線單用 nivolumab 自 113 年 4 月 1 日起；第一線 nivolumab 併 fluoropyrimidine 及 cisplatin 或 oxaliplatin 自 115 年 2 月 1 日起；皆需 PD-L1 TC 大於等於 1%、ECOG 小於等於 1、事前審查、每次 12 週、最多 2 年；術後輔助零條文；pembrolizumab 尚未給付於此適應症。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1972" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">IMMUNOTHERAPY — WHO HAS THE EVIDENCE</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">免疫治療誰有證據：三格地圖＋台灣健</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">保格</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">三格各自有自己的試驗與入口條件：術後殘存、轉移第一線（看 PD-L1）、根治性</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">化放療加免疫。結果方向照查到的寫，負的就是負的。</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">最下面一格是健保現行條文（2026-08-21 版合訂本）：只有兩條，都是</text>
+<text x="44" y="260" font-size="14.5" fill="#527078">nivolumab、都要 TC≧1%。</text>
+<g filter="url(#sh)"><rect x="44" y="294" width="532" height="304.42" rx="18" fill="#FFFFFF"/></g>
+<rect x="44" y="294" width="532" height="7" rx="3.5" fill="#00806B"/>
+<rect x="62" y="316" width="208.38" height="30" rx="15" fill="#00806B"/>
+<text x="166.19" y="335.68" font-size="13" fill="#FFFFFF" font-weight="800" text-anchor="middle">格一｜開完刀，病理仍有殘存</text>
+<path d="M535 331 L543.25 338.7 L557 322.75" fill="none" stroke="#00806B" stroke-width="3.52" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="62" y="370.15" font-size="14.3" fill="#123641" font-weight="800">術後 nivolumab 一年：無病存活延長，整體存活未達統計顯著</text>
+<rect x="62" y="386.02" width="496" height="28.8" rx="8" fill="#D8EDE7"/>
+<text x="68" y="402.22" font-size="12" fill="#345963">入口：術前化放療＋R0 切除＋病理仍有殘存（II–III 期，鱗癌＋腺癌）</text>
+<rect x="62" y="426.82" width="4" height="33.6" rx="2" fill="#00806B"/>
+<text x="76" y="437.02" font-size="12" fill="#6B8084" font-weight="800">CheckMate 577（n=794）</text>
+<text x="76" y="453.82" font-size="12" fill="#123641">中位 DFS 22.4 對 11.0 個月，HR 0.69</text>
+<rect x="62" y="472.42" width="4" height="33.6" rx="2" fill="#9A9282"/>
+<text x="76" y="482.62" font-size="12" fill="#6B8084" font-weight="800">整體存活</text>
+<text x="76" y="499.42" font-size="12" fill="#345963">「未達統計顯著」（真實世界研究轉述；正式論文查不到）</text>
+<rect x="62" y="518.02" width="4" height="33.6" rx="2" fill="#9A9282"/>
+<text x="76" y="528.22" font-size="12" fill="#6B8084" font-weight="800">代價</text>
+<text x="76" y="545.02" font-size="12" fill="#345963">治療相關 G3/4 不良事件 13% 對 6%</text>
+<line x1="62" y1="561.62" x2="558" y2="561.62" stroke="#DBD3BF" stroke-width="1.5" stroke-linecap="round"/>
+<text x="62" y="579.82" font-size="12" fill="#6B8084">JES CQ9 強建議（A），不分組織型態與 PD-L1；達 pCR 者療效未建立。</text>
+<g filter="url(#sh)"><rect x="44" y="612.42" width="532" height="350.02" rx="18" fill="#FFFFFF"/></g>
+<rect x="44" y="612.42" width="532" height="7" rx="3.5" fill="#5C77C4"/>
+<rect x="62" y="634.42" width="208.38" height="30" rx="15" fill="#5C77C4"/>
+<text x="166.19" y="654.1" font-size="13" fill="#FFFFFF" font-weight="800" text-anchor="middle">格二｜已轉移，第一線加免疫</text>
+<path d="M535 649.42 L543.25 657.12 L557 641.17" fill="none" stroke="#5C77C4" stroke-width="3.52" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="62" y="688.58" font-size="14.3" fill="#123641" font-weight="800">PD-L1 越高獲益越大；低表現族群獲益較小、信賴區間較寬</text>
+<rect x="62" y="704.44" width="496" height="28.8" rx="8" fill="#E3E8F6"/>
+<text x="68" y="720.64" font-size="12" fill="#345963">入口：無法治癒的晚期或轉移；先看 PD-L1 報告（TPS／CPS 與染色系統）</text>
+<rect x="62" y="745.24" width="4" height="33.6" rx="2" fill="#5C77C4"/>
+<text x="76" y="755.44" font-size="12" fill="#6B8084" font-weight="800">CheckMate 648（全鱗癌 n=970）TPS≥1%</text>
+<text x="76" y="772.24" font-size="12" fill="#123641">nivolumab＋化療 OS 15.4 對 9.1 個月，HR 0.54</text>
+<rect x="62" y="790.84" width="4" height="33.6" rx="2" fill="#5C77C4"/>
+<text x="76" y="801.04" font-size="12" fill="#6B8084" font-weight="800">CheckMate 648 全族群</text>
+<text x="76" y="817.84" font-size="12" fill="#123641">OS 13.2 對 10.7 個月，HR 0.74</text>
+<rect x="62" y="836.44" width="4" height="33.6" rx="2" fill="#5C77C4"/>
+<text x="76" y="846.64" font-size="12" fill="#6B8084" font-weight="800">KEYNOTE-590（鱗癌＋腺癌 n=749）</text>
+<text x="76" y="863.44" font-size="12" fill="#123641">鱗癌 CPS≥10：13.9 對 8.8 個月，HR 0.57；全族群 5 年存活 10.6% 對 3.0%</text>
+<rect x="62" y="882.04" width="4" height="33.6" rx="2" fill="#9A9282"/>
+<text x="76" y="892.24" font-size="12" fill="#6B8084" font-weight="800">代價</text>
+<text x="76" y="909.04" font-size="12" fill="#345963">G3/4 治療相關不良事件：648 三臂 47%／32%／36%；590 72% 對 68%</text>
+<line x1="62" y1="925.64" x2="558" y2="925.64" stroke="#DBD3BF" stroke-width="1.5" stroke-linecap="round"/>
+<text x="62" y="943.84" font-size="12" fill="#6B8084">ASCO 2026：PD-L1 ≥1 建議免疫加雙藥化療，表現越高越可能獲益。</text>
+<g filter="url(#sh)"><rect x="44" y="976.44" width="532" height="350.02" rx="18" fill="#FFFFFF"/></g>
+<rect x="44" y="976.44" width="532" height="7" rx="3.5" fill="#B04A4A"/>
+<rect x="62" y="998.44" width="195.12" height="30" rx="15" fill="#B04A4A"/>
+<text x="159.56" y="1018.12" font-size="13" fill="#FFFFFF" font-weight="800" text-anchor="middle">格三｜根治性化放療加免疫</text>
+<line x1="537.75" y1="1005.19" x2="554.25" y2="1021.69" stroke="#B04A4A" stroke-width="3.52" stroke-linecap="round"/>
+<line x1="554.25" y1="1005.19" x2="537.75" y2="1021.69" stroke="#B04A4A" stroke-width="3.52" stroke-linecap="round"/>
+<text x="62" y="1052.6" font-size="14.3" fill="#123641" font-weight="800">三個第三期已讀出：兩個負、一個主要終點未達但留下單藥臂訊號</text>
+<rect x="62" y="1068.46" width="496" height="28.8" rx="8" fill="#F1DDDD"/>
+<text x="68" y="1084.66" font-size="12" fill="#345963">入口：局部晚期、走根治性化放療的人——這一格目前沒有標準</text>
+<rect x="62" y="1109.26" width="4" height="33.6" rx="2" fill="#B04A4A"/>
+<text x="76" y="1119.46" font-size="12" fill="#6B8084" font-weight="800">KEYNOTE-975（pembrolizumab，n=703）</text>
+<text x="76" y="1136.26" font-size="12" fill="#123641">× 未達 EFS 主要終點（Merck 8-K 原文；無論文）</text>
+<rect x="62" y="1154.86" width="4" height="33.6" rx="2" fill="#B04A4A"/>
+<text x="76" y="1165.06" font-size="12" fill="#6B8084" font-weight="800">RATIONALE-311（tislelizumab，中國鱗癌 n=370）</text>
+<text x="76" y="1181.86" font-size="12" fill="#123641">× PFS HR 0.92（0.68–1.25）；OS HR 1.10</text>
+<rect x="62" y="1200.46" width="4" height="33.6" rx="2" fill="#B04A4A"/>
+<text x="76" y="1210.66" font-size="12" fill="#6B8084" font-weight="800">SKYSCRAPER-07（鞏固 atezolizumab±tiragolumab，鱗癌 n=760）</text>
+<text x="76" y="1227.46" font-size="12" fill="#123641">× 主要終點未達（PFS HR 0.82）；atezolizumab 單藥臂 OS HR 0.69（描述性）</text>
+<rect x="62" y="1246.06" width="4" height="33.6" rx="2" fill="#9A9282"/>
+<text x="76" y="1256.26" font-size="12" fill="#6B8084" font-weight="800">KUNLUN（durvalumab）／ESCORT-CRT</text>
+<text x="76" y="1273.06" font-size="12" fill="#345963">未讀出：KUNLUN 資料預計 2027；ESCORT-CRT 登錄狀態不明</text>
+<line x1="62" y1="1289.66" x2="558" y2="1289.66" stroke="#DBD3BF" stroke-width="1.5" stroke-linecap="round"/>
+<text x="62" y="1307.86" font-size="12" fill="#6B8084">寫成「新標準」是超過；寫成「全負」也不誠實——單藥臂的訊號在階層檢定裡排第三。</text>
+<rect x="44" y="1344.46" width="532" height="392.75" rx="18" fill="#FFFFFF" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="62" y="1375.63" font-size="15.5" fill="#8F7418" font-weight="800">台灣健保現行條文（藥品給付規定 9.69，合訂本 2026-08-21 版）</text>
+<rect x="62" y="1393.38" width="148.41" height="20.12" rx="10.06" fill="#00806B"/>
+<text x="136.2" y="1407.59" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">第二線單用｜113/4/1 起</text>
+<rect x="62" y="1393.38" width="0" height="0" fill="none"/>
+<text x="70" y="1429.71" font-size="12" fill="#345963">nivolumab：曾接受含鉑及 fluoropyrimidine 化療後惡化的無法切除晚期或復發性食道鱗</text>
+<text x="70" y="1446.51" font-size="12" fill="#345963">狀細胞癌。</text>
+<rect x="62" y="1463.11" width="160.14" height="20.12" rx="10.06" fill="#00806B"/>
+<text x="142.07" y="1477.31" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">第一線併化療｜115/2/1 起</text>
+<rect x="62" y="1463.11" width="0" height="0" fill="none"/>
+<text x="70" y="1499.43" font-size="12" fill="#345963">nivolumab 與 fluoropyrimidine 及 cisplatin 或 oxaliplatin 併用，用於無法接受治癒性治</text>
+<text x="70" y="1516.23" font-size="12" fill="#345963">療之晚期或轉移性食道鱗狀細胞癌成人第一線。</text>
+<rect x="62" y="1532.83" width="63.02" height="20.12" rx="10.06" fill="#9A9282"/>
+<text x="93.51" y="1547.04" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">共同條件</text>
+<rect x="62" y="1532.83" width="0" height="0" fill="none"/>
+<text x="70" y="1569.16" font-size="12" fill="#345963">PD-L1 TC≧1%（Dako 28-8 或 Ventana SP263）；ECOG≦1；事前審查；每次申請 12</text>
+<text x="70" y="1585.96" font-size="12" fill="#345963">週；自初次處方起最多 2 年；每人每適應症限一種、不得互換。</text>
+<rect x="62" y="1602.56" width="109.94" height="20.12" rx="10.06" fill="#B04A4A"/>
+<text x="116.97" y="1616.76" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">術後輔助（格一）</text>
+<rect x="62" y="1602.56" width="0" height="0" fill="none"/>
+<text x="70" y="1638.88" font-size="12" fill="#345963">零條文——第 9 節全文「食道」8 處，無任何術後／輔助給付；問藥劑部或個管師（自費或</text>
+<text x="70" y="1655.68" font-size="12" fill="#345963">臨床試驗）。</text>
+<rect x="62" y="1672.28" width="148.02" height="20.12" rx="10.06" fill="#B04A4A"/>
+<text x="136.01" y="1686.49" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">pembrolizumab（格二）</text>
+<rect x="62" y="1672.28" width="0" height="0" fill="none"/>
+<text x="70" y="1708.61" font-size="12" fill="#345963">生物標記表第一、二線欄位皆寫「本藥品尚未給付於此適應症」。</text>
+<text x="44" y="1761.71" font-size="12.5" fill="#6B8084" font-weight="600">中國四個鱗癌第一線試驗（camrelizumab、toripalimab、sintilimab、tislelizumab）都顯示</text>
+<text x="44" y="1779.84" font-size="12.5" fill="#6B8084" font-weight="600">存活延長，但台灣可用性與給付本圖未查證、不畫。CheckMate 577 的鱗癌次族群數字與</text>
+<text x="44" y="1797.96" font-size="12.5" fill="#6B8084" font-weight="600">KEYNOTE-590 的鱗癌比例不在摘要，不畫。</text>
+<text x="44" y="1838.09" font-size="12" fill="#6B8084">示意圖，依 Kelly 2021（CheckMate 577）、Verhoeven 2026（OS 轉述）、Doki 2022 與 Kato</text>
+<text x="44" y="1856.09" font-size="12" fill="#6B8084">2026（CheckMate 648）、Sun 2021 與 Metges 2025（KEYNOTE-590）、Merck 2026 Q1 8-K</text>
+<text x="44" y="1874.09" font-size="12" fill="#6B8084">（KEYNOTE-975）、ClinicalTrials.gov NCT03957590 結果（RATIONALE-311）、</text>
+<text x="44" y="1892.09" font-size="12" fill="#6B8084">SKYSCRAPER-07（Ann Oncol 2026）、KUNLUN 與 ESCORT-CRT 登錄、ASCO 2023／2026 指</text>
+<text x="44" y="1910.09" font-size="12" fill="#6B8084">引、JES 2022 與健保署藥品給付規定第 9 節（2026-08-21 版）重繪｜各試驗族群、設計與終點不</text>
+<text x="44" y="1928.09" font-size="12" fill="#6B8084">同，格與格之間的數字不可直接互比</text>
+  </g>
+</svg>

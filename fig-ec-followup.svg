@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1238" viewBox="0 0 1440 1238" role="img" aria-labelledby="t d">
+  <title id="t">五年追蹤怎麼排：九成復發在兩年內，還有一個喉嚨</title>
+  <desc id="d">示意圖：食道癌五年追蹤時程加頭頸部第二原發。上方時間軸：確診或治療結束到第 5 年，第 6 年後影像淡出。前兩年塗色標「約 90% 的復發在這兩年內（ESMO [V, A]）」；MSKCC 手術世代（n=1,147）復發率第 1 年每 100 人年 27 次、第 6 年 4 次，兩點之間為示意連線。四條軌道：每次回診（兩組都一樣）症狀、營養、心理社會支持，ESMO 2022 [V, A]，V 為專家意見；開過刀的人，MSKCC 世代復發一半靠症狀、45% 靠常規 CT、追蹤內視鏡只抓到 1%，作者結論第 6 年後影像大概不必要；根治性化放療後完全反應者，每 3 個月內視鏡加切片加 CT 以抓救援手術窗口，ESMO 2022 [IV, B]，指引未寫持續多久，圖畫到第 2 年，之後由團隊決定；頭頸部檢查，ESMO 2022 寫食道鱗癌病人應接受合格的頭頸部臨床檢查，頻率沒有來源、不標。下方三格：頭頸部第二原發 6.7%（12 篇日本統合 n=6,483，60.3% 下咽、85.3% 低期別），台灣兩中心（n=435）小於 50 歲是唯一獨立因子 HR 4.13，小於 50 歲者 3、5、10 年累積發生率 14.3%、22.1%、34.2%，反向台灣頭頸癌病人 21.9% 同時有食道病灶；Lugol 空白區 0 個、1 到 9 個、10 個以上者 2 年異時性食道加頭頸鱗癌合計 4.0%、10.0%、31.4%（Katada 2016，早期鱗癌 ESD 後 n=331），戒酒 aHR 0.47，戒菸在該分析未達顯著；腫瘤標記 SCC-Ag 與 CEA 在敏感度 60% 時特異度只有 19.6% 與 20.3%，未達預設 70%（JCOG0502 加 0909 合併 n=239），PET 找復發敏感度 96%、特異度 78%、陽性要切片。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1238" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">FIVE-YEAR FOLLOW-UP — AND THE SECOND PRIMARY</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">五年追蹤怎麼排：九成復發在兩年內，還有一個喉嚨</text>
+<text x="84" y="194" font-size="21" fill="#527078">指引自己承認：除了要抓救援手術機會的人，沒有證據顯示規律追蹤能改善存活——所以圖上每一格都寫了它的證據等級與理由。</text>
+<text x="84" y="224" font-size="21" fill="#527078">開過刀和只做化放療的人，追蹤長得不一樣；第二個癌常長在喉嚨。</text>
+<g filter="url(#sh)"><rect x="84" y="268" width="1272" height="450.8" rx="18" fill="#FFFFFF"/></g>
+<line x1="273.86" y1="320" x2="1334" y2="320" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<line x1="273.86" y1="314" x2="273.86" y2="326" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="273.86" y="308" font-size="13" fill="#345963" font-weight="700" text-anchor="start">確診／治療結束</text>
+<line x1="436.96" y1="314" x2="436.96" y2="326" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="436.96" y="308" font-size="13" fill="#345963" font-weight="700" text-anchor="middle">第 1 年</text>
+<line x1="600.06" y1="314" x2="600.06" y2="326" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="600.06" y="308" font-size="13" fill="#345963" font-weight="700" text-anchor="middle">第 2 年</text>
+<line x1="763.16" y1="314" x2="763.16" y2="326" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="763.16" y="308" font-size="13" fill="#345963" font-weight="700" text-anchor="middle">第 3 年</text>
+<line x1="926.25" y1="314" x2="926.25" y2="326" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="926.25" y="308" font-size="13" fill="#345963" font-weight="700" text-anchor="middle">第 4 年</text>
+<line x1="1089.35" y1="314" x2="1089.35" y2="326" stroke="#B9B1A0" stroke-width="2" stroke-linecap="round"/>
+<text x="1089.35" y="308" font-size="13" fill="#345963" font-weight="700" text-anchor="middle">第 5 年</text>
+<text x="1268.76" y="308" font-size="13" fill="#6B8084" font-weight="600" text-anchor="middle">第 6 年後：影像淡出</text>
+<rect x="273.86" y="332" width="326.2" height="88" rx="8" fill="#F1DDDD"/>
+<text x="436.96" y="352" font-size="13" fill="#B04A4A" font-weight="800" text-anchor="middle">約 90% 的復發在這兩年內（ESMO [V, A]）</text>
+<circle cx="355.41" cy="384" r="18.15" fill="#5C77C4" opacity="0.85"/>
+<text x="379.56" y="388" font-size="13" fill="#345963" font-weight="600" text-anchor="start">27／100 人年（第 1 年）</text>
+<circle cx="1170.9" cy="384" r="7.8" fill="#5C77C4" opacity="0.85"/>
+<text x="1157.1" y="388" font-size="13" fill="#345963" font-weight="600" text-anchor="end">4／100 人年（第 6 年）</text>
+<line x1="539.16" y1="384" x2="1005.14" y2="384" stroke="#5C77C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4" opacity="0.6"/>
+<text x="772.15" y="406" font-size="12.5" fill="#6B8084" font-weight="600" text-anchor="middle">MSKCC 手術世代復發率（兩點之間為示意連線）</text>
+<text x="106" y="459.68" font-size="13" fill="#123641" font-weight="800">每次回診（兩組都一樣）</text>
+<rect x="273.86" y="448" width="815.49" height="14" rx="7" fill="#123641" opacity="0.18"/>
+<circle cx="314.63" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="355.41" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="396.18" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="436.96" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="518.51" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="600.06" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="681.61" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="763.16" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="844.7" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="926.25" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="1007.8" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<circle cx="1089.35" cy="455" r="4" fill="#123641" opacity="0.8"/>
+<text x="273.86" y="485.05" font-size="13" fill="#345963">症狀、營養（體重）、心理社會支持——ESMO 2022 [V, A]（V＝專家意見）</text>
+<text x="106" y="527.88" font-size="13" fill="#5C77C4" font-weight="800">開過刀的人</text>
+<rect x="273.86" y="516.2" width="815.49" height="14" rx="7" fill="#5C77C4" opacity="0.2"/>
+<rect x="1089.35" y="516.2" width="228.34" height="14" rx="7" fill="#5C77C4" opacity="0.06"/>
+<text x="681.61" y="527.88" font-size="12.5" fill="#123641" font-weight="600" text-anchor="middle">常規 CT（頻率依團隊）；內視鏡對無症狀局部復發價值有限</text>
+<text x="273.86" y="553.25" font-size="13" fill="#345963">MSKCC 手術世代（n=1,147）：復發一半靠症狀發現、45% 靠常規 CT、追蹤內視鏡只抓到 1%；作者結論第 6 年後追蹤影像大概不必要</text>
+<text x="106" y="596.08" font-size="13" fill="#00806B" font-weight="800">根治性化放療後完全反應</text>
+<rect x="307.63" y="582.4" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="348.41" y="582.4" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="389.18" y="582.4" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="429.96" y="582.4" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="470.73" y="582.4" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="511.51" y="582.4" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="552.28" y="582.4" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="593.06" y="582.4" width="14" height="18" rx="4" fill="#00806B" opacity="0.9"/>
+<rect x="616.37" y="584.4" width="472.99" height="14" rx="7" fill="#00806B" opacity="0.12"/>
+<text x="852.86" y="596.08" font-size="12.5" fill="#123641" font-weight="600" text-anchor="middle">之後怎麼排：指引未定，由團隊決定</text>
+<text x="273.86" y="621.45" font-size="13" fill="#345963">每 3 個月：內視鏡＋切片＋CT，目的是抓救援手術的窗口——ESMO 2022 [IV, B]（IV＝回溯世代）；指引沒寫持續多久，本圖畫到第 2 年，因九成復發在兩年內</text>
+<text x="106" y="664.28" font-size="13" fill="#96790F" font-weight="800">頭頸部檢查（鱗癌）</text>
+<rect x="273.86" y="652.6" width="1043.83" height="14" rx="7" fill="none" stroke="#96790F" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="690.15" y="649.6" width="211.25" height="20" rx="6" fill="#FFFFFF"/>
+<text x="795.78" y="664.28" font-size="12.5" fill="#96790F" font-weight="700" text-anchor="middle">持續：耳鼻喉科檢查；頻率無來源</text>
+<text x="273.86" y="689.65" font-size="13" fill="#345963">ESMO 2022：食道鱗癌病人「應接受合格的頭頸部臨床檢查」以排除第二原發；頻率沒有來源，本圖不標</text>
+<g filter="url(#sh)"><rect x="84" y="736.8" width="412" height="306.31" rx="18" fill="#FFFFFF"/></g>
+<rect x="106" y="758.8" width="164.06" height="22.75" rx="11.38" fill="#96790F"/>
+<text x="188.03" y="774.85" font-size="13" fill="#FFFFFF" font-weight="800" text-anchor="middle">頭頸部第二原發：多常見</text>
+<text x="106" y="801.72" font-size="13" fill="#345963">食道鱗癌病人 6.7% 會有頭頸部第二原發（12 篇統合、全日本、</text>
+<text x="106" y="820.18" font-size="13" fill="#345963">n=6,483）；60.3% 在下咽、85.3% 為低期別；同時性 48%、異</text>
+<text x="106" y="838.64" font-size="13" fill="#345963">時性 52%。</text>
+<text x="106" y="865.1" font-size="13" fill="#123641" font-weight="700">台灣兩中心（n=435，鱗癌根治手術後）：&lt;50 歲是唯一獨立</text>
+<text x="106" y="883.3" font-size="13" fill="#123641" font-weight="700">因子（HR 4.13）；&lt;50 歲者累積發生率</text>
+<text x="106" y="911.45" font-size="13" fill="#345963" font-weight="700">3 年</text>
+<rect x="148.19" y="899.45" width="269.81" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="148.19" y="899.45" width="96.46" height="16" rx="4" fill="#96790F" opacity="0.9"/>
+<text x="250.65" y="911.45" font-size="13" fill="#123641" font-weight="800">14.3%</text>
+<text x="106" y="937.45" font-size="13" fill="#345963" font-weight="700">5 年</text>
+<rect x="148.19" y="925.45" width="269.81" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="148.19" y="925.45" width="149.07" height="16" rx="4" fill="#96790F" opacity="0.9"/>
+<text x="303.26" y="937.45" font-size="13" fill="#123641" font-weight="800">22.1%</text>
+<text x="106" y="963.45" font-size="13" fill="#345963" font-weight="700">10 年</text>
+<rect x="148.19" y="951.45" width="269.81" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="148.19" y="951.45" width="230.69" height="16" rx="4" fill="#96790F" opacity="0.9"/>
+<text x="384.88" y="963.45" font-size="13" fill="#123641" font-weight="800">34.2%</text>
+<text x="106" y="995.5" font-size="13" fill="#6B8084">反向：台灣頭頸癌病人 21.9% 同時有食道病灶（n=315，前瞻</text>
+<text x="106" y="1013.7" font-size="13" fill="#6B8084">）——篩檢面見〈早期病灶內視鏡就能解決嗎〉</text>
+<g filter="url(#sh)"><rect x="514" y="736.8" width="412" height="306.31" rx="18" fill="#FFFFFF"/></g>
+<rect x="536" y="758.8" width="269.51" height="22.75" rx="11.38" fill="#00806B"/>
+<text x="670.75" y="774.85" font-size="13" fill="#FFFFFF" font-weight="800" text-anchor="middle">同一片黏膜：Lugol 空白區越多，風險越高</text>
+<text x="536" y="801.72" font-size="13" fill="#345963">Katada 2016（日本多中心前瞻，早期鱗癌 ESD 後 n=331）：</text>
+<text x="536" y="820.18" font-size="13" fill="#345963">依 Lugol 染色空白區數目分三組，2 年內異時性食道鱗癌＋頭頸</text>
+<text x="536" y="838.64" font-size="13" fill="#345963">鱗癌合計</text>
+<text x="536" y="865.1" font-size="13" fill="#123641" font-weight="700">2 年合計風險</text>
+<text x="536" y="893.25" font-size="13" fill="#345963" font-weight="700">0 個</text>
+<rect x="589.24" y="881.25" width="258.76" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="589.24" y="881.25" width="25.88" height="16" rx="4" fill="#00806B" opacity="0.9"/>
+<text x="621.11" y="893.25" font-size="13" fill="#123641" font-weight="800">4%</text>
+<text x="536" y="919.25" font-size="13" fill="#345963" font-weight="700">1–9 個</text>
+<rect x="589.24" y="907.25" width="258.76" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="589.24" y="907.25" width="64.69" height="16" rx="4" fill="#00806B" opacity="0.9"/>
+<text x="659.93" y="919.25" font-size="13" fill="#123641" font-weight="800">10%</text>
+<text x="536" y="945.25" font-size="13" fill="#345963" font-weight="700">≥10 個</text>
+<rect x="589.24" y="933.25" width="258.76" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="589.24" y="933.25" width="203.13" height="16" rx="4" fill="#00806B" opacity="0.9"/>
+<text x="798.37" y="945.25" font-size="13" fill="#123641" font-weight="800">31.4%</text>
+<text x="536" y="977.3" font-size="13" fill="#6B8084">同一研究：戒酒使多發鱗癌風險減半（aHR 0.47，95% CI</text>
+<text x="536" y="995.5" font-size="13" fill="#6B8084">0.25–0.91）；戒菸在該分析未達顯著——不等於沒用</text>
+<g filter="url(#sh)"><rect x="944" y="736.8" width="412" height="306.31" rx="18" fill="#FFFFFF"/></g>
+<rect x="966" y="758.8" width="217.1" height="22.75" rx="11.38" fill="#9A9282"/>
+<text x="1074.55" y="774.85" font-size="13" fill="#FFFFFF" font-weight="800" text-anchor="middle">腫瘤標記：抽了參考，不能當警報</text>
+<text x="966" y="801.72" font-size="13" fill="#345963">JCOG0502＋JCOG0909 合併（n=239，根治性化放療後密集</text>
+<text x="966" y="820.18" font-size="13" fill="#345963">CT＋內視鏡追蹤）：SCC-Ag 與 CEA 在敏感度 ≥60% 時，最</text>
+<text x="966" y="838.64" font-size="13" fill="#345963">高特異度只有 19.6%／20.3%，未達預設標準（敏感度 ≥60%</text>
+<text x="966" y="857.1" font-size="13" fill="#345963">且特異度 ≥70%）。</text>
+<text x="966" y="883.56" font-size="13" fill="#123641" font-weight="700">敏感度 60% 時的特異度</text>
+<text x="966" y="911.72" font-size="13" fill="#345963" font-weight="700">SCC-Ag</text>
+<rect x="1029.04" y="899.72" width="248.96" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="1029.04" y="899.72" width="61" height="16" rx="4" fill="#9A9282" opacity="0.9"/>
+<text x="1096.04" y="911.72" font-size="13" fill="#123641" font-weight="800">19.6%</text>
+<text x="966" y="937.72" font-size="13" fill="#345963" font-weight="700">CEA</text>
+<rect x="1029.04" y="925.72" width="248.96" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="1029.04" y="925.72" width="63.17" height="16" rx="4" fill="#9A9282" opacity="0.9"/>
+<text x="1098.21" y="937.72" font-size="13" fill="#123641" font-weight="800">20.3%</text>
+<text x="966" y="963.72" font-size="13" fill="#345963" font-weight="700">預設標準</text>
+<rect x="1029.04" y="951.72" width="248.96" height="16" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="1029.04" y="951.72" width="217.84" height="16" rx="4" fill="#9A9282" opacity="0.9"/>
+<text x="1252.88" y="963.72" font-size="13" fill="#123641" font-weight="800">70%</text>
+<text x="966" y="995.76" font-size="13" fill="#6B8084">PET 找復發：敏感度 96%、特異度 78%（8 篇統合 n=486）——</text>
+<text x="966" y="1013.97" font-size="13" fill="#6B8084">幾乎不漏，但陽性要切片證實</text>
+<text x="84" y="1069.12" font-size="14" fill="#6B8084" font-weight="600">復發多在兩年內，但五年後仍有可治療的復發被報告；「追蹤到五年就安全」不成立。第二原發的頭頸檢查有沒有改善存活，正向資料沒有；反向（口腔癌→食道篩檢）的台灣登記顯示篩檢組死亡較低（</text>
+<text x="84" y="1089.41" font-size="14" fill="#6B8084" font-weight="600">aHR 0.80）。</text>
+<text x="84" y="1135.71" font-size="16" fill="#6B8084">示意圖，依 ESMO 2022 食道癌指引（Obermannová）、Lou 2013（MSKCC 復發型態）、van de Ven 2019（頭頸第二原發統合）、Tsai 2025（台灣兩中心）、Wang 2016（台灣</text>
+<text x="84" y="1159.71" font-size="16" fill="#6B8084">頭頸癌前瞻）、Katada 2016、Sakanaka 2026（JCOG0502＋0909 腫瘤標記）與 PET 復發統合分析重繪｜各研究族群、設計與終點不同，數字不可直接互比；追蹤間隔由你的團</text>
+<text x="84" y="1183.71" font-size="16" fill="#6B8084">隊依風險調整</text>
+  </g>
+</svg>

@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1421" viewBox="0 0 1440 1421" role="img" aria-labelledby="t d">
+  <title id="t">體重與管路的時間窗：三種管路，指引各給了一個位置</title>
+  <desc id="d">示意圖：體重與管路決策的時間窗，加三種管路的身體位置。上半時間軸分四段：診斷到治療前評估、化放療 5 到 6 週、（三合一）等待與手術、術後回家；體重示意曲線緩降，橫線標「掉 10%」是啟動評估與營養師介入的門檻（ESPEN 措辭），不是放管指令。標註：診斷前 3 個月掉超過 10% 的人佔 17%（鹿特丹手術世代 n=922），5 年死亡 HR 1.34、併發症沒有增加；化療期間掉超過 5% 者術後感染併發症 OR 2.69（OGSG1003 鱗癌 n=134）；術前治療者 80% 有吞嚥困難、48% 放了管路、其中 27.9% 沒好好用（n=127）；化放療後惡病質 60.7%，治療前造口只在腫瘤佔管腔大於等於 70% 者看得出好處（成大 n=260）。四條管路橫桿：鼻胃管，預期腸道營養小於 4 週（ESGE 2021）；胃造廔 PEG，預期大於 4 週、胃路徑優先（ESGE），對後續胃管重建無差（統合 n=1,027）；餵食空腸造廔，上消化道大手術術中考慮（ESPEN 外科 Rec 23，Grade B），ESGE 只在胃不可用、排空差、高吸入風險時選空腸；金屬支架畫成虛線打叉，ESGE 2021 不建議作為術前或化放療前橋接，Mariette 2015 配對 R0 71.0% 對 85.5%、3 年整體存活 25% 對 44%。下半人形側面：鼻胃管由鼻經食道進胃；PEG 由腹壁進胃；空腸造廔由腹壁進空腸。三格好壞：鼻胃管不需麻醉、隨時可拔、移位較多、吞嚥較少受影響、放療後較早脫離；PEG 內視鏡下放置、狹窄時用 introducer 法、統合顯示滲漏狹窄併發症住院天數皆無差、1/96 PEG 部位切片惡性、移位少、生活品質可能較好；空腸造廔腹腔鏡或開腹放置、腸阻塞約 6%（其中超過 63% 需再手術）、部位感染 7%、功能不良 7%、常規放置好處未證明、術後居家灌食 6 週體重掉超過 5% 的比例 28% 對 82%（n=41）。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1421" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">WEIGHT × FEEDING ROUTE × TIME</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">體重與管路的時間窗：三種管路，指引各給了一個位置</text>
+<text x="84" y="194" font-size="21" fill="#527078">上半是時間軸：掉一成體重是啟動評估的門檻，不是放管指令；三種管路在指引裡各有自己的時間點與前提。下半是入口位置。</text>
+<text x="84" y="224" font-size="21" fill="#527078">沒有一種「最好」；支架不是化放療前的解法。</text>
+<g filter="url(#sh)"><rect x="84" y="268" width="1272" height="559.6" rx="18" fill="#FFFFFF"/></g>
+<circle cx="171.12" cy="314.63" r="10" fill="#96790F"/>
+<text x="171.12" y="318.63" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<circle cx="552.55" cy="348.45" r="10" fill="#96790F"/>
+<text x="552.55" y="352.45" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<circle cx="329.27" cy="327.94" r="10" fill="#6B8084"/>
+<text x="329.27" y="331.94" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">3</text>
+<circle cx="794.42" cy="371.9" r="10" fill="#6B8084"/>
+<text x="794.42" y="375.9" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">4</text>
+<path d="M106 332 Q273.45 338 403.7 356 Q589.76 380 775.82 400.4 Q924.67 412.4 1073.52 422 Q1222.36 419.6 1334 417.2" fill="none" stroke="#96790F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="110" y="356" font-size="13" fill="#96790F" font-weight="800">體重（示意）</text>
+<line x1="106" y1="380" x2="1334" y2="380" stroke="#B04A4A" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="6 5" opacity="0.8"/>
+<text x="1334" y="374" font-size="13" fill="#B04A4A" font-weight="700" text-anchor="end">掉 10%：啟動評估、營養師介入的門檻（ESPEN 措辭）</text>
+<rect x="107" y="446" width="258.48" height="26" rx="6" fill="#ECE8DE"/>
+<text x="236.24" y="464" font-size="13" fill="#123641" font-weight="800" text-anchor="middle">診斷 → 治療前評估</text>
+<rect x="367.48" y="446" width="407.33" height="26" rx="6" fill="#E3E8F6"/>
+<text x="571.15" y="464" font-size="13" fill="#123641" font-weight="800" text-anchor="middle">化放療 5–6 週</text>
+<rect x="776.82" y="446" width="258.48" height="26" rx="6" fill="#ECE8DE"/>
+<text x="906.06" y="464" font-size="13" fill="#123641" font-weight="800" text-anchor="middle">（三合一）等待與手術</text>
+<rect x="1037.3" y="446" width="295.7" height="26" rx="6" fill="#D8EDE7"/>
+<text x="1185.15" y="464" font-size="13" fill="#123641" font-weight="800" text-anchor="middle">術後、回家</text>
+<rect x="143.21" y="490" width="260.48" height="18" rx="9" fill="#5C77C4" opacity="0.9"/>
+<text x="413.7" y="504" font-size="13" fill="#5C77C4" font-weight="800">鼻胃管</text>
+<text x="286" y="525.05" font-size="13" fill="#345963">預期腸道營養 &lt;4 週（ESGE 2021）；ESPEN 放療段點名鼻胃管或 PEG</text>
+<rect x="199.03" y="542.2" width="837.27" height="18" rx="9" fill="#96790F" opacity="0.9"/>
+<text x="1046.3" y="556.2" font-size="13" fill="#96790F" font-weight="800">胃造廔 PEG</text>
+<text x="286" y="577.25" font-size="13" fill="#345963">預期 &gt;4 週：考慮經皮管路，胃路徑優先（ESGE 2021）；PEG 對後續胃管重建無差（統合 n=1,027）</text>
+<rect x="831.64" y="594.4" width="502.36" height="18" rx="9" fill="#00806B" opacity="0.9"/>
+<text x="821.64" y="608.4" font-size="13" fill="#00806B" font-weight="800" text-anchor="end">餵食空腸造廔</text>
+<text x="286" y="629.45" font-size="13" fill="#345963">上消化道大手術時術中考慮（ESPEN 外科 Rec 23，Grade B）；ESGE：胃不可用、排空差、高吸入風險才選空腸</text>
+<rect x="143.21" y="646.6" width="241.88" height="18" rx="9" fill="none" stroke="#B04A4A" stroke-width="2" stroke-dasharray="6 5"/>
+<line x1="258.15" y1="649.6" x2="270.15" y2="661.6" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="270.15" y1="649.6" x2="258.15" y2="661.6" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<text x="395.09" y="660.6" font-size="13" fill="#B04A4A" font-weight="800">金屬支架</text>
+<text x="286" y="681.65" font-size="13" fill="#345963">ESGE 2021：不建議作為術前或化放療前的橋接（強建議）。Mariette 2015 配對：R0 71.0% 對 85.5%、3 年 OS 25% 對 44%</text>
+<circle cx="114" cy="711.95" r="8" fill="#96790F"/>
+<text x="114" y="715.45" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="130" y="715.85" font-size="13" fill="#345963">診斷前 3 個月掉 &gt;10%：17% 的人（鹿特丹手術世代 n=922）→ 5 年死亡 HR 1.34；併發症沒有增加</text>
+<circle cx="114" cy="738.15" r="8" fill="#96790F"/>
+<text x="114" y="741.65" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="130" y="742.05" font-size="13" fill="#345963">化療期間掉 &gt;5% → 術後感染併發症 OR 2.69（OGSG1003，鱗癌 n=134）</text>
+<circle cx="114" cy="764.35" r="8" fill="#6B8084"/>
+<text x="114" y="767.85" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">3</text>
+<text x="130" y="768.25" font-size="13" fill="#345963">術前治療者 80% 有吞嚥困難、48% 放了管路，其中 27.9% 沒好好用（n=127）</text>
+<circle cx="114" cy="790.55" r="8" fill="#6B8084"/>
+<text x="114" y="794.05" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">4</text>
+<text x="130" y="794.45" font-size="13" fill="#345963">化放療後惡病質 60.7%；治療前造口只在腫瘤佔管腔 ≥70% 者看得出好處（成大 n=260）</text>
+<g filter="url(#sh)"><rect x="84" y="845.6" width="420" height="380.6" rx="18" fill="#FFFFFF"/></g>
+<circle cx="284.66" cy="907.11" r="39.49" fill="#F3EDE0" stroke="#C9C0AC" stroke-width="2"/>
+<path d="M258.9 941.46 C 207.39 975.8 190.21 1078.83 215.97 1199.03 L 370.51 1199.03 C 404.86 1078.83 387.69 975.8 314.71 941.46 Z" fill="#F3EDE0" stroke="#C9C0AC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M205.67 1070.24 Q 293.24 1040.19 391.98 1070.24" fill="none" stroke="#C9C0AC" stroke-width="1.5" stroke-dasharray="5 4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M267.49 937.16 L 284.66 967.21 L 293.24 1078.83" fill="none" stroke="#D9D2C2" stroke-width="8.59" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M293.24 1077.11 C 353.34 1070.24 361.93 1130.34 319 1138.93 C 284.66 1143.22 267.49 1104.59 293.24 1077.11 Z" fill="#E7DFCF" stroke="#B9AF98" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M319 1140.65 c -60.1 8.59 -60.1 34.34 -8.59 42.93 c 42.93 6.87 77.27 -8.59 51.51 -25.76" fill="none" stroke="#DED6C4" stroke-width="7.73" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M245.16 908.83 C 257.18 915.7 265.77 928.58 269.2 939.74 L 285.52 968.93 L 301.83 1104.59" fill="none" stroke="#5C77C4" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M245.16 908.83 L 224.56 898.53" fill="none" stroke="#5C77C4" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M186.78 1109.74 L 284.66 1113.17" fill="none" stroke="#96790F" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="193.65" cy="1109.74" r="5.15" fill="#96790F"/>
+<path d="M190.21 1156.1 L 271.78 1177.56" fill="none" stroke="#00806B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="197.08" cy="1156.1" r="5.15" fill="#00806B"/>
+<text x="213.69" y="889.38" font-size="13" fill="#5C77C4" font-weight="800" text-anchor="end">鼻胃管</text>
+<text x="175.63" y="1108.59" font-size="13" fill="#96790F" font-weight="800" text-anchor="end">胃造廔 PEG</text>
+<text x="177.35" y="1161.82" font-size="13" fill="#00806B" font-weight="800" text-anchor="end">空腸造廔</text>
+<text x="370.51" y="1113.17" font-size="13" fill="#7A6E58" font-weight="700">胃</text>
+<text x="319" y="967.21" font-size="13" fill="#7A6E58" font-weight="700">食道</text>
+<text x="361.93" y="1188.73" font-size="13" fill="#7A6E58" font-weight="700">空腸</text>
+<text x="396.27" y="1059.09" font-size="12" fill="#6B8084" font-weight="600" text-anchor="end">橫膈</text>
+<g filter="url(#sh)"><rect x="524" y="845.6" width="408" height="182.3" rx="18" fill="#FFFFFF"/></g>
+<rect x="546" y="867.6" width="60.21" height="23.62" rx="11.81" fill="#5C77C4"/>
+<text x="576.11" y="884.27" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">鼻胃管</text>
+<text x="546" y="916.65" font-size="13" fill="#345963">醫療端：不需麻醉、放最快、隨時可拔；移位風險比 PEG 高（</text>
+<text x="546" y="935.11" font-size="13" fill="#345963">ESPEN）；誤入呼吸道要有確認流程（ESGE）</text>
+<text x="546" y="961.57" font-size="13" fill="#345963">臨床端：吞嚥較少受影響、放療結束後較早脫離（ESPEN）；</text>
+<text x="546" y="980.03" font-size="13" fill="#345963">臉上看得到</text>
+<g filter="url(#sh)"><rect x="948" y="845.6" width="408" height="182.3" rx="18" fill="#FFFFFF"/></g>
+<rect x="970" y="867.6" width="92.91" height="23.62" rx="11.81" fill="#96790F"/>
+<text x="1016.45" y="884.27" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">胃造廔 PEG</text>
+<text x="970" y="916.65" font-size="13" fill="#345963">醫療端：內視鏡下放置；食道狹窄時用 introducer（push）法</text>
+<text x="970" y="935.11" font-size="13" fill="#345963">避免拉過腫瘤（ESGE）；4 篇回溯 n=1,027 統合：滲漏、狹</text>
+<text x="970" y="953.57" font-size="13" fill="#345963">窄、併發症、住院天數皆無差，無 PEG 部位滲漏（Fang</text>
+<text x="970" y="972.03" font-size="13" fill="#345963">2022）；1/96 PEG 部位切片為惡性（Bhatti 2015）</text>
+<text x="970" y="998.49" font-size="13" fill="#345963">臨床端：移位少、生活品質可能較好（ESPEN）；在衣服底下</text>
+<g filter="url(#sh)"><rect x="524" y="1043.9" width="832" height="182.3" rx="18" fill="#FFFFFF"/></g>
+<rect x="546" y="1065.9" width="101.52" height="23.62" rx="11.81" fill="#00806B"/>
+<text x="596.76" y="1082.57" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">餵食空腸造廔</text>
+<text x="546" y="1114.95" font-size="13" fill="#345963">醫療端：腹腔鏡或開腹下放置、多在手術中；統合（Shen 2021）：腸阻塞約 6%（其中 &gt;63% 需再手術）、部位感染 7%、功能不良</text>
+<text x="546" y="1133.41" font-size="13" fill="#345963">7%；常規放置的好處未被證明（Mei 2021）</text>
+<text x="546" y="1159.87" font-size="13" fill="#345963">臨床端：術後回家可繼續灌 6 週（小型 RCT n=41：體重掉 &gt;5% 28% 對 82%）</text>
+<text x="84" y="1252.2" font-size="14" fill="#6B8084" font-weight="600">先放管路對結果有沒有幫助，回溯資料是雙向的（美國兩個外科世代看不出；台灣成大只在腫瘤佔管腔 ≥70% 者看得出）——「誰該先放」比「要不要放」更接近真問題。健保：05101B 一般灌食適用症明列</text>
+<text x="84" y="1272.5" font-size="14" fill="#6B8084" font-weight="600">食道癌；33108B PEG 備註未寫食道癌也未排除、47058B 支架有給付≠建議做——問醫務課／個管師。</text>
+<text x="84" y="1318.8" font-size="16" fill="#6B8084">示意圖，依 ESPEN 2021 癌症營養與外科營養實務指引、ESGE 2021 腸道管路指引（第 1、2 部）、ESGE 2021 食道支架指引、van der Schaaf 2014、Aoyama 2023（</text>
+<text x="84" y="1342.8" font-size="16" fill="#6B8084">OGSG1003）、Huerter 2016、Chiang 2026、Fang 2022、Bhatti 2015、Shen 2021、Mei 2021、Mariette 2015 與 Baker 2015 重繪｜各研究族群、設計與終點不同，數字不</text>
+<text x="84" y="1366.8" font-size="16" fill="#6B8084">可直接互比；管路種類由團隊依你的情況決定</text>
+  </g>
+</svg>

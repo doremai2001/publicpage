@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="2037" viewBox="0 0 620 2037" role="img" aria-labelledby="t d">
+  <title id="t">Dose-escalation trials at a glance: 60–66 Gy never proved better</title>
+  <desc id="d">Schematic overview of radiation dose-escalation trials in oesophageal cancer; each row's two bars are the two arms' doses. Starting point RTOG 85-01 (n=121, SCC plus adenocarcinoma): 50 Gy with cisplatin/5-FU vs 64 Gy radiotherapy alone, 5-year survival 26% vs 0% — the lower-dose arm lived longer because chemotherapy was added; severe and life-threatening toxicity 44%/20% vs 25%/3%. INT 0123 (218 analysable, SCC plus adenocarcinoma, cisplatin/5-FU): 50.4 vs 64.8 Gy, 2-year overall survival 40% vs 31%, not significant; local failure 52% vs 56%; 11 treatment-related deaths in the high-dose arm vs 2 (7 occurred at 50.4 Gy or less). ARTDECO (n=260, the Netherlands, 61% SCC, weekly carboplatin/paclitaxel): 50.4 vs 61.6 Gy, 3-year local PFS 70% vs 73%, not significant; grade 4/5 toxicity 12%/5% vs 14%/10%. CONCORDE/PRODIGE 26 (n=217, France, 88% SCC, FOLFOX, conference abstract): 50 vs 66 Gy, 2-year locoregional PFS 42.7% vs 43.8%, median overall survival 25.2 vs 23.5 months, toxic deaths 4.6% vs 6.7%. Chinese multicentre trial (319 analysable, all SCC, weekly docetaxel/cisplatin): 50 vs 60 Gy, 3-year locoregional PFS 48.4% vs 49.5%, 3-year overall survival 52.7% vs 53.1%, 8-year locoregional PFS 36.3% vs 32.7%, more grade 3 or higher pneumonitis at 60 Gy. All four escalation trials are tagged 'escalation not shown better'. Japan itself moved its standard from 60 Gy back to 50.4 Gy.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="2037" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">DOSE ESCALATION — FIVE RANDOMISED READOUTS</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">Dose-escalation trials at a glance:</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">60–66 Gy never proved better</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">Each row is one randomised trial: the two bars are the two arms' radiation</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">doses, the result direction is on the right. Cohort and chemotherapy are</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">noted under each row; rows do not compare with each other.</text>
+<text x="44" y="260" font-size="14.5" fill="#527078">The first row is not a dose-escalation trial — it explains why the standard</text>
+<text x="44" y="282" font-size="14.5" fill="#527078">became '50 Gy with chemotherapy' rather than higher-dose radiotherapy</text>
+<text x="44" y="304" font-size="14.5" fill="#527078">alone.</text>
+<g filter="url(#sh)"><rect x="44" y="338" width="532" height="261.52" rx="18" fill="#E3E8F6"/></g>
+<text x="62" y="369.18" font-size="15.5" fill="#123641" font-weight="800">Starting point | RTOG 85-01 (Herskovic 1992 / Cooper 1999)</text>
+<text x="62" y="391.55" font-size="12.5" fill="#6B8084">n=121 randomised, SCC + adenocarcinoma, thoracic</text>
+<rect x="62" y="410.43" width="496" height="22" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="62" y="410.43" width="354.29" height="22" rx="4" fill="#5C77C4" opacity="0.9"/>
+<line x1="416.29" y1="408.43" x2="416.29" y2="434.43" stroke="#123641" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.5"/>
+<text x="72" y="425.93" font-size="12.5" fill="#FFFFFF" font-weight="800">50 Gy + cisplatin/5-FU</text>
+<rect x="62" y="442.43" width="496" height="22" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="62" y="442.43" width="453.49" height="22" rx="4" fill="#96790F" opacity="0.9"/>
+<line x1="416.29" y1="440.43" x2="416.29" y2="466.43" stroke="#123641" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.5"/>
+<text x="72" y="457.93" font-size="12.5" fill="#FFFFFF" font-weight="800">64 Gy radiotherapy alone</text>
+<text x="416.29" y="482.43" font-size="11.5" fill="#6B8084" text-anchor="middle">50 Gy</text>
+<text x="62" y="505" font-size="14.8" fill="#123641" font-weight="800">5-year survival 26% vs 0%</text>
+<text x="62" y="523.77" font-size="12.5" fill="#345963">The lower-dose arm lived longer — because chemotherapy was added; cost:</text>
+<text x="62" y="541.89" font-size="12.5" fill="#345963">severe/life-threatening toxicity 44%/20% vs 25%/3%</text>
+<rect x="62" y="557.39" width="260.57" height="20.12" rx="10.06" fill="#5C77C4"/>
+<text x="192.29" y="571.6" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">A chemotherapy effect, not a dose effect</text>
+<g filter="url(#sh)"><rect x="44" y="613.52" width="532" height="279.64" rx="18" fill="#FFFFFF"/></g>
+<text x="62" y="644.69" font-size="15.5" fill="#123641" font-weight="800">INT 0123 / RTOG 94-05 (Minsky 2002)</text>
+<text x="62" y="667.07" font-size="12.5" fill="#6B8084">218 analysable, SCC + adenocarcinoma, T1–4 N0/1, cisplatin/5-FU</text>
+<rect x="62" y="685.94" width="496" height="22" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="62" y="685.94" width="357.12" height="22" rx="4" fill="#5C77C4" opacity="0.9"/>
+<line x1="416.29" y1="683.94" x2="416.29" y2="709.94" stroke="#123641" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.5"/>
+<text x="72" y="701.44" font-size="12.5" fill="#FFFFFF" font-weight="800">50.4 Gy</text>
+<rect x="62" y="717.94" width="496" height="22" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="62" y="717.94" width="459.15" height="22" rx="4" fill="#96790F" opacity="0.9"/>
+<line x1="416.29" y1="715.94" x2="416.29" y2="741.94" stroke="#123641" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.5"/>
+<text x="72" y="733.44" font-size="12.5" fill="#FFFFFF" font-weight="800">64.8 Gy</text>
+<text x="416.29" y="757.94" font-size="11.5" fill="#6B8084" text-anchor="middle">50 Gy</text>
+<text x="62" y="780.52" font-size="14.8" fill="#123641" font-weight="800">2-year OS 40% vs 31% (not significant)</text>
+<text x="62" y="799.29" font-size="12.5" fill="#345963">median survival 18.1 vs 13.0 months; local failure/persistence 52% vs 56%; 11</text>
+<text x="62" y="817.41" font-size="12.5" fill="#345963">treatment-related deaths in the high-dose arm vs 2 (7 occurred at ≤50.4 Gy);</text>
+<text x="62" y="835.54" font-size="12.5" fill="#345963">stopped after interim analysis</text>
+<rect x="62" y="851.04" width="381.88" height="20.12" rx="10.06" fill="#9A9282"/>
+<text x="252.94" y="865.24" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Escalation not shown better; more deaths in the high-dose arm</text>
+<g filter="url(#sh)"><rect x="44" y="907.16" width="532" height="279.02" rx="18" fill="#FFFFFF"/></g>
+<text x="62" y="938.34" font-size="15.5" fill="#123641" font-weight="800">ARTDECO (Hulshof 2021)</text>
+<text x="62" y="960.71" font-size="12.5" fill="#6B8084">n=260, the Netherlands, 61% SCC / 39% adenocarcinoma, weekly</text>
+<text x="62" y="978.21" font-size="12.5" fill="#6B8084">carboplatin/paclitaxel</text>
+<rect x="62" y="997.09" width="496" height="22" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="62" y="997.09" width="357.12" height="22" rx="4" fill="#5C77C4" opacity="0.9"/>
+<line x1="416.29" y1="995.09" x2="416.29" y2="1021.09" stroke="#123641" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.5"/>
+<text x="72" y="1012.59" font-size="12.5" fill="#FFFFFF" font-weight="800">50.4 Gy</text>
+<rect x="62" y="1029.09" width="496" height="22" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="62" y="1029.09" width="436.48" height="22" rx="4" fill="#96790F" opacity="0.9"/>
+<line x1="416.29" y1="1027.09" x2="416.29" y2="1053.09" stroke="#123641" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.5"/>
+<text x="72" y="1044.59" font-size="12.5" fill="#FFFFFF" font-weight="800">61.6 Gy (boost to primary)</text>
+<text x="416.29" y="1069.09" font-size="11.5" fill="#6B8084" text-anchor="middle">50 Gy</text>
+<text x="62" y="1091.67" font-size="14.8" fill="#123641" font-weight="800">3-year local PFS 70% vs 73% (not significant)</text>
+<text x="62" y="1110.43" font-size="12.5" fill="#345963">SCC 75% vs 79%, adenocarcinoma 61% vs 61%; grade 4/5 toxicity 12%/5% vs</text>
+<text x="62" y="1128.56" font-size="12.5" fill="#345963">14%/10% (p=0.15); radiotherapy completion 94%</text>
+<rect x="62" y="1144.06" width="181.95" height="20.12" rx="10.06" fill="#9A9282"/>
+<text x="152.98" y="1158.26" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Escalation not shown better</text>
+<g filter="url(#sh)"><rect x="44" y="1200.18" width="532" height="243.4" rx="18" fill="#FFFFFF"/></g>
+<text x="62" y="1231.36" font-size="15.5" fill="#123641" font-weight="800">CONCORDE / PRODIGE 26 (Crehange 2021)</text>
+<text x="62" y="1253.73" font-size="12.5" fill="#6B8084">n=217, France, 88% SCC, FOLFOX</text>
+<rect x="62" y="1272.61" width="496" height="22" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="62" y="1272.61" width="354.29" height="22" rx="4" fill="#5C77C4" opacity="0.9"/>
+<line x1="416.29" y1="1270.61" x2="416.29" y2="1296.61" stroke="#123641" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.5"/>
+<text x="72" y="1288.11" font-size="12.5" fill="#FFFFFF" font-weight="800">50 Gy in 25 fractions</text>
+<rect x="62" y="1304.61" width="496" height="22" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="62" y="1304.61" width="467.66" height="22" rx="4" fill="#96790F" opacity="0.9"/>
+<line x1="416.29" y1="1302.61" x2="416.29" y2="1328.61" stroke="#123641" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.5"/>
+<text x="72" y="1320.11" font-size="12.5" fill="#FFFFFF" font-weight="800">66 Gy in 33 fractions</text>
+<text x="416.29" y="1344.61" font-size="11.5" fill="#6B8084" text-anchor="middle">50 Gy</text>
+<text x="62" y="1367.19" font-size="14.8" fill="#123641" font-weight="800">2-year locoregional PFS 42.7% vs 43.8% (HR 1.03)</text>
+<text x="62" y="1385.95" font-size="12.5" fill="#345963">median OS 25.2 vs 23.5 months (HR 1.14, p=0.44); toxic deaths 4.6% vs 6.7%</text>
+<rect x="62" y="1401.45" width="339.97" height="20.12" rx="10.06" fill="#9A9282"/>
+<text x="231.98" y="1415.66" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Escalation not shown better | conference abstract only</text>
+<g filter="url(#sh)"><rect x="44" y="1457.58" width="532" height="300.57" rx="18" fill="#FFFFFF"/></g>
+<text x="62" y="1488.75" font-size="15.5" fill="#123641" font-weight="800">Chinese multicentre 50 vs 60 Gy (Xu 2022; Cheng 2026</text>
+<text x="62" y="1509.68" font-size="15.5" fill="#123641" font-weight="800">long-term)</text>
+<text x="62" y="1532.05" font-size="12.5" fill="#6B8084">319 analysable, all SCC, stages IIA–IVA, weekly docetaxel/cisplatin</text>
+<rect x="62" y="1550.93" width="496" height="22" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="62" y="1550.93" width="354.29" height="22" rx="4" fill="#5C77C4" opacity="0.9"/>
+<line x1="416.29" y1="1548.93" x2="416.29" y2="1574.93" stroke="#123641" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.5"/>
+<text x="72" y="1566.43" font-size="12.5" fill="#FFFFFF" font-weight="800">50 Gy</text>
+<rect x="62" y="1582.93" width="496" height="22" rx="4" fill="#DBD3BF" opacity="0.5"/>
+<rect x="62" y="1582.93" width="425.14" height="22" rx="4" fill="#96790F" opacity="0.9"/>
+<line x1="416.29" y1="1580.93" x2="416.29" y2="1606.93" stroke="#123641" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.5"/>
+<text x="72" y="1598.43" font-size="12.5" fill="#FFFFFF" font-weight="800">60 Gy</text>
+<text x="416.29" y="1622.93" font-size="11.5" fill="#6B8084" text-anchor="middle">50 Gy</text>
+<text x="62" y="1645.51" font-size="14.8" fill="#123641" font-weight="800">3-year locoregional PFS 48.4% vs 49.5% (HR 1.00)</text>
+<text x="62" y="1664.27" font-size="12.5" fill="#345963">3-year OS 52.7% vs 53.1%; median follow-up 99.5 months: 8-year locoregional</text>
+<text x="62" y="1682.4" font-size="12.5" fill="#345963">PFS 36.3% vs 32.7% (HR 1.06); more grade 3+ pneumonitis in the 60 Gy arm</text>
+<text x="62" y="1700.52" font-size="12.5" fill="#345963">(p=0.03)</text>
+<rect x="62" y="1716.02" width="342.71" height="20.12" rx="10.06" fill="#9A9282"/>
+<text x="233.35" y="1730.23" font-size="11.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Escalation not shown better; more grade 3+ pneumonitis</text>
+<rect x="44" y="1776.15" width="16" height="16" rx="5" fill="#5C77C4" opacity="0.9"/>
+<text x="68" y="1789.15" font-size="12.5" fill="#345963" font-weight="600">Standard-dose arm</text>
+<rect x="216.85" y="1776.15" width="16" height="16" rx="5" fill="#96790F" opacity="0.9"/>
+<text x="240.85" y="1789.15" font-size="12.5" fill="#345963" font-weight="600">High-dose arm</text>
+<text x="44" y="1826.65" font-size="12.5" fill="#6B8084" font-weight="600">Japan itself moved its standard from 60 Gy (JCOG0303) back to 50.4 Gy (JCOG0909),</text>
+<text x="44" y="1844.77" font-size="12.5" fill="#6B8084" font-weight="600">'in an attempt to reduce the risk of adverse events and the risk associated with</text>
+<text x="44" y="1862.9" font-size="12.5" fill="#6B8084" font-weight="600">salvage esophagectomy'. 'Not shown better' is not 'shown equal' — every trial's</text>
+<text x="44" y="1881.02" font-size="12.5" fill="#6B8084" font-weight="600">confidence interval is wide, and ESO-Shanghai 12 is still testing 61.2 vs 50.4 Gy with</text>
+<text x="44" y="1899.15" font-size="12.5" fill="#6B8084" font-weight="600">PET-based stratification.</text>
+<text x="44" y="1939.27" font-size="12" fill="#6B8084">Schematic, redrawn from Herskovic 1992, Cooper 1999, Minsky 2002, Hulshof 2021,</text>
+<text x="44" y="1957.27" font-size="12" fill="#6B8084">Crehange 2021 (ASTRO conference abstract), Xu 2022, Cheng 2026 and the JES 2022</text>
+<text x="44" y="1975.27" font-size="12" fill="#6B8084">guideline | cohorts, chemotherapy regimens and endpoints differ — rows are not directly</text>
+<text x="44" y="1993.27" font-size="12" fill="#6B8084">comparable</text>
+  </g>
+</svg>

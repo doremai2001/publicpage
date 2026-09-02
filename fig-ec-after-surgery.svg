@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1229" viewBox="0 0 1440 1229" role="img" aria-labelledby="t d">
+  <title id="t">術前、術後：胃被拉到哪裡，食物走哪裡</title>
+  <desc id="d">示意圖：食道切除術前與術後的解剖。左格術前：食道由頸部經胸腔穿過橫膈接到腹腔內完整的胃袋，下食道括約肌在橫膈處，幽門在胃的右下方接十二指腸，迷走神經沿食道走，食物往下。中下段食道畫出腫瘤位置。右格術後：中下段食道連同腫瘤被切除，只剩頸部與上胸段一小段食道；胃被做成一條管子拉進胸腔，在胸內（Ivor Lewis）或頸部（McKeown）與殘存食道吻合；沒有括約肌、容量變小；幽門被拉到靠近橫膈；迷走神經切斷；食物靠重力走管狀胃，容易逆流；原本放胃的位置空了。下方三格：少量多餐——瑞典世代（n=226）術後 6 個月 63.7% 體重掉超過 10%、20.4% 掉超過 20%，體重可持續掉到 3 年；延遲性胃排空早期 15.9%、晚期 9.4%，幽門處置證據不站邊。傾倒症候群——早期 30 分內心悸冒汗、晚期 1 到 3 小時低血糖；顯著症狀 11%（瑞典 n=384，1 年），問卷式 67 到 78%；飲食調整第一步，晚期可用 acarbose。逆流與夜咳——瑞典世代（n=241，1 年）27% 嚴重逆流，睡眠障礙 OR 2.3；殘存食道黏膜損傷 5 年 55%（德國 n=50）；墊高與餐後不平躺是門診慣例，沒有對照研究、不標公分數。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1229" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="5px">ANATOMY BEFORE AND AFTER OESOPHAGECTOMY</text>
+<text x="84" y="148" font-size="44" fill="#123641" font-weight="800" class="r">術前、術後：胃被拉到哪裡，食物走哪裡</text>
+<text x="84" y="194" font-size="21" fill="#527078">開刀拿掉一段食道與周圍淋巴結，胃被做成一條管子拉進胸腔接上去。少量多餐、傾倒、逆流三件事，都從這張圖來。</text>
+<text x="84" y="224" font-size="21" fill="#527078">示意圖，術式與吻合位置依你的外科醫師而異。</text>
+<g filter="url(#sh)"><rect x="84" y="268" width="626" height="560" rx="18" fill="#FFFFFF"/></g>
+<rect x="106" y="290" width="65.58" height="30" rx="15" fill="#9A9282"/>
+<text x="138.79" y="310.22" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">術前</text>
+<path d="M368.85 339.38 L425.15 339.38 L425.15 386.31 C 490.85 395.69, 547.15 419.15, 547.15 470.77 L547.15 789.85 Q 547.15 808.62 528.38 808.62 L265.62 808.62 Q 246.85 808.62 246.85 789.85 L246.85 470.77 C 246.85 419.15, 303.15 395.69, 368.85 386.31 Z" fill="#F3EDE0" stroke="#C9C0AC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M254.35 611.54 Q 397 564.62 539.65 611.54" fill="none" stroke="#C9C0AC" stroke-width="1.8" stroke-dasharray="6 4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="537.77" y="598.03" font-size="12" fill="#6B8084" font-weight="600" text-anchor="end">橫膈</text>
+<path d="M397 341.26 L397 564.62 L387.62 611.54" fill="none" stroke="#D9D2C2" stroke-width="15.02" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M397 494.23 L397 550.54" fill="none" stroke="#B04A4A" stroke-width="15.02" opacity="0.8" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="410.14" y="527.08" font-size="13" fill="#B04A4A" font-weight="800">腫瘤（中下段）</text>
+<circle cx="387.62" cy="609.66" r="10.32" fill="#B9AF98"/>
+<text x="402.63" y="616.42" font-size="13" fill="#7A6E58" font-weight="700">下食道括約肌</text>
+<path d="M376.35 611.54 C 321.92 639.69, 293.77 705.38, 350.08 742.92 C 397 771.08, 462.69 742.92, 490.85 705.38 C 500.23 686.62, 443.92 649.08, 398.88 611.54 Z" fill="#E7DFCF" stroke="#B9AF98" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="373.54" y="705.38" font-size="13" fill="#7A6E58" font-weight="700" text-anchor="middle">胃（完整袋子）</text>
+<circle cx="490.85" cy="703.51" r="8.45" fill="#B9AF98"/>
+<text x="502.11" y="710.26" font-size="13" fill="#7A6E58" font-weight="700">幽門</text>
+<path d="M496.48 709.14 C 528.38 724.15, 528.38 771.08, 490.85 780.46" fill="none" stroke="#DED6C4" stroke-width="8.45" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M384.8 423.85 L375.42 607.78" fill="none" stroke="#96790F" stroke-width="1.5" stroke-dasharray="3 3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M409.2 423.85 L399.82 607.78" fill="none" stroke="#96790F" stroke-width="1.5" stroke-dasharray="3 3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="359.46" y="461.38" font-size="12" fill="#96790F" font-weight="700" text-anchor="end">迷走神經</text>
+<line x1="434.54" y1="367.54" x2="434.54" y2="461.38" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434.54" y1="461.38" x2="438.62" y2="452.25" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="434.54" y1="461.38" x2="430.46" y2="452.25" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<text x="443.92" y="414.46" font-size="13" fill="#5C77C4" font-weight="800">食物往下</text>
+<text x="397" y="335.88" font-size="13" fill="#345963"></text>
+<g filter="url(#sh)"><rect x="730" y="268" width="626" height="560" rx="18" fill="#FFFFFF"/></g>
+<rect x="752" y="290" width="228.27" height="30" rx="15" fill="#00806B"/>
+<text x="866.13" y="310.22" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">術後（食道切除＋胃管重建）</text>
+<path d="M1014.85 339.38 L1071.15 339.38 L1071.15 386.31 C 1136.85 395.69, 1193.15 419.15, 1193.15 470.77 L1193.15 789.85 Q 1193.15 808.62 1174.38 808.62 L911.62 808.62 Q 892.85 808.62 892.85 789.85 L892.85 470.77 C 892.85 419.15, 949.15 395.69, 1014.85 386.31 Z" fill="#F3EDE0" stroke="#C9C0AC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M900.35 611.54 Q 1043 564.62 1185.65 611.54" fill="none" stroke="#C9C0AC" stroke-width="1.8" stroke-dasharray="6 4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1183.77" y="598.03" font-size="12" fill="#6B8084" font-weight="600" text-anchor="end">橫膈</text>
+<path d="M1043 341.26 L1043 419.15" fill="none" stroke="#D9D2C2" stroke-width="15.02" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M1043 419.15 L1043 611.54 C 1043 649.08, 1071.15 663.15, 1108.69 658.46" fill="none" stroke="#E7DFCF" stroke-width="24.4" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M1043 419.15 L1043 611.54 C 1043 649.08, 1071.15 663.15, 1108.69 658.46" fill="none" stroke="#B9AF98" stroke-width="27.4" opacity="0.35" stroke-linecap="butt" stroke-linejoin="round"/>
+<circle cx="1043" cy="419.15" r="14.08" fill="none" stroke="#B04A4A" stroke-width="3"/>
+<text x="1063.65" y="419.34" font-size="13" fill="#B04A4A" font-weight="800">吻合口</text>
+<text x="1063.65" y="436.89" font-size="12" fill="#B04A4A" font-weight="600">胸內（Ivor Lewis）或頸部（McKeown）</text>
+<text x="1058.02" y="508.31" font-size="13" fill="#7A6E58" font-weight="700">胃被拉進胸腔，做成一條管子</text>
+<text x="1058.02" y="525.86" font-size="12" fill="#7A6E58" font-weight="600">沒有括約肌、容量變小</text>
+<circle cx="1110.57" cy="658.46" r="8.45" fill="#B9AF98"/>
+<text x="1123.71" y="665.22" font-size="13" fill="#7A6E58" font-weight="700">幽門（靠近橫膈）</text>
+<path d="M1116.2 664.09 C 1155.62 677.23, 1155.62 733.54, 1118.08 742.92" fill="none" stroke="#DED6C4" stroke-width="8.45" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1030.8 358.15 L1030.8 409.77" fill="none" stroke="#96790F" stroke-width="1.5" stroke-dasharray="3 3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="1025.17" y1="412.58" x2="1036.43" y2="423.85" stroke="#96790F" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1036.43" y1="412.58" x2="1025.17" y2="423.85" stroke="#96790F" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M1055.2 358.15 L1055.2 409.77" fill="none" stroke="#96790F" stroke-width="1.5" stroke-dasharray="3 3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="1049.57" y1="412.58" x2="1060.83" y2="423.85" stroke="#96790F" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="1060.83" y1="412.58" x2="1049.57" y2="423.85" stroke="#96790F" stroke-width="1.8" stroke-linecap="round"/>
+<text x="1005.46" y="386.31" font-size="12" fill="#96790F" font-weight="700" text-anchor="end">迷走神經切斷</text>
+<line x1="1005.46" y1="442.62" x2="1005.46" y2="639.69" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1005.46" y1="639.69" x2="1009.54" y2="630.56" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1005.46" y1="639.69" x2="1001.38" y2="630.56" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<text x="996.08" y="545.85" font-size="13" fill="#5C77C4" font-weight="800" text-anchor="end">食物走管狀胃</text>
+<text x="996.08" y="563.4" font-size="12" fill="#5C77C4" font-weight="600" text-anchor="end">靠重力，容易逆流</text>
+<text x="967.92" y="724.15" font-size="12" fill="#6B8084" font-weight="600" text-anchor="middle">原本放胃的位置空了</text>
+<g filter="url(#sh)"><rect x="84" y="846" width="412" height="208.76" rx="18" fill="#FFFFFF"/></g>
+<rect x="106" y="868" width="73.98" height="23.62" rx="11.81" fill="#96790F"/>
+<text x="142.99" y="884.67" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">少量多餐</text>
+<circle cx="110" cy="912.5" r="3" fill="#96790F"/>
+<text x="120" y="917.05" font-size="13" fill="#345963">胃變成一條管子、容量變小，一次吃不了原本的量。</text>
+<circle cx="110" cy="938.96" r="3" fill="#96790F"/>
+<text x="120" y="943.51" font-size="13" fill="#345963">瑞典全國世代（n=226）：術後 6 個月 63.7% 體重掉 &gt;10%、</text>
+<text x="120" y="961.97" font-size="13" fill="#345963">20.4% 掉 &gt;20%；體重可持續掉到 3 年。</text>
+<circle cx="110" cy="983.88" r="3" fill="#96790F"/>
+<text x="120" y="988.43" font-size="13" fill="#345963">延遲性胃排空：早期 15.9%、晚期 9.4%（125 篇統合）；幽</text>
+<text x="120" y="1006.89" font-size="13" fill="#345963">門處置各院不同、證據不站邊。</text>
+<g filter="url(#sh)"><rect x="514" y="846" width="412" height="208.76" rx="18" fill="#FFFFFF"/></g>
+<rect x="536" y="868" width="87.75" height="23.62" rx="11.81" fill="#5C77C4"/>
+<text x="579.88" y="884.67" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">傾倒症候群</text>
+<circle cx="540" cy="912.5" r="3" fill="#5C77C4"/>
+<text x="550" y="917.05" font-size="13" fill="#345963">食物太快進小腸：早期（30 分內）心悸、冒汗、想躺下；晚</text>
+<text x="550" y="935.51" font-size="13" fill="#345963">期（1–3 小時）低血糖。</text>
+<circle cx="540" cy="957.42" r="3" fill="#5C77C4"/>
+<text x="550" y="961.97" font-size="13" fill="#345963">多常見看定義：顯著症狀 11%（瑞典 n=384，1 年）；問卷式</text>
+<text x="550" y="980.43" font-size="13" fill="#345963">問到 67–78%。</text>
+<circle cx="540" cy="1002.34" r="3" fill="#5C77C4"/>
+<text x="550" y="1006.89" font-size="13" fill="#345963">國際共識：飲食調整是第一步（少量多餐、固液分開、少單純</text>
+<text x="550" y="1025.35" font-size="13" fill="#345963">糖）；晚期傾倒可用 acarbose。</text>
+<g filter="url(#sh)"><rect x="944" y="846" width="412" height="208.76" rx="18" fill="#FFFFFF"/></g>
+<rect x="966" y="868" width="87.75" height="23.62" rx="11.81" fill="#B04A4A"/>
+<text x="1009.88" y="884.67" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">逆流與夜咳</text>
+<circle cx="970" cy="912.5" r="3" fill="#B04A4A"/>
+<text x="980" y="917.05" font-size="13" fill="#345963">下食道括約肌沒了、胃在胸腔——躺平就容易回流。</text>
+<circle cx="970" cy="938.96" r="3" fill="#B04A4A"/>
+<text x="980" y="943.51" font-size="13" fill="#345963">瑞典世代（n=241，1 年）：27% 嚴重逆流；有逆流者睡眠障</text>
+<text x="980" y="961.97" font-size="13" fill="#345963">礙 OR 2.3。殘存食道黏膜損傷 5 年 55%（德國 n=50，常規</text>
+<text x="980" y="980.43" font-size="13" fill="#345963">PPI 下）。</text>
+<circle cx="970" cy="1002.34" r="3" fill="#B04A4A"/>
+<text x="980" y="1006.89" font-size="13" fill="#345963">墊高上半身、餐後不平躺是門診慣例——沒有食道切除術後的</text>
+<text x="980" y="1025.35" font-size="13" fill="#345963">對照研究，所以不標公分數。</text>
+<text x="84" y="1080.76" font-size="14" fill="#6B8084" font-weight="600">晚期傾倒的低血糖可能昏厥——有這種症狀要回診，不要自行斷食。體重掉超過一成、吞嚥又變差，先排除狹窄與復發，不要只當「吃太少」。</text>
+<text x="84" y="1127.06" font-size="16" fill="#6B8084">示意圖，依 Martin 2007／2009（瑞典體重世代）、Lin 2025（傾倒統合）、Lagergren 2026（瑞典傾倒世代）、Scarpellini 2020（傾倒國際共識）、Lagergren 2021（瑞典逆</text>
+<text x="84" y="1151.06" font-size="16" fill="#6B8084">流世代）、Fuchs 2018（Ivor Lewis 術後內視鏡世代 n=50）與 Sivakumar 2025（延遲排空統合 125 篇）重繪｜術式、吻合位置與幽門處置依外科醫師與各院慣例而異，數字來</text>
+<text x="84" y="1175.06" font-size="16" fill="#6B8084">自不同世代、不可直接互比</text>
+  </g>
+</svg>

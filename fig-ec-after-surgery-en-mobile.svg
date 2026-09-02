@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="2101" viewBox="0 0 620 2101" role="img" aria-labelledby="t d">
+  <title id="t">Before and after surgery: where the stomach goes, where food goes</title>
+  <desc id="d">Schematic anatomy before and after oesophagectomy. Left, before: the oesophagus runs from the neck through the chest, through the diaphragm to an intact stomach in the abdomen; the lower oesophageal sphincter sits at the diaphragm, the pylorus at the lower right of the stomach leads to the duodenum, the vagus nerves run along the oesophagus and food goes down; a tumour is marked in the mid-to-lower oesophagus. Right, after: the mid-to-lower oesophagus with the tumour has been removed, leaving a short remnant in the neck and upper chest; the stomach has been made into a tube and pulled into the chest, joined to the remnant either in the chest (Ivor Lewis) or in the neck (McKeown); there is no sphincter and capacity is smaller; the pylorus now sits near the diaphragm; the vagus nerves are cut; food travels down the conduit by gravity and reflux is easy; the space where the stomach used to sit is empty. Three boxes below. Small frequent meals: in a Swedish cohort (n=226), 63.7% had lost more than 10% of weight and 20.4% more than 20% at 6 months, and weight can keep falling for 3 years; delayed gastric emptying early 15.9% and late 9.4%, with the evidence on pyloric procedures taking no side. Dumping syndrome: early palpitations and sweating within 30 minutes, late hypoglycaemia at 1–3 hours; significant symptoms 11% (Sweden, n=384, 1 year), 67–78% by questionnaire; dietary change first, acarbose for late dumping. Reflux and night cough: 27% severe reflux in a Swedish cohort (n=241, 1 year), sleep disturbance OR 2.3; remnant oesophageal mucosal injury 55% at 5 years (Germany, n=50); raising the upper body and not lying down after meals is clinic routine, with no controlled study and no centimetres given.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="2101" rx="30" fill="url(#bg)"/>
+  <g class="z">
+<text x="44" y="62" font-size="14" fill="#A98722" font-weight="800" letter-spacing="3.5px">ANATOMY BEFORE AND AFTER OESOPHAGECTOMY</text>
+<text x="44" y="112" font-size="30" fill="#123641" font-weight="800" class="r">Before and after surgery: where</text>
+<text x="44" y="152" font-size="30" fill="#123641" font-weight="800" class="r">the stomach goes, where food goes</text>
+<text x="44" y="194" font-size="14.5" fill="#527078">Surgery removes a segment of oesophagus with its lymph nodes; the</text>
+<text x="44" y="216" font-size="14.5" fill="#527078">stomach is made into a tube, pulled into the chest and joined on. Small</text>
+<text x="44" y="238" font-size="14.5" fill="#527078">frequent meals, dumping and reflux all follow from this picture.</text>
+<text x="44" y="260" font-size="14.5" fill="#527078">Schematic; the operation and the anastomosis site depend on your surgeon.</text>
+<g filter="url(#sh)"><rect x="44" y="294" width="532" height="460" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="312" width="138.22" height="30" rx="15" fill="#9A9282"/>
+<text x="131.11" y="331.68" font-size="13" fill="#FFFFFF" font-weight="800" text-anchor="middle">Before surgery</text>
+<path d="M287.38 359.54 L332.62 359.54 L332.62 397.23 C 385.38 404.77, 430.62 423.62, 430.62 465.08 L430.62 721.38 Q 430.62 736.46 415.54 736.46 L204.46 736.46 Q 189.38 736.46 189.38 721.38 L189.38 465.08 C 189.38 423.62, 234.62 404.77, 287.38 397.23 Z" fill="#F3EDE0" stroke="#C9C0AC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M195.42 578.15 Q 310 540.46 424.58 578.15" fill="none" stroke="#C9C0AC" stroke-width="1.8" stroke-dasharray="6 4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="423.08" y="566.12" font-size="11" fill="#6B8084" font-weight="600" text-anchor="end">Diaphragm</text>
+<path d="M310 361.05 L310 540.46 L302.46 578.15" fill="none" stroke="#D9D2C2" stroke-width="12.06" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M310 483.92 L310 529.15" fill="none" stroke="#B04A4A" stroke-width="12.06" opacity="0.8" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="320.55" y="510.31" font-size="12" fill="#B04A4A" font-weight="800">Tumour (mid/lower)</text>
+<circle cx="302.46" cy="576.65" r="8.29" fill="#B9AF98"/>
+<text x="314.52" y="582.66" font-size="12" fill="#7A6E58" font-weight="700">Lower oesophageal sphincter</text>
+<path d="M293.42 578.15 C 249.69 600.77, 227.08 653.54, 272.31 683.69 C 310 706.31, 362.77 683.69, 385.38 653.54 C 392.92 638.46, 347.69 608.31, 311.51 578.15 Z" fill="#E7DFCF" stroke="#B9AF98" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="291.15" y="653.54" font-size="12" fill="#7A6E58" font-weight="700" text-anchor="middle">Stomach (whole bag)</text>
+<circle cx="385.38" cy="652.03" r="6.78" fill="#B9AF98"/>
+<text x="394.43" y="658.05" font-size="12" fill="#7A6E58" font-weight="700">Pylorus</text>
+<path d="M389.91 656.55 C 415.54 668.62, 415.54 706.31, 385.38 713.85" fill="none" stroke="#DED6C4" stroke-width="6.78" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300.2 427.38 L292.66 575.14" fill="none" stroke="#96790F" stroke-width="1.5" stroke-dasharray="3 3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M319.8 427.38 L312.26 575.14" fill="none" stroke="#96790F" stroke-width="1.5" stroke-dasharray="3 3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="279.85" y="457.54" font-size="11" fill="#96790F" font-weight="700" text-anchor="end">Vagus nerves</text>
+<line x1="340.15" y1="382.15" x2="340.15" y2="457.54" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="340.15" y1="457.54" x2="344.23" y2="448.41" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="340.15" y1="457.54" x2="336.08" y2="448.41" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<text x="347.69" y="419.85" font-size="12" fill="#5C77C4" font-weight="800">Food goes down</text>
+<text x="310" y="357.51" font-size="12" fill="#345963"></text>
+<g filter="url(#sh)"><rect x="44" y="770" width="532" height="460" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="788" width="372.15" height="30" rx="15" fill="#00806B"/>
+<text x="248.07" y="807.68" font-size="13" fill="#FFFFFF" font-weight="800" text-anchor="middle">After surgery (oesophagectomy + gastric conduit)</text>
+<path d="M287.38 835.54 L332.62 835.54 L332.62 873.23 C 385.38 880.77, 430.62 899.62, 430.62 941.08 L430.62 1197.38 Q 430.62 1212.46 415.54 1212.46 L204.46 1212.46 Q 189.38 1212.46 189.38 1197.38 L189.38 941.08 C 189.38 899.62, 234.62 880.77, 287.38 873.23 Z" fill="#F3EDE0" stroke="#C9C0AC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M195.42 1054.15 Q 310 1016.46 424.58 1054.15" fill="none" stroke="#C9C0AC" stroke-width="1.8" stroke-dasharray="6 4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="423.08" y="1042.12" font-size="11" fill="#6B8084" font-weight="600" text-anchor="end">Diaphragm</text>
+<path d="M310 837.05 L310 899.62" fill="none" stroke="#D9D2C2" stroke-width="12.06" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M310 899.62 L310 1054.15 C 310 1084.31, 332.62 1095.62, 362.77 1091.85" fill="none" stroke="#E7DFCF" stroke-width="19.6" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M310 899.62 L310 1054.15 C 310 1084.31, 332.62 1095.62, 362.77 1091.85" fill="none" stroke="#B9AF98" stroke-width="22.6" opacity="0.35" stroke-linecap="butt" stroke-linejoin="round"/>
+<circle cx="310" cy="899.62" r="11.31" fill="none" stroke="#B04A4A" stroke-width="3"/>
+<text x="326.58" y="900.35" font-size="12" fill="#B04A4A" font-weight="800">Anastomosis</text>
+<text x="326.58" y="916.55" font-size="11" fill="#B04A4A" font-weight="600">intrathoracic (Ivor Lewis) or cervical (McKeown)</text>
+<text x="322.06" y="971.23" font-size="12" fill="#7A6E58" font-weight="700">Stomach pulled into the chest as a tube</text>
+<text x="322.06" y="987.43" font-size="11" fill="#7A6E58" font-weight="600">No sphincter; smaller capacity</text>
+<circle cx="364.28" cy="1091.85" r="6.78" fill="#B9AF98"/>
+<text x="374.83" y="1097.86" font-size="12" fill="#7A6E58" font-weight="700">Pylorus (near the diaphragm)</text>
+<path d="M368.8 1096.37 C 400.46 1106.92, 400.46 1152.15, 370.31 1159.69" fill="none" stroke="#DED6C4" stroke-width="6.78" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300.2 850.62 L300.2 892.08" fill="none" stroke="#96790F" stroke-width="1.5" stroke-dasharray="3 3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="295.68" y1="894.34" x2="304.72" y2="903.38" stroke="#96790F" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="304.72" y1="894.34" x2="295.68" y2="903.38" stroke="#96790F" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M319.8 850.62 L319.8 892.08" fill="none" stroke="#96790F" stroke-width="1.5" stroke-dasharray="3 3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="315.28" y1="894.34" x2="324.32" y2="903.38" stroke="#96790F" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="324.32" y1="894.34" x2="315.28" y2="903.38" stroke="#96790F" stroke-width="1.8" stroke-linecap="round"/>
+<text x="279.85" y="873.23" font-size="11" fill="#96790F" font-weight="700" text-anchor="end">Vagus nerves cut</text>
+<line x1="279.85" y1="918.46" x2="279.85" y2="1076.77" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="279.85" y1="1076.77" x2="283.92" y2="1067.64" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="279.85" y1="1076.77" x2="275.77" y2="1067.64" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<text x="272.31" y="1001.38" font-size="12" fill="#5C77C4" font-weight="800" text-anchor="end">Food travels down the conduit</text>
+<text x="272.31" y="1017.58" font-size="11" fill="#5C77C4" font-weight="600" text-anchor="end">by gravity — reflux is easy</text>
+<text x="249.69" y="1144.62" font-size="11" fill="#6B8084" font-weight="600" text-anchor="middle">Where the stomach used to sit is empty</text>
+<g filter="url(#sh)"><rect x="44" y="1248" width="532" height="192.24" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="1266" width="154.78" height="21.88" rx="10.94" fill="#96790F"/>
+<text x="139.39" y="1281.44" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Small, frequent meals</text>
+<circle cx="66" cy="1310" r="3" fill="#96790F"/>
+<text x="76" y="1314.2" font-size="12" fill="#345963">The stomach is now a tube with a smaller capacity — you cannot eat the old</text>
+<text x="76" y="1331.24" font-size="12" fill="#345963">portion at once.</text>
+<circle cx="66" cy="1352.08" r="3" fill="#96790F"/>
+<text x="76" y="1356.28" font-size="12" fill="#345963">Swedish national cohort (n=226): at 6 months 63.7% had lost &gt;10% of weight and</text>
+<text x="76" y="1373.32" font-size="12" fill="#345963">20.4% &gt;20%; weight can keep falling for 3 years.</text>
+<circle cx="66" cy="1394.16" r="3" fill="#96790F"/>
+<text x="76" y="1398.36" font-size="12" fill="#345963">Delayed gastric emptying: early 15.9%, late 9.4% (meta-analysis of 125 studies);</text>
+<text x="76" y="1415.4" font-size="12" fill="#345963">pyloric procedures vary by hospital and the evidence takes no side.</text>
+<g filter="url(#sh)"><rect x="44" y="1452.24" width="532" height="192.24" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="1470.24" width="132.88" height="21.88" rx="10.94" fill="#5C77C4"/>
+<text x="128.44" y="1485.68" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Dumping syndrome</text>
+<circle cx="66" cy="1514.24" r="3" fill="#5C77C4"/>
+<text x="76" y="1518.44" font-size="12" fill="#345963">Food enters the small bowel too fast: early (within 30 minutes) palpitations,</text>
+<text x="76" y="1535.48" font-size="12" fill="#345963">sweating, needing to lie down; late (1–3 hours) hypoglycaemia.</text>
+<circle cx="66" cy="1556.32" r="3" fill="#5C77C4"/>
+<text x="76" y="1560.52" font-size="12" fill="#345963">How common depends on the definition: significant symptoms 11% (Sweden, n=384,</text>
+<text x="76" y="1577.56" font-size="12" fill="#345963">1 year); questionnaire-based 67–78%.</text>
+<circle cx="66" cy="1598.4" r="3" fill="#5C77C4"/>
+<text x="76" y="1602.6" font-size="12" fill="#345963">International consensus: dietary change first (small meals, separate solids and</text>
+<text x="76" y="1619.64" font-size="12" fill="#345963">liquids, less simple sugar); acarbose for late dumping.</text>
+<g filter="url(#sh)"><rect x="44" y="1656.48" width="532" height="209.28" rx="18" fill="#FFFFFF"/></g>
+<rect x="62" y="1674.48" width="158.91" height="21.88" rx="10.94" fill="#B04A4A"/>
+<text x="141.45" y="1689.92" font-size="12.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Reflux and night cough</text>
+<circle cx="66" cy="1718.48" r="3" fill="#B04A4A"/>
+<text x="76" y="1722.68" font-size="12" fill="#345963">No lower oesophageal sphincter and the stomach sits in the chest — lying flat</text>
+<text x="76" y="1739.72" font-size="12" fill="#345963">invites reflux.</text>
+<circle cx="66" cy="1760.56" r="3" fill="#B04A4A"/>
+<text x="76" y="1764.76" font-size="12" fill="#345963">Swedish cohort (n=241, 1 year): 27% severe reflux; reflux raised sleep</text>
+<text x="76" y="1781.8" font-size="12" fill="#345963">disturbance OR 2.3. Remnant oesophageal mucosal injury 55% at 5 years (Germany,</text>
+<text x="76" y="1798.84" font-size="12" fill="#345963">n=50, on routine PPI).</text>
+<circle cx="66" cy="1819.68" r="3" fill="#B04A4A"/>
+<text x="76" y="1823.88" font-size="12" fill="#345963">Raising the upper body and not lying down after meals is clinic routine — there is</text>
+<text x="76" y="1840.92" font-size="12" fill="#345963">no controlled study after oesophagectomy, so no centimetres are given.</text>
+<text x="44" y="1890.26" font-size="12.5" fill="#6B8084" font-weight="600">Late-dumping hypoglycaemia can cause fainting — report it rather than fasting on your</text>
+<text x="44" y="1908.38" font-size="12.5" fill="#6B8084" font-weight="600">own. If you lose more than a tenth of your weight and swallowing worsens again, rule</text>
+<text x="44" y="1926.51" font-size="12.5" fill="#6B8084" font-weight="600">out stricture and recurrence first; do not assume 'just eating too little'.</text>
+<text x="44" y="1966.63" font-size="12" fill="#6B8084">Schematic, redrawn from Martin 2007/2009 (Swedish weight cohort), Lin 2025 (dumping</text>
+<text x="44" y="1984.63" font-size="12" fill="#6B8084">meta-analysis), Lagergren 2026 (Swedish dumping cohort), Scarpellini 2020 (international</text>
+<text x="44" y="2002.63" font-size="12" fill="#6B8084">dumping consensus), Lagergren 2021 (Swedish reflux cohort), Fuchs 2018 (post-Ivor</text>
+<text x="44" y="2020.63" font-size="12" fill="#6B8084">Lewis endoscopic cohort, n=50) and Sivakumar 2025 (delayed-emptying meta-analysis, 125</text>
+<text x="44" y="2038.63" font-size="12" fill="#6B8084">studies) | the operation, anastomosis site and pyloric management vary by surgeon and</text>
+<text x="44" y="2056.64" font-size="12" fill="#6B8084">hospital; numbers come from different cohorts and are not directly comparable</text>
+  </g>
+</svg>
