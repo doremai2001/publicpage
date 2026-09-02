@@ -1,0 +1,104 @@
+{
+ "ec-two-diseases": {
+  "title": "Squamous and adenocarcinoma are two different diseases",
+  "dek": "Over 90% of oesophageal cancer in Taiwan is squamous cell carcinoma, and adenocarcinoma takes a different treatment road. This article separates the two diseases' origins, risk factors and default treatments.",
+  "lead": "This is written for two readers at once: the squamous cell carcinoma patient, who is the great majority and will find answers in the dozen articles that follow, and the adenocarcinoma patient, who is few in number but will take a wrong turn by following the squamous map. Work out which one you are before reading on.",
+  "note": "The histology line on your pathology report decides how you read this topic. Squamous patients, go on to the staging-tests article; adenocarcinoma patients, take ESMO 2025's [I, A] sentence to clinic and ask whether FLOT or chemoradiotherapy is being arranged, and why. The three phone numbers for tobacco, alcohol and betel quid can be dialled today."
+ },
+ "ec-workup": {
+  "title": "The tests that decide whether surgery is possible",
+  "dek": "Which question endoscopic ultrasound, CT, PET and bronchoscopy each answer, how accurate each is, and which findings turn the treatment route sharply.",
+  "lead": "\"Can I have the operation\" has no answer on the day of diagnosis; the answer lies in the tests that follow, and every one of them misses something — knowing where each misses matters more than knowing how accurate it is. Fitness and your own wishes are a further layer of decision, outside the tests altogether.",
+  "note": "At the visit when all the results are back, bring four questions: how deep, where the nodes are, whether there is distant spread, and how close the tumour is to the trachea. If a tumour in the upper or middle oesophagus has not been scheduled for bronchoscopy with biopsy, ask why. If your weight drops by more than 10% while waiting for tests, do not wait — raise it at that visit."
+ },
+ "ec-treatment-map": {
+  "title": "The oesophageal cancer treatment map: which box are you in",
+  "dek": "From endoscopic resection to systemic treatment after spread, every oesophageal cancer treatment option on one map, each box pointing to the article that holds the detail.",
+  "lead": "The map is drawn only once. It does not choose your road for you; it lets you know, when you hear the words \"chemoradiotherapy\", \"surgery\" or \"immunotherapy\", which box you are standing in, how many roads lead out of it, and which article holds the evidence for each. The other articles each speak only for their own box.",
+  "note": "Your box moves with your test results, and every time an important test comes back this map is worth another look. At your next visit ask your doctor to point to your box, say how many roads it has, and name the one he or she recommends and why; if you are in box three, add the question of who decides on surgery after chemoradiotherapy, and when."
+ },
+ "ec-surgery-or-watch": {
+  "title": "After chemoradiotherapy, do you still need surgery",
+  "dek": "Of people whose imaging and biopsies are both clean, about two-thirds still have residual tumour in the oesophagus; what the active surveillance trials have read out and what is still missing, with the evidence for both directions laid side by side.",
+  "lead": "This article will displease people on both sides: those hoping to hear \"a good response means no operation\" will read the numbers on missed disease; those convinced \"no operation means giving up\" will read the randomised trials in which adding surgery did not add survival. I attach the literature for both sides so you can take it for a second opinion.",
+  "note": "Do not make this decision in a single specialty's clinic. Take the five papers at the end and have the surgeon, the gastroenterologist and the radiation oncologist each speak over your biopsies and imaging; and ask which biopsy method was used to assess your response. If you are considering not operating, know first how follow-up would be scheduled and the conditions and risks of salvage surgery."
+ },
+ "ec-crt-dose": {
+  "title": "Radiation dose: why higher is not better",
+  "dek": "Five randomised trials pushed the dose from 50 Gy up to 60 and 66 Gy, and not one bought better control; in the end this question comes back round to \"don't interrupt\".",
+  "lead": "Same cell type, 10 to 16 Gy more, and no more control in return — the United States, the Netherlands, France and China each tested it once, and Japan moved its own standard back from 60 Gy to 50.4. This article lines up each trial's population, regimen and direction of result, then turns to chemotherapy combinations and interruptions.",
+  "note": "If your prescription is above 50.4 Gy there is no need to panic, but you can ask for the reason — tumour position and preserving the option of surgery are both legitimate answers. When you want to rest during the two most painful weeks of oesophagitis, ring radiation oncology first; do not simply fail to turn up. We have ways of making sessions up; nobody can make up the ones you skip."
+ },
+ "ec-immunotherapy": {
+  "title": "Who does immunotherapy actually help",
+  "dek": "Evidence exists in only three situations: residual tumour after surgery, first-line metastatic disease stratified by PD-L1, and chemoradiotherapy plus immunotherapy, where most trials were negative. The NHI clauses are attached word for word.",
+  "lead": "The same drug is a randomised-trial-backed standard in one situation and, in another, a hypothesis that three phase III trials have failed to confirm. This article puts CheckMate 577, KEYNOTE-590, CheckMate 648 and the three chemoradiotherapy-plus-immunotherapy trials back into their own situations, then pastes in the NHI text.",
+  "note": "Before asking about immunotherapy, find two reports: the \"treatment response\" line on the postoperative pathology, and the PD-L1 stain's number and system. Take them and ask: which situation am I in, which side of the NHI threshold is my PD-L1 on, and if this is self-pay, which trial is it based on. Working out which of the three situations you are in is more useful than asking \"can I have it\"."
+ },
+ "ec-surgery": {
+  "title": "What surgery removes, and where the stomach goes",
+  "dek": "The randomised trials on operation type, anastomosis site, minimally invasive and robotic surgery, plus the real leak rates and 90-day mortality from the large registries — my surgical colleagues' operation, explained clearly.",
+  "lead": "Join in the chest or the neck, open or thoracoscopic, clear the neck nodes or not — each has randomised data; a leak rate above 10% and 90-day mortality of 4.5% are high-volume-centre figures. This article lines them up so that when the surgeon explains, you know what each term is asking.",
+  "note": "Losing more than 10% of body weight and still smoking in the year before surgery are independent variables for surgical death in the registry data — the only two things you can change yourself before the operation. Before the discussion, write down four questions: anastomosis site, surgical approach, that hospital's volume and complication rates, and how far I need to be brought into shape before going under the knife."
+ },
+ "ec-esd": {
+  "title": "Can endoscopy alone deal with an early lesion",
+  "dek": "Whether it can be the end point is decided by the depth and vascular invasion of the tissue that comes out: a metastasis ladder of 0.4%, 8.7% and 36%, and the second primary in head and neck cancer patients.",
+  "lead": "In early oesophageal squamous cell carcinoma, ESD is both the treatment and the most accurate staging tool: only by removing the whole piece and sectioning it layer by layer do you learn which layer the tumour reached. This article lays out the lines drawn by the European and Japanese guidelines, JCOG0508, ESD's own perforation and stricture rates, and the fact that 14% of Taiwan's head and neck cancer patients have a synchronous oesophageal cancer.",
+  "note": "On the day the pathology report is back, ask about four lines: depth, lymphovascular invasion, margins, differentiation. All four safe, and what follows is surveillance; any one crossing the muscularis mucosae, and you should ask for gastroenterology, thoracic surgery and radiation oncology to discuss it together. Head and neck cancer patients: if you have not yet had oesophageal endoscopic screening, that is the question for your next clinic visit."
+ },
+ "ec-proton": {
+  "title": "Protons for oesophageal cancer: the case and where the trials stand",
+  "dek": "Photon IMRT is already very good; protons are an engineering upgrade of the same prescription, the only randomised trial won on total side effects with survival the same, and phase III waits until 2031.",
+  "lead": "In the only completed randomised comparison, protons pushed the composite score \"total toxicity burden\" to less than half of photons', and three-year survival was exactly the same in both arms. That is the second of three sentences; the first is that photons are already very good, the third is that the survival answer lies in NRG-GI006. Adult proton therapy is entirely self-pay, and every number that can be found is here.",
+  "note": "Before asking about protons, ask your radiation oncologist to produce the photon IMRT plan and answer whether the lung and heart doses are brought down low enough. If they are, the low-dose region protons save means little for you; a large tumour, poor heart and lungs, or surgery after chemoradiotherapy is where that dose corresponds to the postoperative complications that differed most in the trial. Take the dose numbers and your heart and lung reports to the discussion."
+ },
+ "ec-feeding-tube": {
+  "title": "Can't swallow, weight falling: a feeding tube first?",
+  "dek": "A 10% weight loss is the threshold that starts the assessment, not an order to place a tube. Nasogastric tube, gastrostomy and jejunostomy each have their own place in the guidelines; this article lays them out on the medical side and the day-to-day side.",
+  "lead": "This article will not tell you which tube is better, because the guidelines do not rank them that way. It will tell you what question each tube is answering: how long you will need it, whether surgery is still ahead, who will look after it, when it comes out — and why a metal stent is not the answer before chemoradiotherapy.",
+  "note": "If you are already losing weight, bring your weight from three months ago to the next visit, not just today's. A tube is an option, not a sentence, and you keep swallowing after it goes in; which one suits you depends on how much of the lumen the tumour is blocking, whether surgery is still ahead, and who at home can look after it — three things we go through together in clinic."
+ },
+ "ec-esophagitis": {
+  "title": "Getting through radiation oesophagitis",
+  "dek": "Oesophagitis mostly arrives in weeks two and three, and the most painful days are exactly when you most want a break. Grading, pain relief, the evidence on preventive remedies — and when I will stop the treatment for you, and when you must not stop it yourself.",
+  "lead": "There is one section of this article I most want you to read to the end: pausing radiotherapy is a decision made after the doctor's assessment, with the missed sessions made up afterwards; you simply not coming in is an entirely different thing. The grading and pain relief that come before it are there to get you through without needing to stop.",
+  "note": "Do not save the painkiller for when you \"really can't take it any more\": when it hurts you cannot eat, and the less you eat the worse the oesophagitis gets. If you want time off or a few days' rest, ring the radiation oncology department first and let us assess and arrange it — do not just stay away. Unable to swallow even water, fever, severe chest pain: come back the same day."
+ },
+ "ec-warning-signs": {
+  "title": "When to come back the same day",
+  "dek": "Fistula, perforation, bleeding, febrile neutropenia, dehydration, complete inability to swallow — for each one, what you see, what it may be, and why it means today rather than the next appointment.",
+  "lead": "Several complications of oesophageal cancer treatment are counted in hours: a perforation treated within 24 hours against one left past a day carries a mortality that differs more than two-fold; the endoscopy for a complete obstruction has to happen within two to six hours. This article is for you and your family to print out and stick on the fridge.",
+  "note": "This article is not meant to frighten you; it is meant to take the hesitation over \"should I go back\" out of your home. Today, write your case manager's number, the emergency department's number and the names of your chemotherapy drugs on one sheet of paper, in a form your family can read. During chemotherapy, one ear or axillary reading of 38.0 means you go — do not wait for it to persist, and do not take an antipyretic before measuring."
+ },
+ "ec-before-start": {
+  "title": "Things to settle before treatment starts",
+  "dek": "Quitting alcohol, betel quid and tobacco; the dietitian; teeth; simulation; fitness training; mood; the catastrophic illness certificate; the family's jobs — what should be done between the treatment plan being settled and the first treatment.",
+  "lead": "For oesophageal squamous cell carcinoma patients in Taiwan, drinking is the strongest predictor of survival after stage, and the prospective evidence for quitting alcohol is firmer than for quitting smoking. I write quitting into the treatment plan, on the same sheet as the chemotherapy dates — not as a moral lesson, but as part of the course.",
+  "note": "You do not have to remember all eight items yourself — ask your case manager to turn them into your pre-treatment checklist and tick them off one by one. The smoking quitline 0800-636363 can be called today; most hospitals will submit the catastrophic illness certificate for you, and it has to be renewed when its five years run out. The four family jobs can be talked through sitting down together tonight."
+ },
+ "ec-eating-after": {
+  "title": "Eating after an oesophagectomy",
+  "dek": "Once the stomach has been pulled into the chest, how weight, dumping, reflux and gastric emptying each change; every number comes with its source, so you can tell what is expected from what needs a visit.",
+  "lead": "Many people assume discharge is where recovery begins; in fact the first six months after surgery are when weight falls hardest. This article does not tell you \"it stabilises after so many months\" — I could not find citable data for that — only what will happen, how to tell the events apart when they do, and when to come back.",
+  "note": "In the first three months after surgery, what I care about most is your weight, not how many mouthfuls you managed. Weigh yourself at home every morning before eating; if you lose more than 10%, or get palpitations and sweating within half an hour of a meal, or cold sweats and shaking hands one to three hours after, come back and see us. Bring your weight record and how the jejunostomy is being used to the next visit."
+ },
+ "ec-stricture-or-recurrence": {
+  "title": "Swallowing worse again: stricture or recurrence",
+  "dek": "How common anastomotic stricture after surgery and stricture after chemoradiotherapy are, and how many dilatations they take; how common recurrence is, and how to tell them apart — the conclusion being that neither side can be guessed, only biopsied.",
+  "lead": "Forty per cent of patients with a neck anastomosis will need dilatation, and 40 to 60% narrow after chemoradiotherapy too; but over the same period, people whose disease was never cleared or has recurred are not few either. This article is not about which is more likely; it is about which symptoms a stricture will not give you, and what endoscopy and PET can each answer.",
+  "note": "When swallowing gets worse again, the last thing I want to see is a patient deciding for himself \"it's probably just a narrowing\" and letting two months go by. Whichever side we guess, the next step is endoscopy with biopsy; before the visit, write down what gets stuck, since when, and whether there has been hoarseness or black stools, and bring your operation record."
+ },
+ "ec-followup": {
+  "title": "How follow-up is scheduled, and the second cancer people forget",
+  "dek": "The guideline itself admits there is no evidence that regular follow-up prolongs survival — so what are our reasons for scheduling it; plus the second cancer that oesophageal squamous cell carcinoma patients are so often not checked for: the head and neck.",
+  "lead": "After surgery, half of recurrences are found because the patient has symptoms, 45% by CT, and endoscopy catches only 1%; after chemoradiotherapy, by contrast, endoscopy with biopsy is due every three months. The two groups' follow-up should look different, and this article explains why — and why a tumour marker cannot serve as an alarm.",
+  "note": "The follow-up table is not a ritual. At every visit I need to know your weight, your swallowing and your mood; if you had definitive chemoradiotherapy, endoscopy with biopsy is closer together in the first two years; if you are a squamous cell carcinoma patient under 50, make sure the ENT throat examination is on the schedule. If you are still drinking, that is the one square you can change yourself — say so if you need help."
+ },
+ "ec-recurrence": {
+  "title": "After recurrence or spread, what roads remain",
+  "dek": "Salvage surgery, re-irradiation, local treatment for oligometastatic disease, immunotherapy with chemotherapy, stents and brachytherapy, early palliative care — the numbers and the NHI reimbursement conditions for every road laid out, including the ones that do not look good.",
+  "lead": "Salvage surgery: in-hospital mortality about one in ten, three-year survival about 40%; re-irradiation: five-year survival 15%; oligometastatic disease with local treatment: progression-free survival data only, so far; palliative radiotherapy with chemotherapy added: only more toxicity. These numbers are not there to make you give up; they are there so you know what each road is asking, and what it costs.",
+  "note": "After recurrence, two things worry me most: being dismissed with \"there is nothing more to do\", and being led by \"there are still many options\" into every treatment there is. Take this article's four questions to the clinic, and ask for the palliative team to come in early — that is not giving up, it is one more team looking after your symptoms."
+ }
+}

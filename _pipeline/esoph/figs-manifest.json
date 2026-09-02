@@ -1,0 +1,313 @@
+[
+ {
+  "id": "fig-ec-treatment-map",
+  "zh_alt": "示意圖：食道癌治療地圖，期別乘組織型態指向治療路徑。台灣鱗癌確診時第三加第四期合計 77.3%（癌登加健保資料庫 2008 到 2014 年、40 到 79 歲、n=7,763；鱗癌 96.6%、腺癌 3.4%）。鱗癌五格：第一格 cT1a 黏膜層，內視鏡切除；JES CQ6 若 pT1a-MM 有脈管侵犯或 pT1b，追加手術或化放療皆可、無法擇一。第二格 cStage I，食道切除或根治性化放療加密切追蹤與救援，JES CQ5 皆弱建議；台灣配對回溯臨床第一期兩組無差異。第三格 cStage II 到 III 可切除，三條路：術前化放療加手術（CROSS 10 年整體存活 38% 對 25%；NEOCRTEC5010 鱗癌 5 年 59.9% 對 49.1%）、術前化療加手術（日本 DCF，JES 強建議 A；JCOG1109 3 年 72.1% 對 62.6%）、根治性化放療加減救援手術（JCOG0909 單臂 5 年整體存活 64.5%、食道保留 54.9%；ESMO 註腳：不願或不適合手術者與頸段腫瘤首選）；ASCO 2020 寫 or、ESMO 2025 寫 equally effective；台灣鱗癌實際分布根治性化放療 54%、術前化放療加手術 26%、單純手術 20%。第四格 cT4b，根治性化放療（JES CQ12 弱建議、共識 100%），轉為可切除者手術弱證據。第五格轉移：全身治療、吞嚥緩和、臨床試驗與安寧並行；術後 nivolumab 只限切除標本仍有殘存腫瘤者。腺癌欄：周術期 FLOT 加手術 ESMO [I, A]；ESOPEC 3 年整體存活 57.4% 對 CROSS 50.7%，HR 0.70；不適合 FLOT 才考慮術前化放療 [I, C]。",
+  "en_alt": "Schematic treatment map for oesophageal cancer: stage by histology points to a road. Taiwan SCC at diagnosis: stages III plus IV 77.3% (registry plus NHI database 2008–2014, ages 40–79, n=7,763; SCC 96.6%, adenocarcinoma 3.4%). Five squamous boxes: box 1, cT1a mucosal disease, endoscopic resection; JES CQ6 says that for pT1a-MM with lymphovascular invasion or pT1b, additional surgery or chemoradiotherapy are both supported. Box 2, cStage I: oesophagectomy or definitive chemoradiotherapy with close follow-up and salvage, both weak JES recommendations; a matched Taiwan study found no difference in clinical stage I. Box 3, resectable cStage II–III, three roads: preoperative chemoradiotherapy plus surgery (CROSS 10-year overall survival 38% vs 25%; NEOCRTEC5010 SCC 5-year 59.9% vs 49.1%), preoperative chemotherapy plus surgery (Japanese DCF, JES strong recommendation A; JCOG1109 3-year 72.1% vs 62.6%), and definitive chemoradiotherapy with or without salvage surgery (JCOG0909 single arm, 5-year overall survival 64.5%, oesophagus preserved 54.9%; ESMO footnote: preferred for unwilling or unfit patients and cervical tumours); ASCO 2020 writes 'or', ESMO 2025 'equally effective'; actual Taiwan SCC distribution: definitive chemoradiotherapy 54%, preoperative chemoradiotherapy plus surgery 26%, surgery alone 20%. Box 4, cT4b: definitive chemoradiotherapy (JES CQ12 weak, consensus 100%); surgery if it becomes resectable has weak evidence. Box 5, metastatic: systemic therapy, palliation of swallowing, trials and palliative care in parallel; postoperative nivolumab only for residual tumour in the specimen. Adenocarcinoma column: perioperative FLOT plus surgery, ESMO [I, A]; ESOPEC 3-year overall survival 57.4% vs 50.7% with CROSS, HR 0.70; preoperative chemoradiotherapy only if unfit for FLOT [I, C].",
+  "zh_caption": "示意圖，依 JES 2022 指引、ESMO 2025 interim update、ASCO 2020 指引、CROSS（Eyck 2021）、NEOCRTEC5010（Yang 2021）、JCOG0909、ESOPEC（Hoeppner 2025）與台灣癌登資料庫研究重繪；各試驗族群、期別與終點不同，格與格之間的數字不可直接互比。",
+  "en_caption": "Schematic, redrawn from the JES 2022 guideline, the ESMO 2025 interim update, the ASCO 2020 guideline, CROSS (Eyck 2021), NEOCRTEC5010 (Yang 2021), JCOG0909, ESOPEC (Hoeppner 2025) and Taiwan Cancer Registry studies; cohorts, stages and endpoints differ between trials — numbers in different boxes are not directly comparable.",
+  "files": {
+   "desktop": "fig-ec-treatment-map.svg",
+   "mobile": "fig-ec-treatment-map-mobile.svg",
+   "en": "fig-ec-treatment-map-en.svg",
+   "en_mobile": "fig-ec-treatment-map-en-mobile.svg"
+  },
+  "used_by": [
+   "ec-treatment-map"
+  ],
+  "placement": {
+   "article": "ec-treatment-map",
+   "after_h4": "第三格：局部晚期可切除，三條被指引承認的路"
+  },
+  "sources": [
+   "A[S5] Chen 2022 (癌登期別分布)",
+   "A[S30] JES 2022 guideline part 1",
+   "A[S15] ESMO 2025 interim update",
+   "A[S32] ASCO 2020 (Shah)",
+   "A[S37] CROSS 10-year (Eyck 2021)",
+   "A[S41] NEOCRTEC5010 (Yang 2021)",
+   "A[S63]/A[S30] JCOG0909",
+   "A[S14] ESOPEC (Hoeppner 2025)",
+   "A[S16] Neo-AEGIS",
+   "A[S33] Taiwan registry 2008–2016 (54/26/20%)",
+   "A[S34] Taiwan registry cStage I"
+  ]
+ },
+ {
+  "id": "fig-ec-three-roads",
+  "zh_alt": "示意圖：化放療之後的三條路時間軸。第一條，三合一（CROSS，荷蘭 n=366，腺癌 75%、鱗癌 23%）：化放療 5 週（41.4 Gy 分 23 次加 carboplatin/paclitaxel 每週 5 次）→化放療結束後 6 到 8 週手術（院內死亡兩組皆 4%，R0 92% 對 69%）→病理 pCR 29%（鱗癌 49%、腺癌 23%）→中位追蹤 147 個月：10 年整體存活 38% 對單純手術 25%，HR 0.70；鱗癌次族群中位存活 81.6 對 21.1 個月（HR 0.48）；NEOCRTEC5010（鱗癌 n=451）5 年 59.9% 對 49.1%；兩個試驗都沒有不開刀那一臂。第二條，根治性化放療加救援（JCOG0909，日本 cStage II/III 鱗癌 n=94，單臂）：50.4 Gy（1.8 Gy 乘 28）加 cisplatin/5-FU→完全反應 59%→殘存或復發者救援 ESD 5%、救援手術 27%（R0 76%、G3 到 4 早期併發症 20%、1 例手術死亡）→5 年整體存活 64.5%、5 年食道保留 54.9%、3 年整體存活 74.2%。第三條，主動監測，標示「試驗中」（SANO，荷蘭 12 院，n=309 cCR，腺癌約四分之三、鱗癌約兩成，中位追蹤 38 個月）：化放療→4 到 6 週 bite-on-bite 切片→12 週 PET-CT 加切片加 EUS-FNA，cCR 37%（274/750）→監測，局部再生長 48% 轉延後手術、遠端轉移 17%→54 個月只有 25% 維持 cCR；2 年整體存活 74% 對 71% 非劣性成立（邊界 15%），中位 43 對 53 個月（HR 1.14 無統計差異），遠端轉移方向偏向手術組。下方三條警語：preSANO 一般切片漏 31%、bite-on-bite 加 FNA 仍漏 10%，鱗癌 preSINO 陰性預測值 68.7%，SANO 手術組 cCR 者 pT0 只有 35.6%；NEEDS（鱗癌，約 1,020 人）收案中、主要完成估 2026 年 12 月，ESOSTRATE 終止（188 人）；反向：Cochrane 加手術整體存活 HR 0.99、治療死亡 RR 5.11，計畫性食道切除 90 天死亡 4.5%、救援 9.5%。三條路族群不同，數字只能在各自那一列讀。",
+  "en_alt": "Schematic timeline of three roads after chemoradiotherapy. Road 1, trimodality (CROSS, the Netherlands, n=366, 75% adenocarcinoma, 23% SCC): 5 weeks of chemoradiotherapy (41.4 Gy in 23 fractions plus weekly carboplatin/paclitaxel ×5) → surgery 6–8 weeks after (in-hospital mortality 4% in both arms, R0 92% vs 69%) → pathology pCR 29% (SCC 49%, adenocarcinoma 23%) → median follow-up 147 months: 10-year overall survival 38% vs 25% with surgery alone, HR 0.70; SCC subgroup median survival 81.6 vs 21.1 months (HR 0.48); NEOCRTEC5010 (SCC, n=451) 5-year 59.9% vs 49.1%; neither trial had a no-surgery arm. Road 2, definitive chemoradiotherapy with salvage (JCOG0909, Japan, cStage II/III SCC, n=94, single arm): 50.4 Gy (1.8 Gy ×28) plus cisplatin/5-FU → complete response 59% → salvage ESD 5% and salvage surgery 27% for residual or recurrent disease (R0 76%, grade 3–4 early complications 20%, 1 operative death) → 5-year overall survival 64.5%, oesophagus preserved at 5 years 54.9%, 3-year overall survival 74.2%. Road 3, active surveillance, marked 'still in trials' (SANO, 12 Dutch hospitals, n=309 with cCR, about three-quarters adenocarcinoma and one-fifth SCC, median follow-up 38 months): chemoradiotherapy → bite-on-bite biopsies at 4–6 weeks → PET-CT plus biopsies plus EUS-FNA at 12 weeks, cCR 37% (274/750) → surveillance with local regrowth in 48% leading to delayed surgery and distant metastasis in 17% → only 25% still in cCR at 54 months; 2-year overall survival 74% vs 71%, non-inferiority met (margin 15%), median 43 vs 53 months (HR 1.14, not significant), distant metastasis trending towards the surgery arm. Three warnings underneath: in preSANO standard biopsies missed 31% and bite-on-bite plus FNA still missed 10%, the SCC preSINO negative predictive value was 68.7%, and only 35.6% of SANO surgery-arm cCR patients were pT0; NEEDS (SCC, about 1,020 patients) is recruiting with primary completion estimated December 2026 and ESOSTRATE was terminated (188 patients); in the other direction, Cochrane found adding surgery gave overall survival HR 0.99 with treatment-related death RR 5.11, and 90-day mortality is 4.5% after planned oesophagectomy and 9.5% after salvage. The three cohorts differ; read each row's numbers only within that row.",
+  "zh_caption": "示意圖，依 CROSS（van Hagen 2012、Shapiro 2015、Eyck 2021）、NEOCRTEC5010（Yang 2021）、JCOG0909（Takeuchi 2021）、SANO（van der Wilk 2025、Gangaram Panday 2026）、preSANO（Noordman 2018）、preSINO（Yang 2025）、Cochrane 2017、Esodata 與 ClinicalTrials.gov NEEDS／ESOSTRATE 登錄重繪；三條路的族群、設計、追蹤年限與終點不同，數字不可直接互比；主動監測目前只在試驗設計裡成立。",
+  "en_caption": "Schematic, redrawn from CROSS (van Hagen 2012, Shapiro 2015, Eyck 2021), NEOCRTEC5010 (Yang 2021), JCOG0909 (Takeuchi 2021), SANO (van der Wilk 2025, Gangaram Panday 2026), preSANO (Noordman 2018), preSINO (Yang 2025), Cochrane 2017, Esodata and the ClinicalTrials.gov NEEDS/ESOSTRATE records; the three roads differ in cohort, design, follow-up and endpoints — numbers are not directly comparable, and active surveillance so far exists only inside trial designs.",
+  "files": {
+   "desktop": "fig-ec-three-roads.svg",
+   "mobile": "fig-ec-three-roads-mobile.svg",
+   "en": "fig-ec-three-roads-en.svg",
+   "en_mobile": "fig-ec-three-roads-en-mobile.svg"
+  },
+  "used_by": [
+   "ec-surgery-or-watch"
+  ],
+  "placement": {
+   "article": "ec-surgery-or-watch",
+   "after_h4": "SANO 讀出了兩年非劣，要帶著標籤讀"
+  },
+  "sources": [
+   "A[S36] CROSS (van Hagen 2012)",
+   "A[S17] Shapiro 2015",
+   "A[S37] Eyck 2021",
+   "A[S61] pCR by histology (preSINO protocol citing CROSS)",
+   "A[S41] NEOCRTEC5010 (Yang 2021)",
+   "A[S63] JCOG0909 (Takeuchi 2021)",
+   "A[S30] JES 2022 (JCOG0909 final analysis)",
+   "A[S48] SANO design (Noordman 2018)",
+   "A[S49] SANO (van der Wilk 2025)",
+   "A[S52] SANO OA details",
+   "A[S51] Gangaram Panday 2026",
+   "A[S53] Housman 2025 (critical commentary)",
+   "A[S54] SANO authors' reply",
+   "A[S50] SANO HRQoL",
+   "A[S38] preSANO",
+   "A[S62] preSINO",
+   "A[S44] Cochrane 2017",
+   "A[S69] Esodata (Kuppusamy 2022)",
+   "A[S65] Markar 2014",
+   "A[S57] NEEDS NCT04460352",
+   "A[S58] ESOSTRATE NCT02551458",
+   "A[S59] SANO-2",
+   "A[S15] ESMO 2025 interim update"
+  ]
+ },
+ {
+  "id": "fig-ec-dose-trials",
+  "zh_alt": "示意圖：食道癌放療劑量升級試驗一覽，每列兩條桿代表兩臂劑量。起點 RTOG 85-01（n=121，鱗癌加腺癌）：50 Gy 加 cisplatin/5-FU 對 64 Gy 放療單獨，5 年存活 26% 對 0%，劑量較低那一臂活得久是因為多了化療，嚴重與致命副作用 44%／20% 對 25%／3%。INT 0123（218 可分析，鱗癌加腺癌，cisplatin/5-FU）：50.4 對 64.8 Gy，2 年整體存活 40% 對 31% 無顯著差異，局部失敗 52% 對 56%，高劑量臂治療相關死亡 11 例對 2 例（7 例發生在小於等於 50.4 Gy 時）。ARTDECO（n=260，荷蘭，鱗癌 61%，每週 carboplatin/paclitaxel）：50.4 對 61.6 Gy，3 年局部 PFS 70% 對 73% 無顯著差異，G4／G5 毒性 12%／5% 對 14%／10%。CONCORDE／PRODIGE 26（n=217，法國，鱗癌 88%，FOLFOX，會議摘要）：50 對 66 Gy，2 年局部區域 PFS 42.7% 對 43.8%，中位整體存活 25.2 對 23.5 個月，毒性死亡 4.6% 對 6.7%。中國多中心（319 可分析，全鱗癌，每週 docetaxel/cisplatin）：50 對 60 Gy，3 年局部區域 PFS 48.4% 對 49.5%，3 年整體存活 52.7% 對 53.1%，8 年局部區域 PFS 36.3% 對 32.7%，G3 以上放射性肺炎 60 Gy 組較高。四個劑量升級試驗全部標「加量未證明更好」。日本自己把標準從 60 Gy 改回 50.4 Gy。",
+  "en_alt": "Schematic overview of radiation dose-escalation trials in oesophageal cancer; each row's two bars are the two arms' doses. Starting point RTOG 85-01 (n=121, SCC plus adenocarcinoma): 50 Gy with cisplatin/5-FU vs 64 Gy radiotherapy alone, 5-year survival 26% vs 0% — the lower-dose arm lived longer because chemotherapy was added; severe and fatal toxicity 44%/20% vs 25%/3%. INT 0123 (218 analysable, SCC plus adenocarcinoma, cisplatin/5-FU): 50.4 vs 64.8 Gy, 2-year overall survival 40% vs 31%, not significant; local failure 52% vs 56%; 11 treatment-related deaths in the high-dose arm vs 2 (7 occurred at 50.4 Gy or less). ARTDECO (n=260, the Netherlands, 61% SCC, weekly carboplatin/paclitaxel): 50.4 vs 61.6 Gy, 3-year local PFS 70% vs 73%, not significant; grade 4/5 toxicity 12%/5% vs 14%/10%. CONCORDE/PRODIGE 26 (n=217, France, 88% SCC, FOLFOX, conference abstract): 50 vs 66 Gy, 2-year locoregional PFS 42.7% vs 43.8%, median overall survival 25.2 vs 23.5 months, toxic deaths 4.6% vs 6.7%. Chinese multicentre trial (319 analysable, all SCC, weekly docetaxel/cisplatin): 50 vs 60 Gy, 3-year locoregional PFS 48.4% vs 49.5%, 3-year overall survival 52.7% vs 53.1%, 8-year locoregional PFS 36.3% vs 32.7%, more grade 3 or higher pneumonitis at 60 Gy. All four escalation trials are tagged 'escalation not shown better'. Japan itself moved its standard from 60 Gy back to 50.4 Gy.",
+  "zh_caption": "示意圖，依 Herskovic 1992、Cooper 1999（RTOG 85-01）、Minsky 2002（INT 0123）、Hulshof 2021（ARTDECO）、Crehange 2021（CONCORDE／PRODIGE 26，ASTRO 會議摘要）、Xu 2022 與 Cheng 2026（中國 50 對 60 Gy）及 JES 2022 指引重繪；各試驗族群、化療方案與終點不同，列與列之間的數字不可直接互比。",
+  "en_caption": "Schematic, redrawn from Herskovic 1992 and Cooper 1999 (RTOG 85-01), Minsky 2002 (INT 0123), Hulshof 2021 (ARTDECO), Crehange 2021 (CONCORDE/PRODIGE 26, ASTRO conference abstract), Xu 2022 and Cheng 2026 (Chinese 50 vs 60 Gy trial) and the JES 2022 guideline; cohorts, chemotherapy regimens and endpoints differ — numbers in different rows are not directly comparable.",
+  "files": {
+   "desktop": "fig-ec-dose-trials.svg",
+   "mobile": "fig-ec-dose-trials-mobile.svg",
+   "en": "fig-ec-dose-trials-en.svg",
+   "en_mobile": "fig-ec-dose-trials-en-mobile.svg"
+  },
+  "used_by": [
+   "ec-crt-dose"
+  ],
+  "placement": {
+   "article": "ec-crt-dose",
+   "after_h4": "五個隨機試驗，沒有一個證明加量更好"
+  },
+  "sources": [
+   "B[S1] Herskovic 1992",
+   "B[S2] Cooper 1999",
+   "B[S3] Minsky 2002 (INT 0123)",
+   "B[S4] Hulshof 2021 (ARTDECO)",
+   "B[S5] Crehange 2021 (CONCORDE abstract)",
+   "B[S6] Xu 2022",
+   "B[S7] Cheng 2026",
+   "B[S18]/B[S19] JES 2022 (60 → 50.4 Gy rationale)",
+   "B[S47b] ESO-Shanghai 12 protocol"
+  ]
+ },
+ {
+  "id": "fig-ec-immuno-map",
+  "zh_alt": "示意圖：食道癌免疫治療的三格地圖加台灣健保格。格一，開完刀病理仍有殘存（打勾）：CheckMate 577（n=794，術前化放療加 R0 切除後殘存，鱗癌加腺癌）術後 nivolumab 一年，中位無病存活 22.4 對 11.0 個月，HR 0.69；整體存活未達統計顯著（轉述）；治療相關 G3/4 不良事件 13% 對 6%；JES CQ9 強建議 A。格二，已轉移第一線加免疫（打勾，PD-L1 越高獲益越大）：CheckMate 648（全鱗癌 n=970）TPS 大於等於 1% nivolumab 加化療整體存活 15.4 對 9.1 個月 HR 0.54，全族群 13.2 對 10.7 個月 HR 0.74；KEYNOTE-590（鱗癌加腺癌 n=749）鱗癌 CPS 大於等於 10 者 13.9 對 8.8 個月 HR 0.57，全族群 5 年存活 10.6% 對 3.0%；G3/4 治療相關不良事件 648 三臂 47%／32%／36%、590 72% 對 68%。格三，根治性化放療加免疫（打叉）：KEYNOTE-975（pembrolizumab n=703）未達 EFS 主要終點；RATIONALE-311（tislelizumab 中國鱗癌 n=370）PFS HR 0.92、OS HR 1.10；SKYSCRAPER-07（鞏固 atezolizumab 加減 tiragolumab，鱗癌 n=760）主要終點未達 PFS HR 0.82，atezolizumab 單藥臂整體存活 HR 0.69 為描述性；KUNLUN 資料預計 2027，ESCORT-CRT 未讀出。台灣健保格（藥品給付規定 9.69，2026-08-21 版）：第二線單用 nivolumab 自 113 年 4 月 1 日起；第一線 nivolumab 併 fluoropyrimidine 及 cisplatin 或 oxaliplatin 自 115 年 2 月 1 日起；皆需 PD-L1 TC 大於等於 1%、ECOG 小於等於 1、事前審查、每次 12 週、最多 2 年；術後輔助零條文；pembrolizumab 尚未給付於此適應症。",
+  "en_alt": "Schematic three-box map of immunotherapy in oesophageal cancer plus a Taiwan NHI box. Box 1, residual tumour after surgery (tick): CheckMate 577 (n=794, residual disease after preoperative chemoradiotherapy and R0 resection, SCC plus adenocarcinoma), one year of postoperative nivolumab, median disease-free survival 22.4 vs 11.0 months, HR 0.69; overall survival not statistically significant (as cited); treatment-related grade 3/4 adverse events 13% vs 6%; JES CQ9 strong recommendation A. Box 2, first-line metastatic (tick; the higher the PD-L1, the larger the benefit): CheckMate 648 (all SCC, n=970), TPS 1% or more, nivolumab plus chemotherapy overall survival 15.4 vs 9.1 months, HR 0.54; all randomised 13.2 vs 10.7 months, HR 0.74; KEYNOTE-590 (SCC plus adenocarcinoma, n=749), SCC with CPS 10 or more 13.9 vs 8.8 months, HR 0.57; all patients 5-year survival 10.6% vs 3.0%; grade 3/4 treatment-related events 47%/32%/36% across the 648 arms and 72% vs 68% in 590. Box 3, immunotherapy added to definitive chemoradiotherapy (cross): KEYNOTE-975 (pembrolizumab, n=703) did not meet its EFS primary endpoint; RATIONALE-311 (tislelizumab, Chinese SCC, n=370) PFS HR 0.92, OS HR 1.10; SKYSCRAPER-07 (consolidation atezolizumab with or without tiragolumab, SCC, n=760) missed its primary endpoint with PFS HR 0.82, while the atezolizumab-alone arm had a descriptive overall survival HR 0.69; KUNLUN data expected 2027, ESCORT-CRT not read out. Taiwan NHI box (Drug Reimbursement Regulations 9.69, 2026-08-21 version): second-line nivolumab monotherapy from 1 April 2024; first-line nivolumab with fluoropyrimidine and cisplatin or oxaliplatin from 1 February 2026; both require PD-L1 TC 1% or more, ECOG 1 or less, prior approval, 12 weeks per application and at most 2 years; no clause for postoperative adjuvant use; pembrolizumab not yet reimbursed for this indication.",
+  "zh_caption": "示意圖，依 Kelly 2021（CheckMate 577）、Doki 2022 與 Kato 2026（CheckMate 648）、Sun 2021 與 Metges 2025（KEYNOTE-590）、Merck 2026 年第一季 8-K（KEYNOTE-975）、ClinicalTrials.gov 張貼結果（RATIONALE-311）、SKYSCRAPER-07（Ann Oncol 2026）、ASCO 2023／2026 指引、JES 2022 與健保署藥品給付規定第 9 節（2026-08-21 版）重繪；各試驗族群、設計與終點不同，格與格之間的數字不可直接互比。",
+  "en_caption": "Schematic, redrawn from Kelly 2021 (CheckMate 577), Doki 2022 and Kato 2026 (CheckMate 648), Sun 2021 and Metges 2025 (KEYNOTE-590), Merck's 2026 Q1 8-K (KEYNOTE-975), ClinicalTrials.gov posted results (RATIONALE-311), SKYSCRAPER-07 (Ann Oncol 2026), the ASCO 2023/2026 guidelines, JES 2022 and section 9 of the Taiwan NHI Drug Reimbursement Regulations (2026-08-21 version); cohorts, designs and endpoints differ — numbers in different boxes are not directly comparable.",
+  "files": {
+   "desktop": "fig-ec-immuno-map.svg",
+   "mobile": "fig-ec-immuno-map-mobile.svg",
+   "en": "fig-ec-immuno-map-en.svg",
+   "en_mobile": "fig-ec-immuno-map-en-mobile.svg"
+  },
+  "used_by": [
+   "ec-immunotherapy"
+  ],
+  "placement": {
+   "article": "ec-immunotherapy",
+   "after_h4": "第二種情境：已經轉移，第一線加免疫，PD-L1 決定獲益有多大"
+  },
+  "sources": [
+   "B[S21] Kelly 2021 (CheckMate 577)",
+   "B[S22] Verhoeven 2026 (OS non-significant, cited)",
+   "B[S18] JES 2022 CQ9",
+   "B[S25] Doki 2022 (CheckMate 648)",
+   "B[S26] Kato 2026 (648 5-year)",
+   "B[S23] Sun 2021 (KEYNOTE-590)",
+   "B[S24] Metges 2025 (590 5-year)",
+   "B[S40] ASCO 2026 update",
+   "B[S41] ASCO 2023",
+   "B[S32][S33] KEYNOTE-975 (Merck 8-K; CT.gov)",
+   "B[S36] RATIONALE-311 (CT.gov results)",
+   "B[S34][S35] SKYSCRAPER-07",
+   "B[S38][S39] KUNLUN",
+   "B[S37] ESCORT-CRT",
+   "B[S43] 健保藥品給付規定第 9 節 2026-08-21",
+   "B[S44] 115/2/1 修訂對照表",
+   "B[S45] 113/4/1 修訂對照表"
+  ]
+ },
+ {
+  "id": "fig-ec-proton-dose",
+  "zh_alt": "示意圖（非實際劑量分布）：胸腔橫切面兩格。左格光子 IMRT：多道光束交叉把高劑量集中在食道腫瘤，但每道光束穿過腫瘤後繼續往外走，低劑量浴覆蓋兩肺與心臟；IMRT 是健保常規的基本款、已經很好。右格質子：後斜方向兩束光束在布拉格峰放完劑量就停，幾乎沒有出射劑量。下方三張卡。劑量學（Zhang 2008，MD Anderson 遠端食道癌 15 人的計畫比較）：肺 V5 兩束質子比 IMRT 少 35.6%、三束少 17.4%；平均肺劑量少 5.1 Gy 與 2.9 Gy；心臟 V40 IMRT 35.7%、兩束質子 41.8% 反而較高、三束 27.7%，省肺與省心要取捨。唯一完成的隨機比較（Lin 2020，隨機第二期 n=145，50.4 Gy，鱗癌加腺癌）：主要終點總毒性負擔為複合分數，IMRT 39.9 對質子 17.4，術後併發症分數 19.1 對 2.5；3 年 PFS 50.8% 對 51.2%、3 年整體存活 44.5% 對 44.5% 相同；80% 質子為被動散射。淋巴球（Shiraishi 2018，傾向配對 136 對 136，回溯）：G4 淋巴球低下 IMRT 40.4% 對質子 17.6%；與存活的連結不畫。第三期 NRG-GI006 主要終點為整體存活，主要完成估 2031 年 11 月。圖上沒有存活優勢箭頭。",
+  "en_alt": "Schematic (not an actual dose distribution): two axial thoracic cross-sections. Left, photon IMRT: several crossing beams concentrate the high dose on the oesophageal tumour, but each beam continues after the tumour, leaving a low-dose bath across both lungs and the heart; IMRT is the routine, NHI-covered baseline and already very good. Right, protons: two posterior-oblique beams deposit their dose at the Bragg peak and stop, with almost no exit dose. Three cards below. Dosimetry (Zhang 2008, a 15-patient planning comparison of distal oesophageal cancer at MD Anderson): lung V5 35.6% lower with two-beam protons than IMRT and 17.4% lower with three beams; mean lung dose 5.1 Gy and 2.9 Gy lower; heart V40 35.7% with IMRT, 41.8% with two-beam protons (higher) and 27.7% with three beams — sparing lung and sparing heart trade off. The only completed randomised comparison (Lin 2020, randomised phase IIB, n=145, 50.4 Gy, SCC plus adenocarcinoma): the primary endpoint total toxicity burden is a composite score, IMRT 39.9 vs protons 17.4, postoperative complication score 19.1 vs 2.5; 3-year PFS 50.8% vs 51.2% and 3-year overall survival 44.5% vs 44.5%, identical; 80% of protons were passive scattering. Lymphocytes (Shiraishi 2018, propensity-matched 136 vs 136, retrospective): grade 4 lymphopenia 40.4% with IMRT vs 17.6% with protons; the link to survival is not drawn. Phase III NRG-GI006 has overall survival as its primary endpoint, with primary completion estimated November 2031. There is no survival-advantage arrow on the figure.",
+  "zh_caption": "示意圖（非實際劑量分布），依 Zhang 2008（15 人計畫比較）、Lin 2020（隨機第二期，主要終點為總毒性負擔）、Shiraishi 2018、Lin 2017、Zhou 2023 與 NRG-GI006 試驗登錄重繪；劑量學數字與臨床數字來自不同研究，不可直接互比；圖上沒有存活優勢。",
+  "en_caption": "Schematic (not an actual dose distribution), redrawn from Zhang 2008 (15-patient planning comparison), Lin 2020 (randomised phase IIB; primary endpoint total toxicity burden), Shiraishi 2018, Lin 2017, Zhou 2023 and the NRG-GI006 trial record; dosimetric and clinical numbers come from different studies and are not directly comparable; no survival advantage is shown.",
+  "files": {
+   "desktop": "fig-ec-proton-dose.svg",
+   "mobile": "fig-ec-proton-dose-mobile.svg",
+   "en": "fig-ec-proton-dose-en.svg",
+   "en_mobile": "fig-ec-proton-dose-en-mobile.svg"
+  },
+  "used_by": [
+   "ec-proton"
+  ],
+  "placement": {
+   "article": "ec-proton",
+   "after_h4": "升級的理由：心、肺、淋巴球吃到的低劑量"
+  },
+  "sources": [
+   "B[S82] Zhang 2008",
+   "B[S77] Lin 2020 (JCO phase IIB)",
+   "B[S80] Shiraishi 2018",
+   "B[S60] Lin 2017",
+   "B[S83] Zhou 2023 meta-analysis",
+   "B[S78] NRG-GI006 NCT03801876",
+   "B[S87] 健保質子三項限未滿十九歲（成人自費）"
+  ]
+ },
+ {
+  "id": "fig-ec-crt-weeks",
+  "zh_alt": "示意圖：根治性化放療五到六週的行事曆與症狀曲線。左邊週曆：體外放療以 1.8 Gy 乘 28 次等於 50.4 Gy 為例，週一到週五、共五週又三天（60 Gy 版本約六週）；化療以每週一次為例（carboplatin/paclitaxel 週療），cisplatin/5-FU 為隔數週一輪、排法由團隊決定；第 2 到 3 週旁標示食道炎多在此開始，合併化療平均提早約 1 週。右邊曲線：食道炎症狀曲線在第 2 到 3 週上升、第 4 到 6 週最高、放療結束後 4 週內回落，虛線為合併化療提早一週的版本；體重曲線反向緩降；曲線形狀為肺癌放療文獻類推（Baker 與 Fairchild 2016），食道癌試驗未單獨報告食道炎比例。下方四格：CTCAE v5.0 食道炎第三級定義為嚴重改變進食或吞嚥、需管灌、靜脈營養或住院，肺癌同步化放療第三級約 10 到 20%（類推）；ARTDECO 放療完成率 94%，RTOG 85-01 同步化放療嚴重與致命副作用 44% 與 20%；局部控制對總療程時間每延一天減 2.3%（食道癌 1994 年放療單獨 n=88）與 1.4%（頭頸鱗癌類推），為族群回歸斜率非個人風險，2025 年同步化放療回溯中位只延 4 天看不出影響；放射性肺炎第二級以上約 6.6%，多在結束後數週到數月。",
+  "en_alt": "Schematic calendar and symptom curves for five to six weeks of definitive chemoradiotherapy. Left, the weekly calendar: external-beam radiotherapy shown as 1.8 Gy times 28 fractions equals 50.4 Gy, Monday to Friday, five weeks and three days (a 60 Gy course runs about six weeks); chemotherapy shown as weekly (carboplatin/paclitaxel), whereas cisplatin/5-FU runs in cycles weeks apart and the team sets the schedule; weeks 2–3 are marked as the usual onset of oesophagitis, about one week earlier with concurrent chemotherapy. Right, the curves: the oesophagitis symptom curve rises in weeks 2–3, peaks in weeks 4–6 and settles within 4 weeks after radiotherapy ends, with a dashed version one week earlier for concurrent chemotherapy; the weight curve declines slowly in the opposite direction; the shapes are extrapolated from lung-cancer radiotherapy literature (Baker and Fairchild 2016) because oesophageal trials did not report oesophagitis separately. Four boxes below: CTCAE v5.0 grade 3 oesophagitis means severely altered eating or swallowing with tube feeding, parenteral nutrition or hospitalisation, about 10–20% grade 3 in lung-cancer chemoradiotherapy (extrapolated); ARTDECO radiotherapy completion 94%, RTOG 85-01 concurrent chemoradiotherapy severe and fatal toxicity 44% and 20%; local control falls 2.3% per day of prolongation (oesophageal cancer, 1994 radiotherapy alone, n=88) and 1.4% per day (head and neck SCC, extrapolated), population regression slopes rather than personal risk, while a 2025 chemoradiotherapy series with a median delay of only 4 days showed no effect; radiation pneumonitis grade 2 or higher about 6.6%, mostly weeks to months after the end.",
+  "zh_caption": "示意圖，依 Baker & Fairchild 2016（肺癌放射性食道炎綜述，屬類推）、CTCAE v5.0、Hulshof 2021（ARTDECO）、Herskovic 1992（RTOG 85-01）、Nishimura 1994、Bese 2007（頭頸，類推）、Xiang 2025 與 Tonison 2019（IMRT 時代放射性肺炎系統性回顧）重繪；曲線為示意，不代表個人病程，各來源族群不同、數字不可直接互比。",
+  "en_caption": "Schematic, redrawn from Baker & Fairchild 2016 (lung-cancer radiation oesophagitis review, extrapolated), CTCAE v5.0, Hulshof 2021 (ARTDECO), Herskovic 1992 (RTOG 85-01), Nishimura 1994, Bese 2007 (head and neck, extrapolated), Xiang 2025 and Tonison 2019 (IMRT-era radiation pneumonitis systematic review); the curves are schematic, not an individual course, and the sources' cohorts differ — numbers are not directly comparable.",
+  "files": {
+   "desktop": "fig-ec-crt-weeks.svg",
+   "mobile": "fig-ec-crt-weeks-mobile.svg",
+   "en": "fig-ec-crt-weeks-en.svg",
+   "en_mobile": "fig-ec-crt-weeks-en-mobile.svg"
+  },
+  "used_by": [
+   "ec-esophagitis"
+  ],
+  "placement": {
+   "article": "ec-esophagitis",
+   "after_h4": "第二、三週開始痛，這是照表走，不是出了問題"
+  },
+  "sources": [
+   "C[S32] Baker & Fairchild 2016",
+   "C[S33] CTCAE v5.0",
+   "C[S40] ARTDECO completion 94%",
+   "C[S34] RTOG 85-01 (Herskovic 1992)",
+   "C[S50] Nishimura 1994",
+   "C[S51] Bese 2007",
+   "C[S52] Xiang 2025",
+   "C[S49] Tonison 2019 (IMRT-era pneumonitis review)",
+   "B[S18]/B[S19] JES 2022 (50.4 Gy = 1.8 Gy × 28)",
+   "A[S36] CROSS weekly carboplatin/paclitaxel"
+  ]
+ },
+ {
+  "id": "fig-ec-nutrition-window",
+  "zh_alt": "示意圖：體重與管路決策的時間窗，加三種管路的身體位置。上半時間軸分四段：診斷到治療前評估、化放療 5 到 6 週、（三合一）等待與手術、術後回家；體重示意曲線緩降，橫線標「掉 10%」是啟動評估與營養師介入的門檻（ESPEN 措辭），不是放管指令。標註：診斷前 3 個月掉超過 10% 的人佔 17%（鹿特丹手術世代 n=922），5 年死亡 HR 1.34、併發症沒有增加；化療期間掉超過 5% 者術後感染併發症 OR 2.69（OGSG1003 鱗癌 n=134）；新輔助治療者 80% 有吞嚥困難、48% 放了管路、其中 27.9% 沒好好用（n=127）；化放療後惡病質 60.7%，治療前造口只在腫瘤佔管腔大於等於 70% 者看得出好處（成大 n=260）。四條管路橫桿：鼻胃管，預期腸道營養小於 4 週（ESGE 2021）；胃造廔 PEG，預期大於 4 週、胃路徑優先（ESGE），對後續胃管重建無差（統合 n=1,027）；餵食空腸造廔，上消化道大手術術中考慮（ESPEN 外科 Rec 23，Grade B），ESGE 只在胃不可用、排空差、高吸入風險時選空腸；金屬支架畫成虛線打叉，ESGE 2021 不建議作為術前或化放療前橋接，Mariette 2015 配對 R0 71.0% 對 85.5%、3 年整體存活 25% 對 44%。下半人形側面：鼻胃管由鼻經食道進胃；PEG 由腹壁進胃；空腸造廔由腹壁進空腸。三格好壞：鼻胃管不需麻醉、隨時可拔、移位較多、吞嚥較少受影響、放療後較早脫離；PEG 內視鏡下放置、狹窄時用 introducer 法、統合顯示滲漏狹窄併發症住院天數皆無差、1/96 PEG 部位切片惡性、移位少、生活品質可能較好；空腸造廔腹腔鏡或開腹放置、腸阻塞約 6%（其中超過 63% 需再手術）、部位感染 7%、功能不良 7%、常規放置好處未證明、術後居家灌食 6 週體重掉超過 5% 的比例 28% 對 82%（n=41）。",
+  "en_alt": "Schematic of the weight and feeding-tube decision window plus where each tube enters the body. The top timeline has four phases: diagnosis to pre-treatment assessment, 5–6 weeks of chemoradiotherapy, (trimodality) waiting and surgery, and after surgery at home; a schematic weight curve declines slowly and a horizontal line marks 'minus 10%' as the threshold for starting assessment and dietitian input (ESPEN wording), not an order to place a tube. Annotations: 17% had lost more than 10% in the 3 months before diagnosis (Rotterdam surgical cohort, n=922), with 5-year mortality HR 1.34 and no increase in complications; losing more than 5% during chemotherapy gave postoperative infectious complications OR 2.69 (OGSG1003, SCC, n=134); 80% of neoadjuvant patients had dysphagia, 48% got a tube and 27.9% of those hardly used it (n=127); cachexia after chemoradiotherapy 60.7%, and a pre-treatment stoma helped only when the tumour filled 70% or more of the lumen (NCKU, n=260). Four tube bars: nasogastric tube for expected enteral nutrition under 4 weeks (ESGE 2021); gastrostomy (PEG) for over 4 weeks, gastric route first (ESGE), with no effect on later gastric-conduit reconstruction (meta-analysis, n=1,027); feeding jejunostomy considered intraoperatively in major upper-GI surgery (ESPEN surgery Rec 23, Grade B), with ESGE reserving the jejunal route for an unusable or poorly emptying stomach or high aspiration risk; a metal stent drawn dashed and crossed out — ESGE 2021 does not recommend it as a bridge to surgery or before chemoradiotherapy, and in Mariette 2015's matched analysis R0 was 71.0% vs 85.5% and 3-year overall survival 25% vs 44%. The lower half shows a side-view figure: the nasogastric tube runs from the nose through the oesophagus into the stomach; the PEG enters the stomach through the abdominal wall; the jejunostomy enters the jejunum through the abdominal wall. Three pros-and-cons boxes: the nasogastric tube needs no anaesthesia, can be removed any time, dislodges more often, interferes less with swallowing and is weaned earlier after radiotherapy; PEG is placed endoscopically, by the introducer technique in stenosis, with meta-analysis showing no difference in leak, stricture, complications or stay, 1 of 96 PEG-site biopsies malignant, fewer dislodgements and possibly better quality of life; the jejunostomy is placed laparoscopically or at open surgery, with bowel obstruction about 6% (over 63% reoperated), site infection 7%, malfunction 7%, no proven benefit from routine placement, and home feeding for 6 weeks after surgery reducing more-than-5% weight loss from 82% to 28% (n=41).",
+  "zh_caption": "示意圖，依 ESPEN 2021 癌症營養與外科營養實務指引、ESGE 2021 腸道管路指引與食道支架指引、van der Schaaf 2014、Aoyama 2023（OGSG1003）、Huerter 2016、Chiang 2026、Fang 2022、Bhatti 2015、Shen 2021、Mei 2021、Mariette 2015 與 Baker 2015 重繪；各研究族群、設計與終點不同，數字不可直接互比；三種管路沒有哪一種「最好」，由團隊依你的情況決定。",
+  "en_caption": "Schematic, redrawn from the ESPEN 2021 practical guidelines on cancer and surgical nutrition, the ESGE 2021 enteral-tube and oesophageal-stenting guidelines, van der Schaaf 2014, Aoyama 2023 (OGSG1003), Huerter 2016, Chiang 2026, Fang 2022, Bhatti 2015, Shen 2021, Mei 2021, Mariette 2015 and Baker 2015; cohorts, designs and endpoints differ — numbers are not directly comparable; none of the three tubes is 'best', and the choice is the team's, for your situation.",
+  "files": {
+   "desktop": "fig-ec-nutrition-window.svg",
+   "mobile": "fig-ec-nutrition-window-mobile.svg",
+   "en": "fig-ec-nutrition-window-en.svg",
+   "en_mobile": "fig-ec-nutrition-window-en-mobile.svg"
+  },
+  "used_by": [
+   "ec-feeding-tube"
+  ],
+  "placement": {
+   "article": "ec-feeding-tube",
+   "after_h4": "三種管路，指引把它們放在不同的時間點"
+  },
+  "sources": [
+   "C[S1] ESPEN cancer nutrition 2021 (Muscaritoli)",
+   "C[S3] ESPEN surgery 2021 (Weimann)",
+   "C[S23] ESGE enteral tubes part 1",
+   "C[S24] ESGE enteral tubes part 2",
+   "C[S26] ESGE stenting 2021 (Spaander)",
+   "C[S4] van der Schaaf 2014",
+   "C[S5] Aoyama (OGSG1003)",
+   "C[S19] Huerter 2016",
+   "C[S21] Chiang 2026 (NCKU)",
+   "C[S11] Fang 2022 meta-analysis",
+   "C[S10] Bhatti 2015",
+   "C[S14] Shen 2021",
+   "C[S13] Mei 2021",
+   "C[S27] Mariette 2015",
+   "D[S8] home jejunostomy feeding RCT (n=41)",
+   "C[S30] 健保 05101B／33108B／47058B"
+  ]
+ },
+ {
+  "id": "fig-ec-after-surgery",
+  "zh_alt": "示意圖：食道切除術前與術後的解剖。左格術前：食道由頸部經胸腔穿過橫膈接到腹腔內完整的胃袋，下食道括約肌在橫膈處，幽門在胃的右下方接十二指腸，迷走神經沿食道走，食物往下。中下段食道畫出腫瘤位置。右格術後：中下段食道連同腫瘤被切除，只剩頸部與上胸段一小段食道；胃被做成一條管子拉進胸腔，在胸內（Ivor Lewis）或頸部（McKeown）與殘存食道吻合；沒有括約肌、容量變小；幽門被拉到靠近橫膈；迷走神經切斷；食物靠重力走管狀胃，容易逆流；原本放胃的位置空了。下方三格：少量多餐——瑞典世代（n=226）術後 6 個月 63.7% 體重掉超過 10%、20.4% 掉超過 20%，體重可持續掉到 3 年；延遲性胃排空早期 15.9%、晚期 9.4%，幽門處置證據不站邊。傾倒症候群——早期 30 分內心悸冒汗、晚期 1 到 3 小時低血糖；顯著症狀 11%（瑞典 n=384，1 年），問卷式 67 到 78%；飲食調整第一步，晚期可用 acarbose。逆流與夜咳——瑞典世代（n=241，1 年）27% 嚴重逆流，睡眠障礙 OR 2.3；殘存食道黏膜損傷 5 年 55%（德國 n=50）；墊高與餐後不平躺是門診慣例，沒有對照研究、不標公分數。",
+  "en_alt": "Schematic anatomy before and after oesophagectomy. Left, before: the oesophagus runs from the neck through the chest, through the diaphragm to an intact stomach in the abdomen; the lower oesophageal sphincter sits at the diaphragm, the pylorus at the lower right of the stomach leads to the duodenum, the vagus nerves run along the oesophagus and food goes down; a tumour is marked in the mid-to-lower oesophagus. Right, after: the mid-to-lower oesophagus with the tumour has been removed, leaving a short remnant in the neck and upper chest; the stomach has been made into a tube and pulled into the chest, joined to the remnant either in the chest (Ivor Lewis) or in the neck (McKeown); there is no sphincter and capacity is smaller; the pylorus now sits near the diaphragm; the vagus nerves are cut; food travels down the conduit by gravity and reflux is easy; the space where the stomach used to sit is empty. Three boxes below. Small frequent meals: in a Swedish cohort (n=226), 63.7% had lost more than 10% of weight and 20.4% more than 20% at 6 months, and weight can keep falling for 3 years; delayed gastric emptying early 15.9% and late 9.4%, with the evidence on pyloric procedures taking no side. Dumping syndrome: early palpitations and sweating within 30 minutes, late hypoglycaemia at 1–3 hours; significant symptoms 11% (Sweden, n=384, 1 year), 67–78% by questionnaire; dietary change first, acarbose for late dumping. Reflux and night cough: 27% severe reflux in a Swedish cohort (n=241, 1 year), sleep disturbance OR 2.3; remnant oesophageal mucosal injury 55% at 5 years (Germany, n=50); raising the upper body and not lying down after meals is clinic routine, with no controlled study and no centimetres given.",
+  "zh_caption": "示意圖，依 Martin 2007／2009、Lin 2025、Lagergren 2026、Scarpellini 2020、Lagergren 2021、Fuchs 2018 與 Sivakumar 2025 重繪；術式、吻合位置與幽門處置依外科醫師與各院慣例而異，數字來自不同世代、不可直接互比。",
+  "en_caption": "Schematic, redrawn from Martin 2007/2009, Lin 2025, Lagergren 2026, Scarpellini 2020, Lagergren 2021, Fuchs 2018 and Sivakumar 2025; the operation, anastomosis site and pyloric management vary by surgeon and hospital, and the numbers come from different cohorts — not directly comparable.",
+  "files": {
+   "desktop": "fig-ec-after-surgery.svg",
+   "mobile": "fig-ec-after-surgery-mobile.svg",
+   "en": "fig-ec-after-surgery-en.svg",
+   "en_mobile": "fig-ec-after-surgery-en-mobile.svg"
+  },
+  "used_by": [
+   "ec-eating-after"
+  ],
+  "placement": {
+   "article": "ec-eating-after",
+   "after_h4": "胃被拉進胸腔之後，食物走的是另一條路"
+  },
+  "sources": [
+   "D[S5] Swedish weight cohort 6 months (63.7%/20.4%)",
+   "D[S6] weight to 3 years",
+   "D[S9] dumping meta-analysis (27%, 67%)",
+   "D[S10] Swedish dumping 11%",
+   "D[S11] Danish 78%",
+   "D[S12] dumping international consensus",
+   "D[S13] Swedish reflux 27%, sleep OR 2.3",
+   "D[S14] German Ivor Lewis endoscopic cohort (55% at 5 years)",
+   "D[S15] delayed emptying meta-analysis (15.9%/9.4%)",
+   "D[S16][S17][S18] pyloric drainage evidence",
+   "B[S48] MIRO (Ivor Lewis definition)"
+  ]
+ },
+ {
+  "id": "fig-ec-followup",
+  "zh_alt": "示意圖：食道癌五年追蹤時程加頭頸部第二原發。上方時間軸：確診或治療結束到第 5 年，第 6 年後影像淡出。前兩年塗色標「約 90% 的復發在這兩年內（ESMO [V, A]）」；MSKCC 手術世代（n=1,147）復發率第 1 年每 100 人年 27 次、第 6 年 4 次，兩點之間為示意連線。四條軌道：每次回診（兩組都一樣）症狀、營養、心理社會支持，ESMO 2022 [V, A]，V 為專家意見；開過刀的人，MSKCC 世代復發一半靠症狀、45% 靠常規 CT、追蹤內視鏡只抓到 1%，作者結論第 6 年後影像大概不必要；根治性化放療後完全反應者，每 3 個月內視鏡加切片加 CT 以抓救援手術窗口，ESMO 2022 [IV, B]，指引未寫持續多久，圖畫到第 2 年，之後由團隊決定；頭頸部檢查，ESMO 2022 寫食道鱗癌病人應接受合格的頭頸部臨床檢查，頻率沒有來源、不標。下方三格：頭頸部第二原發 6.7%（12 篇日本統合 n=6,483，60.3% 下咽、85.3% 低期別），台灣兩中心（n=435）小於 50 歲是唯一獨立因子 HR 4.13，小於 50 歲者 3、5、10 年累積發生率 14.3%、22.1%、34.2%，反向台灣頭頸癌病人 21.9% 同時有食道病灶；Lugol 空白區 0 個、1 到 9 個、10 個以上者 2 年異時性食道加頭頸鱗癌合計 4.0%、10.0%、31.4%（Katada 2016，早期鱗癌 ESD 後 n=331），戒酒 aHR 0.47，戒菸在該分析未達顯著；腫瘤標記 SCC-Ag 與 CEA 在敏感度 60% 時特異度只有 19.6% 與 20.3%，未達預設 70%（JCOG0502 加 0909 合併 n=239），PET 找復發敏感度 96%、特異度 78%、陽性要切片。",
+  "en_alt": "Schematic five-year follow-up timeline for oesophageal cancer plus head and neck second primaries. Top timeline runs from diagnosis or end of treatment to year 5, with imaging fading beyond year 6. The first two years are shaded 'about 90% of relapses fall within these two years (ESMO [V, A])'; the MSKCC surgical cohort (n=1,147) recurrence rate was 27 per 100 person-years in year 1 and 4 in year 6, linked by a schematic dashed line. Four lanes: every visit (both groups) covers symptoms, nutrition and psychosocial support, ESMO 2022 [V, A], V being expert opinion; after surgery, in the MSKCC cohort half of recurrences were found by symptoms, 45% by routine CT and only 1% by surveillance endoscopy, and the authors concluded imaging beyond year 6 is probably unnecessary; after complete response to definitive chemoradiotherapy, endoscopy plus biopsies plus CT every 3 months to catch the salvage-surgery window, ESMO 2022 [IV, B], with no stated duration — drawn to year 2 with the team deciding afterwards; head and neck examination, which ESMO 2022 says oesophageal SCC patients should undergo as a qualified clinical examination, with no sourced frequency. Three boxes below: head and neck second primary in 6.7% (meta-analysis of 12 Japanese studies, n=6,483; 60.3% hypopharynx, 85.3% low stage), with two Taiwan centres (n=435) finding age under 50 the only independent factor (HR 4.13) and cumulative incidence in the under-50s of 14.3%, 22.1% and 34.2% at 3, 5 and 10 years, and in the reverse direction 21.9% of Taiwan head and neck cancer patients having a synchronous oesophageal lesion; Lugol-voiding lesions 0, 1–9 and 10 or more giving combined 2-year metachronous oesophageal plus head and neck SCC of 4.0%, 10.0% and 31.4% (Katada 2016, n=331 after ESD of early SCC), with stopping alcohol aHR 0.47 and smoking cessation not significant in that analysis; tumour markers SCC-Ag and CEA reaching only 19.6% and 20.3% specificity at 60% sensitivity, below the preset 70% (pooled JCOG0502 and 0909, n=239), while PET for recurrence has 96% sensitivity and 78% specificity and a positive needs biopsy.",
+  "zh_caption": "示意圖，依 ESMO 2022 食道癌指引、Lou 2013（MSKCC 復發型態）、van de Ven 2019（頭頸第二原發統合）、Tsai 2025（台灣兩中心）、Wang 2016（台灣頭頸癌前瞻）、Katada 2016、Sakanaka 2026（JCOG0502＋0909 腫瘤標記）與 PET 復發統合分析重繪；各研究族群、設計與終點不同，數字不可直接互比；追蹤間隔由團隊依個人風險調整。",
+  "en_caption": "Schematic, redrawn from the ESMO 2022 oesophageal cancer guideline, Lou 2013 (MSKCC recurrence patterns), van de Ven 2019 (head and neck second-primary meta-analysis), Tsai 2025 (two Taiwan centres), Wang 2016 (Taiwan head and neck prospective cohort), Katada 2016, Sakanaka 2026 (JCOG0502 + 0909 tumour markers) and a PET recurrence meta-analysis; cohorts, designs and endpoints differ — numbers are not directly comparable; your team adjusts the interval to your risk.",
+  "files": {
+   "desktop": "fig-ec-followup.svg",
+   "mobile": "fig-ec-followup-mobile.svg",
+   "en": "fig-ec-followup-en.svg",
+   "en_mobile": "fig-ec-followup-en-mobile.svg"
+  },
+  "used_by": [
+   "ec-followup"
+  ],
+  "placement": {
+   "article": "ec-followup",
+   "after_h4": "開過刀和只做化放療的人，追蹤長得不一樣"
+  },
+  "sources": [
+   "D[S33] ESMO 2022 (Obermannová) follow-up [V, A] / [IV, B]",
+   "D[S35] Lou 2013 (MSKCC)",
+   "D[S37] van de Ven 2019",
+   "D[S39] Tsai 2025",
+   "D[S40] Wang 2016",
+   "D[S38] Katada 2016",
+   "D[S64] Sakanaka 2026 (JCOG0502+0909)",
+   "D[S32] PET recurrence meta-analysis",
+   "D[S43] Taiwan oral cancer → oesophageal screening registry (aHR 0.80)"
+  ]
+ }
+]
