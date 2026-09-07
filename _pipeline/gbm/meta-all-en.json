@@ -1,0 +1,104 @@
+{
+ "gb-what-it-is": {
+  "title": "Glioblastoma: what it is, and what it is not",
+  "dek": "The 2021 classification changed the rules: IDH-wildtype is not the same thing as glioblastoma, and there are three doors to get through before that. This article lines the wording on your report up against the rules in force.",
+  "lead": "The line I hear most often in clinic is \"doctor, what stage is this?\" — brain tumours have no stages, only a grade and a name. And since 2021, where that name came from decides every step after it. This article carries no survival numbers.",
+  "note": "That name is not a thermometer for how bad things are; it is the output of a set of rules only settled in 2021. So do one thing when the report arrives: ring every line you cannot read, and ask your doctor to point at the condition your name is resting on. An older report carrying a different name is common, and it means the rules changed, not that your disease did."
+ },
+ "gb-first-days": {
+  "title": "The first few days after they find it",
+  "dek": "Everything in these few days has an order to it: what the imaging is answering, when a biopsy alone is the right move, why steroids are started early, and why you must not adjust them yourself.",
+  "lead": "Families often know the diagnosis before the patient does, and then ask me the same thing in the corridor: what are we actually supposed to be doing now? Here is what happens in the first few days, in order, plus two things you can get moving today.",
+  "note": "You are mostly being pushed along in these few days, but there are two things you can push yourself. The catastrophic illness certificate: ask your case manager today how it is filed, and remember it runs for five years and can be re-applied for in the three months before it expires — do not let it lapse first. The other is to read \"When to come back the same day: three tiers\" once now; that article is written to be read before anything happens."
+ },
+ "gb-surgery": {
+  "title": "What taking it all out actually means",
+  "dek": "The international grading no longer asks what fraction came out, only how many cubic centimetres are left on the postoperative MRI. And every link between extent of resection and survival, to this day, comes from observational data.",
+  "lead": "That question outside the recovery room — did they get it all — no longer has a standard answer, because the way of asking it has been replaced. Every comparison here comes with its primary source, so you can take it to a neurosurgical clinic for a second opinion.",
+  "note": "Extent of resection is one of the few things in this disease you can work at, but it is not a guarantee: how much can safely come out is decided in large part by where the tumour grew. One question before discharge is enough — on my postoperative MRI, how many cubic centimetres of the enhancing part are left? And if the answer is that only a biopsy was done, that is not giving up; a definite tissue diagnosis is useful in its own right."
+ },
+ "gb-pathology": {
+  "title": "Two weeks for the report: what is it waiting for",
+  "dek": "That report is not one report, it is several layers stacked up. This article covers what each layer tests, which items can change the name at the top, and how much uncertainty the tests themselves carry.",
+  "lead": "The operation is over and the treatment has not started, and this is the hardest stretch of the whole course. I am not going to give you a number of days — for how long a pathology report takes, I could not find data I could cite. What I can give you is the shape of the thing you are waiting for.",
+  "note": "The waiting is not empty: that report is being built one layer at a time, and each layer can overturn the one before it. So the most useful move in these two weeks is to change the question — not \"how much longer\", but \"which of these items are finished, and which one are we still waiting on\". Nothing about the illness pauses while the report is out; read the thresholds in \"When to come back the same day: three tiers\" first."
+ },
+ "gb-lowgrade": {
+  "title": "The report says IDH-mutant: you are on a different road",
+  "dek": "There are two diseases under IDH-mutant. This article separates astrocytoma from oligodendroglioma, and sets out the population vorasidenib was tested in, criterion by criterion.",
+  "lead": "The phrase \"lower-grade\" gets read as benign in my clinic every day of the week. It is not. It grows, it infiltrates, and it eventually becomes an aggressive tumour — and one line on the report in your hand decides which road you take from here.",
+  "note": "You are not on this topic's main line, but \"lower-grade\" does not mean nothing is wrong. Take the report to clinic and settle the 1p/19q and CDKN2A/B lines first; if your doctor raises vorasidenib, go through the inclusion criteria together. That trial has no overall survival result to this day, and for its reimbursement status in Taiwan I could not find a provision I could cite."
+ },
+ "gb-standard": {
+  "title": "Six weeks together, then six cycles",
+  "dek": "In the concurrent stretch the tablets are taken every day, weekends included; in maintenance, on five days out of twenty-eight. 60 Gy has a randomised trial holding it up, and every attempt so far at pushing the dose higher has come back negative.",
+  "lead": "There is no six months anywhere in the Taiwanese reimbursement clause — what it sets out is prior approval every three months, with imaging attached for each renewal. This article breaks the course into its three stretches, and answers head-on whether you can keep taking the drug for longer.",
+  "note": "What actually goes wrong in this regimen is not the dose, it is the weekend cell. Keep two pieces of paper: the radiotherapy schedule and the chemotherapy instructions. Every day in the concurrent stretch, five days out of twenty-eight in maintenance — compare them once and you have it. When your medicine bag differs from any article, the bag wins. And if fever or unusual bruising turns up during those six concurrent weeks, do not wait for the next appointment."
+ },
+ "gb-mgmt": {
+  "title": "That MGMT line: what it decides and what it does not",
+  "dek": "Methylated is a favourable prognostic signal; in the unmethylated cell no survival difference could be seen, progression-free survival does differ, and the randomised trial aimed at that group has never been done by anyone.",
+  "lead": "About one person in ten falls into the grey zone between methylated and unmethylated; when a trial is designed that omits the drug, those people are specifically excluded, precisely for fear of harming them. This article is about what that line really decides in a treatment discussion.",
+  "note": "That line does not decide your prescription, it decides what you and your doctor discuss — so change the question: which method was my test done by, how far is my result from the grey zone, and if I take the drug, when will you judge whether it is doing anything? And one thing nailed down: if you are taking this drug, do not stop it, cut it or skip days on your own because you read an article."
+ },
+ "gb-elderly": {
+  "title": "Older, or not strong enough: the course can be shortened",
+  "dek": "Shortening the course presupposes still treating, and there is a randomised trial on that question. What decides the length of the course is performance status and neurological function, not the year on your birth certificate.",
+  "lead": "A short course is not a discounted treatment: in that randomised trial, half as many people in the three-week arm needed their steroid dose increased as in the six-week arm. This article lays five trials out in order, and says plainly which sentence only holds in glioblastoma in people aged 60 and over.",
+  "note": "Age is one of four prognostic variables; what really decides the length of the course is how much you can do for yourself in a day. So the question to ask is: given that, are you recommending three weeks or six, and is the reason performance status or age? If someone is already in bed most of the time, that is a different discussion — read \"Eighty years old: treat, or not?\" on this site before having it."
+ },
+ "gb-numbers": {
+  "title": "That number, and how I am going to tell you about it",
+  "dek": "Median survival means half the people are before this line and half after it — how to read the curve, the separate denominator behind each of the three numbers on the tail, and why I do not hand out a deadline.",
+  "lead": "The best prognostic grading tool we have explains 20% of the differences in survival between people; the remaining 80%, we do not know what it is. Every section here rests on that sentence, and the opening hands you a way to stop reading.",
+  "note": "I am not giving you a number to treat as a deadline, because that number was not calculated for you alone. If reading this leaves you more anxious, put it down and come back in a few days — not wanting to know is a choice that has been studied. If you do want to ask, swap it for this: given my age, my performance status and my report, which thing about the next three months worries you? And one line for families: if the patient himself is willing to hear it, please have him in the room."
+ },
+ "gb-newthings": {
+  "title": "Fields, immunotherapy, vaccines, protons, BNCT: where each one stands",
+  "dek": "Five new treatments measured with one ruler: what design, which people were enrolled, was the primary endpoint met, and what does it cost. Negative results are written as negative.",
+  "lead": "Of the three phase III immunotherapy trials, one was not merely no better but statistically significantly worse. This article opens up the design gap in each item, and says exactly how far the Taiwanese NHI codes, the regulatory status and the availability could each be traced.",
+  "note": "What is most often misread in this cell is not the numbers, it is the designs: one of the three immunotherapy phase III trials points the wrong way, and the vaccine study held up as hopeful changed its primary endpoint midstream. Two questions before using any of them: which design produced this result, and which road closes behind me if I use it? Ask the medical affairs office for a written itemisation of costs; for items where I could not find official data, I do not infer either way."
+ },
+ "gb-rt-weeks": {
+  "title": "What those six weeks of radiotherapy are actually like",
+  "dek": "The mask, the daily routine at the hospital, when the hair starts to go, the time curve of the fatigue, and what that weekly tube of blood is really watching.",
+  "lead": "Nine in ten people develop some degree of somnolence over this stretch, and its peak falls in a different place in each of two prospective studies; this article puts both sides down side by side, and blocks the common misreading that a dropping white cell count tells you whether the treatment is working.",
+  "note": "The real risk in these six weeks is not the twenty minutes on the machine, it is the few days you spend gritting your teeth — the group interrupted by toxicity did worst of all. So report side effects early rather than holding out until stopping is the only option. The marks on your mask, how the target was drawn, and how much dose your scalp received are three things you can ask about specifically in clinic."
+ },
+ "gb-steroid": {
+  "title": "Steroids: the drug that saves you, and has to come down",
+  "dek": "What it repairs is the leaking blood vessels, not the tumour. The side effects are written out item by item, along with why the taper has to be slow and which two things coming down too fast runs into.",
+  "lead": "Only one group of side effects has been confirmed in a randomised trial to rise with both dose and time: the moon face and the ankle oedema — which is also the first thing a patient sees for himself. Every mg figure in this article is a study's grouping, not anybody's prescription.",
+  "note": "This drug repairs the oedema, not the tumour, so the benefit and the price go up together. When the face in the mirror starts to round out, that is when \"when can I start coming down\" goes onto your clinic question list — do not stop it yourself, do not add to it yourself. No strength, nausea, dizziness or vision going black on standing after a reduction is a same-day report; and ask your doctor before you take a painkiller for a headache."
+ },
+ "gb-seizure": {
+  "title": "Seizures, anti-seizure drugs, and driving",
+  "dek": "Whether to take a drug before you have ever had a seizure, what the family should do at the time, and what the Taiwanese licensing text actually says — quoted word for word, not from memory.",
+  "lead": "Taiwan's threshold is \"no seizure for the last two years or more\" with a physician's diagnostic certificate attached; a person who satisfies the proviso may sit the test for a motorcycle or ordinary small passenger car licence, renewed every two years. This article also carries the passage in which \"he has become a different person\" may be the drug.",
+  "note": "\"Do not drive for now\" is not the same as \"you can never drive again\" — the text itself has written the road back. What to prepare at home is the timing: where the stopwatch on the phone is, and what those four \"do nots\" are, said once to the people you live with. On driving, take Articles 64, 52-3 and 76 into the consulting room and ask whether you may drive now and when it can be reassessed."
+ },
+ "gb-warning-signs": {
+  "title": "When to come back the same day: three tiers",
+  "dek": "Every item says why it is today rather than the next appointment — raised intracranial pressure, status epilepticus, fever during the course, the steroid emergencies, and the clot that gets missed most often.",
+  "lead": "Only 48% of brain tumour patients have headache at all, so \"morning headache\" cannot be used as a screening threshold. This article re-sorts every warning sign into three tiers, and lands on one sheet of paper you can write today and stick on the fridge door.",
+  "note": "There is not one item in this article that is \"watch and see\". Write those three lines down today: which number to ring in the daytime, where to go at night and at weekends, and what to take with you. The fever rule matches the one already on this site — one reading of 38.0°C and you go; do not re-measure, do not wait for it to persist. A swollen leg, breathlessness and chest pain are same-day things to say out loud, not things to charge to the radiotherapy."
+ },
+ "gb-followup": {
+  "title": "How the follow-up scans are scheduled, and why bigger is not always worse",
+  "dek": "The baseline moved to the scan taken after radiotherapy, the twelve-week confirmation rule, and how the denominator behind \"53 of the 166 whose scans looked worse\" is worked out.",
+  "lead": "Since 2023, the scan every later one is measured against is the one taken after radiotherapy, not the one taken after the operation. This article also takes apart a very tempting association: that people scanned more regularly live longer — which is most likely an artefact of the statistics.",
+  "note": "There is no room in this one for reading your own scan, because the whole phenomenon only holds up in hindsight. Keep the appointment on the day it was booked, and settle two things in the room: how this change was measured against the last one, and whether you are still inside those twelve weeks after radiotherapy. Four to eight weeks is a rule for scoring a lesion, not a waiting period you can help yourself to — do not move your appointment."
+ },
+ "gb-cognition": {
+  "title": "Memory, concentration, and changes in who he is",
+  "dek": "76% already test as impaired at the point of diagnosis; and of the five boxes — tumour, radiotherapy, drugs, seizures, steroids — two have no citable data in them at all.",
+  "lead": "The changes the family notices are often the ones the patient cannot feel, and on testing the two correlate only weakly. This article also lays out the timeline of decision-making capacity: by the time of recurrence, only 18.8% are neurocognitively intact.",
+  "note": "\"He says he is fine\" correlates only weakly with what the tests show, so the changes you see at home have to be said out loud rather than waited for. While he can still say it himself, ask the question once: if one day you cannot speak for yourself, who do you want speaking for you? A sudden change in consciousness, speech suddenly gone, or sudden one-sided weakness is not a cognitive side effect — that is a same-day matter, and possibly an ambulance."
+ },
+ "gb-recurrence": {
+  "title": "After recurrence, what roads remain",
+  "dek": "Re-operation, re-irradiation, bevacizumab, clinical trials, and when to talk about palliative care: each road written up with what it improves, what it does not, and what it costs.",
+  "lead": "Take the same re-operation data and change the statistical method, and a hazard ratio of 0.66 turns round to point the other way. This article also covers why the phase III trial of early palliative care in brain tumours was negative, and who that six-month line is protecting.",
+  "note": "I am not putting these in rank order, because the rank order does not exist. Four things decide it: where the recurrence is and how far it extends, how long it has been since the last treatment, performance status, and the dose distribution of the last course of radiotherapy — taking those four into the multidisciplinary meeting is more use than asking whether there is another drug. During a recurrence, one leg swelling up or sudden breathlessness means coming back the same day."
+ }
+}

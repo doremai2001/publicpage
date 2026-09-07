@@ -1,0 +1,225 @@
+[
+ {
+  "id": "fig-gb-classification",
+  "zh_alt": "示意圖：2021 年 WHO CNS5 決定膠質母細胞瘤這個名字的決策樹。第一步是三道入口門，缺一不可：成人型（不是小兒型瀰漫性膠質瘤）、瀰漫性（不是局限型的那一群）、星細胞性膠質瘤。三道門都過了，才問第二步：IDH（異檸檬酸脫氫酶）有沒有突變。IDH 有突變的那一側再問 1p/19q 共缺失：有共缺失是寡樹突膠質瘤，IDH-mutant 且 1p/19q-codeleted；沒有共缺失是星細胞瘤，IDH-mutant，grade 2、3 或 4，其中 CDKN2A/B 同型合子缺失就直接算 grade 4，不必等組織學。IDH 沒有突變的那一側進入第三步：五個條件裡任何一個成立就夠——微血管增生、壞死、TERT 啟動子突變、EGFR 擴增、第 7 號染色體整條增加加上第 10 號整條減少；成立即為膠質母細胞瘤，IDH-wildtype，CNS WHO grade 4。兩個旁註不在主流程上：第一，光是 IDH 沒有突變不足以定 grade 4，很多良性一點的腫瘤也是 IDH-wildtype，所以還要看那五個條件；第二，EGFR 要看到局部的高倍數擴增才算，trisomy 7 不算，免疫染色也不能用來判定擴增；第三，年輕病人先想小兒型瀰漫性膠質瘤，CNS5 已經不把 glioblastoma 這個詞用在小兒型腫瘤上。圖的最下方是兩條佔比條，來自美國登記資料 CBTRUS 2018 到 2022：在全部腦瘤與中樞神經系統腫瘤裡，膠質母細胞瘤佔 13.7%、腦膜瘤佔 42.6%、其他佔 43.7%；在惡性的那一群裡，膠質母細胞瘤佔 52.2%、其他惡性腦瘤佔 47.8%。台灣的部分只寫 2023 年腦癌新發 742 人，膠質母細胞瘤佔多少查不到官方拆分。本圖不含任何存活數字。",
+  "en_alt": "Schematic decision tree for how the 2021 WHO CNS5 classification arrives at the name glioblastoma. Step one is three entry gates, all of which are required: adult-type (not a paediatric-type diffuse glioma), diffuse (not one of the circumscribed gliomas), and astrocytic glioma. Only once all three gates are passed does step two ask whether IDH (isocitrate dehydrogenase) is mutated. On the IDH-mutant side a second question follows, 1p/19q co-deletion: co-deleted gives oligodendroglioma, IDH-mutant and 1p/19q-codeleted; not co-deleted gives astrocytoma, IDH-mutant, grade 2, 3 or 4, and homozygous deletion of CDKN2A/B makes it grade 4 outright without waiting for histology. The IDH-wildtype side goes to step three, a list of five criteria of which any single one is enough: microvascular proliferation, necrosis, TERT promoter mutation, EGFR amplification, and gain of whole chromosome 7 with loss of whole chromosome 10. Meeting one of them gives glioblastoma, IDH-wildtype, CNS WHO grade 4. Three side notes sit off the main path: first, lack of an IDH mutation alone is not enough to call a tumour grade 4, because plenty of more indolent tumours are also IDH-wildtype, so one of the five criteria must still be met; second, EGFR must show focal high-level amplification, trisomy 7 does not count and immunohistochemistry cannot be used to call amplification; third, in a young patient think of paediatric-type diffuse glioma first, as CNS5 no longer applies the word glioblastoma to paediatric-type tumours. At the foot of the figure two proportion bars carry US registry data from CBTRUS 2018 to 2022: among all brain and other CNS tumours, glioblastoma is 13.7 per cent, meningioma 42.6 per cent and other tumours 43.7 per cent; among malignant tumours only, glioblastoma is 52.2 per cent and other malignant tumours 47.8 per cent. For Taiwan the figure states only that 742 new brain cancers were registered in 2023, with no official breakdown for the glioblastoma share. The figure contains no survival numbers.",
+  "zh_caption": "示意圖，依 2021 WHO CNS5（Louis 2021）、cIMPACT-NOW update 3（Brat 2018）與 CBTRUS 2018–2022 重繪；各研究族群、設計與終點不同，數點不可直接互比。",
+  "en_caption": "Schematic, redrawn from the 2021 WHO CNS5 classification (Louis 2021), cIMPACT-NOW update 3 (Brat 2018) and CBTRUS 2018–2022; the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.",
+  "files": {
+   "desktop": "fig-gb-classification.svg",
+   "mobile": "fig-gb-classification-mobile.svg",
+   "en": "fig-gb-classification-en.svg",
+   "en_mobile": "fig-gb-classification-en-mobile.svg"
+  },
+  "used_by": [
+   "gb-what-it-is"
+  ],
+  "placement": {
+   "article": "gb-what-it-is",
+   "after_h4": "先過三道門，才輪到那五個選項"
+  },
+  "sources": [
+   "A[S1] Louis 2021（2021 WHO CNS5 分類摘要）",
+   "A[S2] Brat 2018（cIMPACT-NOW update 3）",
+   "A[S3] Price 2025（CBTRUS Statistical Report 2018–2022）",
+   "D[S69] 台灣癌症登記中心 Year_Nervous_2023.xlsx（2023 年腦癌 742 例）"
+  ]
+ },
+ {
+  "id": "fig-gb-timeline",
+  "zh_alt": "示意圖：膠質母細胞瘤標準療程（Stupp 規約）的時間軸，分成三段。最上面一條按比例畫出整段療程的形狀：手術之後是①同步期六週、②休息 2 到 6 週、③維持期六個療程（每個療程 28 天）。手術到放療之間標註：資料支持六週以內開始，看不出對存活的影響，這不是越快越好的意思。中間是同步期六週的放大圖，把 42 天一天一格攤開：放療那一排只有週一到週五有格子，六週共 30 格，寫 2 Gy 乘 30 次等於 60 Gy；temozolomide 那一排七天都填滿、含週末，規約寫 75 mg/m²。兩排在週末的落差是這張圖的教學點。下面是維持期的放大圖：六個療程並排，每個療程 28 天，只有前 5 天吃藥、其餘 23 天不吃，規約寫 150 到 200 mg/m²。圖上有一段關於劑量的擋句：這些是隨機試驗規約裡的劑量，不是你的用法用量，也不是可以自己對照的劑量表，你的劑量由你的團隊算，不要自己停藥或補藥。右邊兩張側欄卡片：台灣健保藥品給付規定 9.25 條寫的是需經事前審查核准後使用、每次申請事前審查之療程以三個月為限、再次申請必須提出客觀證據如影像學證實無惡化才可繼續使用，所以真正的節奏器是每三個月一關、續用要附影像，條文裡沒有六個月這三個字；以及延長到 12 個療程的結果是無惡化存活略好、整體存活一樣、副作用比較多。本圖不出現任何存活月數。",
+  "en_alt": "Schematic timeline of the standard glioblastoma course (the Stupp regimen), in three parts. The top strip is drawn to scale and shows the shape of the whole course: after surgery come phase 1, the six concomitant weeks; phase 2, a break of 2 to 6 weeks; and phase 3, maintenance, six cycles of 28 days each. The interval between surgery and radiotherapy is annotated: the data support starting within six weeks with no detectable effect on survival, which is not the same as the sooner the better. The middle panel enlarges the six concomitant weeks, one box per day across 42 days: the radiotherapy row is filled only Monday to Friday, 30 boxes in all, labelled 2 Gy times 30 fractions equals 60 Gy; the temozolomide row is filled on all seven days including weekends, with the protocol dose of 75 mg/m². The step between the two rows at the weekend is the teaching point of the figure. The lower panel enlarges maintenance: six cycles side by side, 28 days each, with only the first 5 days carrying the drug and the other 23 days not, at the protocol dose of 150 to 200 mg/m². A block of text on the figure states that these are the doses written into the randomised trial protocol, that they are not your prescription and not a dose table to check yourself against, that your team calculates your dose, and that you should not stop or add doses on your own. Two side cards carry the Taiwan material: clause 9.25 of the National Health Insurance drug reimbursement rules requires prior authorisation, limits each authorised course to three months, and requires objective evidence such as imaging of no progression before the next course, so the real pacemaker is a three-monthly gate with imaging attached and the clause contains no mention of six months; and extending to 12 cycles gives slightly better progression-free survival, the same overall survival and more side effects. The figure shows no survival times of any kind.",
+  "zh_caption": "示意圖，依 Stupp 2005 的療程規約、Stupp 2009、延長療程的合併分析與 GEINO 14-01，以及衛生福利部中央健康保險署《全民健康保險藥品給付規定》9.25 條文重繪；各研究族群、設計與終點不同，數點不可直接互比。",
+  "en_caption": "Schematic, redrawn from the treatment protocol of Stupp 2005, Stupp 2009, the pooled analysis of extended cycles and GEINO 14-01, together with clause 9.25 of the National Health Insurance Administration drug reimbursement rules (Taiwan); the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.",
+  "files": {
+   "desktop": "fig-gb-timeline.svg",
+   "mobile": "fig-gb-timeline-mobile.svg",
+   "en": "fig-gb-timeline-en.svg",
+   "en_mobile": "fig-gb-timeline-en-mobile.svg"
+  },
+  "used_by": [
+   "gb-standard"
+  ],
+  "placement": {
+   "article": "gb-standard",
+   "after_h4": "六週、一段休息、六個療程：這是三段，不是一段"
+  },
+  "sources": [
+   "B[S1] Stupp 2005（療程規約：60 Gy/30 次、TMZ 75 mg/m²、維持期 150–200 mg/m²）",
+   "B[S9]／B[S10] 手術到放療間隔（≤6 週）",
+   "B[S11] Blumenthal 2017（延長療程的合併分析）",
+   "B[S12] Balana 2020（GEINO 14-01）",
+   "B[S15]／B[S16] 休息期 2–6 週的規約措辭",
+   "B[S70] 健保署《全民健康保險藥品給付規定》9.25 Temozolomide（附表八之二）"
+  ]
+ },
+ {
+  "id": "fig-gb-curve",
+  "zh_alt": "示意圖：怎麼讀膠質母細胞瘤的存活曲線。主圖是兩條存活曲線，時間軸從隨機分派起算 0 到 5 年，縱軸是還活著的比例。上面那條是放療加 temozolomide 組（n=287），標出的數點為：兩年 27.2%（95% 信賴區間 22.2 到 32.5）、三年 16.0%（12.0 到 20.6）、四年 12.1%（8.5 到 16.4）、五年 9.8%（6.4 到 14.0）。下面那條是只做放療組（n=286）：兩年 10.9%、三年 4.4%、四年 3.0%、五年 1.9%。中位存活 14.6 個月處畫一條垂直虛線，線的左邊寫「一半的人在這條線之前」、右邊寫「一半的人在這條線之後」。曲線到五年還沒有碰到底，圖上標註尾巴上的人是真的。曲線形狀為示意，只有標出的點是原文報告的數字。下方三張同樣大小的卡片，是尾巴上三個數字各自的分母：第一，試驗族群五年 9.8%（95% 信賴區間 6.4 到 14.0），來自 EORTC 26981-22981／NCIC CE.3 的放療加 temozolomide 組、n=287、2000 到 2002 年收案，是被隨機分派、體能狀態與年齡足以進試驗的那一群人；第二，真實世界五年 4%（95% 信賴區間 2 到 5），來自 Poon 2020 統合分析、1,291 除以 28,748 人、2005 年以後收案的族群，兩年與三年那一段真的有進步、五年這一段沒有；第三，十年約 0.71%，來自 Tykocki 2018 系統回顧、36 篇研究、162 例、1950 到 2014 年發表，大多沒有做 IDH 檢測，依 2021 年的分類有相當比例今天不會被叫做膠質母細胞瘤，所以正確的說法是「在舊分類下有人活了十年」。另有一格條件機率：再活兩年的機率，診斷當下是 19.8%，診斷後五年是 65.9%（Johnson 2012，SEER 1998 到 2008 年、接受含放療方案的病人，n=10,022），這是族群層次的條件機率，不是誰的個人預測。圖的最下方是一句警語：這條曲線不是任何一個人的預測，它是一群人的統計；中位數不是期限、尾巴不是承諾；年齡、體能狀態、切除程度與 MGMT 會把人往左或往右推，而分級工具只解釋了其中大約兩成的差異，剩下的八成我們不知道是什麼。",
+  "en_alt": "Schematic on how to read a glioblastoma survival curve. The main panel shows two survival curves over 0 to 5 years from randomisation, with the proportion still alive on the vertical axis. The upper curve is the radiotherapy plus temozolomide arm (n=287), with marked points at 27.2 per cent at two years (95 per cent confidence interval 22.2 to 32.5), 16.0 per cent at three years (12.0 to 20.6), 12.1 per cent at four years (8.5 to 16.4) and 9.8 per cent at five years (6.4 to 14.0). The lower curve is the radiotherapy alone arm (n=286): 10.9 per cent at two years, 4.4 per cent at three, 3.0 per cent at four and 1.9 per cent at five. A dashed vertical line at the median survival of 14.6 months is labelled, to its left, half of these people are to the left of this line, and to its right, half of them are to the right of it. At five years the curve has still not reached the floor, and the figure notes that the people on the tail are real. The curve shape is schematic; only the marked points are numbers reported in the paper. Below are three cards of equal size giving the denominator behind each tail number. First, the trial population: 9.8 per cent at five years (95 per cent confidence interval 6.4 to 14.0) from the radiotherapy plus temozolomide arm of EORTC 26981-22981 / NCIC CE.3, n=287, recruited 2000 to 2002, people who were randomised and whose age and performance status were good enough to enter a trial. Second, the real world: 4 per cent at five years (95 per cent confidence interval 2 to 5) from the Poon 2020 meta-analysis, 1,291 of 28,748 patients in cohorts recruited from 2005 onwards, where two- and three-year survival really did improve but five-year survival did not. Third, about 0.71 per cent at ten years from the Tykocki 2018 systematic review of 162 cases in 36 studies published 1950 to 2014, most without IDH testing, so that under the 2021 classification a substantial share would not be called glioblastoma today and the accurate sentence is that under the old classification some people lived ten years. A further panel gives a conditional probability: the probability of living another two years is 19.8 per cent at diagnosis and 65.9 per cent five years after diagnosis (Johnson 2012, SEER 1998 to 2008, patients whose treatment included radiotherapy, n=10,022), a population-level conditional probability and not anyone's personal forecast. At the foot of the figure is a warning: this curve is not a prediction for any one person, it is the statistics of a group; the median is not a deadline and the tail is not a promise; age, performance status, extent of resection and MGMT status push a person left or right, and the prognostic scoring tools explain only about a fifth of that variation, with the other four fifths unaccounted for.",
+  "zh_caption": "示意圖，依 Stupp 2009（EORTC 26981-22981／NCIC CE.3）、Poon 2020、Tykocki 2018 與 Johnson 2012 重繪；曲線形狀為示意，只有標出的數點是原文報告的數字；各研究族群、設計與終點不同，數點不可直接互比。",
+  "en_caption": "Schematic, redrawn from Stupp 2009 (EORTC 26981-22981 / NCIC CE.3), Poon 2020, Tykocki 2018 and Johnson 2012; the curve shape is schematic and only the marked points are numbers reported in the papers; the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.",
+  "files": {
+   "desktop": "fig-gb-curve.svg",
+   "mobile": "fig-gb-curve-mobile.svg",
+   "en": "fig-gb-curve-en.svg",
+   "en_mobile": "fig-gb-curve-en-mobile.svg"
+  },
+  "used_by": [
+   "gb-numbers"
+  ],
+  "placement": {
+   "article": "gb-numbers",
+   "after_h4": "尾巴上那幾個數字，每一個有自己的分母"
+  },
+  "sources": [
+   "B[S2] Stupp 2009（EORTC 26981-22981／NCIC CE.3 五年追蹤）",
+   "B[S1] Stupp 2005（中位存活 14.6 對 12.1 個月）",
+   "B[S40] Poon 2020（真實世界長期存活統合分析）",
+   "B[S38] Tykocki 2018（十年存活系統回顧）",
+   "B[S41] Johnson 2012（SEER 條件機率）",
+   "B[S33] Li 2012（RPA 驗證與簡化）"
+  ]
+ },
+ {
+  "id": "fig-gb-mgmt",
+  "zh_alt": "示意圖：MGMT 甲基化狀態與 temozolomide，整體存活與無惡化存活分成兩張並排的圖，兩張用同一把月數的尺。左圖是整體存活的中位數。MGMT 甲基化那一組：只做放療 15.3 個月（95% 信賴區間 13.0 到 20.9），放療加 temozolomide 21.7 個月（17.4 到 30.4），P 值 0.007。MGMT 未甲基化那一組：只做放療 11.8 個月（9.7 到 14.1），n=54；放療加 temozolomide 12.7 個月（11.6 到 14.4），n=60——兩個信賴區間大幅重疊，這個試驗看不出差別。右圖是無惡化存活的中位數，只畫未甲基化那一列：只做放療 5.9 個月（5.3 到 7.7），n=46；放療加 temozolomide 10.3 個月（6.5 到 14），n=46。兩張圖之間的一句話是：同一群人、同一個試驗，兩個終點的答案不一樣；下面一行小字是 n 只有五、六十人、信賴區間很寬，看不出來不等於證明沒有。圖上另有一格寫「而那個能一刀切開的比較，從來沒有人做過」：系統回顧與統合分析（Alnahhas 2020）自己寫得很清楚，從來沒有任何研究前瞻性地把未甲基化的病人隨機分到只做放療與放療加 temozolomide 去比，所以這一格不是證據顯示沒用，是沒有人做過那個試驗。再下面是高齡族群的隨機分層資料（Perry 2017，65 歲以上，n=562，兩組放療都是 40 Gy 分 15 次）：甲基化那一層（n=165）13.5 對 7.7 個月，風險比 0.53（0.38 到 0.73），P 小於 0.001；未甲基化那一層（n=189）10.0 對 7.9 個月，風險比 0.75（0.56 到 1.01），P 等於 0.055。風險比 0.75 的白話是加了藥那一組在任一時點的死亡風險大約是沒加藥那一組的四分之三，但 P 等於 0.055 表示沒有達到統計顯著。圖的最下面是一段警語：這張圖不能讀成未甲基化就不用吃；無惡化存活有差、整體存活看不出、沒有人做過針對這個族群的隨機試驗，三件事要一起讀；要不要用藥是你跟醫師討論的內容，不要自己停藥。",
+  "en_alt": "Schematic on MGMT methylation status and temozolomide, with overall survival and progression-free survival drawn as two panels side by side on the same scale in months. The left panel gives median overall survival. In the MGMT methylated group: radiotherapy alone 15.3 months (95 per cent confidence interval 13.0 to 20.9), radiotherapy plus temozolomide 21.7 months (17.4 to 30.4), P value 0.007. In the MGMT unmethylated group: radiotherapy alone 11.8 months (9.7 to 14.1), n=54; radiotherapy plus temozolomide 12.7 months (11.6 to 14.4), n=60 — the two confidence intervals overlap heavily and this trial cannot show a difference. The right panel gives median progression-free survival and draws only the unmethylated row: radiotherapy alone 5.9 months (5.3 to 7.7), n=46; radiotherapy plus temozolomide 10.3 months (6.5 to 14), n=46. Between the panels a line reads: same patients, same trial, two endpoints, two answers; and beneath, in small type, that these are groups of only fifty or sixty people with wide confidence intervals, so not being able to show a difference is not the same as showing there is none. A further box states that the comparison which would settle it has never been done: the systematic review and meta-analysis (Alnahhas 2020) says plainly that no study has ever prospectively randomised unmethylated patients between radiotherapy alone and radiotherapy plus temozolomide, so this box is not the evidence shows it does not work but nobody has run that trial. Below that are the randomised stratified data in older patients (Perry 2017, aged 65 and over, n=562, both arms 40 Gy in 15 fractions): in the methylated stratum (n=165) 13.5 versus 7.7 months, hazard ratio 0.53 (0.38 to 0.73), P less than 0.001; in the unmethylated stratum (n=189) 10.0 versus 7.9 months, hazard ratio 0.75 (0.56 to 1.01), P equal to 0.055. In plain words a hazard ratio of 0.75 means the risk of death in the arm that added the drug was about three-quarters of the risk in the arm that did not, at any point during follow-up, but P equal to 0.055 means the gap did not reach statistical significance. The figure closes with a warning: it must not be read as unmethylated means you can skip the drug; progression-free survival differs, overall survival cannot be shown to differ, and nobody has run a randomised trial in this group, and the three have to be read together; whether to use the drug is a conversation with your team, and you should not stop your own treatment.",
+  "zh_caption": "示意圖，依 Hegi 2005（EORTC 26981-22981／NCIC CE.3 的分層分析）、Alnahhas 2020 與 Perry 2017 重繪；各研究族群、設計與終點不同，數點不可直接互比。",
+  "en_caption": "Schematic, redrawn from Hegi 2005 (the stratified analysis of EORTC 26981-22981 / NCIC CE.3), Alnahhas 2020 and Perry 2017; the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.",
+  "files": {
+   "desktop": "fig-gb-mgmt.svg",
+   "mobile": "fig-gb-mgmt-mobile.svg",
+   "en": "fig-gb-mgmt-en.svg",
+   "en_mobile": "fig-gb-mgmt-en-mobile.svg"
+  },
+  "used_by": [
+   "gb-mgmt"
+  ],
+  "placement": {
+   "article": "gb-mgmt",
+   "after_h4": "未甲基化那一格，存活和無惡化存活講的不是同一件事"
+  },
+  "sources": [
+   "B[S17] Hegi 2005（MGMT 分層原始結果）",
+   "B[S18] Alnahhas 2020（未甲基化族群的統合分析與「沒有人做過前瞻隨機比較」）",
+   "B[S29] Perry 2017（CCTG CE.6 高齡分層）"
+  ]
+ },
+ {
+  "id": "fig-gb-elderly",
+  "zh_alt": "示意圖：高齡膠質母細胞瘤的五個隨機試驗，畫在同一張散布圖上。橫軸是療程長度（週），縱軸是中位存活（月）。Keime-Guibert 2007（≥70 歲、KPS ≥70，n=81）：只做支持性照護 16.9 週（約 3.9 個月），支持性照護加 50 Gy 分 28 次 29.1 週（約 6.7 個月），風險比 0.47（0.29 到 0.76），P 等於 0.002；原文以週報告，此處換算為月。Roa 2004（≥60 歲，n=100）：60 Gy 分 30 次 5.1 個月，40 Gy 分 15 次 5.6 個月，P 等於 .57，看不出差別。Nordic 2012（≥60 歲，三組隨機）：60 Gy 分 30 次 6.0 個月，34 Gy 分 10 次 7.5 個月，只吃 temozolomide 不放療 8.3 個月；temozolomide 對標準放療的風險比 0.70（0.52 到 0.93），p 等於 0.01。Roa 2015（高齡或體能較差，n=98，中位追蹤只有 6.3 個月）：40 Gy 分 15 次 6.4 個月，25 Gy 分 5 次 7.9 個月，P 等於 .988，看不出差別。Perry 2017（≥65 歲，n=562，兩組放療都是 40 Gy 分 15 次，圖上用最粗的標記）：只做放療 7.6 個月，放療加 temozolomide 9.3 個月，風險比 0.67（0.56 到 0.80），P 小於 0.001。圖上兩個必要的註記：第一，Perry 的 MGMT 分層——甲基化（n=165）13.5 對 7.7 個月、風險比 0.53（0.38 到 0.73）、P 小於 0.001；未甲基化（n=189）10.0 對 7.9 個月、風險比 0.75（0.56 到 1.01）、P 等於 0.055，沒有達到統計顯著。第二，Roa 2004 的類固醇——需要增加類固醇劑量的人在 60 Gy 分 30 次那一組是 49%、在 40 Gy 分 15 次那一組是 23%（卡方檢定 P 等於 .02），而存活看不出差別（P 等於 .57）。圖說一句：橫軸變短，縱軸沒有掉下來，這就是可以縮短的意思。最下面的警語：決定的是體能狀態，不是生日那一年；短程不劣的結論限在 60 歲以上的膠質母細胞瘤族群，不能寫成年紀大就該縮短；體能狀態很差、幾乎臥床的人被排除在幾乎所有隨機試驗之外，在這一群人身上從來沒有隨機試驗把舒適導向照護和積極的放療或化療拿來比。",
+  "en_alt": "Schematic scatter plot placing five randomised trials in older glioblastoma patients on one pair of axes: length of the course in weeks on the horizontal axis, median survival in months on the vertical axis. Keime-Guibert 2007 (aged 70 and over, KPS 70 or more, n=81): supportive care alone 16.9 weeks (about 3.9 months) versus supportive care plus 50 Gy in 28 fractions 29.1 weeks (about 6.7 months), hazard ratio 0.47 (0.29 to 0.76), P = 0.002; the paper reports weeks, converted to months here. Roa 2004 (aged 60 and over, n=100): 60 Gy in 30 fractions 5.1 months versus 40 Gy in 15 fractions 5.6 months, P = .57, no difference shown. Nordic 2012 (aged 60 and over, three randomised arms): 60 Gy in 30 fractions 6.0 months, 34 Gy in 10 fractions 7.5 months, temozolomide alone without radiotherapy 8.3 months; temozolomide versus standard radiotherapy hazard ratio 0.70 (0.52 to 0.93), p = 0.01. Roa 2015 (elderly or frail, n=98, median follow-up only 6.3 months): 40 Gy in 15 fractions 6.4 months versus 25 Gy in 5 fractions 7.9 months, P = .988, no difference shown. Perry 2017 (aged 65 and over, n=562, both arms 40 Gy in 15 fractions, drawn with the heaviest markers): radiotherapy alone 7.6 months versus radiotherapy plus temozolomide 9.3 months, hazard ratio 0.67 (0.56 to 0.80), P less than 0.001. Two annotations are required on the figure. First, the MGMT strata of Perry: methylated (n=165) 13.5 versus 7.7 months, hazard ratio 0.53 (0.38 to 0.73), P less than 0.001; unmethylated (n=189) 10.0 versus 7.9 months, hazard ratio 0.75 (0.56 to 1.01), P = 0.055, which did not reach statistical significance. Second, the steroids in Roa 2004: 49 per cent of the 60 Gy in 30 fractions arm needed an increase in steroid dose versus 23 per cent of the 40 Gy in 15 fractions arm (chi-squared P = .02), while survival showed no difference (P = .57). The caption line reads: the course gets shorter and the survival does not fall, and that is what it can be shortened means. The closing warning: what decides this is performance status, not the year on the birth certificate; the non-inferiority of the short course applies to glioblastoma patients aged 60 and over and cannot be turned into old means shorten it; and people with poor performance status, largely bedbound, have been excluded from almost every randomised trial, so that in that group no randomised trial has ever compared best supportive care with active radiotherapy or chemotherapy.",
+  "zh_caption": "示意圖，依 Keime-Guibert 2007、Roa 2004、Malmström 2012（Nordic）、Roa 2015 與 Perry 2017 重繪；各研究族群、設計與終點不同，數點不可直接互比。",
+  "en_caption": "Schematic, redrawn from Keime-Guibert 2007, Roa 2004, Malmström 2012 (Nordic), Roa 2015 and Perry 2017; the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.",
+  "files": {
+   "desktop": "fig-gb-elderly.svg",
+   "mobile": "fig-gb-elderly-mobile.svg",
+   "en": "fig-gb-elderly-en.svg",
+   "en_mobile": "fig-gb-elderly-en-mobile.svg"
+  },
+  "used_by": [
+   "gb-elderly"
+  ],
+  "placement": {
+   "article": "gb-elderly",
+   "after_h4": "今天大多數人被建議的，是短程放療再加上藥"
+  },
+  "sources": [
+   "B[S30] Keime-Guibert 2007（放療對只做支持性照護）",
+   "B[S25] Roa 2004（60 Gy 對 40 Gy；類固醇加量 49% 對 23%）",
+   "B[S27] Malmström 2012（Nordic 三組隨機）",
+   "B[S26] Roa 2015（40 Gy 對 25 Gy）",
+   "B[S29] Perry 2017（40 Gy ± temozolomide 與 MGMT 分層）",
+   "B[S5] Cochrane（體能狀態差者被排除於隨機試驗之外）"
+  ]
+ },
+ {
+  "id": "fig-gb-steroid",
+  "zh_alt": "示意圖：糖皮質素（類固醇）的減量形狀，與副作用出現的時間帶。上半是一段抽象的下降階梯，從「起始（症狀性水腫控制住之後）」一階一階降到「最低有效劑量，或停藥」；階數、每一階停多久、每次降多少，這張圖故意不標，並註明各家指引的起始劑量與減量速度彼此不一致、而且部分互相引用，其中一份的證據基礎裡沒有任何一位膠質瘤病人。下半是一條刻度不等距的時間軸，刻度依序為開始用藥、24 到 72 小時、第 7 天、第 28 天、8 週、1 年以上，上面排了五條時間帶：第一，症狀改善——起效在 24 到 72 小時內，擠出去的是水不是腫瘤；第二，庫欣臉與腳踝水腫——第 7 天已經測得到差異（P 等於 0.02）、第 28 天更明顯（P 等於 0.03），隨劑量與時間增加，是隨機試驗裡唯一一項跟劑量明確有關的副作用；第三，精神症狀——開始用藥後 8 週內是急性期，躁的症狀比鬱常見（勝算比 2.42，勝算比不是機率的幾倍），精神病症狀約 2.4%（0.76 到 7.26），GRADE 證據確定性低到極低；第四，骨質流失——骨密度年下降超過 5% 的風險在開始用藥的前兩年最高（丹麥 15,099 位成人的例行 DXA）；第五，腎上腺功能不全——用藥少於 28 天 1.4%、超過一年 27.4%，依劑量分則低劑量組 2.4%、高劑量組 21.5%（74 篇、3,753 位成人，全部以 ACTH 刺激試驗檢測，多為氣喘等非腦瘤族群）。圖上另有一格說明「這張圖上唯一的 mg 數，是研究裡的分組」：腦轉移病人的回溯世代（n=97，1982 年）裡，每天 12 mg 以上那一組肌病變 4.5%、消化性潰瘍 5.6%、高血糖 6.7%，每天 8 mg 以下那一組三項都是 0%——這是研究把病人分成兩組的方式，不是用法用量；潰瘍真正的放大器是類固醇加止痛消炎藥，類固醇單獨相對風險 1.1（0.5 到 2.1）、類固醇加 NSAID 相對風險 4.4（2.0 到 9.7），來自 1991 年非腦瘤族群的巢式病例對照。時間軸的尾端分出兩條路：腎上腺功能不全（沒力氣、頭暈、站起來眼前發黑、噁心）與症狀反彈（頭痛回來、原本好轉的神經症狀又出現），兩者長得一樣但處理方向相反，所以減量期間出現這些狀況要打電話回去，不是自己加量或自己停。圖的最下方是警語：減量表沒有一份是為你算的；這張圖上所有的 mg 數都是研究裡的分組，不是用法用量；不可自行加量、減量或停藥。",
+  "en_alt": "Schematic showing the shape of a corticosteroid taper and when side effects appear. The upper half is an abstract descending staircase running from a starting point, once symptomatic oedema is under control, down to the lowest effective dose or stopping altogether; the number of steps, the length of each step and the size of each drop are deliberately not shown, and a note records that guidelines disagree with one another on starting doses and tapering speed, that some of them cite each other, and that the evidence base of one of them contains no glioma patients at all. The lower half is a time axis that is not to scale, marked in order: start, 24 to 72 hours, day 7, day 28, 8 weeks, and beyond one year. Five bands sit on it. First, symptoms improve, with an effect within 24 to 72 hours, and what is pushed out is water, not tumour. Second, Cushingoid face and ankle oedema, measurably different by day 7 (P = 0.02) and more so by day 28 (P = 0.03), rising with dose and with time, and the only side effect in the randomised trial clearly related to dose. Third, psychiatric symptoms, with the first 8 weeks as the acute phase, manic symptoms commoner than depressive ones (odds ratio 2.42, and an odds ratio is not a multiple of a probability), psychotic symptoms about 2.4 per cent (0.76 to 7.26), and GRADE certainty low to very low. Fourth, bone loss, where the risk of losing more than 5 per cent of bone density in a year is highest in the first two years of use, from routine DXA in 15,099 Danish adults. Fifth, adrenal insufficiency: 1.4 per cent with under 28 days of use and 27.4 per cent beyond a year, and by dose 2.4 per cent in the low-dose group against 21.5 per cent in the high-dose group, from 74 studies and 3,753 adults all tested with ACTH stimulation and mostly non-brain-tumour populations such as asthma. A further panel states that the only milligram figures on the page are study groupings: in a retrospective cohort of brain metastasis patients (n=97, 1982), the group on 12 mg a day or more had myopathy 4.5 per cent, peptic ulcer 5.6 per cent and hyperglycaemia 6.7 per cent, while the group on 8 mg a day or less had 0 per cent for all three — that is how the study split its patients, not a prescription; and for ulcers the real amplifier is a steroid plus an anti-inflammatory painkiller, with steroid alone relative risk 1.1 (0.5 to 2.1) and steroid plus an NSAID relative risk 4.4 (2.0 to 9.7), from a 1991 nested case-control study in a non-brain-tumour population. At the end of the timeline the path forks into adrenal insufficiency (weakness, dizziness, greying out on standing, nausea) and rebound of symptoms (the headache returns, neurological symptoms that had settled come back); they look the same and are handled in opposite directions, so if either happens during a taper the move is to ring the team rather than to add a dose or stop. The figure closes with a warning: not one tapering schedule was worked out for you, every milligram figure on the page is a study grouping and not a prescription, and the drug must not be increased, reduced or stopped on your own.",
+  "zh_caption": "示意圖，依 Jessurun 2019、Piper 1991、Kusudo 2026、Hansen 2025、Broersen 2015 與 EANO 2021 重繪；各研究族群、設計與終點不同，數點不可直接互比。",
+  "en_caption": "Schematic, redrawn from Jessurun 2019, Piper 1991, Kusudo 2026, Hansen 2025, Broersen 2015 and the EANO 2021 guideline; the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.",
+  "files": {
+   "desktop": "fig-gb-steroid.svg",
+   "mobile": "fig-gb-steroid-mobile.svg",
+   "en": "fig-gb-steroid-en.svg",
+   "en_mobile": "fig-gb-steroid-en-mobile.svg"
+  },
+  "used_by": [
+   "gb-steroid"
+  ],
+  "placement": {
+   "article": "gb-steroid",
+   "after_h4": "吃久了才輪到的：感染，還有幾份觀察性資料"
+  },
+  "sources": [
+   "C[S19] Jessurun 2019（起效 24–72 小時、庫欣臉與腳踝水腫的時間與 P 值、Pezner 1982 分組比例、各家指引互相引用）",
+   "C[S21] Piper 1991（類固醇單獨與併用 NSAID 的潰瘍相對風險）",
+   "C[S22] Kusudo 2026（精神症狀統合分析、急性期 ≤8 週、勝算比 2.42、精神病症狀 2.4%）",
+   "C[S23] Hansen 2025（糖皮質素與骨密度，前兩年風險最高）",
+   "C[S24] Broersen 2015（腎上腺功能不全依劑量與療程的比例）",
+   "C[S25] Weller 2021（EANO 指引：無症狀水腫不鼓勵給、應盡快減量）"
+  ]
+ },
+ {
+  "id": "fig-gb-icp",
+  "zh_alt": "示意圖：膠質母細胞瘤病人的三級急症警訊，三條由重到輕的橫向色帶，視覺份量刻意不同。第一級「立刻」——打 119 叫救護車、不要自己開車：抽搐超過 5 分鐘、一次接著一次、發作停了還是叫不醒；意識改變、叫不醒、瞳孔一大一小、血壓升高加心跳變慢加呼吸不規則（庫欣三徵）；幾分鐘到幾小時之內突然出現的單側無力、講話含糊、嘴角歪斜；突然發作的劇烈頭痛，或頭痛合併嘔吐、意識變差；喘、胸痛、咳血、昏厥。第一級裡嵌一個小格說明顱內壓升高怎麼認，是三條線而不是清晨頭痛一條：頭痛的型態改變了、伴隨嘔吐或彎腰咳嗽平躺時加重、合併新出現的神經學變化；並註明有頭痛的腦瘤病人只有 48%（Forsyth 1993，n=111），所以沒有頭痛不能拿來排除。第二級「當天」——現在就出門、不要等明天門診：耳溫或口溫量到一次 38.0 度就出門；解黑便或吐出咖啡色的東西；單側小腿腫脹、疼痛、壓痛、發紅發熱；這幾天慢慢變明顯的單側無力或走路不穩；手術傷口紅腫滲液；類固醇減量之後的沒力氣、頭暈、站起來眼前發黑。第三級「這次門診」——不用衝但一定要講出口：頭痛的型態變了、情緒或行為改變、走路變得不太穩。圖的下半有三個補充格。發燒那一格：38.0 度用大字寫成行動線（量到一次就出門），38.3 度用小灰字標成指引定義的單次口溫門檻、不是你的行動線；三個打叉的動作是不要重量一次看看、不要等它持續、不要等到 38.3；並註明到了急診指引的目標是分診後 1 小時內給第一劑抗生素，以及同步治療期的血球資料——grade 3 或 4 的血液毒性 7%（隨機試驗，n=573）、grade 3 或 4 血小板低下 19% 且中位持續 32 天、任何等級的血小板低下 61.1%。血栓那一格只寫症狀與行動：深部靜脈栓塞（單側小腿腫脹、疼痛、壓痛、發紅發熱）馬上打電話給醫師；肺栓塞（呼吸困難、心跳很快、深呼吸更痛的胸痛、咳血、昏厥）立即就醫；grade 4 膠質瘤的靜脈血栓栓塞不同研究報 6.2% 到 31%、丹麥全國登記 6.8%，事件組成大約是深部靜脈栓塞六成、肺栓塞三成五、腦靜脈竇栓塞半成，而這是不同研究的區間、不是同一群人；並明寫要不要吃預防性抗凝血藥這張圖不畫，那是醫師的決定。抽搐那一格：5 分鐘是行動線（叫救護車）、30 分鐘開始有長期後果，並註明從家裡出發到藥物起效本身就會吃掉那 30 分鐘。最後一句：三級不是嚴重度排名，是多快要動作；最上面那一級請叫救護車，不要自己開車、不要先打電話問。",
+  "en_alt": "Schematic of three tiers of emergency warning signs for glioblastoma patients, drawn as three horizontal bands of deliberately different visual weight. Tier one, now — call an ambulance and do not drive yourself: a seizure lasting more than 5 minutes, one seizure straight after another, or not waking up after it stops; altered consciousness, unrousable, unequal pupils, or rising blood pressure with a slowing pulse and irregular breathing (Cushing's triad); weakness down one side, slurred speech or a drooping mouth that came on over minutes to hours; a sudden severe headache, or a headache with vomiting or reduced alertness; breathlessness, chest pain, coughing up blood or fainting. Inside tier one an inset explains that raised intracranial pressure is recognised by three lines rather than by morning headache alone: the pattern of the headache has changed, it comes with vomiting or worsens on bending, coughing or lying flat, and it comes with a new neurological change; with a note that only 48 per cent of brain tumour patients have headache at all (Forsyth 1993, n=111), so no headache cannot be used to rule anything out. Tier two, today — come in now and do not wait for tomorrow's clinic: a single ear or oral temperature reading of 38.0 degrees; black stools or vomiting something that looks like coffee grounds; swelling, pain, tenderness, redness or warmth in one calf; weakness down one side or unsteady walking that has come on gradually over days; a surgical wound that is red, swollen or leaking; and weakness, dizziness or greying out on standing after a steroid dose reduction. Tier three, at this clinic — no rush but say it out loud: the pattern of your headaches has changed, changes in mood or behaviour, and walking that has become less steady. Three supporting panels sit below. Fever: 38.0 degrees is set in large type as the action line, one reading and you leave the house, while 38.3 degrees is set in small grey type as the guideline's single oral temperature threshold and not your action line; three crossed-out actions are do not take it again to see, do not wait for it to persist, and do not wait for 38.3; with a note that the guideline target once you are there is the first dose of antibiotic within 1 hour of triage, and the blood count data from the concomitant phase — grade 3 or 4 haematological toxicity 7 per cent (randomised trial, n=573), grade 3 or 4 thrombocytopenia 19 per cent with a median duration of 32 days, and thrombocytopenia of any grade 61.1 per cent. The clot panel carries symptoms and action only: deep vein thrombosis (swelling, pain, tenderness, redness or warmth in one calf) means phone your doctor straight away; pulmonary embolism (breathlessness, a fast heartbeat, chest pain worse on breathing in, coughing up blood, fainting) means seek medical care immediately; venous thromboembolism in grade 4 glioma is reported at 6.2 to 31 per cent across different studies and 6.8 per cent in the Danish national registry, with events splitting roughly into deep vein thrombosis about 60 per cent, pulmonary embolism about 35 per cent and cerebral venous thrombosis about 5 per cent, and that is a range across different studies rather than one group of people; the panel says explicitly that whether to take a preventive anticoagulant is not drawn here because it is the doctor's decision. The seizure panel: five minutes is the line for acting (call an ambulance) and thirty minutes is when long-term consequences begin, with a note that leaving the house, reaching the emergency department, getting a line in and waiting for the drug to work will use up those thirty minutes on their own. The figure closes: the tiers are not a ranking of severity but of how fast to move, and for the top tier call an ambulance rather than driving or phoning around first.",
+  "zh_caption": "示意圖，依 Trinka 2015（癲癇重積定義）、Forsyth 1993、Olaru 2023（顱內壓綜述）、Hovman 2021、de Sousa Bernardes 2023、Binjabal 2024、Freifeld 2011（IDSA）、Taplitz 2018（ASCO/IDSA）、美國 CDC 的癲癇急救頁與血栓症狀頁，以及 Stupp 2005 重繪；各研究族群、設計與終點不同，數點不可直接互比。",
+  "en_caption": "Schematic, redrawn from Trinka 2015 (definition of status epilepticus), Forsyth 1993, Olaru 2023 (review of raised intracranial pressure), Hovman 2021, de Sousa Bernardes 2023, Binjabal 2024, Freifeld 2011 (IDSA), Taplitz 2018 (ASCO/IDSA), the US CDC seizure first-aid and blood-clot symptom pages, and Stupp 2005; the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.",
+  "files": {
+   "desktop": "fig-gb-icp.svg",
+   "mobile": "fig-gb-icp-mobile.svg",
+   "en": "fig-gb-icp-en.svg",
+   "en_mobile": "fig-gb-icp-en-mobile.svg"
+  },
+  "used_by": [
+   "gb-warning-signs"
+  ],
+  "placement": {
+   "article": "gb-warning-signs",
+   "after_h4": "三級：叫救護車、當天回來、這次門診一定要講"
+  },
+  "sources": [
+   "C[S35] Trinka 2015（癲癇重積的 t1 五分鐘與 t2 三十分鐘）",
+   "C[S40] Forsyth 1993（腦瘤病人頭痛 48%、n=111）",
+   "C[S41] Olaru 2023（顱內壓升高的臨床表現綜述）",
+   "C[S42] Hovman 2021（丹麥全國登記 grade 4 靜脈血栓栓塞 6.8%）",
+   "C[S43] de Sousa Bernardes 2023（grade 4 6.2%–31%、事件組成、術後時間窗）",
+   "C[S44] Binjabal 2024（單中心 GBM 世代）",
+   "C[S47] Freifeld 2011（IDSA 發燒性嗜中性球低下定義）",
+   "C[S48] Taplitz 2018（ASCO/IDSA：分診後一小時內給第一劑抗生素）",
+   "C[S52] 美國 CDC 癲癇急救與血栓症狀頁",
+   "C[S1] Stupp 2005（grade 3–4 血液毒性 7%，n=573）",
+   "C[S13] Gerber（grade 3–4 血小板低下 19%、中位 32 天）",
+   "C[S14] van Hout（任何等級血小板低下 61.1%）"
+  ]
+ },
+ {
+  "id": "fig-gb-mri",
+  "zh_alt": "示意圖：追蹤 MRI 的時程與假性惡化的時間窗。上半是一條刻度不等距的時間軸，依序是：手術；術後 MRI（EANO 建議 48 小時內、NICE 建議 72 小時內，兩套並列）；六週同步化放療（放療加 temozolomide）；放療後 MRI，RANO 2.0 從 2023 年起以這一張當基準線；放療後 12 週，是假性惡化的高風險窗；之後每 2 到 6 個月一次，指引自己用的詞是 common practice、也就是慣例。時間軸旁的方格逐條寫出規則：RANO 2.0 說，因為放療後十二週內假性惡化的發生率很高，這段期間要判定惡化，必須在治療繼續的前提下用重複 MRI，或以病理證據確認；EANO 的版本是懷疑惡化時 4 到 8 週後複查。並加一句：這兩條都是判讀規則，不是你可以自己領走的等待期，它們成立的前提是治療持續、監測持續、由醫師判定臨床穩定，不是把回診日往後挪。下半是分母。第一條長條是放療後三個月那張片子的判讀（Blakstad 2024，膠質母細胞瘤世代 n=284）：假性惡化 53 人（原文報 19.4%）、真的惡化 113 人（原文報 41.4%）、穩定 104 人（原文報 38.1%）。第二條長條只看片子看起來變壞的那 166 個人（53 加 113）：假性惡化 53 人約三分之一、真的惡化 113 人約三分之二。圖上標明三分之一與三分之二是由原文人數換算的，原文報的是 19.4%、41.4%、38.1%。另補一格：六個月那一次的假性惡化是 7.0%，扣掉重複計算之後新出現的只有 3.8%。最後一段警語：這是回頭重判之後才算得出來的比例，不是你當下拿著片子可以自我判斷的機率；看起來變壞的人裡面，往壞處想的那一邊仍然比較大，三分之二是真的惡化；所以先不要慌跟照計畫回診、照計畫治療是同一句話。",
+  "en_alt": "Schematic of the follow-up MRI schedule and the pseudoprogression window. The upper half is a time axis that is not to scale, running through: surgery; the post-operative MRI, with both recommendations shown, EANO within 48 hours and NICE within 72 hours; six weeks of chemoradiotherapy with radiotherapy plus temozolomide; the post-radiotherapy MRI, which since 2023 RANO 2.0 takes as the baseline; 12 weeks after radiotherapy, the high-risk window for pseudoprogression; and then a scan every 2 to 6 months, which the guideline itself calls common practice. Boxes beside the axis set out the rules: RANO 2.0 states that because the incidence of pseudoprogression is high in the 12 weeks after radiotherapy, defining progression during that period requires continuation of treatment together with a repeat MRI or histopathological evidence; the EANO version is to repeat the scan in 4 to 8 weeks when progression is suspected. A further line states that both are rules for reading scans and not a waiting period a patient can take away and use alone, since they hold only while treatment continues, monitoring continues and a doctor judges the patient clinically stable, and are not a licence to push the appointment back. The lower half gives the denominators. The first bar shows how the three-month post-radiotherapy scan was classified in the Blakstad 2024 glioblastoma cohort of 284 patients: pseudoprogression 53 (reported as 19.4 per cent), true progression 113 (reported as 41.4 per cent) and stable disease 104 (reported as 38.1 per cent). The second bar looks only at the 166 whose scans looked worse, that is 53 plus 113: pseudoprogression 53, about one third, and true progression 113, about two thirds. The figure notes that the one third and two thirds are converted from the counts in the paper, which itself reports 19.4, 41.4 and 38.1 per cent. A further note records that at six months pseudoprogression was 7.0 per cent, and after removing cases already counted only 3.8 per cent were new. The closing warning: these proportions could only be worked out by going back and re-reading the scans, and are not a probability that can be applied to your own scan on the day; among people whose scans looked worse the darker side is still the larger one, with two thirds being real progression; so not panicking yet and keeping to the follow-up and the treatment are the same sentence, not two different ones.",
+  "zh_caption": "示意圖，依 Blakstad 2024（挪威世代）、RANO 2.0（Wen 2023）、EANO 2021 指引與 INTERVAL-GB 2024 重繪；各研究族群、設計與終點不同，數點不可直接互比。",
+  "en_caption": "Schematic, redrawn from Blakstad 2024 (Norwegian cohort), RANO 2.0 (Wen 2023), the EANO 2021 guideline and INTERVAL-GB 2024; the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.",
+  "files": {
+   "desktop": "fig-gb-mri.svg",
+   "mobile": "fig-gb-mri-mobile.svg",
+   "en": "fig-gb-mri-en.svg",
+   "en_mobile": "fig-gb-mri-en-mobile.svg"
+  },
+  "used_by": [
+   "gb-followup"
+  ],
+  "placement": {
+   "article": "gb-followup",
+   "after_h4": "看起來變壞的那 166 個人裡，53 個是假性惡化、113 個是真的"
+  },
+  "sources": [
+   "D[S3] Blakstad 2024（放療後假性惡化世代 n=284：53／113／104，六個月 7.0%、新發 3.8%）",
+   "D[S2] Wen 2023（RANO 2.0：放療後 MRI 為基準線、十二週內確認規則）",
+   "D[S5] Weller 2021（EANO：懷疑惡化 4–8 週後複查、追蹤 2–6 個月為 common practice）",
+   "D[S10] INTERVAL-GB 2024（NICE 72 小時／EANO 48 小時兩套術後 MRI 建議）"
+  ]
+ }
+]
