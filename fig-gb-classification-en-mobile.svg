@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1804" viewBox="0 0 620 1804" role="img" aria-labelledby="t d">
+  <title id="t">The 2021 WHO CNS5 decision tree: three gates first, then the five-item list</title>
+  <desc id="d">Schematic decision tree for how the 2021 WHO CNS5 classification arrives at the name glioblastoma. Step one is three entry gates, all of which are required: adult-type (not a paediatric-type diffuse glioma), diffuse (not one of the circumscribed gliomas), and astrocytic glioma. Only once all three gates are passed does step two ask whether IDH (isocitrate dehydrogenase) is mutated. On the IDH-mutant side a second question follows, 1p/19q co-deletion: co-deleted gives oligodendroglioma, IDH-mutant and 1p/19q-codeleted; not co-deleted gives astrocytoma, IDH-mutant, grade 2, 3 or 4, and homozygous deletion of CDKN2A/B makes it grade 4 outright without waiting for histology. The IDH-wildtype side goes to step three, a list of five criteria of which any single one is enough: microvascular proliferation, necrosis, TERT promoter mutation, EGFR amplification, and gain of whole chromosome 7 with loss of whole chromosome 10. Meeting one of them gives glioblastoma, IDH-wildtype, CNS WHO grade 4. Three side notes sit off the main path: first, lack of an IDH mutation alone is not enough to call a tumour grade 4, because plenty of more indolent tumours are also IDH-wildtype, so one of the five criteria must still be met; second, EGFR must show focal high-level amplification, trisomy 7 does not count and immunohistochemistry cannot be used to call amplification; third, in a young patient think of paediatric-type diffuse glioma first, as CNS5 no longer applies the word glioblastoma to paediatric-type tumours. At the foot of the figure two proportion bars carry US registry data from CBTRUS 2018 to 2022: among all brain and other CNS tumours, glioblastoma is 13.7 per cent, meningioma 42.6 per cent and other tumours 43.7 per cent; among malignant tumours only, glioblastoma is 52.2 per cent and other malignant tumours 47.8 per cent. For Taiwan the figure states only that 742 new brain cancers were registered in 2023, with no official breakdown for the glioblastoma share. The figure contains no survival numbers.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1804" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="62" font-size="13" fill="#A98722" font-weight="800" letter-spacing="2.5px">2021 WHO CNS5 — HOW THE NAME IS DECIDED</text>
+<text x="40" y="108" font-size="27" fill="#123641" font-weight="800" class="r">Three gates first, then the five-item list</text>
+<text x="40" y="147.48" font-size="15.5" fill="#527078">The 2021 WHO CNS5 classification asks three entry questions first;</text>
+<text x="40" y="169.95" font-size="15.5" fill="#527078">only once all three are passed do the molecular criteria count.</text>
+<text x="40" y="192.43" font-size="15.5" fill="#527078">This figure shows how a name is reached. It carries no survival</text>
+<text x="40" y="214.9" font-size="15.5" fill="#527078">numbers — those belong to the article on what the numbers mean.</text>
+<text x="40" y="273.38" font-size="16.34" fill="#8F7418" font-weight="800">Step 1 | Three gates (entry conditions, all three required)</text>
+<rect x="40" y="295.78" width="540" height="49" rx="14" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="58" y="319.78" font-size="17" fill="#123641" font-weight="800">Adult-type</text>
+<text x="58" y="339.78" font-size="13.5" fill="#527078">not a paediatric-type diffuse glioma</text>
+<line x1="310" y1="346.78" x2="310" y2="353.42" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="310,360.78 306.74,353.48 313.26,353.48" fill="#B9AE94"/>
+<rect x="40" y="366.78" width="540" height="49" rx="14" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="58" y="390.78" font-size="17" fill="#123641" font-weight="800">Diffuse</text>
+<text x="58" y="410.78" font-size="13.5" fill="#527078">not one of the circumscribed gliomas</text>
+<line x1="310" y1="417.78" x2="310" y2="424.42" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="310,431.78 306.74,424.48 313.26,424.48" fill="#B9AE94"/>
+<rect x="40" y="437.78" width="540" height="49" rx="14" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="58" y="461.78" font-size="17" fill="#123641" font-weight="800">Astrocytic glioma</text>
+<text x="58" y="481.78" font-size="13.5" fill="#527078">a diffuse glioma of astrocytic lineage</text>
+<text x="40" y="514.78" font-size="12.9" fill="#527078">Only after all three gates does the molecular work-up decide the name.</text>
+<rect x="40" y="524.02" width="540" height="46" rx="14" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="60" y="547.24" font-size="16.34" fill="#8F7418" font-weight="800">Step 2 | Is IDH (isocitrate dehydrogenase) mutated?</text>
+<line x1="310" y1="574.02" x2="310" y2="584.66" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="310,592.02 306.74,584.72 313.26,584.72" fill="#B9AE94"/>
+<rect x="40" y="596.02" width="540" height="34" rx="17" fill="#00806B"/>
+<text x="310" y="619.02" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">IDH-mutant</text>
+<text x="44" y="660.02" font-size="14.62" fill="#123641" font-weight="800">Ask once more: 1p/19q co-deletion?</text>
+<rect x="40" y="667.82" width="540" height="44.06" rx="12" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+<line x1="40" y1="671.82" x2="40" y2="707.88" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<text x="56" y="687.82" font-size="13.5" fill="#00806B" font-weight="800">Co-deleted</text>
+<text x="56" y="702.22" font-size="12.9" fill="#345963" font-weight="600">Oligodendroglioma, IDH-mutant and 1p/19q-codeleted</text>
+<rect x="40" y="721.88" width="540" height="44.06" rx="12" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+<line x1="40" y1="725.88" x2="40" y2="761.94" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<text x="56" y="741.88" font-size="13.5" fill="#00806B" font-weight="800">Not co-deleted</text>
+<text x="56" y="756.28" font-size="12.9" fill="#345963" font-weight="600">Astrocytoma, IDH-mutant (grade 2 / 3 / 4)</text>
+<rect x="40" y="775.94" width="540" height="54" rx="10" fill="none" stroke="#B9AE94" stroke-width="1.6" stroke-dasharray="5 5"/>
+<text x="54" y="796.94" font-size="13.5" fill="#527078">On the astrocytoma branch: homozygous deletion of CDKN2A/B makes it grade</text>
+<text x="54" y="815.94" font-size="13.5" fill="#527078">4 outright, without waiting for histology.</text>
+<line x1="310" y1="833.94" x2="310" y2="838.58" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="310,845.94 306.74,838.64 313.26,838.64" fill="#B9AE94"/>
+<rect x="40" y="851.94" width="540" height="34" rx="17" fill="#96790F"/>
+<text x="310" y="874.94" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">IDH-wildtype (no IDH mutation)</text>
+<text x="44" y="915.94" font-size="14.62" fill="#123641" font-weight="800">Step 3 | Five criteria — any single one is enough</text>
+<rect x="40" y="922.02" width="540" height="29.2" rx="10" fill="#F3E8CD"/>
+<circle cx="60" cy="936.62" r="9" fill="#96790F"/>
+<text x="60" y="941.12" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="78" y="940.06" font-size="12.47" fill="#345963" font-weight="600">Microvascular proliferation</text>
+<rect x="40" y="957.22" width="540" height="29.2" rx="10" fill="#F3E8CD"/>
+<circle cx="60" cy="971.82" r="9" fill="#96790F"/>
+<text x="60" y="976.32" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="78" y="975.26" font-size="12.47" fill="#345963" font-weight="600">Necrosis</text>
+<rect x="40" y="992.42" width="540" height="29.2" rx="10" fill="#F3E8CD"/>
+<circle cx="60" cy="1007.02" r="9" fill="#96790F"/>
+<text x="60" y="1011.52" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">3</text>
+<text x="78" y="1010.46" font-size="12.47" fill="#345963" font-weight="600">TERT promoter mutation</text>
+<rect x="40" y="1027.62" width="540" height="29.2" rx="10" fill="#F3E8CD"/>
+<circle cx="60" cy="1042.22" r="9" fill="#96790F"/>
+<text x="60" y="1046.72" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">4</text>
+<text x="78" y="1045.66" font-size="12.47" fill="#345963" font-weight="600">EGFR amplification</text>
+<rect x="40" y="1062.82" width="540" height="29.2" rx="10" fill="#F3E8CD"/>
+<circle cx="60" cy="1077.42" r="9" fill="#96790F"/>
+<text x="60" y="1081.92" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">5</text>
+<text x="78" y="1080.86" font-size="12.47" fill="#345963" font-weight="600">Gain of whole chromosome 7 and loss of whole chromosome 10 (+7 / −10)</text>
+<line x1="310" y1="1104.02" x2="310" y2="1114.82" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<polygon points="310,1124.02 305.92,1114.89 314.08,1114.89" fill="#96790F"/>
+<g filter="url(#sh)"><rect x="40" y="1132.02" width="540" height="36.64" rx="12" fill="#96790F"/></g>
+<text x="56" y="1154.38" font-size="14.62" fill="#FFFFFF" font-weight="800">Glioblastoma, IDH-wildtype, CNS WHO grade 4</text>
+<rect x="40" y="1194.66" width="540" height="236.83999999999946" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="64" y="1224.66" font-size="14.62" fill="#8F7418" font-weight="800">Side notes (off the main path, and often got wrong)</text>
+<circle cx="70" cy="1248.02" r="4.5" fill="#C9A83E"/>
+<text x="84" y="1253.02" font-size="12.47" fill="#345963">Lack of an IDH mutation on its own is not enough to call something grade 4 —</text>
+<text x="84" y="1271.08" font-size="12.47" fill="#345963">plenty of more indolent tumours are also IDH-wildtype, so one of the five</text>
+<text x="84" y="1289.14" font-size="12.47" fill="#345963">criteria above still has to be met (cIMPACT-NOW update 3).</text>
+<circle cx="70" cy="1314.2" r="4.5" fill="#C9A83E"/>
+<text x="84" y="1319.2" font-size="12.47" fill="#345963">EGFR must show focal high-level amplification. Trisomy 7 does not count, and</text>
+<text x="84" y="1337.26" font-size="12.47" fill="#345963">immunohistochemistry cannot be used to call amplification (cIMPACT-NOW</text>
+<text x="84" y="1355.32" font-size="12.47" fill="#345963">update 3).</text>
+<circle cx="70" cy="1380.38" r="4.5" fill="#C9A83E"/>
+<text x="84" y="1385.38" font-size="12.47" fill="#345963">In a young patient, think of paediatric-type diffuse glioma first; CNS5 no</text>
+<text x="84" y="1403.44" font-size="12.47" fill="#345963">longer applies the word &quot;glioblastoma&quot; to paediatric-type tumours.</text>
+<text x="40" y="1465.5" font-size="15.48" fill="#123641" font-weight="800">How much of all brain tumours it accounts for (US registry data, CBTRUS 2018–2022)</text>
+<text x="40" y="1503.5" font-size="12.47" fill="#527078" font-weight="600">All brain and other CNS tumours</text>
+<rect x="40" y="1513.5" width="71.98" height="30" rx="6" fill="#96790F"/>
+<rect x="113.98" y="1513.5" width="228.04" height="30" rx="6" fill="#5C77C4"/>
+<text x="228" y="1533" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Meningioma 42.6%</text>
+<rect x="344.02" y="1513.5" width="235.98" height="30" rx="6" fill="#ECE8DE"/>
+<text x="462.01" y="1533" font-size="12.5" fill="#345963" font-weight="700" text-anchor="middle">Other 43.7%</text>
+<text x="40" y="1559.5" font-size="12" fill="#527078">Glioblastoma 13.7%｜Meningioma 42.6%｜Other 43.7%</text>
+<text x="40" y="1591.5" font-size="12.47" fill="#527078" font-weight="600">Malignant tumours only</text>
+<rect x="40" y="1601.5" width="279.88" height="30" rx="6" fill="#96790F"/>
+<text x="179.94" y="1621" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Glioblastoma 52.2%</text>
+<rect x="321.88" y="1601.5" width="258.12" height="30" rx="6" fill="#ECE8DE"/>
+<text x="450.94" y="1621" font-size="12.5" fill="#345963" font-weight="700" text-anchor="middle">Other malignant tumours 47.8%</text>
+<text x="40" y="1661.5" font-size="12.04" fill="#527078">Both bars are US registry data. For Taiwan: 742 new brain cancers were registered in</text>
+<text x="40" y="1681.5" font-size="12.04" fill="#527078">2023; what share of them were glioblastoma, I could not find an official breakdown for.</text>
+<text x="40" y="1719.5" font-size="14" fill="#527078">Schematic, redrawn from the 2021 WHO CNS5 classification (Louis 2021),</text>
+<text x="40" y="1740.5" font-size="14" fill="#527078">cIMPACT-NOW update 3 (Brat 2018) and CBTRUS 2018–2022; the cohorts,</text>
+<text x="40" y="1761.5" font-size="14" fill="#527078">designs and endpoints of the underlying studies differ, so the data points must</text>
+<text x="40" y="1782.5" font-size="14" fill="#527078">not be compared directly.</text>
+  </g>
+</svg>

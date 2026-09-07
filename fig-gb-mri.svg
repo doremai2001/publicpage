@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1177" viewBox="0 0 1440 1177" role="img" aria-labelledby="t d">
+  <title id="t">追蹤 MRI 的時程，與假性惡化那段時間窗的分母</title>
+  <desc id="d">示意圖：追蹤 MRI 的時程與假性惡化的時間窗。上半是一條刻度不等距的時間軸，依序是：手術；術後 MRI（EANO 建議 48 小時內、NICE 建議 72 小時內，兩套並列）；六週同步化放療（放療加 temozolomide）；放療後 MRI，RANO 2.0 從 2023 年起以這一張當基準線；放療後 12 週，是假性惡化的高風險窗；之後每 2 到 6 個月一次，指引自己用的詞是 common practice、也就是慣例。時間軸旁的方格逐條寫出規則：RANO 2.0 說，因為放療後十二週內假性惡化的發生率很高，這段期間要判定惡化，必須在治療繼續的前提下用重複 MRI，或以病理證據確認；EANO 的版本是懷疑惡化時 4 到 8 週後複查。並加一句：這兩條都是判讀規則，不是你可以自己領走的等待期，它們成立的前提是治療持續、監測持續、由醫師判定臨床穩定，不是把回診日往後挪。下半是分母。第一條長條是放療後三個月那張片子的判讀（Blakstad 2024，膠質母細胞瘤世代 n=284）：假性惡化 53 人（原文報 19.4%）、真的惡化 113 人（原文報 41.4%）、穩定 104 人（原文報 38.1%）。第二條長條只看片子看起來變壞的那 166 個人（53 加 113）：假性惡化 53 人約三分之一、真的惡化 113 人約三分之二。圖上標明三分之一與三分之二是由原文人數換算的，原文報的是 19.4%、41.4%、38.1%。另補一格：六個月那一次的假性惡化是 7.0%，扣掉重複計算之後新出現的只有 3.8%。最後一段警語：這是回頭重判之後才算得出來的比例，不是你當下拿著片子可以自我判斷的機率；看起來變壞的人裡面，往壞處想的那一邊仍然比較大，三分之二是真的惡化；所以先不要慌跟照計畫回診、照計畫治療是同一句話。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1177" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="4px">FOLLOW-UP MRI AND THE PSEUDOPROGRESSION WINDOW</text>
+<text x="84" y="148" font-size="42" fill="#123641" font-weight="800" class="r">看起來變壞的那 166 個人裡，53 個是假性惡化、113 個是真的</text>
+<text x="84" y="206.08" font-size="20" fill="#527078">上半是追蹤 MRI 的時程，以及放療後那段假性惡化的高風險窗。</text>
+<text x="84" y="235.08" font-size="20" fill="#527078">下半是分母：同一批人，換一個問法，比例就換一個。</text>
+<g filter="url(#sh)">
+<rect x="84" y="284.08" width="1272" height="346.99999999999994" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="106" y="316.08" font-size="18" fill="#123641" font-weight="800">追蹤 MRI 的時程（時間軸刻度不等距）</text>
+<rect x="962.4" y="354.08" width="315.12" height="44" rx="10" fill="#F6E2E0"/>
+<line x1="114" y1="376.08" x2="1326" y2="376.08" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="butt"/>
+<circle cx="114" cy="376.08" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="110" y="350.08" font-size="14.5" fill="#123641" font-weight="800" text-anchor="start">手術</text>
+<circle cx="356.4" cy="376.08" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="356.4" y="404.08" font-size="14.5" fill="#123641" font-weight="800" text-anchor="middle">術後 MRI</text>
+<text x="356.4" y="423.08" font-size="12" fill="#527078" text-anchor="middle">EANO：48 小時內</text>
+<text x="356.4" y="440.08" font-size="12" fill="#527078" text-anchor="middle">NICE：72 小時內</text>
+<circle cx="598.8" cy="376.08" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="598.8" y="333.08" font-size="14.5" fill="#123641" font-weight="800" text-anchor="middle">六週同步化放療</text>
+<text x="598.8" y="352.08" font-size="12" fill="#527078" text-anchor="middle">放療＋temozolomide</text>
+<circle cx="841.2" cy="376.08" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="841.2" y="404.08" font-size="14.5" fill="#123641" font-weight="800" text-anchor="middle">放療後 MRI</text>
+<text x="841.2" y="423.08" font-size="12" fill="#527078" text-anchor="middle">RANO 2.0 從 2023 年起</text>
+<text x="841.2" y="440.08" font-size="12" fill="#527078" text-anchor="middle">以這一張當基準線</text>
+<circle cx="1083.6" cy="376.08" r="10" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="1083.6" y="333.08" font-size="14.5" fill="#123641" font-weight="800" text-anchor="middle">放療後 12 週</text>
+<text x="1083.6" y="352.08" font-size="12" fill="#527078" text-anchor="middle">假性惡化高風險窗</text>
+<circle cx="1326" cy="376.08" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="1318" y="404.08" font-size="14.5" fill="#123641" font-weight="800" text-anchor="end">之後每 2–6 個月</text>
+<text x="1318" y="423.08" font-size="12" fill="#527078" text-anchor="end">指引自己用的詞是</text>
+<text x="1318" y="440.08" font-size="12" fill="#527078" text-anchor="end">common practice（慣例）</text>
+<rect x="106" y="492.08" width="1228" height="128.99999999999994" rx="14" fill="none" stroke="#C9A83E" stroke-width="2"/>
+<text x="124" y="518.08" font-size="16" fill="#8F7418" font-weight="800">那段十二週的窗，規則是這樣寫的</text>
+<text x="124" y="542.08" font-size="14.5" fill="#345963">RANO 2.0：因為放療後十二週內假性惡化的發生率很高，這段期間要判定惡化，必須在「治療繼續」的前提下用重複 MRI，或以病理證據確認。EANO 的版本是：懷疑惡化時，4 到 8 週</text>
+<text x="124" y="563.08" font-size="14.5" fill="#345963">後複查。</text>
+<text x="124" y="594.08" font-size="14.5" fill="#B04A4A" font-weight="700">這兩條都是判讀規則，不是你可以自己領走的等待期。它們成立的前提是治療持續、監測持續、由醫師判定臨床穩定——不是把回診日往後挪。</text>
+<g filter="url(#sh)">
+<rect x="84" y="657.0799999999999" width="1272" height="345.0" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="106" y="689.08" font-size="18" fill="#123641" font-weight="800">同一批人，兩個分母</text>
+<text x="106" y="733.08" font-size="14" fill="#527078" font-weight="600">放療後三個月那張片子的判讀（Blakstad 2024，膠質母細胞瘤世代 n=284）</text>
+<rect x="106" y="759.08" width="239.05" height="46" rx="8" fill="#00806B"/>
+<text x="226.53" y="781.08" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">假性惡化 53 人</text>
+<text x="226.53" y="798.08" font-size="11.5" fill="#FFFFFF" text-anchor="middle" opacity="0.9">原文報 19.4%</text>
+<rect x="347.05" y="759.08" width="511.94" height="46" rx="8" fill="#B04A4A"/>
+<text x="604.02" y="781.08" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">真的惡化 113 人</text>
+<text x="604.02" y="798.08" font-size="11.5" fill="#FFFFFF" text-anchor="middle" opacity="0.9">原文報 41.4%</text>
+<rect x="860.99" y="759.08" width="473.01" height="46" rx="8" fill="#7A6E58"/>
+<text x="1097.5" y="781.08" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">穩定 104 人</text>
+<text x="1097.5" y="798.08" font-size="11.5" fill="#FFFFFF" text-anchor="middle" opacity="0.9">原文報 38.1%</text>
+<text x="106" y="851.08" font-size="14" fill="#527078" font-weight="600">只看「片子看起來變壞」的那 166 個人（53＋113）</text>
+<rect x="106" y="877.08" width="390.07" height="46" rx="8" fill="#00806B"/>
+<text x="302.04" y="899.08" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">假性惡化 53 人</text>
+<text x="302.04" y="916.08" font-size="11.5" fill="#FFFFFF" text-anchor="middle" opacity="0.9">約三分之一</text>
+<rect x="498.07" y="877.08" width="835.93" height="46" rx="8" fill="#B04A4A"/>
+<text x="916.04" y="899.08" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">真的惡化 113 人</text>
+<text x="916.04" y="916.08" font-size="11.5" fill="#FFFFFF" text-anchor="middle" opacity="0.9">約三分之二</text>
+<text x="106" y="949.08" font-size="13.5" fill="#527078">三分之一與三分之二是由原文人數換算的；原文報的是 19.4%／41.4%／38.1%。</text>
+<text x="106" y="974.58" font-size="13.5" fill="#527078">六個月那一次的假性惡化是 7.0%；扣掉重複計算之後，新出現的只有 3.8%。</text>
+<rect x="84" y="1024.08" width="1272" height="105.0" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="108" y="1054.08" font-size="18" fill="#B04A4A" font-weight="800">這是回頭重判之後才算得出來的比例</text>
+<text x="108" y="1083.08" font-size="15" fill="#345963" font-weight="600">它不是你當下拿著片子可以自我判斷的機率。看起來變壞的人裡面，往壞處想的那一邊仍然比較大——三分之二是真的惡化。所以「先不要慌」跟「照計畫回診、照計畫治療」是同一句話，</text>
+<text x="108" y="1105.08" font-size="15" fill="#345963" font-weight="600">不是兩句。</text>
+<text x="84" y="1151.08" font-size="16" fill="#527078">示意圖，依 Blakstad 2024（挪威世代）、RANO 2.0（Wen 2023）、EANO 2021 指引與 INTERVAL-GB 2024 重繪；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

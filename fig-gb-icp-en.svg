@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2187" viewBox="0 0 1440 2187" role="img" aria-labelledby="t d">
+  <title id="t">Three tiers of warning signs: call an ambulance, come in today, raise it at this clinic</title>
+  <desc id="d">Schematic of three tiers of emergency warning signs for glioblastoma patients, drawn as three horizontal bands of deliberately different visual weight. Tier one, now — call an ambulance and do not drive yourself: a seizure lasting more than 5 minutes, one seizure straight after another, or not waking up after it stops; altered consciousness, unrousable, unequal pupils, or rising blood pressure with a slowing pulse and irregular breathing (Cushing's triad); weakness down one side, slurred speech or a drooping mouth that came on over minutes to hours; a sudden severe headache, or a headache with vomiting or reduced alertness; breathlessness, chest pain, coughing up blood or fainting. Inside tier one an inset explains that raised intracranial pressure is recognised by three lines rather than by morning headache alone: the pattern of the headache has changed, it comes with vomiting or worsens on bending, coughing or lying flat, and it comes with a new neurological change; with a note that only 48 per cent of brain tumour patients have headache at all (Forsyth 1993, n=111), so no headache cannot be used to rule anything out. Tier two, today — come in now and do not wait for tomorrow's clinic: a single ear or oral temperature reading of 38.0 degrees; black stools or vomiting something that looks like coffee grounds; swelling, pain, tenderness, redness or warmth in one calf; weakness down one side or unsteady walking that has come on gradually over days; a surgical wound that is red, swollen or leaking; and weakness, dizziness or greying out on standing after a steroid dose reduction. Tier three, at this clinic — no rush but say it out loud: the pattern of your headaches has changed, changes in mood or behaviour, and walking that has become less steady. Three supporting panels sit below. Fever: 38.0 degrees is set in large type as the action line, one reading and you leave the house, while 38.3 degrees is set in small grey type as the guideline's single oral temperature threshold and not your action line; three crossed-out actions are do not take it again to see, do not wait for it to persist, and do not wait for 38.3; with a note that the guideline target once you are there is the first dose of antibiotic within 1 hour of triage, and the blood count data from the concomitant phase — grade 3 or 4 haematological toxicity 7 per cent (randomised trial, n=573), grade 3 or 4 thrombocytopenia 19 per cent with a median duration of 32 days, and thrombocytopenia of any grade 61.1 per cent. The clot panel carries symptoms and action only: deep vein thrombosis (swelling, pain, tenderness, redness or warmth in one calf) means phone your doctor straight away; pulmonary embolism (breathlessness, a fast heartbeat, chest pain worse on breathing in, coughing up blood, fainting) means seek medical care immediately; venous thromboembolism in grade 4 glioma is reported at 6.2 to 31 per cent across different studies and 6.8 per cent in the Danish national registry, with events splitting roughly into deep vein thrombosis about 60 per cent, pulmonary embolism about 35 per cent and cerebral venous thrombosis about 5 per cent, and that is a range across different studies rather than one group of people; the panel says explicitly that whether to take a preventive anticoagulant is not drawn here because it is the doctor's decision. The seizure panel: five minutes is the line for acting (call an ambulance) and thirty minutes is when long-term consequences begin, with a note that leaving the house, reaching the emergency department, getting a line in and waiting for the drug to work will use up those thirty minutes on their own. The figure closes: the tiers are not a ranking of severity but of how fast to move, and for the top tier call an ambulance rather than driving or phoning around first.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2187" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="4px">THREE TIERS: HOW FAST, NOT HOW BAD</text>
+<text x="84" y="148" font-size="42" fill="#123641" font-weight="800" class="r">Three tiers: call an ambulance, come in today, raise it at this</text>
+<text x="84" y="200.08" font-size="42" fill="#123641" font-weight="800" class="r">clinic</text>
+<text x="84" y="258.16" font-size="20" fill="#527078">These tiers sort things by how fast you have to move, not by how bad they are. They are deliberately drawn with different visual</text>
+<text x="84" y="287.16" font-size="20" fill="#527078">weight — if the three look alike, the heaviest one stops meaning anything.</text>
+<text x="84" y="316.16" font-size="20" fill="#527078">This figure covers what you can recognise and do at home. What to prescribe and what to scan is the doctor's side of the decision.</text>
+<g filter="url(#sh)">
+<rect x="84" y="365.15999999999997" width="1272" height="421.0" rx="18" fill="#B04A4A"/>
+</g>
+<rect x="110" y="387.16" width="74" height="30" rx="15" fill="#FFFFFF"/>
+<text x="147" y="408.16" font-size="16" fill="#B04A4A" font-weight="800" text-anchor="middle">NOW</text>
+<text x="202" y="409.16" font-size="22" fill="#FFFFFF" font-weight="800">Call an ambulance. Do not drive yourself</text>
+<circle cx="118" cy="435.16" r="5" fill="#FFFFFF"/>
+<text x="134" y="440.16" font-size="16" fill="#FFFFFF" font-weight="600">A seizure lasting more than 5 minutes; one seizure straight after another; not waking up after it stops</text>
+<circle cx="118" cy="473.16" r="5" fill="#FFFFFF"/>
+<text x="134" y="478.16" font-size="16" fill="#FFFFFF" font-weight="600">Altered consciousness, unrousable, unequal pupils; rising blood pressure with a slowing pulse and irregular breathing (Cushing's triad)</text>
+<circle cx="118" cy="511.16" r="5" fill="#FFFFFF"/>
+<text x="134" y="516.16" font-size="16" fill="#FFFFFF" font-weight="600">Weakness down one side, slurred speech or a drooping mouth that came on over minutes to hours</text>
+<circle cx="118" cy="549.16" r="5" fill="#FFFFFF"/>
+<text x="134" y="554.16" font-size="16" fill="#FFFFFF" font-weight="600">A sudden severe headache, or a headache with vomiting or reduced alertness</text>
+<circle cx="118" cy="587.16" r="5" fill="#FFFFFF"/>
+<text x="134" y="592.16" font-size="16" fill="#FFFFFF" font-weight="600">Breathlessness, chest pain, coughing up blood, fainting</text>
+<rect x="114" y="627.16" width="1212" height="145.0" rx="12" fill="#FFFFFF" opacity="0.14"/>
+<text x="128" y="653.16" font-size="15" fill="#FFFFFF" font-weight="800">How raised intracranial pressure is recognised: three lines, not &quot;morning headache&quot; alone</text>
+<circle cx="136" cy="671.16" r="3.5" fill="#F6E2E0"/>
+<text x="148" y="675.16" font-size="14" fill="#F6E2E0">The pattern of the headache has changed (it is not like your old headaches)</text>
+<circle cx="136" cy="693.16" r="3.5" fill="#F6E2E0"/>
+<text x="148" y="697.16" font-size="14" fill="#F6E2E0">It comes with vomiting, or worsens on bending, coughing or lying flat</text>
+<circle cx="136" cy="715.16" r="3.5" fill="#F6E2E0"/>
+<text x="148" y="719.16" font-size="14" fill="#F6E2E0">It comes with a new neurological change</text>
+<text x="128" y="749.16" font-size="13" fill="#F6E2E0">Only 48% of brain tumour patients have headache at all (Forsyth 1993, n=111) — so &quot;no headache&quot; cannot be used to rule anything out.</text>
+<rect x="84" y="820.16" width="8" height="247.9999999999999" rx="4" fill="#96790F"/>
+<rect x="84" y="804.16" width="1272" height="279.9999999999999" rx="16" fill="#FFFFFF" stroke="#C9A83E" stroke-width="2.5"/>
+<rect x="106" y="824.16" width="88" height="28" rx="14" fill="#96790F"/>
+<text x="150" y="843.16" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">TODAY</text>
+<text x="210" y="844.16" font-size="18.5" fill="#8F7418" font-weight="800">Come in now; do not wait for tomorrow's clinic</text>
+<circle cx="116" cy="868.16" r="4" fill="#96790F"/>
+<text x="130" y="873.16" font-size="15" fill="#123641" font-weight="800">A single ear or oral temperature reading of 38.0°C — come in on that one reading</text>
+<circle cx="116" cy="903.16" r="4" fill="#96790F"/>
+<text x="130" y="908.16" font-size="15" fill="#345963">Black stools, or vomiting something that looks like coffee grounds</text>
+<circle cx="116" cy="938.16" r="4" fill="#96790F"/>
+<text x="130" y="943.16" font-size="15" fill="#345963">Swelling, pain, tenderness, redness or warmth in one calf</text>
+<circle cx="116" cy="973.16" r="4" fill="#96790F"/>
+<text x="130" y="978.16" font-size="15" fill="#345963">Weakness down one side or unsteady walking that has come on gradually over days</text>
+<circle cx="116" cy="1008.16" r="4" fill="#96790F"/>
+<text x="130" y="1013.16" font-size="15" fill="#345963">A surgical wound that is red, swollen or leaking</text>
+<circle cx="116" cy="1043.16" r="4" fill="#96790F"/>
+<text x="130" y="1048.16" font-size="15" fill="#345963">Weakness, dizziness or greying out on standing after a steroid dose reduction</text>
+<rect x="84" y="1100.1599999999999" width="1272" height="150.0" rx="14" fill="none" stroke="#B9AE94" stroke-width="1.6"/>
+<rect x="104" y="1116.16" width="92" height="24" rx="12" fill="none" stroke="#B9AE94" stroke-width="1.6"/>
+<text x="150" y="1133.16" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">AT CLINIC</text>
+<text x="210" y="1134.16" font-size="15.5" fill="#527078" font-weight="700">No rush, but say it out loud</text>
+<circle cx="114" cy="1153.16" r="3" fill="#B9AE94"/>
+<text x="126" y="1158.16" font-size="13.5" fill="#527078">The pattern of your headaches has changed (frequency, timing, character)</text>
+<circle cx="114" cy="1183.16" r="3" fill="#B9AE94"/>
+<text x="126" y="1188.16" font-size="13.5" fill="#527078">Changes in mood or behaviour — the &quot;he has become a different person&quot; that families notice</text>
+<circle cx="114" cy="1213.16" r="3" fill="#B9AE94"/>
+<text x="126" y="1218.16" font-size="13.5" fill="#527078">Walking has become less steady</text>
+<g filter="url(#sh)">
+<rect x="84" y="1276.1599999999999" width="1272" height="227.0" rx="16" fill="#FFFFFF"/>
+</g>
+<text x="108" y="1308.16" font-size="18" fill="#123641" font-weight="800">Fever: one reading of 38.0°C and you leave the house</text>
+<text x="108" y="1376.16" font-size="62" fill="#B04A4A" font-weight="800">38.0</text>
+<text x="256" y="1376.16" font-size="24" fill="#B04A4A" font-weight="800">°C</text>
+<text x="108" y="1404.16" font-size="14.5" fill="#345963" font-weight="700">This site's working rule:</text>
+<text x="108" y="1424.16" font-size="14.5" fill="#345963" font-weight="700">one reading is enough</text>
+<text x="334" y="1346.16" font-size="18" fill="#527078" font-weight="700">38.3°C</text>
+<text x="334" y="1368.16" font-size="12.5" fill="#527078">The guideline's single oral temperature</text>
+<text x="334" y="1386.16" font-size="12.5" fill="#527078">threshold (the grey line, not your action</text>
+<text x="334" y="1404.16" font-size="12.5" fill="#527078">line)</text>
+<line x1="644" y1="1334.16" x2="656" y2="1346.16" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="656" y1="1334.16" x2="644" y2="1346.16" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<text x="666" y="1346.16" font-size="15" fill="#345963" font-weight="600">Do not take it again to see</text>
+<line x1="644" y1="1364.16" x2="656" y2="1376.16" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="656" y1="1364.16" x2="644" y2="1376.16" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<text x="666" y="1376.16" font-size="15" fill="#345963" font-weight="600">Do not wait for it to &quot;persist&quot;</text>
+<line x1="644" y1="1394.16" x2="656" y2="1406.16" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="656" y1="1394.16" x2="644" y2="1406.16" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<text x="666" y="1406.16" font-size="15" fill="#345963" font-weight="600">Do not wait for 38.3</text>
+<text x="108" y="1458.16" font-size="13.5" fill="#527078">Once you are there, the guideline target is the first dose of antibiotic within 1 hour of triage. Blood counts during the concomitant phase: grade 3 or 4 haematological toxicity 7%</text>
+<text x="108" y="1477.66" font-size="13.5" fill="#527078">(randomised trial, n=573); grade 3 or 4 thrombocytopenia 19%, median duration 32 days; thrombocytopenia of any grade 61.1%.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1521.1599999999999" width="1272" height="308.5" rx="16" fill="#FFFFFF"/>
+</g>
+<text x="108" y="1553.16" font-size="18" fill="#123641" font-weight="800">Clots: this box carries symptoms and action only</text>
+<rect x="108.0" y="1567.1599999999999" width="601.0" height="102.0" rx="12" fill="#F6E2E0"/>
+<text x="126" y="1593.16" font-size="16" fill="#B04A4A" font-weight="800">Deep vein thrombosis (leg)</text>
+<text x="126" y="1617.16" font-size="14" fill="#345963">swelling, pain, tenderness, redness or warmth in one calf</text>
+<text x="126" y="1655.16" font-size="15" fill="#123641" font-weight="800">→ Phone your doctor straight away</text>
+<rect x="731.0" y="1567.1599999999999" width="601.0" height="122.0" rx="12" fill="#F6E2E0"/>
+<text x="749" y="1593.16" font-size="16" fill="#B04A4A" font-weight="800">Pulmonary embolism (lung)</text>
+<text x="749" y="1617.16" font-size="14" fill="#345963">breathlessness, a fast heartbeat, chest pain that is worse on breathing in, coughing</text>
+<text x="749" y="1637.16" font-size="14" fill="#345963">up blood, fainting</text>
+<text x="749" y="1675.16" font-size="15" fill="#123641" font-weight="800">→ Seek medical care immediately</text>
+<text x="108" y="1707.16" font-size="13.5" fill="#345963">Venous thromboembolism in grade 4 glioma: different studies report 6.2% to 31%; the Danish national registry reports 6.8%. The events split roughly into deep vein thrombosis about 60%,</text>
+<text x="108" y="1726.66" font-size="13.5" fill="#345963">pulmonary embolism about 35% and cerebral venous thrombosis about 5%.</text>
+<text x="108" y="1752.16" font-size="13.5" fill="#345963" font-weight="800">That is a range across different studies, not one group of people.</text>
+<text x="108" y="1783.66" font-size="14" fill="#8F7418" font-weight="700">Whether to take a preventive anticoagulant is not drawn here — that is decided by your doctor from whether you have had surgery and whether you have already clotted, and the</text>
+<text x="108" y="1803.66" font-size="14" fill="#8F7418" font-weight="700">guidance runs against intuition. Your job at home is to recognise the symptoms and come in the same day.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1847.6599999999999" width="1272" height="173.5" rx="16" fill="#FFFFFF"/>
+</g>
+<text x="108" y="1879.66" font-size="18" fill="#123641" font-weight="800">Seizures: five minutes is the line for acting, not a period of watching</text>
+<line x1="108" y1="1945.66" x2="1332" y2="1945.66" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt"/>
+<circle cx="303.84" cy="1945.66" r="13" fill="#B04A4A"/>
+<text x="303.84" y="1917.66" font-size="22" fill="#B04A4A" font-weight="800" text-anchor="middle">5 minutes</text>
+<text x="303.84" y="1973.66" font-size="15" fill="#123641" font-weight="800" text-anchor="middle">call an ambulance</text>
+<circle cx="866.88" cy="1945.66" r="8" fill="#B9AE94"/>
+<text x="866.88" y="1917.66" font-size="16" fill="#527078" font-weight="800" text-anchor="middle">30 minutes</text>
+<text x="866.88" y="1973.66" font-size="13" fill="#527078" font-weight="600" text-anchor="middle">long-term consequences begin</text>
+<text x="108" y="1995.66" font-size="13.5" fill="#527078">Leaving the house, getting to the emergency department, getting a line in and waiting for the drug to work will use up those 30 minutes on their own.</text>
+<rect x="84" y="2039.1599999999999" width="1272" height="52.0" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="108" y="2067.16" font-size="15.5" fill="#B04A4A" font-weight="800">The tiers are not a ranking of severity; they are a ranking of how fast to move. For the top tier, call an ambulance — do not drive, and do not phone around first.</text>
+<text x="84" y="2113.16" font-size="16" fill="#527078">Schematic, redrawn from Trinka 2015 (definition of status epilepticus), Forsyth 1993, Olaru 2023 (review of raised intracranial pressure), Hovman 2021, de Sousa</text>
+<text x="84" y="2137.16" font-size="16" fill="#527078">Bernardes 2023, Binjabal 2024, Freifeld 2011 (IDSA), Taplitz 2018 (ASCO/IDSA), the US CDC seizure first-aid and blood-clot symptom pages, and Stupp 2005; the</text>
+<text x="84" y="2161.16" font-size="16" fill="#527078">cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

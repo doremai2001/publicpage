@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1620" viewBox="0 0 620 1620" role="img" aria-labelledby="t d">
+  <title id="t">MGMT 甲基化與未甲基化：整體存活與無惡化存活兩張並排的圖</title>
+  <desc id="d">示意圖：MGMT 甲基化狀態與 temozolomide，整體存活與無惡化存活分成兩張並排的圖，兩張用同一把月數的尺。左圖是整體存活的中位數。MGMT 甲基化那一組：只做放療 15.3 個月（95% 信賴區間 13.0 到 20.9），放療加 temozolomide 21.7 個月（17.4 到 30.4），P 值 0.007。MGMT 未甲基化那一組：只做放療 11.8 個月（9.7 到 14.1），n=54；放療加 temozolomide 12.7 個月（11.6 到 14.4），n=60——兩個信賴區間大幅重疊，這個試驗看不出差別。右圖是無惡化存活的中位數，只畫未甲基化那一列：只做放療 5.9 個月（5.3 到 7.7），n=46；放療加 temozolomide 10.3 個月（6.5 到 14），n=46。兩張圖之間的一句話是：同一群人、同一個試驗，兩個終點的答案不一樣；下面一行小字是 n 只有五、六十人、信賴區間很寬，看不出來不等於證明沒有。圖上另有一格寫「而那個能一刀切開的比較，從來沒有人做過」：系統回顧與統合分析（Alnahhas 2020）自己寫得很清楚，從來沒有任何研究前瞻性地把未甲基化的病人隨機分到只做放療與放療加 temozolomide 去比，所以這一格不是證據顯示沒用，是沒有人做過那個試驗。再下面是高齡族群的隨機分層資料（Perry 2017，65 歲以上，n=562，兩組放療都是 40 Gy 分 15 次）：甲基化那一層（n=165）13.5 對 7.7 個月，風險比 0.53（0.38 到 0.73），P 小於 0.001；未甲基化那一層（n=189）10.0 對 7.9 個月，風險比 0.75（0.56 到 1.01），P 等於 0.055。風險比 0.75 的白話是加了藥那一組在任一時點的死亡風險大約是沒加藥那一組的四分之三，但 P 等於 0.055 表示沒有達到統計顯著。圖的最下面是一段警語：這張圖不能讀成未甲基化就不用吃；無惡化存活有差、整體存活看不出、沒有人做過針對這個族群的隨機試驗，三件事要一起讀；要不要用藥是你跟醫師討論的內容，不要自己停藥。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1620" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="62" font-size="13" fill="#A98722" font-weight="800" letter-spacing="2.5px">MGMT: TWO ENDPOINTS, TWO ANSWERS</text>
+<text x="40" y="108" font-size="27" fill="#123641" font-weight="800" class="r">未甲基化那一格，存活和無惡化存活講的不是</text>
+<text x="40" y="141.48" font-size="27" fill="#123641" font-weight="800" class="r">同一件事</text>
+<text x="40" y="180.96" font-size="15.5" fill="#527078">同一群人、同一個試驗（EORTC 26981-22981／NCIC CE.3），兩個終點的答</text>
+<text x="40" y="203.43" font-size="15.5" fill="#527078">案不一樣。</text>
+<text x="40" y="225.91" font-size="15.5" fill="#527078">兩張圖的橫軸是同一把尺（月），所以長度可以互看；但終點不同，意思不同。</text>
+<g filter="url(#sh)">
+<rect x="40" y="264.385" width="540" height="376.12" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="60" y="294.38" font-size="14.62" fill="#123641" font-weight="800">整體存活（中位數，月）</text>
+<line x1="168" y1="320.16" x2="168" y2="324.16" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="240" y1="320.16" x2="240" y2="324.16" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="312" y1="320.16" x2="312" y2="324.16" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="384" y1="320.16" x2="384" y2="324.16" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="456" y1="320.16" x2="456" y2="324.16" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="60" y="342.16" font-size="12.47" fill="#8F7418" font-weight="800">甲基化</text>
+<line x1="168" y1="364.16" x2="456" y2="364.16" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="368.16" font-size="10.75" fill="#527078" font-weight="600">只做放療</text>
+<line x1="285" y1="364.16" x2="356.1" y2="364.16" stroke="#96790F" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="285" y1="357.16" x2="285" y2="371.16" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="356.1" y1="357.16" x2="356.1" y2="371.16" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="305.7" cy="364.16" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="362.16" font-size="16.34" fill="#96790F" font-weight="800" text-anchor="end">15.3</text>
+<text x="560" y="378.16" font-size="9.89" fill="#527078" text-anchor="end">（13–20.9）</text>
+<line x1="168" y1="408.16" x2="456" y2="408.16" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="405.16" font-size="10.75" fill="#527078" font-weight="600">放療＋</text>
+<text x="60" y="420.16" font-size="10.75" fill="#527078" font-weight="600">temozolomide</text>
+<line x1="324.6" y1="408.16" x2="441.6" y2="408.16" stroke="#00806B" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="324.6" y1="401.16" x2="324.6" y2="415.16" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="441.6" y1="401.16" x2="441.6" y2="415.16" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="363.3" cy="408.16" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="406.16" font-size="16.34" fill="#00806B" font-weight="800" text-anchor="end">21.7</text>
+<text x="560" y="422.16" font-size="9.89" fill="#527078" text-anchor="end">（17.4–30.4）</text>
+<text x="375.3" y="426.16" font-size="10.32" fill="#345963" font-weight="700">P＝0.007</text>
+<text x="60" y="472.16" font-size="12.47" fill="#123641" font-weight="800">未甲基化</text>
+<line x1="168" y1="494.16" x2="456" y2="494.16" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="498.16" font-size="10.75" fill="#527078" font-weight="600">只做放療</text>
+<line x1="255.3" y1="494.16" x2="294.9" y2="494.16" stroke="#96790F" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="255.3" y1="487.16" x2="255.3" y2="501.16" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="294.9" y1="487.16" x2="294.9" y2="501.16" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="274.2" cy="494.16" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="492.16" font-size="16.34" fill="#96790F" font-weight="800" text-anchor="end">11.8</text>
+<text x="560" y="508.16" font-size="9.89" fill="#527078" text-anchor="end">（9.7–14.1），n=54</text>
+<line x1="168" y1="538.16" x2="456" y2="538.16" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="535.16" font-size="10.75" fill="#527078" font-weight="600">放療＋</text>
+<text x="60" y="550.16" font-size="10.75" fill="#527078" font-weight="600">temozolomide</text>
+<line x1="272.4" y1="538.16" x2="297.6" y2="538.16" stroke="#00806B" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="272.4" y1="531.16" x2="272.4" y2="545.16" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="297.6" y1="531.16" x2="297.6" y2="545.16" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="282.3" cy="538.16" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="536.16" font-size="16.34" fill="#00806B" font-weight="800" text-anchor="end">12.7</text>
+<text x="560" y="552.16" font-size="9.89" fill="#527078" text-anchor="end">（11.6–14.4），n=60</text>
+<line x1="168" y1="578.16" x2="456" y2="578.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="168" y1="578.16" x2="168" y2="583.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="168" y="598.16" font-size="9.89" fill="#527078" text-anchor="middle">0</text>
+<line x1="240" y1="578.16" x2="240" y2="583.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="240" y="598.16" font-size="9.89" fill="#527078" text-anchor="middle">8</text>
+<line x1="312" y1="578.16" x2="312" y2="583.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="312" y="598.16" font-size="9.89" fill="#527078" text-anchor="middle">16</text>
+<line x1="384" y1="578.16" x2="384" y2="583.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="384" y="598.16" font-size="9.89" fill="#527078" text-anchor="middle">24</text>
+<line x1="456" y1="578.16" x2="456" y2="583.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="456" y="598.16" font-size="9.89" fill="#527078" text-anchor="middle">32</text>
+<text x="470" y="598.16" font-size="9.89" fill="#527078">月</text>
+<text x="60" y="616.16" font-size="11.18" fill="#527078">未甲基化那一列：兩個信賴區間大幅重疊，這個試驗看不出差別。</text>
+<line x1="310" y1="648.5" x2="310" y2="657.3" stroke="#C9A83E" stroke-width="3" stroke-linecap="round"/>
+<polygon points="310,666.5 305.92,657.37 314.08,657.37" fill="#C9A83E"/>
+<text x="40" y="686.5" font-size="12.9" fill="#8F7418" font-weight="800">同一群人、同一個試驗，兩個終點的答案不一樣</text>
+<g filter="url(#sh)">
+<rect x="40" y="713.505" width="540" height="262.46000000000004" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="60" y="743.5" font-size="14.62" fill="#123641" font-weight="800">無惡化存活（中位數，月）</text>
+<line x1="168" y1="769.28" x2="168" y2="773.28" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="240" y1="769.28" x2="240" y2="773.28" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="312" y1="769.28" x2="312" y2="773.28" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="384" y1="769.28" x2="384" y2="773.28" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="456" y1="769.28" x2="456" y2="773.28" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="60" y="791.28" font-size="12.47" fill="#123641" font-weight="800">未甲基化</text>
+<line x1="168" y1="813.28" x2="456" y2="813.28" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="817.28" font-size="10.75" fill="#527078" font-weight="600">只做放療</text>
+<line x1="215.7" y1="813.28" x2="237.3" y2="813.28" stroke="#96790F" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="215.7" y1="806.28" x2="215.7" y2="820.28" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="237.3" y1="806.28" x2="237.3" y2="820.28" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="221.1" cy="813.28" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="811.28" font-size="16.34" fill="#96790F" font-weight="800" text-anchor="end">5.9</text>
+<text x="560" y="827.28" font-size="9.89" fill="#527078" text-anchor="end">（5.3–7.7），n=46</text>
+<line x1="168" y1="857.28" x2="456" y2="857.28" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="854.28" font-size="10.75" fill="#527078" font-weight="600">放療＋</text>
+<text x="60" y="869.28" font-size="10.75" fill="#527078" font-weight="600">temozolomide</text>
+<line x1="226.5" y1="857.28" x2="294" y2="857.28" stroke="#00806B" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="226.5" y1="850.28" x2="226.5" y2="864.28" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="294" y1="850.28" x2="294" y2="864.28" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="260.7" cy="857.28" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="855.28" font-size="16.34" fill="#00806B" font-weight="800" text-anchor="end">10.3</text>
+<text x="560" y="871.28" font-size="9.89" fill="#527078" text-anchor="end">（6.5–14），n=46</text>
+<line x1="168" y1="897.28" x2="456" y2="897.28" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="168" y1="897.28" x2="168" y2="902.28" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="168" y="917.28" font-size="9.89" fill="#527078" text-anchor="middle">0</text>
+<line x1="240" y1="897.28" x2="240" y2="902.28" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="240" y="917.28" font-size="9.89" fill="#527078" text-anchor="middle">8</text>
+<line x1="312" y1="897.28" x2="312" y2="902.28" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="312" y="917.28" font-size="9.89" fill="#527078" text-anchor="middle">16</text>
+<line x1="384" y1="897.28" x2="384" y2="902.28" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="384" y="917.28" font-size="9.89" fill="#527078" text-anchor="middle">24</text>
+<line x1="456" y1="897.28" x2="456" y2="902.28" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="456" y="917.28" font-size="9.89" fill="#527078" text-anchor="middle">32</text>
+<text x="470" y="917.28" font-size="9.89" fill="#527078">月</text>
+<text x="60" y="935.28" font-size="11.18" fill="#527078">這一格只畫未甲基化，因為兩個終點答案不一樣的就是這一列：腫瘤晚一點長回來這件事看得到，人</text>
+<text x="60" y="951.62" font-size="11.18" fill="#527078">活得比較久這件事，這個試驗看不出來。</text>
+<text x="40" y="993.97" font-size="12.04" fill="#527078">n 只有五、六十人；信賴區間很寬。看不出來，不等於證明沒有。</text>
+<rect x="40" y="1029.165" width="540" height="111.12000000000012" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="64" y="1059.16" font-size="15.48" fill="#123641" font-weight="800">而那個能一刀切開的比較，從來沒有人做過</text>
+<text x="64" y="1081.52" font-size="12.9" fill="#345963">系統回顧與統合分析（Alnahhas 2020）自己寫得很清楚：從來沒有任何研究前瞻性地</text>
+<text x="64" y="1100.44" font-size="12.9" fill="#345963">把未甲基化的病人隨機分到「只做放療」與「放療＋temozolomide」去比。所以這一</text>
+<text x="64" y="1119.37" font-size="12.9" fill="#345963">格不是「證據顯示沒用」，是「沒有人做過那個試驗」。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1160.285" width="540" height="285.3800000000001" rx="16" fill="#FFFFFF"/>
+</g>
+<text x="64" y="1190.29" font-size="13.76" fill="#123641" font-weight="800">高齡族群裡有直接的隨機分層資料（Perry 2017，≥65 歲，n=562，兩組放療都</text>
+<text x="64" y="1209.21" font-size="13.76" fill="#123641" font-weight="800">是 40 Gy／15 次）</text>
+<rect x="64" y="1234.13" width="492" height="74" rx="12" fill="#F3E8CD"/>
+<text x="78" y="1258.13" font-size="13.5" fill="#527078" font-weight="700">甲基化（n=165）</text>
+<text x="78" y="1282.13" font-size="19" fill="#00806B" font-weight="800">13.5 對 7.7 個月</text>
+<text x="78" y="1300.13" font-size="12" fill="#345963">風險比 0.53（0.38 到 0.73），P＜0.001</text>
+<rect x="64" y="1316.13" width="492" height="74" rx="12" fill="#ECE8DE"/>
+<text x="78" y="1340.13" font-size="13.5" fill="#527078" font-weight="700">未甲基化（n=189）</text>
+<text x="78" y="1364.13" font-size="19" fill="#96790F" font-weight="800">10.0 對 7.9 個月</text>
+<text x="78" y="1382.13" font-size="12" fill="#345963">風險比 0.75（0.56 到 1.01），P＝0.055</text>
+<text x="64" y="1406.13" font-size="11.61" fill="#527078">風險比 0.75 的白話是：在追蹤期間的任一時點，加了藥那一組的死亡風險大約是沒加藥那一組</text>
+<text x="64" y="1422.9" font-size="11.61" fill="#527078">的四分之三；但 P＝0.055 表示這個差距沒有達到統計上的顯著。</text>
+<rect x="40" y="1463.6650000000002" width="540" height="95.34000000000015" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="64" y="1493.67" font-size="15.48" fill="#B04A4A" font-weight="800">這張圖不能讀成「未甲基化就不用吃」</text>
+<text x="64" y="1519.17" font-size="12.9" fill="#345963" font-weight="600">無惡化存活有差、整體存活看不出、沒有人做過針對這個族群的隨機試驗——三件事要</text>
+<text x="64" y="1538.09" font-size="12.9" fill="#345963" font-weight="600">一起讀。要不要用藥是你跟醫師討論的內容，不是你在家裡的決定；不要自己停藥。</text>
+<text x="40" y="1577.01" font-size="14" fill="#527078">示意圖，依 Hegi 2005（EORTC 26981-22981／NCIC CE.3 的分層分析）、Alnahhas</text>
+<text x="40" y="1598.01" font-size="14" fill="#527078">2020 與 Perry 2017 重繪；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

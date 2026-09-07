@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1863" viewBox="0 0 620 1863" role="img" aria-labelledby="t d">
+  <title id="t">MGMT methylated versus unmethylated: overall survival and progression-free survival side by side</title>
+  <desc id="d">Schematic on MGMT methylation status and temozolomide, with overall survival and progression-free survival drawn as two panels side by side on the same scale in months. The left panel gives median overall survival. In the MGMT methylated group: radiotherapy alone 15.3 months (95 per cent confidence interval 13.0 to 20.9), radiotherapy plus temozolomide 21.7 months (17.4 to 30.4), P value 0.007. In the MGMT unmethylated group: radiotherapy alone 11.8 months (9.7 to 14.1), n=54; radiotherapy plus temozolomide 12.7 months (11.6 to 14.4), n=60 — the two confidence intervals overlap heavily and this trial cannot show a difference. The right panel gives median progression-free survival and draws only the unmethylated row: radiotherapy alone 5.9 months (5.3 to 7.7), n=46; radiotherapy plus temozolomide 10.3 months (6.5 to 14), n=46. Between the panels a line reads: same patients, same trial, two endpoints, two answers; and beneath, in small type, that these are groups of only fifty or sixty people with wide confidence intervals, so not being able to show a difference is not the same as showing there is none. A further box states that the comparison which would settle it has never been done: the systematic review and meta-analysis (Alnahhas 2020) says plainly that no study has ever prospectively randomised unmethylated patients between radiotherapy alone and radiotherapy plus temozolomide, so this box is not the evidence shows it does not work but nobody has run that trial. Below that are the randomised stratified data in older patients (Perry 2017, aged 65 and over, n=562, both arms 40 Gy in 15 fractions): in the methylated stratum (n=165) 13.5 versus 7.7 months, hazard ratio 0.53 (0.38 to 0.73), P less than 0.001; in the unmethylated stratum (n=189) 10.0 versus 7.9 months, hazard ratio 0.75 (0.56 to 1.01), P equal to 0.055. In plain words a hazard ratio of 0.75 means the risk of death in the arm that added the drug was about three-quarters of the risk in the arm that did not, at any point during follow-up, but P equal to 0.055 means the gap did not reach statistical significance. The figure closes with a warning: it must not be read as unmethylated means you can skip the drug; progression-free survival differs, overall survival cannot be shown to differ, and nobody has run a randomised trial in this group, and the three have to be read together; whether to use the drug is a conversation with your team, and you should not stop your own treatment.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1863" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="62" font-size="13" fill="#A98722" font-weight="800" letter-spacing="2.5px">MGMT: TWO ENDPOINTS, TWO ANSWERS</text>
+<text x="40" y="108" font-size="27" fill="#123641" font-weight="800" class="r">In the unmethylated box, survival and</text>
+<text x="40" y="141.48" font-size="27" fill="#123641" font-weight="800" class="r">progression-free survival say different</text>
+<text x="40" y="174.96" font-size="27" fill="#123641" font-weight="800" class="r">things</text>
+<text x="40" y="214.44" font-size="15.5" fill="#527078">The same patients, the same trial (EORTC 26981-22981 / NCIC CE.3) —</text>
+<text x="40" y="236.91" font-size="15.5" fill="#527078">and two endpoints that do not agree.</text>
+<text x="40" y="259.39" font-size="15.5" fill="#527078">Both panels use the same scale in months, so the lengths can be read</text>
+<text x="40" y="281.87" font-size="15.5" fill="#527078">against each other; but the endpoints differ, and so does their meaning.</text>
+<g filter="url(#sh)">
+<rect x="40" y="320.34000000000003" width="540" height="392.46000000000004" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="60" y="350.34" font-size="14.62" fill="#123641" font-weight="800">Overall survival (median, months)</text>
+<line x1="168" y1="376.12" x2="168" y2="380.12" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="240" y1="376.12" x2="240" y2="380.12" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="312" y1="376.12" x2="312" y2="380.12" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="384" y1="376.12" x2="384" y2="380.12" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="456" y1="376.12" x2="456" y2="380.12" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="60" y="398.12" font-size="12.47" fill="#8F7418" font-weight="800">Methylated</text>
+<line x1="168" y1="420.12" x2="456" y2="420.12" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="417.12" font-size="10.75" fill="#527078" font-weight="600">Radiotherapy</text>
+<text x="60" y="432.12" font-size="10.75" fill="#527078" font-weight="600">alone</text>
+<line x1="285" y1="420.12" x2="356.1" y2="420.12" stroke="#96790F" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="285" y1="413.12" x2="285" y2="427.12" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="356.1" y1="413.12" x2="356.1" y2="427.12" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="305.7" cy="420.12" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="418.12" font-size="16.34" fill="#96790F" font-weight="800" text-anchor="end">15.3</text>
+<text x="560" y="434.12" font-size="9.89" fill="#527078" text-anchor="end">(13–20.9)</text>
+<line x1="168" y1="464.12" x2="456" y2="464.12" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="461.12" font-size="10.75" fill="#527078" font-weight="600">Radiotherapy plus</text>
+<text x="60" y="476.12" font-size="10.75" fill="#527078" font-weight="600">temozolomide</text>
+<line x1="324.6" y1="464.12" x2="441.6" y2="464.12" stroke="#00806B" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="324.6" y1="457.12" x2="324.6" y2="471.12" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="441.6" y1="457.12" x2="441.6" y2="471.12" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="363.3" cy="464.12" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="462.12" font-size="16.34" fill="#00806B" font-weight="800" text-anchor="end">21.7</text>
+<text x="560" y="478.12" font-size="9.89" fill="#527078" text-anchor="end">(17.4–30.4)</text>
+<text x="375.3" y="482.12" font-size="10.32" fill="#345963" font-weight="700">P = 0.007</text>
+<text x="60" y="528.12" font-size="12.47" fill="#123641" font-weight="800">Unmethylated</text>
+<line x1="168" y1="550.12" x2="456" y2="550.12" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="547.12" font-size="10.75" fill="#527078" font-weight="600">Radiotherapy</text>
+<text x="60" y="562.12" font-size="10.75" fill="#527078" font-weight="600">alone</text>
+<line x1="255.3" y1="550.12" x2="294.9" y2="550.12" stroke="#96790F" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="255.3" y1="543.12" x2="255.3" y2="557.12" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="294.9" y1="543.12" x2="294.9" y2="557.12" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="274.2" cy="550.12" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="548.12" font-size="16.34" fill="#96790F" font-weight="800" text-anchor="end">11.8</text>
+<text x="560" y="564.12" font-size="9.89" fill="#527078" text-anchor="end">(9.7–14.1), n=54</text>
+<line x1="168" y1="594.12" x2="456" y2="594.12" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="591.12" font-size="10.75" fill="#527078" font-weight="600">Radiotherapy plus</text>
+<text x="60" y="606.12" font-size="10.75" fill="#527078" font-weight="600">temozolomide</text>
+<line x1="272.4" y1="594.12" x2="297.6" y2="594.12" stroke="#00806B" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="272.4" y1="587.12" x2="272.4" y2="601.12" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="297.6" y1="587.12" x2="297.6" y2="601.12" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="282.3" cy="594.12" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="592.12" font-size="16.34" fill="#00806B" font-weight="800" text-anchor="end">12.7</text>
+<text x="560" y="608.12" font-size="9.89" fill="#527078" text-anchor="end">(11.6–14.4), n=60</text>
+<line x1="168" y1="634.12" x2="456" y2="634.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="168" y1="634.12" x2="168" y2="639.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="168" y="654.12" font-size="9.89" fill="#527078" text-anchor="middle">0</text>
+<line x1="240" y1="634.12" x2="240" y2="639.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="240" y="654.12" font-size="9.89" fill="#527078" text-anchor="middle">8</text>
+<line x1="312" y1="634.12" x2="312" y2="639.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="312" y="654.12" font-size="9.89" fill="#527078" text-anchor="middle">16</text>
+<line x1="384" y1="634.12" x2="384" y2="639.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="384" y="654.12" font-size="9.89" fill="#527078" text-anchor="middle">24</text>
+<line x1="456" y1="634.12" x2="456" y2="639.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="456" y="654.12" font-size="9.89" fill="#527078" text-anchor="middle">32</text>
+<text x="470" y="654.12" font-size="9.89" fill="#527078">months</text>
+<text x="60" y="672.12" font-size="11.18" fill="#527078">In the unmethylated row the two confidence intervals overlap heavily: this trial cannot show</text>
+<text x="60" y="688.46" font-size="11.18" fill="#527078">a difference.</text>
+<line x1="310" y1="720.8" x2="310" y2="729.6" stroke="#C9A83E" stroke-width="3" stroke-linecap="round"/>
+<polygon points="310,738.8 305.92,729.67 314.08,729.67" fill="#C9A83E"/>
+<text x="40" y="758.8" font-size="12.9" fill="#8F7418" font-weight="800">Same patients, same trial, two endpoints, two answers</text>
+<g filter="url(#sh)">
+<rect x="40" y="785.8000000000001" width="540" height="278.79999999999984" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="60" y="815.8" font-size="14.62" fill="#123641" font-weight="800">Progression-free survival (median, months)</text>
+<line x1="168" y1="841.58" x2="168" y2="845.58" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="240" y1="841.58" x2="240" y2="845.58" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="312" y1="841.58" x2="312" y2="845.58" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="384" y1="841.58" x2="384" y2="845.58" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="456" y1="841.58" x2="456" y2="845.58" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="60" y="863.58" font-size="12.47" fill="#123641" font-weight="800">Unmethylated</text>
+<line x1="168" y1="885.58" x2="456" y2="885.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="882.58" font-size="10.75" fill="#527078" font-weight="600">Radiotherapy</text>
+<text x="60" y="897.58" font-size="10.75" fill="#527078" font-weight="600">alone</text>
+<line x1="215.7" y1="885.58" x2="237.3" y2="885.58" stroke="#96790F" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="215.7" y1="878.58" x2="215.7" y2="892.58" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="237.3" y1="878.58" x2="237.3" y2="892.58" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="221.1" cy="885.58" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="883.58" font-size="16.34" fill="#96790F" font-weight="800" text-anchor="end">5.9</text>
+<text x="560" y="899.58" font-size="9.89" fill="#527078" text-anchor="end">(5.3–7.7), n=46</text>
+<line x1="168" y1="929.58" x2="456" y2="929.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<text x="60" y="926.58" font-size="10.75" fill="#527078" font-weight="600">Radiotherapy plus</text>
+<text x="60" y="941.58" font-size="10.75" fill="#527078" font-weight="600">temozolomide</text>
+<line x1="226.5" y1="929.58" x2="294" y2="929.58" stroke="#00806B" stroke-width="3.4" stroke-linecap="round"/>
+<line x1="226.5" y1="922.58" x2="226.5" y2="936.58" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="294" y1="922.58" x2="294" y2="936.58" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="260.7" cy="929.58" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="560" y="927.58" font-size="16.34" fill="#00806B" font-weight="800" text-anchor="end">10.3</text>
+<text x="560" y="943.58" font-size="9.89" fill="#527078" text-anchor="end">(6.5–14), n=46</text>
+<line x1="168" y1="969.58" x2="456" y2="969.58" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="168" y1="969.58" x2="168" y2="974.58" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="168" y="989.58" font-size="9.89" fill="#527078" text-anchor="middle">0</text>
+<line x1="240" y1="969.58" x2="240" y2="974.58" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="240" y="989.58" font-size="9.89" fill="#527078" text-anchor="middle">8</text>
+<line x1="312" y1="969.58" x2="312" y2="974.58" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="312" y="989.58" font-size="9.89" fill="#527078" text-anchor="middle">16</text>
+<line x1="384" y1="969.58" x2="384" y2="974.58" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="384" y="989.58" font-size="9.89" fill="#527078" text-anchor="middle">24</text>
+<line x1="456" y1="969.58" x2="456" y2="974.58" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="456" y="989.58" font-size="9.89" fill="#527078" text-anchor="middle">32</text>
+<text x="470" y="989.58" font-size="9.89" fill="#527078">months</text>
+<text x="60" y="1007.58" font-size="11.18" fill="#527078">Only the unmethylated row is drawn here, because that is the row where the two endpoints</text>
+<text x="60" y="1023.92" font-size="11.18" fill="#527078">disagree: the tumour coming back later is visible, the person living longer is not — not in this</text>
+<text x="60" y="1040.26" font-size="11.18" fill="#527078">trial.</text>
+<text x="40" y="1082.6" font-size="12.04" fill="#527078">These are groups of only fifty or sixty people, with wide confidence intervals. Not being able</text>
+<text x="40" y="1099.8" font-size="12.04" fill="#527078">to show a difference is not the same as showing there is none.</text>
+<rect x="40" y="1135.0" width="540" height="130.0400000000002" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="64" y="1165" font-size="15.48" fill="#123641" font-weight="800">And the comparison that would settle it has never been done</text>
+<text x="64" y="1187.36" font-size="12.9" fill="#345963">The systematic review and meta-analysis (Alnahhas 2020) says it plainly: no</text>
+<text x="64" y="1206.28" font-size="12.9" fill="#345963">study has ever prospectively randomised unmethylated patients between</text>
+<text x="64" y="1225.2" font-size="12.9" fill="#345963">radiotherapy alone and radiotherapy plus temozolomide. So this box is not</text>
+<text x="64" y="1244.12" font-size="12.9" fill="#345963">&quot;the evidence shows it does not work&quot; — it is &quot;nobody has run that trial&quot;.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1285.0400000000002" width="540" height="302.1500000000001" rx="16" fill="#FFFFFF"/>
+</g>
+<text x="64" y="1315.04" font-size="13.76" fill="#123641" font-weight="800">In older patients there are direct randomised stratified data (Perry 2017,</text>
+<text x="64" y="1333.96" font-size="13.76" fill="#123641" font-weight="800">aged 65 and over, n=562; both arms had 40 Gy in 15 fractions)</text>
+<rect x="64" y="1358.88" width="492" height="74" rx="12" fill="#F3E8CD"/>
+<text x="78" y="1382.88" font-size="13.5" fill="#527078" font-weight="700">Methylated (n=165)</text>
+<text x="78" y="1406.88" font-size="19" fill="#00806B" font-weight="800">13.5 vs 7.7 months</text>
+<text x="78" y="1424.88" font-size="12" fill="#345963">hazard ratio 0.53 (0.38 to 0.73), P &lt; 0.001</text>
+<rect x="64" y="1440.88" width="492" height="74" rx="12" fill="#ECE8DE"/>
+<text x="78" y="1464.88" font-size="13.5" fill="#527078" font-weight="700">Unmethylated (n=189)</text>
+<text x="78" y="1488.88" font-size="19" fill="#96790F" font-weight="800">10.0 vs 7.9 months</text>
+<text x="78" y="1506.88" font-size="12" fill="#345963">hazard ratio 0.75 (0.56 to 1.01), P = 0.055</text>
+<text x="64" y="1530.88" font-size="11.61" fill="#527078">In plain words, a hazard ratio of 0.75 means that at any point during follow-up the risk</text>
+<text x="64" y="1547.65" font-size="11.61" fill="#527078">of death in the arm that added the drug was about three-quarters of the risk in the arm</text>
+<text x="64" y="1564.42" font-size="11.61" fill="#527078">that did not; but P = 0.055 means that gap did not reach statistical significance.</text>
+<rect x="40" y="1605.1900000000003" width="540" height="154.6800000000003" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="64" y="1635.19" font-size="15.48" fill="#B04A4A" font-weight="800">This figure must not be read as &quot;unmethylated means you can</text>
+<text x="64" y="1656.69" font-size="15.48" fill="#B04A4A" font-weight="800">skip the drug&quot;</text>
+<text x="64" y="1682.19" font-size="12.9" fill="#345963" font-weight="600">Progression-free survival differs, overall survival cannot be shown to differ,</text>
+<text x="64" y="1701.11" font-size="12.9" fill="#345963" font-weight="600">and nobody has run a randomised trial in this group — the three have to be</text>
+<text x="64" y="1720.03" font-size="12.9" fill="#345963" font-weight="600">read together. Whether to use the drug is a conversation with your team, not a</text>
+<text x="64" y="1738.95" font-size="12.9" fill="#345963" font-weight="600">decision to make at home; do not stop your own treatment.</text>
+<text x="40" y="1777.87" font-size="14" fill="#527078">Schematic, redrawn from Hegi 2005 (the stratified analysis of EORTC</text>
+<text x="40" y="1798.87" font-size="14" fill="#527078">26981-22981 / NCIC CE.3), Alnahhas 2020 and Perry 2017; the cohorts, designs</text>
+<text x="40" y="1819.87" font-size="14" fill="#527078">and endpoints of the underlying studies differ, so the data points must not be</text>
+<text x="40" y="1840.87" font-size="14" fill="#527078">compared directly.</text>
+  </g>
+</svg>

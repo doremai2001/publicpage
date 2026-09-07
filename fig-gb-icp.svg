@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2023" viewBox="0 0 1440 2023" role="img" aria-labelledby="t d">
+  <title id="t">三級急症警訊：叫救護車、當天回來、這次門診一定要講</title>
+  <desc id="d">示意圖：膠質母細胞瘤病人的三級急症警訊，三條由重到輕的橫向色帶，視覺份量刻意不同。第一級「立刻」——打 119 叫救護車、不要自己開車：抽搐超過 5 分鐘、一次接著一次、發作停了還是叫不醒；意識改變、叫不醒、瞳孔一大一小、血壓升高加心跳變慢加呼吸不規則（庫欣三徵）；幾分鐘到幾小時之內突然出現的單側無力、講話含糊、嘴角歪斜；突然發作的劇烈頭痛，或頭痛合併嘔吐、意識變差；喘、胸痛、咳血、昏厥。第一級裡嵌一個小格說明顱內壓升高怎麼認，是三條線而不是清晨頭痛一條：頭痛的型態改變了、伴隨嘔吐或彎腰咳嗽平躺時加重、合併新出現的神經學變化；並註明有頭痛的腦瘤病人只有 48%（Forsyth 1993，n=111），所以沒有頭痛不能拿來排除。第二級「當天」——現在就出門、不要等明天門診：耳溫或口溫量到一次 38.0 度就出門；解黑便或吐出咖啡色的東西；單側小腿腫脹、疼痛、壓痛、發紅發熱；這幾天慢慢變明顯的單側無力或走路不穩；手術傷口紅腫滲液；類固醇減量之後的沒力氣、頭暈、站起來眼前發黑。第三級「這次門診」——不用衝但一定要講出口：頭痛的型態變了、情緒或行為改變、走路變得不太穩。圖的下半有三個補充格。發燒那一格：38.0 度用大字寫成行動線（量到一次就出門），38.3 度用小灰字標成指引定義的單次口溫門檻、不是你的行動線；三個打叉的動作是不要重量一次看看、不要等它持續、不要等到 38.3；並註明到了急診指引的目標是分診後 1 小時內給第一劑抗生素，以及同步治療期的血球資料——grade 3 或 4 的血液毒性 7%（隨機試驗，n=573）、grade 3 或 4 血小板低下 19% 且中位持續 32 天、任何等級的血小板低下 61.1%。血栓那一格只寫症狀與行動：深部靜脈栓塞（單側小腿腫脹、疼痛、壓痛、發紅發熱）馬上打電話給醫師；肺栓塞（呼吸困難、心跳很快、深呼吸更痛的胸痛、咳血、昏厥）立即就醫；grade 4 膠質瘤的靜脈血栓栓塞不同研究報 6.2% 到 31%、丹麥全國登記 6.8%，事件組成大約是深部靜脈栓塞六成、肺栓塞三成五、腦靜脈竇栓塞半成，而這是不同研究的區間、不是同一群人；並明寫要不要吃預防性抗凝血藥這張圖不畫，那是醫師的決定。抽搐那一格：5 分鐘是行動線（叫救護車）、30 分鐘開始有長期後果，並註明從家裡出發到藥物起效本身就會吃掉那 30 分鐘。最後一句：三級不是嚴重度排名，是多快要動作；最上面那一級請叫救護車，不要自己開車、不要先打電話問。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2023" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="4px">THREE TIERS: HOW FAST, NOT HOW BAD</text>
+<text x="84" y="148" font-size="42" fill="#123641" font-weight="800" class="r">三級：叫救護車、當天回來、這次門診一定要講</text>
+<text x="84" y="206.08" font-size="20" fill="#527078">這三級分的是「多快要動作」，不是「嚴不嚴重」。三級的份量刻意畫得不一樣重——如果三格看起來差不多，最重的那一級就失去意義了。</text>
+<text x="84" y="235.08" font-size="20" fill="#527078">這一格寫的是你在家裡認得出來、做得到的事。要不要用藥、要不要檢查，是醫師那一邊的決定。</text>
+<g filter="url(#sh)">
+<rect x="84" y="284.08" width="1272" height="420.99999999999994" rx="18" fill="#B04A4A"/>
+</g>
+<rect x="110" y="306.08" width="78" height="30" rx="15" fill="#FFFFFF"/>
+<text x="149" y="327.08" font-size="16" fill="#B04A4A" font-weight="800" text-anchor="middle">立刻</text>
+<text x="202" y="328.08" font-size="22" fill="#FFFFFF" font-weight="800">打 119 叫救護車，不要自己開車</text>
+<circle cx="118" cy="354.08" r="5" fill="#FFFFFF"/>
+<text x="134" y="359.08" font-size="16" fill="#FFFFFF" font-weight="600">抽搐超過 5 分鐘；一次接著一次；發作停了還是叫不醒</text>
+<circle cx="118" cy="392.08" r="5" fill="#FFFFFF"/>
+<text x="134" y="397.08" font-size="16" fill="#FFFFFF" font-weight="600">意識改變、叫不醒、瞳孔一大一小；血壓升高＋心跳變慢＋呼吸不規則（庫欣三徵）</text>
+<circle cx="118" cy="430.08" r="5" fill="#FFFFFF"/>
+<text x="134" y="435.08" font-size="16" fill="#FFFFFF" font-weight="600">幾分鐘到幾小時之內突然出現的單側無力、講話含糊、嘴角歪斜</text>
+<circle cx="118" cy="468.08" r="5" fill="#FFFFFF"/>
+<text x="134" y="473.08" font-size="16" fill="#FFFFFF" font-weight="600">突然發作的劇烈頭痛，或頭痛合併嘔吐、意識變差</text>
+<circle cx="118" cy="506.08" r="5" fill="#FFFFFF"/>
+<text x="134" y="511.08" font-size="16" fill="#FFFFFF" font-weight="600">喘、胸痛、咳血、昏厥</text>
+<rect x="114" y="546.0799999999999" width="1212" height="145.0" rx="12" fill="#FFFFFF" opacity="0.14"/>
+<text x="128" y="572.08" font-size="15" fill="#FFFFFF" font-weight="800">顱內壓升高怎麼認：三條線，不是「清晨頭痛」一條</text>
+<circle cx="136" cy="590.08" r="3.5" fill="#F6E2E0"/>
+<text x="148" y="594.08" font-size="14" fill="#F6E2E0">頭痛的「型態」改變了（跟你以前的頭痛不一樣）</text>
+<circle cx="136" cy="612.08" r="3.5" fill="#F6E2E0"/>
+<text x="148" y="616.08" font-size="14" fill="#F6E2E0">伴隨嘔吐，或彎腰、咳嗽、平躺時加重</text>
+<circle cx="136" cy="634.08" r="3.5" fill="#F6E2E0"/>
+<text x="148" y="638.08" font-size="14" fill="#F6E2E0">合併新出現的神經學變化</text>
+<text x="128" y="668.08" font-size="13" fill="#F6E2E0">有頭痛的腦瘤病人只有 48%（Forsyth 1993，n=111）——所以「沒有頭痛」不能拿來排除。</text>
+<rect x="84" y="739.0799999999999" width="8" height="248.0" rx="4" fill="#96790F"/>
+<rect x="84" y="723.0799999999999" width="1272" height="280.0" rx="16" fill="#FFFFFF" stroke="#C9A83E" stroke-width="2.5"/>
+<rect x="106" y="743.08" width="78" height="28" rx="14" fill="#96790F"/>
+<text x="145" y="762.08" font-size="14.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">當天</text>
+<text x="200" y="763.08" font-size="18.5" fill="#8F7418" font-weight="800">現在就出門，不要等明天門診</text>
+<circle cx="116" cy="787.08" r="4" fill="#96790F"/>
+<text x="130" y="792.08" font-size="15" fill="#123641" font-weight="800">耳溫或口溫量到「一次」38.0 度就出門</text>
+<circle cx="116" cy="822.08" r="4" fill="#96790F"/>
+<text x="130" y="827.08" font-size="15" fill="#345963">解黑便，或吐出咖啡色的東西</text>
+<circle cx="116" cy="857.08" r="4" fill="#96790F"/>
+<text x="130" y="862.08" font-size="15" fill="#345963">單側小腿腫脹、疼痛、壓痛、發紅發熱</text>
+<circle cx="116" cy="892.08" r="4" fill="#96790F"/>
+<text x="130" y="897.08" font-size="15" fill="#345963">這幾天「慢慢」變明顯的單側無力或走路不穩</text>
+<circle cx="116" cy="927.08" r="4" fill="#96790F"/>
+<text x="130" y="932.08" font-size="15" fill="#345963">手術傷口紅腫、滲液</text>
+<circle cx="116" cy="962.08" r="4" fill="#96790F"/>
+<text x="130" y="967.08" font-size="15" fill="#345963">類固醇減量之後的沒力氣、頭暈、站起來眼前發黑</text>
+<rect x="84" y="1019.0799999999999" width="1272" height="150.0" rx="14" fill="none" stroke="#B9AE94" stroke-width="1.6"/>
+<rect x="104" y="1035.08" width="84" height="24" rx="12" fill="none" stroke="#B9AE94" stroke-width="1.6"/>
+<text x="146" y="1052.08" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">這次門診</text>
+<text x="202" y="1053.08" font-size="15.5" fill="#527078" font-weight="700">不用衝，但一定要講出口</text>
+<circle cx="114" cy="1072.08" r="3" fill="#B9AE94"/>
+<text x="126" y="1077.08" font-size="13.5" fill="#527078">頭痛的型態變了（頻率、時間、性質）</text>
+<circle cx="114" cy="1102.08" r="3" fill="#B9AE94"/>
+<text x="126" y="1107.08" font-size="13.5" fill="#527078">情緒或行為改變——家屬看到的那種「他變了一個人」</text>
+<circle cx="114" cy="1132.08" r="3" fill="#B9AE94"/>
+<text x="126" y="1137.08" font-size="13.5" fill="#527078">走路變得不太穩</text>
+<g filter="url(#sh)">
+<rect x="84" y="1195.08" width="1272" height="227.0" rx="16" fill="#FFFFFF"/>
+</g>
+<text x="108" y="1227.08" font-size="18" fill="#123641" font-weight="800">發燒這一格：量到一次 38.0 就出門</text>
+<text x="108" y="1295.08" font-size="62" fill="#B04A4A" font-weight="800">38.0</text>
+<text x="256" y="1295.08" font-size="24" fill="#B04A4A" font-weight="800">°C</text>
+<text x="108" y="1323.08" font-size="14.5" fill="#345963" font-weight="700">本站的操作規則：量到一次就</text>
+<text x="108" y="1343.08" font-size="14.5" fill="#345963" font-weight="700">出門</text>
+<text x="334" y="1265.08" font-size="18" fill="#527078" font-weight="700">38.3°C</text>
+<text x="334" y="1287.08" font-size="12.5" fill="#527078">指引定義的單次口溫門檻（灰色的那一條，</text>
+<text x="334" y="1305.08" font-size="12.5" fill="#527078">不是你的行動線）</text>
+<line x1="644" y1="1253.08" x2="656" y2="1265.08" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="656" y1="1253.08" x2="644" y2="1265.08" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<text x="666" y="1265.08" font-size="15" fill="#345963" font-weight="600">不要重量一次看看</text>
+<line x1="644" y1="1283.08" x2="656" y2="1295.08" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="656" y1="1283.08" x2="644" y2="1295.08" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<text x="666" y="1295.08" font-size="15" fill="#345963" font-weight="600">不要等它「持續」</text>
+<line x1="644" y1="1313.08" x2="656" y2="1325.08" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="656" y1="1313.08" x2="644" y2="1325.08" stroke="#B04A4A" stroke-width="2.5" stroke-linecap="round"/>
+<text x="666" y="1325.08" font-size="15" fill="#345963" font-weight="600">不要等到 38.3</text>
+<text x="108" y="1377.08" font-size="13.5" fill="#527078">到了急診，指引的目標是分診後 1 小時內給第一劑抗生素。同步治療期的血球資料：grade 3 或 4 的血液毒性 7%（隨機試驗，n=573）；grade 3 或 4 血小板低下 19%、中位持續 32 天；任何等級的血小板</text>
+<text x="108" y="1396.58" font-size="13.5" fill="#527078">低下 61.1%。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1440.08" width="1272" height="249.0" rx="16" fill="#FFFFFF"/>
+</g>
+<text x="108" y="1472.08" font-size="18" fill="#123641" font-weight="800">血栓這一格：只寫「認得出症狀、當天回來」</text>
+<rect x="108.0" y="1486.08" width="601.0" height="102.0" rx="12" fill="#F6E2E0"/>
+<text x="126" y="1512.08" font-size="16" fill="#B04A4A" font-weight="800">深部靜脈栓塞（腿）</text>
+<text x="126" y="1536.08" font-size="14" fill="#345963">單側小腿腫脹、疼痛、壓痛、發紅發熱</text>
+<text x="126" y="1574.08" font-size="15" fill="#123641" font-weight="800">→ 馬上打電話給醫師</text>
+<rect x="731.0" y="1486.08" width="601.0" height="102.0" rx="12" fill="#F6E2E0"/>
+<text x="749" y="1512.08" font-size="16" fill="#B04A4A" font-weight="800">肺栓塞（肺）</text>
+<text x="749" y="1536.08" font-size="14" fill="#345963">呼吸困難、心跳很快、深呼吸更痛的胸痛、咳血、昏厥</text>
+<text x="749" y="1574.08" font-size="15" fill="#123641" font-weight="800">→ 立即就醫</text>
+<text x="108" y="1606.08" font-size="13.5" fill="#345963">grade 4 膠質瘤的靜脈血栓栓塞：不同研究報 6.2% 到 31%；丹麥全國登記 6.8%。事件組成大約是深部靜脈栓塞六成、肺栓塞三成五、腦靜脈竇栓塞半成。</text>
+<text x="108" y="1631.58" font-size="13.5" fill="#345963" font-weight="800">這是不同研究的區間，不是同一群人。</text>
+<text x="108" y="1663.08" font-size="14" fill="#8F7418" font-weight="700">要不要吃預防性的抗凝血藥，這張圖不畫——那是醫師依你有沒有開刀、有沒有已經栓塞來決定的，而且指引的方向和直覺相反。你在家裡的工作是認得出症狀、當天回來。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1707.08" width="1272" height="173.5" rx="16" fill="#FFFFFF"/>
+</g>
+<text x="108" y="1739.08" font-size="18" fill="#123641" font-weight="800">抽搐：5 分鐘是行動線，不是觀察期</text>
+<line x1="108" y1="1805.08" x2="1332" y2="1805.08" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt"/>
+<circle cx="303.84" cy="1805.08" r="13" fill="#B04A4A"/>
+<text x="303.84" y="1777.08" font-size="22" fill="#B04A4A" font-weight="800" text-anchor="middle">5 分鐘</text>
+<text x="303.84" y="1833.08" font-size="15" fill="#123641" font-weight="800" text-anchor="middle">叫救護車</text>
+<circle cx="866.88" cy="1805.08" r="8" fill="#B9AE94"/>
+<text x="866.88" y="1777.08" font-size="16" fill="#527078" font-weight="800" text-anchor="middle">30 分鐘</text>
+<text x="866.88" y="1833.08" font-size="13" fill="#527078" font-weight="600" text-anchor="middle">開始有長期後果</text>
+<text x="108" y="1855.08" font-size="13.5" fill="#527078">從家裡出發、到急診、到打上針、到藥物起效，本身就會吃掉那 30 分鐘。</text>
+<rect x="84" y="1898.58" width="1272" height="52.0" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="108" y="1926.58" font-size="15.5" fill="#B04A4A" font-weight="800">三級不是嚴重度排名，是「多快要動作」。最上面那一級請叫救護車，不要自己開車、不要先打電話問。</text>
+<text x="84" y="1972.58" font-size="16" fill="#527078">示意圖，依 Trinka 2015（癲癇重積定義）、Forsyth 1993、Olaru 2023（顱內壓綜述）、Hovman 2021、de Sousa Bernardes 2023、Binjabal 2024、Freifeld 2011（IDSA）、</text>
+<text x="84" y="1996.58" font-size="16" fill="#527078">Taplitz 2018（ASCO/IDSA）、美國 CDC 的癲癇急救頁與血栓症狀頁，以及 Stupp 2005 重繪；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

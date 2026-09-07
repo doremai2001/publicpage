@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1635" viewBox="0 0 1440 1635" role="img" aria-labelledby="t d">
+  <title id="t">The shape of a corticosteroid taper, and when the side effects show up</title>
+  <desc id="d">Schematic showing the shape of a corticosteroid taper and when side effects appear. The upper half is an abstract descending staircase running from a starting point, once symptomatic oedema is under control, down to the lowest effective dose or stopping altogether; the number of steps, the length of each step and the size of each drop are deliberately not shown, and a note records that guidelines disagree with one another on starting doses and tapering speed, that some of them cite each other, and that the evidence base of one of them contains no glioma patients at all. The lower half is a time axis that is not to scale, marked in order: start, 24 to 72 hours, day 7, day 28, 8 weeks, and beyond one year. Five bands sit on it. First, symptoms improve, with an effect within 24 to 72 hours, and what is pushed out is water, not tumour. Second, Cushingoid face and ankle oedema, measurably different by day 7 (P = 0.02) and more so by day 28 (P = 0.03), rising with dose and with time, and the only side effect in the randomised trial clearly related to dose. Third, psychiatric symptoms, with the first 8 weeks as the acute phase, manic symptoms commoner than depressive ones (odds ratio 2.42, and an odds ratio is not a multiple of a probability), psychotic symptoms about 2.4 per cent (0.76 to 7.26), and GRADE certainty low to very low. Fourth, bone loss, where the risk of losing more than 5 per cent of bone density in a year is highest in the first two years of use, from routine DXA in 15,099 Danish adults. Fifth, adrenal insufficiency: 1.4 per cent with under 28 days of use and 27.4 per cent beyond a year, and by dose 2.4 per cent in the low-dose group against 21.5 per cent in the high-dose group, from 74 studies and 3,753 adults all tested with ACTH stimulation and mostly non-brain-tumour populations such as asthma. A further panel states that the only milligram figures on the page are study groupings: in a retrospective cohort of brain metastasis patients (n=97, 1982), the group on 12 mg a day or more had myopathy 4.5 per cent, peptic ulcer 5.6 per cent and hyperglycaemia 6.7 per cent, while the group on 8 mg a day or less had 0 per cent for all three — that is how the study split its patients, not a prescription; and for ulcers the real amplifier is a steroid plus an anti-inflammatory painkiller, with steroid alone relative risk 1.1 (0.5 to 2.1) and steroid plus an NSAID relative risk 4.4 (2.0 to 9.7), from a 1991 nested case-control study in a non-brain-tumour population. At the end of the timeline the path forks into adrenal insufficiency (weakness, dizziness, greying out on standing, nausea) and rebound of symptoms (the headache returns, neurological symptoms that had settled come back); they look the same and are handled in opposite directions, so if either happens during a taper the move is to ring the team rather than to add a dose or stop. The figure closes with a warning: not one tapering schedule was worked out for you, every milligram figure on the page is a study grouping and not a prescription, and the drug must not be increased, reduced or stopped on your own.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1635" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="4px">TAPERING, AND WHEN THINGS SHOW UP</text>
+<text x="84" y="148" font-size="42" fill="#123641" font-weight="800" class="r">Not one tapering schedule was worked out for you</text>
+<text x="84" y="206.08" font-size="20" fill="#527078">The upper half is the shape of a taper: one step down at a time. This figure deliberately shows no number of steps, no days and no</text>
+<text x="84" y="235.08" font-size="20" fill="#527078">milligrams — your team works those out.</text>
+<text x="84" y="264.08" font-size="20" fill="#527078">The lower half shows when side effects appear. The time axis is not to scale; it only puts things in order.</text>
+<g filter="url(#sh)">
+<rect x="84" y="313.08" width="1272" height="295.99999999999994" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="106" y="343.08" font-size="18" fill="#123641" font-weight="800">The shape of a taper</text>
+<rect x="109" y="383.08" width="239.6" height="118" rx="7" fill="#96790F" opacity="0.92"/>
+<rect x="354.6" y="406.68" width="239.6" height="94.4" rx="7" fill="#96790F" opacity="0.8"/>
+<rect x="600.2" y="430.28" width="239.6" height="70.8" rx="7" fill="#96790F" opacity="0.68"/>
+<rect x="845.8" y="453.88" width="239.6" height="47.2" rx="7" fill="#96790F" opacity="0.56"/>
+<rect x="1091.4" y="477.48" width="239.6" height="23.6" rx="7" fill="#96790F" opacity="0.44000000000000006"/>
+<line x1="106" y1="503.08" x2="1334" y2="503.08" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt"/>
+<text x="110" y="375.08" font-size="13.5" fill="#527078" font-weight="700">Starting point (once symptomatic oedema is under control)</text>
+<text x="1330" y="525.08" font-size="13.5" fill="#527078" font-weight="700" text-anchor="end">Lowest effective dose, or off it altogether</text>
+<line x1="228.8" y1="535.08" x2="1202.92" y2="535.08" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="1211.2,535.08 1202.98,538.75 1202.98,531.41" fill="#B9AE94"/>
+<text x="106" y="561.08" font-size="14" fill="#527078">How many steps, how long each step lasts and how far each drop goes are not drawn here. Guidelines disagree with one another on starting doses and tapering speed, and some of</text>
+<text x="106" y="581.08" font-size="14" fill="#527078">them cite each other; the evidence base of one of them contains no glioma patients at all.</text>
+<text x="84" y="631.08" font-size="18" fill="#8F7418" font-weight="800">When side effects show up</text>
+<text x="289" y="667.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="start">Start</text>
+<text x="502.4" y="667.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="middle">24–72 hours</text>
+<text x="715.8" y="667.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="middle">Day 7</text>
+<text x="929.2" y="667.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="middle">Day 28</text>
+<text x="1142.6" y="667.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="middle">8 weeks</text>
+<text x="1356" y="667.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="end">Beyond 1 year</text>
+<line x1="289" y1="675.08" x2="289" y2="681.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="502.4" y1="675.08" x2="502.4" y2="681.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="715.8" y1="675.08" x2="715.8" y2="681.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="929.2" y1="675.08" x2="929.2" y2="681.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="1142.6" y1="675.08" x2="1142.6" y2="681.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="1356" y1="675.08" x2="1356" y2="681.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="289" y1="681.08" x2="1356" y2="681.08" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="289" y1="689.08" x2="289" y2="715.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="502.4" y1="689.08" x2="502.4" y2="715.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="715.8" y1="689.08" x2="715.8" y2="715.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="929.2" y1="689.08" x2="929.2" y2="715.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1142.6" y1="689.08" x2="1142.6" y2="715.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1356" y1="689.08" x2="1356" y2="715.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<rect x="289" y="691.08" width="213.4" height="22" rx="11" fill="#00806B"/>
+<text x="84" y="707.08" font-size="14.5" fill="#123641" font-weight="800">Symptoms improve</text>
+<text x="88" y="729.08" font-size="13.5" fill="#345963">Effect within 24 to 72 hours. What is being pushed out is water, not tumour.</text>
+<line x1="289" y1="756.58" x2="289" y2="782.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="502.4" y1="756.58" x2="502.4" y2="782.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="715.8" y1="756.58" x2="715.8" y2="782.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="929.2" y1="756.58" x2="929.2" y2="782.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1142.6" y1="756.58" x2="1142.6" y2="782.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1356" y1="756.58" x2="1356" y2="782.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<rect x="715.8" y="758.58" width="640.2" height="22" rx="11" fill="#96790F"/>
+<text x="84" y="774.58" font-size="14.5" fill="#123641" font-weight="800">Cushingoid face, ankle oedema</text>
+<text x="88" y="796.58" font-size="13.5" fill="#345963">Measurably different by day 7 (P = 0.02) and more so by day 28 (P = 0.03); it rises with dose and with time. This was the only side effect in the randomised trial clearly related to dose.</text>
+<line x1="289" y1="824.08" x2="289" y2="850.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="502.4" y1="824.08" x2="502.4" y2="850.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="715.8" y1="824.08" x2="715.8" y2="850.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="929.2" y1="824.08" x2="929.2" y2="850.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1142.6" y1="824.08" x2="1142.6" y2="850.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1356" y1="824.08" x2="1356" y2="850.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<rect x="289" y="826.08" width="853.6" height="22" rx="11" fill="#5C77C4"/>
+<text x="84" y="842.08" font-size="14.5" fill="#123641" font-weight="800">Psychiatric symptoms</text>
+<text x="88" y="864.08" font-size="13.5" fill="#345963">The first 8 weeks are the &quot;acute phase&quot;; manic symptoms are commoner than depressive ones (odds ratio 2.42 — an odds ratio is not a multiple of a probability). Psychotic symptoms about 2.4%</text>
+<text x="88" y="883.58" font-size="13.5" fill="#345963">(0.76 to 7.26). GRADE certainty low to very low.</text>
+<line x1="289" y1="911.08" x2="289" y2="937.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="502.4" y1="911.08" x2="502.4" y2="937.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="715.8" y1="911.08" x2="715.8" y2="937.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="929.2" y1="911.08" x2="929.2" y2="937.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1142.6" y1="911.08" x2="1142.6" y2="937.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1356" y1="911.08" x2="1356" y2="937.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<rect x="289" y="913.08" width="1067" height="22" rx="11" fill="#7A6E58"/>
+<text x="84" y="929.08" font-size="14.5" fill="#123641" font-weight="800">Bone loss</text>
+<text x="88" y="951.08" font-size="13.5" fill="#345963">The risk of losing more than 5% of bone density in a year is highest in the first two years of use (routine DXA in 15,099 Danish adults).</text>
+<line x1="289" y1="978.58" x2="289" y2="1004.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="502.4" y1="978.58" x2="502.4" y2="1004.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="715.8" y1="978.58" x2="715.8" y2="1004.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="929.2" y1="978.58" x2="929.2" y2="1004.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1142.6" y1="978.58" x2="1142.6" y2="1004.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1356" y1="978.58" x2="1356" y2="1004.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<rect x="289" y="980.58" width="1067" height="22" rx="11" fill="#B04A4A"/>
+<text x="84" y="996.58" font-size="14.5" fill="#123641" font-weight="800">Adrenal insufficiency</text>
+<text x="88" y="1018.58" font-size="13.5" fill="#345963">Under 28 days of use, 1.4%; beyond a year, 27.4%. By dose: 2.4% in the low-dose group, 21.5% in the high-dose group. (74 studies, 3,753 adults, all tested with ACTH stimulation; mostly</text>
+<text x="88" y="1038.08" font-size="13.5" fill="#345963">non-brain-tumour populations such as asthma.)</text>
+<text x="1356" y="1071.58" font-size="12" fill="#527078" text-anchor="end">Time (not to scale; order only)</text>
+<rect x="84" y="1091.58" width="1272" height="161.0" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="108" y="1121.58" font-size="17" fill="#8F7418" font-weight="800">The only milligram figures on this page are study groupings</text>
+<text x="108" y="1145.58" font-size="14.5" fill="#345963">A retrospective cohort of brain metastasis patients (n=97, 1982): in the group on 12 mg a day or more, myopathy 4.5%, peptic ulcer 5.6%, hyperglycaemia 6.7%; in the group on</text>
+<text x="108" y="1166.58" font-size="14.5" fill="#345963">8 mg a day or less, all three were 0%.</text>
+<text x="108" y="1187.58" font-size="14.5" fill="#345963" font-weight="800">That is how the study split its patients, not a prescription.</text>
+<text x="108" y="1208.58" font-size="14.5" fill="#345963"> For ulcers the real amplifier is a steroid plus an anti-inflammatory painkiller: steroid alone relative risk 1.1 (0.5 to 2.1), steroid plus an NSAID relative risk 4.4 (2.0 to 9.7) (a</text>
+<text x="108" y="1229.58" font-size="14.5" fill="#345963">nested case-control study from 1991 in a non-brain-tumour population).</text>
+<g filter="url(#sh)">
+<rect x="84" y="1276.58" width="1272" height="161.0" rx="16" fill="#FFFFFF"/>
+</g>
+<text x="108" y="1306.58" font-size="17" fill="#123641" font-weight="800">Further down the taper the path forks — and both branches look like the tumour getting worse</text>
+<rect x="108" y="1333.58" width="600" height="64" rx="12" fill="#F6E2E0"/>
+<text x="126" y="1361.58" font-size="16" fill="#B04A4A" font-weight="800">Adrenal insufficiency</text>
+<text x="126" y="1383.58" font-size="13" fill="#345963">weakness, dizziness, greying out on standing, nausea</text>
+<rect x="732" y="1333.58" width="600" height="64" rx="12" fill="#F6E2E0"/>
+<text x="750" y="1361.58" font-size="16" fill="#B04A4A" font-weight="800">Rebound of symptoms</text>
+<text x="750" y="1383.58" font-size="13" fill="#345963">the headache returns, neurological symptoms that had settled come back</text>
+<text x="108" y="1411.58" font-size="14" fill="#345963" font-weight="600">They look the same and are handled in opposite directions. So if this happens during a taper, the move is to ring your team — not to add a dose or stop on your own.</text>
+<rect x="84" y="1457.58" width="1272" height="105.0" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="108" y="1487.58" font-size="18" fill="#B04A4A" font-weight="800">Not one tapering schedule was worked out for you</text>
+<text x="108" y="1516.58" font-size="15" fill="#345963" font-weight="600">Every milligram figure on this page is a study grouping, not a prescription. Do not increase, reduce or stop the drug on your own; when to taper and by how much is</text>
+<text x="108" y="1538.58" font-size="15" fill="#345963" font-weight="600">decided by your team from your symptoms and your scans.</text>
+<text x="84" y="1584.58" font-size="16" fill="#527078">Schematic, redrawn from Jessurun 2019, Piper 1991, Kusudo 2026, Hansen 2025, Broersen 2015 and the EANO 2021 guideline; the cohorts, designs and endpoints</text>
+<text x="84" y="1608.58" font-size="16" fill="#527078">of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

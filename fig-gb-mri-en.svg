@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1274" viewBox="0 0 1440 1274" role="img" aria-labelledby="t d">
+  <title id="t">The follow-up MRI schedule, and the denominator behind the pseudoprogression window</title>
+  <desc id="d">Schematic of the follow-up MRI schedule and the pseudoprogression window. The upper half is a time axis that is not to scale, running through: surgery; the post-operative MRI, with both recommendations shown, EANO within 48 hours and NICE within 72 hours; six weeks of chemoradiotherapy with radiotherapy plus temozolomide; the post-radiotherapy MRI, which since 2023 RANO 2.0 takes as the baseline; 12 weeks after radiotherapy, the high-risk window for pseudoprogression; and then a scan every 2 to 6 months, which the guideline itself calls common practice. Boxes beside the axis set out the rules: RANO 2.0 states that because the incidence of pseudoprogression is high in the 12 weeks after radiotherapy, defining progression during that period requires continuation of treatment together with a repeat MRI or histopathological evidence; the EANO version is to repeat the scan in 4 to 8 weeks when progression is suspected. A further line states that both are rules for reading scans and not a waiting period a patient can take away and use alone, since they hold only while treatment continues, monitoring continues and a doctor judges the patient clinically stable, and are not a licence to push the appointment back. The lower half gives the denominators. The first bar shows how the three-month post-radiotherapy scan was classified in the Blakstad 2024 glioblastoma cohort of 284 patients: pseudoprogression 53 (reported as 19.4 per cent), true progression 113 (reported as 41.4 per cent) and stable disease 104 (reported as 38.1 per cent). The second bar looks only at the 166 whose scans looked worse, that is 53 plus 113: pseudoprogression 53, about one third, and true progression 113, about two thirds. The figure notes that the one third and two thirds are converted from the counts in the paper, which itself reports 19.4, 41.4 and 38.1 per cent. A further note records that at six months pseudoprogression was 7.0 per cent, and after removing cases already counted only 3.8 per cent were new. The closing warning: these proportions could only be worked out by going back and re-reading the scans, and are not a probability that can be applied to your own scan on the day; among people whose scans looked worse the darker side is still the larger one, with two thirds being real progression; so not panicking yet and keeping to the follow-up and the treatment are the same sentence, not two different ones.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1274" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="4px">FOLLOW-UP MRI AND THE PSEUDOPROGRESSION WINDOW</text>
+<text x="84" y="148" font-size="42" fill="#123641" font-weight="800" class="r">Of the 166 whose scans looked worse, 53 were</text>
+<text x="84" y="200.08" font-size="42" fill="#123641" font-weight="800" class="r">pseudoprogression and 113 were real</text>
+<text x="84" y="258.16" font-size="20" fill="#527078">The upper half is the schedule of follow-up MRI, and the high-risk window for pseudoprogression after radiotherapy.</text>
+<text x="84" y="287.16" font-size="20" fill="#527078">The lower half is the denominator: the same people, asked a different question, give a different proportion.</text>
+<g filter="url(#sh)">
+<rect x="84" y="336.15999999999997" width="1272" height="368.0" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="106" y="368.16" font-size="18" fill="#123641" font-weight="800">The follow-up MRI schedule (the time axis is not to scale)</text>
+<rect x="962.4" y="406.16" width="315.12" height="44" rx="10" fill="#F6E2E0"/>
+<line x1="114" y1="428.16" x2="1326" y2="428.16" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="butt"/>
+<circle cx="114" cy="428.16" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="110" y="402.16" font-size="14.5" fill="#123641" font-weight="800" text-anchor="start">Surgery</text>
+<circle cx="356.4" cy="428.16" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="356.4" y="456.16" font-size="14.5" fill="#123641" font-weight="800" text-anchor="middle">Post-operative MRI</text>
+<text x="356.4" y="475.16" font-size="12" fill="#527078" text-anchor="middle">EANO: within 48 hours</text>
+<text x="356.4" y="492.16" font-size="12" fill="#527078" text-anchor="middle">NICE: within 72 hours</text>
+<circle cx="598.8" cy="428.16" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="598.8" y="385.16" font-size="14.5" fill="#123641" font-weight="800" text-anchor="middle">Six weeks of chemoradiotherapy</text>
+<text x="598.8" y="404.16" font-size="12" fill="#527078" text-anchor="middle">radiotherapy plus temozolomide</text>
+<circle cx="841.2" cy="428.16" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="841.2" y="456.16" font-size="14.5" fill="#123641" font-weight="800" text-anchor="middle">Post-radiotherapy MRI</text>
+<text x="841.2" y="475.16" font-size="12" fill="#527078" text-anchor="middle">since 2023 RANO 2.0 takes</text>
+<text x="841.2" y="492.16" font-size="12" fill="#527078" text-anchor="middle">this scan as the baseline</text>
+<circle cx="1083.6" cy="428.16" r="10" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="1083.6" y="385.16" font-size="14.5" fill="#123641" font-weight="800" text-anchor="middle">12 weeks after radiotherapy</text>
+<text x="1083.6" y="404.16" font-size="12" fill="#527078" text-anchor="middle">high-risk window for pseudoprogression</text>
+<circle cx="1326" cy="428.16" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="1318" y="456.16" font-size="14.5" fill="#123641" font-weight="800" text-anchor="end">Then every 2–6 months</text>
+<text x="1318" y="475.16" font-size="12" fill="#527078" text-anchor="end">the guideline calls this</text>
+<text x="1318" y="492.16" font-size="12" fill="#527078" text-anchor="end">&quot;common practice&quot;</text>
+<rect x="106" y="544.16" width="1228" height="150.0" rx="14" fill="none" stroke="#C9A83E" stroke-width="2"/>
+<text x="124" y="570.16" font-size="16" fill="#8F7418" font-weight="800">How the rule for that twelve-week window is actually written</text>
+<text x="124" y="594.16" font-size="14.5" fill="#345963">RANO 2.0: because the incidence of pseudoprogression is high in the 12 weeks after radiotherapy, defining progression during that period requires continuation of</text>
+<text x="124" y="615.16" font-size="14.5" fill="#345963">treatment together with a repeat MRI, or histopathological evidence. The EANO version: when progression is suspected, repeat the scan in 4 to 8 weeks.</text>
+<text x="124" y="646.16" font-size="14.5" fill="#B04A4A" font-weight="700">Both are rules for reading scans, not a waiting period you can take away and use on your own. They hold only while treatment continues, monitoring continues, and a</text>
+<text x="124" y="667.16" font-size="14.5" fill="#B04A4A" font-weight="700">doctor judges you clinically stable — they are not a licence to push the appointment back.</text>
+<g filter="url(#sh)">
+<rect x="84" y="730.16" width="1272" height="344.9999999999999" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="106" y="762.16" font-size="18" fill="#123641" font-weight="800">The same people, two denominators</text>
+<text x="106" y="806.16" font-size="14" fill="#527078" font-weight="600">How the three-month post-radiotherapy scan was classified (Blakstad 2024, glioblastoma cohort, n=284)</text>
+<rect x="106" y="832.16" width="239.05" height="46" rx="8" fill="#00806B"/>
+<text x="226.53" y="854.16" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Pseudoprogression, 53</text>
+<text x="226.53" y="871.16" font-size="11.5" fill="#FFFFFF" text-anchor="middle" opacity="0.9">reported as 19.4%</text>
+<rect x="347.05" y="832.16" width="511.94" height="46" rx="8" fill="#B04A4A"/>
+<text x="604.02" y="854.16" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">True progression, 113</text>
+<text x="604.02" y="871.16" font-size="11.5" fill="#FFFFFF" text-anchor="middle" opacity="0.9">reported as 41.4%</text>
+<rect x="860.99" y="832.16" width="473.01" height="46" rx="8" fill="#7A6E58"/>
+<text x="1097.5" y="854.16" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Stable, 104</text>
+<text x="1097.5" y="871.16" font-size="11.5" fill="#FFFFFF" text-anchor="middle" opacity="0.9">reported as 38.1%</text>
+<text x="106" y="924.16" font-size="14" fill="#527078" font-weight="600">Looking only at the 166 whose scans looked worse (53 + 113)</text>
+<rect x="106" y="950.16" width="390.07" height="46" rx="8" fill="#00806B"/>
+<text x="302.04" y="972.16" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Pseudoprogression, 53</text>
+<text x="302.04" y="989.16" font-size="11.5" fill="#FFFFFF" text-anchor="middle" opacity="0.9">about one third</text>
+<rect x="498.07" y="950.16" width="835.93" height="46" rx="8" fill="#B04A4A"/>
+<text x="916.04" y="972.16" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">True progression, 113</text>
+<text x="916.04" y="989.16" font-size="11.5" fill="#FFFFFF" text-anchor="middle" opacity="0.9">about two thirds</text>
+<text x="106" y="1022.16" font-size="13.5" fill="#527078">The one third and two thirds are converted from the counts in the paper; the paper itself reports 19.4%, 41.4% and 38.1%.</text>
+<text x="106" y="1047.66" font-size="13.5" fill="#527078">At six months, pseudoprogression was 7.0%; after removing cases already counted, only 3.8% were new.</text>
+<rect x="84" y="1097.1599999999999" width="1272" height="105.0" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="108" y="1127.16" font-size="18" fill="#B04A4A" font-weight="800">These proportions could only be worked out by going back and re-reading the scans</text>
+<text x="108" y="1156.16" font-size="15" fill="#345963" font-weight="600">They are not a probability you can apply to your own scan on the day. Among people whose scans looked worse, the darker side is still the larger one — two thirds were</text>
+<text x="108" y="1178.16" font-size="15" fill="#345963" font-weight="600">real progression. So &quot;do not panic yet&quot; and &quot;keep to the follow-up and keep to the treatment&quot; are the same sentence, not two different ones.</text>
+<text x="84" y="1224.16" font-size="16" fill="#527078">Schematic, redrawn from Blakstad 2024 (Norwegian cohort), RANO 2.0 (Wen 2023), the EANO 2021 guideline and INTERVAL-GB 2024; the cohorts, designs and</text>
+<text x="84" y="1248.16" font-size="16" fill="#527078">endpoints of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

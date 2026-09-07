@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1408" viewBox="0 0 1440 1408" role="img" aria-labelledby="t d">
+  <title id="t">存活曲線的正確讀法：中位數在哪裡、尾巴上那幾個數字各有各的分母</title>
+  <desc id="d">示意圖：怎麼讀膠質母細胞瘤的存活曲線。主圖是兩條存活曲線，時間軸從隨機分派起算 0 到 5 年，縱軸是還活著的比例。上面那條是放療加 temozolomide 組（n=287），標出的數點為：兩年 27.2%（95% 信賴區間 22.2 到 32.5）、三年 16.0%（12.0 到 20.6）、四年 12.1%（8.5 到 16.4）、五年 9.8%（6.4 到 14.0）。下面那條是只做放療組（n=286）：兩年 10.9%、三年 4.4%、四年 3.0%、五年 1.9%。中位存活 14.6 個月處畫一條垂直虛線，線的左邊寫「一半的人在這條線之前」、右邊寫「一半的人在這條線之後」。曲線到五年還沒有碰到底，圖上標註尾巴上的人是真的。曲線形狀為示意，只有標出的點是原文報告的數字。下方三張同樣大小的卡片，是尾巴上三個數字各自的分母：第一，試驗族群五年 9.8%（95% 信賴區間 6.4 到 14.0），來自 EORTC 26981-22981／NCIC CE.3 的放療加 temozolomide 組、n=287、2000 到 2002 年收案，是被隨機分派、體能狀態與年齡足以進試驗的那一群人；第二，真實世界五年 4%（95% 信賴區間 2 到 5），來自 Poon 2020 統合分析、1,291 除以 28,748 人、2005 年以後收案的族群，兩年與三年那一段真的有進步、五年這一段沒有；第三，十年約 0.71%，來自 Tykocki 2018 系統回顧、36 篇研究、162 例、1950 到 2014 年發表，大多沒有做 IDH 檢測，依 2021 年的分類有相當比例今天不會被叫做膠質母細胞瘤，所以正確的說法是「在舊分類下有人活了十年」。另有一格條件機率：再活兩年的機率，診斷當下是 19.8%，診斷後五年是 65.9%（Johnson 2012，SEER 1998 到 2008 年、接受含放療方案的病人，n=10,022），這是族群層次的條件機率，不是誰的個人預測。圖的最下方是一句警語：這條曲線不是任何一個人的預測，它是一群人的統計；中位數不是期限、尾巴不是承諾；年齡、體能狀態、切除程度與 MGMT 會把人往左或往右推，而分級工具只解釋了其中大約兩成的差異，剩下的八成我們不知道是什麼。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1408" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="4px">HOW TO READ A SURVIVAL CURVE</text>
+<text x="84" y="148" font-size="42" fill="#123641" font-weight="800" class="r">尾巴上那幾個數字，每一個有自己的分母</text>
+<text x="84" y="206.08" font-size="20" fill="#527078">這張圖要你看兩件事：中位數那條線的意思，以及尾巴是真的存在的。</text>
+<text x="84" y="235.08" font-size="20" fill="#527078">尾巴上的三個數字來自三個不同的族群，各帶各的分母——不可以挑最高的那一個當自己的預期。</text>
+<g filter="url(#sh)">
+<rect x="84" y="284.08" width="1272" height="519.0" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="106" y="314.08" font-size="15" fill="#123641" font-weight="800">EORTC 26981-22981／NCIC CE.3 的存活曲線（曲線形狀為示意，只有標出的點是原文報告的數字）</text>
+<line x1="106" y1="344.08" x2="136" y2="344.08" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<text x="144" y="349.08" font-size="14" fill="#345963" font-weight="600">放療＋temozolomide（n=287）</text>
+<line x1="376.54" y1="344.08" x2="406.54" y2="344.08" stroke="#96790F" stroke-width="5" stroke-linecap="round"/>
+<text x="414.54" y="349.08" font-size="14" fill="#345963" font-weight="600">只做放療（n=286）</text>
+<line x1="158" y1="729.08" x2="1150" y2="729.08" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="148" y="734.08" font-size="13" fill="#527078" text-anchor="end">0</text>
+<line x1="158" y1="639.08" x2="1150" y2="639.08" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="148" y="644.08" font-size="13" fill="#527078" text-anchor="end">25</text>
+<line x1="158" y1="549.08" x2="1150" y2="549.08" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="148" y="554.08" font-size="13" fill="#527078" text-anchor="end">50</text>
+<line x1="158" y1="459.08" x2="1150" y2="459.08" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="148" y="464.08" font-size="13" fill="#527078" text-anchor="end">75</text>
+<line x1="158" y1="369.08" x2="1150" y2="369.08" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="148" y="374.08" font-size="13" fill="#527078" text-anchor="end">100</text>
+<line x1="158" y1="363.08" x2="158" y2="729.08" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="158" y="751.08" font-size="13" fill="#527078" font-weight="600" text-anchor="middle">0</text>
+<line x1="356.4" y1="363.08" x2="356.4" y2="729.08" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="356.4" y="751.08" font-size="13" fill="#527078" font-weight="600" text-anchor="middle">1 年</text>
+<line x1="554.8" y1="363.08" x2="554.8" y2="729.08" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="554.8" y="751.08" font-size="13" fill="#527078" font-weight="600" text-anchor="middle">2 年</text>
+<line x1="753.2" y1="363.08" x2="753.2" y2="729.08" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="753.2" y="751.08" font-size="13" fill="#527078" font-weight="600" text-anchor="middle">3 年</text>
+<line x1="951.6" y1="363.08" x2="951.6" y2="729.08" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="951.6" y="751.08" font-size="13" fill="#527078" font-weight="600" text-anchor="middle">4 年</text>
+<line x1="1150" y1="363.08" x2="1150" y2="729.08" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="1150" y="751.08" font-size="13" fill="#527078" font-weight="600" text-anchor="middle">5 年</text>
+<text x="1334" y="355.08" font-size="12.5" fill="#527078" text-anchor="end">還活著的比例（%）</text>
+<text x="1334" y="781.08" font-size="12.5" fill="#527078" text-anchor="end">從隨機分派起算的時間</text>
+<line x1="399.39" y1="549.08" x2="399.39" y2="729.08" stroke="#123641" stroke-width="2" stroke-linecap="butt" stroke-dasharray="6 5"/>
+<line x1="158" y1="549.08" x2="399.39" y2="549.08" stroke="#123641" stroke-width="1.6" stroke-linecap="butt" stroke-dasharray="6 5"/>
+<path d="M 158 369.08 L 163.51 374.05 L 169.02 379.06 L 174.53 384.09 L 180.04 389.14 L 185.56 394.21 L 191.07 399.3 L 196.58 404.41 L 202.09 409.53 L 207.6 414.66 L 213.11 419.8 L 218.62 424.94 L 224.13 430.09 L 229.64 435.24 L 235.16 440.38 L 240.67 445.52 L 246.18 450.66 L 251.69 455.78 L 257.2 460.89 L 262.71 465.98 L 268.22 471.06 L 273.73 476.12 L 279.24 481.15 L 284.76 486.16 L 290.27 491.14 L 295.78 496.09 L 301.29 501 L 306.8 505.88 L 312.31 510.72 L 317.82 515.52 L 323.33 520.28 L 328.84 524.99 L 334.36 529.65 L 339.87 534.26 L 345.38 538.82 L 350.89 543.32 L 356.4 547.76 L 361.91 552.18 L 367.42 556.69 L 372.93 561.29 L 378.44 565.97 L 383.96 570.72 L 389.47 575.52 L 394.98 580.37 L 400.49 585.25 L 406 590.15 L 411.51 595.06 L 417.02 599.97 L 422.53 604.87 L 428.04 609.74 L 433.56 614.59 L 439.07 619.38 L 444.58 624.12 L 450.09 628.8 L 455.6 633.39 L 461.11 637.89 L 466.62 642.3 L 472.13 646.59 L 477.64 650.75 L 483.16 654.79 L 488.67 658.67 L 494.18 662.4 L 499.69 665.96 L 505.2 669.34 L 510.71 672.53 L 516.22 675.52 L 521.73 678.29 L 527.24 680.84 L 532.76 683.16 L 538.27 685.23 L 543.78 687.04 L 549.29 688.58 L 554.8 689.84 L 560.31 690.94 L 565.82 692.02 L 571.33 693.06 L 576.84 694.08 L 582.36 695.07 L 587.87 696.04 L 593.38 696.97 L 598.89 697.88 L 604.4 698.76 L 609.91 699.62 L 615.42 700.45 L 620.93 701.25 L 626.44 702.03 L 631.96 702.78 L 637.47 703.5 L 642.98 704.2 L 648.49 704.88 L 654 705.53 L 659.51 706.16 L 665.02 706.76 L 670.53 707.33 L 676.04 707.89 L 681.56 708.42 L 687.07 708.92 L 692.58 709.41 L 698.09 709.87 L 703.6 710.3 L 709.11 710.72 L 714.62 711.11 L 720.13 711.48 L 725.64 711.83 L 731.16 712.15 L 736.67 712.45 L 742.18 712.74 L 747.69 713 L 753.2 713.24 L 758.71 713.47 L 764.22 713.68 L 769.73 713.89 L 775.24 714.09 L 780.76 714.29 L 786.27 714.47 L 791.78 714.65 L 797.29 714.82 L 802.8 714.99 L 808.31 715.15 L 813.82 715.3 L 819.33 715.45 L 824.84 715.59 L 830.36 715.73 L 835.87 715.86 L 841.38 715.99 L 846.89 716.12 L 852.4 716.24 L 857.91 716.36 L 863.42 716.48 L 868.93 716.6 L 874.44 716.71 L 879.96 716.82 L 885.47 716.93 L 890.98 717.04 L 896.49 717.15 L 902 717.26 L 907.51 717.37 L 913.02 717.48 L 918.53 717.59 L 924.04 717.7 L 929.56 717.81 L 935.07 717.92 L 940.58 718.04 L 946.09 718.16 L 951.6 718.28 L 957.11 718.4 L 962.62 718.52 L 968.13 718.64 L 973.64 718.76 L 979.16 718.88 L 984.67 718.99 L 990.18 719.11 L 995.69 719.22 L 1001.2 719.34 L 1006.71 719.45 L 1012.22 719.56 L 1017.73 719.67 L 1023.24 719.78 L 1028.76 719.89 L 1034.27 720 L 1039.78 720.11 L 1045.29 720.21 L 1050.8 720.32 L 1056.31 720.43 L 1061.82 720.53 L 1067.33 720.64 L 1072.84 720.74 L 1078.36 720.85 L 1083.87 720.96 L 1089.38 721.06 L 1094.89 721.17 L 1100.4 721.27 L 1105.91 721.38 L 1111.42 721.48 L 1116.93 721.59 L 1122.44 721.7 L 1127.96 721.81 L 1133.47 721.91 L 1138.98 722.02 L 1144.49 722.13 L 1150 722.24" fill="none" stroke="#96790F" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 158 369.08 L 163.51 373.21 L 169.02 377.36 L 174.53 381.55 L 180.04 385.77 L 185.56 390 L 191.07 394.26 L 196.58 398.55 L 202.09 402.84 L 207.6 407.16 L 213.11 411.49 L 218.62 415.82 L 224.13 420.17 L 229.64 424.52 L 235.16 428.88 L 240.67 433.23 L 246.18 437.59 L 251.69 441.94 L 257.2 446.29 L 262.71 450.63 L 268.22 454.96 L 273.73 459.28 L 279.24 463.58 L 284.76 467.86 L 290.27 472.13 L 295.78 476.37 L 301.29 480.59 L 306.8 484.78 L 312.31 488.95 L 317.82 493.08 L 323.33 497.18 L 328.84 501.24 L 334.36 505.27 L 339.87 509.25 L 345.38 513.2 L 350.89 517.09 L 356.4 520.94 L 361.91 524.74 L 367.42 528.49 L 372.93 532.18 L 378.44 535.82 L 383.96 539.4 L 389.47 542.91 L 394.98 546.37 L 400.49 549.75 L 406 553.14 L 411.51 556.54 L 417.02 559.95 L 422.53 563.36 L 428.04 566.78 L 433.56 570.19 L 439.07 573.59 L 444.58 576.96 L 450.09 580.32 L 455.6 583.64 L 461.11 586.92 L 466.62 590.16 L 472.13 593.35 L 477.64 596.49 L 483.16 599.57 L 488.67 602.57 L 494.18 605.51 L 499.69 608.36 L 505.2 611.13 L 510.71 613.8 L 516.22 616.38 L 521.73 618.85 L 527.24 621.21 L 532.76 623.46 L 538.27 625.58 L 543.78 627.58 L 549.29 629.44 L 554.8 631.16 L 560.31 632.79 L 565.82 634.4 L 571.33 635.97 L 576.84 637.52 L 582.36 639.04 L 587.87 640.53 L 593.38 641.99 L 598.89 643.42 L 604.4 644.82 L 609.91 646.2 L 615.42 647.54 L 620.93 648.86 L 626.44 650.14 L 631.96 651.4 L 637.47 652.62 L 642.98 653.82 L 648.49 654.99 L 654 656.13 L 659.51 657.24 L 665.02 658.32 L 670.53 659.37 L 676.04 660.39 L 681.56 661.37 L 687.07 662.33 L 692.58 663.26 L 698.09 664.16 L 703.6 665.03 L 709.11 665.87 L 714.62 666.68 L 720.13 667.46 L 725.64 668.2 L 731.16 668.92 L 736.67 669.61 L 742.18 670.26 L 747.69 670.89 L 753.2 671.48 L 758.71 672.05 L 764.22 672.61 L 769.73 673.15 L 775.24 673.68 L 780.76 674.19 L 786.27 674.69 L 791.78 675.18 L 797.29 675.65 L 802.8 676.11 L 808.31 676.57 L 813.82 677.01 L 819.33 677.43 L 824.84 677.85 L 830.36 678.26 L 835.87 678.66 L 841.38 679.05 L 846.89 679.43 L 852.4 679.8 L 857.91 680.17 L 863.42 680.52 L 868.93 680.87 L 874.44 681.21 L 879.96 681.55 L 885.47 681.88 L 890.98 682.2 L 896.49 682.52 L 902 682.84 L 907.51 683.15 L 913.02 683.45 L 918.53 683.76 L 924.04 684.06 L 929.56 684.35 L 935.07 684.65 L 940.58 684.94 L 946.09 685.23 L 951.6 685.52 L 957.11 685.81 L 962.62 686.09 L 968.13 686.36 L 973.64 686.63 L 979.16 686.89 L 984.67 687.15 L 990.18 687.4 L 995.69 687.65 L 1001.2 687.89 L 1006.71 688.13 L 1012.22 688.36 L 1017.73 688.6 L 1023.24 688.82 L 1028.76 689.05 L 1034.27 689.27 L 1039.78 689.49 L 1045.29 689.71 L 1050.8 689.93 L 1056.31 690.14 L 1061.82 690.35 L 1067.33 690.57 L 1072.84 690.78 L 1078.36 690.99 L 1083.87 691.2 L 1089.38 691.41 L 1094.89 691.62 L 1100.4 691.83 L 1105.91 692.04 L 1111.42 692.26 L 1116.93 692.47 L 1122.44 692.69 L 1127.96 692.9 L 1133.47 693.12 L 1138.98 693.35 L 1144.49 693.57 L 1150 693.8" fill="none" stroke="#00806B" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="554.8" cy="631.16" r="7" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="556.8" y="617.16" font-size="14.5" fill="#00806B" font-weight="800" text-anchor="middle">27.2%</text>
+<circle cx="753.2" cy="671.48" r="7" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="755.2" y="657.48" font-size="14.5" fill="#00806B" font-weight="800" text-anchor="middle">16.0%</text>
+<circle cx="951.6" cy="685.52" r="7" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="953.6" y="671.52" font-size="14.5" fill="#00806B" font-weight="800" text-anchor="middle">12.1%</text>
+<circle cx="1150" cy="693.8" r="7" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="1142" y="679.8" font-size="14.5" fill="#00806B" font-weight="800" text-anchor="end">9.8%</text>
+<circle cx="554.8" cy="689.84" r="6" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="556.8" y="676.84" font-size="13.5" fill="#96790F" font-weight="800" text-anchor="middle">10.9%</text>
+<circle cx="753.2" cy="713.24" r="6" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="755.2" y="700.24" font-size="13.5" fill="#96790F" font-weight="800" text-anchor="middle">4.4%</text>
+<circle cx="951.6" cy="718.28" r="6" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="953.6" y="705.28" font-size="13.5" fill="#96790F" font-weight="800" text-anchor="middle">3.0%</text>
+<circle cx="1150" cy="722.24" r="6" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="1142" y="709.24" font-size="13.5" fill="#96790F" font-weight="800" text-anchor="end">1.9%</text>
+<circle cx="399.39" cy="549.08" r="7" fill="#123641" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="409.39" y="533.08" font-size="15" fill="#123641" font-weight="800">中位存活 14.6 個月</text>
+<line x1="399.39" y1="729.08" x2="399.39" y2="783.08" stroke="#123641" stroke-width="1.4" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<text x="387.39" y="781.08" font-size="13.5" fill="#527078" font-weight="600" text-anchor="end">一半的人在這條線之前 ←</text>
+<text x="411.39" y="781.08" font-size="13.5" fill="#527078" font-weight="600">→ 一半的人在這條線之後</text>
+<line x1="1170" y1="606.68" x2="1157.44" y2="677.65" stroke="#00806B" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="1156,685.8 1153.82,677.07 1161.05,678.35" fill="#00806B"/>
+<text x="1168" y="628.28" font-size="13.5" fill="#00806B" font-weight="700">五年的時候，曲線還沒有碰</text>
+<text x="1168" y="647.28" font-size="13.5" fill="#00806B" font-weight="700">到底——尾巴上的人是真的</text>
+<text x="84" y="825.08" font-size="18" fill="#8F7418" font-weight="800">尾巴上那三個數字，各是誰的分母</text>
+<g filter="url(#sh)"><rect x="84" y="847.08" width="410.67" height="183" rx="16" fill="#FFFFFF"/></g>
+<rect x="84" y="847.08" width="410.67" height="7" fill="#00806B"/>
+<text x="104" y="893.08" font-size="26" fill="#00806B" font-weight="800">五年 9.8%</text>
+<text x="104" y="921.08" font-size="13" fill="#527078">95% 信賴區間 6.4 到 14.0</text>
+<text x="104" y="954.08" font-size="14" fill="#345963">試驗族群｜EORTC 26981-22981／NCIC CE.3 的放療＋</text>
+<text x="104" y="974.58" font-size="14" fill="#345963">temozolomide 組，n=287，2000–2002 年收案。這是被隨</text>
+<text x="104" y="995.08" font-size="14" fill="#345963">機分派、體能狀態與年齡足以進試驗的那一群人。</text>
+<g filter="url(#sh)"><rect x="514.67" y="847.08" width="410.67" height="183" rx="16" fill="#FFFFFF"/></g>
+<rect x="514.67" y="847.08" width="410.67" height="7" fill="#96790F"/>
+<text x="534.67" y="893.08" font-size="26" fill="#96790F" font-weight="800">五年 4%</text>
+<text x="534.67" y="921.08" font-size="13" fill="#527078">95% 信賴區間 2 到 5</text>
+<text x="534.67" y="954.08" font-size="14" fill="#345963">真實世界｜Poon 2020 統合分析，1,291／28,748 人，</text>
+<text x="534.67" y="974.58" font-size="14" fill="#345963">2005 年以後收案的族群。兩年與三年那一段真的有進步；</text>
+<text x="534.67" y="995.08" font-size="14" fill="#345963">五年這一段沒有。</text>
+<g filter="url(#sh)"><rect x="945.33" y="847.08" width="410.67" height="183" rx="16" fill="#FFFFFF"/></g>
+<rect x="945.33" y="847.08" width="410.67" height="7" fill="#5C77C4"/>
+<text x="965.33" y="893.08" font-size="26" fill="#5C77C4" font-weight="800">十年 約 0.71%</text>
+<text x="965.33" y="921.08" font-size="13" fill="#527078">36 篇研究、162 例</text>
+<text x="965.33" y="954.08" font-size="14" fill="#345963">舊分類｜Tykocki 2018 系統回顧，1950–2014 年發表，大</text>
+<text x="965.33" y="974.58" font-size="14" fill="#345963">多沒有做 IDH 檢測。依 2021 年的分類，有相當比例今天不</text>
+<text x="965.33" y="995.08" font-size="14" fill="#345963">會被叫做膠質母細胞瘤——正確的說法是「在舊分類下有人活</text>
+<text x="965.33" y="1015.58" font-size="14" fill="#345963">了十年」。</text>
+<rect x="84" y="1056.08" width="1272" height="155.5" rx="16" fill="none" stroke="#B9AE94" stroke-width="2"/>
+<text x="106" y="1084.08" font-size="17" fill="#123641" font-weight="800">走過一段之後，前面的機率會變</text>
+<text x="106" y="1110.08" font-size="14" fill="#527078" font-weight="600">「再活兩年」的機率</text>
+<circle cx="146" cy="1146.08" r="9" fill="#5C77C4"/>
+<text x="164" y="1152.08" font-size="22" fill="#5C77C4" font-weight="800">19.8%</text>
+<text x="164" y="1172.08" font-size="13" fill="#527078">診斷當下</text>
+<circle cx="1134" cy="1146.08" r="9" fill="#00806B"/>
+<text x="1152" y="1152.08" font-size="22" fill="#00806B" font-weight="800">65.9%</text>
+<text x="1152" y="1172.08" font-size="13" fill="#527078">診斷後五年</text>
+<line x1="276" y1="1146.08" x2="1109.72" y2="1146.08" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="1118,1146.08 1109.78,1149.75 1109.78,1142.41" fill="#B9AE94"/>
+<text x="106" y="1190.08" font-size="13.5" fill="#527078">Johnson 2012，SEER 1998–2008 年、接受含放療方案的病人，n=10,022。這是族群層次的條件機率，不是誰的個人預測。</text>
+<rect x="84" y="1233.58" width="1272" height="102.0" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="108" y="1263.58" font-size="18" fill="#B04A4A" font-weight="800">這條曲線不是任何一個人的預測</text>
+<text x="108" y="1289.58" font-size="15" fill="#345963" font-weight="600">它是一群人的統計。中位數不是期限；尾巴不是承諾。同一個人身上，年齡、體能狀態、切除程度與 MGMT 會把他往左或往右推，而分級工具只解釋了其中大約兩成的差異——剩下的八</text>
+<text x="108" y="1311.58" font-size="15" fill="#345963" font-weight="600">成，我們不知道是什麼。</text>
+<text x="84" y="1357.58" font-size="16" fill="#527078">示意圖，依 Stupp 2009（EORTC 26981-22981／NCIC CE.3）、Poon 2020、Tykocki 2018 與 Johnson 2012 重繪；曲線形狀為示意，只有標出的數點是原文報告的數字；各研</text>
+<text x="84" y="1381.58" font-size="16" fill="#527078">究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

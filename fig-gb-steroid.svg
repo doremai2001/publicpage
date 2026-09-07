@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1459" viewBox="0 0 1440 1459" role="img" aria-labelledby="t d">
+  <title id="t">類固醇的減量形狀，與副作用出現的時間帶</title>
+  <desc id="d">示意圖：糖皮質素（類固醇）的減量形狀，與副作用出現的時間帶。上半是一段抽象的下降階梯，從「起始（症狀性水腫控制住之後）」一階一階降到「最低有效劑量，或停藥」；階數、每一階停多久、每次降多少，這張圖故意不標，並註明各家指引的起始劑量與減量速度彼此不一致、而且部分互相引用，其中一份的證據基礎裡沒有任何一位膠質瘤病人。下半是一條刻度不等距的時間軸，刻度依序為開始用藥、24 到 72 小時、第 7 天、第 28 天、8 週、1 年以上，上面排了五條時間帶：第一，症狀改善——起效在 24 到 72 小時內，擠出去的是水不是腫瘤；第二，庫欣臉與腳踝水腫——第 7 天已經測得到差異（P 等於 0.02）、第 28 天更明顯（P 等於 0.03），隨劑量與時間增加，是隨機試驗裡唯一一項跟劑量明確有關的副作用；第三，精神症狀——開始用藥後 8 週內是急性期，躁的症狀比鬱常見（勝算比 2.42，勝算比不是機率的幾倍），精神病症狀約 2.4%（0.76 到 7.26），GRADE 證據確定性低到極低；第四，骨質流失——骨密度年下降超過 5% 的風險在開始用藥的前兩年最高（丹麥 15,099 位成人的例行 DXA）；第五，腎上腺功能不全——用藥少於 28 天 1.4%、超過一年 27.4%，依劑量分則低劑量組 2.4%、高劑量組 21.5%（74 篇、3,753 位成人，全部以 ACTH 刺激試驗檢測，多為氣喘等非腦瘤族群）。圖上另有一格說明「這張圖上唯一的 mg 數，是研究裡的分組」：腦轉移病人的回溯世代（n=97，1982 年）裡，每天 12 mg 以上那一組肌病變 4.5%、消化性潰瘍 5.6%、高血糖 6.7%，每天 8 mg 以下那一組三項都是 0%——這是研究把病人分成兩組的方式，不是用法用量；潰瘍真正的放大器是類固醇加止痛消炎藥，類固醇單獨相對風險 1.1（0.5 到 2.1）、類固醇加 NSAID 相對風險 4.4（2.0 到 9.7），來自 1991 年非腦瘤族群的巢式病例對照。時間軸的尾端分出兩條路：腎上腺功能不全（沒力氣、頭暈、站起來眼前發黑、噁心）與症狀反彈（頭痛回來、原本好轉的神經症狀又出現），兩者長得一樣但處理方向相反，所以減量期間出現這些狀況要打電話回去，不是自己加量或自己停。圖的最下方是警語：減量表沒有一份是為你算的；這張圖上所有的 mg 數都是研究裡的分組，不是用法用量；不可自行加量、減量或停藥。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1459" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="86" font-size="18" fill="#A98722" font-weight="800" letter-spacing="4px">TAPERING, AND WHEN THINGS SHOW UP</text>
+<text x="84" y="148" font-size="42" fill="#123641" font-weight="800" class="r">減量表沒有一份是為你算的</text>
+<text x="84" y="206.08" font-size="20" fill="#527078">上半是減量的形狀：一階一階往下。這張圖故意不標階數、不標天數、不標 mg——那是你的團隊算的。</text>
+<text x="84" y="235.08" font-size="20" fill="#527078">下半是各種副作用出現的時間帶。時間軸的刻度不等距，只用來排先後，不用來量長短。</text>
+<g filter="url(#sh)">
+<rect x="84" y="284.08" width="1272" height="275.99999999999994" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="106" y="314.08" font-size="18" fill="#123641" font-weight="800">減量的形狀</text>
+<rect x="109" y="354.08" width="239.6" height="118" rx="7" fill="#96790F" opacity="0.92"/>
+<rect x="354.6" y="377.68" width="239.6" height="94.4" rx="7" fill="#96790F" opacity="0.8"/>
+<rect x="600.2" y="401.28" width="239.6" height="70.8" rx="7" fill="#96790F" opacity="0.68"/>
+<rect x="845.8" y="424.88" width="239.6" height="47.2" rx="7" fill="#96790F" opacity="0.56"/>
+<rect x="1091.4" y="448.48" width="239.6" height="23.6" rx="7" fill="#96790F" opacity="0.44000000000000006"/>
+<line x1="106" y1="474.08" x2="1334" y2="474.08" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt"/>
+<text x="110" y="346.08" font-size="13.5" fill="#527078" font-weight="700">起始（症狀性水腫控制住之後）</text>
+<text x="1330" y="496.08" font-size="13.5" fill="#527078" font-weight="700" text-anchor="end">最低有效劑量，或停藥</text>
+<line x1="228.8" y1="506.08" x2="1202.92" y2="506.08" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="1211.2,506.08 1202.98,509.75 1202.98,502.41" fill="#B9AE94"/>
+<text x="106" y="532.08" font-size="14" fill="#527078">階數、每一階停多久、每次降多少，這張圖不畫。各家指引的起始劑量與減量速度彼此不一致，而且部分互相引用；其中一份的證據基礎裡，沒有任何一位膠質瘤病人。</text>
+<text x="84" y="582.08" font-size="18" fill="#8F7418" font-weight="800">副作用出現的時間帶</text>
+<text x="289" y="618.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="start">開始用藥</text>
+<text x="502.4" y="618.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="middle">24–72 小時</text>
+<text x="715.8" y="618.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="middle">第 7 天</text>
+<text x="929.2" y="618.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="middle">第 28 天</text>
+<text x="1142.6" y="618.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="middle">8 週</text>
+<text x="1356" y="618.08" font-size="11.5" fill="#527078" font-weight="700" text-anchor="end">1 年以上</text>
+<line x1="289" y1="626.08" x2="289" y2="632.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="502.4" y1="626.08" x2="502.4" y2="632.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="715.8" y1="626.08" x2="715.8" y2="632.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="929.2" y1="626.08" x2="929.2" y2="632.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="1142.6" y1="626.08" x2="1142.6" y2="632.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="1356" y1="626.08" x2="1356" y2="632.08" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="289" y1="632.08" x2="1356" y2="632.08" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="289" y1="640.08" x2="289" y2="666.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="502.4" y1="640.08" x2="502.4" y2="666.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="715.8" y1="640.08" x2="715.8" y2="666.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="929.2" y1="640.08" x2="929.2" y2="666.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1142.6" y1="640.08" x2="1142.6" y2="666.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1356" y1="640.08" x2="1356" y2="666.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<rect x="289" y="642.08" width="213.4" height="22" rx="11" fill="#00806B"/>
+<text x="84" y="658.08" font-size="14.5" fill="#123641" font-weight="800">症狀改善</text>
+<text x="88" y="680.08" font-size="13.5" fill="#345963">起效 24–72 小時內。擠出去的是水，不是腫瘤。</text>
+<line x1="289" y1="707.58" x2="289" y2="733.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="502.4" y1="707.58" x2="502.4" y2="733.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="715.8" y1="707.58" x2="715.8" y2="733.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="929.2" y1="707.58" x2="929.2" y2="733.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1142.6" y1="707.58" x2="1142.6" y2="733.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1356" y1="707.58" x2="1356" y2="733.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<rect x="715.8" y="709.58" width="640.2" height="22" rx="11" fill="#96790F"/>
+<text x="84" y="725.58" font-size="14.5" fill="#123641" font-weight="800">庫欣臉、腳踝水腫</text>
+<text x="88" y="747.58" font-size="13.5" fill="#345963">第 7 天已經測得到差異（P＝0.02），第 28 天更明顯（P＝0.03）；隨劑量與時間增加。這是隨機試驗裡唯一一項跟劑量明確有關的副作用。</text>
+<line x1="289" y1="775.08" x2="289" y2="801.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="502.4" y1="775.08" x2="502.4" y2="801.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="715.8" y1="775.08" x2="715.8" y2="801.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="929.2" y1="775.08" x2="929.2" y2="801.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1142.6" y1="775.08" x2="1142.6" y2="801.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1356" y1="775.08" x2="1356" y2="801.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<rect x="289" y="777.08" width="853.6" height="22" rx="11" fill="#5C77C4"/>
+<text x="84" y="793.08" font-size="14.5" fill="#123641" font-weight="800">精神症狀</text>
+<text x="88" y="815.08" font-size="13.5" fill="#345963">開始用藥後 8 週內是「急性期」，躁的症狀比鬱常見（勝算比 2.42；勝算比不是機率的幾倍）；精神病症狀約 2.4%（0.76 到 7.26）。GRADE 證據確定性低到極低。</text>
+<line x1="289" y1="842.58" x2="289" y2="868.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="502.4" y1="842.58" x2="502.4" y2="868.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="715.8" y1="842.58" x2="715.8" y2="868.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="929.2" y1="842.58" x2="929.2" y2="868.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1142.6" y1="842.58" x2="1142.6" y2="868.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1356" y1="842.58" x2="1356" y2="868.58" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<rect x="289" y="844.58" width="1067" height="22" rx="11" fill="#7A6E58"/>
+<text x="84" y="860.58" font-size="14.5" fill="#123641" font-weight="800">骨質流失</text>
+<text x="88" y="882.58" font-size="13.5" fill="#345963">骨密度年下降超過 5% 的風險，在開始用藥的前兩年最高（丹麥 15,099 位成人的例行 DXA）。</text>
+<line x1="289" y1="910.08" x2="289" y2="936.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="502.4" y1="910.08" x2="502.4" y2="936.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="715.8" y1="910.08" x2="715.8" y2="936.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="929.2" y1="910.08" x2="929.2" y2="936.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1142.6" y1="910.08" x2="1142.6" y2="936.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<line x1="1356" y1="910.08" x2="1356" y2="936.08" stroke="#DBD3BF" stroke-width="1" stroke-linecap="butt" stroke-dasharray="3 5"/>
+<rect x="289" y="912.08" width="1067" height="22" rx="11" fill="#B04A4A"/>
+<text x="84" y="928.08" font-size="14.5" fill="#123641" font-weight="800">腎上腺功能不全</text>
+<text x="88" y="950.08" font-size="13.5" fill="#345963">用藥少於 28 天 1.4%；超過一年 27.4%。依劑量分，低劑量組 2.4%、高劑量組 21.5%。（74 篇、3,753 位成人，全部以 ACTH 刺激試驗檢測；多為氣喘等非腦瘤族群。）</text>
+<text x="1356" y="983.58" font-size="12" fill="#527078" text-anchor="end">時間（刻度不等距，只表示先後）</text>
+<rect x="84" y="1003.5799999999999" width="1272" height="119.0" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="108" y="1033.58" font-size="17" fill="#8F7418" font-weight="800">這張圖上唯一的 mg 數，是研究裡的分組</text>
+<text x="108" y="1057.58" font-size="14.5" fill="#345963">腦轉移病人的回溯世代（n=97，1982 年）：每天 ≥12 mg 那一組，肌病變 4.5%、消化性潰瘍 5.6%、高血糖 6.7%；每天 ≤8 mg 那一組，三項都是 0%。</text>
+<text x="108" y="1078.58" font-size="14.5" fill="#345963" font-weight="800">這是研究把病人分成兩組的方式，不是用法用量。</text>
+<text x="108" y="1099.58" font-size="14.5" fill="#345963">潰瘍那一項真正的放大器是類固醇加止痛消炎藥：類固醇單獨相對風險 1.1（0.5 到 2.1），類固醇加 NSAID 相對風險 4.4（2.0 到 9.7）（1991 年、非腦瘤族群的巢式病例對照）。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1146.58" width="1272" height="161.0" rx="16" fill="#FFFFFF"/>
+</g>
+<text x="108" y="1176.58" font-size="17" fill="#123641" font-weight="800">減到後面，會分出兩條路——而它們都很像腫瘤變壞</text>
+<rect x="108" y="1203.58" width="600" height="64" rx="12" fill="#F6E2E0"/>
+<text x="126" y="1231.58" font-size="16" fill="#B04A4A" font-weight="800">腎上腺功能不全</text>
+<text x="126" y="1253.58" font-size="13" fill="#345963">沒力氣、頭暈、站起來眼前發黑、噁心</text>
+<rect x="732" y="1203.58" width="600" height="64" rx="12" fill="#F6E2E0"/>
+<text x="750" y="1231.58" font-size="16" fill="#B04A4A" font-weight="800">症狀反彈</text>
+<text x="750" y="1253.58" font-size="13" fill="#345963">頭痛回來、原本好轉的神經症狀又出現</text>
+<text x="108" y="1281.58" font-size="14" fill="#345963" font-weight="600">長得一樣，處理方向相反。所以減量期間出現這些狀況，是打電話回去、不是自己加量或自己停。</text>
+<rect x="84" y="1327.58" width="1272" height="83.0" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="108" y="1357.58" font-size="18" fill="#B04A4A" font-weight="800">減量表沒有一份是為你算的</text>
+<text x="108" y="1386.58" font-size="15" fill="#345963" font-weight="600">這張圖上所有的 mg 數都是研究裡的分組，不是用法用量。不可自行加量、不可自行減量、不可自行停藥；什麼時候減、減多少，由你的團隊依你的症狀與影像決定。</text>
+<text x="84" y="1432.58" font-size="16" fill="#527078">示意圖，依 Jessurun 2019、Piper 1991、Kusudo 2026、Hansen 2025、Broersen 2015 與 EANO 2021 重繪；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

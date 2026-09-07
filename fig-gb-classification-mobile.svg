@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1728" viewBox="0 0 620 1728" role="img" aria-labelledby="t d">
+  <title id="t">2021 WHO CNS5 分子分類決策樹：先過三道門，才輪到那五個選項</title>
+  <desc id="d">示意圖：2021 年 WHO CNS5 決定膠質母細胞瘤這個名字的決策樹。第一步是三道入口門，缺一不可：成人型（不是小兒型瀰漫性膠質瘤）、瀰漫性（不是局限型的那一群）、星細胞性膠質瘤。三道門都過了，才問第二步：IDH（異檸檬酸脫氫酶）有沒有突變。IDH 有突變的那一側再問 1p/19q 共缺失：有共缺失是寡樹突膠質瘤，IDH-mutant 且 1p/19q-codeleted；沒有共缺失是星細胞瘤，IDH-mutant，grade 2、3 或 4，其中 CDKN2A/B 同型合子缺失就直接算 grade 4，不必等組織學。IDH 沒有突變的那一側進入第三步：五個條件裡任何一個成立就夠——微血管增生、壞死、TERT 啟動子突變、EGFR 擴增、第 7 號染色體整條增加加上第 10 號整條減少；成立即為膠質母細胞瘤，IDH-wildtype，CNS WHO grade 4。兩個旁註不在主流程上：第一，光是 IDH 沒有突變不足以定 grade 4，很多良性一點的腫瘤也是 IDH-wildtype，所以還要看那五個條件；第二，EGFR 要看到局部的高倍數擴增才算，trisomy 7 不算，免疫染色也不能用來判定擴增；第三，年輕病人先想小兒型瀰漫性膠質瘤，CNS5 已經不把 glioblastoma 這個詞用在小兒型腫瘤上。圖的最下方是兩條佔比條，來自美國登記資料 CBTRUS 2018 到 2022：在全部腦瘤與中樞神經系統腫瘤裡，膠質母細胞瘤佔 13.7%、腦膜瘤佔 42.6%、其他佔 43.7%；在惡性的那一群裡，膠質母細胞瘤佔 52.2%、其他惡性腦瘤佔 47.8%。台灣的部分只寫 2023 年腦癌新發 742 人，膠質母細胞瘤佔多少查不到官方拆分。本圖不含任何存活數字。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="1728" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="62" font-size="13" fill="#A98722" font-weight="800" letter-spacing="2.5px">2021 WHO CNS5 — HOW THE NAME IS DECIDED</text>
+<text x="40" y="108" font-size="27" fill="#123641" font-weight="800" class="r">先過三道門，才輪到那五個選項</text>
+<text x="40" y="147.48" font-size="15.5" fill="#527078">2021 年的 WHO CNS5 先問三個入口條件，三道門都過了，分子條件才開始算</text>
+<text x="40" y="169.95" font-size="15.5" fill="#527078">數。</text>
+<text x="40" y="192.43" font-size="15.5" fill="#527078">這張圖畫的是「名字怎麼決定的」。本圖不含任何存活數字——那些在〈那個數</text>
+<text x="40" y="214.9" font-size="15.5" fill="#527078">字，我要怎麼跟你講〉。</text>
+<text x="40" y="273.38" font-size="16.34" fill="#8F7418" font-weight="800">第一步｜三道門（入口條件，缺一不可）</text>
+<rect x="40" y="295.78" width="540" height="49" rx="14" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="58" y="319.78" font-size="17" fill="#123641" font-weight="800">成人型</text>
+<text x="58" y="339.78" font-size="13.5" fill="#527078">不是小兒型瀰漫性膠質瘤</text>
+<line x1="310" y1="346.78" x2="310" y2="353.42" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="310,360.78 306.74,353.48 313.26,353.48" fill="#B9AE94"/>
+<rect x="40" y="366.78" width="540" height="49" rx="14" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="58" y="390.78" font-size="17" fill="#123641" font-weight="800">瀰漫性</text>
+<text x="58" y="410.78" font-size="13.5" fill="#527078">不是局限型（circumscribed）的那一群</text>
+<line x1="310" y1="417.78" x2="310" y2="424.42" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="310,431.78 306.74,424.48 313.26,424.48" fill="#B9AE94"/>
+<rect x="40" y="437.78" width="540" height="49" rx="14" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="58" y="461.78" font-size="17" fill="#123641" font-weight="800">星細胞性膠質瘤</text>
+<text x="58" y="481.78" font-size="13.5" fill="#527078">星細胞來源的瀰漫性膠質瘤</text>
+<text x="40" y="514.78" font-size="12.9" fill="#527078">三道門都過了，才輪到下面的分子條件。</text>
+<rect x="40" y="524.02" width="540" height="46" rx="14" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="60" y="547.24" font-size="16.34" fill="#8F7418" font-weight="800">第二步｜IDH（異檸檬酸脫氫酶）有沒有突變？</text>
+<line x1="310" y1="574.02" x2="310" y2="584.66" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="310,592.02 306.74,584.72 313.26,584.72" fill="#B9AE94"/>
+<rect x="40" y="596.02" width="540" height="34" rx="17" fill="#00806B"/>
+<text x="310" y="619.02" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">IDH 有突變</text>
+<text x="44" y="660.02" font-size="14.62" fill="#123641" font-weight="800">再問一次：1p/19q 共缺失？</text>
+<rect x="40" y="667.82" width="540" height="44.06" rx="12" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+<line x1="40" y1="671.82" x2="40" y2="707.88" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<text x="56" y="687.82" font-size="13.5" fill="#00806B" font-weight="800">有共缺失</text>
+<text x="56" y="702.22" font-size="12.9" fill="#345963" font-weight="600">寡樹突膠質瘤，IDH-mutant 且 1p/19q-codeleted</text>
+<rect x="40" y="721.88" width="540" height="44.06" rx="12" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+<line x1="40" y1="725.88" x2="40" y2="761.94" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<text x="56" y="741.88" font-size="13.5" fill="#00806B" font-weight="800">沒有共缺失</text>
+<text x="56" y="756.28" font-size="12.9" fill="#345963" font-weight="600">星細胞瘤，IDH-mutant（grade 2／3／4）</text>
+<rect x="40" y="775.94" width="540" height="35" rx="10" fill="none" stroke="#B9AE94" stroke-width="1.6" stroke-dasharray="5 5"/>
+<text x="54" y="796.94" font-size="13.5" fill="#527078">星細胞瘤這一支：CDKN2A/B 同型合子缺失 → 直接算 grade 4，不必等組織學。</text>
+<line x1="310" y1="814.94" x2="310" y2="819.58" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="310,826.94 306.74,819.64 313.26,819.64" fill="#B9AE94"/>
+<rect x="40" y="832.94" width="540" height="34" rx="17" fill="#96790F"/>
+<text x="310" y="855.94" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">IDH 沒有突變（IDH-wildtype）</text>
+<text x="44" y="896.94" font-size="14.62" fill="#123641" font-weight="800">第三步｜五個條件，任何一個成立就夠</text>
+<rect x="40" y="903.02" width="540" height="29.2" rx="10" fill="#F3E8CD"/>
+<circle cx="60" cy="917.62" r="9" fill="#96790F"/>
+<text x="60" y="922.12" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="78" y="921.06" font-size="12.47" fill="#345963" font-weight="600">微血管增生</text>
+<rect x="40" y="938.22" width="540" height="29.2" rx="10" fill="#F3E8CD"/>
+<circle cx="60" cy="952.82" r="9" fill="#96790F"/>
+<text x="60" y="957.32" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="78" y="956.26" font-size="12.47" fill="#345963" font-weight="600">壞死</text>
+<rect x="40" y="973.42" width="540" height="29.2" rx="10" fill="#F3E8CD"/>
+<circle cx="60" cy="988.02" r="9" fill="#96790F"/>
+<text x="60" y="992.52" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">3</text>
+<text x="78" y="991.46" font-size="12.47" fill="#345963" font-weight="600">TERT 啟動子突變</text>
+<rect x="40" y="1008.62" width="540" height="29.2" rx="10" fill="#F3E8CD"/>
+<circle cx="60" cy="1023.22" r="9" fill="#96790F"/>
+<text x="60" y="1027.72" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">4</text>
+<text x="78" y="1026.66" font-size="12.47" fill="#345963" font-weight="600">EGFR 擴增</text>
+<rect x="40" y="1043.82" width="540" height="29.2" rx="10" fill="#F3E8CD"/>
+<circle cx="60" cy="1058.42" r="9" fill="#96790F"/>
+<text x="60" y="1062.92" font-size="12" fill="#FFFFFF" font-weight="800" text-anchor="middle">5</text>
+<text x="78" y="1061.86" font-size="12.47" fill="#345963" font-weight="600">第 7 號染色體整條增加＋第 10 號整條減少（+7／−10）</text>
+<line x1="310" y1="1085.02" x2="310" y2="1095.82" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<polygon points="310,1105.02 305.92,1095.89 314.08,1095.89" fill="#96790F"/>
+<g filter="url(#sh)"><rect x="40" y="1113.02" width="540" height="36.64" rx="12" fill="#96790F"/></g>
+<text x="56" y="1135.38" font-size="14.62" fill="#FFFFFF" font-weight="800">膠質母細胞瘤，IDH-wildtype，CNS WHO grade 4</text>
+<rect x="40" y="1175.66" width="540" height="200.71999999999957" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="64" y="1205.66" font-size="14.62" fill="#8F7418" font-weight="800">旁註（這兩件事不在主流程上，但常被弄錯）</text>
+<circle cx="70" cy="1229.02" r="4.5" fill="#C9A83E"/>
+<text x="84" y="1234.02" font-size="12.47" fill="#345963">光是「IDH 沒有突變」不足以定 grade 4——很多良性一點的腫瘤也是 IDH-wildtype，</text>
+<text x="84" y="1252.08" font-size="12.47" fill="#345963">所以還要看上面那五個條件（cIMPACT-NOW update 3）。</text>
+<circle cx="70" cy="1277.14" r="4.5" fill="#C9A83E"/>
+<text x="84" y="1282.14" font-size="12.47" fill="#345963">EGFR 要看到局部的高倍數擴增才算；trisomy 7（第 7 號染色體三體）不算，免疫</text>
+<text x="84" y="1300.2" font-size="12.47" fill="#345963">染色也不能用來判定擴增（cIMPACT-NOW update 3）。</text>
+<circle cx="70" cy="1325.26" r="4.5" fill="#C9A83E"/>
+<text x="84" y="1330.26" font-size="12.47" fill="#345963">年輕的病人先想小兒型瀰漫性膠質瘤；CNS5 已經不把「glioblastoma」這個詞用在</text>
+<text x="84" y="1348.32" font-size="12.47" fill="#345963">小兒型腫瘤上。</text>
+<text x="40" y="1410.38" font-size="15.48" fill="#123641" font-weight="800">它在腦瘤裡佔多少（美國登記資料，CBTRUS 2018–2022）</text>
+<text x="40" y="1448.38" font-size="12.47" fill="#527078" font-weight="600">全部腦瘤與中樞神經系統腫瘤</text>
+<rect x="40" y="1458.38" width="71.98" height="30" rx="6" fill="#96790F"/>
+<rect x="113.98" y="1458.38" width="228.04" height="30" rx="6" fill="#5C77C4"/>
+<text x="228" y="1477.88" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">腦膜瘤 42.6%</text>
+<rect x="344.02" y="1458.38" width="235.98" height="30" rx="6" fill="#ECE8DE"/>
+<text x="462.01" y="1477.88" font-size="12.5" fill="#345963" font-weight="700" text-anchor="middle">其他 43.7%</text>
+<text x="40" y="1504.38" font-size="12" fill="#527078">膠質母細胞瘤 13.7%｜腦膜瘤 42.6%｜其他 43.7%</text>
+<text x="40" y="1536.38" font-size="12.47" fill="#527078" font-weight="600">其中屬於惡性的那一群</text>
+<rect x="40" y="1546.38" width="279.88" height="30" rx="6" fill="#96790F"/>
+<text x="179.94" y="1565.88" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">膠質母細胞瘤 52.2%</text>
+<rect x="321.88" y="1546.38" width="258.12" height="30" rx="6" fill="#ECE8DE"/>
+<text x="450.94" y="1565.88" font-size="12.5" fill="#345963" font-weight="700" text-anchor="middle">其他惡性腦瘤 47.8%</text>
+<text x="40" y="1606.38" font-size="12.04" fill="#527078">這兩條是美國的登記資料。台灣的部分：2023 年腦癌新發 742 人；膠質母細胞瘤佔多少，我查不到</text>
+<text x="40" y="1626.38" font-size="12.04" fill="#527078">官方拆分。</text>
+<text x="40" y="1664.38" font-size="14" fill="#527078">示意圖，依 2021 WHO CNS5（Louis 2021）、cIMPACT-NOW update 3（Brat</text>
+<text x="40" y="1685.38" font-size="14" fill="#527078">2018）與 CBTRUS 2018–2022 重繪；各研究族群、設計與終點不同，數點不可直接互</text>
+<text x="40" y="1706.38" font-size="14" fill="#527078">比。</text>
+  </g>
+</svg>
