@@ -1,0 +1,74 @@
+[
+ {
+  "id": "fig-ht-spectrum",
+  "w": 1440,
+  "h": 1000,
+  "used_by": "nt-ht-what",
+  "anchor_zh": "<h4>四十度左右，身體裡到底發生什麼事</h4>",
+  "anchor_en": "<h4>What actually happens at around forty degrees</h4>",
+  "zh_alt": "示意圖：一根垂直的溫度柱，標出攝氏 39 到 45 度是臨床熱治療使用的區間；柱子上半段（較高溫）對應「細胞修復 DNA 的能力被干擾、缺氧與偏酸區域直接受損」，下半段（較低溫）對應「血流增加、含氧量上升、組織間液壓下降」。柱子之外另有一張灰色卡片標示更高溫的燒灼是不同的治療。",
+  "en_alt": "Schematic: a vertical temperature column marks 39-45 degrees Celsius as the clinical hyperthermia band. The upper part corresponds to impaired DNA repair and direct damage to hypoxic acidic regions; the lower part to increased perfusion and oxygenation and lower interstitial fluid pressure. A separate grey card marks ablation at higher temperatures as a different treatment.",
+  "zh_caption": "示意圖，臨床區間依 Datta 等 2015 綜述所載範圍重繪：本專題談的是 39 到 45 度那一段，燒灼是另一種治療。",
+  "en_caption": "Schematic; the clinical band follows the range reported in Datta et al. 2015. This topic is about 39-45 °C; ablation is a different treatment."
+ },
+ {
+  "id": "fig-ht-depth",
+  "w": 1440,
+  "h": 860,
+  "used_by": "nt-ht-machines",
+  "anchor_zh": "<h4>第二個問題：打得到多深</h4>",
+  "anchor_en": "<h4>Second question: how deep does it reach</h4>",
+  "zh_alt": "示意圖：橫軸由左至右為皮膚、皮下脂肪、肌肉、深部器官。紅外線與體表加熱只到最淺層，微波淺部裝置到皮下，射頻電容式與相位陣列可到深部，聚焦超音波介於中間；另有一列標示體內置入式（探針或磁性奈米粒子）直接送到腫瘤。圖中不標公分數。",
+  "en_alt": "Schematic: depth runs left to right through skin, subcutaneous fat, muscle and deep organs. Infrared and surface heating reach only the shallowest layer, superficial microwave applicators reach subcutaneous tissue, RF capacitive and phased-array systems reach deep sites, focused ultrasound sits in between, and a separate row marks devices placed inside the tumour. No centimetre figures are shown.",
+  "zh_caption": "示意圖，依 Kok 等 2020 綜述的技術分類重繪；圖中不標公分數，實際深度要向治療團隊確認。",
+  "en_caption": "Schematic, redrawn from the technique classification in Kok et al. 2020; no centimetre figures are given — ask your team for the number."
+ },
+ {
+  "id": "fig-ht-cem43",
+  "w": 1440,
+  "h": 1000,
+  "used_by": "nt-ht-dose",
+  "anchor_zh": "<h4>T90：為什麼看的是第九十百分位，不是平均值</h4>",
+  "anchor_en": "<h4>T90: why it is the ninetieth percentile, not the average</h4>",
+  "zh_alt": "示意圖：兩個並排的面板，各是一次六十分鐘的加熱。左邊達到目標溫度（15 分 41.0 度、30 分 42.0 度、15 分 41.5 度），三段換算後的熱劑量分別是 0.94、7.5、1.9，合計 10.3 CEM43 分鐘。右邊沒有熱到（15 分 40.5 度、30 分 40.5 度、15 分 40.0 度），三段分別是 0.47、0.94、0.23，合計 1.6 CEM43 分鐘。兩者時間相同。",
+  "en_alt": "Schematic: two panels, each a 60-minute session. On the left the target temperature is reached (15 min at 41.0 °C, 30 min at 42.0 °C, 15 min at 41.5 °C), converting to 0.94, 7.5 and 1.9, totalling 10.3 CEM43 minutes. On the right it is not (15 min at 40.5 °C, 30 min at 40.5 °C, 15 min at 40.0 °C), converting to 0.47, 0.94 and 0.23, totalling 1.6 CEM43 minutes. The elapsed time is identical.",
+  "zh_caption": "示意圖，兩條溫度曲線為假想療程，熱劑量依 Sapareto 與 Dewey 1984 的換算式計算：同樣六十分鐘，累積到的熱劑量可以差六倍。",
+  "en_caption": "Schematic; both temperature profiles are hypothetical and the dose is computed with the Sapareto & Dewey 1984 conversion. The same 60 minutes can differ six-fold in delivered dose."
+ },
+ {
+  "id": "fig-ht-ladder",
+  "w": 1440,
+  "h": 1090,
+  "used_by": "nt-ht-how-to-read",
+  "anchor_zh": "<h4>三個試驗，同一個方向</h4>",
+  "anchor_en": "<h4>Three trials, one direction</h4>",
+  "zh_alt": "示意圖：五階的證據階梯。第五階（大型隨機第三期陽性）是軟組織肉瘤；第四階（多個隨機試驗或統合分析）是乳癌胸壁復發、頭頸癌再照射、淺表黑色素瘤；第三階（隨機但結果不一致或提前結束）是子宮頸癌與膀胱癌腔內灌注，後者以斜線標示其最大的隨機試驗為陰性；第二階（前瞻單臂或世代）是膀胱癌保膀胱、肛門癌、直腸癌、攝護腺癌；第一階（回溯、個案與前臨床）是食道肺卵巢腦、免疫治療組合，以及以灰色標示的細胞治療組合與質子加熱治療。",
+  "en_alt": "Schematic: a five-rung evidence ladder. Rung 5 (large positive randomised phase 3) holds soft tissue sarcoma; rung 4 (several randomised trials or their meta-analysis) holds chest-wall recurrent breast cancer, head and neck reirradiation and superficial melanoma; rung 3 (randomised but inconsistent or stopped early) holds cervix and intravesical bladder therapy, the latter hatched because its largest randomised trial was negative; rung 2 (prospective single-arm or cohort) holds bladder preservation, anus, rectum and prostate; rung 1 (retrospective, case reports, preclinical) holds oesophagus, lung, ovary and brain, combinations with immunotherapy, and — in grey — combinations with cell therapy and proton plus hyperthermia.",
+  "zh_caption": "示意圖，依本專題查證過的來源整理。位置是已完成的最高證據層級，不是療效排名；斜線那一格代表該階最大的隨機試驗結果為陰性。",
+  "en_caption": "Schematic built from the sources verified for this topic. Position is the highest completed level of evidence, not a ranking of benefit; the hatched chip marks a rung whose largest randomised trial was negative."
+ },
+ {
+  "id": "fig-ht-workflow",
+  "w": 1440,
+  "h": 900,
+  "used_by": "nt-ht-safety",
+  "anchor_zh": "<h4>一次治療長什麼樣</h4>",
+  "anchor_en": "<h4>What one session actually looks like</h4>",
+  "zh_alt": "示意圖：治療流程主軸是診斷與分期、標準治療（手術／放療／化療）、追蹤三格，熱治療畫在標準治療那一格的上方，以虛線箭頭往下連接，代表加在上面而不取代。旁邊四張卡片列出排程（每週一到兩次）、時間窗（試驗多要求在放射治療後兩小時內）、每次時間（加熱四十到六十分鐘、連同準備約一個半小時）與查核（有沒有測溫、熱劑量多少）。",
+  "en_alt": "Schematic: the treatment pathway runs diagnosis and staging, standard treatment (surgery / radiotherapy / chemotherapy), follow-up. Hyperthermia is drawn above the standard-treatment box with a dashed arrow pointing down, showing that it is added rather than substituted. Four cards list the schedule (one to two times a week), the timing window (trials generally require it within two hours of radiotherapy), the session length (40-60 minutes of heating, about 90 minutes door to door) and verification (whether temperature was measured and what dose was reached).",
+  "zh_caption": "示意圖，排程與時間窗依本專題引用的臨床試驗所載做法：它加在標準治療上面，不取代任何一格。",
+  "en_caption": "Schematic; scheduling and timing follow the protocols of the trials cited in this topic. It is added on top of standard treatment and replaces none of it."
+ },
+ {
+  "id": "fig-ht-ter-let",
+  "w": 1440,
+  "h": 930,
+  "used_by": "nt-ht-proton",
+  "anchor_zh": "<h4>誠實的反面：熱增強不一定在所有放射品質下都成立</h4>",
+  "anchor_en": "<h4>The honest counterweight: thermal enhancement may not hold at every radiation quality</h4>",
+  "zh_alt": "示意圖：橫軸為放射線的能量轉移密度（LET），由低到高。p53 功能正常的細胞在低 LET 端出現互動式（協同）的熱增強，超過約每微米 70 keV 之後只剩相加；p53 突變的細胞在所有 LET 範圍都只有相加效果。下方說明質子在射程的大部分路徑上屬於低 LET，只有布拉格峰末端明顯上升。",
+  "en_alt": "Schematic: the horizontal axis is linear energy transfer, low to high. In cells with functional p53 an interactive, synergistic thermal enhancement appears at low LET and becomes additive only above roughly 70 keV per micrometre; in p53-mutant cells only additive enhancement is seen across all LET levels. A note explains that protons are low-LET along most of their track, rising only at the end of range.",
+  "zh_caption": "示意圖，依 Takahashi 等 2001 的細胞實驗結果繪製。這是單一研究、細胞層次，能說明方向，不能推導出臨床劑量或療效結論。",
+  "en_caption": "Schematic from the cell experiment of Takahashi et al. 2001. A single study at the cellular level: it shows a direction, not a clinical dose or outcome conclusion."
+ }
+]

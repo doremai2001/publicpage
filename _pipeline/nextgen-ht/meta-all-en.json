@@ -1,0 +1,142 @@
+{
+ "nt-ht-what": {
+  "title": "Hyperthermia is not burning the tumour away",
+  "dek": "At least five different things are called “heat therapy” in the clinic. Separating them is what makes the other nineteen articles readable.",
+  "lead": "Half of what patients show me on their phones under the word “hyperthermia” is not the thing I do. This article makes no efficacy claim at all: it separates five treatments that share a name, and says why tumours are more vulnerable to heat than normal tissue.",
+  "note": "Next time someone raises hyperthermia, the first question is not “does it work” but “which kind do you mean, and to what temperature”. Without those two answers, every efficacy discussion that follows is empty.",
+  "refs": 6
+ },
+ "nt-ht-history": {
+  "title": "A hundred-year-old idea, filed under next-generation",
+  "dek": "Hyperthermia has randomised trials, and they are forty years old. It went quiet once — and not because the theory was wrong.",
+  "lead": "The one technology in this set where I cannot write the word “new”. Its randomised trials are older than my career, and the reason it is back has nothing to do with efficacy and everything to do with engineering.",
+  "note": "If someone presents hyperthermia as “the newest therapy”, you can ask directly: then why are the main randomised trials from the 1990s? That is not a hostile question. It is the fastest way to move a conversation from marketing language back to evidence.",
+  "refs": 14
+ },
+ "nt-ht-biology": {
+  "title": "Why heat makes radiotherapy work better",
+  "dek": "Heat does not go and kill cancer cells. It does three things: it blocks repair, it improves oxygenation, and it exploits how badly tumour vessels are built.",
+  "lead": "This is the mechanistic floor of the whole set. Read it and the six cancer-site articles that follow will have answers to “why this site, why this situation”, instead of just a pile of numbers.",
+  "note": "There is always a distance between a plausible mechanism and a clinical effect. Everything in this article holds in the laboratory, but whether it converts into a result in you depends on whether this particular session actually reached temperature — which is the business of articles six and nine.",
+  "refs": 10
+ },
+ "nt-ht-chemo": {
+  "title": "Heat helps chemotherapy too, by another route",
+  "dek": "With radiotherapy the mechanism is repair and hypoxia; with chemotherapy it is how much drug gets in. Three quite different things share one Chinese name.",
+  "lead": "This article handles a confusion that is common in clinic: heated intraperitoneal chemotherapy, heated bladder instillation, and external heating alongside systemic chemotherapy are three different things. Get them mixed up and you will imagine one treatment's risks while consenting to another.",
+  "note": "If your team proposes “thermochemotherapy”, ask which one: instilled into a body cavity, or external heating added to the chemotherapy you are already having. The invasiveness, the complications and the indications are entirely different, and so is what the consent form actually covers.",
+  "refs": 6
+ },
+ "nt-ht-how-to-read": {
+  "title": "Which ruler to read this set with",
+  "dek": "The evidence for hyperthermia is not absent. It is old, modest in size, and its endpoint is usually whether the tumour shrank — not how long anyone lived.",
+  "lead": "Before anything else this article says where I stand, more plainly than the fixed disclosure does. Then it gives you five questions. Carry them into the cancer-site articles and you will find that some very attractive numbers are not answering what you are actually asking.",
+  "note": "The second of the five questions matters most: what is the endpoint? Tumour shrinkage and living longer are different things, and almost all the evidence in this set sits with the first. Next time you hear “it improves the effect by fifteen per cent”, ask what that fifteen per cent is fifteen per cent of.",
+  "refs": 7
+ },
+ "nt-ht-dose": {
+  "title": "43 degrees is the ruler, not 42",
+  "dek": "“Did you have hyperthermia” is a question with no information in it. What to ask is how much thermal dose this session accumulated, and how anyone knows.",
+  "lead": "This article is the most technical in the set and also the most useful. By the end you will have one specific question to ask in the consulting room, and that question separates a place delivering a treatment from a place selling a course.",
+  "note": "Memorise this sentence: “what was my thermal dose for each of those sessions?” If they can answer, someone is measuring and recording. If they cannot, or if they answer “we reached 42 degrees”, that is a temperature, not a dose — and the two are not the same thing.",
+  "refs": 11
+ },
+ "nt-ht-machines": {
+  "title": "Same name, very different machines",
+  "dek": "Where the energy comes from, how deep it reaches, and whether anyone measures the temperature. Three questions sort the machines on the market into categories that are not the same treatment.",
+  "lead": "“Our hospital has a hyperthermia machine” carries less information than most people assume. Depth, volume, and whether the temperature can be measured — under one name, those three things differ so much that the treatments barely look related.",
+  "note": "A model name means nothing on its own. Whether it can reach the depth of your tumour and whether it can measure the temperature do. Write those two questions on a piece of paper and take them to clinic; that is worth more than remembering any model number.",
+  "refs": 8
+ },
+ "nt-ht-meht": {
+  "title": "It does not claim to work by temperature",
+  "dek": "The class of hyperthermia with the most installations in Taiwan makes a different claim about its mechanism from the machines used in those randomised trials. That decides whether the evidence can be borrowed.",
+  "lead": "This article deals with a naming problem whose consequences are real: two treatments share the words “hyperthermia”, and the randomised trial results of one of them cannot automatically be credited to the other. It matters particularly in Taiwan, because the two are common in exactly opposite proportions.",
+  "note": "One question is enough: “the kind you are going to give me — is it the kind those trials used?” There is nothing offensive in it, and what it asks about is not efficacy but comparability, which is what you actually need in order to judge for yourself.",
+  "refs": 9
+ },
+ "nt-ht-thermometry": {
+  "title": "How do you know it actually got hot",
+  "dek": "Heating and knowing how hot you got are two different things. The second decides whether a session can be checked at all, and it decides what you are buying.",
+  "lead": "The most technical article in this set, and also the one that protects you most. What it teaches is not how to judge efficacy, but how to judge whether a unit is taking this seriously — and that turns out to be closely related to efficacy.",
+  "note": "A treatment record is not confidential. Whether a unit is willing to show you the temperature and thermal-dose record is itself something you can judge on. Asking will not offend any team that is doing this properly.",
+  "refs": 8
+ },
+ "nt-ht-safety": {
+  "title": "Who should not have it, and how much it hurts",
+  "dek": "Pain in the heated region is not an accident; it is the safety mechanism. This article sets out the cost, the contraindications, and the hours it takes every week.",
+  "lead": "One thing about this treatment runs opposite to most: the pain during a session is not a side effect to be endured, it is the machine's only safety mechanism. Understand that and the contraindications and the procedure below become readable.",
+  "note": "If some spot hurts during treatment badly enough that you want to grit your teeth — don't. That pain is the machine telling everyone that energy has gone somewhere it should not. Enduring it buys you no extra effect, only a burn.",
+  "refs": 6
+ },
+ "nt-ht-breast": {
+  "title": "Breast: the best evidence hyperthermia has",
+  "dek": "Five randomised trials, one that waited thirty years to be published, and a meta-analysis. They point the same way — and every endpoint is whether the tumour shrank.",
+  "lead": "One trial here opened to recruitment in 1987 and was not fully published until 2024. Those thirty years are not an administrative delay. They are a description of where this field stands.",
+  "note": "If you have just been diagnosed and are about to start standard treatment for breast cancer, none of this article applies to you. It is about chest wall recurrence, in someone already irradiated once, who is not suitable for further surgery. Confirm that this is your situation before you take the conversation any further.",
+  "refs": 6
+ },
+ "nt-ht-headneck": {
+  "title": "Head and neck: the ground it holds is reirradiation",
+  "dek": "In recurrent head and neck cancer already irradiated once, the dose you can still give is capped. This is where hyperthermia's place is clearest and its evidence most concentrated.",
+  "lead": "The meta-analysis gives an odds ratio of 2.92, the largest figure anywhere in this set. But what it was measured against was the radiotherapy of thirty years ago, and the 82.9% response rate comes from a trial with no control arm. Only once you know both things does either number mean anything.",
+  "note": "If what you are facing is recurrent head and neck cancer that cannot be operated on and has already been irradiated once, this is one of the few situations where hyperthermia is worth putting on the table. When you do, ask in the same conversation: is there a trial I could join?",
+  "refs": 7
+ },
+ "nt-ht-cervix": {
+  "title": "Cervix: the most quoted evidence, and usually only half quoted",
+  "dek": "Two randomised trials point the same way and contradict each other in the detail; a third closed with a quarter of its patients. This article lays all three out together.",
+  "lead": "One trial found a difference in survival and none locally; the other found a difference in tumour response and none in survival. Both are positive trials, and they are positive in different places — reading that kind of inconsistency is what this article is for.",
+  "note": "The question at this cancer site is not whether hyperthermia works, it is which situation makes it a meaningful option. The position it holds up in best at the moment is when concurrent chemotherapy cannot be used — and that is a judgement for the gynaecological oncology team to make.",
+  "refs": 7
+ },
+ "nt-ht-bladder": {
+  "title": "Bladder: two routes, not one treatment",
+  "dek": "Warming a drug inside the bladder and heating the bladder from outside are different things. And the largest randomised trial in either of them found no difference.",
+  "lead": "Bladder cancer has the newest hyperthermia evidence of any site, and it is the only site with a modern large randomised trial that has read out. That trial's conclusion goes against hyperthermia — and the slides I see at meetings usually quote three of its percentages and stop there.",
+  "note": "If someone uses data from heated instillation into the bladder to tell you that external deep heating will work on your tumour, two different routes have been spliced together. Ask it straight: do you mean instilled into the bladder, or heated from outside?",
+  "refs": 7
+ },
+ "nt-ht-prostate-anal": {
+  "title": "Three pelvic sites, three different grades of evidence",
+  "dek": "The colostomy-free survival gap in that anal cancer cohort is large, but it was not randomised. Prostate does not yet have a randomised trial at all.",
+  "lead": "The colostomy-free survival gap in the anal cancer data is the most affecting number in this whole set. It is also the number that most needs you to look once at the study design and once at the toxicity column before you look at it.",
+  "note": "What these three sites have in common is that none of the hyperthermia data is randomised. When you see a large gap between two numbers, ask first: were these two groups of people alike to begin with? With non-randomised studies the problem is always there.",
+  "refs": 6
+ },
+ "nt-ht-others": {
+  "title": "Sarcoma, melanoma, and the thin end of the evidence",
+  "dek": "The soft tissue sarcoma phase 3 trial is the fulcrum of this field. The other sites have been tried, and the data will not carry a conclusion.",
+  "lead": "This article comes in two halves. The first is the strongest piece of evidence hyperthermia has — a phase 3 randomised trial that recruited for nine years and followed patients for eleven. The second is a run of cancer sites often produced in support of hyperthermia whose data will not actually carry a conclusion. Read both halves.",
+  "note": "“It has been tried” and “it can be used as a conclusion” are two different things. The studies at the sites in the second half are real, but what they answered is whether this is safe and whether it can be done — not what you get in exchange for adding it.",
+  "refs": 9
+ },
+ "nt-ht-immuno": {
+  "title": "Plus immunotherapy: the mechanism is ahead of the evidence",
+  "dek": "Hyperthermia may make the immune system see the tumour better. That claim has mechanistic evidence, and no randomised trial showing it makes anyone live longer.",
+  "lead": "One of the two highest-warning articles in this set. Hyperthermia plus immunotherapy is the easiest story in the field to tell, and the easiest to tell too far. This article keeps three things apart: the mechanism, the early clinical data, and the thing that genuinely does not exist yet.",
+  "note": "The most honest description of this combination at present is: a direction worth running a trial in. If someone offers it to you as a self-pay package, ask one question — is there a trial recruiting that I could join? Joining a trial and buying a course of treatment are two entirely different things.",
+  "refs": 9
+ },
+ "nt-ht-cell": {
+  "title": "Plus cell therapy: how far the evidence actually goes",
+  "dek": "The mechanism story is complete and easy to tell; the clinical evidence stops at case level. This article gives no advice — it gives you three questions.",
+  "lead": "I could not find a single trial that takes hyperthermia plus cell therapy as a clinical question and answers it. That gap is not something I overlooked. It is itself what this article has to hand you.",
+  "note": "This article deliberately does not answer “should I do this”, because on the evidence available I have no standing to answer it. What it gives you is three questions — and once you have asked them you will know whether the person in front of you is doing research or selling a course of treatment.",
+  "refs": 7
+ },
+ "nt-ht-taiwan": {
+  "title": "Taiwan: the list I could not write",
+  "dek": "I could not find an official compilation of machine distribution, and I could not find a reimbursement provision I could cite. So this article gives no list — it gives you a way of checking for yourself.",
+  "lead": "By the last article of a set like this I ought to have a list in my hand. I do not have one. So what this article gives you instead is six questions and a phone call — the part you can get the answer to yourself, and the part that will not go out of date.",
+  "note": "That this article has no list of hospitals and no prices is deliberate. Lists go out of date, prices change, and I am not going to use a patient education article to influence which hospital you choose. What you need is the ability to ask the right question, and that does not expire.",
+  "refs": 6
+ },
+ "nt-ht-proton": {
+  "title": "Protons plus hyperthermia: reasonable, not yet standard",
+  "dek": "Two good things do not add up to a better thing on their own. This article puts the contrary cell experiment in as well, including the part that counts against me.",
+  "lead": "Protons keep the dose where you want it; hyperthermia deals with hypoxia and repair. The two look exactly complementary — and that intuition is the thing this article is here to take apart.",
+  "note": "The conclusion of this article is: worth researching, not to be sold to patients now. If someone offers you protons plus hyperthermia as a self-pay package, ask one question — is this inside a trial, or on a price list?",
+  "refs": 9
+ }
+}
