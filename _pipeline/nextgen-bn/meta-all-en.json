@@ -1,0 +1,87 @@
+{
+ "principle": {
+  "title": "Smaller than a single cell",
+  "dek": "Its precision comes from shrinking the kill radius to less than the width of one cell. Every strength it has, and every weakness, grows out of that.",
+  "lead": "This article is about the one thing that is genuinely unusual in BNCT. By the end you will see why every question anyone asks about it comes back to the same sentence: where did the boron go?"
+ },
+ "dose": {
+  "title": "The Gy that is not a Gy",
+  "dek": "Written the same way, in grays, it means something else entirely. This article teaches you to read the BNCT dose unit, so that a number which looks small does not mislead you.",
+  "lead": "This article teaches one small thing: when you see a BNCT dose figure, look first for the two letters Eq after the unit. Whether they are there changes what the whole sentence means."
+ },
+ "depth": {
+  "title": "Where the neutrons cannot reach",
+  "dek": "Why is the list of BNCT indications so short? Most of the reason is not biology. It is how far into you a neutron can get.",
+  "lead": "The question I am asked most often is whether this cancer of mine can have BNCT. Before any article about a particular cancer, read this one, because most of the answer is settled here."
+ },
+ "drugs": {
+  "title": "The other half that decides it",
+  "dek": "What Japan approved is not a machine. It is a drug and a machine together. This article is about the drug, and about why sixty years have produced only two of them.",
+  "lead": "In sixty years, only two boron drugs have gone into a human being. That fact is itself the puzzle this article sets out to explain."
+ },
+ "pet": {
+  "title": "First, do you take it up?",
+  "dek": "The PET scan measures whether the boron reaches your tumour. It is one of the few genuinely personalised steps in BNCT, and it is the step that keeps people out.",
+  "lead": "I have had patients finish this scan and be told they are not suitable. I will still say it: what that patient saved that day was more than he knew at the time."
+ },
+ "newagents": {
+  "title": "Not one has reached a person",
+  "dek": "Targeted boron drugs, liposomes, antibody conjugates: the laboratory has made all of them. This article is about the three gates between the laboratory and the ward.",
+  "lead": "Everything in this article is preclinical research. I put it in because this is the box the news reports most often, and it is the furthest of all of them from anything you can be given."
+ },
+ "thor": {
+  "title": "Taiwan's neutron source is on a campus, not in a hospital",
+  "dek": "It is a research reactor, not a hospital treatment machine, and that single fact shapes both of the routes Taiwan currently has.",
+  "lead": "This is the one article in the section that describes what Taiwan actually has today. I have put the figures from the official pages in one place, including the ones that are easiest to misread."
+ },
+ "accelerator": {
+  "title": "Swapping the reactor for an accelerator changes less than it sounds",
+  "dek": "You no longer need a nuclear reactor to make the neutrons, which is the largest change BNCT has had in a decade. What it changed is access, not effect.",
+  "lead": "Accelerator-based BNCT is usually described as the next generation. It is a genuine step, but the step goes in a different direction from the one most people assume."
+ },
+ "headneck": {
+  "title": "The one approved indication rests on twenty-one patients",
+  "dek": "This is the strongest square BNCT has, and strongest here means one single-arm trial of 21 people, which this article takes apart patient by patient.",
+  "lead": "Japan's approval was built on this square, and Taiwan's trials cluster here too. By the end you will know how much this evidence weighs, and also how little."
+ },
+ "gbm": {
+  "title": "The scans showed no shrinkage, yet they lived longer",
+  "dek": "This trial's imaging response rate was 3.7%, and the same patients had a median survival of 18.9 months. Both are true, and neither had a control group.",
+  "lead": "This is the longest and the most important article in the section. On the surface it is about brain tumours; underneath, it is about how to judge a trial that has no control group. Learn this once and the same move will not work on you again."
+ },
+ "newgbm": {
+  "title": "Newly diagnosed, and someone just sent you a BNCT link",
+  "dek": "Recurrent brain tumours have phase 2 data. Newly diagnosed ones do not. The distance between those two is longer than most people assume.",
+  "lead": "The people who reach this article are usually newly diagnosed, with a relative who has just found BNCT online. So I will put it bluntly."
+ },
+ "melanoma": {
+  "title": "The best-looking numbers, the smallest denominators",
+  "dek": "A sixty-eight per cent complete response rate, and a case count in the thirties. Those two numbers have to be read together.",
+  "lead": "This article has the smallest denominators in the whole topic. I am writing it because it happens to show cleanly that a high response rate and strong evidence are two different things."
+ },
+ "meningioma": {
+  "title": "Meningioma: the big trial that is never coming",
+  "dek": "After a high-grade meningioma recurs there is no standard answer. BNCT has 44 patients' worth of data here — this is what that weighs, and where its ceiling is.",
+  "lead": "This one also applies if you have some other rare cancer: how to read the only evidence you have, when your disease is too uncommon for a randomised trial to be possible."
+ },
+ "others": {
+  "title": "Why the list is almost empty",
+  "dek": "This article has no good news in it. It may also be the one most people here need, because the people who ask whether their cancer qualifies mostly belong in this box.",
+  "lead": "The people who ask me whether this can be done for their cancer mostly do not have head and neck cancer or a brain tumour. This is written for them, and it has no good news."
+ },
+ "safety": {
+  "title": "The side effects are not fewer, they are different",
+  "dek": "A kill radius of one cell does not mean normal tissue goes untouched. This lays the published adverse events out, including the worst one.",
+  "lead": "If you finish only one article in this topic, I would like it to be this one. These numbers almost never appear in BNCT marketing language, and every one of them comes from the trials that support the treatment."
+ },
+ "approval": {
+  "title": "One technology, four different identities",
+  "dek": "Approved, covered and effective are three separate things. This puts BNCT on that map, with a check date on every box.",
+  "lead": "This is the fixed move in this topic: for any new technology, ask what its status is, where. For BNCT the answer is unusually clean, because exactly one place in the world has approved it."
+ },
+ "who": {
+  "title": "Should I be asking about BNCT? Four preconditions",
+  "dek": "This gathers the previous sixteen articles into one checklist. Meeting all four is not a reason to do it; failing one is a reason not to go further.",
+  "lead": "This article is the most practical reason I wrote the topic at all. If you read only one, read this one — but if any of the four conditions is unclear to you, go back to the article that covers it."
+ }
+}

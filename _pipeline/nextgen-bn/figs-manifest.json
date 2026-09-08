@@ -1,0 +1,38 @@
+{
+  "reaction": {
+    "zh": "fig-bn-reaction.svg",
+    "zh_mobile": "fig-bn-reaction-mobile.svg",
+    "en": "fig-bn-reaction-en.svg",
+    "en_mobile": "fig-bn-reaction-en-mobile.svg"
+  },
+  "dose": {
+    "zh": "fig-bn-dose.svg",
+    "zh_mobile": "fig-bn-dose-mobile.svg",
+    "en": "fig-bn-dose-en.svg",
+    "en_mobile": "fig-bn-dose-en-mobile.svg"
+  },
+  "depth": {
+    "zh": "fig-bn-depth.svg",
+    "zh_mobile": "fig-bn-depth-mobile.svg",
+    "en": "fig-bn-depth-en.svg",
+    "en_mobile": "fig-bn-depth-en-mobile.svg"
+  },
+  "pathway": {
+    "zh": "fig-bn-pathway.svg",
+    "zh_mobile": "fig-bn-pathway-mobile.svg",
+    "en": "fig-bn-pathway-en.svg",
+    "en_mobile": "fig-bn-pathway-en-mobile.svg"
+  },
+  "gbm": {
+    "zh": "fig-bn-gbm.svg",
+    "zh_mobile": "fig-bn-gbm-mobile.svg",
+    "en": "fig-bn-gbm-en.svg",
+    "en_mobile": "fig-bn-gbm-en-mobile.svg"
+  },
+  "evidence": {
+    "zh": "fig-bn-evidence.svg",
+    "zh_mobile": "fig-bn-evidence-mobile.svg",
+    "en": "fig-bn-evidence-en.svg",
+    "en_mobile": "fig-bn-evidence-en-mobile.svg"
+  }
+}
