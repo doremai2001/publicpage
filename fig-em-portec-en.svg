@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2264" viewBox="0 0 1440 2264" role="img" aria-labelledby="t d">
+  <title id="t">Three PORTEC trials, one question each: local control, shrinking the field, and what chemotherapy buys</title>
+  <desc id="d">Schematic: three PORTEC trials, one question each, with nothing on the figure that a reader could tick off for herself. The first, full-width card is PORTEC-1 (n=715, FIGO 1988/2009 stage 1, endometrioid, no lymph node dissection), asking what postoperative pelvic radiotherapy at 46 Gy buys and what it costs. Three pairs of horizontal bars share one 0 to 100 per cent scale; in each pair the upper bar is pelvic radiotherapy 46 Gy and the lower bar is no further treatment. First pair, 5-year locoregional recurrence: 4 per cent with radiotherapy against 14 per cent with observation, p &lt; 0.001, ten percentage points fewer - local control is what the treatment actually buys. Second pair, 5-year overall survival: 81 against 85 per cent, p = 0.31, the two bars the same length; the published conclusion is that postoperative radiotherapy reduces locoregional recurrence but has no impact on overall survival. Third pair, treatment-related complications: 25 against 6 per cent, p &lt; 0.0001, nineteen percentage points more in the radiotherapy arm; two-thirds were grade 1, and of 8 grade 3-4 complications in all, 7 were in the radiotherapy arm, 2 per cent of that arm. Beneath the card a line reads: the three boxes have to be read together - read only the first and you get &quot;of course I should have it&quot;, only the second and you get &quot;it does not prolong life&quot;, only the third and you get &quot;radiotherapy is harmful&quot;; together they are what the trial says, that radiotherapy buys local control, costs complications, and did not pull the survival curves apart. The second card is PORTEC-2 (n=427, high-intermediate risk, FIGO 1988 stage I or IIA), asking whether the field can be shrunk to the top of the vagina alone. 5-year vaginal recurrence: vaginal brachytherapy 1.8 per cent against pelvic external beam radiotherapy 46 Gy in 23 fractions 1.6 per cent, hazard ratio 0.78 (0.17 to 3.49), p = 0.74. Alongside is a non-inferiority scale: zero at the left, the pre-set margin of 6 percentage points marked with a dashed line, and the observed difference of plus 0.2 percentage points sitting well inside it. The figure states that non-inferiority means the difference did not cross the line agreed in advance, not that the two treatments are the same, and that a confidence interval of 0.17 to 3.49 is wide - this many patients cannot show that they are equal. The same card carries the other side of the trial: 5-year locoregional recurrence, in the vagina or the pelvis, was 5.1 per cent with brachytherapy against 2.1 per cent with external beam radiotherapy, hazard ratio 2.08 (0.71 to 6.09), p = 0.17, a point estimate that favours external beam without reaching statistical significance; the 10-year pelvic figures are in a separate diagram. The third card is PORTEC-3 (n=660, high risk, FIGO 2009), asking what adding chemotherapy to radiotherapy buys in high-risk disease. 10-year overall survival: chemoradiotherapy 74.4 per cent against radiotherapy alone 67.3 per cent. Below, a hazard ratio plotted on a log scale with a dashed line at 1 shows an adjusted hazard ratio of 0.73, 95 per cent confidence interval 0.54 to 0.97, p = 0.032, the interval not crossing 1. The other side of that trial is also given: in the 5-year primary analysis overall survival was 81.8 against 76.7 per cent, hazard ratio 0.76, p = 0.11, not statistically significant, and at 10 years the benefit is concentrated in stage III disease and serous histology. At the foot of the figure a gold-bordered panel states that this is not a checklist and not for placing yourself in a box: the three trials differ in entry criteria, staging version and risk group - PORTEC-1 had no lymph node dissection, PORTEC-2 recruited high-intermediate risk, PORTEC-3 high risk - so the boxes must not be compared with one another; the risk groups have formal names and definitions set out in the article, and assigning one means weighing stage and its version, histological type, grade, depth of myometrial invasion, the amount of lymphovascular space invasion, whether nodes were staged and the molecular profile. It is a calculation for someone else to do with you.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2264" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">THREE PORTEC TRIALS, THREE QUESTIONS</text>
+<text x="84" y="140" font-size="40" fill="#123641" font-weight="800" class="r">Three PORTEC trials, one question each</text>
+<text x="84" y="200.4" font-size="19" fill="#527078">The three trials do not ask the same question and did not recruit the same women. Every box carries its n, its population and the FIGO</text>
+<text x="84" y="228.9" font-size="19" fill="#527078">version used, because a different group of people means a different answer.</text>
+<text x="84" y="261.4" font-size="19" fill="#527078">This figure is not a checklist: there is nothing here to tick off for yourself. Which box you fall into is decided by your gynaecological</text>
+<text x="84" y="289.9" font-size="19" fill="#527078">oncology and radiation oncology teams from the full pathology report.</text>
+<g filter="url(#sh)">
+<rect x="84" y="338.4" width="1272" height="804.85" rx="18" fill="#FFFFFF"/>
+<path d="M 84 356.4 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="108" y="380.4" font-size="18" fill="#123641" font-weight="800">PORTEC-1 (n=715, FIGO 1988/2009 stage 1, endometrioid, no lymph node dissection)</text>
+<text x="108" y="411.6" font-size="15.5" fill="#8F7418" font-weight="700">Question: what does postoperative pelvic radiotherapy at 46 Gy buy, and what does it cost?</text>
+<text x="108" y="452.07" font-size="12.5" fill="#527078">All three boxes share one 0 to 100 per cent scale</text>
+<text x="108" y="481.57" font-size="17" fill="#123641" font-weight="800">5-year locoregional recurrence</text>
+<text x="108" y="516.88" font-size="14" fill="#527078" font-weight="700">Pelvic radiotherapy 46</text>
+<text x="108" y="533.88" font-size="14" fill="#527078" font-weight="700">Gy</text>
+<rect x="284" y="507.38" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="507.38" width="37.76" height="26" rx="7" fill="#5C77C4"/>
+<text x="1240" y="527.93" font-size="21" fill="#5C77C4" font-weight="800">4%</text>
+<text x="108" y="564.88" font-size="14" fill="#527078" font-weight="700">No further treatment</text>
+<rect x="284" y="546.88" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="546.88" width="132.16" height="26" rx="7" fill="#7A6E58"/>
+<text x="1240" y="567.43" font-size="21" fill="#7A6E58" font-weight="800">14%</text>
+<text x="1240" y="584.88" font-size="12.5" fill="#345963" font-weight="700">p &lt; 0.001</text>
+<text x="108" y="592.88" font-size="14" fill="#527078">Ten percentage points fewer in the radiotherapy arm. Local control is what this treatment actually buys.</text>
+<text x="108" y="644.67" font-size="17" fill="#123641" font-weight="800">5-year overall survival</text>
+<text x="108" y="679.97" font-size="14" fill="#527078" font-weight="700">Pelvic radiotherapy 46</text>
+<text x="108" y="696.97" font-size="14" fill="#527078" font-weight="700">Gy</text>
+<rect x="284" y="670.47" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="670.47" width="764.64" height="26" rx="7" fill="#5C77C4"/>
+<text x="1240" y="691.03" font-size="21" fill="#5C77C4" font-weight="800">81%</text>
+<text x="108" y="727.97" font-size="14" fill="#527078" font-weight="700">No further treatment</text>
+<rect x="284" y="709.97" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="709.97" width="802.4" height="26" rx="7" fill="#7A6E58"/>
+<text x="1240" y="730.53" font-size="21" fill="#7A6E58" font-weight="800">85%</text>
+<text x="1240" y="747.97" font-size="12.5" fill="#345963" font-weight="700">p = 0.31</text>
+<text x="108" y="755.97" font-size="14" fill="#527078">The two bars are the same length. The published conclusion: postoperative radiotherapy reduces locoregional recurrence but has no impact on overall survival.</text>
+<text x="108" y="807.77" font-size="17" fill="#123641" font-weight="800">Treatment-related complications</text>
+<text x="108" y="843.07" font-size="14" fill="#527078" font-weight="700">Pelvic radiotherapy 46</text>
+<text x="108" y="860.07" font-size="14" fill="#527078" font-weight="700">Gy</text>
+<rect x="284" y="833.57" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="833.57" width="236" height="26" rx="7" fill="#5C77C4"/>
+<text x="1240" y="854.13" font-size="21" fill="#5C77C4" font-weight="800">25%</text>
+<text x="108" y="891.07" font-size="14" fill="#527078" font-weight="700">No further treatment</text>
+<rect x="284" y="873.07" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="873.07" width="56.64" height="26" rx="7" fill="#7A6E58"/>
+<text x="1240" y="893.63" font-size="21" fill="#7A6E58" font-weight="800">6%</text>
+<text x="1240" y="911.07" font-size="12.5" fill="#345963" font-weight="700">p &lt; 0.0001</text>
+<text x="108" y="919.07" font-size="14" fill="#527078">Nineteen percentage points more in the radiotherapy arm. Two-thirds were grade 1; there were 8 grade 3-4 complications in all, 7 of them in the radiotherapy arm</text>
+<text x="108" y="939.37" font-size="14" fill="#527078">(2 per cent of that arm).</text>
+<line x1="284" y1="967.67" x2="1228" y2="967.67" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="284" y1="967.67" x2="284" y2="973.67" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="284" y="989.67" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="520" y1="967.67" x2="520" y2="973.67" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="520" y="989.67" font-size="12.5" fill="#527078" text-anchor="middle">25</text>
+<line x1="756" y1="967.67" x2="756" y2="973.67" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="756" y="989.67" font-size="12.5" fill="#527078" text-anchor="middle">50</text>
+<line x1="992" y1="967.67" x2="992" y2="973.67" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="992" y="989.67" font-size="12.5" fill="#527078" text-anchor="middle">75</text>
+<line x1="1228" y1="967.67" x2="1228" y2="973.67" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1228" y="989.67" font-size="12.5" fill="#527078" text-anchor="middle">100%</text>
+<rect x="108" y="1007.67" width="1224" height="111.58" rx="14" fill="#F3E8CD"/>
+<text x="126" y="1043.17" font-size="15.5" fill="#8F7418" font-weight="700">The three boxes have to be read together. Read only the first and you get &quot;of course I should have it&quot;; read only the second and you get &quot;it does not prolong</text>
+<text x="126" y="1067.2" font-size="15.5" fill="#8F7418" font-weight="700">life, so why bother&quot;; read only the third and you get &quot;radiotherapy is harmful, stay away&quot;. Together they are what the trial actually says: radiotherapy buys</text>
+<text x="126" y="1091.22" font-size="15.5" fill="#8F7418" font-weight="700">local control, it costs complications, and it did not pull the survival curves apart.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1173.25" width="621" height="784.87" rx="18" fill="#FFFFFF"/>
+<path d="M 84 1191.25 a 18 18 0 0 1 18 -18 h 585 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="108" y="1219.25" font-size="18" fill="#123641" font-weight="800">PORTEC-2 (n=427, high-intermediate risk, FIGO 1988 stage I or</text>
+<text x="108" y="1244.45" font-size="18" fill="#123641" font-weight="800">IIA)</text>
+<text x="108" y="1275.65" font-size="15.5" fill="#8F7418" font-weight="700">Question: can the field be shrunk to the top of the vagina alone?</text>
+<text x="108" y="1323.62" font-size="17" fill="#123641" font-weight="800">5-year vaginal recurrence</text>
+<text x="108" y="1353.62" font-size="14" fill="#527078" font-weight="700">Vaginal brachytherapy</text>
+<rect x="276" y="1335.62" width="317" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="276" y="1335.62" width="57.06" height="26" rx="7" fill="#00806B"/>
+<text x="605" y="1356.18" font-size="21" fill="#00806B" font-weight="800">1.8%</text>
+<text x="108" y="1379.12" font-size="14" fill="#527078" font-weight="700">Pelvic external beam</text>
+<text x="108" y="1396.12" font-size="14" fill="#527078" font-weight="700">radiotherapy</text>
+<rect x="276" y="1369.62" width="317" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="276" y="1369.62" width="50.72" height="26" rx="7" fill="#5C77C4"/>
+<text x="605" y="1390.18" font-size="21" fill="#5C77C4" font-weight="800">1.6%</text>
+<line x1="276" y1="1405.12" x2="593" y2="1405.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="276" y1="1405.12" x2="276" y2="1411.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="276" y="1427.12" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="339.4" y1="1405.12" x2="339.4" y2="1411.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="339.4" y="1427.12" font-size="12.5" fill="#527078" text-anchor="middle">2</text>
+<line x1="402.8" y1="1405.12" x2="402.8" y2="1411.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="402.8" y="1427.12" font-size="12.5" fill="#527078" text-anchor="middle">4</text>
+<line x1="466.2" y1="1405.12" x2="466.2" y2="1411.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="466.2" y="1427.12" font-size="12.5" fill="#527078" text-anchor="middle">6</text>
+<line x1="529.6" y1="1405.12" x2="529.6" y2="1411.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="529.6" y="1427.12" font-size="12.5" fill="#527078" text-anchor="middle">8</text>
+<line x1="593" y1="1405.12" x2="593" y2="1411.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="593" y="1427.12" font-size="12.5" fill="#527078" text-anchor="middle">10%</text>
+<text x="108" y="1449.12" font-size="14" fill="#345963" font-weight="700">hazard ratio 0.78 (0.17 to 3.49), p = 0.74</text>
+<text x="108" y="1469.12" font-size="14" fill="#527078">External beam radiotherapy was 46 Gy in 23 fractions; brachytherapy was</text>
+<text x="108" y="1489.42" font-size="14" fill="#527078">high-dose-rate 21 Gy in 3 fractions, or low-dose-rate 30 Gy.</text>
+<text x="108" y="1537.22" font-size="15.5" fill="#123641" font-weight="800">How to read non-inferiority</text>
+<rect x="118" y="1551.22" width="414.75" height="30" rx="8" fill="#D8EDE7"/>
+<rect x="532.75" y="1551.22" width="138.25" height="30" rx="8" fill="#F6E2E0"/>
+<line x1="532.75" y1="1541.22" x2="532.75" y2="1591.22" stroke="#B04A4A" stroke-width="2.4" stroke-linecap="butt" stroke-dasharray="5 4"/>
+<line x1="118" y1="1581.22" x2="671" y2="1581.22" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="118" y1="1581.22" x2="118" y2="1587.22" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="118" y="1603.22" font-size="12" fill="#527078" text-anchor="middle">0</text>
+<line x1="256.25" y1="1581.22" x2="256.25" y2="1587.22" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="256.25" y="1603.22" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="394.5" y1="1581.22" x2="394.5" y2="1587.22" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="394.5" y="1603.22" font-size="12" fill="#527078" text-anchor="middle">4</text>
+<line x1="532.75" y1="1581.22" x2="532.75" y2="1587.22" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="532.75" y="1603.22" font-size="12" fill="#527078" text-anchor="middle">6</text>
+<line x1="671" y1="1581.22" x2="671" y2="1587.22" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="671" y="1603.22" font-size="12" fill="#527078" text-anchor="middle">8</text>
+<circle cx="131.82" cy="1566.22" r="8" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="118" y="1623.22" font-size="12" fill="#527078">Difference in vaginal recurrence rate (percentage points)</text>
+<text x="108" y="1645.22" font-size="14" fill="#00806B" font-weight="800">Observed difference +0.2 percentage points</text>
+<text x="108" y="1667.52" font-size="14" fill="#B04A4A" font-weight="800">Pre-set non-inferiority margin: 6 percentage points</text>
+<text x="108" y="1693.82" font-size="14" fill="#527078">Non-inferiority means the difference did not cross the line agreed in advance. It</text>
+<text x="108" y="1714.82" font-size="14" fill="#527078">does not mean the two treatments are the same. The confidence interval, 0.17 to</text>
+<text x="108" y="1735.82" font-size="14" fill="#527078">3.49, is wide - this many patients cannot show that they are equal.</text>
+<rect x="108" y="1770.82" width="573" height="163.3" rx="14" fill="#F6E2E0"/>
+<text x="124" y="1802.82" font-size="14" fill="#B04A4A" font-weight="800">The other side of the same trial</text>
+<text x="124" y="1825.12" font-size="14" fill="#345963">5-year locoregional recurrence (vagina or pelvis) was 5.1 per cent with</text>
+<text x="124" y="1846.12" font-size="14" fill="#345963">brachytherapy against 2.1 per cent with external beam radiotherapy, hazard</text>
+<text x="124" y="1867.12" font-size="14" fill="#345963">ratio 2.08 (0.71 to 6.09), p = 0.17: the point estimate favours external beam,</text>
+<text x="124" y="1888.12" font-size="14" fill="#345963">although it did not reach statistical significance. The 10-year pelvic figures are</text>
+<text x="124" y="1909.12" font-size="14" fill="#345963">in a separate diagram.</text>
+<g filter="url(#sh)">
+<rect x="735" y="1173.25" width="621" height="564.95" rx="18" fill="#FFFFFF"/>
+<path d="M 735 1191.25 a 18 18 0 0 1 18 -18 h 585 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="759" y="1219.25" font-size="18" fill="#123641" font-weight="800">PORTEC-3 (n=660, high risk, FIGO 2009)</text>
+<text x="759" y="1250.45" font-size="15.5" fill="#8F7418" font-weight="700">Question: for high-risk disease, what does adding chemotherapy to</text>
+<text x="759" y="1272.92" font-size="15.5" fill="#8F7418" font-weight="700">radiotherapy buy?</text>
+<text x="759" y="1320.9" font-size="17" fill="#123641" font-weight="800">10-year overall survival</text>
+<text x="759" y="1350.9" font-size="14" fill="#527078" font-weight="700">Chemoradiotherapy</text>
+<rect x="927" y="1332.9" width="311" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="927" y="1332.9" width="231.38" height="26" rx="7" fill="#96790F"/>
+<text x="1250" y="1353.46" font-size="21" fill="#96790F" font-weight="800">74.4%</text>
+<text x="759" y="1384.9" font-size="14" fill="#527078" font-weight="700">Radiotherapy alone</text>
+<rect x="927" y="1366.9" width="311" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="927" y="1366.9" width="209.3" height="26" rx="7" fill="#5C77C4"/>
+<text x="1250" y="1387.46" font-size="21" fill="#5C77C4" font-weight="800">67.3%</text>
+<line x1="927" y1="1396.9" x2="1238" y2="1396.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="927" y1="1396.9" x2="927" y2="1402.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="927" y="1418.9" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="1004.75" y1="1396.9" x2="1004.75" y2="1402.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1004.75" y="1418.9" font-size="12.5" fill="#527078" text-anchor="middle">25</text>
+<line x1="1082.5" y1="1396.9" x2="1082.5" y2="1402.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1082.5" y="1418.9" font-size="12.5" fill="#527078" text-anchor="middle">50</text>
+<line x1="1160.25" y1="1396.9" x2="1160.25" y2="1402.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1160.25" y="1418.9" font-size="12.5" fill="#527078" text-anchor="middle">75</text>
+<line x1="1238" y1="1396.9" x2="1238" y2="1402.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1238" y="1418.9" font-size="12.5" fill="#527078" text-anchor="middle">100%</text>
+<text x="759" y="1450.4" font-size="15.5" fill="#123641" font-weight="800">Adjusted hazard ratio with 95% CI</text>
+<line x1="769" y1="1477.4" x2="1322" y2="1477.4" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="876.3" y1="1472.4" x2="876.3" y2="1482.4" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="876.3" y="1507.4" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1084.81" y1="1472.4" x2="1084.81" y2="1482.4" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1084.81" y="1507.4" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1293.33" y1="1472.4" x2="1293.33" y2="1482.4" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1293.33" y="1507.4" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1084.81" y1="1458.4" x2="1084.81" y2="1496.4" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="899.45" y1="1477.4" x2="1075.65" y2="1477.4" stroke="#96790F" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="899.45" y1="1469.4" x2="899.45" y2="1485.4" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<line x1="1075.65" y1="1469.4" x2="1075.65" y2="1485.4" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<circle cx="990.14" cy="1477.4" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="759" y="1535.9" font-size="17.5" fill="#96790F" font-weight="800">0.73 (0.54 to 0.97), p = 0.032</text>
+<text x="759" y="1557.9" font-size="14" fill="#527078">The confidence interval does not cross 1.</text>
+<rect x="759" y="1592.9" width="573" height="121.3" rx="14" fill="#F6E2E0"/>
+<text x="775" y="1624.9" font-size="14" fill="#B04A4A" font-weight="800">The other side of the same trial</text>
+<text x="775" y="1647.2" font-size="14" fill="#345963">In the 5-year primary analysis overall survival was 81.8 against 76.7 per cent,</text>
+<text x="775" y="1668.2" font-size="14" fill="#345963">hazard ratio 0.76, p = 0.11 - not statistically significant. At 10 years the benefit</text>
+<text x="775" y="1689.2" font-size="14" fill="#345963">is concentrated in stage III disease and serous histology.</text>
+<rect x="84" y="1988.12" width="1272" height="193.3" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="2032.12" font-size="18" fill="#8F7418" font-weight="800">This is not a checklist, and it is not for placing yourself in a box</text>
+<text x="110" y="2063.32" font-size="15.5" fill="#345963">The three trials differ in entry criteria, staging version and risk group: PORTEC-1 had no lymph node dissection, PORTEC-2 recruited high-intermediate risk,</text>
+<text x="110" y="2087.35" font-size="15.5" fill="#345963">PORTEC-3 recruited high risk. The boxes must not be compared with one another. The risk groups have formal names and definitions, set out in the article itself;</text>
+<text x="110" y="2111.38" font-size="15.5" fill="#345963">assigning one means weighing stage and its version, histological type, grade, depth of myometrial invasion, the amount of lymphovascular space invasion, whether</text>
+<text x="110" y="2135.4" font-size="15.5" fill="#345963">nodes were staged, and the molecular profile. This is a calculation for someone else to do with you.</text>
+<text x="84" y="2205.43" font-size="15" fill="#527078">Schematic, redrawn from PORTEC-1 (Creutzberg 2000), PORTEC-2 (Nout 2010) and PORTEC-3 (de Boer 2018 5-year final results; Post 2025 10-year results); the cohorts,</text>
+<text x="84" y="2227.93" font-size="15" fill="#527078">designs and endpoints of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

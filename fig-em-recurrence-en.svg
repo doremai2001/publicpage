@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2566" viewBox="0 0 1440 2566" role="img" aria-labelledby="t d">
+  <title id="t">The three sites of recurrence: each with its own denominator and its own salvage route</title>
+  <desc id="d">Schematic of the denominator behind recurrence in endometrial cancer and the salvage route for each site. The upper half is the denominator: among 2,815 women with FIGO 2009 stage I disease treated at two centres between 2009 and 2017, 278 recurred, that is 10%, and the other 90% did not. Splitting those 278, still as a proportion of all 2,815: isolated vaginal recurrence in only 61 women, 2% of the whole cohort, and recurrence outside the vagina in 217, 8% of the whole cohort. Three notes follow: of those 61 isolated vaginal recurrences, 42 or 69% were at the vaginal vault; among the 960 women who had adjuvant vaginal brachytherapy, 19 had an isolated vaginal recurrence, 2% again; and the median time to recurrence was 11 months for isolated vaginal recurrence against 20 months for recurrence elsewhere. The figure states that this set of numbers must be read in both directions: most women with stage I disease do not recur, and while the cell in which a vaginal vault recurrence can still be controlled is real, it is only 2% of stage I patients, so it is not what recurrence usually looks like but the most favourable kind of it. The lower half has four cells. First, isolated vaginal or vaginal vault recurrence with no previous radiotherapy: the population label is GOG-0238, n=165 randomised, the only randomised trial in this cell, with 82% low-grade, that is grade 1 or 2, endometrioid disease and the recurrence confined to the vagina in 86%. Progression-free survival at 3 years was 73% with radiotherapy alone against 62% with chemoradiotherapy, hazard ratio 1.25 (95% confidence interval 0.75 to 2.07); adding chemotherapy is a failed intervention in this setting, with no gain in progression-free survival and higher acute toxicity. The guideline recommends pelvic external beam radiotherapy plus intracavitary image-guided brachytherapy for vaginal vault recurrence (IV, A), with intracavitary image-guided brachytherapy alone an option for superficial tumours (IV, A). A single-centre series, Alban 2021, of 62 women with stage I to II disease and no previous adjuvant radiotherapy, reported vaginal control of 82% and overall survival of 61% at 5 years; but in that same series non-endometrioid histology carried a 12.5-fold risk of recurrence, and in a Japanese salvage brachytherapy series of 43 women, grade 1 to 2 against grade 3 at the original surgery gave 5-year overall survival of 96% against 40% and progression-free survival of 58% against 0%, so the 73% belongs to that particular population and cannot be lent to anyone else. Second, pelvic and lymph node recurrence: in PORTEC-1, as a historical comparison, survival 3 years after a pelvic recurrence was 8%, and the authors state plainly that survival did not differ between pelvic recurrence and distant metastasis. Pelvic exenteration is the heaviest option here: the COREPEX registry enrolled 862 women with gynaecological cancers and 676, or 78.4%, had tumour-free margins, with 5-year disease-free survival running from 43.7% down to 8.0% across four prognostic groups; the cost sits in the same cell, with severe early post-operative complications in 225 women or 26.1%, death within 30 days in 27 or 3.1% and severe late complications in 87 or 10.1%, and which group a woman falls into is decided by whether the margins can be clear and whether there is disease outside the pelvis. Third, an area that has already been irradiated: in PORTEC-1, again as a historical comparison, survival 3 years after a first recurrence was 51% in the control arm, which had not been irradiated, against 19% in the arm that had, P equals 0.004. The guideline recommends an external beam radiotherapy and image-guided brachytherapy boost after previous vaginal brachytherapy alone (IV, C); after previous external beam radiotherapy, the molecular subtype should be weighed in the decision about surgery or systemic treatment and radical surgery done only with clear margins, curative intent and acceptable morbidity (IV, A); and where surgery is not feasible, re-irradiation may be considered in experienced centres (IV, C). The re-irradiation denominators are all small: 22 women in Pittsburgh, with 3-year local control of 65.8% and overall survival of 68.1% and no grade 3 or higher bowel or bladder toxicity; and 32 women in Boston, with vaginal control of 64% at 3 years and 56% at 5 years and late grade 3 toxicity of 16% gastrointestinal, 13% urinary and 16% vaginal. Fourth, distant metastasis and disseminated recurrence: this cell carries no efficacy figures at all. The guideline defines oligometastatic disease as 1 to 5 lesions across no more than 3 sites, for which surgery, radical radiotherapy including stereotactic radiotherapy, or local ablation can be considered (IV, B); and first-line treatment of disseminated recurrence splits in two, both I, A, with chemotherapy plus an immune checkpoint inhibitor followed by maintenance for mismatch repair-deficient disease, and carboplatin with paclitaxel for the rest where disease is progressing quickly or causing symptoms. The cell shows only two arrows, pointing to the articles on who immunotherapy actually works for and on what adding chemotherapy buys and costs, where the figures live. Below the four cells a note records that everything marked as a historical comparison comes from PORTEC-1, a trial from the 1990s before image-guided brachytherapy existed, which can serve as a historical comparison but never as what to expect from treatment today. The figure closes with two warnings in opposite directions. First, a recurrence is not the end stage: for a low-grade, endometrioid recurrence confined to the vagina in someone not previously irradiated, the only randomised trial found 73% alive and free of progression at 3 years on radiotherapy alone, with chemotherapy added doing worse and costing more toxicity. Second, nor can every recurrence be brought back: survival 3 years after a pelvic recurrence was 8% and 19% for those already irradiated against 51% for those not, both historical comparisons; non-endometrioid histology carried a 12.5-fold risk of recurrence and grade 3 disease at the original surgery gave 0% progression-free survival at 5 years; and pelvic exenteration carries a 3.1% risk of death within 30 days. Every cell has its own denominator and they cannot be borrowed from one another.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2566" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="17" fill="#A98722" font-weight="800" letter-spacing="3px">AFTER A RECURRENCE</text>
+<text x="84" y="142" font-size="40" fill="#123641" font-weight="800" class="r">One in ten recurs; the kind with the best odds is only 2%</text>
+<text x="84" y="200" font-size="19" fill="#527078">The upper half is the denominator: most women with stage I disease do not recur, and the cell that can still be controlled is the most</text>
+<text x="84" y="228" font-size="19" fill="#527078">favourable kind of recurrence, not the typical one.</text>
+<text x="84" y="256" font-size="19" fill="#527078">The lower half sets out the denominator and the salvage route for each site. Which cell you are in is judged jointly by gynaecological</text>
+<text x="84" y="284" font-size="19" fill="#527078">oncology, radiation oncology and imaging.</text>
+<g filter="url(#sh)">
+<rect x="84" y="328" width="1272" height="607" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="110" y="360" font-size="18" fill="#123641" font-weight="800">The denominator: 2,815 women with FIGO 2009 stage I disease at two centres, 2009 to 2017</text>
+<rect x="110" y="396" width="1220" height="46" rx="10" fill="#ECE8DE"/>
+<rect x="110" y="396" width="1097.22" height="46" rx="10" fill="#B9AE94"/>
+<rect x="1209.22" y="396" width="118.78" height="46" rx="10" fill="#B04A4A"/>
+<circle cx="117" cy="462" r="7" fill="#B9AE94"/>
+<text x="134" y="467" font-size="15" fill="#345963" font-weight="700">No recurrence: the other 90%</text>
+<circle cx="117" cy="500" r="7" fill="#B04A4A"/>
+<text x="134" y="505" font-size="15" fill="#345963" font-weight="700">278 recurrences (10%)</text>
+<text x="110" y="556" font-size="15.5" fill="#8F7418" font-weight="800">Splitting those 278 (still as a proportion of all 2,815)</text>
+<rect x="110" y="586" width="1220" height="46" rx="10" fill="#ECE8DE"/>
+<rect x="110" y="586" width="24.84" height="46" rx="10" fill="#00806B"/>
+<rect x="136.84" y="586" width="91.94" height="46" rx="10" fill="#B04A4A"/>
+<rect x="230.78" y="586" width="1097.22" height="46" rx="10" fill="#ECE8DE"/>
+<circle cx="117" cy="652" r="7" fill="#00806B"/>
+<text x="134" y="657" font-size="15" fill="#345963" font-weight="700">61 isolated vaginal recurrences = 2% of the whole cohort</text>
+<circle cx="117" cy="690" r="7" fill="#B04A4A"/>
+<text x="134" y="695" font-size="15" fill="#345963" font-weight="700">217 recurrences outside the vagina = 8% of the whole cohort</text>
+<circle cx="116" cy="735" r="3.5" fill="#B9AE94"/>
+<text x="130" y="740" font-size="14.5" fill="#527078">Of those 61 isolated vaginal recurrences, 42 (69%) were at the vaginal vault.</text>
+<circle cx="116" cy="772" r="3.5" fill="#B9AE94"/>
+<text x="130" y="777" font-size="14.5" fill="#527078">Among the 960 women who had adjuvant vaginal brachytherapy, 19 had an isolated vaginal recurrence — 2% again.</text>
+<circle cx="116" cy="809" r="3.5" fill="#B9AE94"/>
+<text x="130" y="814" font-size="14.5" fill="#527078">Timing: isolated vaginal recurrence at a median of 11 months, recurrence elsewhere at 20 months.</text>
+<rect x="110" y="851" width="1220" height="76" rx="14" fill="#ECE8DE"/>
+<text x="126" y="871" font-size="15.5" fill="#345963" font-weight="600">This set of numbers has to be read in both directions: most women with stage I disease do not recur; and while the cell where a vaginal vault recurrence can</text>
+<text x="126" y="894" font-size="15.5" fill="#345963" font-weight="600">still be controlled is real, it is only 2% of stage I patients — it is not what recurrence usually looks like, but the most favourable kind of it.</text>
+<text x="84" y="971" font-size="20" fill="#123641" font-weight="800" class="r">Three sites, each with its own denominator and salvage route — with previously irradiated areas as a fourth cell</text>
+<rect x="84" y="1007" width="622.0" height="568" rx="14" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="84" y="1007" width="622" height="42" rx="12" fill="#00806B"/>
+<text x="102" y="1037" font-size="17" fill="#FFFFFF" font-weight="800">Isolated vaginal or vaginal vault recurrence, no previous radiotherapy</text>
+<text x="102" y="1073" font-size="14" fill="#527078" font-weight="700">Population label: GOG-0238, n=165 randomised — the only randomised trial in this cell;</text>
+<text x="102" y="1093" font-size="14" fill="#527078" font-weight="700">82% low-grade (grade 1 or 2) endometrioid, and in 86% the recurrence was confined to</text>
+<text x="102" y="1113" font-size="14" fill="#527078" font-weight="700">the vagina.</text>
+<rect x="102" y="1147" width="3" height="46" rx="1.5" fill="#123641" opacity="0.7"/>
+<text x="114" y="1159" font-size="14.5" fill="#123641" font-weight="700">Progression-free survival at 3 years: 73% with radiotherapy alone, 62% with</text>
+<text x="114" y="1180" font-size="14.5" fill="#123641" font-weight="700">chemoradiotherapy; hazard ratio 1.25 (95% confidence interval 0.75 to 2.07).</text>
+<rect x="102" y="1215" width="3" height="46" rx="1.5" fill="#B04A4A" opacity="0.7"/>
+<text x="114" y="1227" font-size="14.5" fill="#B04A4A" font-weight="700">Adding chemotherapy is a failed intervention in this setting: progression-free</text>
+<text x="114" y="1248" font-size="14.5" fill="#B04A4A" font-weight="700">survival was no better and acute toxicity was higher.</text>
+<rect x="102" y="1283" width="3" height="67" rx="1.5" fill="#527078" opacity="0.7"/>
+<text x="114" y="1295" font-size="14.5" fill="#527078">Guideline: for vaginal vault recurrence, pelvic external beam radiotherapy plus</text>
+<text x="114" y="1316" font-size="14.5" fill="#527078">intracavitary image-guided brachytherapy (IV, A); for superficial tumours,</text>
+<text x="114" y="1337" font-size="14.5" fill="#527078">intracavitary image-guided brachytherapy alone can be considered (IV, A).</text>
+<rect x="102" y="1372" width="3" height="46" rx="1.5" fill="#123641" opacity="0.7"/>
+<text x="114" y="1384" font-size="14.5" fill="#123641" font-weight="700">Single-centre series (Alban 2021, n=62, stage I to II, no previous adjuvant</text>
+<text x="114" y="1405" font-size="14.5" fill="#123641" font-weight="700">radiotherapy): vaginal control 82% and overall survival 61% at 5 years.</text>
+<rect x="102" y="1440" width="3" height="109" rx="1.5" fill="#B04A4A" opacity="0.7"/>
+<text x="114" y="1452" font-size="14.5" fill="#B04A4A" font-weight="700">In that same series, non-endometrioid histology carried a 12.5-fold risk of</text>
+<text x="114" y="1473" font-size="14.5" fill="#B04A4A" font-weight="700">recurrence; and in a Japanese salvage brachytherapy series of 43 women,</text>
+<text x="114" y="1494" font-size="14.5" fill="#B04A4A" font-weight="700">grade 1 to 2 against grade 3 at the original surgery gave 5-year overall survival</text>
+<text x="114" y="1515" font-size="14.5" fill="#B04A4A" font-weight="700">of 96% against 40% and progression-free survival of 58% against 0%. The 73%</text>
+<text x="114" y="1536" font-size="14.5" fill="#B04A4A" font-weight="700">belongs to that particular population and cannot be lent to anyone else.</text>
+<rect x="734.0" y="1007" width="622.0" height="474" rx="14" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="734" y="1007" width="622" height="42" rx="12" fill="#96790F"/>
+<text x="752" y="1037" font-size="17" fill="#FFFFFF" font-weight="800">Pelvic and lymph node recurrence</text>
+<text x="752" y="1073" font-size="14" fill="#527078" font-weight="700">Population label: the two entries below come from entirely different populations — a</text>
+<text x="752" y="1093" font-size="14" fill="#527078" font-weight="700">1990s randomised trial in stage I disease, and a European registry of surgery for</text>
+<text x="752" y="1113" font-size="14" fill="#527078" font-weight="700">gynaecological cancers across 20 centres.</text>
+<rect x="752.0" y="1147" width="3" height="88" rx="1.5" fill="#7A6E58" opacity="0.7"/>
+<text x="764" y="1159" font-size="14.5" fill="#7A6E58">PORTEC-1 (1990s, before image-guided brachytherapy — historical comparison</text>
+<text x="764" y="1180" font-size="14.5" fill="#7A6E58">only): survival 3 years after a pelvic recurrence was 8%, and the authors state</text>
+<text x="764" y="1201" font-size="14.5" fill="#7A6E58">plainly that survival did not differ between pelvic recurrence and distant</text>
+<text x="764" y="1222" font-size="14.5" fill="#7A6E58">metastasis.</text>
+<rect x="752.0" y="1257" width="3" height="88" rx="1.5" fill="#123641" opacity="0.7"/>
+<text x="764" y="1269" font-size="14.5" fill="#123641" font-weight="700">Pelvic exenteration is the heaviest option here: the COREPEX registry enrolled</text>
+<text x="764" y="1290" font-size="14.5" fill="#123641" font-weight="700">862 women with gynaecological cancers, including endometrial cancer, and 676</text>
+<text x="764" y="1311" font-size="14.5" fill="#123641" font-weight="700">(78.4%) had tumour-free margins; across four prognostic groups, 5-year</text>
+<text x="764" y="1332" font-size="14.5" fill="#123641" font-weight="700">disease-free survival ran from 43.7% down to 8.0%.</text>
+<rect x="752.0" y="1367" width="3" height="88" rx="1.5" fill="#B04A4A" opacity="0.7"/>
+<text x="764" y="1379" font-size="14.5" fill="#B04A4A" font-weight="700">The cost belongs in the same cell: severe early post-operative complications in</text>
+<text x="764" y="1400" font-size="14.5" fill="#B04A4A" font-weight="700">225 women (26.1%), death within 30 days in 27 (3.1%) and severe late</text>
+<text x="764" y="1421" font-size="14.5" fill="#B04A4A" font-weight="700">complications in 87 (10.1%). Which group you fall into is decided by whether the</text>
+<text x="764" y="1442" font-size="14.5" fill="#B04A4A" font-weight="700">margins can be clear and whether there is disease outside the pelvis.</text>
+<rect x="84" y="1597" width="622.0" height="496" rx="14" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="84" y="1597" width="622" height="42" rx="12" fill="#5C77C4"/>
+<text x="102" y="1627" font-size="17" fill="#FFFFFF" font-weight="800">An area that has already been irradiated</text>
+<text x="102" y="1663" font-size="14" fill="#527078" font-weight="700">Population label: the denominators for re-irradiation are all small, and both entries</text>
+<text x="102" y="1683" font-size="14" fill="#527078" font-weight="700">are single-centre series.</text>
+<rect x="102" y="1717" width="3" height="67" rx="1.5" fill="#7A6E58" opacity="0.7"/>
+<text x="114" y="1729" font-size="14.5" fill="#7A6E58">PORTEC-1 (1990s, before image-guided brachytherapy — historical comparison</text>
+<text x="114" y="1750" font-size="14.5" fill="#7A6E58">only): survival 3 years after a first recurrence was 51% in the control arm,</text>
+<text x="114" y="1771" font-size="14.5" fill="#7A6E58">which had not been irradiated, against 19% in the arm that had (P=0.004).</text>
+<rect x="102" y="1806" width="3" height="151" rx="1.5" fill="#527078" opacity="0.7"/>
+<text x="114" y="1818" font-size="14.5" fill="#527078">Guideline: after previous vaginal brachytherapy alone, an external beam</text>
+<text x="114" y="1839" font-size="14.5" fill="#527078">radiotherapy and image-guided brachytherapy boost is recommended (IV, C);</text>
+<text x="114" y="1860" font-size="14.5" fill="#527078">after previous external beam radiotherapy, the molecular subtype should be</text>
+<text x="114" y="1881" font-size="14.5" fill="#527078">weighed in the decision about surgery or systemic treatment, and radical</text>
+<text x="114" y="1902" font-size="14.5" fill="#527078">surgery is done only when clear margins, curative intent and acceptable</text>
+<text x="114" y="1923" font-size="14.5" fill="#527078">morbidity are all in place (IV, A); where surgery is not feasible, re-irradiation</text>
+<text x="114" y="1944" font-size="14.5" fill="#527078">may be considered in experienced centres (IV, C).</text>
+<rect x="102" y="1979" width="3" height="88" rx="1.5" fill="#123641" opacity="0.7"/>
+<text x="114" y="1991" font-size="14.5" fill="#123641" font-weight="700">Re-irradiation: 22 women in Pittsburgh, with 3-year local control of 65.8% and</text>
+<text x="114" y="2012" font-size="14.5" fill="#123641" font-weight="700">overall survival of 68.1% and no grade 3 or higher bowel or bladder toxicity; 32</text>
+<text x="114" y="2033" font-size="14.5" fill="#123641" font-weight="700">women in Boston, with vaginal control of 64% at 3 years and 56% at 5 years, and</text>
+<text x="114" y="2054" font-size="14.5" fill="#123641" font-weight="700">late grade 3 toxicity of 16% gastrointestinal, 13% urinary and 16% vaginal.</text>
+<rect x="734.0" y="1597" width="622.0" height="417" rx="14" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="734" y="1597" width="622" height="42" rx="12" fill="#7A6E58"/>
+<text x="752" y="1627" font-size="17" fill="#FFFFFF" font-weight="800">Distant metastasis and disseminated recurrence</text>
+<text x="752" y="1663" font-size="14" fill="#527078" font-weight="700">This cell carries no efficacy figures — how much each of the two routes achieves is</text>
+<text x="752" y="1683" font-size="14" fill="#527078" font-weight="700">set out in two other articles, and this figure only marks where they are.</text>
+<rect x="752.0" y="1717" width="3" height="67" rx="1.5" fill="#527078" opacity="0.7"/>
+<text x="764" y="1729" font-size="14.5" fill="#527078">The guideline defines oligometastatic disease as 1 to 5 lesions across no more</text>
+<text x="764" y="1750" font-size="14.5" fill="#527078">than 3 sites, for which surgery, radical radiotherapy including stereotactic</text>
+<text x="764" y="1771" font-size="14.5" fill="#527078">radiotherapy, or local ablation can be considered (IV, B).</text>
+<rect x="752.0" y="1806" width="3" height="88" rx="1.5" fill="#527078" opacity="0.7"/>
+<text x="764" y="1818" font-size="14.5" fill="#527078">First-line treatment of disseminated recurrence splits in two (both I, A): for</text>
+<text x="764" y="1839" font-size="14.5" fill="#527078">mismatch repair-deficient disease, chemotherapy with an immune checkpoint</text>
+<text x="764" y="1860" font-size="14.5" fill="#527078">inhibitor followed by maintenance; for the rest, where disease is progressing</text>
+<text x="764" y="1881" font-size="14.5" fill="#527078">quickly or causing symptoms, carboplatin and paclitaxel.</text>
+<line x1="752" y1="1922" x2="770.64" y2="1922" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="778,1922 770.7,1925.26 770.7,1918.74" fill="#5C77C4"/>
+<text x="788" y="1927" font-size="15" fill="#5C77C4" font-weight="800">&quot;Immunotherapy in endometrial cancer: who it actually works for&quot;</text>
+<line x1="752" y1="1969" x2="770.64" y2="1969" stroke="#5C77C4" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="778,1969 770.7,1972.26 770.7,1965.74" fill="#5C77C4"/>
+<text x="788" y="1974" font-size="15" fill="#5C77C4" font-weight="800">&quot;Adding chemotherapy: what it buys and what it costs&quot;</text>
+<text x="88" y="2119" font-size="14.5" fill="#7A6E58" font-weight="700">Everything marked as a historical comparison comes from PORTEC-1: a trial from the 1990s, before image-guided brachytherapy existed. It can serve as a historical comparison,</text>
+<text x="88" y="2140" font-size="14.5" fill="#7A6E58" font-weight="700">never as what to expect from treatment today.</text>
+<rect x="84" y="2177" width="1272" height="287" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="2207" font-size="18" fill="#B04A4A" font-weight="800">This figure has to block two readings at once</text>
+<rect x="733.0" y="2233" width="597.0" height="217" rx="14" fill="#FFFFFF"/>
+<rect x="110.0" y="2233" width="597.0" height="217" rx="14" fill="#FFFFFF"/>
+<text x="128" y="2263" font-size="16" fill="#B04A4A" font-weight="800">A recurrence is not the end stage</text>
+<text x="128" y="2292" font-size="15" fill="#345963">For a low-grade, endometrioid recurrence confined to the vagina in someone</text>
+<text x="128" y="2314" font-size="15" fill="#345963">who has not been irradiated before, the only randomised trial found 73% alive</text>
+<text x="128" y="2336" font-size="15" fill="#345963">and free of progression at 3 years — on radiotherapy alone, with the addition</text>
+<text x="128" y="2358" font-size="15" fill="#345963">of chemotherapy doing worse and costing more toxicity.</text>
+<text x="751" y="2263" font-size="16" fill="#B04A4A" font-weight="800">Nor can every recurrence be brought back</text>
+<text x="751" y="2292" font-size="15" fill="#345963">Survival 3 years after a pelvic recurrence was 8%, and 19% for those</text>
+<text x="751" y="2314" font-size="15" fill="#345963">already irradiated against 51% for those not (both historical comparisons);</text>
+<text x="751" y="2336" font-size="15" fill="#345963">non-endometrioid histology carried a 12.5-fold risk of recurrence and grade</text>
+<text x="751" y="2358" font-size="15" fill="#345963">3 disease at the original surgery gave 0% progression-free survival at 5</text>
+<text x="751" y="2380" font-size="15" fill="#345963">years; and pelvic exenteration carries a 3.1% risk of death within 30 days.</text>
+<text x="751" y="2402" font-size="15" fill="#345963">Every cell has its own denominator, and they cannot be borrowed from one</text>
+<text x="751" y="2424" font-size="15" fill="#345963">another.</text>
+<text x="84" y="2488" font-size="16" fill="#527078">Schematic, redrawn from Rios-Doria 2023, Klopp 2024 (GOG-0238), Creutzberg 2003 (PORTEC-1, as a historical comparison), Alban 2021, Baek 2016, Ling 2019,</text>
+<text x="84" y="2512" font-size="16" fill="#527078">Lee 2022, the Bizzarri COREPEX reports and the ESGO-ESTRO-ESP 2025 guideline rather than reproduced from their figures; the cohorts, designs and endpoints</text>
+<text x="84" y="2536" font-size="16" fill="#527078">of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

@@ -1,0 +1,305 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="5406" viewBox="0 0 620 5406" role="img" aria-labelledby="t d">
+  <title id="t">分子分型與輔助治療的方向：四型、PORTEC-4a 已讀出、RAINBO 四臂進行中</title>
+  <desc id="d">示意圖：分子分型把輔助治療往哪個方向推，並強調方向不等於強度。上半部是 PORTEC-3 的四型（10 年分子分析，411／660 人可分析，高風險族群，FIGO 2009 版），整區標著「全部是事後分析」。四格由左到右：POLE 突變（n=51），10 年整體存活 98.0%（94.3 到 100.0）；化放療 100.0% 對單純放療 96.4%，原文以 log-rank 比較 p 等於 0.40，未報告這一格的風險比；方向標「降階」，作者結論是不分期別、基於極好的無復發存活，POLE 突變應建議降階並以試驗情境為優先。MMRd（錯配修復缺損，n=139），10 年整體存活 71.7%（64.2 到 80.0）；化放療 68.7% 對單純放療 74.4%，校正後風險比 1.34、95% 信賴區間 0.71 到 2.55、p 等於 0.37，圖上這條信賴區間橫跨虛線 1；這一格標「方向不利、不顯著、n 小」，並寫明三個標籤缺一不可，既不可以讀成加化療也有好處，也不可以反過來讀成不用化療。NSMP（無特殊分子輪廓，n=122），10 年整體存活 77.9%（70.7 到 85.8）；化放療 81.2% 對單純放療 74.1%，校正後風險比 0.60（0.27 到 1.32），p 等於 0.21，信賴區間同樣跨過 1，標「不顯著」；作者指出 ER 陽性的腫瘤化療益處可能較小，荷爾蒙治療可能是替代選項。p53 異常（n=99），10 年整體存活 45.1%（36.2 到 56.1）；化放療 52.7% 對單純放療 36.6%，校正後風險比 0.52（0.30 到 0.91），p 等於 0.021，信賴區間沒有跨過 1，方向標「升階」，同時掛著「事後分析」的標籤；10 年無復發存活 52.6% 對 37.0%，校正後風險比 0.42（0.24 到 0.74），p 等於 0.0027。中間一區是 PORTEC-4a，標著「已讀出」與「非劣性」兩個標籤：n=564 可評估（分子輪廓組 367／標準組 197），早期高中度風險，8 個歐洲國家，中位年齡 69.0 歲，中位追蹤 58.1 個月，2:1 隨機分派。分子輪廓組 367 人畫成一條比例橫條，分三格：favourable 168 人（46%）觀察、完全不做輔助治療；intermediate 148 人（40%）陰道近接治療 21 Gy 分 3 次；unfavourable 51 人（14%）骨盆腔放療 45.0 到 48.6 Gy。主要終點是 5 年陰道復發的累積發生率：分子輪廓組 4.5%（2.23 到 6.76）對標準組 1.6%（0.00 到 3.32），風險比 2.71（0.79 到 9.34）；差值的單側信賴區間上界 5.3 個百分點低於預設的非劣性邊界 7.0 個百分點，非劣性 p 等於 0.005，圖上畫成一把尺，上界落在邊界之內，並註明非劣性證明的是沒有差到超過事先講好的那條線，不是一樣好。favourable 亞組（第二個主要分析）是 5 年陰道復發 4.1%（0.81 到 7.37）對 0.9%（0.00 到 2.78），風險比 3.97（0.48 到 32.95）：點估計是四倍，只是分母小、區間寬到幾乎沒有資訊量才落在邊界內。這一區另有一個星號方塊：favourable 不等於 POLE 突變——PORTEC-4a 的 favourable 定義是「POLE 突變 或 NSMP 且 CTNNB1 野生型」，整個風險輪廓還把 L1CAM 過度表現與 substantial LVSI（顯著的淋巴血管腔侵犯）算進去，把它讀成 POLE 突變就不用做是錯的。安全性方面不良事件以第 1 到 2 級為主，第 3 級以上泌尿生殖道毒性 4／367（1%）對 4／197（2%）。再下面一區是 RAINBO 的四個顏色，每一列都掛「進行中」的標籤：p53abn-RED，p53 異常，輔助化放療後接續 olaparib 兩年對單純化放療，預計 554 人、第三期；MMRd-GREEN，MMRd，放療加上同步與輔助 durvalumab 一年對單純放療，預計 316 人、第三期；NSMP-ORANGE，ER 陽性的 NSMP，降階：放療後接續黃體素兩年對化放療，預計 600 人、第三期；POLEmut-BLUE，POLE 突變，降階：不做輔助治療，較高風險者不做或單純放療，預計 145 人、第二期。旁邊是一條時程軸，標題寫「時程：2030 年前後」：2028 年 12 月 RAINBO BLUE &amp; TAPER（NCT05640999，393 人）主要完成；2030 年 1 月 RAINBO 傘式試驗（NCT05255653，估計 1,615 人）主要完成；2030 年 6 月 RAINBO-RED（NCT06712472，554 人）主要完成。註記寫著方案論文當年預計主要結果自 2028 年起，註冊資料上的時程比較晚，所以今年做決定的人用的還是那些事後分析與一個非劣性試驗。圖的最下面是一個金框方塊：大多數早期病人，這件事不會改掉治療。一份前瞻的真實世界研究把分子分型放進多專科團隊會議，122 位手術後、FIGO 2023 版第 1 到 2 期的病人裡，只有 25 例（20.5%）的建議改變，升階 15 例（12.3%）、降階 10 例（8.2%）；改變集中在 TP53 異常那一群（62.5%，其餘亞群 10.2%），NSMP 與 POLE 突變沒有任何一例治療改變；這是單一機構、印度、122 人、只涵蓋第 1 到 2 期的研究，證據等級不高。方塊最後寫著：這張圖畫的是方向，不是強度，而且每一格的證據等級不一樣——PORTEC-3 的分子比較是事後分析，PORTEC-4a 證明的是非劣性，RAINBO 還沒有結果；要不要加、要不要減，是你跟婦癌科、放射腫瘤科與腫瘤內科一起討論的內容。另註：多重分類者少於 5%，依 POLE 突變、MMRd、p53 異常的順序歸類。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="5406" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">MOLECULAR PROFILE AND THE DIRECTION OF</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">ADJUVANT TREATMENT</text>
+<text x="40" y="142" font-size="40" fill="#123641" font-weight="800" class="r">分子分型把治療往哪個方向推</text>
+<text x="40" y="192.4" font-size="40" fill="#123641" font-weight="800" class="r">——方向不等於強度</text>
+<text x="40" y="252.8" font-size="19" fill="#527078">四型的方向來自 PORTEC-3 的 10 年分子分析（411／660 人可</text>
+<text x="40" y="281.3" font-size="19" fill="#527078">分析，高風險族群，FIGO 2009 版）。這是事後分析：隨機分派</text>
+<text x="40" y="309.8" font-size="19" fill="#527078">當時並沒有依分子分型分組。</text>
+<text x="40" y="342.3" font-size="19" fill="#527078">下面兩區分開放：已經讀出來的（PORTEC-4a），和還在收案</text>
+<text x="40" y="370.8" font-size="19" fill="#527078">的（RAINBO 四臂）。</text>
+<text x="40" y="440.3" font-size="21" fill="#8F7418" font-weight="800">PORTEC-3 的四型：10 年整體存活，以及化放療對單純</text>
+<text x="40" y="469.3" font-size="21" fill="#8F7418" font-weight="800">放療</text>
+<rect x="40" y="504.3" width="114.5" height="24" rx="12" fill="#ECE8DE"/>
+<text x="50" y="521.16" font-size="13.5" fill="#345963" font-weight="800">全部是事後分析</text>
+<text x="40" y="552.3" font-size="14" fill="#527078">括號內為 95% 信賴區間。虛線是 1：信賴區間跨過 1，代表這個試驗看不出方向。</text>
+<g filter="url(#sh)">
+<rect x="40" y="587.3" width="540" height="451.95" rx="18" fill="#FFFFFF"/>
+<path d="M 40 605.3 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="62" y="625.8" font-size="17" fill="#123641" font-weight="800">POLE 突變</text>
+<text x="62" y="662.75" font-size="14" fill="#527078" font-weight="700">n=51</text>
+<text x="62" y="689.25" font-size="12.5" fill="#527078">10 年整體存活（全體）</text>
+<text x="62" y="724.75" font-size="30" fill="#00806B" font-weight="800">98.0%</text>
+<text x="62" y="740.75" font-size="12" fill="#527078">（94.3 到 100.0）</text>
+<line x1="62" y1="750.75" x2="558" y2="750.75" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="62" y="777.25" font-size="12.5" fill="#527078">10 年整體存活：化放療 對 單純放療</text>
+<text x="62" y="820.25" font-size="20" fill="#123641" font-weight="800">100.0%</text>
+<text x="558" y="820.25" font-size="12" fill="#527078" text-anchor="end">化放療</text>
+<text x="62" y="844.25" font-size="20" fill="#527078" font-weight="800">96.4%</text>
+<text x="558" y="844.25" font-size="12" fill="#527078" text-anchor="end">單純放療</text>
+<rect x="62" y="854.25" width="496" height="34" rx="8" fill="#ECE8DE"/>
+<text x="310" y="876.25" font-size="18" fill="#527078" font-weight="800" text-anchor="middle">—</text>
+<text x="62" y="908.75" font-size="12.5" fill="#345963" font-weight="600">原文以 log-rank 比較，p＝0.40；未報告這一格的風險比。</text>
+<rect x="62" y="936.75" width="87.5" height="24" rx="12" fill="#00806B"/>
+<text x="72" y="953.61" font-size="13.5" fill="#FFFFFF" font-weight="800">方向：降階</text>
+<text x="62" y="981.25" font-size="12.5" fill="#527078">作者的結論句：不分期別，基於極好的無復發存活，POLE 突變的病人「應建議降階」，</text>
+<text x="62" y="999.25" font-size="12.5" fill="#527078">並以放在臨床試驗情境裡進行為優先。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1057.25" width="540" height="463.95" rx="18" fill="#FFFFFF"/>
+<path d="M 40 1075.25 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="62" y="1095.75" font-size="17" fill="#123641" font-weight="800">MMRd（錯配修復缺損）</text>
+<text x="62" y="1132.7" font-size="14" fill="#527078" font-weight="700">n=139</text>
+<text x="62" y="1159.2" font-size="12.5" fill="#527078">10 年整體存活（全體）</text>
+<text x="62" y="1194.7" font-size="30" fill="#5C77C4" font-weight="800">71.7%</text>
+<text x="62" y="1210.7" font-size="12" fill="#527078">（64.2 到 80.0）</text>
+<line x1="62" y1="1220.7" x2="558" y2="1220.7" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="62" y="1247.2" font-size="12.5" fill="#527078">10 年整體存活：化放療 對 單純放療</text>
+<text x="62" y="1290.2" font-size="20" fill="#123641" font-weight="800">68.7%</text>
+<text x="558" y="1290.2" font-size="12" fill="#527078" text-anchor="end">化放療</text>
+<text x="62" y="1314.2" font-size="20" fill="#527078" font-weight="800">74.4%</text>
+<text x="558" y="1314.2" font-size="12" fill="#527078" text-anchor="end">單純放療</text>
+<line x1="62" y1="1339.2" x2="558" y2="1339.2" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="98.95" y1="1334.2" x2="98.95" y2="1344.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="98.95" y="1369.2" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="213.71" y1="1334.2" x2="213.71" y2="1344.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="213.71" y="1369.2" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="328.47" y1="1334.2" x2="328.47" y2="1344.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="328.47" y="1369.2" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="443.24" y1="1334.2" x2="443.24" y2="1344.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="443.24" y="1369.2" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="558" y1="1334.2" x2="558" y2="1344.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="558" y="1369.2" font-size="12" fill="#527078" text-anchor="middle">4</text>
+<line x1="328.47" y1="1320.2" x2="328.47" y2="1358.2" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="271.77" y1="1339.2" x2="483.46" y2="1339.2" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="271.77" y1="1331.2" x2="271.77" y2="1347.2" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="483.46" y1="1331.2" x2="483.46" y2="1347.2" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="376.93" cy="1339.2" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="62" y="1390.7" font-size="12.5" fill="#345963" font-weight="600">校正後風險比 1.34（0.71 到 2.55），p＝0.37。</text>
+<rect x="62" y="1418.7" width="166.47" height="24" rx="12" fill="#B04A4A"/>
+<text x="72" y="1435.56" font-size="13.5" fill="#FFFFFF" font-weight="800">方向不利、不顯著、n 小</text>
+<text x="62" y="1463.2" font-size="12.5" fill="#527078">三個標籤缺一不可：點估計的方向是不利的、統計上不顯著、人數只有 139。所以既不可</text>
+<text x="62" y="1481.2" font-size="12.5" fill="#527078">以讀成「加化療也有好處」，也不可以反過來讀成「不用化療」。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1539.2" width="540" height="463.95" rx="18" fill="#FFFFFF"/>
+<path d="M 40 1557.2 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="62" y="1577.7" font-size="17" fill="#123641" font-weight="800">NSMP（無特殊分子輪廓）</text>
+<text x="62" y="1614.65" font-size="14" fill="#527078" font-weight="700">n=122</text>
+<text x="62" y="1641.15" font-size="12.5" fill="#527078">10 年整體存活（全體）</text>
+<text x="62" y="1676.65" font-size="30" fill="#96790F" font-weight="800">77.9%</text>
+<text x="62" y="1692.65" font-size="12" fill="#527078">（70.7 到 85.8）</text>
+<line x1="62" y1="1702.65" x2="558" y2="1702.65" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="62" y="1729.15" font-size="12.5" fill="#527078">10 年整體存活：化放療 對 單純放療</text>
+<text x="62" y="1772.15" font-size="20" fill="#123641" font-weight="800">81.2%</text>
+<text x="558" y="1772.15" font-size="12" fill="#527078" text-anchor="end">化放療</text>
+<text x="62" y="1796.15" font-size="20" fill="#527078" font-weight="800">74.1%</text>
+<text x="558" y="1796.15" font-size="12" fill="#527078" text-anchor="end">單純放療</text>
+<line x1="62" y1="1821.15" x2="558" y2="1821.15" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="98.95" y1="1816.15" x2="98.95" y2="1826.15" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="98.95" y="1851.15" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="213.71" y1="1816.15" x2="213.71" y2="1826.15" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="213.71" y="1851.15" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="328.47" y1="1816.15" x2="328.47" y2="1826.15" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="328.47" y="1851.15" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="443.24" y1="1816.15" x2="443.24" y2="1826.15" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="443.24" y="1851.15" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="558" y1="1816.15" x2="558" y2="1826.15" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="558" y="1851.15" font-size="12" fill="#527078" text-anchor="middle">4</text>
+<line x1="328.47" y1="1802.15" x2="328.47" y2="1840.15" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="111.69" y1="1821.15" x2="374.44" y2="1821.15" stroke="#96790F" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="111.69" y1="1813.15" x2="111.69" y2="1829.15" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<line x1="374.44" y1="1813.15" x2="374.44" y2="1829.15" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<circle cx="243.9" cy="1821.15" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="62" y="1872.65" font-size="12.5" fill="#345963" font-weight="600">校正後風險比 0.60（0.27 到 1.32），p＝0.21。</text>
+<rect x="62" y="1900.65" width="60.5" height="24" rx="12" fill="#7A6E58"/>
+<text x="72" y="1917.51" font-size="13.5" fill="#FFFFFF" font-weight="800">不顯著</text>
+<text x="62" y="1945.15" font-size="12.5" fill="#527078">信賴區間跨過 1。作者另指出：ER 陽性的腫瘤，化療的益處可能比原先假設的小，荷爾蒙</text>
+<text x="62" y="1963.15" font-size="12.5" fill="#527078">治療可能是相關的替代選項，還需要進一步研究。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2021.15" width="540" height="495.95" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2039.15 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="62" y="2059.65" font-size="17" fill="#123641" font-weight="800">p53 異常</text>
+<text x="62" y="2096.6" font-size="14" fill="#527078" font-weight="700">n=99</text>
+<text x="62" y="2123.1" font-size="12.5" fill="#527078">10 年整體存活（全體）</text>
+<text x="62" y="2158.6" font-size="30" fill="#B04A4A" font-weight="800">45.1%</text>
+<text x="62" y="2174.6" font-size="12" fill="#527078">（36.2 到 56.1）</text>
+<line x1="62" y1="2184.6" x2="558" y2="2184.6" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="62" y="2211.1" font-size="12.5" fill="#527078">10 年整體存活：化放療 對 單純放療</text>
+<text x="62" y="2254.1" font-size="20" fill="#123641" font-weight="800">52.7%</text>
+<text x="558" y="2254.1" font-size="12" fill="#527078" text-anchor="end">化放療</text>
+<text x="62" y="2278.1" font-size="20" fill="#527078" font-weight="800">36.6%</text>
+<text x="558" y="2278.1" font-size="12" fill="#527078" text-anchor="end">單純放療</text>
+<line x1="62" y1="2303.1" x2="558" y2="2303.1" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="98.95" y1="2298.1" x2="98.95" y2="2308.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="98.95" y="2333.1" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="213.71" y1="2298.1" x2="213.71" y2="2308.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="213.71" y="2333.1" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="328.47" y1="2298.1" x2="328.47" y2="2308.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="328.47" y="2333.1" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="443.24" y1="2298.1" x2="443.24" y2="2308.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="443.24" y="2333.1" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="558" y1="2298.1" x2="558" y2="2308.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="558" y="2333.1" font-size="12" fill="#527078" text-anchor="middle">4</text>
+<line x1="328.47" y1="2284.1" x2="328.47" y2="2322.1" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="129.13" y1="2303.1" x2="312.86" y2="2303.1" stroke="#B04A4A" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="129.13" y1="2295.1" x2="129.13" y2="2311.1" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<line x1="312.86" y1="2295.1" x2="312.86" y2="2311.1" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="220.2" cy="2303.1" r="7.5" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="62" y="2354.6" font-size="12.5" fill="#345963" font-weight="600">校正後風險比 0.52（0.30 到 0.91），p＝0.021。</text>
+<rect x="62" y="2382.6" width="87.5" height="24" rx="12" fill="#B04A4A"/>
+<text x="72" y="2399.46" font-size="13.5" fill="#FFFFFF" font-weight="800">方向：升階</text>
+<rect x="62" y="2414.6" width="74" height="24" rx="12" fill="#F3E8CD"/>
+<text x="72" y="2431.46" font-size="13.5" fill="#8F7418" font-weight="800">事後分析</text>
+<text x="62" y="2459.1" font-size="12.5" fill="#527078">這是這個領域裡最強的升階訊號，但它是事後分析：隨機分派當時並沒有依分子分型分組。</text>
+<text x="62" y="2477.1" font-size="12.5" fill="#527078">10 年無復發存活是 52.6% 對 37.0%，校正後風險比 0.42（0.24 到 0.74），p＝0.0027。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2547.1" width="540" height="1360.7" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2565.1 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="66" y="2591.1" font-size="18" fill="#123641" font-weight="800">PORTEC-4a：第一個依分子輪廓分派輔助治療的隨機第三期</text>
+<text x="66" y="2616.3" font-size="18" fill="#123641" font-weight="800">試驗</text>
+<rect x="66" y="2647.5" width="60.5" height="24" rx="12" fill="#00806B"/>
+<text x="76" y="2664.36" font-size="13.5" fill="#FFFFFF" font-weight="800">已讀出</text>
+<rect x="136.5" y="2647.5" width="60.5" height="24" rx="12" fill="#C9A83E"/>
+<text x="146.5" y="2664.36" font-size="13.5" fill="#123641" font-weight="800">非劣性</text>
+<text x="66" y="2697.5" font-size="14" fill="#527078">n=564 可評估（分子輪廓組 367／標準組 197），早期高中度風險，8 個歐洲</text>
+<text x="66" y="2718.5" font-size="14" fill="#527078">國家，中位年齡 69.0 歲，中位追蹤 58.1 個月，2:1 隨機分派。</text>
+<text x="66" y="2771" font-size="15.5" fill="#123641" font-weight="800">分子輪廓組的三格（367 人）</text>
+<rect x="66" y="2800.7" width="221.48" height="34" rx="6" fill="#00806B"/>
+<text x="77" y="2823.7" font-size="13.5" fill="#FFFFFF" font-weight="800">favourable</text>
+<rect x="290.48" y="2800.7" width="192.2" height="34" rx="6" fill="#5C77C4"/>
+<text x="301.48" y="2823.7" font-size="13.5" fill="#FFFFFF" font-weight="800">intermediate</text>
+<rect x="485.68" y="2800.7" width="65.32" height="34" rx="6" fill="#96790F"/>
+<rect x="66" y="2846.7" width="10" height="10" rx="2" fill="#00806B"/>
+<text x="84" y="2858.7" font-size="14" fill="#123641" font-weight="800">favourable　168 人（46%）</text>
+<text x="84" y="2878.7" font-size="14" fill="#345963">觀察：完全不做輔助治療</text>
+<rect x="66" y="2909" width="10" height="10" rx="2" fill="#5C77C4"/>
+<text x="84" y="2921" font-size="14" fill="#123641" font-weight="800">intermediate　148 人（40%）</text>
+<text x="84" y="2941" font-size="14" fill="#345963">陰道近接治療 21 Gy 分 3 次</text>
+<rect x="66" y="2971.3" width="10" height="10" rx="2" fill="#96790F"/>
+<text x="84" y="2983.3" font-size="14" fill="#123641" font-weight="800">unfavourable　51 人（14%）</text>
+<text x="84" y="3003.3" font-size="14" fill="#345963">骨盆腔放療 45.0 到 48.6 Gy</text>
+<line x1="66" y1="3039.6" x2="554" y2="3039.6" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="66" y="3073.1" font-size="15.5" fill="#123641" font-weight="800">主要終點：5 年陰道復發的累積發生率</text>
+<text x="66" y="3120.8" font-size="14" fill="#527078" font-weight="700">分子輪廓組</text>
+<rect x="216" y="3102.8" width="250" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="216" y="3102.8" width="112.5" height="26" rx="7" fill="#96790F"/>
+<text x="478" y="3123.36" font-size="21" fill="#96790F" font-weight="800">4.5%</text>
+<text x="66" y="3154.8" font-size="14" fill="#527078" font-weight="700">標準陰道近接治療組</text>
+<rect x="216" y="3136.8" width="250" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="216" y="3136.8" width="40" height="26" rx="7" fill="#5C77C4"/>
+<text x="478" y="3157.36" font-size="21" fill="#5C77C4" font-weight="800">1.6%</text>
+<line x1="216" y1="3166.8" x2="466" y2="3166.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="216" y1="3166.8" x2="216" y2="3172.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="216" y="3188.8" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="266" y1="3166.8" x2="266" y2="3172.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="266" y="3188.8" font-size="12.5" fill="#527078" text-anchor="middle">2</text>
+<line x1="316" y1="3166.8" x2="316" y2="3172.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="316" y="3188.8" font-size="12.5" fill="#527078" text-anchor="middle">4</text>
+<line x1="366" y1="3166.8" x2="366" y2="3172.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="366" y="3188.8" font-size="12.5" fill="#527078" text-anchor="middle">6</text>
+<line x1="416" y1="3166.8" x2="416" y2="3172.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="416" y="3188.8" font-size="12.5" fill="#527078" text-anchor="middle">8</text>
+<line x1="466" y1="3166.8" x2="466" y2="3172.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="466" y="3188.8" font-size="12.5" fill="#527078" text-anchor="middle">10%</text>
+<text x="66" y="3210.8" font-size="14" fill="#345963">分子輪廓組 4.5%（2.23 到 6.76）對標準組 1.6%（0.00 到 3.32），風險比</text>
+<text x="66" y="3231.8" font-size="14" fill="#345963">2.71（0.79 到 9.34）。</text>
+<rect x="72" y="3266.8" width="370.22" height="30" rx="8" fill="#D8EDE7"/>
+<rect x="442.22" y="3266.8" width="105.78" height="30" rx="8" fill="#F6E2E0"/>
+<line x1="442.22" y1="3256.8" x2="442.22" y2="3306.8" stroke="#B04A4A" stroke-width="2.4" stroke-linecap="butt" stroke-dasharray="5 4"/>
+<line x1="72" y1="3296.8" x2="548" y2="3296.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="72" y1="3296.8" x2="72" y2="3302.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="72" y="3318.8" font-size="12" fill="#527078" text-anchor="middle">0</text>
+<line x1="177.78" y1="3296.8" x2="177.78" y2="3302.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="177.78" y="3318.8" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="283.56" y1="3296.8" x2="283.56" y2="3302.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="283.56" y="3318.8" font-size="12" fill="#527078" text-anchor="middle">4</text>
+<line x1="389.33" y1="3296.8" x2="389.33" y2="3302.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="389.33" y="3318.8" font-size="12" fill="#527078" text-anchor="middle">6</text>
+<line x1="495.11" y1="3296.8" x2="495.11" y2="3302.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="495.11" y="3318.8" font-size="12" fill="#527078" text-anchor="middle">8</text>
+<line x1="352.31" y1="3262.8" x2="352.31" y2="3300.8" stroke="#96790F" stroke-width="3" stroke-linecap="butt"/>
+<polygon points="352.31,3258.8 346.31,3248.8 358.31,3248.8" fill="#96790F"/>
+<text x="72" y="3340.8" font-size="12" fill="#527078">陰道復發率差值（百分點）</text>
+<text x="66" y="3362.8" font-size="14" fill="#96790F" font-weight="800">單側上界 5.3 個百分點</text>
+<text x="66" y="3385.1" font-size="14" fill="#B04A4A" font-weight="800">非劣性邊界 7.0 個百分點</text>
+<text x="66" y="3423.4" font-size="14" fill="#527078">差值的單側信賴區間上界 5.3%，低於預設的非劣性邊界 7.0%，非劣性 p＝</text>
+<text x="66" y="3444.4" font-size="14" fill="#527078">0.005。</text>
+<text x="66" y="3485.4" font-size="14" fill="#8F7418" font-weight="700">非劣性證明的是「沒有差到超過事先講好的那條線」，不是「一樣好」。</text>
+<text x="66" y="3543.9" font-size="15.5" fill="#123641" font-weight="800">favourable 亞組（第二個主要分析）</text>
+<text x="66" y="3587.6" font-size="14" fill="#345963">5 年陰道復發 4.1%（0.81 到 7.37）對 0.9%（0.00 到 2.78），風險比 3.97（</text>
+<text x="66" y="3608.6" font-size="14" fill="#345963">0.48 到 32.95）：點估計是四倍，只是分母小、區間寬到幾乎沒有資訊量，才</text>
+<text x="66" y="3629.6" font-size="14" fill="#345963">落在邊界內。</text>
+<rect x="66" y="3666.6" width="488" height="147.2" rx="14" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="84" y="3700.1" font-size="15.5" fill="#B04A4A" font-weight="800">★ favourable ≠ POLE 突變</text>
+<text x="84" y="3725.8" font-size="14" fill="#345963">PORTEC-4a 的 favourable 定義是「POLE 突變 或 NSMP 且 CTNNB1</text>
+<text x="84" y="3746.8" font-size="14" fill="#345963">野生型」；整個風險輪廓還把 L1CAM 過度表現與 substantial LVSI（</text>
+<text x="84" y="3767.8" font-size="14" fill="#345963">顯著的淋巴血管腔侵犯）算進去。把它讀成「POLE 突變就不用做」是錯</text>
+<text x="84" y="3788.8" font-size="14" fill="#345963">的。</text>
+<text x="66" y="3839.8" font-size="14" fill="#527078">不良事件以第 1 到 2 級為主；第 3 級以上泌尿生殖道毒性 4／367（1%）對 4</text>
+<text x="66" y="3860.8" font-size="14" fill="#527078">／197（2%）。</text>
+<g filter="url(#sh)">
+<rect x="40" y="3937.8" width="540" height="857.1" rx="18" fill="#FFFFFF"/>
+<path d="M 40 3955.8 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="66" y="3981.8" font-size="18" fill="#123641" font-weight="800">RAINBO 的四個顏色：全部還在收案</text>
+<rect x="66" y="4019" width="6" height="58" rx="3" fill="#B04A4A"/>
+<text x="84" y="4034.5" font-size="15.5" fill="#B04A4A" font-weight="800">p53abn-RED</text>
+<rect x="186.67" y="4013" width="55.5" height="22" rx="11" fill="#F3E8CD"/>
+<text x="195.67" y="4028.5" font-size="12.5" fill="#8F7418" font-weight="800">進行中</text>
+<text x="84" y="4054.5" font-size="12.5" fill="#527078" font-weight="700">p53 異常</text>
+<text x="84" y="4074.5" font-size="14" fill="#345963">輔助化放療後接續 olaparib 2 年 對 單純化放療</text>
+<text x="84" y="4096.8" font-size="12.5" fill="#527078">預計 554 人・第三期</text>
+<rect x="66" y="4128.8" width="6" height="58" rx="3" fill="#00806B"/>
+<text x="84" y="4144.3" font-size="15.5" fill="#00806B" font-weight="800">MMRd-GREEN</text>
+<rect x="202.17" y="4122.8" width="55.5" height="22" rx="11" fill="#F3E8CD"/>
+<text x="211.17" y="4138.3" font-size="12.5" fill="#8F7418" font-weight="800">進行中</text>
+<text x="84" y="4164.3" font-size="12.5" fill="#527078" font-weight="700">MMRd</text>
+<text x="84" y="4184.3" font-size="14" fill="#345963">放療＋同步與輔助 durvalumab 1 年 對 單純放療</text>
+<text x="84" y="4206.6" font-size="12.5" fill="#527078">預計 316 人・第三期</text>
+<rect x="66" y="4238.6" width="6" height="58" rx="3" fill="#96790F"/>
+<text x="84" y="4254.1" font-size="15.5" fill="#96790F" font-weight="800">NSMP-ORANGE</text>
+<rect x="211.47" y="4232.6" width="55.5" height="22" rx="11" fill="#F3E8CD"/>
+<text x="220.47" y="4248.1" font-size="12.5" fill="#8F7418" font-weight="800">進行中</text>
+<text x="84" y="4274.1" font-size="12.5" fill="#527078" font-weight="700">NSMP（ER 陽性）</text>
+<text x="84" y="4294.1" font-size="14" fill="#345963">降階：放療後接續黃體素 2 年 對 化放療</text>
+<text x="84" y="4316.4" font-size="12.5" fill="#527078">預計 600 人・第三期</text>
+<rect x="66" y="4348.4" width="6" height="58" rx="3" fill="#5C77C4"/>
+<text x="84" y="4363.9" font-size="15.5" fill="#5C77C4" font-weight="800">POLEmut-BLUE</text>
+<rect x="214.88" y="4342.4" width="55.5" height="22" rx="11" fill="#F3E8CD"/>
+<text x="223.88" y="4357.9" font-size="12.5" fill="#8F7418" font-weight="800">進行中</text>
+<text x="84" y="4383.9" font-size="12.5" fill="#527078" font-weight="700">POLE 突變</text>
+<text x="84" y="4403.9" font-size="14" fill="#345963">降階：不做輔助治療（較高風險者不做或單純放療）</text>
+<text x="84" y="4426.2" font-size="12.5" fill="#527078">預計 145 人・第二期</text>
+<rect x="66" y="4464.2" width="488" height="304.7" rx="14" fill="#F3E8CD"/>
+<text x="84" y="4497.7" font-size="15.5" fill="#8F7418" font-weight="800">時程：2030 年前後</text>
+<circle cx="90" cy="4533.4" r="5.5" fill="#C9A83E"/>
+<text x="104" y="4541.4" font-size="14" fill="#123641" font-weight="800">2028 年 12 月</text>
+<text x="104" y="4559.9" font-size="12.5" fill="#527078">RAINBO BLUE &amp; TAPER（NCT05640999，393 人）主要完成</text>
+<circle cx="90" cy="4593.9" r="5.5" fill="#C9A83E"/>
+<text x="104" y="4601.9" font-size="14" fill="#123641" font-weight="800">2030 年 1 月</text>
+<text x="104" y="4620.4" font-size="12.5" fill="#527078">RAINBO 傘式試驗（NCT05255653，估計 1,615 人）主要完成</text>
+<circle cx="90" cy="4654.4" r="5.5" fill="#C9A83E"/>
+<text x="104" y="4662.4" font-size="14" fill="#123641" font-weight="800">2030 年 6 月</text>
+<text x="104" y="4680.9" font-size="12.5" fill="#527078">RAINBO-RED（NCT06712472，554 人）主要完成</text>
+<text x="84" y="4722.9" font-size="14" fill="#345963">方案論文當年寫「主要結果預計自 2028 年起」，註冊資料上的時程比較</text>
+<text x="84" y="4743.9" font-size="14" fill="#345963">晚。所以今年做決定的人，用的還是上面那些事後分析與一個非劣性試驗。</text>
+<rect x="40" y="4824.9" width="540" height="407.95" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="4868.9" font-size="18" fill="#8F7418" font-weight="800">大多數早期病人，這件事不會改掉你的治療</text>
+<text x="66" y="4900.1" font-size="15.5" fill="#345963">一份前瞻的真實世界研究把分子分型放進多專科團隊會議：122 位手術</text>
+<text x="66" y="4924.12" font-size="15.5" fill="#345963">後、FIGO 2023 版第 1 到 2 期的病人，只有 25 例（20.5%）的建議改</text>
+<text x="66" y="4948.15" font-size="15.5" fill="#345963">變——升階 15 例（12.3%）、降階 10 例（8.2%）；改變集中在 TP53 異</text>
+<text x="66" y="4972.17" font-size="15.5" fill="#345963">常那一群（62.5%，其餘亞群 10.2%），NSMP 與 POLE 突變沒有任何</text>
+<text x="66" y="4996.2" font-size="15.5" fill="#345963">一例治療改變。這是單一機構、印度、122 人、只涵蓋第 1 到 2 期的研</text>
+<text x="66" y="5020.22" font-size="15.5" fill="#345963">究，證據等級不高，方向要記、數字不必記。</text>
+<text x="66" y="5066.25" font-size="14" fill="#527078">多重分類者少於 5%，依 POLE 突變 大於 MMRd 大於 p53 異常 的順序歸類。</text>
+<text x="66" y="5114.75" font-size="15.5" fill="#B04A4A" font-weight="700">這張圖畫的是方向，不是強度，而且每一格的證據等級不一樣：</text>
+<text x="66" y="5138.77" font-size="15.5" fill="#B04A4A" font-weight="700">PORTEC-3 的分子比較是事後分析，PORTEC-4a 證明的是非劣性，</text>
+<text x="66" y="5162.8" font-size="15.5" fill="#B04A4A" font-weight="700">RAINBO 還沒有結果。要不要加、要不要減，是你跟婦癌科、放射腫瘤</text>
+<text x="66" y="5186.82" font-size="15.5" fill="#B04A4A" font-weight="700">科與腫瘤內科一起討論的內容。</text>
+<text x="40" y="5256.85" font-size="15" fill="#527078">示意圖，依 PORTEC-3 的 10 年結果與分子事後分析（Post 2025）、</text>
+<text x="40" y="5279.35" font-size="15" fill="#527078">PORTEC-4a（van den Heerik 2026）、RAINBO 方案論文（2023）與</text>
+<text x="40" y="5301.85" font-size="15" fill="#527078">ClinicalTrials.gov 註冊資料（NCT05255653、NCT06712472、</text>
+<text x="40" y="5324.35" font-size="15" fill="#527078">NCT05640999，2026 年 9 月 10 日查詢）、ESGO／ESTRO／ESP 2025 年更</text>
+<text x="40" y="5346.85" font-size="15" fill="#527078">新版、以及一份前瞻真實世界研究（Pinninti 2026）重繪；各研究族群、設計與</text>
+<text x="40" y="5369.35" font-size="15" fill="#527078">終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

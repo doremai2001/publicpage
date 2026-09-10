@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1968" viewBox="0 0 1440 1968" role="img" aria-labelledby="t d">
+  <title id="t">Lower-limb lymphoedema: the same 235 women, four methods of assessment, four conclusions</title>
+  <desc id="d">Schematic showing how the method of assessment decides the conclusion in lower-limb lymphoedema. The main title of the figure is &quot;the method of assessment decides the conclusion&quot;. The upper half is four bars side by side, from a prospective study across 14 Swedish hospitals of 235 women, 116 of whom had a lymphadenectomy and 119 of whom did not, assessed before surgery and one year afterwards by all four methods in the same women, with both volume methods using a 10% increase as the threshold. For the same risk factor, lymphadenectomy, the adjusted odds ratios are: volume standardised for body mass index 14.42 (95% confidence interval 3.49 to 59.62); patient-reported 2.51 (1.33 to 4.73); clinical grading 2.11 (1.04 to 4.29); and raw volume calculated from limb circumference, where nothing shows at all, the result not reaching statistical significance. A dashed line marks an odds ratio of 1, meaning no difference detected. A note records that adjuvant radiotherapy behaves the same way: of these four methods only volume standardised for body mass index makes it come out as a risk factor (adjusted odds ratio 15.02, 95% confidence interval 2.34 to 96.57); and that the authors conclude &quot;apparent risk factors for lymphedema differed considerably depending on the method used&quot; and argue that the field needs an agreed gold-standard method. A further line warns that an odds ratio is not a multiple of a probability, that when an event is common an odds ratio looks much larger than the true multiple of risk, and that 14.42 therefore does not mean fourteen times the probability. The lower half labels the 1.3% to 49.4% range study by study with its method: Geppert 2018, clinical assessment, n=188 robotic surgery, 1.3% after sentinel lymph node mapping only against 18.1% after lymphadenectomy; Casarin 2025, questionnaire, n=239 laparoscopic surgery, 21.4% against 44.6%; Glaser 2021, a 13-item self-report questionnaire, n=378, 26.0% against 49.4%; and Leitao 2020, the same 13-item questionnaire, n=599, 27% against 41%. The adjusted odds ratios are Casarin 3.11, Glaser 2.75 and Leitao 1.8; and radiotherapy is a separate independent factor, with 51% of those who had external beam radiotherapy in the Leitao questionnaire reporting swelling against 35% of those who did not, an odds ratio of 1.95. A fifth study will not go on that axis at all: a Danish national prospective cohort of 486 women with low-grade, presumed stage I disease who all had sentinel lymph node mapping used the EORTC QLQ-EN24 leg lymphoedema score, from 0 to 100, before surgery and at 12 months, and the mean rise was 5.0 points (95% confidence interval 3.3 to 6.8), below the 8-point threshold for clinical significance; it reports a score rather than a percentage. The figure closes with two readings that are ruled out. First, this figure does not give you a probability: every number is tied to one method and one population, so averaging them or picking one treats a difference made by the method as a difference made by the body; nor does it mean that sentinel mapping prevents swelling, since 21.4% to 27% of the sentinel groups in the questionnaire studies still reported it. Second, self-massage cannot be written up as prevention: in the same Japanese cohort, 87 women who had no adjuvant treatment were grouped by preference, 24 performing simple lymphatic drainage daily for a year and 63 not, and over five years there was no difference in limb circumference change or in the extracellular-to-total water ratio, with a 5-year cumulative incidence of 37.5% against 23.5%, if anything the other way round; the authors state that &quot;SLD does not contribute to the prevention of LLE&quot;.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="1968" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="17" fill="#A98722" font-weight="800" letter-spacing="3px">HOW LYMPHOEDEMA IS MEASURED</text>
+<text x="84" y="142" font-size="40" fill="#123641" font-weight="800" class="r">The method of assessment decides the conclusion</text>
+<text x="84" y="200" font-size="19" fill="#527078">The same 235 women, the same risk factor, the same point after surgery — and four methods of assessment give four different answers.</text>
+<text x="84" y="228" font-size="19" fill="#527078">So before &quot;what is the probability&quot;, the question is who is measuring, and how.</text>
+<g filter="url(#sh)">
+<rect x="84" y="272" width="1272" height="687" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="110" y="304" font-size="18" fill="#123641" font-weight="800">One risk factor (lymphadenectomy), four methods of assessment, four adjusted odds ratios</text>
+<text x="110" y="336" font-size="14.5" fill="#527078">A prospective study across 14 Swedish hospitals: n=235 (116 who had a lymphadenectomy, 119 who did not), assessed before surgery and one year after by all four methods</text>
+<text x="110" y="357" font-size="14.5" fill="#527078">in the same women; both volume methods used a 10% increase as the threshold.</text>
+<line x1="410" y1="392" x2="410" y2="400" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<text x="460.5" y="388" font-size="12.5" fill="#527078" text-anchor="middle">1</text>
+<text x="662.5" y="388" font-size="12.5" fill="#527078" text-anchor="middle">5</text>
+<text x="915" y="388" font-size="12.5" fill="#527078" text-anchor="middle">10</text>
+<text x="1167.5" y="388" font-size="12.5" fill="#527078" text-anchor="middle">15</text>
+<text x="110" y="428" font-size="15.5" fill="#123641" font-weight="800">Volume standardised for body mass</text>
+<text x="110" y="449" font-size="15.5" fill="#123641" font-weight="800">index</text>
+<rect x="410" y="408" width="728.21" height="30" rx="7" fill="#B04A4A"/>
+<line x1="586.25" y1="423" x2="1218" y2="423" stroke="#123641" stroke-width="2" stroke-linecap="butt" opacity="0.55"/>
+<line x1="586.25" y1="416" x2="586.25" y2="430" stroke="#123641" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+<polygon points="1227,423 1218,417 1218,429" fill="#123641" opacity="0.55"/>
+<text x="1244" y="430" font-size="21" fill="#B04A4A" font-weight="800">14.42</text>
+<text x="410" y="463" font-size="14" fill="#527078">95% confidence interval 3.49 to 59.62</text>
+<text x="110" y="517" font-size="15.5" fill="#123641" font-weight="800">Patient-reported</text>
+<rect x="410" y="497" width="126.75" height="30" rx="7" fill="#5C77C4"/>
+<line x1="477.17" y1="512" x2="648.87" y2="512" stroke="#123641" stroke-width="2" stroke-linecap="butt" opacity="0.55"/>
+<line x1="477.17" y1="505" x2="477.17" y2="519" stroke="#123641" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+<line x1="648.87" y1="505" x2="648.87" y2="519" stroke="#123641" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+<text x="1244" y="519" font-size="21" fill="#5C77C4" font-weight="800">2.51</text>
+<text x="410" y="552" font-size="14" fill="#527078">95% confidence interval 1.33 to 4.73</text>
+<text x="110" y="606" font-size="15.5" fill="#123641" font-weight="800">Clinical grading</text>
+<rect x="410" y="586" width="106.55" height="30" rx="7" fill="#96790F"/>
+<line x1="462.52" y1="601" x2="626.64" y2="601" stroke="#123641" stroke-width="2" stroke-linecap="butt" opacity="0.55"/>
+<line x1="462.52" y1="594" x2="462.52" y2="608" stroke="#123641" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+<line x1="626.64" y1="594" x2="626.64" y2="608" stroke="#123641" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+<text x="1244" y="608" font-size="21" fill="#96790F" font-weight="800">2.11</text>
+<text x="410" y="641" font-size="14" fill="#527078">95% confidence interval 1.04 to 4.29</text>
+<text x="110" y="695" font-size="15.5" fill="#123641" font-weight="800">Raw volume from limb</text>
+<text x="110" y="716" font-size="15.5" fill="#123641" font-weight="800">circumference</text>
+<rect x="410" y="675" width="808" height="30" rx="7" fill="none" stroke="#B9AE94" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="814" y="696" font-size="16" fill="#7A6E58" font-weight="800" text-anchor="middle">nothing shows</text>
+<text x="1244" y="697" font-size="21" fill="#7A6E58" font-weight="800">—</text>
+<text x="410" y="730" font-size="14" fill="#527078">not statistically significant</text>
+<line x1="460.5" y1="398" x2="460.5" y2="752" stroke="#123641" stroke-width="1.6" stroke-linecap="butt" stroke-dasharray="5 5" opacity="0.45"/>
+<text x="110" y="774" font-size="14" fill="#527078">Adjusted odds ratio (the dashed line is 1, meaning no difference detected)</text>
+<text x="110" y="798" font-size="14.5" fill="#345963">Adjuvant radiotherapy behaves the same way: of these four methods, only volume standardised for body mass index makes it come out as a risk factor at all (adjusted odds</text>
+<text x="110" y="819" font-size="14.5" fill="#345963">ratio 15.02, 95% confidence interval 2.34 to 96.57). The authors conclude that &quot;apparent risk factors for lymphedema differed considerably depending on the method used&quot;,</text>
+<text x="110" y="840" font-size="14.5" fill="#345963">and argue that the field needs an agreed gold-standard method.</text>
+<rect x="110" y="875" width="1220" height="76" rx="14" fill="#F6E2E0"/>
+<text x="126" y="895" font-size="15.5" fill="#B04A4A" font-weight="700">An odds ratio is not a multiple of a probability. When an event is common, an odds ratio looks much larger than the true multiple of risk — 14.42 does not mean</text>
+<text x="126" y="918" font-size="15.5" fill="#B04A4A" font-weight="700">&quot;fourteen times the probability&quot;.</text>
+<g filter="url(#sh)">
+<rect x="84" y="989" width="1272" height="597" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="110" y="1021" font-size="18" fill="#123641" font-weight="800">Label that 1.3% to 49.4% range study by study with its method, and it falls apart</text>
+<text x="110" y="1053" font-size="14.5" fill="#527078">Each row is one study: the left dot is women who had sentinel lymph node mapping only, the right dot women who had a lymphadenectomy. The method sits after the study</text>
+<text x="110" y="1074" font-size="14.5" fill="#527078">name — and that column is where most of the width of the range comes from.</text>
+<circle cx="117" cy="1115" r="7" fill="#00806B"/>
+<text x="132" y="1120" font-size="14" fill="#527078" font-weight="700">sentinel lymph node only</text>
+<circle cx="316.62" cy="1115" r="7" fill="#B04A4A"/>
+<text x="331.62" y="1120" font-size="14" fill="#527078" font-weight="700">lymphadenectomy</text>
+<text x="410" y="1145" font-size="12.5" fill="#527078" text-anchor="middle">0%</text>
+<text x="577.27" y="1145" font-size="12.5" fill="#527078" text-anchor="middle">10%</text>
+<text x="744.55" y="1145" font-size="12.5" fill="#527078" text-anchor="middle">20%</text>
+<text x="911.82" y="1145" font-size="12.5" fill="#527078" text-anchor="middle">30%</text>
+<text x="1079.09" y="1145" font-size="12.5" fill="#527078" text-anchor="middle">40%</text>
+<text x="1246.36" y="1145" font-size="12.5" fill="#527078" text-anchor="middle">50%</text>
+<line x1="410" y1="1153" x2="1246.36" y2="1153" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="410" y1="1153" x2="410" y2="1158" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="577.27" y1="1153" x2="577.27" y2="1158" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="744.55" y1="1153" x2="744.55" y2="1158" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="911.82" y1="1153" x2="911.82" y2="1158" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="1079.09" y1="1153" x2="1079.09" y2="1158" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="1246.36" y1="1153" x2="1246.36" y2="1158" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="110" y="1189" font-size="15.5" fill="#123641" font-weight="800">Geppert 2018</text>
+<text x="110" y="1210" font-size="14" fill="#527078">clinical assessment | n=188 (robotic surgery)</text>
+<line x1="431.75" y1="1185" x2="712.76" y2="1185" stroke="#B9AE94" stroke-width="3" stroke-linecap="round"/>
+<circle cx="431.75" cy="1185" r="9" fill="#00806B" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="712.76" cy="1185" r="9" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="431.75" y="1215" font-size="15" fill="#00806B" font-weight="800" text-anchor="middle">1.3%</text>
+<text x="712.76" y="1215" font-size="15" fill="#B04A4A" font-weight="800" text-anchor="middle">18.1%</text>
+<text x="110" y="1245" font-size="15.5" fill="#123641" font-weight="800">Casarin 2025</text>
+<text x="110" y="1266" font-size="14" fill="#527078">questionnaire | n=239 (laparoscopic surgery)</text>
+<line x1="767.96" y1="1241" x2="1156.04" y2="1241" stroke="#B9AE94" stroke-width="3" stroke-linecap="round"/>
+<circle cx="767.96" cy="1241" r="9" fill="#00806B" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="1156.04" cy="1241" r="9" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="767.96" y="1271" font-size="15" fill="#00806B" font-weight="800" text-anchor="middle">21.4%</text>
+<text x="1156.04" y="1271" font-size="15" fill="#B04A4A" font-weight="800" text-anchor="middle">44.6%</text>
+<text x="110" y="1301" font-size="15.5" fill="#123641" font-weight="800">Glaser 2021</text>
+<text x="110" y="1322" font-size="14" fill="#527078">13-item self-report questionnaire | n=378</text>
+<line x1="844.91" y1="1297" x2="1236.33" y2="1297" stroke="#B9AE94" stroke-width="3" stroke-linecap="round"/>
+<circle cx="844.91" cy="1297" r="9" fill="#00806B" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="1236.33" cy="1297" r="9" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="844.91" y="1327" font-size="15" fill="#00806B" font-weight="800" text-anchor="middle">26.0%</text>
+<text x="1236.33" y="1327" font-size="15" fill="#B04A4A" font-weight="800" text-anchor="middle">49.4%</text>
+<text x="110" y="1357" font-size="15.5" fill="#123641" font-weight="800">Leitao 2020</text>
+<text x="110" y="1378" font-size="14" fill="#527078">13-item self-report questionnaire | n=599</text>
+<line x1="861.64" y1="1353" x2="1095.82" y2="1353" stroke="#B9AE94" stroke-width="3" stroke-linecap="round"/>
+<circle cx="861.64" cy="1353" r="9" fill="#00806B" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="1095.82" cy="1353" r="9" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="861.64" y="1383" font-size="15" fill="#00806B" font-weight="800" text-anchor="middle">27%</text>
+<text x="1095.82" y="1383" font-size="15" fill="#B04A4A" font-weight="800" text-anchor="middle">41%</text>
+<text x="110" y="1405" font-size="14.5" fill="#345963">Adjusted odds ratios: Casarin 3.11, Glaser 2.75, Leitao 1.8. Radiotherapy is a separate independent factor — in the Leitao questionnaire, 51% of those who had external beam</text>
+<text x="110" y="1426" font-size="14.5" fill="#345963">radiotherapy reported swelling against 35% of those who did not, an odds ratio of 1.95.</text>
+<rect x="110" y="1461" width="1220" height="117" rx="14" fill="none" stroke="#C9A83E" stroke-width="2"/>
+<text x="126" y="1483" font-size="16" fill="#8F7418" font-weight="800">The fifth study will not go on that axis at all</text>
+<text x="126" y="1505" font-size="14.5" fill="#345963">A Danish national prospective cohort of 486 women with low-grade, presumed stage I disease, all of whom had sentinel lymph node mapping, used the EORTC QLQ-EN24</text>
+<text x="126" y="1526" font-size="14.5" fill="#345963">leg lymphoedema score (0 to 100) before surgery and at 12 months: the mean rise was 5.0 points (95% confidence interval 3.3 to 6.8), below the 8-point threshold for</text>
+<text x="126" y="1547" font-size="14.5" fill="#345963">clinical significance. It reports a score, not a percentage, so it cannot sit on the same axis as the four rows above.</text>
+<rect x="84" y="1616" width="1272" height="280" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="1646" font-size="18" fill="#B04A4A" font-weight="800">This figure does not give you a probability</text>
+<text x="110" y="1672" font-size="15.5" fill="#345963">Every number above is tied to one method of assessment and one population. Averaging them, or picking one as &quot;the&quot; probability, treats a difference made by the</text>
+<text x="110" y="1695" font-size="15.5" fill="#345963">method as a difference made by the body.</text>
+<text x="110" y="1732" font-size="15.5" fill="#345963">Nor does it read as &quot;sentinel mapping means no swelling&quot;: in the three questionnaire studies, 21.4% to 27% of the sentinel groups still reported swelling.</text>
+<rect x="110" y="1771" width="1220" height="121" rx="14" fill="#FFFFFF"/>
+<text x="126" y="1793" font-size="16" fill="#B04A4A" font-weight="800">Self-massage cannot be written up as prevention</text>
+<text x="126" y="1815" font-size="14.5" fill="#345963">In the same Japanese cohort, 87 women who had no adjuvant treatment were grouped by their own preference: 24 performed simple lymphatic drainage daily for a year</text>
+<text x="126" y="1836" font-size="14.5" fill="#345963">and 63 did not, and both were followed for five years. There was no difference in limb circumference change or in the extracellular-to-total water ratio, and the 5-year</text>
+<text x="126" y="1857" font-size="14.5" fill="#345963">cumulative incidence was 37.5% against 23.5% — if anything the other way round. The authors state that &quot;SLD does not contribute to the prevention of LLE&quot;.</text>
+<text x="84" y="1914" font-size="16" fill="#527078">Schematic, redrawn from Wedin 2021, Geppert 2018, Leitao 2020, Glaser 2021, Casarin 2025, Bjørnholt 2025 and Utsugi 2025 rather than reproduced from their</text>
+<text x="84" y="1938" font-size="16" fill="#527078">figures; the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

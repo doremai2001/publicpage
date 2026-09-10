@@ -1,0 +1,236 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="3055" viewBox="0 0 1440 3055" role="img" aria-labelledby="t d">
+  <title id="t">Vaginal brachytherapy: where the cylinder sits, how many fractions, and the two bills from PORTEC-2</title>
+  <desc id="d">Schematic: what vaginal brachytherapy is, and the two bills from PORTEC-2. The first part is a cross-sectional drawing of the vagina after the uterus has been removed: the removed uterus is drawn in a dashed outline and labelled &quot;uterus removed&quot;, the vaginal cuff is closed at the top, and a single vaginal cylinder is inserted from below with its tip against the cuff. The upper third of the vagina together with a rim of tissue 5 mm deep is marked as the target, labelled &quot;target: upper third of the vagina, to a depth of 5 mm&quot;, with a second label &quot;prescribed at 0.5 cm from the applicator surface&quot;, and a note that a vaginal examination first confirms the cuff has healed and that the size and shape of the vagina guide the choice of applicator, a cylinder usually being used. The shape of the course is drawn as a row of dots: used alone, 21 to 24 Gy in 3 to 4 fractions, the fourth depending on the prescription; as a boost after external beam radiotherapy, 8 to 11 Gy in 2 to 3 fractions. A note records that prescriptions differ between centres: in the American Brachytherapy Society 2014 survey of 289 clinicians, 96.2 per cent used high dose rate, the most commonly treated vaginal length was 4 cm (31.0 per cent), and used alone the two commonest prescriptions were 7 Gy in 3 fractions to 0.5 cm depth and 6 Gy in 5 fractions to the vaginal surface; how long each session takes, how many days apart they are and whether you can go home the same day could not be sourced. The second part sets two bills from PORTEC-2 (n=427, high-intermediate risk, FIGO 1988 stage I or IIA) side by side. On the left, what it buys: acute grade 1-2 gastrointestinal toxicity at the end of treatment, 12.6 per cent (27 of 215) with vaginal brachytherapy against 53.8 per cent (112 of 208) with pelvic external beam radiotherapy, drawn as two bars; in the quality-of-life study (348 evaluable) the brachytherapy arm had better social functioning (p &lt; 0.002) and lower scores for diarrhoea, faecal leakage, having to stay near a toilet and limitation of daily activities by bowel symptoms (p &lt; 0.001). Vaginal recurrence: 1.8 against 1.6 per cent at 5 years, non-inferiority met against a pre-set margin of 6 percentage points, hazard ratio 0.78 (0.17 to 3.49), p = 0.74; 3.4 against 2.4 per cent at 10 years, p = 0.55; and 10-year overall survival 69.5 against 67.6 per cent, p = 0.72 - with a note that non-inferiority proves the difference did not cross a line agreed in advance, not that the two are the same. On the right, in a red-bordered panel, what it does not buy: 10-year pelvic recurrence 6.3 per cent with brachytherapy against 0.9 per cent with external beam radiotherapy, p = 0.004, the two bars running the opposite way to those on the left; most were accompanied by distant metastases, and pelvic recurrence without distant metastases was 2.5 against 0.5 per cent (p = 0.10). 5-year locoregional recurrence, in the vagina or the pelvis, was 5.1 against 2.1 per cent, hazard ratio 2.08 (0.71 to 6.09), p = 0.17: the direction was already visible at 5 years without reaching statistical significance then. The 10-year paper also names who should not have the field shrunk to its smallest: with L1CAM or mutant-pattern p53 expression, and with substantial lymphovascular space invasion, external beam radiotherapy gave better pelvic control. The third part contrasts this with intracavitary brachytherapy for cervical cancer, with a drawing on each side: on the left, after endometrial cancer surgery, the uterus gone and a single cylinder in the vagina, labelled &quot;single channel&quot;; on the right, definitive treatment of cervical cancer, the uterus still in place, a tandem with ring or ovoids and interstitial needles where needed, and a dashed outline around the cervix marking CTV-HR, labelled &quot;multi-channel&quot;. A six-row table follows. Is the uterus still there: already removed, the vaginal cuff treated, against still there with the tumour in the cervix. Applicator: a single vaginal cylinder, against a tandem plus ring or ovoids with interstitial needles where needed. Target: upper third of the vagina to a depth of 5 mm, against CTV-HR, image-guided and redrawn at each fraction. Dose: 21 to 24 Gy in 3 to 4 fractions used alone, or 8 to 11 Gy in 2 to 3 fractions as a boost after external beam radiotherapy, against a CTV-HR D90 planning aim above 90 Gy EQD2 with alpha/beta 10 and a prescribed dose no lower than 85 Gy including external beam. External beam alongside: usually none, against 45 Gy in 25 fractions almost always, usually with concurrent chemotherapy. Taiwanese national health insurance items: 37008B applicator insertion (simple, single channel) 1,650 points plus 37018B remote afterloading brachytherapy (simple) 4,126 points, against 37007B applicator insertion (complex, multi-channel) 3,236 points plus 37019B remote afterloading brachytherapy (complex) 6,600 points. Below the table a note records that the fee schedule itself splits the two into simple/single-channel and complex/multi-channel codes, and that points are tabulated values rather than what a patient pays, so how a course is claimed and whether anything is self-paid is a question for the hospital billing office or the case manager.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="3055" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">VAGINAL BRACHYTHERAPY: WHAT IT IS, AND WHAT IT COSTS</text>
+<text x="84" y="140" font-size="40" fill="#123641" font-weight="800" class="r">One cylinder, three or four sessions - what it buys and what it</text>
+<text x="84" y="190.4" font-size="40" fill="#123641" font-weight="800" class="r">does not</text>
+<text x="84" y="250.8" font-size="19" fill="#527078">On the left is the treatment itself: where the applicator sits, how deep the dose goes, how many sessions. On the right are two bills from</text>
+<text x="84" y="279.3" font-size="19" fill="#527078">the same trial: the gastrointestinal side effects that fall away, and the pelvic control that does not improve with them.</text>
+<text x="84" y="311.8" font-size="19" fill="#527078">Both sides have to be read together. Read only the left and it looks easier and therefore better; read only the right and it looks worse.</text>
+<g filter="url(#sh)">
+<rect x="84" y="360.3" width="1272" height="799.4" rx="18" fill="#FFFFFF"/>
+<path d="M 84 378.3 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="108" y="402.3" font-size="18" fill="#123641" font-weight="800">What is treated is the vaginal cuff, not the uterus</text>
+<path d="M 218 517.5 C 196 461.5, 320 461.5, 298 517.5 C 274 521.5, 242 521.5, 218 517.5 Z" fill="none" stroke="#B9AE94" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="206" y1="503.5" x2="310" y2="463.5" stroke="#B9AE94" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 5"/>
+<text x="258" y="453.5" font-size="13" fill="#527078" font-weight="700" text-anchor="middle">Uterus removed</text>
+<path d="M 206 751.5 L 206 537.5 Q 258 515.5 310 537.5 L 310 751.5 L 206 751.5 Z" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 219 599.5 L 219 533.5 Q 258 519.5 297 533.5 L 297 599.5 L 219 599.5 Z" fill="#D8EDE7" stroke="#00806B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 232 755.5 L 232 541.5 Q 258 525.5 284 541.5 L 284 755.5 Z" fill="#5C77C4"/>
+<line x1="234" y1="524.5" x2="282" y2="524.5" stroke="#123641" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="234" y1="518.5" x2="234" y2="530.5" stroke="#123641" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="246" y1="518.5" x2="246" y2="530.5" stroke="#123641" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="258" y1="518.5" x2="258" y2="530.5" stroke="#123641" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="270" y1="518.5" x2="270" y2="530.5" stroke="#123641" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="282" y1="518.5" x2="282" y2="530.5" stroke="#123641" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="314" y1="561.5" x2="402" y2="561.5" stroke="#00806B" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="314" cy="561.5" r="3.5" fill="#00806B"/>
+<line x1="232" y1="570.62" x2="219" y2="570.62" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<line x1="232" y1="565.62" x2="232" y2="575.62" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<line x1="219" y1="565.62" x2="219" y2="575.62" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<text x="213" y="574.62" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">5 mm</text>
+<text x="258" y="781.5" font-size="13" fill="#5C77C4" font-weight="800" text-anchor="middle">Vaginal cylinder</text>
+<circle cx="450" cy="469.5" r="8" fill="#B9AE94"/>
+<text x="468" y="477" font-size="15.5" fill="#123641" font-weight="800">The uterus has been removed</text>
+<text x="468" y="500.7" font-size="14" fill="#527078">Vaginal brachytherapy is given after surgery: the uterus and cervix are already gone.</text>
+<circle cx="450" cy="543.7" r="8" fill="#00806B"/>
+<text x="468" y="551.2" font-size="15.5" fill="#123641" font-weight="800">A single vaginal cylinder</text>
+<text x="468" y="574.9" font-size="14" fill="#527078">A vaginal cylinder is usually used. A vaginal examination first confirms the cuff has healed and the size and shape of the vagina</text>
+<text x="468" y="595.9" font-size="14" fill="#527078">guide the choice of applicator.</text>
+<circle cx="450" cy="638.9" r="8" fill="#00806B"/>
+<text x="468" y="646.4" font-size="15.5" fill="#123641" font-weight="800">Target: upper third of the vagina, to a depth of 5 mm</text>
+<text x="468" y="670.1" font-size="14" fill="#527078">The target volume is determined individually and is usually the upper third of the vagina, 5 mm into the mucosa.</text>
+<circle cx="450" cy="713.1" r="8" fill="#00806B"/>
+<text x="468" y="720.6" font-size="15.5" fill="#123641" font-weight="800">Prescribed at 0.5 cm from the applicator surface</text>
+<text x="468" y="744.3" font-size="14" fill="#527078">Doses are reported both at the vaginal surface and at 0.5 cm depth.</text>
+<line x1="108" y1="793.5" x2="1332" y2="793.5" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="108" y="829" font-size="17" fill="#8F7418" font-weight="800">The shape of the course</text>
+<text x="108" y="872.7" font-size="14" fill="#123641" font-weight="800">Used alone: 21 to 24 Gy in 3 to 4 fractions</text>
+<circle cx="128" cy="904.7" r="15" fill="#D8EDE7" stroke="#00806B" stroke-width="2.5"/>
+<text x="128" y="909.7" font-size="15" fill="#00806B" font-weight="800" text-anchor="middle">1</text>
+<line x1="144" y1="904.7" x2="252" y2="904.7" stroke="#B9AE94" stroke-width="2" stroke-linecap="round"/>
+<circle cx="268" cy="904.7" r="15" fill="#D8EDE7" stroke="#00806B" stroke-width="2.5"/>
+<text x="268" y="909.7" font-size="15" fill="#00806B" font-weight="800" text-anchor="middle">2</text>
+<line x1="284" y1="904.7" x2="392" y2="904.7" stroke="#B9AE94" stroke-width="2" stroke-linecap="round"/>
+<circle cx="408" cy="904.7" r="15" fill="#D8EDE7" stroke="#00806B" stroke-width="2.5"/>
+<text x="408" y="909.7" font-size="15" fill="#00806B" font-weight="800" text-anchor="middle">3</text>
+<line x1="424" y1="904.7" x2="532" y2="904.7" stroke="#B9AE94" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 4"/>
+<circle cx="548" cy="904.7" r="15" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2.5"/>
+<text x="548" y="909.7" font-size="15" fill="#527078" font-weight="800" text-anchor="middle">4</text>
+<text x="532" y="942.7" font-size="12.5" fill="#527078">the fourth depends on the prescription</text>
+<text x="108" y="964.7" font-size="14" fill="#345963" font-weight="700">As a boost after external beam radiotherapy: 8 to 11 Gy in 2 to 3 fractions</text>
+<text x="108" y="1007.7" font-size="14" fill="#527078">Prescriptions differ between centres: in the American Brachytherapy Society 2014 survey of 289 clinicians, 96.2 per cent used high dose rate and the most commonly treated</text>
+<text x="108" y="1028.7" font-size="14" fill="#527078">vaginal length was 4 cm (31.0 per cent); used alone, the two commonest prescriptions were 7 Gy in 3 fractions to 0.5 cm depth and 6 Gy in 5 fractions to the vaginal surface.</text>
+<rect x="108" y="1059.7" width="1224" height="76" rx="12" fill="#ECE8DE"/>
+<text x="124" y="1089.7" font-size="14" fill="#345963">How long each session takes, how many days apart they are, and whether you can go home the same day - no citable published figure could be found, so ask your own radiation</text>
+<text x="124" y="1110.7" font-size="14" fill="#345963">oncologist.</text>
+<text x="84" y="1210.7" font-size="21" fill="#8F7418" font-weight="800">PORTEC-2 (n=427, high-intermediate risk, FIGO 1988 stage I or IIA): two bills</text>
+<g filter="url(#sh)">
+<rect x="84" y="1254.1" width="621" height="668.1" rx="18" fill="#FFFFFF"/>
+<path d="M 84 1272.1 a 18 18 0 0 1 18 -18 h 585 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="108" y="1296.1" font-size="18" fill="#00806B" font-weight="800">What it buys</text>
+<text x="108" y="1344.8" font-size="15.5" fill="#123641" font-weight="800">Acute grade 1-2 gastrointestinal toxicity at the end of treatment</text>
+<text x="108" y="1382" font-size="14" fill="#527078" font-weight="700">Vaginal</text>
+<text x="108" y="1399" font-size="14" fill="#527078" font-weight="700">brachytherapy</text>
+<rect x="264" y="1372.5" width="325" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="264" y="1372.5" width="68.25" height="26" rx="7" fill="#00806B"/>
+<text x="601" y="1393.06" font-size="21" fill="#00806B" font-weight="800">12.6%</text>
+<text x="108" y="1421.5" font-size="14" fill="#527078" font-weight="700">Pelvic external beam</text>
+<text x="108" y="1438.5" font-size="14" fill="#527078" font-weight="700">radiotherapy</text>
+<rect x="264" y="1412" width="325" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="264" y="1412" width="291.42" height="26" rx="7" fill="#5C77C4"/>
+<text x="601" y="1432.56" font-size="21" fill="#5C77C4" font-weight="800">53.8%</text>
+<line x1="264" y1="1447.5" x2="589" y2="1447.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="264" y1="1447.5" x2="264" y2="1453.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="264" y="1469.5" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="372.33" y1="1447.5" x2="372.33" y2="1453.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="372.33" y="1469.5" font-size="12.5" fill="#527078" text-anchor="middle">20</text>
+<line x1="480.67" y1="1447.5" x2="480.67" y2="1453.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="480.67" y="1469.5" font-size="12.5" fill="#527078" text-anchor="middle">40</text>
+<line x1="589" y1="1447.5" x2="589" y2="1453.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="589" y="1469.5" font-size="12.5" fill="#527078" text-anchor="middle">60%</text>
+<text x="108" y="1491.5" font-size="14" fill="#527078">27 of 215 against 112 of 208. In the quality-of-life study (348 evaluable), the</text>
+<text x="108" y="1512.5" font-size="14" fill="#527078">brachytherapy arm had better social functioning (p &lt; 0.002) and lower scores for</text>
+<text x="108" y="1533.5" font-size="14" fill="#527078">diarrhoea, faecal leakage, having to stay near a toilet, and limitation of daily</text>
+<text x="108" y="1554.5" font-size="14" fill="#527078">activities by bowel symptoms (p &lt; 0.001).</text>
+<text x="108" y="1607" font-size="15.5" fill="#123641" font-weight="800">Vaginal recurrence</text>
+<text x="108" y="1650.7" font-size="14" fill="#527078" font-weight="700">5 years</text>
+<text x="371.58" y="1655.7" font-size="19" fill="#00806B" font-weight="800" text-anchor="end">1.8%</text>
+<text x="394.5" y="1655.7" font-size="15" fill="#B9AE94" text-anchor="middle">/</text>
+<text x="417.42" y="1655.7" font-size="19" fill="#5C77C4" font-weight="800">1.6%</text>
+<text x="108" y="1673.2" font-size="12.5" fill="#527078">non-inferiority met (pre-set margin 6 percentage points); hazard ratio 0.78 (0.17 to 3.49), p =</text>
+<text x="108" y="1691.2" font-size="12.5" fill="#527078">0.74</text>
+<text x="108" y="1731.2" font-size="14" fill="#527078" font-weight="700">10 years</text>
+<text x="371.58" y="1736.2" font-size="19" fill="#00806B" font-weight="800" text-anchor="end">3.4%</text>
+<text x="394.5" y="1736.2" font-size="15" fill="#B9AE94" text-anchor="middle">/</text>
+<text x="417.42" y="1736.2" font-size="19" fill="#5C77C4" font-weight="800">2.4%</text>
+<text x="108" y="1753.7" font-size="12.5" fill="#527078">p = 0.55</text>
+<text x="108" y="1793.7" font-size="14" fill="#527078" font-weight="700">10-year overall survival</text>
+<text x="371.58" y="1798.7" font-size="19" fill="#00806B" font-weight="800" text-anchor="end">69.5%</text>
+<text x="394.5" y="1798.7" font-size="15" fill="#B9AE94" text-anchor="middle">/</text>
+<text x="417.42" y="1798.7" font-size="19" fill="#5C77C4" font-weight="800">67.6%</text>
+<text x="108" y="1816.2" font-size="12.5" fill="#527078">p = 0.72</text>
+<text x="108" y="1856.2" font-size="14" fill="#8F7418" font-weight="700">Non-inferiority proves that the difference did not cross a line agreed in advance. It</text>
+<text x="108" y="1877.2" font-size="14" fill="#8F7418" font-weight="700">does not prove that the two are the same.</text>
+<rect x="735" y="1254.1" width="621" height="524.4" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="759" y="1296.1" font-size="18" fill="#B04A4A" font-weight="800">What it does not buy</text>
+<text x="759" y="1344.8" font-size="15.5" fill="#123641" font-weight="800">10-year pelvic recurrence</text>
+<text x="759" y="1382" font-size="14" fill="#527078" font-weight="700">Vaginal</text>
+<text x="759" y="1399" font-size="14" fill="#527078" font-weight="700">brachytherapy</text>
+<rect x="915" y="1372.5" width="325" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="915" y="1372.5" width="204.75" height="26" rx="7" fill="#00806B"/>
+<text x="1252" y="1393.06" font-size="21" fill="#00806B" font-weight="800">6.3%</text>
+<text x="759" y="1421.5" font-size="14" fill="#527078" font-weight="700">Pelvic external beam</text>
+<text x="759" y="1438.5" font-size="14" fill="#527078" font-weight="700">radiotherapy</text>
+<rect x="915" y="1412" width="325" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="915" y="1412" width="29.25" height="26" rx="7" fill="#5C77C4"/>
+<text x="1252" y="1432.56" font-size="21" fill="#5C77C4" font-weight="800">0.9%</text>
+<line x1="915" y1="1447.5" x2="1240" y2="1447.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="915" y1="1447.5" x2="915" y2="1453.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="915" y="1469.5" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="980" y1="1447.5" x2="980" y2="1453.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="980" y="1469.5" font-size="12.5" fill="#527078" text-anchor="middle">2</text>
+<line x1="1045" y1="1447.5" x2="1045" y2="1453.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1045" y="1469.5" font-size="12.5" fill="#527078" text-anchor="middle">4</text>
+<line x1="1110" y1="1447.5" x2="1110" y2="1453.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1110" y="1469.5" font-size="12.5" fill="#527078" text-anchor="middle">6</text>
+<line x1="1175" y1="1447.5" x2="1175" y2="1453.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1175" y="1469.5" font-size="12.5" fill="#527078" text-anchor="middle">8</text>
+<line x1="1240" y1="1447.5" x2="1240" y2="1453.5" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1240" y="1469.5" font-size="12.5" fill="#527078" text-anchor="middle">10%</text>
+<text x="759" y="1491.5" font-size="14" fill="#345963" font-weight="700">p = 0.004</text>
+<text x="759" y="1513.5" font-size="14" fill="#527078">Most were accompanied by distant metastases. Pelvic recurrence without distant</text>
+<text x="759" y="1534.5" font-size="14" fill="#527078">metastases was 2.5 per cent against 0.5 per cent (p = 0.10).</text>
+<text x="759" y="1581.5" font-size="14" fill="#345963">5-year locoregional recurrence (vagina or pelvis) was 5.1 per cent against 2.1 per</text>
+<text x="759" y="1602.5" font-size="14" fill="#345963">cent, hazard ratio 2.08 (0.71 to 6.09), p = 0.17: the direction was already visible at 5</text>
+<text x="759" y="1623.5" font-size="14" fill="#345963">years, without reaching statistical significance then.</text>
+<text x="759" y="1670.5" font-size="14" fill="#345963">The 10-year paper also names who should not have the field shrunk to its smallest:</text>
+<text x="759" y="1691.5" font-size="14" fill="#345963">in women with L1CAM or mutant-pattern p53 expression, and with substantial</text>
+<text x="759" y="1712.5" font-size="14" fill="#345963">lymphovascular space invasion, external beam radiotherapy gave better pelvic</text>
+<text x="759" y="1733.5" font-size="14" fill="#345963">control.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1954.2" width="1272" height="995.4" rx="18" fill="#FFFFFF"/>
+<path d="M 84 1972.2 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="108" y="1996.2" font-size="18" fill="#123641" font-weight="800">This is not the same thing as intracavitary brachytherapy for cervical cancer</text>
+<text x="108" y="2048.9" font-size="15.5" fill="#123641" font-weight="800">After surgery for endometrial cancer: vaginal brachytherapy</text>
+<rect x="108" y="2074.6" width="112.88" height="24" rx="12" fill="#5C77C4"/>
+<text x="118" y="2091.46" font-size="13.5" fill="#FFFFFF" font-weight="800">single channel</text>
+<text x="735" y="2048.9" font-size="15.5" fill="#123641" font-weight="800">Definitive treatment of cervical cancer: image-guided brachytherapy</text>
+<rect x="735" y="2074.6" width="107.34" height="24" rx="12" fill="#96790F"/>
+<text x="745" y="2091.46" font-size="13.5" fill="#FFFFFF" font-weight="800">multi-channel</text>
+<path d="M 366.5 2188.6 C 344.5 2132.6, 468.5 2132.6, 446.5 2188.6 C 422.5 2192.6, 390.5 2192.6, 366.5 2188.6 Z" fill="none" stroke="#B9AE94" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="354.5" y1="2174.6" x2="458.5" y2="2134.6" stroke="#B9AE94" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 5"/>
+<text x="406.5" y="2124.6" font-size="13" fill="#527078" font-weight="700" text-anchor="middle">Uterus removed</text>
+<path d="M 354.5 2362.6 L 354.5 2208.6 Q 406.5 2186.6 458.5 2208.6 L 458.5 2362.6 L 354.5 2362.6 Z" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 367.5 2250.6 L 367.5 2204.6 Q 406.5 2190.6 445.5 2204.6 L 445.5 2250.6 L 367.5 2250.6 Z" fill="#D8EDE7" stroke="#00806B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 380.5 2366.6 L 380.5 2212.6 Q 406.5 2196.6 432.5 2212.6 L 432.5 2366.6 Z" fill="#5C77C4"/>
+<line x1="382.5" y1="2195.6" x2="430.5" y2="2195.6" stroke="#123641" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="382.5" y1="2189.6" x2="382.5" y2="2201.6" stroke="#123641" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="394.5" y1="2189.6" x2="394.5" y2="2201.6" stroke="#123641" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="406.5" y1="2189.6" x2="406.5" y2="2201.6" stroke="#123641" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="418.5" y1="2189.6" x2="418.5" y2="2201.6" stroke="#123641" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="430.5" y1="2189.6" x2="430.5" y2="2201.6" stroke="#123641" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="462.5" y1="2222.6" x2="530.5" y2="2222.6" stroke="#00806B" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="462.5" cy="2222.6" r="3.5" fill="#00806B"/>
+<line x1="380.5" y1="2229.32" x2="367.5" y2="2229.32" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<line x1="380.5" y1="2224.32" x2="380.5" y2="2234.32" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<line x1="367.5" y1="2224.32" x2="367.5" y2="2234.32" stroke="#00806B" stroke-width="2" stroke-linecap="round"/>
+<text x="361.5" y="2233.32" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">5 mm</text>
+<path d="M 999.5 2217.88 C 971.5 2122.6, 1095.5 2122.6, 1067.5 2217.88 C 1051.5 2227.88, 1015.5 2227.88, 999.5 2217.88 Z" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1003.5,2221.88 1063.5,2221.88 1057.5,2269.88 1009.5,2269.88" fill="#F3E8CD" stroke="#B9AE94" stroke-width="2"/>
+<rect x="987.5" y="2269.88" width="92" height="98.72" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2"/>
+<path d="M 993.5 2245.88 C 993.5 2203.88, 1073.5 2203.88, 1073.5 2245.88 C 1073.5 2281.88, 993.5 2281.88, 993.5 2245.88 Z" fill="none" stroke="#B04A4A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="1033.5" y1="2372.6" x2="1033.5" y2="2203.88" stroke="#96790F" stroke-width="7" stroke-linecap="round"/>
+<circle cx="1003.5" cy="2281.88" r="15" fill="#00806B" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="1063.5" cy="2281.88" r="15" fill="#00806B" stroke="#FFFFFF" stroke-width="2"/>
+<text x="406.5" y="2388.6" font-size="14" fill="#5C77C4" font-weight="700" text-anchor="middle">Vaginal cylinder · Upper third</text>
+<text x="1033.5" y="2388.6" font-size="14" fill="#96790F" font-weight="700" text-anchor="middle">tandem (intrauterine) + ovoid / ring</text>
+<text x="1033.5" y="2410.6" font-size="14" fill="#B04A4A" font-weight="700" text-anchor="middle">CTV-HR (residual tumour volume, redrawn each time)</text>
+<text x="258" y="2442.6" font-size="13" fill="#5C77C4" font-weight="800">After endometrial cancer surgery</text>
+<text x="810" y="2442.6" font-size="13" fill="#96790F" font-weight="800">Definitive for cervical cancer</text>
+<line x1="108" y1="2452.6" x2="1332" y2="2452.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="108" y="2478.6" font-size="14" fill="#8F7418" font-weight="800">Is the uterus still</text>
+<text x="108" y="2498.9" font-size="14" fill="#8F7418" font-weight="800">there</text>
+<text x="258" y="2478.6" font-size="14" fill="#345963">Already removed; the vaginal cuff is treated</text>
+<text x="810" y="2478.6" font-size="14" fill="#345963">Still there; the tumour is in the cervix</text>
+<line x1="108" y1="2511.6" x2="1332" y2="2511.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="108" y="2537.6" font-size="14" fill="#8F7418" font-weight="800">Applicator</text>
+<text x="258" y="2537.6" font-size="14" fill="#345963">A single vaginal cylinder</text>
+<text x="810" y="2537.6" font-size="14" fill="#345963">Tandem (intrauterine) plus ring or ovoids, with interstitial needles where</text>
+<text x="810" y="2558.6" font-size="14" fill="#345963">needed</text>
+<line x1="108" y1="2591.6" x2="1332" y2="2591.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="108" y="2617.6" font-size="14" fill="#8F7418" font-weight="800">Target</text>
+<text x="258" y="2617.6" font-size="14" fill="#345963">Upper third of the vagina, to a depth of 5 mm</text>
+<text x="810" y="2617.6" font-size="14" fill="#345963">CTV-HR: image-guided, the residual tumour volume redrawn at each fraction</text>
+<line x1="108" y1="2650.6" x2="1332" y2="2650.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="108" y="2676.6" font-size="14" fill="#8F7418" font-weight="800">Dose</text>
+<text x="258" y="2676.6" font-size="14" fill="#345963">21 to 24 Gy in 3 to 4 fractions used alone; 8 to 11 Gy in 2 to 3 fractions as a</text>
+<text x="258" y="2697.6" font-size="14" fill="#345963">boost after external beam radiotherapy</text>
+<text x="810" y="2676.6" font-size="14" fill="#345963">CTV-HR D90 planning aim above 90 Gy EQD2 (alpha/beta 10), prescribed dose</text>
+<text x="810" y="2697.6" font-size="14" fill="#345963">no lower than 85 Gy, including external beam</text>
+<line x1="108" y1="2730.6" x2="1332" y2="2730.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="108" y="2756.6" font-size="14" fill="#8F7418" font-weight="800">External beam</text>
+<text x="108" y="2776.9" font-size="14" fill="#8F7418" font-weight="800">alongside</text>
+<text x="258" y="2756.6" font-size="14" fill="#345963">Usually none</text>
+<text x="810" y="2756.6" font-size="14" fill="#345963">45 Gy in 25 fractions almost always, usually with concurrent chemotherapy</text>
+<line x1="108" y1="2789.6" x2="1332" y2="2789.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="108" y="2815.6" font-size="14" fill="#8F7418" font-weight="800">Taiwanese national</text>
+<text x="108" y="2835.9" font-size="14" fill="#8F7418" font-weight="800">health insurance</text>
+<text x="108" y="2856.2" font-size="14" fill="#8F7418" font-weight="800">items</text>
+<text x="258" y="2815.6" font-size="14" fill="#345963">37008B applicator insertion (simple, single channel) 1,650 points plus 37018B</text>
+<text x="258" y="2836.6" font-size="14" fill="#345963">remote afterloading brachytherapy (simple) 4,126 points</text>
+<text x="810" y="2815.6" font-size="14" fill="#345963">37007B applicator insertion (complex, multi-channel) 3,236 points plus</text>
+<text x="810" y="2836.6" font-size="14" fill="#345963">37019B remote afterloading brachytherapy (complex) 6,600 points</text>
+<text x="108" y="2883.6" font-size="14" fill="#527078">The fee schedule itself splits the two into &quot;simple / single channel&quot; and &quot;complex / multi-channel&quot; codes. Points are the tabulated values in the schedule, not what a patient pays; how</text>
+<text x="108" y="2904.6" font-size="14" fill="#527078">your own course is claimed, and whether anything is self-paid, is a question for the hospital billing office or your case manager.</text>
+<text x="84" y="2973.6" font-size="15" fill="#527078">Schematic, redrawn from the ESGO-ESTRO-ESP 2025 update appendix, PORTEC-2 (Nout 2010), the PORTEC-2 10-year results (Wortman 2018) and quality-of-life results (Nout</text>
+<text x="84" y="2996.1" font-size="15" fill="#527078">2009), the American Brachytherapy Society 2014 practice survey (Harkenrider 2016), EMBRACE II (Potter 2018) and the Taiwanese national health insurance fee schedule; the</text>
+<text x="84" y="3018.6" font-size="15" fill="#527078">anatomical drawings are schematic and not to scale; the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

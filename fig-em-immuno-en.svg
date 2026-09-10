@@ -1,0 +1,425 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="3556" viewBox="0 0 1440 3556" role="img" aria-labelledby="t d">
+  <title id="t">Four phase 3 immunotherapy trials read by MMR status: every cell carries its n and its MMR label</title>
+  <desc id="d">Schematic: four phase 3 immunotherapy trials, set out in two columns by MMR status, every cell carrying its MMR label and its n. The left column is mismatch repair deficient (dMMR/MSI-H), the right column mismatch repair proficient (pMMR/MSS), and each cell carries a hazard ratio plotted on a log scale with a dashed line at 1. First row, RUBY / ENGOT-EN6 / GOG-3031, first line for primary advanced (stage III/IV) or first recurrent disease, n=494 randomised, dostarlimab or placebo with carboplatin and paclitaxel. The dMMR/MSI-H cell, n=118 (23.9 per cent): 24-month progression-free survival 61.4 per cent (46.3 to 73.4) against 15.7 per cent (7.2 to 27.0), hazard ratio for progression-free survival 0.28 (0.16 to 0.50) and for overall survival 0.32 (0.17 to 0.63). The pMMR/MSS cell states that the subgroup size is not reported cell by cell (of the whole 494, 118 were dMMR/MSI-H): in the whole population, 24-month progression-free survival 36.1 per cent (29.3 to 42.9) against 18.1 per cent (13.0 to 23.9), hazard ratio 0.64 (0.51 to 0.80); and in pMMR/MSS the overall survival hazard ratio is 0.79 (0.60 to 1.04), the published wording being &quot;a trend in favor of dostarlimab&quot; - a trend, not an established survival benefit. Second row, NRG-GY018, first line, n=813, pembrolizumab or placebo with paclitaxel and carboplatin, patients split into two independent cohorts by MMR status. The dMMR cohort, n=225 (placebo 113, pembrolizumab 112): progression-free survival at 12 months 74 against 38 per cent, hazard ratio 0.30 (0.19 to 0.48); overall survival hazard ratio 0.55 (0.25 to 1.19), one-sided nominal P = 0.0617, not statistically significant and immature. The pMMR cohort, n=588 (295, 293): median progression-free survival 13.1 against 8.7 months, hazard ratio 0.54 (0.41 to 0.71); overall survival hazard ratio 0.79 (0.53 to 1.17), P = 0.1157, not significant. Third row, DUO-E / ENGOT-EN10 / GOG-3041, first line, three arms with randomisation stratified by MMR status, n=718. Both cells in this row carry an explicit hatched badge reading &quot;subgroup size not obtainable&quot;: the dMMR and pMMR subgroup sizes could not be found in the available full text or in the trial registry results, so no number is given and none is invented. The dMMR subgroup: durvalumab against control, hazard ratio 0.42 (0.22 to 0.80), median progression-free survival not reached against 7.0 months; durvalumab plus olaparib against control 0.41 (0.21 to 0.75), median 31.8 against 7.0 months; and in this subgroup adding olaparib gave no further benefit over durvalumab alone (hazard ratio 0.97, 0.49 to 1.98). The pMMR subgroup: durvalumab 0.77 (0.60 to 0.97), median 9.9 against 9.7 months; durvalumab plus olaparib 0.57 (0.44 to 0.73), median 15.0 against 9.7 months; interim overall survival at about 28 per cent maturity, durvalumab 0.77 (0.56 to 1.07), P = 0.120, not significant, and durvalumab plus olaparib 0.59 (0.42 to 0.83), P = 0.003 - both whole-population figures. Fourth row, Study 309 / KEYNOTE-775, in women who have already had chemotherapy (at least one prior platinum regimen), n=827 (pMMR 697, dMMR 130), lenvatinib with pembrolizumab against chemotherapy of the physician's choice. dMMR, n=130: 5-year overall survival 36.5 against 9.8 per cent, 5-year progression-free survival 26.4 against 10.8 per cent, with no dMMR-specific hazard ratio reported for this cell. pMMR, n=697: median overall survival 17.4 against 12.0 months, hazard ratio 0.68 (0.56 to 0.84); median progression-free survival 6.6 against 3.8 months, hazard ratio 0.60 (0.50 to 0.72); 5-year overall survival 16.7 against 7.3 per cent. Below that row, a panel gives the cost: grade 3 or worse adverse events 88.9 against 72.7 per cent, and by five years (median follow-up 68.8 months) 32.3 against 5.9 per cent had stopped one of the drugs because of a treatment-related adverse event - a third of them did not get through the whole course. Next comes a red-bordered counter-example: ENGOT-en11 / GOG-3053 / KEYNOTE-B21, the adjuvant setting after curative surgery with no residual disease, n=1,095 randomised (pembrolizumab 545, placebo 550). The primary endpoint, disease-free survival in all patients, was not met: 119 events (22 per cent) against 121 (22 per cent), hazard ratio 1.02 (0.79 to 1.32), P = 0.570, 2-year disease-free survival 75 against 76 per cent; the interval is drawn clearly straddling 1. The pre-specified subgroups by MMR status are dMMR (n=281) 0.31 (0.14 to 0.69) and pMMR (n=814) 1.20 (0.91 to 1.57). A note records that the primary endpoint was not met and that the dMMR box is a subgroup analysis with few events and short follow-up, so it cannot be lifted out on its own as evidence that adjuvant immunotherapy works: working in advanced or recurrent disease is not the same as working when added after surgery. Below that, the single-arm data, the whole block labelled &quot;single arm&quot;: KEYNOTE-158 (pembrolizumab alone, non-randomised open-label phase 2), previously treated advanced MSI-H/dMMR disease, efficacy population n=79, median follow-up 42.6 months, objective response rate 48 per cent (37 to 60), median progression-free survival 13.1 months, median overall survival not reached; and GARNET (dostarlimab alone, single-arm open-label phase 1), dMMR/MSI-H cohort n=129 with an objective response rate of 43.5 per cent (34.0 to 53.4) and MMRp/MSS cohort n=161 with 14.1 per cent (9.1 to 20.6). Single arm means there is nothing to compare against, and these response rates cannot be set beside the hazard ratios from the randomised trials above. The figure closes: every number has to be read together with its MMR status and its n; the four trials differ in setting, control arm, endpoint and length of follow-up, so reading across them does not work; and at the next appointment one thing should be settled first - has the MMR test been done, and is it deficient or proficient, because that line decides which column above is yours.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="3556" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">FOUR PHASE 3 TRIALS, READ BY MMR STATUS</text>
+<text x="84" y="140" font-size="40" fill="#123641" font-weight="800" class="r">The same drug, two groups of people, two different answers</text>
+<text x="84" y="200.4" font-size="19" fill="#527078">What settles the answer is one line in the pathology report: whether the mismatch repair proteins are deficient (dMMR) or proficient</text>
+<text x="84" y="228.9" font-size="19" fill="#527078">(pMMR). All four phase 3 trials report their results split on that line, so every number on this figure carries its MMR status and its n.</text>
+<text x="84" y="261.4" font-size="19" fill="#527078">The four trials are not in the same setting: RUBY, NRG-GY018 and DUO-E ask about first-line advanced or recurrent disease,</text>
+<text x="84" y="289.9" font-size="19" fill="#527078">KEYNOTE-775 asks about women who have already had chemotherapy. Reading across them does not work.</text>
+<g filter="url(#sh)">
+<rect x="84" y="338.4" width="1272" height="440.2" rx="18" fill="#FFFFFF"/>
+<path d="M 84 356.4 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="106" y="378.4" font-size="18" fill="#123641" font-weight="800">RUBY / ENGOT-EN6 /</text>
+<text x="106" y="402.7" font-size="18" fill="#123641" font-weight="800">GOG-3031</text>
+<text x="106" y="447" font-size="14" fill="#00806B" font-weight="800">First line: primary advanced (stage</text>
+<text x="106" y="467.3" font-size="14" fill="#00806B" font-weight="800">III/IV) or first recurrence</text>
+<text x="106" y="508.1" font-size="12.5" fill="#527078">n=494 randomised. Dostarlimab or</text>
+<text x="106" y="526.1" font-size="12.5" fill="#527078">placebo with carboplatin and paclitaxel,</text>
+<text x="106" y="544.1" font-size="12.5" fill="#527078">followed by maintenance. Dual primary</text>
+<text x="106" y="562.1" font-size="12.5" fill="#527078">endpoints: progression-free survival</text>
+<text x="106" y="580.1" font-size="12.5" fill="#527078">and overall survival.</text>
+<rect x="366" y="360.4" width="474" height="396.2" rx="14" fill="#D8EDE7"/>
+<rect x="384" y="378.4" width="10" height="10" rx="2" fill="#00806B"/>
+<text x="404" y="392.4" font-size="14" fill="#00806B" font-weight="800">Mismatch repair deficient (dMMR/MSI-H)</text>
+<text x="384" y="432" font-size="14" fill="#123641" font-weight="800">dMMR/MSI-H, n=118 (23.9%)</text>
+<text x="384" y="474.3" font-size="14" fill="#345963">24-month progression-free survival 61.4% (46.3 to 73.4) against</text>
+<text x="384" y="495.3" font-size="14" fill="#345963">15.7% (7.2 to 27.0).</text>
+<text x="384" y="536.3" font-size="14" fill="#345963">Overall survival from the second interim analysis (51%</text>
+<text x="384" y="557.3" font-size="14" fill="#345963">maturity).</text>
+<text x="384" y="602.8" font-size="12.5" fill="#527078" font-weight="700">progression-free survival</text>
+<text x="822" y="602.8" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.28 (0.16 to 0.50)</text>
+<line x1="384" y1="621.3" x2="822" y2="621.3" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="616.3" x2="481.91" y2="626.3" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="574.37" y1="616.3" x2="574.37" y2="626.3" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="616.3" x2="666.84" y2="626.3" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="759.3" y1="616.3" x2="759.3" y2="626.3" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="604.3" x2="666.84" y2="638.3" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="422.38" y1="621.3" x2="574.37" y2="621.3" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="422.38" y1="613.3" x2="422.38" y2="629.3" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="574.37" y1="613.3" x2="574.37" y2="629.3" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="497.03" cy="621.3" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="656.8" font-size="12.5" fill="#527078" font-weight="700">overall survival</text>
+<text x="822" y="656.8" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.32 (0.17 to 0.63)</text>
+<line x1="384" y1="675.3" x2="822" y2="675.3" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="670.3" x2="481.91" y2="680.3" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="481.91" y="703.3" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="574.37" y1="670.3" x2="574.37" y2="680.3" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="574.37" y="703.3" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="666.84" y1="670.3" x2="666.84" y2="680.3" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="666.84" y="703.3" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="759.3" y1="670.3" x2="759.3" y2="680.3" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="759.3" y="703.3" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="666.84" y1="658.3" x2="666.84" y2="692.3" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="430.46" y1="675.3" x2="605.2" y2="675.3" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="430.46" y1="667.3" x2="430.46" y2="683.3" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="605.2" y1="667.3" x2="605.2" y2="683.3" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="514.84" cy="675.3" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="730.3" font-size="12" fill="#527078">Hazard ratio (log scale; the dashed line is 1)</text>
+<rect x="860" y="360.4" width="474" height="396.2" rx="14" fill="#E3E8F6"/>
+<rect x="878" y="378.4" width="10" height="10" rx="2" fill="#5C77C4"/>
+<text x="898" y="392.4" font-size="14" fill="#5C77C4" font-weight="800">Mismatch repair proficient (pMMR/MSS)</text>
+<text x="878" y="432" font-size="14" fill="#123641" font-weight="800">pMMR/MSS subgroup (its size is not reported cell by cell; of the</text>
+<text x="878" y="452.3" font-size="14" fill="#123641" font-weight="800">whole 494, 118 were dMMR/MSI-H)</text>
+<text x="878" y="494.6" font-size="14" fill="#345963">Whole population (n=494), 24-month progression-free survival</text>
+<text x="878" y="515.6" font-size="14" fill="#345963">36.1% (29.3 to 42.9) against 18.1% (13.0 to 23.9), hazard ratio 0.64</text>
+<text x="878" y="536.6" font-size="14" fill="#345963">(0.51 to 0.80).</text>
+<text x="878" y="577.6" font-size="14" fill="#345963">In pMMR/MSS the overall survival hazard ratio is 0.79 (0.60 to</text>
+<text x="878" y="598.6" font-size="14" fill="#345963">1.04) - the published wording is &quot;a trend in favor of</text>
+<text x="878" y="619.6" font-size="14" fill="#345963">dostarlimab&quot;: a trend, not an established survival benefit.</text>
+<text x="878" y="665.1" font-size="12.5" fill="#527078" font-weight="700">pMMR/MSS overall survival</text>
+<text x="1316" y="665.1" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.79 (0.60 to 1.04)</text>
+<line x1="878" y1="683.6" x2="1316" y2="683.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="678.6" x2="975.91" y2="688.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="975.91" y="711.6" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="1068.37" y1="678.6" x2="1068.37" y2="688.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1068.37" y="711.6" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1160.84" y1="678.6" x2="1160.84" y2="688.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1160.84" y="711.6" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1253.3" y1="678.6" x2="1253.3" y2="688.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1253.3" y="711.6" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1160.84" y1="666.6" x2="1160.84" y2="700.6" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1092.7" y1="683.6" x2="1166.07" y2="683.6" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1092.7" y1="675.6" x2="1092.7" y2="691.6" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1166.07" y1="675.6" x2="1166.07" y2="691.6" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1129.39" cy="683.6" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="738.6" font-size="12" fill="#527078">Hazard ratio (log scale; the dashed line is 1)</text>
+<g filter="url(#sh)">
+<rect x="84" y="802.6" width="1272" height="452.9" rx="18" fill="#FFFFFF"/>
+<path d="M 84 820.6 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="106" y="842.6" font-size="18" fill="#123641" font-weight="800">NRG-GY018</text>
+<text x="106" y="886.9" font-size="14" fill="#5C77C4" font-weight="800">First line: measurable stage III/IVA,</text>
+<text x="106" y="907.2" font-size="14" fill="#5C77C4" font-weight="800">or stage IVB/recurrent</text>
+<text x="106" y="948" font-size="12.5" fill="#527078">n=813 (actual enrolment on the</text>
+<text x="106" y="966" font-size="12.5" fill="#527078">registry). Pembrolizumab or placebo</text>
+<text x="106" y="984" font-size="12.5" fill="#527078">with paclitaxel and carboplatin. Patients</text>
+<text x="106" y="1002" font-size="12.5" fill="#527078">were split into two independent cohorts</text>
+<text x="106" y="1020" font-size="12.5" fill="#527078">by MMR status, and progression-free</text>
+<text x="106" y="1038" font-size="12.5" fill="#527078">survival in each cohort was a primary</text>
+<text x="106" y="1056" font-size="12.5" fill="#527078">endpoint.</text>
+<rect x="366" y="824.6" width="474" height="408.9" rx="14" fill="#D8EDE7"/>
+<rect x="384" y="842.6" width="10" height="10" rx="2" fill="#00806B"/>
+<text x="404" y="856.6" font-size="14" fill="#00806B" font-weight="800">Mismatch repair deficient (dMMR/MSI-H)</text>
+<text x="384" y="896.2" font-size="14" fill="#123641" font-weight="800">dMMR cohort, n=225 (placebo 113, pembrolizumab 112)</text>
+<text x="384" y="938.5" font-size="14" fill="#345963">Progression-free survival at the 12-month analysis, 74% against</text>
+<text x="384" y="959.5" font-size="14" fill="#345963">38%.</text>
+<text x="384" y="1000.5" font-size="14" fill="#345963">Overall survival data are immature: hazard ratio 0.55 (0.25 to</text>
+<text x="384" y="1021.5" font-size="14" fill="#345963">1.19), one-sided nominal P = 0.0617, not statistically significant.</text>
+<text x="384" y="1067" font-size="12.5" fill="#527078" font-weight="700">progression-free survival</text>
+<text x="822" y="1067" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.30 (0.19 to 0.48)</text>
+<line x1="384" y1="1085.5" x2="822" y2="1085.5" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="1080.5" x2="481.91" y2="1090.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="574.37" y1="1080.5" x2="574.37" y2="1090.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="1080.5" x2="666.84" y2="1090.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="759.3" y1="1080.5" x2="759.3" y2="1090.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="1068.5" x2="666.84" y2="1102.5" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="445.3" y1="1085.5" x2="568.93" y2="1085.5" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="445.3" y1="1077.5" x2="445.3" y2="1093.5" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="568.93" y1="1077.5" x2="568.93" y2="1093.5" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="506.23" cy="1085.5" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="1121" font-size="12.5" fill="#527078" font-weight="700">overall survival (immature)</text>
+<text x="822" y="1121" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.55 (0.25 to 1.19)</text>
+<line x1="384" y1="1139.5" x2="822" y2="1139.5" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="1134.5" x2="481.91" y2="1144.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="481.91" y="1167.5" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="574.37" y1="1134.5" x2="574.37" y2="1144.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="574.37" y="1167.5" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="666.84" y1="1134.5" x2="666.84" y2="1144.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="666.84" y="1167.5" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="759.3" y1="1134.5" x2="759.3" y2="1144.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="759.3" y="1167.5" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="666.84" y1="1122.5" x2="666.84" y2="1156.5" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="481.91" y1="1139.5" x2="690.04" y2="1139.5" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="481.91" y1="1131.5" x2="481.91" y2="1147.5" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="690.04" y1="1131.5" x2="690.04" y2="1147.5" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="587.09" cy="1139.5" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="1194.5" font-size="12" fill="#527078">Hazard ratio (log scale; the dashed line is 1)</text>
+<rect x="860" y="824.6" width="474" height="408.9" rx="14" fill="#E3E8F6"/>
+<rect x="878" y="842.6" width="10" height="10" rx="2" fill="#5C77C4"/>
+<text x="898" y="856.6" font-size="14" fill="#5C77C4" font-weight="800">Mismatch repair proficient (pMMR/MSS)</text>
+<text x="878" y="896.2" font-size="14" fill="#123641" font-weight="800">pMMR cohort, n=588 (placebo 295, pembrolizumab 293)</text>
+<text x="878" y="938.5" font-size="14" fill="#345963">Median progression-free survival 13.1 months against 8.7</text>
+<text x="878" y="959.5" font-size="14" fill="#345963">months.</text>
+<text x="878" y="1000.5" font-size="14" fill="#345963">Overall survival hazard ratio 0.79 (0.53 to 1.17), one-sided</text>
+<text x="878" y="1021.5" font-size="14" fill="#345963">nominal P = 0.1157, not statistically significant. What stands at</text>
+<text x="878" y="1042.5" font-size="14" fill="#345963">present is &quot;progression is delayed&quot;, not &quot;life is prolonged&quot;.</text>
+<text x="878" y="1088" font-size="12.5" fill="#527078" font-weight="700">progression-free survival</text>
+<text x="1316" y="1088" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.54 (0.41 to 0.71)</text>
+<line x1="878" y1="1106.5" x2="1316" y2="1106.5" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="1101.5" x2="975.91" y2="1111.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1068.37" y1="1101.5" x2="1068.37" y2="1111.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="1101.5" x2="1160.84" y2="1111.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1253.3" y1="1101.5" x2="1253.3" y2="1111.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="1089.5" x2="1160.84" y2="1123.5" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1041.9" y1="1106.5" x2="1115.15" y2="1106.5" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1041.9" y1="1098.5" x2="1041.9" y2="1114.5" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1115.15" y1="1098.5" x2="1115.15" y2="1114.5" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1078.64" cy="1106.5" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="1142" font-size="12.5" fill="#527078" font-weight="700">overall survival (immature)</text>
+<text x="1316" y="1142" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.79 (0.53 to 1.17)</text>
+<line x1="878" y1="1160.5" x2="1316" y2="1160.5" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="1155.5" x2="975.91" y2="1165.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="975.91" y="1188.5" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="1068.37" y1="1155.5" x2="1068.37" y2="1165.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1068.37" y="1188.5" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1160.84" y1="1155.5" x2="1160.84" y2="1165.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1160.84" y="1188.5" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1253.3" y1="1155.5" x2="1253.3" y2="1165.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1253.3" y="1188.5" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1160.84" y1="1143.5" x2="1160.84" y2="1177.5" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1076.15" y1="1160.5" x2="1181.78" y2="1160.5" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1076.15" y1="1152.5" x2="1076.15" y2="1168.5" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1181.78" y1="1152.5" x2="1181.78" y2="1168.5" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1129.39" cy="1160.5" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="1215.5" font-size="12" fill="#527078">Hazard ratio (log scale; the dashed line is 1)</text>
+<g filter="url(#sh)">
+<rect x="84" y="1279.5" width="1272" height="566.1" rx="18" fill="#FFFFFF"/>
+<path d="M 84 1297.5 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="106" y="1319.5" font-size="18" fill="#123641" font-weight="800">DUO-E / ENGOT-EN10 /</text>
+<text x="106" y="1343.8" font-size="18" fill="#123641" font-weight="800">GOG-3041</text>
+<text x="106" y="1388.1" font-size="14" fill="#96790F" font-weight="800">First line: three arms,</text>
+<text x="106" y="1408.4" font-size="14" fill="#96790F" font-weight="800">randomisation stratified by MMR</text>
+<text x="106" y="1428.7" font-size="14" fill="#96790F" font-weight="800">status</text>
+<text x="106" y="1469.5" font-size="12.5" fill="#527078">n=718 randomised. (1) chemotherapy,</text>
+<text x="106" y="1487.5" font-size="12.5" fill="#527078">(2) chemotherapy with durvalumab, (3)</text>
+<text x="106" y="1505.5" font-size="12.5" fill="#527078">chemotherapy with durvalumab</text>
+<text x="106" y="1523.5" font-size="12.5" fill="#527078">followed by durvalumab and olaparib</text>
+<text x="106" y="1541.5" font-size="12.5" fill="#527078">maintenance. Primary endpoints:</text>
+<text x="106" y="1559.5" font-size="12.5" fill="#527078">progression-free survival in each</text>
+<text x="106" y="1577.5" font-size="12.5" fill="#527078">experimental arm against the control</text>
+<text x="106" y="1595.5" font-size="12.5" fill="#527078">arm.</text>
+<rect x="366" y="1301.5" width="474" height="522.1" rx="14" fill="#D8EDE7"/>
+<rect x="384" y="1319.5" width="10" height="10" rx="2" fill="#00806B"/>
+<text x="404" y="1333.5" font-size="14" fill="#00806B" font-weight="800">Mismatch repair deficient (dMMR/MSI-H)</text>
+<rect x="384" y="1359.1" width="205.66" height="26" rx="13" fill="url(#hatchR)" stroke="#B04A4A" stroke-width="2"/>
+<text x="397" y="1377.1" font-size="13" fill="#B04A4A" font-weight="800">subgroup size not obtainable</text>
+<text x="384" y="1405.6" font-size="12.5" fill="#345963" font-weight="700">dMMR subgroup</text>
+<text x="384" y="1445.6" font-size="14" fill="#345963">Durvalumab against control: median progression-free survival</text>
+<text x="384" y="1466.6" font-size="14" fill="#345963">not reached against 7.0 months.</text>
+<text x="384" y="1507.6" font-size="14" fill="#345963">Durvalumab plus olaparib against control: median 31.8 against</text>
+<text x="384" y="1528.6" font-size="14" fill="#345963">7.0 months.</text>
+<text x="384" y="1569.6" font-size="14" fill="#345963">In this subgroup, adding olaparib gave no further benefit over</text>
+<text x="384" y="1590.6" font-size="14" fill="#345963">durvalumab alone (hazard ratio 0.97, 0.49 to 1.98).</text>
+<text x="384" y="1636.1" font-size="12.5" fill="#527078" font-weight="700">durvalumab</text>
+<text x="822" y="1636.1" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.42 (0.22 to 0.80)</text>
+<line x1="384" y1="1654.6" x2="822" y2="1654.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="1649.6" x2="481.91" y2="1659.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="574.37" y1="1649.6" x2="574.37" y2="1659.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="1649.6" x2="666.84" y2="1659.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="759.3" y1="1649.6" x2="759.3" y2="1659.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="1637.6" x2="666.84" y2="1671.6" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="464.86" y1="1654.6" x2="637.07" y2="1654.6" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="464.86" y1="1646.6" x2="464.86" y2="1662.6" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="637.07" y1="1646.6" x2="637.07" y2="1662.6" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="551.12" cy="1654.6" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="1690.1" font-size="12.5" fill="#527078" font-weight="700">durvalumab + olaparib</text>
+<text x="822" y="1690.1" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.41 (0.21 to 0.75)</text>
+<line x1="384" y1="1708.6" x2="822" y2="1708.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="1703.6" x2="481.91" y2="1713.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="481.91" y="1736.6" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="574.37" y1="1703.6" x2="574.37" y2="1713.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="574.37" y="1736.6" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="666.84" y1="1703.6" x2="666.84" y2="1713.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="666.84" y="1736.6" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="759.3" y1="1703.6" x2="759.3" y2="1713.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="759.3" y="1736.6" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="666.84" y1="1691.6" x2="666.84" y2="1725.6" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="458.65" y1="1708.6" x2="628.46" y2="1708.6" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="458.65" y1="1700.6" x2="458.65" y2="1716.6" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="628.46" y1="1700.6" x2="628.46" y2="1716.6" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="547.9" cy="1708.6" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="1763.6" font-size="12" fill="#527078">Hazard ratio (log scale; the dashed line is 1)</text>
+<rect x="860" y="1301.5" width="474" height="522.1" rx="14" fill="#E3E8F6"/>
+<rect x="878" y="1319.5" width="10" height="10" rx="2" fill="#5C77C4"/>
+<text x="898" y="1333.5" font-size="14" fill="#5C77C4" font-weight="800">Mismatch repair proficient (pMMR/MSS)</text>
+<rect x="878" y="1359.1" width="205.66" height="26" rx="13" fill="url(#hatchR)" stroke="#B04A4A" stroke-width="2"/>
+<text x="891" y="1377.1" font-size="13" fill="#B04A4A" font-weight="800">subgroup size not obtainable</text>
+<text x="878" y="1405.6" font-size="12.5" fill="#345963" font-weight="700">pMMR subgroup</text>
+<text x="878" y="1445.6" font-size="14" fill="#345963">Durvalumab against control: median progression-free survival</text>
+<text x="878" y="1466.6" font-size="14" fill="#345963">9.9 against 9.7 months.</text>
+<text x="878" y="1507.6" font-size="14" fill="#345963">Durvalumab plus olaparib against control: median 15.0 against</text>
+<text x="878" y="1528.6" font-size="14" fill="#345963">9.7 months.</text>
+<text x="878" y="1569.6" font-size="14" fill="#345963">Interim overall survival (about 28% maturity): durvalumab 0.77</text>
+<text x="878" y="1590.6" font-size="14" fill="#345963">(0.56 to 1.07), P = 0.120, not significant; durvalumab plus</text>
+<text x="878" y="1611.6" font-size="14" fill="#345963">olaparib 0.59 (0.42 to 0.83), P = 0.003. (Those two are</text>
+<text x="878" y="1632.6" font-size="14" fill="#345963">whole-population figures.)</text>
+<text x="878" y="1678.1" font-size="12.5" fill="#527078" font-weight="700">durvalumab</text>
+<text x="1316" y="1678.1" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.77 (0.60 to 0.97)</text>
+<line x1="878" y1="1696.6" x2="1316" y2="1696.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="1691.6" x2="975.91" y2="1701.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1068.37" y1="1691.6" x2="1068.37" y2="1701.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="1691.6" x2="1160.84" y2="1701.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1253.3" y1="1691.6" x2="1253.3" y2="1701.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="1679.6" x2="1160.84" y2="1713.6" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1092.7" y1="1696.6" x2="1156.78" y2="1696.6" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1092.7" y1="1688.6" x2="1092.7" y2="1704.6" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1156.78" y1="1688.6" x2="1156.78" y2="1704.6" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1125.97" cy="1696.6" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="1732.1" font-size="12.5" fill="#527078" font-weight="700">durvalumab + olaparib</text>
+<text x="1316" y="1732.1" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.57 (0.44 to 0.73)</text>
+<line x1="878" y1="1750.6" x2="1316" y2="1750.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="1745.6" x2="975.91" y2="1755.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="975.91" y="1778.6" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="1068.37" y1="1745.6" x2="1068.37" y2="1755.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1068.37" y="1778.6" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1160.84" y1="1745.6" x2="1160.84" y2="1755.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1160.84" y="1778.6" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1253.3" y1="1745.6" x2="1253.3" y2="1755.6" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1253.3" y="1778.6" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1160.84" y1="1733.6" x2="1160.84" y2="1767.6" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1051.32" y1="1750.6" x2="1118.86" y2="1750.6" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1051.32" y1="1742.6" x2="1051.32" y2="1758.6" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1118.86" y1="1742.6" x2="1118.86" y2="1758.6" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1085.85" cy="1750.6" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="1805.6" font-size="12" fill="#527078">Hazard ratio (log scale; the dashed line is 1)</text>
+<g filter="url(#sh)">
+<rect x="84" y="1869.6" width="1272" height="549.1" rx="18" fill="#FFFFFF"/>
+<path d="M 84 1887.6 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="106" y="1909.6" font-size="18" fill="#123641" font-weight="800">Study 309 / KEYNOTE-775</text>
+<text x="106" y="1953.9" font-size="14" fill="#B04A4A" font-weight="800">Already treated: at least one prior</text>
+<text x="106" y="1974.2" font-size="14" fill="#B04A4A" font-weight="800">platinum-based regimen</text>
+<text x="106" y="2015" font-size="12.5" fill="#527078">n=827 (pMMR 697, dMMR 130).</text>
+<text x="106" y="2033" font-size="12.5" fill="#527078">Lenvatinib with pembrolizumab against</text>
+<text x="106" y="2051" font-size="12.5" fill="#527078">chemotherapy of the physician's choice</text>
+<text x="106" y="2069" font-size="12.5" fill="#527078">(doxorubicin or paclitaxel). The two</text>
+<text x="106" y="2087" font-size="12.5" fill="#527078">primary endpoints were assessed in</text>
+<text x="106" y="2105" font-size="12.5" fill="#527078">the pMMR population and in all patients.</text>
+<rect x="366" y="1891.6" width="474" height="387.9" rx="14" fill="#D8EDE7"/>
+<rect x="384" y="1909.6" width="10" height="10" rx="2" fill="#00806B"/>
+<text x="404" y="1923.6" font-size="14" fill="#00806B" font-weight="800">Mismatch repair deficient (dMMR/MSI-H)</text>
+<text x="384" y="1963.2" font-size="14" fill="#123641" font-weight="800">dMMR, n=130</text>
+<text x="384" y="2005.5" font-size="14" fill="#345963">5-year overall survival 36.5% against 9.8%; 5-year</text>
+<text x="384" y="2026.5" font-size="14" fill="#345963">progression-free survival 26.4% against 10.8% (data cut-off 26</text>
+<text x="384" y="2047.5" font-size="14" fill="#345963">February 2025, overall median follow-up 68.8 months).</text>
+<text x="384" y="2088.5" font-size="14" fill="#345963">No dMMR-specific hazard ratio was reported for this cell.</text>
+<rect x="860" y="1891.6" width="474" height="387.9" rx="14" fill="#E3E8F6"/>
+<rect x="878" y="1909.6" width="10" height="10" rx="2" fill="#5C77C4"/>
+<text x="898" y="1923.6" font-size="14" fill="#5C77C4" font-weight="800">Mismatch repair proficient (pMMR/MSS)</text>
+<text x="878" y="1963.2" font-size="14" fill="#123641" font-weight="800">pMMR, n=697</text>
+<text x="878" y="2005.5" font-size="14" fill="#345963">Median overall survival 17.4 against 12.0 months; median</text>
+<text x="878" y="2026.5" font-size="14" fill="#345963">progression-free survival 6.6 against 3.8 months.</text>
+<text x="878" y="2067.5" font-size="14" fill="#345963">5-year overall survival 16.7% against 7.3%. This is the firmest</text>
+<text x="878" y="2088.5" font-size="14" fill="#345963">set of numbers we have for pMMR disease.</text>
+<text x="878" y="2134" font-size="12.5" fill="#527078" font-weight="700">overall survival</text>
+<text x="1316" y="2134" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.68 (0.56 to 0.84)</text>
+<line x1="878" y1="2152.5" x2="1316" y2="2152.5" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="2147.5" x2="975.91" y2="2157.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1068.37" y1="2147.5" x2="1068.37" y2="2157.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="2147.5" x2="1160.84" y2="2157.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1253.3" y1="2147.5" x2="1253.3" y2="2157.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="2135.5" x2="1160.84" y2="2169.5" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1083.49" y1="2152.5" x2="1137.58" y2="2152.5" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1083.49" y1="2144.5" x2="1083.49" y2="2160.5" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1137.58" y1="2144.5" x2="1137.58" y2="2160.5" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1109.39" cy="2152.5" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="2188" font-size="12.5" fill="#527078" font-weight="700">progression-free survival</text>
+<text x="1316" y="2188" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.60 (0.50 to 0.72)</text>
+<line x1="878" y1="2206.5" x2="1316" y2="2206.5" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="2201.5" x2="975.91" y2="2211.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="975.91" y="2234.5" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="1068.37" y1="2201.5" x2="1068.37" y2="2211.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1068.37" y="2234.5" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1160.84" y1="2201.5" x2="1160.84" y2="2211.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1160.84" y="2234.5" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1253.3" y1="2201.5" x2="1253.3" y2="2211.5" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1253.3" y="2234.5" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1160.84" y1="2189.5" x2="1160.84" y2="2223.5" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1068.37" y1="2206.5" x2="1117.02" y2="2206.5" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1068.37" y1="2198.5" x2="1068.37" y2="2214.5" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1117.02" y1="2198.5" x2="1117.02" y2="2214.5" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1092.7" cy="2206.5" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="2261.5" font-size="12" fill="#527078">Hazard ratio (log scale; the dashed line is 1)</text>
+<rect x="106" y="2295.5" width="1228" height="101.2" rx="14" fill="#F6E2E0"/>
+<text x="124" y="2327" font-size="15.5" fill="#B04A4A" font-weight="800">The cost belongs in the same paragraph</text>
+<text x="124" y="2350.7" font-size="14" fill="#345963">Grade 3 or worse adverse events, 88.9% against 72.7%. By five years (median follow-up 68.8 months), 32.3% against 5.9% had stopped one of the drugs because of a</text>
+<text x="124" y="2371.7" font-size="14" fill="#345963">treatment-related adverse event - a third of them did not get through the whole course.</text>
+<rect x="84" y="2450.7" width="1272" height="515" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="2494.7" font-size="18" fill="#B04A4A" font-weight="800">The counter-example: the same drug does not hold up in the adjuvant setting</text>
+<rect x="110" y="2525.9" width="185.24" height="24" rx="12" fill="#B04A4A"/>
+<text x="120" y="2542.76" font-size="13.5" fill="#FFFFFF" font-weight="800">primary endpoint not met</text>
+<text x="110" y="2575.9" font-size="14" fill="#345963">ENGOT-en11 / GOG-3053 / KEYNOTE-B21: the adjuvant setting, after curative surgery with no residual disease. n=1,095 randomised (pembrolizumab 545, placebo 550), added to</text>
+<text x="110" y="2596.9" font-size="14" fill="#345963">carboplatin and paclitaxel.</text>
+<text x="110" y="2641.9" font-size="14" fill="#123641" font-weight="700">The primary endpoint, disease-free survival in all patients, was not met: 119 events</text>
+<text x="110" y="2662.9" font-size="14" fill="#123641" font-weight="700">(22%) against 121 (22%), hazard ratio 1.02 (0.79 to 1.32), P = 0.570; 2-year disease-free</text>
+<text x="110" y="2683.9" font-size="14" fill="#123641" font-weight="700">survival 75% against 76%.</text>
+<text x="110" y="2729.4" font-size="12.5" fill="#527078" font-weight="700">disease-free survival, all patients</text>
+<text x="703" y="2729.4" font-size="12.5" fill="#B04A4A" font-weight="800" text-anchor="end">1.02 (0.79 to 1.32)</text>
+<line x1="110" y1="2748.9" x2="703" y2="2748.9" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="242.56" y1="2743.9" x2="242.56" y2="2753.9" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="242.56" y="2777.9" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="367.74" y1="2743.9" x2="367.74" y2="2753.9" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="367.74" y="2777.9" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="492.93" y1="2743.9" x2="492.93" y2="2753.9" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="492.93" y="2777.9" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="618.12" y1="2743.9" x2="618.12" y2="2753.9" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="618.12" y="2777.9" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="492.93" y1="2730.9" x2="492.93" y2="2766.9" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="450.36" y1="2748.9" x2="543.07" y2="2748.9" stroke="#B04A4A" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="450.36" y1="2740.9" x2="450.36" y2="2756.9" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<line x1="543.07" y1="2740.9" x2="543.07" y2="2756.9" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="496.51" cy="2748.9" r="7.5" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="110" y="2800.9" font-size="12" fill="#527078">Hazard ratio (log scale; the dashed line is 1)</text>
+<text x="737" y="2643.4" font-size="15.5" fill="#123641" font-weight="800">Pre-specified subgroups by MMR status</text>
+<text x="737" y="2687.1" font-size="14" fill="#00806B" font-weight="800">dMMR, n=281: hazard ratio 0.31 (0.14 to 0.69)</text>
+<line x1="737" y1="2723.4" x2="1330" y2="2723.4" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="869.56" y1="2718.4" x2="869.56" y2="2728.4" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="994.74" y1="2718.4" x2="994.74" y2="2728.4" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1119.93" y1="2718.4" x2="1119.93" y2="2728.4" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1245.12" y1="2718.4" x2="1245.12" y2="2728.4" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1119.93" y1="2707.4" x2="1119.93" y2="2739.4" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="764.84" y1="2723.4" x2="1052.91" y2="2723.4" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="764.84" y1="2715.4" x2="764.84" y2="2731.4" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="1052.91" y1="2715.4" x2="1052.91" y2="2731.4" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="908.41" cy="2723.4" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="737" y="2763.4" font-size="14" fill="#5C77C4" font-weight="800">pMMR, n=814: hazard ratio 1.20 (0.91 to 1.57)</text>
+<line x1="737" y1="2799.7" x2="1330" y2="2799.7" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="869.56" y1="2794.7" x2="869.56" y2="2804.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="869.56" y="2826.7" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="994.74" y1="2794.7" x2="994.74" y2="2804.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="994.74" y="2826.7" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1119.93" y1="2794.7" x2="1119.93" y2="2804.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1119.93" y="2826.7" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1245.12" y1="2794.7" x2="1245.12" y2="2804.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1245.12" y="2826.7" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1119.93" y1="2783.7" x2="1119.93" y2="2815.7" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1102.9" y1="2799.7" x2="1201.4" y2="2799.7" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1102.9" y1="2791.7" x2="1102.9" y2="2807.7" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1201.4" y1="2791.7" x2="1201.4" y2="2807.7" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1152.86" cy="2799.7" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="737" y="2855.7" font-size="14" fill="#345963">The primary endpoint was not met, and the dMMR box is a subgroup analysis with few</text>
+<text x="737" y="2876.7" font-size="14" fill="#345963">events and short follow-up, so it cannot be lifted out on its own as evidence that</text>
+<text x="737" y="2897.7" font-size="14" fill="#345963">adjuvant immunotherapy works. &quot;It works in advanced or recurrent disease&quot; is not</text>
+<text x="737" y="2918.7" font-size="14" fill="#345963">the same as &quot;it works added after surgery&quot;.</text>
+<g filter="url(#sh)">
+<rect x="84" y="2993.7" width="1272" height="295.5" rx="18" fill="#FFFFFF"/>
+<path d="M 84 3011.7 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#7A6E58"/>
+</g>
+<text x="110" y="3037.7" font-size="18" fill="#123641" font-weight="800">Single-drug numbers need the words &quot;single arm&quot; in front of them</text>
+<rect x="110" y="3068.9" width="90.2" height="24" rx="12" fill="#7A6E58"/>
+<text x="120" y="3085.76" font-size="13.5" fill="#FFFFFF" font-weight="800">single arm</text>
+<text x="110" y="3116.9" font-size="14" fill="#123641" font-weight="800">KEYNOTE-158 (pembrolizumab alone, non-randomised, open-label phase 2)</text>
+<text x="110" y="3155.2" font-size="14" fill="#345963">Previously treated advanced MSI-H/dMMR endometrial cancer, efficacy population</text>
+<text x="110" y="3176.2" font-size="14" fill="#345963">n=79, median follow-up 42.6 months: objective response rate 48% (37 to 60), median</text>
+<text x="110" y="3197.2" font-size="14" fill="#345963">progression-free survival 13.1 months, median overall survival not reached.</text>
+<rect x="735" y="3068.9" width="90.2" height="24" rx="12" fill="#7A6E58"/>
+<text x="745" y="3085.76" font-size="13.5" fill="#FFFFFF" font-weight="800">single arm</text>
+<text x="735" y="3116.9" font-size="14" fill="#123641" font-weight="800">GARNET (dostarlimab alone, single-arm, open-label phase 1)</text>
+<text x="735" y="3155.2" font-size="14" fill="#345963">dMMR/MSI-H cohort n=129: objective response rate 43.5% (34.0 to 53.4). MMRp/MSS</text>
+<text x="735" y="3176.2" font-size="14" fill="#345963">cohort n=161: objective response rate 14.1% (9.1 to 20.6).</text>
+<text x="110" y="3242.2" font-size="14" fill="#8F7418" font-weight="700">Single arm means there is nothing to compare against. These response rates cannot be set beside the hazard ratios from the randomised trials above.</text>
+<rect x="84" y="3317.2" width="1272" height="133.58" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="3356.7" font-size="15.5" fill="#345963" font-weight="600">Every number has to be read together with its MMR status and its n. The four trials differ in setting, control arm, endpoint and length of follow-up, so reading</text>
+<text x="110" y="3380.72" font-size="15.5" fill="#345963" font-weight="600">across them does not work. At your next appointment, settle one thing first: has my MMR test been done, and is it deficient or proficient? That line decides which</text>
+<text x="110" y="3404.75" font-size="15.5" fill="#345963" font-weight="600">column above is yours.</text>
+<text x="84" y="3474.78" font-size="15" fill="#527078">Schematic, redrawn from RUBY (Mirza 2023; Powell 2024), NRG-GY018 (Eskander 2023 and 2025, with the cohort sizes from the ClinicalTrials.gov results section for</text>
+<text x="84" y="3497.28" font-size="15" fill="#527078">NCT03914612), DUO-E (Westin 2024), Study 309/KEYNOTE-775 (Makker 2022 and the 2026 five-year follow-up), KEYNOTE-B21 (Van Gorp 2024), KEYNOTE-158 (O'Malley 2022)</text>
+<text x="84" y="3519.78" font-size="15" fill="#527078">and GARNET (Oaknin 2022); the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

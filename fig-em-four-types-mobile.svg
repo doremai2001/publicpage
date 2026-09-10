@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="4572" viewBox="0 0 620 4572" role="img" aria-labelledby="t d">
+  <title id="t">子宮內膜癌四個分子型：比例、預後方向，以及它們的分母</title>
+  <desc id="d">示意圖：子宮內膜癌的四個分子型——怎麼分、各佔多少、各自往哪個方向走。本圖不含任何治療含義。第一段是臨床上怎麼分：FIGO 2023 分期文件轉述 2020 年世界衛生組織第 5 版分類的做法，用三個免疫組化染色（p53、MSH6、PMS2）加上一個 POLE 致病性突變分析，分出四群：POLE 突變型、錯配修復缺損型、p53 異常型、無特定分子輪廓型。p53 的判讀定義是腫瘤細胞強核表現超過 80%、完全沒有表現但內對照保留，或罕見的明確細胞質表現。同時符合兩型時有規則：同時是 POLE 突變或錯配修復缺損、又帶次要的 p53 異常，歸為 POLE 突變型或錯配修復缺損型；分型可以在切片檢體上做，做過了不必在子宮切除檢體上重做。第二段是四型各佔多少，畫成三條比例條，並在圖上標明前兩條是後來的臨床世代，不是 TCGA。Thompson 2022（n=1,357，加拿大 10 家癌症中心與 19 家社區醫院，2016 年全部新診斷、回溯判型）：POLE 突變型 6.3%（85 例）、錯配修復缺損型 28.0%（380 例）、無特定分子輪廓型 47.4%（643 例）、p53 異常型 18.3%（249 例）。Jamieson 2023（n=2,472，單一機構與人口基礎世代合併）：7.4%（184 例）、25.8%（638 例）、49.5%（1,223 例）、17.3%（427 例）。第三條是 León-Castillo 2020（n=410，PORTEC-3 的高風險收案族群，圖上標明不可以當成一般比例使用）：12%（51 例）、33%（137 例）、32%（129 例）、23%（93 例）。同一段另有一格講 TCGA 2013 原始論文：373 例內膜癌做整合分析，其中 248 例做了外顯子定序，四群的原始名稱是 POLE ultramutated、microsatellite instability hypermutated、copy-number low、copy-number high；全文可以看到的比例只有一個，ultramutated 是 17 例、佔那 248 例的 7%，其他三型的比例在可取得的全文裡看不到，所以上面兩條臨床世代的比例不可以說成「TCGA 的比例」；四群的突變密度每百萬鹼基分別是 232、18、2.9、2.3 個突變。第三段是各自往哪個方向走，畫成四條 5 年無復發存活的長條，並在上方用大字標明「高風險族群」：PORTEC-3 高風險族群 n=410，p 小於 0.001，POLE 突變型 98%（n=51）、錯配修復缺損型 72%（n=137）、無特定分子輪廓型 74%（n=129）、p53 異常型 48%（n=93）；圖上並註明這組數字不能代表一般的內膜癌病人。同段附註另一個高風險世代 TransPORTEC（n=116）方向一致：POLE 突變 14 例與微衛星不穩定 19 例沒有任何一例遠端轉移，5 年無復發存活 93% 與 95%；p53 突變 36 例遠端轉移 50%、無復發存活 42%；無特定分子輪廓型遠端轉移 39%、無復發存活 52%，p 小於 0.001。第四段講同一個組織型底下什麼分子型都有，四個數字全部出自 Thompson 2022：漿液性癌裡是 p53 異常型的比例 91.4%；p53 異常型裡是漿液性癌的比例只有 51.8%（129／249）；低惡性度類內膜癌 954 例裡無特定分子輪廓型佔 61.7%；低惡性度類內膜癌裡是 p53 異常型的比例 2.0%（19／954）。同段並列 Huvila 2025（n=2,478 加上 7 篇系統性回顧）：在 POLE 突變型與 p53 異常型裡，分化度與組織型已經沒有預後意義；錯配修復缺損型在第 I 期內也沒有；只有在無特定分子輪廓型裡，分化度與組織型仍然有顯著的預後意義，p 小於 0.001。第五段是檢驗本身還沒普及（Thompson 2022，加拿大 2016 年全世代）：當年做了 MMR 免疫組化的比例 42%（570／1,357，各中心 3.5% 到 95.4%）、做了 p53 免疫組化的比例 21.1%（286／1,357，各中心 10.1% 到 41.9%）；回頭看，54.7% 的 MMRd 病例當年沒做 MMR 檢驗、48.2% 的 p53abn 病例當年沒做 p53 檢驗。圖的最後寫明：這張圖不含任何治療含義，它只回答怎麼分、各佔多少、往哪個方向；分子分型會不會改掉輔助治療整篇寫在另一篇；並附上 TCGA 發表十年後一篇檢討的保留說法——十年下來它對這些病人臨床處置的實質貢獻很有限，其他三群的知識並沒有明顯改變處置。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="4572" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="62" font-size="17" fill="#A98722" font-weight="800" letter-spacing="2px">2020 WHO / TCGA — FOUR MOLECULAR GROUPS</text>
+<text x="40" y="114" font-size="38" fill="#123641" font-weight="800" class="r">四型各佔多少，各自往哪個方向</text>
+<text x="40" y="161.88" font-size="38" fill="#123641" font-weight="800" class="r">走</text>
+<text x="40" y="219.76" font-size="18.5" fill="#527078">比例一律用後來的臨床世代，不是 TCGA——TCGA 那篇論文可以</text>
+<text x="40" y="247.51" font-size="18.5" fill="#527078">看到的比例只有 POLE 那一型。</text>
+<text x="40" y="275.26" font-size="18.5" fill="#527078">這張圖只講「怎麼分、佔多少、往哪個方向」。它不含任何治療含</text>
+<text x="40" y="303.01" font-size="18.5" fill="#527078">義；那一題整篇寫在〈分子分型會怎麼改掉你的治療〉。</text>
+<text x="40" y="380.76" font-size="24" fill="#123641" font-weight="800" class="r">臨床上怎麼分出這四型</text>
+<text x="40" y="414.76" font-size="16" fill="#527078">沒有人為了分型去做全基因體定序。FIGO 2023 分期文件轉述 2020 年世界</text>
+<text x="40" y="437.76" font-size="16" fill="#527078">衛生組織第 5 版分類的做法：</text>
+<g filter="url(#sh)"><rect x="40" y="468.76" width="540" height="572" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="502.76" width="488" height="64" rx="12" fill="#F3E8CD"/>
+<text x="82" y="526.76" font-size="15.5" fill="#8F7418" font-weight="800">免疫組化 p53</text>
+<text x="82" y="546.76" font-size="13" fill="#527078">判讀定義：腫瘤細胞強核表現 &gt;80%、完全沒有表現但內對照保留，或罕見的</text>
+<text x="82" y="565.76" font-size="13" fill="#527078">明確細胞質表現</text>
+<rect x="66" y="574.76" width="488" height="45" rx="12" fill="#F3E8CD"/>
+<text x="82" y="598.76" font-size="15.5" fill="#8F7418" font-weight="800">免疫組化 MSH6</text>
+<text x="82" y="618.76" font-size="13" fill="#527078">錯配修復蛋白</text>
+<rect x="66" y="627.76" width="488" height="45" rx="12" fill="#F3E8CD"/>
+<text x="82" y="651.76" font-size="15.5" fill="#8F7418" font-weight="800">免疫組化 PMS2</text>
+<text x="82" y="671.76" font-size="13" fill="#527078">錯配修復蛋白</text>
+<rect x="66" y="680.76" width="488" height="45" rx="12" fill="#F3E8CD"/>
+<text x="82" y="704.76" font-size="15.5" fill="#8F7418" font-weight="800">POLE 致病性突變分析</text>
+<text x="82" y="724.76" font-size="13" fill="#527078">一個分子檢驗</text>
+<line x1="310" y1="751.76" x2="310" y2="762.56" stroke="#C9A83E" stroke-width="3" stroke-linecap="round"/>
+<polygon points="310,771.76 305.92,762.63 314.08,762.63" fill="#C9A83E"/>
+<rect x="66" y="785.76" width="488" height="92" rx="12" fill="#8F7418"/>
+<text x="84" y="817.76" font-size="16.5" fill="#FFFFFF" font-weight="800">四群：POLE 突變型（POLEmut）／錯配修復缺損型（</text>
+<text x="84" y="841.76" font-size="16.5" fill="#FFFFFF" font-weight="800">MMRd）／p53 異常型（p53abn）／無特定分子輪廓型（</text>
+<text x="84" y="865.76" font-size="16.5" fill="#FFFFFF" font-weight="800">NSMP）</text>
+<circle cx="75" cy="898.76" r="4.5" fill="#C9A83E"/>
+<text x="90" y="903.76" font-size="14.5" fill="#345963">一顆腫瘤同時符合兩型時有規則：同時是 POLE 突變或錯配修復缺損、</text>
+<text x="90" y="924.76" font-size="14.5" fill="#345963">又帶次要的 p53 異常，歸為 POLE 突變型或錯配修復缺損型。</text>
+<circle cx="75" cy="948.76" r="4.5" fill="#C9A83E"/>
+<text x="90" y="953.76" font-size="14.5" fill="#345963">分型可以在切片檢體上做；做過了，就不必在子宮切除的檢體上重做。</text>
+<circle cx="75" cy="977.76" r="4.5" fill="#C9A83E"/>
+<text x="90" y="982.76" font-size="14.5" fill="#345963">這四型的名稱與定義出自 2020 年 WHO 第 5 版分類；上面引的是</text>
+<text x="90" y="1003.76" font-size="14.5" fill="#345963">FIGO 2023 分期文件對它的轉述（WHO 藍皮書本身在付費牆內）。</text>
+<text x="40" y="1074.76" font-size="24" fill="#123641" font-weight="800" class="r">四型各佔多少</text>
+<text x="40" y="1108.76" font-size="16" fill="#527078">比例會隨收案族群跑。下面三條的分母各不相同，不可以互相代換。</text>
+<g filter="url(#sh)"><rect x="40" y="1139.76" width="540" height="891" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="1171.76" width="488" height="42" rx="10" fill="#D8EDE7"/>
+<text x="84" y="1199.76" font-size="17" fill="#00806B" font-weight="800">這兩條是後來的臨床世代，不是 TCGA</text>
+<text x="66" y="1249.76" font-size="14.5" fill="#8F7418" font-weight="700">Thompson 2022｜n=1,357｜加拿大 10 家癌症中心與 19 家社區醫院，</text>
+<text x="66" y="1269.76" font-size="14.5" fill="#8F7418" font-weight="700">2016 年全部新診斷、回溯判型</text>
+<rect x="66" y="1295.76" width="28.74" height="40" rx="6" fill="#00806B"/>
+<rect x="96.74" y="1295.76" width="134.64" height="40" rx="6" fill="#5C77C4"/>
+<rect x="233.38" y="1295.76" width="229.31" height="40" rx="6" fill="#7A6E58"/>
+<rect x="464.7" y="1295.76" width="89.3" height="40" rx="6" fill="#B04A4A"/>
+<text x="86" y="1355.76" font-size="13.5" fill="#00806B" font-weight="800" text-anchor="middle">6.3%</text>
+<text x="164.06" y="1355.76" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">28%</text>
+<text x="348.04" y="1355.76" font-size="13.5" fill="#7A6E58" font-weight="800" text-anchor="middle">47.4%</text>
+<text x="509.35" y="1355.76" font-size="13.5" fill="#B04A4A" font-weight="800" text-anchor="middle">18.3%</text>
+<rect x="66" y="1370.76" width="13" height="13" rx="3" fill="#00806B"/>
+<text x="87" y="1381.76" font-size="13.5" fill="#527078">POLE 突變型（POLEmut）　6.3%（85 例）</text>
+<rect x="66" y="1396.76" width="13" height="13" rx="3" fill="#5C77C4"/>
+<text x="87" y="1407.76" font-size="13.5" fill="#527078">錯配修復缺損型（MMRd）　28%（380 例）</text>
+<rect x="66" y="1422.76" width="13" height="13" rx="3" fill="#7A6E58"/>
+<text x="87" y="1433.76" font-size="13.5" fill="#527078">無特定分子輪廓型（NSMP）　47.4%（643 例）</text>
+<rect x="66" y="1448.76" width="13" height="13" rx="3" fill="#B04A4A"/>
+<text x="87" y="1459.76" font-size="13.5" fill="#527078">p53 異常型（p53abn）　18.3%（249 例）</text>
+<text x="66" y="1516.76" font-size="14.5" fill="#8F7418" font-weight="700">Jamieson 2023｜n=2,472｜單一機構與人口基礎世代合併</text>
+<rect x="66" y="1542.76" width="34.11" height="40" rx="6" fill="#00806B"/>
+<rect x="102.11" y="1542.76" width="123.9" height="40" rx="6" fill="#5C77C4"/>
+<rect x="228.02" y="1542.76" width="239.56" height="40" rx="6" fill="#7A6E58"/>
+<rect x="469.58" y="1542.76" width="84.42" height="40" rx="6" fill="#B04A4A"/>
+<text x="86" y="1602.76" font-size="13.5" fill="#00806B" font-weight="800" text-anchor="middle">7.4%</text>
+<text x="164.06" y="1602.76" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">25.8%</text>
+<text x="347.8" y="1602.76" font-size="13.5" fill="#7A6E58" font-weight="800" text-anchor="middle">49.5%</text>
+<text x="511.79" y="1602.76" font-size="13.5" fill="#B04A4A" font-weight="800" text-anchor="middle">17.3%</text>
+<rect x="66" y="1617.76" width="13" height="13" rx="3" fill="#00806B"/>
+<text x="87" y="1628.76" font-size="13.5" fill="#527078">POLE 突變型（POLEmut）　7.4%（184 例）</text>
+<rect x="66" y="1643.76" width="13" height="13" rx="3" fill="#5C77C4"/>
+<text x="87" y="1654.76" font-size="13.5" fill="#527078">錯配修復缺損型（MMRd）　25.8%（638 例）</text>
+<rect x="66" y="1669.76" width="13" height="13" rx="3" fill="#7A6E58"/>
+<text x="87" y="1680.76" font-size="13.5" fill="#527078">無特定分子輪廓型（NSMP）　49.5%（1,223 例）</text>
+<rect x="66" y="1695.76" width="13" height="13" rx="3" fill="#B04A4A"/>
+<text x="87" y="1706.76" font-size="13.5" fill="#527078">p53 異常型（p53abn）　17.3%（427 例）</text>
+<line x1="66" y1="1753.76" x2="554" y2="1753.76" stroke="#DBD3BF" stroke-width="1.5" stroke-linecap="round"/>
+<text x="66" y="1779.76" font-size="14.5" fill="#B04A4A" font-weight="700">León-Castillo 2020｜n=410｜PORTEC-3 的高風險收案族群——不可以當成</text>
+<text x="66" y="1799.76" font-size="14.5" fill="#B04A4A" font-weight="700">一般比例使用</text>
+<rect x="66" y="1825.76" width="56.56" height="40" rx="6" fill="#00806B"/>
+<rect x="124.56" y="1825.76" width="159.04" height="40" rx="6" fill="#5C77C4"/>
+<rect x="285.6" y="1825.76" width="154.16" height="40" rx="6" fill="#7A6E58"/>
+<rect x="441.76" y="1825.76" width="112.24" height="40" rx="6" fill="#B04A4A"/>
+<text x="94.28" y="1885.76" font-size="13.5" fill="#00806B" font-weight="800" text-anchor="middle">12%</text>
+<text x="204.08" y="1885.76" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">33%</text>
+<text x="362.68" y="1885.76" font-size="13.5" fill="#7A6E58" font-weight="800" text-anchor="middle">32%</text>
+<text x="497.88" y="1885.76" font-size="13.5" fill="#B04A4A" font-weight="800" text-anchor="middle">23%</text>
+<rect x="66" y="1900.76" width="13" height="13" rx="3" fill="#00806B"/>
+<text x="87" y="1911.76" font-size="13.5" fill="#527078">POLE 突變型（POLEmut）　12%（51 例）</text>
+<rect x="66" y="1926.76" width="13" height="13" rx="3" fill="#5C77C4"/>
+<text x="87" y="1937.76" font-size="13.5" fill="#527078">錯配修復缺損型（MMRd）　33%（137 例）</text>
+<rect x="66" y="1952.76" width="13" height="13" rx="3" fill="#7A6E58"/>
+<text x="87" y="1963.76" font-size="13.5" fill="#527078">無特定分子輪廓型（NSMP）　32%（129 例）</text>
+<rect x="66" y="1978.76" width="13" height="13" rx="3" fill="#B04A4A"/>
+<text x="87" y="1989.76" font-size="13.5" fill="#527078">p53 異常型（p53abn）　23%（93 例）</text>
+<rect x="40" y="2046.76" width="540" height="262" rx="16" fill="#ECE8DE"/>
+<text x="66" y="2082.76" font-size="18" fill="#7A6E58" font-weight="800">TCGA 2013 原始論文：可見的比例只有一型</text>
+<circle cx="75" cy="2103.76" r="4.5" fill="#7A6E58"/>
+<text x="90" y="2108.76" font-size="14.5" fill="#345963">373 例內膜癌做整合分析，其中 248 例做了外顯子定序。四群的原始</text>
+<text x="90" y="2129.76" font-size="14.5" fill="#345963">名稱是 POLE ultramutated、microsatellite instability</text>
+<text x="90" y="2150.76" font-size="14.5" fill="#345963">hypermutated、copy-number low、copy-number high。</text>
+<circle cx="75" cy="2174.76" r="4.5" fill="#7A6E58"/>
+<text x="90" y="2179.76" font-size="14.5" fill="#345963">全文可以看到的比例只有一個：ultramutated 是 17 例，佔那 248 例</text>
+<text x="90" y="2200.76" font-size="14.5" fill="#345963">的 7%。其他三型佔多少，在可取得的全文裡看不到——所以上面那兩條</text>
+<text x="90" y="2221.76" font-size="14.5" fill="#345963">臨床世代的比例，不可以說成「TCGA 的比例」。</text>
+<circle cx="75" cy="2245.76" r="4.5" fill="#7A6E58"/>
+<text x="90" y="2250.76" font-size="14.5" fill="#345963">四群的突變密度差了兩個數量級：每百萬鹼基分別是 232、18、2.9、</text>
+<text x="90" y="2271.76" font-size="14.5" fill="#345963">2.3 個突變。</text>
+<text x="40" y="2342.76" font-size="24" fill="#123641" font-weight="800" class="r">各自往哪個方向走</text>
+<text x="40" y="2376.76" font-size="16" fill="#527078">方向是穩定的：POLE 突變型最好、p53 異常型最差，另外兩型在中間。但</text>
+<text x="40" y="2399.76" font-size="16" fill="#527078">下面這組數字的分母要看清楚。</text>
+<rect x="40" y="2430.76" width="540" height="646" rx="18" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.5"/>
+<rect x="66" y="2464.76" width="488" height="46" rx="10" fill="#B04A4A"/>
+<text x="84" y="2495.76" font-size="24" fill="#FFFFFF" font-weight="800" letter-spacing="4px">高風險族群</text>
+<text x="66" y="2538.76" font-size="15" fill="#B04A4A" font-weight="700">PORTEC-3 收的是高風險內膜癌，410 例做了分子分型。這組數字不能拿</text>
+<text x="66" y="2560.76" font-size="15" fill="#B04A4A" font-weight="700">去代表一般的內膜癌病人。</text>
+<text x="66" y="2608.76" font-size="15.5" fill="#123641" font-weight="800">5 年無復發存活（PORTEC-3 高風險族群，n=410，p&lt;0.001）</text>
+<text x="66" y="2638.76" font-size="14.5" fill="#123641" font-weight="800">POLE 突變型</text>
+<rect x="66" y="2650.76" width="360.64" height="20" rx="5" fill="#00806B"/>
+<text x="554" y="2667.76" font-size="20" fill="#00806B" font-weight="800" text-anchor="end">98%</text>
+<text x="554" y="2685.76" font-size="12.5" fill="#527078" text-anchor="end">n=51</text>
+<text x="66" y="2717.76" font-size="14.5" fill="#527078" font-weight="600">錯配修復缺損型</text>
+<rect x="66" y="2729.76" width="264.96" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="2746.76" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">72%</text>
+<text x="554" y="2764.76" font-size="12.5" fill="#527078" text-anchor="end">n=137</text>
+<text x="66" y="2796.76" font-size="14.5" fill="#527078" font-weight="600">無特定分子輪廓型</text>
+<rect x="66" y="2808.76" width="272.32" height="20" rx="5" fill="#7A6E58"/>
+<text x="554" y="2825.76" font-size="20" fill="#7A6E58" font-weight="800" text-anchor="end">74%</text>
+<text x="554" y="2843.76" font-size="12.5" fill="#527078" text-anchor="end">n=129</text>
+<text x="66" y="2875.76" font-size="14.5" fill="#123641" font-weight="800">p53 異常型</text>
+<rect x="66" y="2887.76" width="176.64" height="20" rx="5" fill="#B04A4A"/>
+<text x="554" y="2904.76" font-size="20" fill="#B04A4A" font-weight="800" text-anchor="end">48%</text>
+<text x="554" y="2922.76" font-size="12.5" fill="#527078" text-anchor="end">n=93</text>
+<line x1="66" y1="2936.76" x2="434" y2="2936.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="66" y1="2936.76" x2="66" y2="2941.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="2957.76" font-size="12.5" fill="#527078" text-anchor="middle">0%</text>
+<line x1="158" y1="2936.76" x2="158" y2="2941.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="158" y="2957.76" font-size="12.5" fill="#527078" text-anchor="middle">25%</text>
+<line x1="250" y1="2936.76" x2="250" y2="2941.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="250" y="2957.76" font-size="12.5" fill="#527078" text-anchor="middle">50%</text>
+<line x1="342" y1="2936.76" x2="342" y2="2941.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="342" y="2957.76" font-size="12.5" fill="#527078" text-anchor="middle">75%</text>
+<line x1="434" y1="2936.76" x2="434" y2="2941.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="434" y="2957.76" font-size="12.5" fill="#527078" text-anchor="middle">100%</text>
+<text x="66" y="2988.76" font-size="14" fill="#527078">另一個高風險世代（TransPORTEC，n=116）方向一致：POLE 突變（14 例）</text>
+<text x="66" y="3009.76" font-size="14" fill="#527078">與微衛星不穩定（19 例）兩群沒有任何一例遠端轉移，5 年無復發存活 93% 與</text>
+<text x="66" y="3030.76" font-size="14" fill="#527078">95%；p53 突變那群（36 例）遠端轉移 50%、無復發存活 42%；無特定分子輪</text>
+<text x="66" y="3051.76" font-size="14" fill="#527078">廓型遠端轉移 39%、無復發存活 52%（p&lt;0.001）。</text>
+<text x="40" y="3110.76" font-size="24" fill="#123641" font-weight="800" class="r">同一個組織型底下，什麼分子型都有</text>
+<text x="40" y="3144.76" font-size="16" fill="#527078">這就是為什麼分子型被當成地基、組織型是上層。兩個方向的數字要一起看。</text>
+<g filter="url(#sh)"><rect x="40" y="3175.76" width="540" height="561" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="3209.76" width="488" height="76" rx="12" fill="#ECE8DE"/>
+<text x="82" y="3235.76" font-size="14" fill="#527078" font-weight="600">漿液性癌裡是 p53 異常型的比例</text>
+<text x="538" y="3267.76" font-size="30" fill="#B04A4A" font-weight="800" text-anchor="end">91.4%</text>
+<rect x="66" y="3293.76" width="488" height="76" rx="12" fill="#ECE8DE"/>
+<text x="82" y="3319.76" font-size="14" fill="#527078" font-weight="600">p53 異常型裡是漿液性癌的比例</text>
+<text x="538" y="3351.76" font-size="30" fill="#B04A4A" font-weight="800" text-anchor="end">51.8%</text>
+<rect x="66" y="3377.76" width="488" height="76" rx="12" fill="#ECE8DE"/>
+<text x="82" y="3403.76" font-size="14" fill="#527078" font-weight="600">低惡性度類內膜癌（954 例）裡是無特定分子輪廓型的比例</text>
+<text x="538" y="3435.76" font-size="30" fill="#7A6E58" font-weight="800" text-anchor="end">61.7%</text>
+<rect x="66" y="3461.76" width="488" height="76" rx="12" fill="#ECE8DE"/>
+<text x="82" y="3487.76" font-size="14" fill="#527078" font-weight="600">低惡性度類內膜癌裡是 p53 異常型的比例</text>
+<text x="538" y="3519.76" font-size="30" fill="#B04A4A" font-weight="800" text-anchor="end">2.0%</text>
+<text x="66" y="3575.76" font-size="14.5" fill="#345963">全部出自 Thompson 2022（n=1,357）。p53 異常型的 51.8% 是 129／249；</text>
+<text x="66" y="3596.76" font-size="14.5" fill="#345963">低惡性度類內膜癌的 2.0% 是 19／954。翻成白話：預後最差的那一群，有</text>
+<text x="66" y="3617.76" font-size="14.5" fill="#345963">一半不長成大家以為的樣子。</text>
+<text x="66" y="3648.76" font-size="14.5" fill="#527078">分化度與組織型在分子型內還剩多少意義（Huvila 2025，n=2,478 加上 7</text>
+<text x="66" y="3669.76" font-size="14.5" fill="#527078">篇系統性回顧）：在 POLE 突變型與 p53 異常型裡，分化度與組織型已經沒</text>
+<text x="66" y="3690.76" font-size="14.5" fill="#527078">有預後意義；錯配修復缺損型在第 I 期內也沒有；只有在無特定分子輪廓型</text>
+<text x="66" y="3711.76" font-size="14.5" fill="#527078">裡，分化度與組織型仍然有顯著的預後意義（p&lt;0.001）。</text>
+<text x="40" y="3770.76" font-size="24" fill="#123641" font-weight="800" class="r">檢驗本身還沒普及</text>
+<rect x="40" y="3810.76" width="540" height="428" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="66" y="3844.76" width="488" height="82" rx="12" fill="#E3E8F6"/>
+<text x="82" y="3870.76" font-size="14" fill="#527078" font-weight="600">當年做了 MMR 免疫組化的比例</text>
+<text x="82" y="3910.76" font-size="12.5" fill="#527078">570／1,357，各中心 3.5% 到 95.4%</text>
+<text x="538" y="3892.76" font-size="28" fill="#5C77C4" font-weight="800" text-anchor="end">42%</text>
+<rect x="66" y="3934.76" width="488" height="82" rx="12" fill="#E3E8F6"/>
+<text x="82" y="3960.76" font-size="14" fill="#527078" font-weight="600">當年做了 p53 免疫組化的比例</text>
+<text x="82" y="4000.76" font-size="12.5" fill="#527078">286／1,357，各中心 10.1% 到 41.9%</text>
+<text x="538" y="3982.76" font-size="28" fill="#5C77C4" font-weight="800" text-anchor="end">21.1%</text>
+<rect x="66" y="4024.76" width="488" height="62" rx="12" fill="#E3E8F6"/>
+<text x="82" y="4050.76" font-size="14" fill="#527078" font-weight="600">回頭看，MMRd 病例當年沒做 MMR 檢驗的比例</text>
+<text x="538" y="4072.76" font-size="28" fill="#5C77C4" font-weight="800" text-anchor="end">54.7%</text>
+<rect x="66" y="4094.76" width="488" height="62" rx="12" fill="#E3E8F6"/>
+<text x="82" y="4120.76" font-size="14" fill="#527078" font-weight="600">回頭看，p53abn 病例當年沒做 p53 檢驗的比例</text>
+<text x="538" y="4142.76" font-size="28" fill="#5C77C4" font-weight="800" text-anchor="end">48.2%</text>
+<text x="66" y="4192.76" font-size="14" fill="#527078">Thompson 2022，加拿大 2016 年全世代。這一格講的是「當年有沒有驗」，</text>
+<text x="66" y="4213.76" font-size="14" fill="#527078">不是「該不該驗」。</text>
+<rect x="40" y="4264.76" width="540" height="188" rx="16" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="4300.76" font-size="19" fill="#8F7418" font-weight="800">這張圖不含任何治療含義</text>
+<text x="66" y="4333.76" font-size="15.5" fill="#345963" font-weight="600">它只回答三件事：怎麼分、各佔多少、往哪個方向。分子分型會不會改</text>
+<text x="66" y="4356.76" font-size="15.5" fill="#345963" font-weight="600">掉輔助治療、哪些證據已經讀出來、哪些還在做，整篇寫在〈分子分型</text>
+<text x="66" y="4379.76" font-size="15.5" fill="#345963" font-weight="600">會怎麼改掉你的治療〉。順帶一提，TCGA 發表十年之後的一篇檢討寫</text>
+<text x="66" y="4402.76" font-size="15.5" fill="#345963" font-weight="600">得比較保留：十年下來，它對這些病人臨床處置的實質貢獻很有限，其</text>
+<text x="66" y="4425.76" font-size="15.5" fill="#345963" font-weight="600">他三群的知識並沒有明顯改變處置。</text>
+<text x="40" y="4478.76" font-size="15" fill="#527078">示意圖，依 TCGA 2013（Nature）、Thompson 2022、Jamieson 2023、</text>
+<text x="40" y="4501.26" font-size="15" fill="#527078">León-Castillo 2020（PORTEC-3）、Stelloo 2015（TransPORTEC）、</text>
+<text x="40" y="4523.76" font-size="15" fill="#527078">Huvila 2025、Espinosa &amp; Prat 2024 與 FIGO 2023 分期文件（轉述 WHO 2020</text>
+<text x="40" y="4546.26" font-size="15" fill="#527078">分類）重繪；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="5449" viewBox="0 0 620 5449" role="img" aria-labelledby="t d">
+  <title id="t">The four molecular groups of endometrial cancer: shares, direction of outcome, and their denominators</title>
+  <desc id="d">Schematic on the four molecular groups of endometrial cancer: how they are told apart, what share each one is, and which way each points. The figure carries no treatment implication. The first section covers how the groups are assigned in practice. The FIGO 2023 staging paper restates the approach of the 2020 WHO 5th edition classification: three immunohistochemical stains (p53, MSH6, PMS2) plus one POLE pathogenic mutation analysis give four groups — POLE-mutant, mismatch repair deficient, p53-abnormal, and no specific molecular profile. p53 is read as abnormal on strong nuclear expression in more than 80 per cent of tumour cells, complete absence of expression with retained internal control, or rarely unequivocal cytoplasmic expression. There is a rule for tumours meeting more than one definition: POLE-mutant or mismatch repair deficient with a secondary p53 abnormality counts as POLE-mutant or mismatch repair deficient. The groups can be assigned on the biopsy and need not be repeated on the hysterectomy specimen. The second section gives the proportions as three stacked bars, and states on the figure that the first two are later clinical cohorts and not TCGA. Thompson 2022 (n=1,357, 10 cancer centres and 19 community hospitals in Canada, every new diagnosis in 2016, typed retrospectively): POLE-mutant 6.3 per cent (85), mismatch repair deficient 28.0 per cent (380), no specific molecular profile 47.4 per cent (643), p53-abnormal 18.3 per cent (249). Jamieson 2023 (n=2,472, a single-institution and a population-based cohort combined): 7.4 per cent (184), 25.8 per cent (638), 49.5 per cent (1,223), 17.3 per cent (427). The third bar is Leon-Castillo 2020 (n=410, the high-risk cohort recruited to PORTEC-3, labelled on the figure as not usable as a general proportion): 12 per cent (51), 33 per cent (137), 32 per cent (129), 23 per cent (93). A panel in the same section covers the original TCGA 2013 paper: 373 endometrial carcinomas analysed together, 248 of them with exome sequencing, the original group names being POLE ultramutated, microsatellite instability hypermutated, copy-number low and copy-number high; only one proportion is visible in the accessible full text, the ultramutated group at 17 tumours or 7 per cent of those 248, with the shares of the other three groups not visible there, which is why the two clinical cohorts above must not be described as the TCGA proportions; and mutation rates across the four groups of 232, 18, 2.9 and 2.3 mutations per megabase. The third section gives the direction of outcome as four bars of 5-year recurrence-free survival, under a large label reading HIGH-RISK COHORT: PORTEC-3 high-risk cohort, n=410, p less than 0.001, POLE-mutant 98 per cent (n=51), mismatch repair deficient 72 per cent (n=137), no specific molecular profile 74 per cent (n=129), p53-abnormal 48 per cent (n=93); the figure states that these numbers cannot stand for endometrial cancer in general. A note adds that a second high-risk cohort, TransPORTEC (n=116), points the same way: neither the 14 POLE-mutant nor the 19 microsatellite-unstable tumours had a single distant metastasis, with 5-year recurrence-free survival of 93 and 95 per cent; the 36 p53-mutant tumours had 50 per cent distant metastasis and 42 per cent recurrence-free survival; and the group with no specific molecular profile had 39 and 52 per cent, p less than 0.001. The fourth section shows that every molecular group turns up under one histological type, with four numbers all from Thompson 2022: 91.4 per cent of serous carcinomas are p53-abnormal; only 51.8 per cent of p53-abnormal tumours are serous (129 of 249); 61.7 per cent of the 954 low-grade endometrioid carcinomas have no specific molecular profile; and 2.0 per cent of low-grade endometrioid carcinomas are p53-abnormal (19 of 954). Alongside it, Huvila 2025 (n=2,478 plus a systematic review of 7 studies): in the POLE-mutant and p53-abnormal groups grade and histological type no longer carry prognostic meaning, nor do they in mismatch repair deficient stage I disease, and only in the group with no specific molecular profile do they still carry significant prognostic meaning, p less than 0.001. The fifth section shows that the tests themselves are not yet universal (Thompson 2022, the whole 2016 Canadian cohort): 42 per cent of cases had mismatch repair immunohistochemistry at the time (570 of 1,357, ranging from 3.5 to 95.4 per cent across centres) and 21.1 per cent had p53 immunohistochemistry (286 of 1,357, 10.1 to 41.9 per cent across centres); looking back, 54.7 per cent of mismatch repair deficient cases had had no mismatch repair test and 48.2 per cent of p53-abnormal cases had had no p53 test. The figure closes by stating that it carries no treatment implication and answers only how the groups are told apart, how common each is and which way each points, with the question of adjuvant treatment left to its own article; and it adds the measured verdict of a review published ten years after TCGA, that over that decade the practical contribution to clinical management was limited and knowledge about the other three groups had not changed management significantly.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="5449" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="62" font-size="17" fill="#A98722" font-weight="800" letter-spacing="2px">2020 WHO / TCGA — FOUR MOLECULAR GROUPS</text>
+<text x="40" y="114" font-size="33" fill="#123641" font-weight="800" class="r">What share each of the four</text>
+<text x="40" y="155.58" font-size="33" fill="#123641" font-weight="800" class="r">groups is, and which way each</text>
+<text x="40" y="197.16" font-size="33" fill="#123641" font-weight="800" class="r">one points</text>
+<text x="40" y="248.74" font-size="18.5" fill="#527078">The proportions come from later clinical cohorts, not from</text>
+<text x="40" y="276.49" font-size="18.5" fill="#527078">TCGA — the only proportion visible in the TCGA paper itself</text>
+<text x="40" y="304.24" font-size="18.5" fill="#527078">is the POLE group.</text>
+<text x="40" y="331.99" font-size="18.5" fill="#527078">This figure covers how the groups are told apart, how</text>
+<text x="40" y="359.74" font-size="18.5" fill="#527078">common each is, and which way each points. It carries no</text>
+<text x="40" y="387.49" font-size="18.5" fill="#527078">treatment implication; that question has an article of its</text>
+<text x="40" y="415.24" font-size="18.5" fill="#527078">own.</text>
+<text x="40" y="492.99" font-size="24" fill="#123641" font-weight="800" class="r">How the four groups are told apart in practice</text>
+<text x="40" y="526.99" font-size="16" fill="#527078">Nobody sequences a whole genome to assign a group. The FIGO 2023</text>
+<text x="40" y="549.99" font-size="16" fill="#527078">staging paper restates the approach of the 2020 WHO 5th edition</text>
+<text x="40" y="572.99" font-size="16" fill="#527078">classification:</text>
+<g filter="url(#sh)"><rect x="40" y="603.99" width="540" height="675" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="637.99" width="488" height="83" rx="12" fill="#F3E8CD"/>
+<text x="82" y="661.99" font-size="15.5" fill="#8F7418" font-weight="800">p53 immunohistochemistry</text>
+<text x="82" y="681.99" font-size="13" fill="#527078">reading defined as strong nuclear expression in &gt;80% of tumour cells,</text>
+<text x="82" y="700.99" font-size="13" fill="#527078">complete absence with retained internal control, or rarely</text>
+<text x="82" y="719.99" font-size="13" fill="#527078">unequivocal cytoplasmic expression</text>
+<rect x="66" y="728.99" width="488" height="45" rx="12" fill="#F3E8CD"/>
+<text x="82" y="752.99" font-size="15.5" fill="#8F7418" font-weight="800">MSH6 immunohistochemistry</text>
+<text x="82" y="772.99" font-size="13" fill="#527078">a mismatch repair protein</text>
+<rect x="66" y="781.99" width="488" height="45" rx="12" fill="#F3E8CD"/>
+<text x="82" y="805.99" font-size="15.5" fill="#8F7418" font-weight="800">PMS2 immunohistochemistry</text>
+<text x="82" y="825.99" font-size="13" fill="#527078">a mismatch repair protein</text>
+<rect x="66" y="834.99" width="488" height="45" rx="12" fill="#F3E8CD"/>
+<text x="82" y="858.99" font-size="15.5" fill="#8F7418" font-weight="800">POLE pathogenic mutation analysis</text>
+<text x="82" y="878.99" font-size="13" fill="#527078">one molecular test</text>
+<line x1="310" y1="905.99" x2="310" y2="916.79" stroke="#C9A83E" stroke-width="3" stroke-linecap="round"/>
+<polygon points="310,925.99 305.92,916.86 314.08,916.86" fill="#C9A83E"/>
+<rect x="66" y="939.99" width="488" height="92" rx="12" fill="#8F7418"/>
+<text x="84" y="971.99" font-size="16.5" fill="#FFFFFF" font-weight="800">Four groups: POLE-mutant (POLEmut) / mismatch</text>
+<text x="84" y="995.99" font-size="16.5" fill="#FFFFFF" font-weight="800">repair deficient (MMRd) / p53-abnormal (p53abn) / no</text>
+<text x="84" y="1019.99" font-size="16.5" fill="#FFFFFF" font-weight="800">specific molecular profile (NSMP)</text>
+<circle cx="75" cy="1052.99" r="4.5" fill="#C9A83E"/>
+<text x="90" y="1057.99" font-size="14.5" fill="#345963">There is a rule for tumours that meet more than one definition:</text>
+<text x="90" y="1078.99" font-size="14.5" fill="#345963">with POLEmut or MMRd plus a secondary p53 abnormality, the</text>
+<text x="90" y="1099.99" font-size="14.5" fill="#345963">tumour is counted as POLEmut or MMRd.</text>
+<circle cx="75" cy="1123.99" r="4.5" fill="#C9A83E"/>
+<text x="90" y="1128.99" font-size="14.5" fill="#345963">The groups can be assigned on the biopsy; once done, it need not</text>
+<text x="90" y="1149.99" font-size="14.5" fill="#345963">be repeated on the hysterectomy specimen.</text>
+<circle cx="75" cy="1173.99" r="4.5" fill="#C9A83E"/>
+<text x="90" y="1178.99" font-size="14.5" fill="#345963">The names and definitions come from the 2020 WHO 5th edition</text>
+<text x="90" y="1199.99" font-size="14.5" fill="#345963">classification; what is quoted here is the FIGO 2023 staging</text>
+<text x="90" y="1220.99" font-size="14.5" fill="#345963">paper restating it, because the WHO blue book itself sits behind</text>
+<text x="90" y="1241.99" font-size="14.5" fill="#345963">a paywall.</text>
+<text x="40" y="1312.99" font-size="24" fill="#123641" font-weight="800" class="r">What share each group is</text>
+<text x="40" y="1346.99" font-size="16" fill="#527078">The proportions move with the cohort that was recruited. The three</text>
+<text x="40" y="1369.99" font-size="16" fill="#527078">bars below have different denominators and cannot stand in for one</text>
+<text x="40" y="1392.99" font-size="16" fill="#527078">another.</text>
+<g filter="url(#sh)"><rect x="40" y="1423.99" width="540" height="955" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="1455.99" width="488" height="66" rx="10" fill="#D8EDE7"/>
+<text x="84" y="1483.99" font-size="17" fill="#00806B" font-weight="800">These two are later clinical cohorts — they are not</text>
+<text x="84" y="1507.99" font-size="17" fill="#00806B" font-weight="800">TCGA</text>
+<text x="66" y="1557.99" font-size="14.5" fill="#8F7418" font-weight="700">Thompson 2022 | n=1,357 | 10 cancer centres and 19 community</text>
+<text x="66" y="1577.99" font-size="14.5" fill="#8F7418" font-weight="700">hospitals in Canada, every new diagnosis in 2016, typed</text>
+<text x="66" y="1597.99" font-size="14.5" fill="#8F7418" font-weight="700">retrospectively</text>
+<rect x="66" y="1623.99" width="28.74" height="40" rx="6" fill="#00806B"/>
+<rect x="96.74" y="1623.99" width="134.64" height="40" rx="6" fill="#5C77C4"/>
+<rect x="233.38" y="1623.99" width="229.31" height="40" rx="6" fill="#7A6E58"/>
+<rect x="464.7" y="1623.99" width="89.3" height="40" rx="6" fill="#B04A4A"/>
+<text x="86" y="1683.99" font-size="13.5" fill="#00806B" font-weight="800" text-anchor="middle">6.3%</text>
+<text x="164.06" y="1683.99" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">28%</text>
+<text x="348.04" y="1683.99" font-size="13.5" fill="#7A6E58" font-weight="800" text-anchor="middle">47.4%</text>
+<text x="509.35" y="1683.99" font-size="13.5" fill="#B04A4A" font-weight="800" text-anchor="middle">18.3%</text>
+<rect x="66" y="1698.99" width="13" height="13" rx="3" fill="#00806B"/>
+<text x="87" y="1709.99" font-size="13.5" fill="#527078">POLE-mutant (POLEmut) — 6.3% (n=85)</text>
+<rect x="66" y="1724.99" width="13" height="13" rx="3" fill="#5C77C4"/>
+<text x="87" y="1735.99" font-size="13.5" fill="#527078">Mismatch repair deficient (MMRd) — 28% (n=380)</text>
+<rect x="66" y="1750.99" width="13" height="13" rx="3" fill="#7A6E58"/>
+<text x="87" y="1761.99" font-size="13.5" fill="#527078">No specific molecular profile (NSMP) — 47.4% (n=643)</text>
+<rect x="66" y="1776.99" width="13" height="13" rx="3" fill="#B04A4A"/>
+<text x="87" y="1787.99" font-size="13.5" fill="#527078">p53-abnormal (p53abn) — 18.3% (n=249)</text>
+<text x="66" y="1844.99" font-size="14.5" fill="#8F7418" font-weight="700">Jamieson 2023 | n=2,472 | a single-institution and a population-based</text>
+<text x="66" y="1864.99" font-size="14.5" fill="#8F7418" font-weight="700">cohort combined</text>
+<rect x="66" y="1890.99" width="34.11" height="40" rx="6" fill="#00806B"/>
+<rect x="102.11" y="1890.99" width="123.9" height="40" rx="6" fill="#5C77C4"/>
+<rect x="228.02" y="1890.99" width="239.56" height="40" rx="6" fill="#7A6E58"/>
+<rect x="469.58" y="1890.99" width="84.42" height="40" rx="6" fill="#B04A4A"/>
+<text x="86" y="1950.99" font-size="13.5" fill="#00806B" font-weight="800" text-anchor="middle">7.4%</text>
+<text x="164.06" y="1950.99" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">25.8%</text>
+<text x="347.8" y="1950.99" font-size="13.5" fill="#7A6E58" font-weight="800" text-anchor="middle">49.5%</text>
+<text x="511.79" y="1950.99" font-size="13.5" fill="#B04A4A" font-weight="800" text-anchor="middle">17.3%</text>
+<rect x="66" y="1965.99" width="13" height="13" rx="3" fill="#00806B"/>
+<text x="87" y="1976.99" font-size="13.5" fill="#527078">POLE-mutant (POLEmut) — 7.4% (n=184)</text>
+<rect x="66" y="1991.99" width="13" height="13" rx="3" fill="#5C77C4"/>
+<text x="87" y="2002.99" font-size="13.5" fill="#527078">Mismatch repair deficient (MMRd) — 25.8% (n=638)</text>
+<rect x="66" y="2017.99" width="13" height="13" rx="3" fill="#7A6E58"/>
+<text x="87" y="2028.99" font-size="13.5" fill="#527078">No specific molecular profile (NSMP) — 49.5% (n=1,223)</text>
+<rect x="66" y="2043.99" width="13" height="13" rx="3" fill="#B04A4A"/>
+<text x="87" y="2054.99" font-size="13.5" fill="#527078">p53-abnormal (p53abn) — 17.3% (n=427)</text>
+<line x1="66" y1="2101.99" x2="554" y2="2101.99" stroke="#DBD3BF" stroke-width="1.5" stroke-linecap="round"/>
+<text x="66" y="2127.99" font-size="14.5" fill="#B04A4A" font-weight="700">Leon-Castillo 2020 | n=410 | the high-risk cohort recruited to</text>
+<text x="66" y="2147.99" font-size="14.5" fill="#B04A4A" font-weight="700">PORTEC-3 — not usable as a general proportion</text>
+<rect x="66" y="2173.99" width="56.56" height="40" rx="6" fill="#00806B"/>
+<rect x="124.56" y="2173.99" width="159.04" height="40" rx="6" fill="#5C77C4"/>
+<rect x="285.6" y="2173.99" width="154.16" height="40" rx="6" fill="#7A6E58"/>
+<rect x="441.76" y="2173.99" width="112.24" height="40" rx="6" fill="#B04A4A"/>
+<text x="94.28" y="2233.99" font-size="13.5" fill="#00806B" font-weight="800" text-anchor="middle">12%</text>
+<text x="204.08" y="2233.99" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">33%</text>
+<text x="362.68" y="2233.99" font-size="13.5" fill="#7A6E58" font-weight="800" text-anchor="middle">32%</text>
+<text x="497.88" y="2233.99" font-size="13.5" fill="#B04A4A" font-weight="800" text-anchor="middle">23%</text>
+<rect x="66" y="2248.99" width="13" height="13" rx="3" fill="#00806B"/>
+<text x="87" y="2259.99" font-size="13.5" fill="#527078">POLE-mutant (POLEmut) — 12% (n=51)</text>
+<rect x="66" y="2274.99" width="13" height="13" rx="3" fill="#5C77C4"/>
+<text x="87" y="2285.99" font-size="13.5" fill="#527078">Mismatch repair deficient (MMRd) — 33% (n=137)</text>
+<rect x="66" y="2300.99" width="13" height="13" rx="3" fill="#7A6E58"/>
+<text x="87" y="2311.99" font-size="13.5" fill="#527078">No specific molecular profile (NSMP) — 32% (n=129)</text>
+<rect x="66" y="2326.99" width="13" height="13" rx="3" fill="#B04A4A"/>
+<text x="87" y="2337.99" font-size="13.5" fill="#527078">p53-abnormal (p53abn) — 23% (n=93)</text>
+<rect x="40" y="2394.99" width="540" height="325" rx="16" fill="#ECE8DE"/>
+<text x="66" y="2430.99" font-size="18" fill="#7A6E58" font-weight="800">The original TCGA 2013 paper: only one proportion is visible in it</text>
+<circle cx="75" cy="2451.99" r="4.5" fill="#7A6E58"/>
+<text x="90" y="2456.99" font-size="14.5" fill="#345963">373 endometrial carcinomas were analysed together, 248 of</text>
+<text x="90" y="2477.99" font-size="14.5" fill="#345963">them with exome sequencing. The original names of the four</text>
+<text x="90" y="2498.99" font-size="14.5" fill="#345963">groups were POLE ultramutated, microsatellite instability</text>
+<text x="90" y="2519.99" font-size="14.5" fill="#345963">hypermutated, copy-number low and copy-number high.</text>
+<circle cx="75" cy="2543.99" r="4.5" fill="#7A6E58"/>
+<text x="90" y="2548.99" font-size="14.5" fill="#345963">Only one proportion appears in the accessible full text: the</text>
+<text x="90" y="2569.99" font-size="14.5" fill="#345963">ultramutated group was 17 tumours, 7% of those 248. The</text>
+<text x="90" y="2590.99" font-size="14.5" fill="#345963">shares of the other three groups are not visible there — which</text>
+<text x="90" y="2611.99" font-size="14.5" fill="#345963">is why the two clinical cohorts above must not be described as</text>
+<text x="90" y="2632.99" font-size="14.5" fill="#345963">&quot;the TCGA proportions&quot;.</text>
+<circle cx="75" cy="2656.99" r="4.5" fill="#7A6E58"/>
+<text x="90" y="2661.99" font-size="14.5" fill="#345963">Mutation rates across the four groups differ by two orders of</text>
+<text x="90" y="2682.99" font-size="14.5" fill="#345963">magnitude: 232, 18, 2.9 and 2.3 mutations per megabase.</text>
+<text x="40" y="2753.99" font-size="24" fill="#123641" font-weight="800" class="r">Which way each group points</text>
+<text x="40" y="2787.99" font-size="16" fill="#527078">The direction is stable: POLEmut does best, p53abn worst, the other</text>
+<text x="40" y="2810.99" font-size="16" fill="#527078">two in between. But look hard at the denominator underneath these</text>
+<text x="40" y="2833.99" font-size="16" fill="#527078">numbers.</text>
+<rect x="40" y="2864.99" width="540" height="731" rx="18" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.5"/>
+<rect x="66" y="2898.99" width="488" height="46" rx="10" fill="#B04A4A"/>
+<text x="84" y="2929.99" font-size="24" fill="#FFFFFF" font-weight="800" letter-spacing="2px">HIGH-RISK COHORT</text>
+<text x="66" y="2972.99" font-size="15" fill="#B04A4A" font-weight="700">PORTEC-3 recruited high-risk endometrial cancer, and 410 of</text>
+<text x="66" y="2994.99" font-size="15" fill="#B04A4A" font-weight="700">those tumours were molecularly classified. These figures cannot</text>
+<text x="66" y="3016.99" font-size="15" fill="#B04A4A" font-weight="700">stand for endometrial cancer in general.</text>
+<text x="66" y="3064.99" font-size="15.5" fill="#123641" font-weight="800">5-year recurrence-free survival (PORTEC-3 high-risk cohort, n=410, p&lt;0.001)</text>
+<text x="66" y="3094.99" font-size="14.5" fill="#123641" font-weight="800">POLE-mutant</text>
+<rect x="66" y="3106.99" width="360.64" height="20" rx="5" fill="#00806B"/>
+<text x="554" y="3123.99" font-size="20" fill="#00806B" font-weight="800" text-anchor="end">98%</text>
+<text x="554" y="3141.99" font-size="12.5" fill="#527078" text-anchor="end">n=51</text>
+<text x="66" y="3173.99" font-size="14.5" fill="#527078" font-weight="600">Mismatch repair deficient</text>
+<rect x="66" y="3185.99" width="264.96" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="3202.99" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">72%</text>
+<text x="554" y="3220.99" font-size="12.5" fill="#527078" text-anchor="end">n=137</text>
+<text x="66" y="3252.99" font-size="14.5" fill="#527078" font-weight="600">No specific molecular profile</text>
+<rect x="66" y="3264.99" width="272.32" height="20" rx="5" fill="#7A6E58"/>
+<text x="554" y="3281.99" font-size="20" fill="#7A6E58" font-weight="800" text-anchor="end">74%</text>
+<text x="554" y="3299.99" font-size="12.5" fill="#527078" text-anchor="end">n=129</text>
+<text x="66" y="3331.99" font-size="14.5" fill="#123641" font-weight="800">p53-abnormal</text>
+<rect x="66" y="3343.99" width="176.64" height="20" rx="5" fill="#B04A4A"/>
+<text x="554" y="3360.99" font-size="20" fill="#B04A4A" font-weight="800" text-anchor="end">48%</text>
+<text x="554" y="3378.99" font-size="12.5" fill="#527078" text-anchor="end">n=93</text>
+<line x1="66" y1="3392.99" x2="434" y2="3392.99" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="66" y1="3392.99" x2="66" y2="3397.99" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="3413.99" font-size="12.5" fill="#527078" text-anchor="middle">0%</text>
+<line x1="158" y1="3392.99" x2="158" y2="3397.99" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="158" y="3413.99" font-size="12.5" fill="#527078" text-anchor="middle">25%</text>
+<line x1="250" y1="3392.99" x2="250" y2="3397.99" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="250" y="3413.99" font-size="12.5" fill="#527078" text-anchor="middle">50%</text>
+<line x1="342" y1="3392.99" x2="342" y2="3397.99" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="342" y="3413.99" font-size="12.5" fill="#527078" text-anchor="middle">75%</text>
+<line x1="434" y1="3392.99" x2="434" y2="3397.99" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="434" y="3413.99" font-size="12.5" fill="#527078" text-anchor="middle">100%</text>
+<text x="66" y="3444.99" font-size="14" fill="#527078">A second high-risk cohort (TransPORTEC, n=116) points the same way:</text>
+<text x="66" y="3465.99" font-size="14" fill="#527078">neither the POLE-mutant group (14 tumours) nor the</text>
+<text x="66" y="3486.99" font-size="14" fill="#527078">microsatellite-unstable group (19 tumours) had a single distant</text>
+<text x="66" y="3507.99" font-size="14" fill="#527078">metastasis, with 5-year recurrence-free survival of 93% and 95%; the</text>
+<text x="66" y="3528.99" font-size="14" fill="#527078">p53-mutant group (36 tumours) had 50% distant metastasis and 42%</text>
+<text x="66" y="3549.99" font-size="14" fill="#527078">recurrence-free survival; the group with no specific molecular profile</text>
+<text x="66" y="3570.99" font-size="14" fill="#527078">had 39% and 52% (p&lt;0.001).</text>
+<text x="40" y="3629.99" font-size="24" fill="#123641" font-weight="800" class="r">Under one histological type, every molecular</text>
+<text x="40" y="3661.99" font-size="24" fill="#123641" font-weight="800" class="r">group turns up</text>
+<text x="40" y="3695.99" font-size="16" fill="#527078">This is why the molecular group is treated as the foundation and the</text>
+<text x="40" y="3718.99" font-size="16" fill="#527078">histological type as the storey above it. Both directions have to be</text>
+<text x="40" y="3741.99" font-size="16" fill="#527078">read.</text>
+<g filter="url(#sh)"><rect x="40" y="3772.99" width="540" height="664" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="3806.99" width="488" height="76" rx="12" fill="#ECE8DE"/>
+<text x="82" y="3832.99" font-size="14" fill="#527078" font-weight="600">Share of serous carcinomas that are p53-abnormal</text>
+<text x="538" y="3864.99" font-size="30" fill="#B04A4A" font-weight="800" text-anchor="end">91.4%</text>
+<rect x="66" y="3890.99" width="488" height="76" rx="12" fill="#ECE8DE"/>
+<text x="82" y="3916.99" font-size="14" fill="#527078" font-weight="600">Share of p53-abnormal tumours that are serous</text>
+<text x="538" y="3948.99" font-size="30" fill="#B04A4A" font-weight="800" text-anchor="end">51.8%</text>
+<rect x="66" y="3974.99" width="488" height="96" rx="12" fill="#ECE8DE"/>
+<text x="82" y="4000.99" font-size="14" fill="#527078" font-weight="600">Share of low-grade endometrioid carcinomas (954) with no</text>
+<text x="82" y="4020.99" font-size="14" fill="#527078" font-weight="600">specific molecular profile</text>
+<text x="538" y="4052.99" font-size="30" fill="#7A6E58" font-weight="800" text-anchor="end">61.7%</text>
+<rect x="66" y="4078.99" width="488" height="96" rx="12" fill="#ECE8DE"/>
+<text x="82" y="4104.99" font-size="14" fill="#527078" font-weight="600">Share of low-grade endometrioid carcinomas that are</text>
+<text x="82" y="4124.99" font-size="14" fill="#527078" font-weight="600">p53-abnormal</text>
+<text x="538" y="4156.99" font-size="30" fill="#B04A4A" font-weight="800" text-anchor="end">2.0%</text>
+<text x="66" y="4212.99" font-size="14.5" fill="#345963">All from Thompson 2022 (n=1,357). The 51.8% is 129 of 249; the 2.0%</text>
+<text x="66" y="4233.99" font-size="14.5" fill="#345963">is 19 of 954. In plain words: half of the group with the worst outlook</text>
+<text x="66" y="4254.99" font-size="14.5" fill="#345963">does not look the way people expect it to look.</text>
+<text x="66" y="4285.99" font-size="14.5" fill="#527078">How much grade and histological type still mean inside each</text>
+<text x="66" y="4306.99" font-size="14.5" fill="#527078">molecular group (Huvila 2025, n=2,478 plus a systematic review of 7</text>
+<text x="66" y="4327.99" font-size="14.5" fill="#527078">studies): in the POLE-mutant and p53-abnormal groups, grade and</text>
+<text x="66" y="4348.99" font-size="14.5" fill="#527078">histological type no longer carry prognostic meaning; nor do they in</text>
+<text x="66" y="4369.99" font-size="14.5" fill="#527078">mismatch repair deficient stage I disease; only in the group with no</text>
+<text x="66" y="4390.99" font-size="14.5" fill="#527078">specific molecular profile do grade and type still carry significant</text>
+<text x="66" y="4411.99" font-size="14.5" fill="#527078">prognostic meaning (p&lt;0.001).</text>
+<text x="40" y="4470.99" font-size="24" fill="#123641" font-weight="800" class="r">The tests themselves are not yet universal</text>
+<rect x="40" y="4510.99" width="540" height="468" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="66" y="4544.99" width="488" height="102" rx="12" fill="#E3E8F6"/>
+<text x="82" y="4570.99" font-size="14" fill="#527078" font-weight="600">Cases that had mismatch repair</text>
+<text x="82" y="4590.99" font-size="14" fill="#527078" font-weight="600">immunohistochemistry at the time</text>
+<text x="82" y="4630.99" font-size="12.5" fill="#527078">570 of 1,357; 3.5% to 95.4% across centres</text>
+<text x="538" y="4592.99" font-size="28" fill="#5C77C4" font-weight="800" text-anchor="end">42%</text>
+<rect x="66" y="4654.99" width="488" height="82" rx="12" fill="#E3E8F6"/>
+<text x="82" y="4680.99" font-size="14" fill="#527078" font-weight="600">Cases that had p53 immunohistochemistry at the time</text>
+<text x="82" y="4720.99" font-size="12.5" fill="#527078">286 of 1,357; 10.1% to 41.9% across centres</text>
+<text x="538" y="4702.99" font-size="28" fill="#5C77C4" font-weight="800" text-anchor="end">21.1%</text>
+<rect x="66" y="4744.99" width="488" height="82" rx="12" fill="#E3E8F6"/>
+<text x="82" y="4770.99" font-size="14" fill="#527078" font-weight="600">MMRd cases that had had no mismatch repair test,</text>
+<text x="82" y="4790.99" font-size="14" fill="#527078" font-weight="600">looking back</text>
+<text x="538" y="4792.99" font-size="28" fill="#5C77C4" font-weight="800" text-anchor="end">54.7%</text>
+<rect x="66" y="4834.99" width="488" height="62" rx="12" fill="#E3E8F6"/>
+<text x="82" y="4860.99" font-size="14" fill="#527078" font-weight="600">p53abn cases that had had no p53 test, looking back</text>
+<text x="538" y="4882.99" font-size="28" fill="#5C77C4" font-weight="800" text-anchor="end">48.2%</text>
+<text x="66" y="4932.99" font-size="14" fill="#527078">Thompson 2022, the whole 2016 Canadian cohort. This panel is about</text>
+<text x="66" y="4953.99" font-size="14" fill="#527078">what was tested at the time, not about what should be tested.</text>
+<rect x="40" y="5004.99" width="540" height="280" rx="16" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="5040.99" font-size="19" fill="#8F7418" font-weight="800">This figure carries no treatment implication</text>
+<text x="66" y="5073.99" font-size="15.5" fill="#345963" font-weight="600">It answers three questions and no more: how the groups are told</text>
+<text x="66" y="5096.99" font-size="15.5" fill="#345963" font-weight="600">apart, how common each is, and which way each points.</text>
+<text x="66" y="5119.99" font-size="15.5" fill="#345963" font-weight="600">Whether molecular class changes adjuvant treatment, which</text>
+<text x="66" y="5142.99" font-size="15.5" fill="#345963" font-weight="600">evidence has already read out and which is still running, has an</text>
+<text x="66" y="5165.99" font-size="15.5" fill="#345963" font-weight="600">article of its own. It is worth adding that a review published ten</text>
+<text x="66" y="5188.99" font-size="15.5" fill="#345963" font-weight="600">years after TCGA was measured about it: over that decade its</text>
+<text x="66" y="5211.99" font-size="15.5" fill="#345963" font-weight="600">practical contribution to the clinical management of these</text>
+<text x="66" y="5234.99" font-size="15.5" fill="#345963" font-weight="600">patients was limited, and knowledge about the other three</text>
+<text x="66" y="5257.99" font-size="15.5" fill="#345963" font-weight="600">groups had not changed management significantly.</text>
+<text x="40" y="5310.99" font-size="15" fill="#527078">Schematic, redrawn from TCGA 2013 (Nature), Thompson 2022, Jamieson</text>
+<text x="40" y="5333.49" font-size="15" fill="#527078">2023, Leon-Castillo 2020 (PORTEC-3), Stelloo 2015 (TransPORTEC), Huvila</text>
+<text x="40" y="5355.99" font-size="15" fill="#527078">2025, Espinosa and Prat 2024, and the FIGO 2023 staging paper restating</text>
+<text x="40" y="5378.49" font-size="15" fill="#527078">the WHO 2020 classification; the cohorts, designs and endpoints of the</text>
+<text x="40" y="5400.99" font-size="15" fill="#527078">underlying studies differ, so the data points must not be compared</text>
+<text x="40" y="5423.49" font-size="15" fill="#527078">directly.</text>
+  </g>
+</svg>

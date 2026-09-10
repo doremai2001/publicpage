@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2702" viewBox="0 0 1440 2702" role="img" aria-labelledby="t d">
+  <title id="t">The entry gate for fertility-sparing treatment, and three outcome figures with three different denominators</title>
+  <desc id="d">Schematic of the entry gate and the outcome figures for fertility-sparing treatment of early endometrial cancer. At the top is a statement: every level on the page comes from the ESGO/ESHRE/ESGE 2023 fertility-sparing guideline, and of that guideline's 48 recommendations not one is Level I evidence, with only 16 reaching Level II; in its own words, &quot;66% of the recommendations are supported only by observational data, professional experience and consensus&quot;, and the same document states that to date no randomised trial has compared the different types of medical treatment. The middle of the figure is a chain of 16 gates beginning at &quot;the biopsy report in your hand&quot;, each carrying the level the guideline gave it, all of which have to hold. One: endometrioid carcinoma, Grade 1, Stage IA, without myometrial invasion and without risk factors (V, A). Two: evidence for Grade 2 is &quot;limited&quot;, case-by-case discussion only (IV, C). Three: a second opinion from an experienced histopathologist (III, A). Four: use the G1/G2/G3 grading system, not the binary one (III, A). Five: hysteroscopic-guided biopsy is preferred over blind biopsy (III, A). Six: myometrial invasion assessed by MRI, or by transvaginal ultrasound from a specialised radiologist or sonographer, on standardised high-quality protocols (III, A). Seven: CT should not be used to assess myometrial invasion (III, A). Eight: MRI or CT to exclude pelvic and para-aortic lymph nodes and distant metastases (II, B). Nine: adnexal involvement ruled out by pelvic MRI or transvaginal ultrasound (II, B). Ten: in copy-number-high, that is p53-abnormal, tumours conservative therapy would be inappropriate (IV, D). Eleven: mismatch repair immunohistochemistry is mandatory, to identify those at high risk of Lynch syndrome (III, A). Twelve: the full ProMisE classifier is encouraged, although available data do not allow clinical applicability (IV, B). Thirteen: joint care from gynaecological oncology, fertility medicine, pathology and radiology (V, A). Fourteen: reproductive potential assessed and fertility specialists consulted before treatment begins (V, B). Fifteen: weight control during treatment is highly recommended (II, A). Sixteen: the three Lynch lines — check for concurrent cancers, inform of the higher risk of persistence and recurrence, and discuss case by case (II, A). The chain ends with the note that all 16 have to hold before the drugs are even discussed. Beside it sits the exception clause: if an early and focal myometrial invasion of 1 to 2 mm is suspected from the resection material, a fertility-sparing approach may be discussed on a case-by-case basis (IV, C), and none of those three qualifiers can be dropped, because it does not mean that invasion can be left in place. A further panel, headed that &quot;responding&quot; is something two biopsies have to agree on, sets out the follow-up: a complete response should be achieved within 6 to 12 months (III, B) and in no more than 15 months (IV, C); in the absence of any kind of response at 6 months, multidisciplinary counselling is recommended (IV, B); clinical pelvic examination and ultrasound at every 3-month visit (IV, B) and endometrial histological assessment by hysteroscopy every 3 to 6 months (IV, B); and two consecutive biopsies at least 3 months apart both showing a complete response are needed before the treatment counts as successful (IV, C). The lower half is an outcome funnel from a meta-analysis of 46 studies and 861 women with clinical Stage IA, well-differentiated endometrioid carcinoma: complete response 79.7%, denominator 861 women in 46 studies; recurrence during follow-up in 35.3% of those who reached a complete response, denominator being that responding group; and live birth 20.5%, 95% confidence interval 15.7 to 25.8, denominator 650 women in 39 studies. A note states that the three proportions do not share a denominator and must not be multiplied together; that the same meta-analysis reports a pregnancy rate of 26.7% (21.3 to 32.3; 826 women, 42 studies) and a live birth rate of 30.7% in studies restricted to women aged 35 or under; and that the authors conclude &quot;only one-fifth of them are estimated to achieve live birth&quot;. The next panel covers what happens after childbearing: &quot;Completion surgery is recommended after completing childbearing&quot; (II, A), with the reason given as &quot;due to a high recurrence rate&quot;; surgery is likewise recommended for non-responders, inability to conceive, recurrence or progression (II, A); and for women who decline surgery after delivery and are not planning a second pregnancy straight away, the guideline recommends maintenance with a levonorgestrel-releasing intrauterine system (III, B), which is a postponement and not a cancellation. The figure closes with two warnings in opposite directions. First, this is not &quot;just take the drugs&quot; and a response is not a cure: it works only while every cell above holds and trades a higher risk of recurrence for a window in which to conceive, with 35.3% of responders recurring. Second, nor is it &quot;if you want a child, forget it — just operate&quot;: for women in whom every cell holds the chance is real, with a complete response in 79.7% and a live birth in 20.5% across 46 studies and 861 women, rising to 30.7% in studies of women aged 35 or under; and whether the conditions hold is judged jointly by gynaecological oncology, fertility medicine, pathology and radiology, not by a reader against an article.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2702" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="17" fill="#A98722" font-weight="800" letter-spacing="3px">FERTILITY-SPARING TREATMENT</text>
+<text x="84" y="142" font-size="40" fill="#123641" font-weight="800" class="r">A checklist where every line has to hold, not a list to tick a few</text>
+<text x="84" y="192" font-size="40" fill="#123641" font-weight="800" class="r">boxes on</text>
+<text x="84" y="250" font-size="19" fill="#527078">The upper half is the entry gate: every cell carries the level of evidence the guideline itself gave it, and if any one cell does not hold, this</text>
+<text x="84" y="278" font-size="19" fill="#527078">road is not open.</text>
+<text x="84" y="306" font-size="19" fill="#527078">The lower half is the outcome: the three proportions each have their own denominator, must be read together, and must not be multiplied</text>
+<text x="84" y="334" font-size="19" fill="#527078">by one another.</text>
+<rect x="84" y="378" width="1272" height="114" rx="16" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="408" font-size="17" fill="#8F7418" font-weight="800">Every level on this page comes from one guideline, and that guideline says this first</text>
+<text x="110" y="440" font-size="15.5" fill="#345963">Of its 48 recommendations, not one is Level I evidence; only 16 reach Level II. In its own words: &quot;66% of the recommendations are supported only by observational</text>
+<text x="110" y="463" font-size="15.5" fill="#345963">data, professional experience and consensus&quot;. The same document states that to date no randomised trial has compared the different types of medical treatment.</text>
+<g filter="url(#sh)">
+<rect x="84" y="520" width="1272" height="777" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="110" y="552" font-size="18" fill="#123641" font-weight="800">The entry gate: every cell has to hold</text>
+<text x="110" y="576" font-size="14.5" fill="#527078">The brackets carry the level of evidence and strength of recommendation the guideline gave. These 16 cells hold at the same time; they are not a menu.</text>
+<rect x="110" y="607" width="1220" height="30" rx="8" fill="#ECE8DE"/>
+<text x="124" y="627" font-size="14.5" fill="#7A6E58" font-weight="800">Starting point: the biopsy report in your hand</text>
+<rect x="110" y="647" width="595" height="54" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="140" y="655" width="2.5" height="38" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="154" y="671" font-size="15" fill="#345963">Endometrioid carcinoma, Grade 1, Stage IA, without</text>
+<text x="154" y="693" font-size="15" fill="#345963">myometrial invasion and without risk factors</text>
+<rect x="621" y="655" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="660" y="670" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">V, A</text>
+<rect x="110" y="707" width="595" height="54" rx="10" fill="#F3E8CD" opacity="0.55"/>
+<rect x="140" y="715" width="2.5" height="38" rx="1" fill="#96790F" opacity="0.5"/>
+<text x="154" y="731" font-size="15" fill="#345963">Evidence for Grade 2 is &quot;limited&quot; — case-by-case discussion</text>
+<text x="154" y="753" font-size="15" fill="#345963">only</text>
+<rect x="621" y="715" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#96790F" stroke-width="1.6"/>
+<text x="660" y="730" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">IV, C</text>
+<rect x="110" y="767" width="595" height="32" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="140" y="775" width="2.5" height="16" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="154" y="791" font-size="15" fill="#345963">A second opinion from an experienced histopathologist</text>
+<rect x="621" y="775" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="660" y="790" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="110" y="805" width="595" height="54" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="140" y="813" width="2.5" height="38" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="154" y="829" font-size="15" fill="#345963">Use the G1/G2/G3 grading system; the binary system should</text>
+<text x="154" y="851" font-size="15" fill="#345963">not be used</text>
+<rect x="621" y="813" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="660" y="828" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="110" y="865" width="595" height="32" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="140" y="873" width="2.5" height="16" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="154" y="889" font-size="15" fill="#345963">Hysteroscopic-guided biopsy is preferred over blind biopsy</text>
+<rect x="621" y="873" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="660" y="888" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="110" y="903" width="595" height="76" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="140" y="911" width="2.5" height="60" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="154" y="927" font-size="15" fill="#345963">Myometrial invasion assessed by MRI, or by transvaginal</text>
+<text x="154" y="949" font-size="15" fill="#345963">ultrasound from a specialised radiologist or sonographer, on</text>
+<text x="154" y="971" font-size="15" fill="#345963">standardised high-quality protocols</text>
+<rect x="621" y="911" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="660" y="926" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="110" y="985" width="595" height="32" rx="10" fill="#F6E2E0" opacity="0.55"/>
+<rect x="140" y="993" width="2.5" height="16" rx="1" fill="#B04A4A" opacity="0.5"/>
+<text x="154" y="1009" font-size="15" fill="#345963">CT should not be used to assess myometrial invasion</text>
+<rect x="621" y="993" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#B04A4A" stroke-width="1.6"/>
+<text x="660" y="1008" font-size="12.5" fill="#B04A4A" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="110" y="1023" width="595" height="54" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="140" y="1031" width="2.5" height="38" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="154" y="1047" font-size="15" fill="#345963">MRI or CT to exclude pelvic and para-aortic lymph nodes and</text>
+<text x="154" y="1069" font-size="15" fill="#345963">distant metastases</text>
+<rect x="621" y="1031" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="660" y="1046" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">II, B</text>
+<line x1="125" y1="666" x2="125" y2="1042" stroke="#B9AE94" stroke-width="2" stroke-linecap="round"/>
+<circle cx="125" cy="666" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="125" y="670.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">1</text>
+<circle cx="125" cy="726" r="11" fill="#FFFFFF" stroke="#96790F" stroke-width="2.2"/>
+<text x="125" y="730.5" font-size="12" fill="#96790F" font-weight="800" text-anchor="middle">2</text>
+<circle cx="125" cy="786" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="125" y="790.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">3</text>
+<circle cx="125" cy="824" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="125" y="828.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">4</text>
+<circle cx="125" cy="884" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="125" y="888.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">5</text>
+<circle cx="125" cy="922" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="125" y="926.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">6</text>
+<circle cx="125" cy="1004" r="11" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="125" y="1008.5" font-size="12" fill="#B04A4A" font-weight="800" text-anchor="middle">7</text>
+<circle cx="125" cy="1042" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="125" y="1046.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">8</text>
+<rect x="735" y="647" width="595" height="54" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="765" y="655" width="2.5" height="38" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="779" y="671" font-size="15" fill="#345963">Adnexal involvement ruled out by pelvic MRI or transvaginal</text>
+<text x="779" y="693" font-size="15" fill="#345963">ultrasound</text>
+<rect x="1246" y="655" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="1285" y="670" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">II, B</text>
+<rect x="735" y="707" width="595" height="54" rx="10" fill="#F6E2E0" opacity="0.55"/>
+<rect x="765" y="715" width="2.5" height="38" rx="1" fill="#B04A4A" opacity="0.5"/>
+<text x="779" y="731" font-size="15" fill="#345963">In copy-number-high (p53-abnormal) tumours, conservative</text>
+<text x="779" y="753" font-size="15" fill="#345963">therapy would be inappropriate</text>
+<rect x="1246" y="715" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#B04A4A" stroke-width="1.6"/>
+<text x="1285" y="730" font-size="12.5" fill="#B04A4A" font-weight="800" text-anchor="middle">IV, D</text>
+<rect x="735" y="767" width="595" height="54" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="765" y="775" width="2.5" height="38" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="779" y="791" font-size="15" fill="#345963">Mismatch repair immunohistochemistry is mandatory, to</text>
+<text x="779" y="813" font-size="15" fill="#345963">identify those at high risk of Lynch syndrome</text>
+<rect x="1246" y="775" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="1285" y="790" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="735" y="827" width="595" height="54" rx="10" fill="#F3E8CD" opacity="0.55"/>
+<rect x="765" y="835" width="2.5" height="38" rx="1" fill="#96790F" opacity="0.5"/>
+<text x="779" y="851" font-size="15" fill="#345963">The full ProMisE classifier is &quot;encouraged, although available</text>
+<text x="779" y="873" font-size="15" fill="#345963">data do not allow clinical applicability&quot;</text>
+<rect x="1246" y="835" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#96790F" stroke-width="1.6"/>
+<text x="1285" y="850" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">IV, B</text>
+<rect x="735" y="887" width="595" height="54" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="765" y="895" width="2.5" height="38" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="779" y="911" font-size="15" fill="#345963">Joint care from gynaecological oncology, fertility medicine,</text>
+<text x="779" y="933" font-size="15" fill="#345963">pathology and radiology</text>
+<rect x="1246" y="895" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="1285" y="910" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">V, A</text>
+<rect x="735" y="947" width="595" height="54" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="765" y="955" width="2.5" height="38" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="779" y="971" font-size="15" fill="#345963">Reproductive potential assessed and fertility specialists</text>
+<text x="779" y="993" font-size="15" fill="#345963">consulted before treatment begins</text>
+<rect x="1246" y="955" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="1285" y="970" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">V, B</text>
+<rect x="735" y="1007" width="595" height="32" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="765" y="1015" width="2.5" height="16" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="779" y="1031" font-size="15" fill="#345963">Weight control during treatment is &quot;highly recommended&quot;</text>
+<rect x="1246" y="1015" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="1285" y="1030" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">II, A</text>
+<rect x="735" y="1045" width="595" height="76" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="765" y="1053" width="2.5" height="60" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="779" y="1069" font-size="15" fill="#345963">Lynch syndrome, three lines: check for concurrent cancers,</text>
+<text x="779" y="1091" font-size="15" fill="#345963">inform of the higher risk of persistence and recurrence,</text>
+<text x="779" y="1113" font-size="15" fill="#345963">discuss case by case</text>
+<rect x="1246" y="1053" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="1285" y="1068" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">II, A</text>
+<line x1="750" y1="666" x2="750" y2="1064" stroke="#B9AE94" stroke-width="2" stroke-linecap="round"/>
+<circle cx="750" cy="666" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="750" y="670.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">9</text>
+<circle cx="750" cy="726" r="11" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="750" y="730.5" font-size="12" fill="#B04A4A" font-weight="800" text-anchor="middle">10</text>
+<circle cx="750" cy="786" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="750" y="790.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">11</text>
+<circle cx="750" cy="846" r="11" fill="#FFFFFF" stroke="#96790F" stroke-width="2.2"/>
+<text x="750" y="850.5" font-size="12" fill="#96790F" font-weight="800" text-anchor="middle">12</text>
+<circle cx="750" cy="906" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="750" y="910.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">13</text>
+<circle cx="750" cy="966" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="750" y="970.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">14</text>
+<circle cx="750" cy="1026" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="750" y="1030.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">15</text>
+<circle cx="750" cy="1064" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="750" y="1068.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">16</text>
+<rect x="110" y="1147" width="1220" height="34" rx="8" fill="#D8EDE7"/>
+<text x="124" y="1170" font-size="15" fill="#00806B" font-weight="800">All 16 have to hold before the drugs are even discussed</text>
+<rect x="110" y="1193" width="1220" height="92" rx="14" fill="none" stroke="#B04A4A" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="126" y="1215" font-size="16" fill="#B04A4A" font-weight="800">The seventeenth line is an exception clause, not a ticket in</text>
+<text x="126" y="1237" font-size="14.5" fill="#345963">If an early and focal myometrial invasion of 1 to 2 mm is suspected from the resection material, a fertility-sparing approach &quot;may be discussed on a case-by-case basis&quot;</text>
+<text x="126" y="1258" font-size="14.5" fill="#345963">(IV, C). None of those three qualifiers can be dropped — it does not mean that invasion can be left in place.</text>
+<rect x="84" y="1327" width="1272" height="214" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="1357" font-size="17" fill="#8F7418" font-weight="800">&quot;Responding&quot; is something two biopsies have to agree on</text>
+<circle cx="116" cy="1392" r="4" fill="#C9A83E"/>
+<text x="132" y="1397" font-size="15" fill="#345963">A complete response should be achieved within 6 to 12 months (III, B), and in no more than 15 months (IV, C)</text>
+<circle cx="116" cy="1430" r="4" fill="#C9A83E"/>
+<text x="132" y="1435" font-size="15" fill="#345963">In the absence of any kind of response at 6 months, multidisciplinary counselling is recommended (IV, B)</text>
+<circle cx="116" cy="1468" r="4" fill="#C9A83E"/>
+<text x="132" y="1473" font-size="15" fill="#345963">Clinical pelvic examination and ultrasound at every 3-month visit (IV, B); endometrial histological assessment by hysteroscopy every 3 to 6 months (IV, B)</text>
+<circle cx="116" cy="1506" r="4" fill="#C9A83E"/>
+<text x="132" y="1511" font-size="15" fill="#345963">Two consecutive biopsies showing complete response, at least 3 months apart, are needed before the treatment counts as successful (IV, C)</text>
+<g filter="url(#sh)">
+<rect x="84" y="1571" width="1272" height="570" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="110" y="1603" font-size="18" fill="#123641" font-weight="800">Outcomes: three numbers, three denominators</text>
+<text x="110" y="1627" font-size="14.5" fill="#527078">The meta-analysis pooled 46 studies and 861 women with clinical Stage IA, well-differentiated endometrioid carcinoma.</text>
+<text x="110" y="1670" font-size="15.5" fill="#123641" font-weight="800">Complete response</text>
+<rect x="110" y="1683" width="1220" height="46" rx="10" fill="#ECE8DE"/>
+<rect x="110" y="1683" width="972.34" height="46" rx="10" fill="#00806B"/>
+<text x="126" y="1715" font-size="24" fill="#FFFFFF" font-weight="800">79.7%</text>
+<text x="110" y="1749" font-size="14.5" fill="#527078">denominator: 861 women, 46 studies</text>
+<text x="110" y="1796" font-size="15.5" fill="#123641" font-weight="800">Recurrence during follow-up among those who reached a complete response</text>
+<rect x="110" y="1809" width="1220" height="46" rx="10" fill="#ECE8DE"/>
+<rect x="110" y="1809" width="430.66" height="46" rx="10" fill="#B04A4A"/>
+<text x="126" y="1841" font-size="24" fill="#FFFFFF" font-weight="800">35.3%</text>
+<text x="110" y="1875" font-size="14.5" fill="#527078">denominator: those who reached a complete response above</text>
+<text x="110" y="1922" font-size="15.5" fill="#123641" font-weight="800">Live birth</text>
+<rect x="110" y="1935" width="1220" height="46" rx="10" fill="#ECE8DE"/>
+<rect x="110" y="1935" width="250.1" height="46" rx="10" fill="#96790F"/>
+<text x="126" y="1967" font-size="24" fill="#FFFFFF" font-weight="800">20.5%</text>
+<text x="110" y="2001" font-size="14.5" fill="#527078">95% confidence interval 15.7 to 25.8; denominator: 650 women, 39 studies</text>
+<rect x="110" y="2040" width="1220" height="85" rx="14" fill="#ECE8DE"/>
+<text x="126" y="2060" font-size="14.5" fill="#345963">The three proportions do not share a denominator and must not be multiplied together. The same meta-analysis reports a pregnancy rate of 26.7% (95% confidence</text>
+<text x="126" y="2081" font-size="14.5" fill="#345963">interval 21.3 to 32.3; 826 women, 42 studies); restricted to studies of women aged 35 or under, the live birth rate is 30.7%. The authors conclude that &quot;only one-fifth of</text>
+<text x="126" y="2102" font-size="14.5" fill="#345963">them are estimated to achieve live birth&quot;.</text>
+<rect x="84" y="2171" width="1272" height="160" rx="16" fill="#E3E8F6" stroke="#5C77C4" stroke-width="2.5"/>
+<text x="110" y="2201" font-size="17" fill="#123641" font-weight="800">Once childbearing is complete, the guideline recommends surgery</text>
+<text x="110" y="2233" font-size="15.5" fill="#345963">In its own words: &quot;Completion surgery is recommended after completing childbearing&quot; (II, A), and the reason given in the text is &quot;due to a high recurrence rate&quot;.</text>
+<text x="110" y="2256" font-size="15.5" fill="#345963">Surgery is likewise recommended for non-responders, inability to conceive, recurrence or disease progression (II, A). For women who decline surgery after</text>
+<text x="110" y="2279" font-size="15.5" fill="#345963">delivery and are not planning a second pregnancy straight away, the guideline recommends maintenance with a levonorgestrel-releasing intrauterine system (III,</text>
+<text x="110" y="2302" font-size="15.5" fill="#345963">B) — that is a postponement, not a cancellation.</text>
+<rect x="84" y="2359" width="1272" height="265" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="2389" font-size="18" fill="#B04A4A" font-weight="800">This figure has to block two readings at once</text>
+<rect x="733.0" y="2415" width="597.0" height="195" rx="14" fill="#FFFFFF"/>
+<rect x="110.0" y="2415" width="597.0" height="195" rx="14" fill="#FFFFFF"/>
+<text x="128" y="2445" font-size="16" fill="#B04A4A" font-weight="800">It is not &quot;just take the drugs&quot;, and a response is not a cure</text>
+<text x="128" y="2474" font-size="15" fill="#345963">It works only while every cell above holds, and it trades a higher risk of</text>
+<text x="128" y="2496" font-size="15" fill="#345963">recurrence for a window in which to conceive. Among those who reach a</text>
+<text x="128" y="2518" font-size="15" fill="#345963">complete response, 35.3% recur, which is why the guideline writes</text>
+<text x="128" y="2540" font-size="15" fill="#345963">completion surgery as a recommendation and why two biopsies at least 3</text>
+<text x="128" y="2562" font-size="15" fill="#345963">months apart both have to show a complete response before the treatment</text>
+<text x="128" y="2584" font-size="15" fill="#345963">counts as successful.</text>
+<text x="751" y="2445" font-size="16" fill="#B04A4A" font-weight="800">Nor is it &quot;if you want a child, forget it — just operate&quot;</text>
+<text x="751" y="2474" font-size="15" fill="#345963">For women in whom every cell above holds, the chance is real: across 46</text>
+<text x="751" y="2496" font-size="15" fill="#345963">studies and 861 women, a complete response in 79.7% and a live birth in</text>
+<text x="751" y="2518" font-size="15" fill="#345963">20.5%, rising to 30.7% in studies restricted to women aged 35 or under.</text>
+<text x="751" y="2540" font-size="15" fill="#345963">Whether the conditions hold is judged jointly by gynaecological oncology,</text>
+<text x="751" y="2562" font-size="15" fill="#345963">fertility medicine, pathology and radiology — not by a reader against an</text>
+<text x="751" y="2584" font-size="15" fill="#345963">article.</text>
+<text x="84" y="2648" font-size="16" fill="#527078">Schematic, redrawn from the ESGO/ESHRE/ESGE 2023 fertility-sparing guideline (Rodolakis 2023) and the Herrera Cappelletti 2022 meta-analysis rather than</text>
+<text x="84" y="2672" font-size="16" fill="#527078">reproduced from their figures; the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

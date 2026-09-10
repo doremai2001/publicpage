@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="3260" viewBox="0 0 620 3260" role="img" aria-labelledby="t d">
+  <title id="t">生育保留治療的收案關卡，與三個分母不同的結果數字</title>
+  <desc id="d">示意圖：早期子宮內膜癌生育保留治療的收案關卡與結果數字。圖的最上方是一段聲明：圖上所有等級都來自 ESGO／ESHRE／ESGE 2023 生育保留指引，而那份指引的 48 條建議裡沒有一條是 Level I 證據，只有 16 條到 Level II，原文是「66% of the recommendations are supported only by observational data, professional experience and consensus」，同一份文件也寫明到今天沒有隨機試驗比較過不同的藥物療法。中間是一條由 16 個關卡串成的鏈，從「起點：拿到切片報告」開始，每一格都帶指引自己給的等級，全部成立才通過：第一，類內膜腺癌、Grade 1、IA 期、沒有肌層侵犯、沒有風險因子（V, A）；第二，Grade 2 的證據 limited、只能個案討論（IV, C）；第三，請有經驗的病理專科醫師出第二意見（III, A）；第四，用 G1、G2、G3 三級制，不可以用二分法（III, A）；第五，診斷切片用子宮鏡導引，優於盲取（III, A）；第六，肌層侵犯用 MRI，或專門的放射科／超音波醫師做陰道超音波，且用標準化高品質協定（III, A）；第七，不可以用電腦斷層判肌層侵犯（III, A）；第八，用 MRI 或電腦斷層排除骨盆腔與主動脈旁淋巴結、遠端轉移（II, B）；第九，用骨盆 MRI 或陰道超音波排除附件侵犯（II, B）；第十，copy number high、也就是 p53 異常這型，保守治療並不適當（IV, D）；第十一，MMR 免疫染色是強制項目，用來抓 Lynch 高風險者（III, A）；第十二，完整 ProMisE 分類是鼓勵，但現有資料還不足以臨床應用（IV, B）；第十三，婦癌科、生殖醫學、病理科、放射科共同照護（V, A）；第十四，生殖潛能評估與生殖科諮詢要在治療開始之前完成（V, B）；第十五，治療期間體重控制 highly recommended（II, A）；第十六，Lynch 三句——確認有無其他癌、告知復發風險比其他人高、要不要做個案討論（II, A）。鏈的終點寫著：16 格全部成立，才輪到談藥怎麼用。鏈旁另有一格例外條款：若從子宮鏡切除下來的檢體懷疑有早期、局部的 1 到 2 公釐肌層侵犯，may be discussed on a case-by-case basis（IV, C），三個限定語一個都不能拿掉，它不是「有侵犯也可以留」。接著一格寫追蹤密度，標題是「有反應是要兩次切片才算數的事」：療程 6 到 12 個月內要達到完全反應（III, B），最長不超過 15 個月（IV, C）；6 個月完全沒有反應要進多專科諮詢（IV, B）；每 3 個月一次內診加超音波（IV, B），每 3 到 6 個月一次子宮鏡內膜組織評估（IV, B）；要間隔至少 3 個月的兩次連續切片都判完全反應才算成功（IV, C）。圖的下半是結果漏斗，資料來自收 46 篇、861 位臨床 IA 期、高分化類內膜病人的統合分析：完全反應 79.7%，分母是 861 人、46 篇；達到完全反應的人裡有 35.3% 在追蹤期間復發，分母是前一格達到完全反應的人；活產 20.5%，95% 信賴區間 15.7 到 25.8，分母是 650 人、39 篇。漏斗下方標明：這三個比例的分母不一樣，不可以把它們相乘；同一份統合分析另報懷孕率 26.7%（21.3 到 32.3；826 人、42 篇），只收 35 歲以下的次群活產率 30.7%，作者結論句是 only one-fifth of them are estimated to achieve live birth。再下面一格是完成生育之後：指引原文 Completion surgery is recommended after completing childbearing（II, A），理由句是 due to a high recurrence rate；治療沒有反應、懷不上、復發或惡化一樣建議手術（II, A）；生完後不想馬上開刀也不打算馬上懷第二胎的人，指引寫的是用含 levonorgestrel 的子宮內投藥系統做維持治療（III, B），那是延後不是取消。圖的最後是兩個方向的警語。左邊：這不是「吃藥就好」，也不是「反應了等於治好了」——它是在上面每一格都成立的前提下，用比較高的復發風險換一段生育時間，達到完全反應的人裡有 35.3% 復發。右邊：也不是「想生就不要肖想、直接切」——符合上面每一格的人是真的有機會，46 篇、861 人裡完全反應 79.7%、活產 20.5%，35 歲以下的次群 30.7%；條件符不符合是婦癌科、生殖醫學、病理科與放射科一起判的，不是自己對著文章判。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="3260" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="74" font-size="17" fill="#A98722" font-weight="800" letter-spacing="2px">FERTILITY-SPARING TREATMENT</text>
+<text x="40" y="128" font-size="40" fill="#123641" font-weight="800" class="r">這是一份要全部成立的清單，</text>
+<text x="40" y="178" font-size="40" fill="#123641" font-weight="800" class="r">不是勾幾項就好</text>
+<text x="40" y="236" font-size="19" fill="#527078">上半是收案關卡：每一格都帶指引自己給的等級，任何一格不成</text>
+<text x="40" y="264" font-size="19" fill="#527078">立，這條路就不開。</text>
+<text x="40" y="292" font-size="19" fill="#527078">下半是結果：三個比例分別有自己的分母，要一起讀，也不可以</text>
+<text x="40" y="320" font-size="19" fill="#527078">互相相乘。</text>
+<rect x="40" y="364" width="540" height="160" rx="16" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="394" font-size="17" fill="#8F7418" font-weight="800">圖上所有等級都來自同一份指引，而那份指引自己先講了一句話</text>
+<text x="66" y="426" font-size="15.5" fill="#345963">48 條建議裡，沒有一條是 Level I 證據；只有 16 條到 Level II。指引</text>
+<text x="66" y="449" font-size="15.5" fill="#345963">原文：「66% of the recommendations are supported only by</text>
+<text x="66" y="472" font-size="15.5" fill="#345963">observational data, professional experience and consensus」。</text>
+<text x="66" y="495" font-size="15.5" fill="#345963">同一份文件也寫明，到今天沒有隨機試驗比較過不同的藥物療法。</text>
+<g filter="url(#sh)">
+<rect x="40" y="552" width="540" height="1067" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="66" y="584" font-size="18" fill="#123641" font-weight="800">收案關卡：全部成立才通過</text>
+<text x="66" y="608" font-size="14.5" fill="#527078">括號裡是指引自己給的證據等級與建議強度。這 16 格是同時要成立的條件，</text>
+<text x="66" y="629" font-size="14.5" fill="#527078">不是選項清單。</text>
+<rect x="66" y="660" width="488" height="30" rx="8" fill="#ECE8DE"/>
+<text x="80" y="680" font-size="14.5" fill="#7A6E58" font-weight="800">起點：拿到切片報告</text>
+<rect x="66" y="700" width="488" height="54" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="708" width="2.5" height="38" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="724" font-size="15" fill="#345963">類內膜腺癌、Grade 1、IA 期、沒有肌層侵犯、沒有</text>
+<text x="110" y="746" font-size="15" fill="#345963">風險因子</text>
+<rect x="470" y="708" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="723" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">V, A</text>
+<rect x="66" y="760" width="488" height="32" rx="10" fill="#F3E8CD" opacity="0.55"/>
+<rect x="96" y="768" width="2.5" height="16" rx="1" fill="#96790F" opacity="0.5"/>
+<text x="110" y="784" font-size="15" fill="#345963">Grade 2 的證據「limited」，只能個案討論</text>
+<rect x="470" y="768" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#96790F" stroke-width="1.6"/>
+<text x="509" y="783" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">IV, C</text>
+<rect x="66" y="798" width="488" height="32" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="806" width="2.5" height="16" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="822" font-size="15" fill="#345963">請有經驗的病理專科醫師出第二意見</text>
+<rect x="470" y="806" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="821" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="66" y="836" width="488" height="32" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="844" width="2.5" height="16" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="860" font-size="15" fill="#345963">用 G1／G2／G3 三級制；不可以用二分法</text>
+<rect x="470" y="844" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="859" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="66" y="874" width="488" height="32" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="882" width="2.5" height="16" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="898" font-size="15" fill="#345963">診斷切片用子宮鏡導引，優於盲取</text>
+<rect x="470" y="882" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="897" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="66" y="912" width="488" height="54" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="920" width="2.5" height="38" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="936" font-size="15" fill="#345963">肌層侵犯用 MRI，或專門的放射科／超音波醫師做陰</text>
+<text x="110" y="958" font-size="15" fill="#345963">道超音波，且用標準化高品質協定</text>
+<rect x="470" y="920" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="935" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="66" y="972" width="488" height="32" rx="10" fill="#F6E2E0" opacity="0.55"/>
+<rect x="96" y="980" width="2.5" height="16" rx="1" fill="#B04A4A" opacity="0.5"/>
+<text x="110" y="996" font-size="15" fill="#345963">不可以用電腦斷層判肌層侵犯</text>
+<rect x="470" y="980" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#B04A4A" stroke-width="1.6"/>
+<text x="509" y="995" font-size="12.5" fill="#B04A4A" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="66" y="1010" width="488" height="54" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="1018" width="2.5" height="38" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="1034" font-size="15" fill="#345963">用 MRI 或電腦斷層排除骨盆腔與主動脈旁淋巴結、遠</text>
+<text x="110" y="1056" font-size="15" fill="#345963">端轉移</text>
+<rect x="470" y="1018" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="1033" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">II, B</text>
+<rect x="66" y="1070" width="488" height="32" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="1078" width="2.5" height="16" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="1094" font-size="15" fill="#345963">用骨盆 MRI 或陰道超音波排除附件侵犯</text>
+<rect x="470" y="1078" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="1093" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">II, B</text>
+<rect x="66" y="1108" width="488" height="54" rx="10" fill="#F6E2E0" opacity="0.55"/>
+<rect x="96" y="1116" width="2.5" height="38" rx="1" fill="#B04A4A" opacity="0.5"/>
+<text x="110" y="1132" font-size="15" fill="#345963">copy number high（p53 異常）這型，保守治療並</text>
+<text x="110" y="1154" font-size="15" fill="#345963">不適當</text>
+<rect x="470" y="1116" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#B04A4A" stroke-width="1.6"/>
+<text x="509" y="1131" font-size="12.5" fill="#B04A4A" font-weight="800" text-anchor="middle">IV, D</text>
+<rect x="66" y="1168" width="488" height="32" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="1176" width="2.5" height="16" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="1192" font-size="15" fill="#345963">MMR 免疫染色是強制項目，用來抓 Lynch 高風險者</text>
+<rect x="470" y="1176" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="1191" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">III, A</text>
+<rect x="66" y="1206" width="488" height="54" rx="10" fill="#F3E8CD" opacity="0.55"/>
+<rect x="96" y="1214" width="2.5" height="38" rx="1" fill="#96790F" opacity="0.5"/>
+<text x="110" y="1230" font-size="15" fill="#345963">完整 ProMisE 分類「鼓勵，但現有資料還不足以臨</text>
+<text x="110" y="1252" font-size="15" fill="#345963">床應用」</text>
+<rect x="470" y="1214" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#96790F" stroke-width="1.6"/>
+<text x="509" y="1229" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">IV, B</text>
+<rect x="66" y="1266" width="488" height="32" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="1274" width="2.5" height="16" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="1290" font-size="15" fill="#345963">婦癌科、生殖醫學、病理科、放射科共同照護</text>
+<rect x="470" y="1274" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="1289" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">V, A</text>
+<rect x="66" y="1304" width="488" height="32" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="1312" width="2.5" height="16" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="1328" font-size="15" fill="#345963">生殖潛能評估與生殖科諮詢，要在治療開始之前完成</text>
+<rect x="470" y="1312" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="1327" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">V, B</text>
+<rect x="66" y="1342" width="488" height="32" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="1350" width="2.5" height="16" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="1366" font-size="15" fill="#345963">治療期間體重控制「highly recommended」</text>
+<rect x="470" y="1350" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="1365" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">II, A</text>
+<rect x="66" y="1380" width="488" height="54" rx="10" fill="#D8EDE7" opacity="0.55"/>
+<rect x="96" y="1388" width="2.5" height="38" rx="1" fill="#00806B" opacity="0.5"/>
+<text x="110" y="1404" font-size="15" fill="#345963">Lynch 三句：確認有無其他癌、告知復發風險比其他</text>
+<text x="110" y="1426" font-size="15" fill="#345963">人高、要不要做個案討論</text>
+<rect x="470" y="1388" width="78" height="21" rx="10" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="509" y="1403" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="middle">II, A</text>
+<line x1="81" y1="719" x2="81" y2="1399" stroke="#B9AE94" stroke-width="2" stroke-linecap="round"/>
+<circle cx="81" cy="719" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="723.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">1</text>
+<circle cx="81" cy="779" r="11" fill="#FFFFFF" stroke="#96790F" stroke-width="2.2"/>
+<text x="81" y="783.5" font-size="12" fill="#96790F" font-weight="800" text-anchor="middle">2</text>
+<circle cx="81" cy="817" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="821.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">3</text>
+<circle cx="81" cy="855" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="859.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">4</text>
+<circle cx="81" cy="893" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="897.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">5</text>
+<circle cx="81" cy="931" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="935.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">6</text>
+<circle cx="81" cy="991" r="11" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="81" y="995.5" font-size="12" fill="#B04A4A" font-weight="800" text-anchor="middle">7</text>
+<circle cx="81" cy="1029" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="1033.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">8</text>
+<circle cx="81" cy="1089" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="1093.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">9</text>
+<circle cx="81" cy="1127" r="11" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="81" y="1131.5" font-size="12" fill="#B04A4A" font-weight="800" text-anchor="middle">10</text>
+<circle cx="81" cy="1187" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="1191.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">11</text>
+<circle cx="81" cy="1225" r="11" fill="#FFFFFF" stroke="#96790F" stroke-width="2.2"/>
+<text x="81" y="1229.5" font-size="12" fill="#96790F" font-weight="800" text-anchor="middle">12</text>
+<circle cx="81" cy="1285" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="1289.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">13</text>
+<circle cx="81" cy="1323" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="1327.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">14</text>
+<circle cx="81" cy="1361" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="1365.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">15</text>
+<circle cx="81" cy="1399" r="11" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<text x="81" y="1403.5" font-size="12" fill="#00806B" font-weight="800" text-anchor="middle">16</text>
+<rect x="66" y="1448" width="488" height="34" rx="8" fill="#D8EDE7"/>
+<text x="80" y="1471" font-size="15" fill="#00806B" font-weight="800">16 格全部成立，才輪到談藥怎麼用</text>
+<rect x="66" y="1494" width="488" height="113" rx="14" fill="none" stroke="#B04A4A" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="82" y="1516" font-size="16" fill="#B04A4A" font-weight="800">第 17 條是例外條款，不是入場券</text>
+<text x="82" y="1538" font-size="14.5" fill="#345963">若從子宮鏡切除下來的檢體懷疑有早期、局部的 1 到 2 公釐肌層侵犯，</text>
+<text x="82" y="1559" font-size="14.5" fill="#345963">「may be discussed on a case-by-case basis」（IV, C）。三個限</text>
+<text x="82" y="1580" font-size="14.5" fill="#345963">定語一個都不能拿掉——它不是「有侵犯也可以留」。</text>
+<rect x="40" y="1649" width="540" height="258" rx="16" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="1679" font-size="17" fill="#8F7418" font-weight="800">「有反應」是要兩次切片才算數的事</text>
+<circle cx="72" cy="1714" r="4" fill="#C9A83E"/>
+<text x="88" y="1719" font-size="15" fill="#345963">療程 6 到 12 個月內要達到完全反應（III, B），最長不超過 15 個月（</text>
+<text x="88" y="1741" font-size="15" fill="#345963">IV, C）</text>
+<circle cx="72" cy="1774" r="4" fill="#C9A83E"/>
+<text x="88" y="1779" font-size="15" fill="#345963">6 個月完全沒有反應，要進多專科諮詢（IV, B）</text>
+<circle cx="72" cy="1812" r="4" fill="#C9A83E"/>
+<text x="88" y="1817" font-size="15" fill="#345963">每 3 個月一次內診加超音波（IV, B）；每 3 到 6 個月一次子宮鏡內膜</text>
+<text x="88" y="1839" font-size="15" fill="#345963">組織評估（IV, B）</text>
+<circle cx="72" cy="1872" r="4" fill="#C9A83E"/>
+<text x="88" y="1877" font-size="15" fill="#345963">要間隔至少 3 個月的兩次連續切片都判完全反應，才算成功（IV, C）</text>
+<g filter="url(#sh)">
+<rect x="40" y="1937" width="540" height="591" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="66" y="1969" font-size="18" fill="#123641" font-weight="800">結果：三個數字，三個分母</text>
+<text x="66" y="1993" font-size="14.5" fill="#527078">統合分析收 46 篇、861 位臨床 IA 期、高分化類內膜病人。</text>
+<text x="66" y="2036" font-size="15.5" fill="#123641" font-weight="800">完全反應</text>
+<rect x="66" y="2049" width="488" height="46" rx="10" fill="#ECE8DE"/>
+<rect x="66" y="2049" width="388.94" height="46" rx="10" fill="#00806B"/>
+<text x="82" y="2081" font-size="24" fill="#FFFFFF" font-weight="800">79.7%</text>
+<text x="66" y="2115" font-size="14.5" fill="#527078">分母：861 人、46 篇</text>
+<text x="66" y="2162" font-size="15.5" fill="#123641" font-weight="800">達到完全反應的人裡，追蹤期間復發</text>
+<rect x="66" y="2175" width="488" height="46" rx="10" fill="#ECE8DE"/>
+<rect x="66" y="2175" width="172.26" height="46" rx="10" fill="#B04A4A"/>
+<text x="82" y="2207" font-size="24" fill="#FFFFFF" font-weight="800">35.3%</text>
+<text x="66" y="2241" font-size="14.5" fill="#527078">分母：上一格裡達到完全反應的人</text>
+<text x="66" y="2288" font-size="15.5" fill="#123641" font-weight="800">活產</text>
+<rect x="66" y="2301" width="488" height="46" rx="10" fill="#ECE8DE"/>
+<rect x="66" y="2301" width="100.04" height="46" rx="10" fill="#96790F"/>
+<text x="82" y="2333" font-size="24" fill="#FFFFFF" font-weight="800">20.5%</text>
+<text x="66" y="2367" font-size="14.5" fill="#527078">95% 信賴區間 15.7 到 25.8；分母：650 人、39 篇</text>
+<rect x="66" y="2406" width="488" height="106" rx="14" fill="#ECE8DE"/>
+<text x="82" y="2426" font-size="14.5" fill="#345963">這三個比例的分母不一樣，不可以把它們相乘。同一份統合分析另報懷</text>
+<text x="82" y="2447" font-size="14.5" fill="#345963">孕率 26.7%（95% 信賴區間 21.3 到 32.3；826 人、42 篇）；只收 35</text>
+<text x="82" y="2468" font-size="14.5" fill="#345963">歲以下的次群，活產率 30.7%。作者結論句是「only one-fifth of them</text>
+<text x="82" y="2489" font-size="14.5" fill="#345963">are estimated to achieve live birth」。</text>
+<rect x="40" y="2558" width="540" height="206" rx="16" fill="#E3E8F6" stroke="#5C77C4" stroke-width="2.5"/>
+<text x="66" y="2588" font-size="17" fill="#123641" font-weight="800">完成生育之後，指引建議手術</text>
+<text x="66" y="2620" font-size="15.5" fill="#345963">原文：「Completion surgery is recommended after completing</text>
+<text x="66" y="2643" font-size="15.5" fill="#345963">childbearing」（II, A），正文給的理由句是「due to a high</text>
+<text x="66" y="2666" font-size="15.5" fill="#345963">recurrence rate」。治療沒有反應、懷不上、復發或惡化，一樣建議</text>
+<text x="66" y="2689" font-size="15.5" fill="#345963">手術（II, A）。生完後不想馬上開刀、也不打算馬上懷第二胎的人，指</text>
+<text x="66" y="2712" font-size="15.5" fill="#345963">引寫的是用含 levonorgestrel 的子宮內投藥系統做維持治療（III, B）</text>
+<text x="66" y="2735" font-size="15.5" fill="#345963">——那是延後，不是取消。</text>
+<rect x="40" y="2792" width="540" height="366" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="66" y="2822" font-size="18" fill="#B04A4A" font-weight="800">這張圖要同時擋住兩種讀法</text>
+<rect x="66" y="2848" width="488" height="151" rx="14" fill="#FFFFFF"/>
+<text x="82" y="2878" font-size="16" fill="#B04A4A" font-weight="800">這不是「吃藥就好」，也不是「反應了＝治好了」</text>
+<text x="82" y="2907" font-size="15" fill="#345963">它是在上面每一格都成立的前提下，用比較高的復發風險換一段生育</text>
+<text x="82" y="2929" font-size="15" fill="#345963">時間。達到完全反應的人裡有 35.3% 復發，指引因此把完成生育後的</text>
+<text x="82" y="2951" font-size="15" fill="#345963">手術寫成建議，而且要兩次間隔 3 個月以上的切片都判完全反應才算</text>
+<text x="82" y="2973" font-size="15" fill="#345963">成功。</text>
+<rect x="66" y="3015" width="488" height="129" rx="14" fill="#FFFFFF"/>
+<text x="82" y="3045" font-size="16" fill="#B04A4A" font-weight="800">也不是「想生就不要肖想，直接切」</text>
+<text x="82" y="3074" font-size="15" fill="#345963">符合上面每一格的人是真的有機會：46 篇、861 人裡完全反應 79.7%，</text>
+<text x="82" y="3096" font-size="15" fill="#345963">活產 20.5%，只收 35 歲以下的次群是 30.7%。條件符不符合，是婦</text>
+<text x="82" y="3118" font-size="15" fill="#345963">癌科、生殖醫學、病理科與放射科一起判的，不是自己對著文章判。</text>
+<text x="40" y="3182" font-size="16" fill="#527078">示意圖，依 ESGO／ESHRE／ESGE 2023 生育保留指引（Rodolakis 2023）</text>
+<text x="40" y="3206" font-size="16" fill="#527078">與 Herrera Cappelletti 2022 統合分析重繪，非擷取自原論文圖表；各研究</text>
+<text x="40" y="3230" font-size="16" fill="#527078">族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

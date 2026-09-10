@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2009" viewBox="0 0 1440 2009" role="img" aria-labelledby="t d">
+  <title id="t">三個 PORTEC 試驗各回答一題：局部控制、範圍能不能縮小、加化療換到什麼</title>
+  <desc id="d">示意圖：三個 PORTEC 試驗各回答一題，圖上沒有任何可以自己打勾的判準欄位。第一張大卡片是 PORTEC-1（n=715，FIGO 1988／2009 版第 1 期、類內膜、未做淋巴結廓清），問的是術後骨盆腔放療 46 Gy 換到什麼、付出什麼；三組橫條共用同一把 0 到 100% 的尺，每組上面一條是骨盆腔放療 46 Gy、下面一條是不做進一步治療。第一組是 5 年局部區域復發：放療 4%，觀察 14%，p 小於 0.001，放療組少 10 個百分點，這是放療真正買到的局部控制。第二組是 5 年整體存活：放療 81%，觀察 85%，p 等於 0.31，兩條一樣長；原文結論句是術後放療降低局部區域復發、對整體存活沒有影響。第三組是治療相關併發症：放療 25%，觀察 6%，p 小於 0.0001，放療組多 19 個百分點；三分之二是第 1 級，第 3 到 4 級併發症共 8 人、其中 7 人在放療組、佔該組 2%。卡片下方有一段字：三格要一起讀，只看第一格會讀成當然要照，只看第二格會讀成反正不延長存活，只看第三格會讀成放療很傷別碰；三格放在一起才是這個試驗的意思——放療買到的是局部控制，付出的是併發症，而它沒有把存活曲線拉開。第二張卡片是 PORTEC-2（n=427，高中度風險，FIGO 1988 版第 I 或 IIA 期），問的是可不可以把範圍縮小到只照陰道那一小段。5 年陰道復發：陰道近接治療 1.8%，骨盆腔外照射 46 Gy 分 23 次 1.6%，風險比 0.78（0.17 到 3.49），p 等於 0.74。旁邊畫了一把非劣性的尺：零點在左端，預設的非劣性邊界是 6 個百分點，觀察到的差值是加 0.2 個百分點，落在邊界之內。圖上寫著非劣性成立的意思是差值沒有超過事先講好的那條線，不是兩組一樣好；信賴區間 0.17 到 3.49 很寬，這個人數不足以證明兩者相同。同一張卡片另有一格誠實對照：5 年局部區域復發（陰道或骨盆腔）是近接治療 5.1% 對外照射 2.1%，風險比 2.08（0.71 到 6.09），p 等於 0.17，點估計不利於近接治療，只是沒有達到統計顯著；10 年的骨盆腔復發另有一張圖。第三張卡片是 PORTEC-3（n=660，高風險，FIGO 2009 版），問的是高風險的人在放療上面加化療換到什麼。10 年整體存活：化放療 74.4%，單純放療 67.3%。下面畫一條對數尺的風險比圖，虛線標出 1，校正後風險比 0.73、95% 信賴區間 0.54 到 0.97、p 等於 0.032，信賴區間沒有跨過 1。同一張卡片的誠實對照寫著：5 年的主要分析總存活是 81.8% 對 76.7%，風險比 0.76，p 等於 0.11，沒有達到統計顯著；10 年那一頁的益處集中在第 III 期與漿液性組織型。圖的最下面是一個金框方塊：這張圖不是判準表，也不是給你自己對號入座用的。三個試驗的收案條件、分期版本、風險族群都不一樣——PORTEC-1 沒有做淋巴結廓清，PORTEC-2 收的是高中度風險，PORTEC-3 收的是高風險，三格之間不可以直接比較。風險分組有正式的名字與定義，寫在正文裡；分組要同時看期別與版本、組織型、分化度、肌層侵犯、淋巴血管腔侵犯的量、有沒有做淋巴結分期，還有分子分型。這是要別人幫你算的問題。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2009" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">THREE PORTEC TRIALS, THREE QUESTIONS</text>
+<text x="84" y="140" font-size="40" fill="#123641" font-weight="800" class="r">三個 PORTEC，各回答一題</text>
+<text x="84" y="200.4" font-size="19" fill="#527078">三個試驗問的不是同一個問題，收的也不是同一群人。每一格都標了 n、族群與分期版本，因為換一群人，答案就換一個。</text>
+<text x="84" y="232.9" font-size="19" fill="#527078">這張圖不是判準表：圖上沒有任何可以自己打勾的欄位，落在哪一格由婦癌科與放射腫瘤科看完整病理報告一起判定。</text>
+<g filter="url(#sh)">
+<rect x="84" y="281.4" width="1272" height="744.02" rx="18" fill="#FFFFFF"/>
+<path d="M 84 299.4 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="108" y="323.4" font-size="18" fill="#123641" font-weight="800">PORTEC-1（n=715，FIGO 1988／2009 版第 1 期、類內膜、未做淋巴結廓清）</text>
+<text x="108" y="354.6" font-size="15.5" fill="#8F7418" font-weight="700">問題：術後骨盆腔放療 46 Gy，換到什麼、付出什麼？</text>
+<text x="108" y="395.07" font-size="12.5" fill="#527078">三格共用同一把 0 到 100% 的尺</text>
+<text x="108" y="424.57" font-size="17" fill="#123641" font-weight="800">5 年局部區域復發</text>
+<text x="108" y="468.38" font-size="14" fill="#527078" font-weight="700">骨盆腔放療 46 Gy</text>
+<rect x="284" y="450.38" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="450.38" width="37.76" height="26" rx="7" fill="#5C77C4"/>
+<text x="1240" y="470.94" font-size="21" fill="#5C77C4" font-weight="800">4%</text>
+<text x="108" y="502.38" font-size="14" fill="#527078" font-weight="700">不做進一步治療</text>
+<rect x="284" y="484.38" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="484.38" width="132.16" height="26" rx="7" fill="#7A6E58"/>
+<text x="1240" y="504.94" font-size="21" fill="#7A6E58" font-weight="800">14%</text>
+<text x="1240" y="522.38" font-size="12.5" fill="#345963" font-weight="700">p 小於 0.001</text>
+<text x="108" y="530.38" font-size="14" fill="#527078">放療組少 10 個百分點。這是放療真正買到的東西：局部控制。</text>
+<text x="108" y="582.17" font-size="17" fill="#123641" font-weight="800">5 年整體存活</text>
+<text x="108" y="625.97" font-size="14" fill="#527078" font-weight="700">骨盆腔放療 46 Gy</text>
+<rect x="284" y="607.97" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="607.97" width="764.64" height="26" rx="7" fill="#5C77C4"/>
+<text x="1240" y="628.53" font-size="21" fill="#5C77C4" font-weight="800">81%</text>
+<text x="108" y="659.97" font-size="14" fill="#527078" font-weight="700">不做進一步治療</text>
+<rect x="284" y="641.97" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="641.97" width="802.4" height="26" rx="7" fill="#7A6E58"/>
+<text x="1240" y="662.53" font-size="21" fill="#7A6E58" font-weight="800">85%</text>
+<text x="1240" y="679.97" font-size="12.5" fill="#345963" font-weight="700">p＝0.31</text>
+<text x="108" y="687.97" font-size="14" fill="#527078">兩條一樣長。原文的結論句是：術後放療降低局部區域復發，對整體存活沒有影響。</text>
+<text x="108" y="739.77" font-size="17" fill="#123641" font-weight="800">治療相關併發症</text>
+<text x="108" y="783.57" font-size="14" fill="#527078" font-weight="700">骨盆腔放療 46 Gy</text>
+<rect x="284" y="765.57" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="765.57" width="236" height="26" rx="7" fill="#5C77C4"/>
+<text x="1240" y="786.13" font-size="21" fill="#5C77C4" font-weight="800">25%</text>
+<text x="108" y="817.57" font-size="14" fill="#527078" font-weight="700">不做進一步治療</text>
+<rect x="284" y="799.57" width="944" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="799.57" width="56.64" height="26" rx="7" fill="#7A6E58"/>
+<text x="1240" y="820.13" font-size="21" fill="#7A6E58" font-weight="800">6%</text>
+<text x="1240" y="837.57" font-size="12.5" fill="#345963" font-weight="700">p 小於 0.0001</text>
+<text x="108" y="845.57" font-size="14" fill="#527078">放療組多 19 個百分點。三分之二是第 1 級；第 3 到 4 級併發症共 8 人，其中 7 人在放療組（佔該組 2%）。</text>
+<line x1="284" y1="873.87" x2="1228" y2="873.87" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="284" y1="873.87" x2="284" y2="879.87" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="284" y="895.87" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="520" y1="873.87" x2="520" y2="879.87" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="520" y="895.87" font-size="12.5" fill="#527078" text-anchor="middle">25</text>
+<line x1="756" y1="873.87" x2="756" y2="879.87" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="756" y="895.87" font-size="12.5" fill="#527078" text-anchor="middle">50</text>
+<line x1="992" y1="873.87" x2="992" y2="879.87" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="992" y="895.87" font-size="12.5" fill="#527078" text-anchor="middle">75</text>
+<line x1="1228" y1="873.87" x2="1228" y2="879.87" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1228" y="895.87" font-size="12.5" fill="#527078" text-anchor="middle">100%</text>
+<rect x="108" y="913.87" width="1224" height="87.55" rx="14" fill="#F3E8CD"/>
+<text x="126" y="949.37" font-size="15.5" fill="#8F7418" font-weight="700">三格要一起讀。只看第一格會讀成「當然要照」，只看第二格會讀成「反正不延長存活」，只看第三格會讀成「放療很傷、別碰」。三格放在一起，才是這個試驗的意思：放</text>
+<text x="126" y="973.4" font-size="15.5" fill="#8F7418" font-weight="700">療買到的是局部控制，付出的是併發症，而它沒有把存活曲線拉開。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1055.42" width="621" height="670.87" rx="18" fill="#FFFFFF"/>
+<path d="M 84 1073.42 a 18 18 0 0 1 18 -18 h 585 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="108" y="1101.42" font-size="18" fill="#123641" font-weight="800">PORTEC-2（n=427，高中度風險，FIGO 1988 版第 I 或 IIA 期）</text>
+<text x="108" y="1132.62" font-size="15.5" fill="#8F7418" font-weight="700">問題：可不可以把範圍縮小到只照陰道那一小段？</text>
+<text x="108" y="1180.6" font-size="17" fill="#123641" font-weight="800">5 年陰道復發</text>
+<text x="108" y="1210.6" font-size="14" fill="#527078" font-weight="700">陰道近接治療</text>
+<rect x="276" y="1192.6" width="317" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="276" y="1192.6" width="57.06" height="26" rx="7" fill="#00806B"/>
+<text x="605" y="1213.16" font-size="21" fill="#00806B" font-weight="800">1.8%</text>
+<text x="108" y="1244.6" font-size="14" fill="#527078" font-weight="700">骨盆腔外照射</text>
+<rect x="276" y="1226.6" width="317" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="276" y="1226.6" width="50.72" height="26" rx="7" fill="#5C77C4"/>
+<text x="605" y="1247.16" font-size="21" fill="#5C77C4" font-weight="800">1.6%</text>
+<line x1="276" y1="1256.6" x2="593" y2="1256.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="276" y1="1256.6" x2="276" y2="1262.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="276" y="1278.6" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="339.4" y1="1256.6" x2="339.4" y2="1262.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="339.4" y="1278.6" font-size="12.5" fill="#527078" text-anchor="middle">2</text>
+<line x1="402.8" y1="1256.6" x2="402.8" y2="1262.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="402.8" y="1278.6" font-size="12.5" fill="#527078" text-anchor="middle">4</text>
+<line x1="466.2" y1="1256.6" x2="466.2" y2="1262.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="466.2" y="1278.6" font-size="12.5" fill="#527078" text-anchor="middle">6</text>
+<line x1="529.6" y1="1256.6" x2="529.6" y2="1262.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="529.6" y="1278.6" font-size="12.5" fill="#527078" text-anchor="middle">8</text>
+<line x1="593" y1="1256.6" x2="593" y2="1262.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="593" y="1278.6" font-size="12.5" fill="#527078" text-anchor="middle">10%</text>
+<text x="108" y="1300.6" font-size="14" fill="#345963" font-weight="700">風險比 0.78（0.17 到 3.49），p＝0.74</text>
+<text x="108" y="1320.6" font-size="14" fill="#527078">外照射為 46 Gy 分 23 次；近接治療為高劑量率 21 Gy 分 3 次，或低劑量率 30 Gy。</text>
+<text x="108" y="1368.4" font-size="15.5" fill="#123641" font-weight="800">非劣性怎麼讀</text>
+<rect x="118" y="1382.4" width="414.75" height="30" rx="8" fill="#D8EDE7"/>
+<rect x="532.75" y="1382.4" width="138.25" height="30" rx="8" fill="#F6E2E0"/>
+<line x1="532.75" y1="1372.4" x2="532.75" y2="1422.4" stroke="#B04A4A" stroke-width="2.4" stroke-linecap="butt" stroke-dasharray="5 4"/>
+<line x1="118" y1="1412.4" x2="671" y2="1412.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="118" y1="1412.4" x2="118" y2="1418.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="118" y="1434.4" font-size="12" fill="#527078" text-anchor="middle">0</text>
+<line x1="256.25" y1="1412.4" x2="256.25" y2="1418.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="256.25" y="1434.4" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="394.5" y1="1412.4" x2="394.5" y2="1418.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="394.5" y="1434.4" font-size="12" fill="#527078" text-anchor="middle">4</text>
+<line x1="532.75" y1="1412.4" x2="532.75" y2="1418.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="532.75" y="1434.4" font-size="12" fill="#527078" text-anchor="middle">6</text>
+<line x1="671" y1="1412.4" x2="671" y2="1418.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="671" y="1434.4" font-size="12" fill="#527078" text-anchor="middle">8</text>
+<circle cx="131.82" cy="1397.4" r="8" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="118" y="1454.4" font-size="12" fill="#527078">陰道復發率的差值（百分點）</text>
+<text x="108" y="1476.4" font-size="14" fill="#00806B" font-weight="800">觀察到的差值 ＋0.2 個百分點</text>
+<text x="108" y="1498.7" font-size="14" fill="#B04A4A" font-weight="800">預設非劣性邊界：6 個百分點</text>
+<text x="108" y="1525" font-size="14" fill="#527078">非劣性成立的意思是差值沒有超過事先講好的那條線，不是兩組一樣好。信賴區間 0.17 到</text>
+<text x="108" y="1546" font-size="14" fill="#527078">3.49 很寬——這個人數不足以證明兩者相同。</text>
+<rect x="108" y="1581" width="573" height="121.3" rx="14" fill="#F6E2E0"/>
+<text x="124" y="1613" font-size="14" fill="#B04A4A" font-weight="800">同一個試驗的另一面</text>
+<text x="124" y="1635.3" font-size="14" fill="#345963">5 年局部區域復發（陰道或骨盆腔）是近接治療 5.1% 對外照射 2.1%，風險比 2.08（</text>
+<text x="124" y="1656.3" font-size="14" fill="#345963">0.71 到 6.09），p＝0.17：點估計不利於近接治療，只是沒有達到統計顯著。10 年的</text>
+<text x="124" y="1677.3" font-size="14" fill="#345963">骨盆腔復發另有一張圖。</text>
+<g filter="url(#sh)">
+<rect x="735" y="1055.42" width="621" height="521.47" rx="18" fill="#FFFFFF"/>
+<path d="M 735 1073.42 a 18 18 0 0 1 18 -18 h 585 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="759" y="1101.42" font-size="18" fill="#123641" font-weight="800">PORTEC-3（n=660，高風險，FIGO 2009 版）</text>
+<text x="759" y="1132.62" font-size="15.5" fill="#8F7418" font-weight="700">問題：高風險的人在放療上面加化療，換到什麼？</text>
+<text x="759" y="1180.6" font-size="17" fill="#123641" font-weight="800">10 年整體存活</text>
+<text x="759" y="1210.6" font-size="14" fill="#527078" font-weight="700">化放療</text>
+<rect x="927" y="1192.6" width="311" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="927" y="1192.6" width="231.38" height="26" rx="7" fill="#96790F"/>
+<text x="1250" y="1213.16" font-size="21" fill="#96790F" font-weight="800">74.4%</text>
+<text x="759" y="1244.6" font-size="14" fill="#527078" font-weight="700">單純放療</text>
+<rect x="927" y="1226.6" width="311" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="927" y="1226.6" width="209.3" height="26" rx="7" fill="#5C77C4"/>
+<text x="1250" y="1247.16" font-size="21" fill="#5C77C4" font-weight="800">67.3%</text>
+<line x1="927" y1="1256.6" x2="1238" y2="1256.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="927" y1="1256.6" x2="927" y2="1262.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="927" y="1278.6" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="1004.75" y1="1256.6" x2="1004.75" y2="1262.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1004.75" y="1278.6" font-size="12.5" fill="#527078" text-anchor="middle">25</text>
+<line x1="1082.5" y1="1256.6" x2="1082.5" y2="1262.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1082.5" y="1278.6" font-size="12.5" fill="#527078" text-anchor="middle">50</text>
+<line x1="1160.25" y1="1256.6" x2="1160.25" y2="1262.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1160.25" y="1278.6" font-size="12.5" fill="#527078" text-anchor="middle">75</text>
+<line x1="1238" y1="1256.6" x2="1238" y2="1262.6" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1238" y="1278.6" font-size="12.5" fill="#527078" text-anchor="middle">100%</text>
+<text x="759" y="1310.1" font-size="15.5" fill="#123641" font-weight="800">校正後風險比與 95% 信賴區間</text>
+<line x1="769" y1="1337.1" x2="1322" y2="1337.1" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="876.3" y1="1332.1" x2="876.3" y2="1342.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="876.3" y="1367.1" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1084.81" y1="1332.1" x2="1084.81" y2="1342.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1084.81" y="1367.1" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1293.33" y1="1332.1" x2="1293.33" y2="1342.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1293.33" y="1367.1" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1084.81" y1="1318.1" x2="1084.81" y2="1356.1" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="899.45" y1="1337.1" x2="1075.65" y2="1337.1" stroke="#96790F" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="899.45" y1="1329.1" x2="899.45" y2="1345.1" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<line x1="1075.65" y1="1329.1" x2="1075.65" y2="1345.1" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<circle cx="990.14" cy="1337.1" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="759" y="1395.6" font-size="17.5" fill="#96790F" font-weight="800">0.73（0.54 到 0.97），p＝0.032</text>
+<text x="759" y="1417.6" font-size="14" fill="#527078">信賴區間沒有跨過 1。</text>
+<rect x="759" y="1452.6" width="573" height="100.3" rx="14" fill="#F6E2E0"/>
+<text x="775" y="1484.6" font-size="14" fill="#B04A4A" font-weight="800">同一個試驗的另一面</text>
+<text x="775" y="1506.9" font-size="14" fill="#345963">5 年的主要分析，總存活是 81.8% 對 76.7%，風險比 0.76，p＝0.11——沒有達到統計顯</text>
+<text x="775" y="1527.9" font-size="14" fill="#345963">著。10 年那一頁的益處集中在第 III 期與漿液性組織型。</text>
+<rect x="84" y="1756.3" width="1272" height="169.28" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="1800.3" font-size="18" fill="#8F7418" font-weight="800">這張圖不是判準表，也不是給你自己對號入座用的</text>
+<text x="110" y="1831.5" font-size="15.5" fill="#345963">三個試驗的收案條件、分期版本、風險族群都不一樣：PORTEC-1 沒有做淋巴結廓清，PORTEC-2 收的是高中度風險，PORTEC-3 收的是高風險。三格之間不可以直接比較。風</text>
+<text x="110" y="1855.52" font-size="15.5" fill="#345963">險分組有正式的名字與定義，寫在正文裡；分組要同時看期別與版本、組織型、分化度、肌層侵犯、淋巴血管腔侵犯的量、有沒有做淋巴結分期，還有分子分型。這是要別人幫你</text>
+<text x="110" y="1879.55" font-size="15.5" fill="#345963">算的問題。</text>
+<text x="84" y="1949.57" font-size="15" fill="#527078">示意圖，依 PORTEC-1（Creutzberg 2000）、PORTEC-2（Nout 2010）、PORTEC-3 的 5 年最終結果（de Boer 2018）與 10 年結果（Post 2025）重繪；各研究族群、設計與終點不同，</text>
+<text x="84" y="1972.07" font-size="15" fill="#527078">數點不可直接互比。</text>
+  </g>
+</svg>

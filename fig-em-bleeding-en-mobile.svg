@@ -1,0 +1,244 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="5131" viewBox="0 0 620 5131" role="img" aria-labelledby="t d">
+  <title id="t">The two denominators of postmenopausal bleeding, and where ultrasound sits</title>
+  <desc id="d">Schematic on postmenopausal bleeding: the two directions of the probability, where ultrasound sits, and what gets tissue taken. The first section gives both directions from one meta-analysis (Clarke 2018: 129 studies, 34,432 women with postmenopausal bleeding, 6,358 women with endometrial cancer, 40,790 in total). From the cancer back to the symptom, 91 per cent of women with endometrial cancer present with postmenopausal bleeding, 95 per cent confidence interval 87 to 93 per cent, all stages. From the symptom forward to the cancer, 9 per cent of women with postmenopausal bleeding are diagnosed with endometrial cancer, 95 per cent confidence interval 8 to 11 per cent. That 9 per cent moves with the population: by hormone therapy use it runs from 7 per cent (6 to 9) to 12 per cent (9 to 15), heterogeneity p less than 0.001; by region it is 5 per cent in North America (3 to 11) and 13 per cent in Western Europe (9 to 19), p equal to 0.09. The figure notes that this is the denominator of women who have already bled and already come to be seen, not a whole-population risk. The second section places ultrasound, and states on the figure that there is no arrow reading &quot;thickness normal, go home and watch&quot;: ultrasound has one job here, helping decide whether to take tissue today and whether to go straight to hysteroscopy. Three panels must be read together. The first is what the threshold can do: at 5 mm, sensitivity 96.2 per cent (92.3 to 98.1) and specificity only 51.5 per cent (42.3 to 60.7), from 44 studies, 17,339 women with postmenopausal bleeding and 1,341 cancers (7.7 per cent); specificity is pulled down by hormone use, 92 per cent (90 to 94) in women not on hormone therapy and 77 per cent (75 to 79) in women on it, from 35 studies and 5,892 women; recomputed from individual patient data, overall discrimination is only AUC 0.82 to 0.84, the authors wrote that previous meta-analyses had probably overestimated its diagnostic accuracy, and they advised a 3 mm cut-off for exclusion. The second panel is the guideline text: ACOG Committee Opinion No. 734 of 2018 states that an endometrial thickness of 4 mm or less has a greater than 99 per cent negative predictive value for endometrial cancer; the same document also states that transvaginal ultrasonography is not an appropriate screening tool for postmenopausal women without bleeding, and that a thickness above 4 mm found incidentally without bleeding need not routinely trigger evaluation. The third panel is where the threshold misses, drawn as four bars of false-negative probability from Doll 2024 (1,494 women, 210 endometrial cancers, a single population of Black women): thickness under 5 mm gives 12.4 per cent in the postmenopausal bleeding subgroup (95 per cent CI 7.8 to 18.5) and 11.4 per cent in the whole cohort (24 of 210 cancers missed), under 4 mm 9.5 per cent and under 3 mm 3.8 per cent. The figure states that this cannot be read as everyone losing one in ten, and that what it shows is that the miss rate of a threshold varies by population. The third section compares stratifying power within one prospective cohort (Mayo, n=1,163, aged 45 and over, 2013 to 2019), as six bars: aged 60 and over 17.7 per cent (95 per cent CI 13.0 to 22.3), recurrent bleeding 14.7 per cent (11.0 to 18.3), postmenopausal bleeding overall with cancer 7.9 per cent (47 of 593, with a further 18 cases, 3.0 per cent, of endometrial intraepithelial neoplasia), endometrial thickness above 4 mm 5.8 per cent (1.3 to 10.3), endometrial thickness 4 mm or less 3.6 per cent (0.9 to 8.6), and premenopausal abnormal bleeding with cancer 1.2 per cent (7 of 570, with a further 8 cases, 1.4 per cent, of endometrial intraepithelial neoplasia). The figure notes that the two grey bars come from the subgroup with a first episode of postmenopausal bleeding in whom the algorithm called for ultrasound first, with cancer or endometrial intraepithelial neoplasia as the endpoint; that they are almost the same height, so thickness gave no useful stratification in these women while the two age-related bars do separate; and that the subgroups and endpoint definitions differ, so the values must not be subtracted from one another. The fourth section is what gets tissue taken: postmenopausal bleeding is itself the moment for deciding how tissue is obtained today; a benign biopsy with persistent or recurrent bleeding calls for hysteroscopy with dilation and curettage in the guideline text; office sampling detects endometrial cancer in 99.6 per cent against curettage or hysterectomy as the reference (91 per cent before the menopause) with specificity above 98 per cent for every device (39 studies, 7,914 women); changing the reference to hysteroscopy with histology drops sensitivity to 90 per cent (50 to 100), atypical hyperplasia to 82 per cent (56 to 94) and endometrial disease including benign polyps to 39 per cent (21 to 69), from 12 studies and 1,029 women; and in that same analysis sampling failed in 11 per cent (1 to 53) and was insufficient in 31 per cent (7 to 76), of whom 7 per cent (0 to 18) were eventually found to have endometrial cancer or a pre-cancer. The figure closes with a statement that the case for not waiting does not rest on the claim that waiting makes the stage worse. No arrow runs from time to stage, because the FIGO 2025 report on cancer of the corpus uteri says in its own words that the effect of waiting time for surgical staging on survival is controversial, and that when only low-grade endometrial cancer is considered, waiting time was not associated with worse survival. The figure argues three things and no more: roughly one in ten of this group has cancer, nine in ten women with endometrial cancer present with this symptom, and settling the question takes one clinic visit.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="5131" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="62" font-size="17" fill="#A98722" font-weight="800" letter-spacing="2px">POSTMENOPAUSAL BLEEDING — TWO DIRECTIONS,</text>
+<text x="40" y="87.5" font-size="17" fill="#A98722" font-weight="800" letter-spacing="2px">TWO DENOMINATORS</text>
+<text x="40" y="139.5" font-size="33" fill="#123641" font-weight="800" class="r">Nine in ten endometrial cancers</text>
+<text x="40" y="181.08" font-size="33" fill="#123641" font-weight="800" class="r">are caught by bleeding</text>
+<text x="40" y="232.66" font-size="18.5" fill="#527078">One meta-analysis, read in two directions: from the cancer</text>
+<text x="40" y="260.41" font-size="18.5" fill="#527078">back to the symptom it is 91 per cent; from the symptom</text>
+<text x="40" y="288.16" font-size="18.5" fill="#527078">forward to the cancer it is 9 per cent. Both are true, and</text>
+<text x="40" y="315.91" font-size="18.5" fill="#527078">dropping either one skews the reading.</text>
+<text x="40" y="343.66" font-size="18.5" fill="#527078">Nothing in this figure argues that waiting makes the stage</text>
+<text x="40" y="371.41" font-size="18.5" fill="#527078">worse. The evidence on that question is weak and</text>
+<text x="40" y="399.16" font-size="18.5" fill="#527078">inconsistent, and the figure does not lean on it.</text>
+<text x="40" y="476.91" font-size="24" fill="#123641" font-weight="800" class="r">Two directions, one set of patients</text>
+<text x="40" y="510.91" font-size="16" fill="#527078">Clarke 2018 meta-analysis: 129 studies, 34,432 women with</text>
+<text x="40" y="533.91" font-size="16" fill="#527078">postmenopausal bleeding, 6,358 women with endometrial cancer,</text>
+<text x="40" y="556.91" font-size="16" fill="#527078">40,790 in total.</text>
+<g filter="url(#sh)"><rect x="40" y="587.91" width="540" height="320" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="605.91" width="8" height="20" rx="4" fill="#00806B"/>
+<text x="82" y="621.91" font-size="15" fill="#00806B" font-weight="800">From the cancer back to the symptom</text>
+<text x="64" y="649.91" font-size="16.5" fill="#345963" font-weight="600">Of women with endometrial cancer, how many present with</text>
+<text x="64" y="673.91" font-size="16.5" fill="#345963" font-weight="600">postmenopausal bleeding?</text>
+<text x="64" y="753.91" font-size="62" fill="#00806B" font-weight="800" class="r">91%</text>
+<text x="556" y="753.91" font-size="13.5" fill="#527078" text-anchor="end">95% confidence interval 87% to 93%, all stages</text>
+<rect x="64" y="769.91" width="492" height="16" rx="8" fill="#ECE8DE"/>
+<rect x="64" y="769.91" width="447.72" height="16" rx="8" fill="#00806B"/>
+<text x="64" y="813.91" font-size="14.5" fill="#527078">This symptom is the main door into the diagnosis. In the words of the</text>
+<text x="64" y="834.91" font-size="14.5" fill="#527078">authors, early-detection strategies focused on women with</text>
+<text x="64" y="855.91" font-size="14.5" fill="#527078">postmenopausal bleeding could capture as many as 90 per cent of</text>
+<text x="64" y="876.91" font-size="14.5" fill="#527078">endometrial cancers.</text>
+<g filter="url(#sh)"><rect x="40" y="923.91" width="540" height="527" rx="18" fill="#FFFFFF"/></g>
+<rect x="64" y="941.91" width="8" height="20" rx="4" fill="#96790F"/>
+<text x="82" y="957.91" font-size="15" fill="#96790F" font-weight="800">From the symptom forward to the cancer</text>
+<text x="64" y="985.91" font-size="16.5" fill="#345963" font-weight="600">Of women with postmenopausal bleeding, how many are</text>
+<text x="64" y="1009.91" font-size="16.5" fill="#345963" font-weight="600">diagnosed with endometrial cancer?</text>
+<text x="64" y="1089.91" font-size="62" fill="#96790F" font-weight="800" class="r">9%</text>
+<text x="556" y="1089.91" font-size="13.5" fill="#527078" text-anchor="end">95% confidence interval 8% to 11%</text>
+<rect x="64" y="1105.91" width="492" height="16" rx="8" fill="#ECE8DE"/>
+<rect x="64" y="1105.91" width="44.28" height="16" rx="8" fill="#96790F"/>
+<text x="64" y="1149.91" font-size="14.5" fill="#527078">The second half of the same sentence: most women with</text>
+<text x="64" y="1170.91" font-size="14.5" fill="#527078">postmenopausal bleeding will not be diagnosed with endometrial</text>
+<text x="64" y="1191.91" font-size="14.5" fill="#527078">cancer. The two halves have to be read together.</text>
+<line x1="64" y1="1228.91" x2="556" y2="1228.91" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="round"/>
+<text x="64" y="1254.91" font-size="15" fill="#8F7418" font-weight="800">That 9 per cent moves with the population</text>
+<rect x="187" y="1280.91" width="196.8" height="22" rx="5" fill="#F3E8CD"/>
+<rect x="187" y="1280.91" width="196.8" height="22" rx="5" fill="none" stroke="#C9A83E" stroke-width="1.6"/>
+<line x1="64" y1="1310.91" x2="556" y2="1310.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="64" y1="1310.91" x2="64" y2="1315.91" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="64" y="1330.91" font-size="12" fill="#527078" text-anchor="middle">0%</text>
+<line x1="187" y1="1310.91" x2="187" y2="1315.91" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="187" y="1330.91" font-size="12" fill="#527078" text-anchor="middle">5%</text>
+<line x1="310" y1="1310.91" x2="310" y2="1315.91" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="310" y="1330.91" font-size="12" fill="#527078" text-anchor="middle">10%</text>
+<line x1="433" y1="1310.91" x2="433" y2="1315.91" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="433" y="1330.91" font-size="12" fill="#527078" text-anchor="middle">15%</text>
+<line x1="556" y1="1310.91" x2="556" y2="1315.91" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="556" y="1330.91" font-size="12" fill="#527078" text-anchor="middle">20%</text>
+<circle cx="285.4" cy="1291.91" r="7" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="285.4" y="1272.91" font-size="13" fill="#00806B" font-weight="800" text-anchor="middle">pooled 9%</text>
+<text x="187" y="1296.91" font-size="12.5" fill="#8F7418" font-weight="700" text-anchor="start">N America 5%</text>
+<text x="383.8" y="1296.91" font-size="12.5" fill="#8F7418" font-weight="700" text-anchor="end">W Europe 13%</text>
+<text x="64" y="1354.91" font-size="14" fill="#345963">By hormone therapy use: 7% (6–9%) to 12% (9–15%), heterogeneity</text>
+<text x="64" y="1375.91" font-size="14" fill="#345963">p&lt;0.001</text>
+<text x="64" y="1398.91" font-size="14" fill="#345963">By region: North America 5% (3–11%), Western Europe 13% (9–19%),</text>
+<text x="64" y="1419.91" font-size="14" fill="#345963">p=0.09</text>
+<rect x="40" y="1466.91" width="540" height="100" rx="14" fill="#ECE8DE"/>
+<text x="66" y="1498.91" font-size="15" fill="#345963">This is the denominator of women who have already bled and</text>
+<text x="66" y="1520.91" font-size="15" fill="#345963">already come to be seen, not a whole-population risk. Reading it as</text>
+<text x="66" y="1542.91" font-size="15" fill="#345963">roughly one in nine is fair, as long as that condition is kept in view.</text>
+<text x="40" y="1600.91" font-size="24" fill="#123641" font-weight="800" class="r">Where ultrasound sits: it decides whether</text>
+<text x="40" y="1632.91" font-size="24" fill="#123641" font-weight="800" class="r">tissue is taken today</text>
+<text x="40" y="1666.91" font-size="16" fill="#527078">It is not a gate that lets a thin endometrium through. The three panels</text>
+<text x="40" y="1689.91" font-size="16" fill="#527078">below have to be read in one frame; any one of them alone gives the</text>
+<text x="40" y="1712.91" font-size="16" fill="#527078">wrong answer.</text>
+<rect x="40" y="1743.91" width="540" height="126" rx="14" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2"/>
+<text x="66" y="1775.91" font-size="15.5" fill="#B04A4A" font-weight="700">There is no arrow on this figure reading &quot;thickness normal, go</text>
+<text x="66" y="1798.91" font-size="15.5" fill="#B04A4A" font-weight="700">home and watch&quot;. Ultrasound has one job here: helping decide</text>
+<text x="66" y="1821.91" font-size="15.5" fill="#B04A4A" font-weight="700">whether to take tissue today, and whether to go straight to</text>
+<text x="66" y="1844.91" font-size="15.5" fill="#B04A4A" font-weight="700">hysteroscopy.</text>
+<rect x="40" y="1885.91" width="540" height="306" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<text x="64" y="1921.91" font-size="18" fill="#123641" font-weight="800">What the threshold can do</text>
+<circle cx="69" cy="1946.91" r="4.5" fill="#C9A83E"/>
+<text x="84" y="1951.91" font-size="14.5" fill="#345963">At a 5 mm threshold: sensitivity 96.2% (92.3–98.1), specificity only</text>
+<text x="84" y="1972.91" font-size="14.5" fill="#345963">51.5% (42.3–60.7). The denominator is 44 studies, 17,339 women</text>
+<text x="84" y="1993.91" font-size="14.5" fill="#345963">with postmenopausal bleeding, 1,341 cancers (7.7%).</text>
+<circle cx="69" cy="2017.91" r="4.5" fill="#C9A83E"/>
+<text x="84" y="2022.91" font-size="14.5" fill="#345963">Specificity is pulled down by hormone use: 92% (90–94%) in women</text>
+<text x="84" y="2043.91" font-size="14.5" fill="#345963">not on hormone therapy, falling to 77% (75–79%) in women on it (35</text>
+<text x="84" y="2064.91" font-size="14.5" fill="#345963">studies, 5,892 women).</text>
+<circle cx="69" cy="2088.91" r="4.5" fill="#C9A83E"/>
+<text x="84" y="2093.91" font-size="14.5" fill="#345963">Recomputed from individual patient data, overall discrimination is</text>
+<text x="84" y="2114.91" font-size="14.5" fill="#345963">only AUC 0.82 to 0.84. The authors wrote that previous</text>
+<text x="84" y="2135.91" font-size="14.5" fill="#345963">meta-analyses had probably overestimated its diagnostic</text>
+<text x="84" y="2156.91" font-size="14.5" fill="#345963">accuracy, and advised a 3 mm cut-off for exclusion.</text>
+<rect x="40" y="2205.91" width="540" height="306" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<text x="64" y="2241.91" font-size="18" fill="#123641" font-weight="800">What the guideline text says</text>
+<circle cx="69" cy="2266.91" r="4.5" fill="#C9A83E"/>
+<text x="84" y="2271.91" font-size="14.5" fill="#345963">ACOG Committee Opinion No. 734 (2018): an endometrial thickness</text>
+<text x="84" y="2292.91" font-size="14.5" fill="#345963">of 4 mm or less has a greater than 99% negative predictive value</text>
+<text x="84" y="2313.91" font-size="14.5" fill="#345963">for endometrial cancer. Negative predictive value means the share</text>
+<text x="84" y="2334.91" font-size="14.5" fill="#345963">of people truly free of disease among those the test calls negative.</text>
+<circle cx="69" cy="2358.91" r="4.5" fill="#C9A83E"/>
+<text x="84" y="2363.91" font-size="14.5" fill="#345963">The same document also says transvaginal ultrasonography is not</text>
+<text x="84" y="2384.91" font-size="14.5" fill="#345963">an appropriate screening tool for postmenopausal women without</text>
+<text x="84" y="2405.91" font-size="14.5" fill="#345963">bleeding, and that a thickness above 4 mm found incidentally</text>
+<text x="84" y="2426.91" font-size="14.5" fill="#345963">without bleeding need not routinely trigger evaluation.</text>
+<circle cx="69" cy="2450.91" r="4.5" fill="#C9A83E"/>
+<text x="84" y="2455.91" font-size="14.5" fill="#345963">That sentence is quotable, but only in the same frame as the panel</text>
+<text x="84" y="2476.91" font-size="14.5" fill="#345963">headed “In whom it misses” — never on its own.</text>
+<rect x="40" y="2525.91" width="540" height="502" rx="16" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<text x="66" y="2561.91" font-size="18" fill="#B04A4A" font-weight="800">In whom it misses</text>
+<text x="66" y="2601.91" font-size="14.5" fill="#527078" font-weight="600">Thickness &lt;5 mm (postmenopausal bleeding subgroup)</text>
+<rect x="66" y="2613.91" width="292.95" height="20" rx="5" fill="#B04A4A"/>
+<text x="554" y="2630.91" font-size="20" fill="#B04A4A" font-weight="800" text-anchor="end">12.4%</text>
+<text x="554" y="2648.91" font-size="12.5" fill="#527078" text-anchor="end">95% CI 7.8–18.5</text>
+<text x="66" y="2680.91" font-size="14.5" fill="#527078" font-weight="600">Thickness &lt;5 mm (whole cohort)</text>
+<rect x="66" y="2692.91" width="269.32" height="20" rx="5" fill="#B04A4A"/>
+<text x="554" y="2709.91" font-size="20" fill="#B04A4A" font-weight="800" text-anchor="end">11.4%</text>
+<text x="554" y="2727.91" font-size="12.5" fill="#527078" text-anchor="end">24 of 210 cancers missed</text>
+<text x="66" y="2759.91" font-size="14.5" fill="#527078" font-weight="600">Thickness &lt;4 mm</text>
+<rect x="66" y="2771.91" width="224.44" height="20" rx="5" fill="#B04A4A"/>
+<text x="554" y="2788.91" font-size="20" fill="#B04A4A" font-weight="800" text-anchor="end">9.5%</text>
+<text x="66" y="2820.91" font-size="14.5" fill="#527078" font-weight="600">Thickness &lt;3 mm</text>
+<rect x="66" y="2832.91" width="89.77" height="20" rx="5" fill="#B04A4A"/>
+<text x="554" y="2849.91" font-size="20" fill="#B04A4A" font-weight="800" text-anchor="end">3.8%</text>
+<line x1="66" y1="2863.91" x2="444" y2="2863.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="66" y1="2863.91" x2="66" y2="2868.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="2884.91" font-size="12.5" fill="#527078" text-anchor="middle">0%</text>
+<line x1="160.5" y1="2863.91" x2="160.5" y2="2868.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="160.5" y="2884.91" font-size="12.5" fill="#527078" text-anchor="middle">4%</text>
+<line x1="255" y1="2863.91" x2="255" y2="2868.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="255" y="2884.91" font-size="12.5" fill="#527078" text-anchor="middle">8%</text>
+<line x1="349.5" y1="2863.91" x2="349.5" y2="2868.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="349.5" y="2884.91" font-size="12.5" fill="#527078" text-anchor="middle">12%</text>
+<line x1="444" y1="2863.91" x2="444" y2="2868.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="444" y="2884.91" font-size="12.5" fill="#527078" text-anchor="middle">16%</text>
+<text x="66" y="2905.91" font-size="12.5" fill="#527078">false-negative probability (%)</text>
+<text x="66" y="2941.91" font-size="14" fill="#527078">Doll 2024: 1,494 women, 210 endometrial cancers, in a single population</text>
+<text x="66" y="2962.91" font-size="14" fill="#527078">(Black women). This cannot be read as &quot;everyone loses one in ten&quot;.</text>
+<text x="66" y="2983.91" font-size="14" fill="#527078">What it does show is that the miss rate of a threshold varies by</text>
+<text x="66" y="3004.91" font-size="14" fill="#527078">population, and that it has now been measured.</text>
+<text x="40" y="3061.91" font-size="24" fill="#123641" font-weight="800" class="r">Age and &quot;it has happened again&quot; stratify</text>
+<text x="40" y="3093.91" font-size="24" fill="#123641" font-weight="800" class="r">better than thickness</text>
+<text x="40" y="3127.91" font-size="16" fill="#527078">One prospective cohort (Mayo, n=1,163, aged 45 and over,</text>
+<text x="40" y="3150.91" font-size="16" fill="#527078">2013–2019). The bar lengths are here to compare stratifying power,</text>
+<text x="40" y="3173.91" font-size="16" fill="#527078">nothing else.</text>
+<g filter="url(#sh)"><rect x="40" y="3204.91" width="540" height="736" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="3258.91" font-size="14.5" fill="#123641" font-weight="800">Aged 60 and over</text>
+<rect x="66" y="3270.91" width="316.83" height="20" rx="5" fill="#B04A4A"/>
+<text x="554" y="3287.91" font-size="20" fill="#B04A4A" font-weight="800" text-anchor="end">17.7%</text>
+<text x="554" y="3305.91" font-size="12.5" fill="#527078" text-anchor="end">95% CI 13.0–22.3</text>
+<text x="66" y="3337.91" font-size="14.5" fill="#123641" font-weight="800">Recurrent bleeding</text>
+<rect x="66" y="3349.91" width="263.13" height="20" rx="5" fill="#B04A4A"/>
+<text x="554" y="3366.91" font-size="20" fill="#B04A4A" font-weight="800" text-anchor="end">14.7%</text>
+<text x="554" y="3384.91" font-size="12.5" fill="#527078" text-anchor="end">95% CI 11.0–18.3</text>
+<text x="66" y="3416.91" font-size="14.5" fill="#527078" font-weight="600">Postmenopausal bleeding overall (cancer)</text>
+<rect x="66" y="3428.91" width="141.41" height="20" rx="5" fill="#00806B"/>
+<text x="554" y="3445.91" font-size="20" fill="#00806B" font-weight="800" text-anchor="end">7.9%</text>
+<text x="554" y="3463.91" font-size="12.5" fill="#527078" text-anchor="end">47 of 593; a further 18 (3.0%) had EIN</text>
+<text x="66" y="3495.91" font-size="14.5" fill="#527078" font-weight="600">Endometrial thickness &gt;4 mm</text>
+<rect x="66" y="3507.91" width="103.82" height="20" rx="5" fill="#7A6E58"/>
+<text x="554" y="3524.91" font-size="20" fill="#7A6E58" font-weight="800" text-anchor="end">5.8%</text>
+<text x="554" y="3542.91" font-size="12.5" fill="#527078" text-anchor="end">95% CI 1.3–10.3</text>
+<text x="66" y="3574.91" font-size="14.5" fill="#527078" font-weight="600">Endometrial thickness ≤4 mm</text>
+<rect x="66" y="3586.91" width="64.44" height="20" rx="5" fill="#7A6E58"/>
+<text x="554" y="3603.91" font-size="20" fill="#7A6E58" font-weight="800" text-anchor="end">3.6%</text>
+<text x="554" y="3621.91" font-size="12.5" fill="#527078" text-anchor="end">95% CI 0.9–8.6</text>
+<text x="66" y="3653.91" font-size="14.5" fill="#527078" font-weight="600">Premenopausal abnormal bleeding (cancer)</text>
+<rect x="66" y="3665.91" width="21.48" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="3682.91" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">1.2%</text>
+<text x="554" y="3700.91" font-size="12.5" fill="#527078" text-anchor="end">7 of 570; a further 8 (1.4%) had EIN</text>
+<line x1="66" y1="3714.91" x2="424" y2="3714.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="66" y1="3714.91" x2="66" y2="3719.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="3735.91" font-size="12.5" fill="#527078" text-anchor="middle">0%</text>
+<line x1="155.5" y1="3714.91" x2="155.5" y2="3719.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="155.5" y="3735.91" font-size="12.5" fill="#527078" text-anchor="middle">5%</text>
+<line x1="245" y1="3714.91" x2="245" y2="3719.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="245" y="3735.91" font-size="12.5" fill="#527078" text-anchor="middle">10%</text>
+<line x1="334.5" y1="3714.91" x2="334.5" y2="3719.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="334.5" y="3735.91" font-size="12.5" fill="#527078" text-anchor="middle">15%</text>
+<line x1="424" y1="3714.91" x2="424" y2="3719.91" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="424" y="3735.91" font-size="12.5" fill="#527078" text-anchor="middle">20%</text>
+<text x="66" y="3770.91" font-size="14" fill="#527078">The two grey bars come from the subgroup within the same cohort</text>
+<text x="66" y="3791.91" font-size="14" fill="#527078">with a first episode of postmenopausal bleeding, in whom the algorithm</text>
+<text x="66" y="3812.91" font-size="14" fill="#527078">called for ultrasound first, and their endpoint is cancer or endometrial</text>
+<text x="66" y="3833.91" font-size="14" fill="#527078">intraepithelial neoplasia (EIN). They are almost the same height: in</text>
+<text x="66" y="3854.91" font-size="14" fill="#527078">these women, endometrial thickness gave no useful stratification. The</text>
+<text x="66" y="3875.91" font-size="14" fill="#527078">two age-related bars are the ones that separate. The subgroups and</text>
+<text x="66" y="3896.91" font-size="14" fill="#527078">endpoint definitions on these rows are not identical, so the values must</text>
+<text x="66" y="3917.91" font-size="14" fill="#527078">not be subtracted from one another.</text>
+<text x="40" y="3974.91" font-size="24" fill="#123641" font-weight="800" class="r">So what does get tissue taken</text>
+<text x="40" y="4008.91" font-size="16" fill="#527078">Sampling misses things too, which is why &quot;the biopsy was benign&quot;</text>
+<text x="40" y="4031.91" font-size="16" fill="#527078">and &quot;cancer has been excluded&quot; are not the same sentence.</text>
+<rect x="40" y="4062.91" width="540" height="525" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<circle cx="75" cy="4097.91" r="4.5" fill="#00806B"/>
+<text x="90" y="4102.91" font-size="15.5" fill="#345963">Postmenopausal bleeding is itself the moment for deciding</text>
+<text x="90" y="4125.91" font-size="15.5" fill="#345963">how tissue is obtained today — office sampling or</text>
+<text x="90" y="4148.91" font-size="15.5" fill="#345963">hysteroscopy, judged by the gynaecology team.</text>
+<circle cx="75" cy="4174.91" r="4.5" fill="#00806B"/>
+<text x="90" y="4179.91" font-size="15.5" fill="#345963">Benign biopsy, but the bleeding persists or returns: the</text>
+<text x="90" y="4202.91" font-size="15.5" fill="#345963">guideline text calls for further work-up with hysteroscopy</text>
+<text x="90" y="4225.91" font-size="15.5" fill="#345963">and dilation and curettage (ACOG 734).</text>
+<circle cx="75" cy="4251.91" r="4.5" fill="#00806B"/>
+<text x="90" y="4256.91" font-size="15.5" fill="#345963">Office sampling (a Pipelle-type device) detects endometrial</text>
+<text x="90" y="4279.91" font-size="15.5" fill="#345963">cancer well in postmenopausal women — 99.6% against</text>
+<text x="90" y="4302.91" font-size="15.5" fill="#345963">curettage or hysterectomy as the reference (91% before the</text>
+<text x="90" y="4325.91" font-size="15.5" fill="#345963">menopause), with specificity above 98% for every device (39</text>
+<text x="90" y="4348.91" font-size="15.5" fill="#345963">studies, 7,914 women).</text>
+<circle cx="75" cy="4374.91" r="4.5" fill="#00806B"/>
+<text x="90" y="4379.91" font-size="15.5" fill="#345963">Change the reference to hysteroscopy with histology and</text>
+<text x="90" y="4402.91" font-size="15.5" fill="#345963">sensitivity falls to 90% (50–100), atypical hyperplasia to 82%</text>
+<text x="90" y="4425.91" font-size="15.5" fill="#345963">(56–94), and endometrial disease including benign polyps to</text>
+<text x="90" y="4448.91" font-size="15.5" fill="#345963">39% (21–69) (12 studies, 1,029 women).</text>
+<circle cx="75" cy="4474.91" r="4.5" fill="#00806B"/>
+<text x="90" y="4479.91" font-size="15.5" fill="#345963">In that same analysis: sampling failed in 11% (1–53%) and</text>
+<text x="90" y="4502.91" font-size="15.5" fill="#345963">was insufficient in 31% (7–76%); of those women, 7% (0–18%)</text>
+<text x="90" y="4525.91" font-size="15.5" fill="#345963">were eventually found to have endometrial cancer or a</text>
+<text x="90" y="4548.91" font-size="15.5" fill="#345963">pre-cancer.</text>
+<rect x="40" y="4613.91" width="540" height="353" rx="16" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="4649.91" font-size="19" fill="#8F7418" font-weight="800">The case for not waiting does not rest on &quot;waiting</text>
+<text x="66" y="4676.91" font-size="19" fill="#8F7418" font-weight="800">makes it later stage&quot;</text>
+<text x="66" y="4709.91" font-size="15.5" fill="#345963" font-weight="600">No arrow on this figure runs from time to stage, because the</text>
+<text x="66" y="4732.91" font-size="15.5" fill="#345963" font-weight="600">evidence there is weak and inconsistent: the FIGO 2025 report</text>
+<text x="66" y="4755.91" font-size="15.5" fill="#345963" font-weight="600">on cancer of the corpus uteri says in its own words that the</text>
+<text x="66" y="4778.91" font-size="15.5" fill="#345963" font-weight="600">effect of waiting time for surgical staging on survival is</text>
+<text x="66" y="4801.91" font-size="15.5" fill="#345963" font-weight="600">controversial, and that when only low-grade endometrial cancer</text>
+<text x="66" y="4824.91" font-size="15.5" fill="#345963" font-weight="600">is considered, waiting time was not associated with worse</text>
+<text x="66" y="4847.91" font-size="15.5" fill="#345963" font-weight="600">survival. This figure argues three things and no more: roughly</text>
+<text x="66" y="4870.91" font-size="15.5" fill="#345963" font-weight="600">one in ten of this group has cancer (9%, 8–11%); nine in ten</text>
+<text x="66" y="4893.91" font-size="15.5" fill="#345963" font-weight="600">women with endometrial cancer present with this symptom</text>
+<text x="66" y="4916.91" font-size="15.5" fill="#345963" font-weight="600">(91%); and settling the question takes one clinic visit. None of the</text>
+<text x="66" y="4939.91" font-size="15.5" fill="#345963" font-weight="600">three needs to frighten anyone.</text>
+<text x="40" y="4992.91" font-size="15" fill="#527078">Schematic, redrawn from Clarke 2018 (meta-analysis), Clarke 2020</text>
+<text x="40" y="5015.41" font-size="15" fill="#527078">(Mayo prospective cohort), Long 2020, Smith-Bindman 1998, Timmermans</text>
+<text x="40" y="5037.91" font-size="15" fill="#527078">2010, Doll 2024, Dijkhuizen 2000, van Hanegem 2016, ACOG Committee</text>
+<text x="40" y="5060.41" font-size="15" fill="#527078">Opinion 734 and the FIGO 2025 report on cancer of the corpus uteri; the</text>
+<text x="40" y="5082.91" font-size="15" fill="#527078">cohorts, designs and endpoints of the underlying studies differ, so the data</text>
+<text x="40" y="5105.41" font-size="15" fill="#527078">points must not be compared directly.</text>
+  </g>
+</svg>

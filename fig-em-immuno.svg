@@ -1,0 +1,392 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="3252" viewBox="0 0 1440 3252" role="img" aria-labelledby="t d">
+  <title id="t">四個第三期免疫治療試驗，依 MMR 狀態分層對照：每一格都帶 n 與 MMR 標籤</title>
+  <desc id="d">示意圖：四個第三期免疫治療試驗，依 MMR 狀態分成兩欄對照，每一格都帶 MMR 狀態標籤與 n。左欄是錯配修復缺損 dMMR／MSI-H，右欄是錯配修復完整 pMMR／MSS，每一格附一條對數尺的風險比圖，虛線是 1。第一列 RUBY／ENGOT-EN6／GOG-3031，第一線（原發性晚期第 III／IV 期或首次復發），n=494 隨機，dostarlimab 或安慰劑加 carboplatin／paclitaxel。dMMR／MSI-H 那一格 n=118（佔 23.9%）：24 個月無惡化存活 61.4%（46.3 到 73.4）對 15.7%（7.2 到 27.0），無惡化存活風險比 0.28（0.16 到 0.50），總存活風險比 0.32（0.17 到 0.63）。pMMR／MSS 那一格標明原文未逐格報告亞組人數（全體 494 人中 dMMR／MSI-H 118 人）：整體族群 24 個月無惡化存活 36.1%（29.3 到 42.9）對 18.1%（13.0 到 23.9），風險比 0.64（0.51 到 0.80）；pMMR／MSS 的總存活風險比 0.79（0.60 到 1.04），原文用的字是 a trend in favor of dostarlimab，一個趨勢，不是一個已經成立的存活益處。第二列 NRG-GY018，第一線，n=813，pembrolizumab 或安慰劑加 paclitaxel／carboplatin，病人依 MMR 狀態分成兩個獨立世代。dMMR 世代 n=225（安慰劑 113／pembrolizumab 112）：12 個月無惡化存活 74% 對 38%，風險比 0.30（0.19 到 0.48）；總存活風險比 0.55（0.25 到 1.19），單側名目 P 等於 0.0617，未達統計顯著、資料未成熟。pMMR 世代 n=588（295／293）：中位無惡化存活 13.1 個月對 8.7 個月，風險比 0.54（0.41 到 0.71）；總存活風險比 0.79（0.53 到 1.17），P 等於 0.1157，未達顯著。第三列 DUO-E／ENGOT-EN10／GOG-3041，第一線三臂、依 MMR 狀態分層隨機，n=718。這一列的兩格都掛著一個明著標示的斜線徽章：「亞組人數查不到」——dMMR 與 pMMR 各自的人數在可取得的全文與試驗註冊結果區都取不到，所以不給、也不編。dMMR 亞組：durvalumab 對對照風險比 0.42（0.22 到 0.80），中位無惡化存活未達對 7.0 個月；durvalumab 加 olaparib 對對照 0.41（0.21 到 0.75），中位 31.8 對 7.0 個月；在這一群多加 olaparib 相對單用 durvalumab 沒有額外益處（風險比 0.97，0.49 到 1.98）。pMMR 亞組：durvalumab 0.77（0.60 到 0.97），中位 9.9 對 9.7 個月；durvalumab 加 olaparib 0.57（0.44 到 0.73），中位 15.0 對 9.7 個月；期中總存活（成熟度約 28%）durvalumab 0.77（0.56 到 1.07）P 等於 0.120 未達顯著，durvalumab 加 olaparib 0.59（0.42 到 0.83）P 等於 0.003，這兩個是整體族群的數字。第四列 Study 309／KEYNOTE-775，場景是已經化療過（先前至少一個含鉑處方），n=827（pMMR 697／dMMR 130），lenvatinib 加 pembrolizumab 對醫師選擇的化療。dMMR n=130：5 年總存活率 36.5% 對 9.8%，5 年無惡化存活率 26.4% 對 10.8%，原文未在這一格報告 dMMR 專屬的風險比。pMMR n=697：中位總存活 17.4 對 12.0 個月，風險比 0.68（0.56 到 0.84）；中位無惡化存活 6.6 對 3.8 個月，風險比 0.60（0.50 到 0.72）；5 年總存活率 16.7% 對 7.3%。這一列下面單獨一格寫代價：第 3 級以上不良事件 88.9% 對 72.7%；追蹤到第五年（中位 68.8 個月），因治療相關不良事件而停用其中任一種藥的比例是 32.3% 對 5.9%，三分之一的人撐不完整個療程。接著是一個紅框的反例：ENGOT-en11／GOG-3053／KEYNOTE-B21，根治性手術後、沒有殘存病灶的輔助治療場景，隨機 1,095 人（pembrolizumab 545／安慰劑 550）。主要終點（全體無病存活）失敗：事件 119（22%）對 121（22%），風險比 1.02（0.79 到 1.32），P 等於 0.570，2 年無病存活 75% 對 76%；圖上這條信賴區間明顯橫跨 1。依 MMR 狀態的預先規定亞組是 dMMR（n=281）0.31（0.14 到 0.69）、pMMR（n=814）1.20（0.91 到 1.57）。註記寫著主要終點沒過，dMMR 那一格是亞組分析、事件數少、追蹤短，不能單獨拿出來當成輔助免疫治療有效；晚期或復發有效不等於加在術後輔助也有效。再下面是單臂資料，整區標「單臂」：KEYNOTE-158（pembrolizumab 單藥，非隨機、開放標籤第二期），先前治療過的晚期 MSI-H／dMMR，療效族群 n=79，中位追蹤 42.6 個月，客觀反應率 48%（37 到 60），中位無惡化存活 13.1 個月，中位總存活未達；GARNET（dostarlimab 單藥，單臂、開放標籤第一期），dMMR／MSI-H 世代 n=129 客觀反應率 43.5%（34.0 到 53.4），MMRp／MSS 世代 n=161 客觀反應率 14.1%（9.1 到 20.6）。單臂的意思是沒有比較對象，這些反應率不能拿去跟上面那些隨機試驗的風險比並排。圖的最後一句是：每一個數字都要連著它的 MMR 狀態與 n 一起讀；四個試驗的場景、對照組、終點與追蹤長度都不一樣，橫著比不成立；下次門診請先確認我的 MMR 檢驗做了嗎、結果是缺損還是完整，這一行決定哪一欄才是你的。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="3252" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">FOUR PHASE 3 TRIALS, READ BY MMR STATUS</text>
+<text x="84" y="140" font-size="40" fill="#123641" font-weight="800" class="r">同一種藥，兩群人的答案不一樣</text>
+<text x="84" y="200.4" font-size="19" fill="#527078">決定答案的是病理報告上的一行字：MMR（錯配修復）蛋白是缺損（dMMR）還是完整（pMMR）。四個第三期試驗全部依這一行分層報結果，所以這</text>
+<text x="84" y="228.9" font-size="19" fill="#527078">張圖上每一個數字都帶 MMR 狀態標籤與 n。</text>
+<text x="84" y="261.4" font-size="19" fill="#527078">四個試驗的場景不一樣：RUBY、NRG-GY018、DUO-E 問的是第一線的晚期或復發，KEYNOTE-775 問的是已經化療過的人。橫著比不成立。</text>
+<g filter="url(#sh)">
+<rect x="84" y="309.9" width="1272" height="419.2" rx="18" fill="#FFFFFF"/>
+<path d="M 84 327.9 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="106" y="349.9" font-size="18" fill="#123641" font-weight="800">RUBY／ENGOT-EN6／</text>
+<text x="106" y="374.2" font-size="18" fill="#123641" font-weight="800">GOG-3031</text>
+<text x="106" y="418.5" font-size="14" fill="#00806B" font-weight="800">第一線：原發性晚期（第 III／IV 期）</text>
+<text x="106" y="438.8" font-size="14" fill="#00806B" font-weight="800">或首次復發</text>
+<text x="106" y="479.6" font-size="12.5" fill="#527078">n=494 隨機。dostarlimab 或安慰劑 ＋</text>
+<text x="106" y="497.6" font-size="12.5" fill="#527078">carboplatin／paclitaxel，之後接續維持治</text>
+<text x="106" y="515.6" font-size="12.5" fill="#527078">療。雙主要終點：無惡化存活與總存活。</text>
+<rect x="366" y="331.9" width="474" height="375.2" rx="14" fill="#D8EDE7"/>
+<rect x="384" y="349.9" width="10" height="10" rx="2" fill="#00806B"/>
+<text x="404" y="363.9" font-size="14" fill="#00806B" font-weight="800">錯配修復缺損 dMMR／MSI-H</text>
+<text x="384" y="403.5" font-size="14" fill="#123641" font-weight="800">dMMR／MSI-H，n=118（佔 23.9%）</text>
+<text x="384" y="445.8" font-size="14" fill="#345963">24 個月無惡化存活 61.4%（46.3 到 73.4）對 15.7%（7.2 到 27.0）。</text>
+<text x="384" y="486.8" font-size="14" fill="#345963">總存活：第二次期中分析（成熟度 51%）。</text>
+<text x="384" y="532.3" font-size="12.5" fill="#527078" font-weight="700">無惡化存活</text>
+<text x="822" y="532.3" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.28（0.16 到 0.50）</text>
+<line x1="384" y1="550.8" x2="822" y2="550.8" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="545.8" x2="481.91" y2="555.8" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="574.37" y1="545.8" x2="574.37" y2="555.8" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="545.8" x2="666.84" y2="555.8" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="759.3" y1="545.8" x2="759.3" y2="555.8" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="533.8" x2="666.84" y2="567.8" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="422.38" y1="550.8" x2="574.37" y2="550.8" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="422.38" y1="542.8" x2="422.38" y2="558.8" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="574.37" y1="542.8" x2="574.37" y2="558.8" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="497.03" cy="550.8" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="586.3" font-size="12.5" fill="#527078" font-weight="700">總存活</text>
+<text x="822" y="586.3" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.32（0.17 到 0.63）</text>
+<line x1="384" y1="604.8" x2="822" y2="604.8" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="599.8" x2="481.91" y2="609.8" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="481.91" y="632.8" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="574.37" y1="599.8" x2="574.37" y2="609.8" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="574.37" y="632.8" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="666.84" y1="599.8" x2="666.84" y2="609.8" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="666.84" y="632.8" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="759.3" y1="599.8" x2="759.3" y2="609.8" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="759.3" y="632.8" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="666.84" y1="587.8" x2="666.84" y2="621.8" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="430.46" y1="604.8" x2="605.2" y2="604.8" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="430.46" y1="596.8" x2="430.46" y2="612.8" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="605.2" y1="596.8" x2="605.2" y2="612.8" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="514.84" cy="604.8" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="659.8" font-size="12" fill="#527078">風險比（對數尺，虛線是 1）</text>
+<rect x="860" y="331.9" width="474" height="375.2" rx="14" fill="#E3E8F6"/>
+<rect x="878" y="349.9" width="10" height="10" rx="2" fill="#5C77C4"/>
+<text x="898" y="363.9" font-size="14" fill="#5C77C4" font-weight="800">錯配修復完整 pMMR／MSS</text>
+<text x="878" y="403.5" font-size="14" fill="#123641" font-weight="800">pMMR／MSS 亞組（原文未逐格報告人數；全體 494 人中 dMMR／</text>
+<text x="878" y="423.8" font-size="14" fill="#123641" font-weight="800">MSI-H 118 人）</text>
+<text x="878" y="466.1" font-size="14" fill="#345963">整體族群（n=494）24 個月無惡化存活 36.1%（29.3 到 42.9）對</text>
+<text x="878" y="487.1" font-size="14" fill="#345963">18.1%（13.0 到 23.9），風險比 0.64（0.51 到 0.80）。</text>
+<text x="878" y="528.1" font-size="14" fill="#345963">pMMR／MSS 的總存活風險比是 0.79（0.60 到 1.04）——原文用的字</text>
+<text x="878" y="549.1" font-size="14" fill="#345963">是「a trend in favor of dostarlimab」，一個趨勢，不是一個已經成</text>
+<text x="878" y="570.1" font-size="14" fill="#345963">立的存活益處。</text>
+<text x="878" y="615.6" font-size="12.5" fill="#527078" font-weight="700">pMMR／MSS 總存活</text>
+<text x="1316" y="615.6" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.79（0.60 到 1.04）</text>
+<line x1="878" y1="634.1" x2="1316" y2="634.1" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="629.1" x2="975.91" y2="639.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="975.91" y="662.1" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="1068.37" y1="629.1" x2="1068.37" y2="639.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1068.37" y="662.1" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1160.84" y1="629.1" x2="1160.84" y2="639.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1160.84" y="662.1" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1253.3" y1="629.1" x2="1253.3" y2="639.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1253.3" y="662.1" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1160.84" y1="617.1" x2="1160.84" y2="651.1" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1092.7" y1="634.1" x2="1166.07" y2="634.1" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1092.7" y1="626.1" x2="1092.7" y2="642.1" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1166.07" y1="626.1" x2="1166.07" y2="642.1" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1129.39" cy="634.1" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="689.1" font-size="12" fill="#527078">風險比（對數尺，虛線是 1）</text>
+<g filter="url(#sh)">
+<rect x="84" y="753.1" width="1272" height="410.9" rx="18" fill="#FFFFFF"/>
+<path d="M 84 771.1 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="106" y="793.1" font-size="18" fill="#123641" font-weight="800">NRG-GY018</text>
+<text x="106" y="837.4" font-size="14" fill="#5C77C4" font-weight="800">第一線：可測量病灶的第 III／IVA 期，</text>
+<text x="106" y="857.7" font-size="14" fill="#5C77C4" font-weight="800">或第 IVB 期／復發</text>
+<text x="106" y="898.5" font-size="12.5" fill="#527078">n=813（註冊資料的實際收案）。</text>
+<text x="106" y="916.5" font-size="12.5" fill="#527078">pembrolizumab 或安慰劑 ＋ paclitaxel／</text>
+<text x="106" y="934.5" font-size="12.5" fill="#527078">carboplatin。病人依 MMR 狀態分成兩個</text>
+<text x="106" y="952.5" font-size="12.5" fill="#527078">獨立世代，兩個世代各自的無惡化存活都是</text>
+<text x="106" y="970.5" font-size="12.5" fill="#527078">主要終點。</text>
+<rect x="366" y="775.1" width="474" height="366.9" rx="14" fill="#D8EDE7"/>
+<rect x="384" y="793.1" width="10" height="10" rx="2" fill="#00806B"/>
+<text x="404" y="807.1" font-size="14" fill="#00806B" font-weight="800">錯配修復缺損 dMMR／MSI-H</text>
+<text x="384" y="846.7" font-size="14" fill="#123641" font-weight="800">dMMR 世代，n=225（安慰劑 113／pembrolizumab 112）</text>
+<text x="384" y="889" font-size="14" fill="#345963">12 個月分析的無惡化存活 74% 對 38%。</text>
+<text x="384" y="930" font-size="14" fill="#345963">總存活資料尚未成熟：風險比 0.55（0.25 到 1.19），單側名目 P＝</text>
+<text x="384" y="951" font-size="14" fill="#345963">0.0617，未達統計顯著。</text>
+<text x="384" y="996.5" font-size="12.5" fill="#527078" font-weight="700">無惡化存活</text>
+<text x="822" y="996.5" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.30（0.19 到 0.48）</text>
+<line x1="384" y1="1015" x2="822" y2="1015" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="1010" x2="481.91" y2="1020" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="574.37" y1="1010" x2="574.37" y2="1020" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="1010" x2="666.84" y2="1020" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="759.3" y1="1010" x2="759.3" y2="1020" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="998" x2="666.84" y2="1032" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="445.3" y1="1015" x2="568.93" y2="1015" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="445.3" y1="1007" x2="445.3" y2="1023" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="568.93" y1="1007" x2="568.93" y2="1023" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="506.23" cy="1015" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="1050.5" font-size="12.5" fill="#527078" font-weight="700">總存活（未成熟）</text>
+<text x="822" y="1050.5" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.55（0.25 到 1.19）</text>
+<line x1="384" y1="1069" x2="822" y2="1069" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="1064" x2="481.91" y2="1074" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="481.91" y="1097" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="574.37" y1="1064" x2="574.37" y2="1074" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="574.37" y="1097" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="666.84" y1="1064" x2="666.84" y2="1074" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="666.84" y="1097" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="759.3" y1="1064" x2="759.3" y2="1074" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="759.3" y="1097" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="666.84" y1="1052" x2="666.84" y2="1086" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="481.91" y1="1069" x2="690.04" y2="1069" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="481.91" y1="1061" x2="481.91" y2="1077" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="690.04" y1="1061" x2="690.04" y2="1077" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="587.09" cy="1069" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="1124" font-size="12" fill="#527078">風險比（對數尺，虛線是 1）</text>
+<rect x="860" y="775.1" width="474" height="366.9" rx="14" fill="#E3E8F6"/>
+<rect x="878" y="793.1" width="10" height="10" rx="2" fill="#5C77C4"/>
+<text x="898" y="807.1" font-size="14" fill="#5C77C4" font-weight="800">錯配修復完整 pMMR／MSS</text>
+<text x="878" y="846.7" font-size="14" fill="#123641" font-weight="800">pMMR 世代，n=588（安慰劑 295／pembrolizumab 293）</text>
+<text x="878" y="889" font-size="14" fill="#345963">中位無惡化存活 13.1 個月對 8.7 個月。</text>
+<text x="878" y="930" font-size="14" fill="#345963">總存活風險比 0.79（0.53 到 1.17），單側名目 P＝0.1157，未達統計</text>
+<text x="878" y="951" font-size="14" fill="#345963">顯著。目前站得住的說法是「延後惡化」，還不是「延長存活」。</text>
+<text x="878" y="996.5" font-size="12.5" fill="#527078" font-weight="700">無惡化存活</text>
+<text x="1316" y="996.5" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.54（0.41 到 0.71）</text>
+<line x1="878" y1="1015" x2="1316" y2="1015" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="1010" x2="975.91" y2="1020" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1068.37" y1="1010" x2="1068.37" y2="1020" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="1010" x2="1160.84" y2="1020" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1253.3" y1="1010" x2="1253.3" y2="1020" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="998" x2="1160.84" y2="1032" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1041.9" y1="1015" x2="1115.15" y2="1015" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1041.9" y1="1007" x2="1041.9" y2="1023" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1115.15" y1="1007" x2="1115.15" y2="1023" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1078.64" cy="1015" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="1050.5" font-size="12.5" fill="#527078" font-weight="700">總存活（未成熟）</text>
+<text x="1316" y="1050.5" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.79（0.53 到 1.17）</text>
+<line x1="878" y1="1069" x2="1316" y2="1069" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="1064" x2="975.91" y2="1074" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="975.91" y="1097" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="1068.37" y1="1064" x2="1068.37" y2="1074" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1068.37" y="1097" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1160.84" y1="1064" x2="1160.84" y2="1074" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1160.84" y="1097" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1253.3" y1="1064" x2="1253.3" y2="1074" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1253.3" y="1097" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1160.84" y1="1052" x2="1160.84" y2="1086" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1076.15" y1="1069" x2="1181.78" y2="1069" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1076.15" y1="1061" x2="1076.15" y2="1077" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1181.78" y1="1061" x2="1181.78" y2="1077" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1129.39" cy="1069" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="1124" font-size="12" fill="#527078">風險比（對數尺，虛線是 1）</text>
+<g filter="url(#sh)">
+<rect x="84" y="1188" width="1272" height="503.1" rx="18" fill="#FFFFFF"/>
+<path d="M 84 1206 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="106" y="1228" font-size="18" fill="#123641" font-weight="800">DUO-E／ENGOT-EN10／</text>
+<text x="106" y="1252.3" font-size="18" fill="#123641" font-weight="800">GOG-3041</text>
+<text x="106" y="1296.6" font-size="14" fill="#96790F" font-weight="800">第一線：三臂，依 MMR 狀態分層隨機</text>
+<text x="106" y="1337.4" font-size="12.5" fill="#527078">n=718 隨機。①化療 ②化療＋durvalumab ③</text>
+<text x="106" y="1355.4" font-size="12.5" fill="#527078">化療＋durvalumab 後續再加 olaparib 維</text>
+<text x="106" y="1373.4" font-size="12.5" fill="#527078">持。主要終點：兩個實驗臂各自對照對照組</text>
+<text x="106" y="1391.4" font-size="12.5" fill="#527078">的無惡化存活。</text>
+<rect x="366" y="1210" width="474" height="459.1" rx="14" fill="#D8EDE7"/>
+<rect x="384" y="1228" width="10" height="10" rx="2" fill="#00806B"/>
+<text x="404" y="1242" font-size="14" fill="#00806B" font-weight="800">錯配修復缺損 dMMR／MSI-H</text>
+<rect x="384" y="1267.6" width="117" height="26" rx="13" fill="url(#hatchR)" stroke="#B04A4A" stroke-width="2"/>
+<text x="397" y="1285.6" font-size="13" fill="#B04A4A" font-weight="800">亞組人數查不到</text>
+<text x="384" y="1314.1" font-size="12.5" fill="#345963" font-weight="700">dMMR 亞組</text>
+<text x="384" y="1354.1" font-size="14" fill="#345963">durvalumab 對對照：中位無惡化存活未達 對 7.0 個月。</text>
+<text x="384" y="1395.1" font-size="14" fill="#345963">durvalumab＋olaparib 對對照：中位 31.8 對 7.0 個月。</text>
+<text x="384" y="1436.1" font-size="14" fill="#345963">在這一群，多加 olaparib 相對於單用 durvalumab 沒有額外益處（風</text>
+<text x="384" y="1457.1" font-size="14" fill="#345963">險比 0.97，0.49 到 1.98）。</text>
+<text x="384" y="1502.6" font-size="12.5" fill="#527078" font-weight="700">durvalumab</text>
+<text x="822" y="1502.6" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.42（0.22 到 0.80）</text>
+<line x1="384" y1="1521.1" x2="822" y2="1521.1" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="1516.1" x2="481.91" y2="1526.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="574.37" y1="1516.1" x2="574.37" y2="1526.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="1516.1" x2="666.84" y2="1526.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="759.3" y1="1516.1" x2="759.3" y2="1526.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="666.84" y1="1504.1" x2="666.84" y2="1538.1" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="464.86" y1="1521.1" x2="637.07" y2="1521.1" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="464.86" y1="1513.1" x2="464.86" y2="1529.1" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="637.07" y1="1513.1" x2="637.07" y2="1529.1" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="551.12" cy="1521.1" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="1556.6" font-size="12.5" fill="#527078" font-weight="700">durvalumab＋olaparib</text>
+<text x="822" y="1556.6" font-size="12.5" fill="#00806B" font-weight="800" text-anchor="end">0.41（0.21 到 0.75）</text>
+<line x1="384" y1="1575.1" x2="822" y2="1575.1" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="481.91" y1="1570.1" x2="481.91" y2="1580.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="481.91" y="1603.1" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="574.37" y1="1570.1" x2="574.37" y2="1580.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="574.37" y="1603.1" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="666.84" y1="1570.1" x2="666.84" y2="1580.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="666.84" y="1603.1" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="759.3" y1="1570.1" x2="759.3" y2="1580.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="759.3" y="1603.1" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="666.84" y1="1558.1" x2="666.84" y2="1592.1" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="458.65" y1="1575.1" x2="628.46" y2="1575.1" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="458.65" y1="1567.1" x2="458.65" y2="1583.1" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="628.46" y1="1567.1" x2="628.46" y2="1583.1" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="547.9" cy="1575.1" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="384" y="1630.1" font-size="12" fill="#527078">風險比（對數尺，虛線是 1）</text>
+<rect x="860" y="1210" width="474" height="459.1" rx="14" fill="#E3E8F6"/>
+<rect x="878" y="1228" width="10" height="10" rx="2" fill="#5C77C4"/>
+<text x="898" y="1242" font-size="14" fill="#5C77C4" font-weight="800">錯配修復完整 pMMR／MSS</text>
+<rect x="878" y="1267.6" width="117" height="26" rx="13" fill="url(#hatchR)" stroke="#B04A4A" stroke-width="2"/>
+<text x="891" y="1285.6" font-size="13" fill="#B04A4A" font-weight="800">亞組人數查不到</text>
+<text x="878" y="1314.1" font-size="12.5" fill="#345963" font-weight="700">pMMR 亞組</text>
+<text x="878" y="1354.1" font-size="14" fill="#345963">durvalumab 對對照：中位無惡化存活 9.9 對 9.7 個月。</text>
+<text x="878" y="1395.1" font-size="14" fill="#345963">durvalumab＋olaparib 對對照：中位 15.0 對 9.7 個月。</text>
+<text x="878" y="1436.1" font-size="14" fill="#345963">期中總存活（成熟度約 28%）：durvalumab 0.77（0.56 到 1.07），</text>
+<text x="878" y="1457.1" font-size="14" fill="#345963">P＝0.120，未達顯著；durvalumab＋olaparib 0.59（0.42 到 0.83），</text>
+<text x="878" y="1478.1" font-size="14" fill="#345963">P＝0.003。（這兩個是整體族群的數字。）</text>
+<text x="878" y="1523.6" font-size="12.5" fill="#527078" font-weight="700">durvalumab</text>
+<text x="1316" y="1523.6" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.77（0.60 到 0.97）</text>
+<line x1="878" y1="1542.1" x2="1316" y2="1542.1" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="1537.1" x2="975.91" y2="1547.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1068.37" y1="1537.1" x2="1068.37" y2="1547.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="1537.1" x2="1160.84" y2="1547.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1253.3" y1="1537.1" x2="1253.3" y2="1547.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="1525.1" x2="1160.84" y2="1559.1" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1092.7" y1="1542.1" x2="1156.78" y2="1542.1" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1092.7" y1="1534.1" x2="1092.7" y2="1550.1" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1156.78" y1="1534.1" x2="1156.78" y2="1550.1" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1125.97" cy="1542.1" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="1577.6" font-size="12.5" fill="#527078" font-weight="700">durvalumab＋olaparib</text>
+<text x="1316" y="1577.6" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.57（0.44 到 0.73）</text>
+<line x1="878" y1="1596.1" x2="1316" y2="1596.1" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="1591.1" x2="975.91" y2="1601.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="975.91" y="1624.1" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="1068.37" y1="1591.1" x2="1068.37" y2="1601.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1068.37" y="1624.1" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1160.84" y1="1591.1" x2="1160.84" y2="1601.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1160.84" y="1624.1" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1253.3" y1="1591.1" x2="1253.3" y2="1601.1" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1253.3" y="1624.1" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1160.84" y1="1579.1" x2="1160.84" y2="1613.1" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1051.32" y1="1596.1" x2="1118.86" y2="1596.1" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1051.32" y1="1588.1" x2="1051.32" y2="1604.1" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1118.86" y1="1588.1" x2="1118.86" y2="1604.1" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1085.85" cy="1596.1" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="1651.1" font-size="12" fill="#527078">風險比（對數尺，虛線是 1）</text>
+<g filter="url(#sh)">
+<rect x="84" y="1715.1" width="1272" height="507.1" rx="18" fill="#FFFFFF"/>
+<path d="M 84 1733.1 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="106" y="1755.1" font-size="18" fill="#123641" font-weight="800">Study 309／KEYNOTE-775</text>
+<text x="106" y="1799.4" font-size="14" fill="#B04A4A" font-weight="800">已經化療過：先前至少接受過一個含鉑</text>
+<text x="106" y="1819.7" font-size="14" fill="#B04A4A" font-weight="800">化療處方</text>
+<text x="106" y="1860.5" font-size="12.5" fill="#527078">n=827（pMMR 697／dMMR 130）。</text>
+<text x="106" y="1878.5" font-size="12.5" fill="#527078">lenvatinib＋pembrolizumab 對 醫師選擇</text>
+<text x="106" y="1896.5" font-size="12.5" fill="#527078">的化療（doxorubicin 或 paclitaxel）。兩</text>
+<text x="106" y="1914.5" font-size="12.5" fill="#527078">個主要終點分別在 pMMR 族群與全體評估。</text>
+<rect x="366" y="1737.1" width="474" height="366.9" rx="14" fill="#D8EDE7"/>
+<rect x="384" y="1755.1" width="10" height="10" rx="2" fill="#00806B"/>
+<text x="404" y="1769.1" font-size="14" fill="#00806B" font-weight="800">錯配修復缺損 dMMR／MSI-H</text>
+<text x="384" y="1808.7" font-size="14" fill="#123641" font-weight="800">dMMR，n=130</text>
+<text x="384" y="1851" font-size="14" fill="#345963">5 年總存活率 36.5% 對 9.8%；5 年無惡化存活率 26.4% 對 10.8%（資料</text>
+<text x="384" y="1872" font-size="14" fill="#345963">截止 2025-02-26，整體中位追蹤 68.8 個月）。</text>
+<text x="384" y="1913" font-size="14" fill="#345963">原文未在這一格報告 dMMR 專屬的風險比。</text>
+<rect x="860" y="1737.1" width="474" height="366.9" rx="14" fill="#E3E8F6"/>
+<rect x="878" y="1755.1" width="10" height="10" rx="2" fill="#5C77C4"/>
+<text x="898" y="1769.1" font-size="14" fill="#5C77C4" font-weight="800">錯配修復完整 pMMR／MSS</text>
+<text x="878" y="1808.7" font-size="14" fill="#123641" font-weight="800">pMMR，n=697</text>
+<text x="878" y="1851" font-size="14" fill="#345963">中位總存活 17.4 對 12.0 個月；中位無惡化存活 6.6 對 3.8 個月。</text>
+<text x="878" y="1892" font-size="14" fill="#345963">5 年總存活率 16.7% 對 7.3%。這是目前 pMMR 病人身上最紮實的一組</text>
+<text x="878" y="1913" font-size="14" fill="#345963">數字。</text>
+<text x="878" y="1958.5" font-size="12.5" fill="#527078" font-weight="700">總存活</text>
+<text x="1316" y="1958.5" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.68（0.56 到 0.84）</text>
+<line x1="878" y1="1977" x2="1316" y2="1977" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="1972" x2="975.91" y2="1982" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1068.37" y1="1972" x2="1068.37" y2="1982" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="1972" x2="1160.84" y2="1982" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1253.3" y1="1972" x2="1253.3" y2="1982" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1160.84" y1="1960" x2="1160.84" y2="1994" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1083.49" y1="1977" x2="1137.58" y2="1977" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1083.49" y1="1969" x2="1083.49" y2="1985" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1137.58" y1="1969" x2="1137.58" y2="1985" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1109.39" cy="1977" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="2012.5" font-size="12.5" fill="#527078" font-weight="700">無惡化存活</text>
+<text x="1316" y="2012.5" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="end">0.60（0.50 到 0.72）</text>
+<line x1="878" y1="2031" x2="1316" y2="2031" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="975.91" y1="2026" x2="975.91" y2="2036" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="975.91" y="2059" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="1068.37" y1="2026" x2="1068.37" y2="2036" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1068.37" y="2059" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1160.84" y1="2026" x2="1160.84" y2="2036" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1160.84" y="2059" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1253.3" y1="2026" x2="1253.3" y2="2036" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1253.3" y="2059" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1160.84" y1="2014" x2="1160.84" y2="2048" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1068.37" y1="2031" x2="1117.02" y2="2031" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1068.37" y1="2023" x2="1068.37" y2="2039" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1117.02" y1="2023" x2="1117.02" y2="2039" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1092.7" cy="2031" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="878" y="2086" font-size="12" fill="#527078">風險比（對數尺，虛線是 1）</text>
+<rect x="106" y="2120" width="1228" height="80.2" rx="14" fill="#F6E2E0"/>
+<text x="124" y="2151.5" font-size="15.5" fill="#B04A4A" font-weight="800">代價寫在同一段</text>
+<text x="124" y="2175.2" font-size="14" fill="#345963">第 3 級以上不良事件 88.9% 對 72.7%。追蹤到第五年（中位 68.8 個月），因治療相關不良事件而停用其中任一種藥的比例是 32.3% 對 5.9%——三分之一的人撐不完整個療程。</text>
+<rect x="84" y="2254.2" width="1272" height="452" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="2298.2" font-size="18" fill="#B04A4A" font-weight="800">反例：同一個藥，換到輔助治療場景就不成立</text>
+<rect x="110" y="2329.4" width="101" height="24" rx="12" fill="#B04A4A"/>
+<text x="120" y="2346.26" font-size="13.5" fill="#FFFFFF" font-weight="800">主要終點失敗</text>
+<text x="110" y="2379.4" font-size="14" fill="#345963">ENGOT-en11／GOG-3053／KEYNOTE-B21：根治性手術後、沒有殘存病灶的輔助治療場景，隨機 n=1,095（pembrolizumab 545／安慰劑 550），加在 carboplatin／paclitaxel 上面。</text>
+<text x="110" y="2424.4" font-size="14" fill="#123641" font-weight="700">主要終點（全體無病存活）失敗：事件 119（22%）對 121（22%），風險比 1.02（0.79 到</text>
+<text x="110" y="2445.4" font-size="14" fill="#123641" font-weight="700">1.32），P＝0.570；2 年無病存活 75% 對 76%。</text>
+<text x="110" y="2490.9" font-size="12.5" fill="#527078" font-weight="700">全體無病存活</text>
+<text x="703" y="2490.9" font-size="12.5" fill="#B04A4A" font-weight="800" text-anchor="end">1.02（0.79 到 1.32）</text>
+<line x1="110" y1="2510.4" x2="703" y2="2510.4" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="242.56" y1="2505.4" x2="242.56" y2="2515.4" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="242.56" y="2539.4" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="367.74" y1="2505.4" x2="367.74" y2="2515.4" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="367.74" y="2539.4" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="492.93" y1="2505.4" x2="492.93" y2="2515.4" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="492.93" y="2539.4" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="618.12" y1="2505.4" x2="618.12" y2="2515.4" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="618.12" y="2539.4" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="492.93" y1="2492.4" x2="492.93" y2="2528.4" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="450.36" y1="2510.4" x2="543.07" y2="2510.4" stroke="#B04A4A" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="450.36" y1="2502.4" x2="450.36" y2="2518.4" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<line x1="543.07" y1="2502.4" x2="543.07" y2="2518.4" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="496.51" cy="2510.4" r="7.5" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="110" y="2562.4" font-size="12" fill="#527078">風險比（對數尺，虛線是 1）</text>
+<text x="737" y="2425.9" font-size="15.5" fill="#123641" font-weight="800">依 MMR 狀態的預先規定分層亞組</text>
+<text x="737" y="2469.6" font-size="14" fill="#00806B" font-weight="800">dMMR，n=281：風險比 0.31（0.14 到 0.69）</text>
+<line x1="737" y1="2505.9" x2="1330" y2="2505.9" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="869.56" y1="2500.9" x2="869.56" y2="2510.9" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="994.74" y1="2500.9" x2="994.74" y2="2510.9" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1119.93" y1="2500.9" x2="1119.93" y2="2510.9" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1245.12" y1="2500.9" x2="1245.12" y2="2510.9" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1119.93" y1="2489.9" x2="1119.93" y2="2521.9" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="764.84" y1="2505.9" x2="1052.91" y2="2505.9" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="764.84" y1="2497.9" x2="764.84" y2="2513.9" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="1052.91" y1="2497.9" x2="1052.91" y2="2513.9" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="908.41" cy="2505.9" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="737" y="2545.9" font-size="14" fill="#5C77C4" font-weight="800">pMMR，n=814：風險比 1.20（0.91 到 1.57）</text>
+<line x1="737" y1="2582.2" x2="1330" y2="2582.2" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="869.56" y1="2577.2" x2="869.56" y2="2587.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="869.56" y="2609.2" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="994.74" y1="2577.2" x2="994.74" y2="2587.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="994.74" y="2609.2" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="1119.93" y1="2577.2" x2="1119.93" y2="2587.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1119.93" y="2609.2" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="1245.12" y1="2577.2" x2="1245.12" y2="2587.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1245.12" y="2609.2" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="1119.93" y1="2566.2" x2="1119.93" y2="2598.2" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="1102.9" y1="2582.2" x2="1201.4" y2="2582.2" stroke="#5C77C4" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1102.9" y1="2574.2" x2="1102.9" y2="2590.2" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<line x1="1201.4" y1="2574.2" x2="1201.4" y2="2590.2" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1152.86" cy="2582.2" r="7.5" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="737" y="2638.2" font-size="14" fill="#345963">主要終點沒過，dMMR 那一格是亞組分析、事件數少、追蹤短，不能單獨拿出來當成「輔助免疫</text>
+<text x="737" y="2659.2" font-size="14" fill="#345963">治療有效」。「晚期或復發有效」不等於「加在術後輔助也有效」。</text>
+<g filter="url(#sh)">
+<rect x="84" y="2734.2" width="1272" height="274.5" rx="18" fill="#FFFFFF"/>
+<path d="M 84 2752.2 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#7A6E58"/>
+</g>
+<text x="110" y="2778.2" font-size="18" fill="#123641" font-weight="800">單藥的數字，前面要記得加「單臂」兩個字</text>
+<rect x="110" y="2809.4" width="47" height="24" rx="12" fill="#7A6E58"/>
+<text x="120" y="2826.26" font-size="13.5" fill="#FFFFFF" font-weight="800">單臂</text>
+<text x="110" y="2857.4" font-size="14" fill="#123641" font-weight="800">KEYNOTE-158（pembrolizumab 單藥，非隨機、開放標籤第二期）</text>
+<text x="110" y="2895.7" font-size="14" fill="#345963">先前治療過的晚期 MSI-H／dMMR 子宮內膜癌，療效族群 n=79，中位追蹤 42.6 個月：客觀反</text>
+<text x="110" y="2916.7" font-size="14" fill="#345963">應率 48%（37 到 60），中位無惡化存活 13.1 個月，中位總存活未達。</text>
+<rect x="735" y="2809.4" width="47" height="24" rx="12" fill="#7A6E58"/>
+<text x="745" y="2826.26" font-size="13.5" fill="#FFFFFF" font-weight="800">單臂</text>
+<text x="735" y="2857.4" font-size="14" fill="#123641" font-weight="800">GARNET（dostarlimab 單藥，單臂、開放標籤第一期）</text>
+<text x="735" y="2895.7" font-size="14" fill="#345963">dMMR／MSI-H 世代 n=129：客觀反應率 43.5%（34.0 到 53.4）。MMRp／MSS 世代 n=161：</text>
+<text x="735" y="2916.7" font-size="14" fill="#345963">客觀反應率 14.1%（9.1 到 20.6）。</text>
+<text x="110" y="2961.7" font-size="14" fill="#8F7418" font-weight="700">單臂的意思是沒有比較對象。這些反應率不能拿去跟上面那些隨機試驗的風險比並排。</text>
+<rect x="84" y="3036.7" width="1272" height="109.55" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="3076.2" font-size="15.5" fill="#345963" font-weight="600">每一個數字都要連著它的 MMR 狀態與 n 一起讀。四個試驗的場景、對照組、終點與追蹤長度都不一樣，橫著比不成立。下次門診請先確認一件事：我的 MMR 檢驗做了嗎、結果</text>
+<text x="110" y="3100.22" font-size="15.5" fill="#345963" font-weight="600">是缺損還是完整？這一行決定了上面所有數字裡，哪一欄才是你的。</text>
+<text x="84" y="3170.25" font-size="15" fill="#527078">示意圖，依 RUBY（Mirza 2023、Powell 2024）、NRG-GY018（Eskander 2023、Eskander 2025 與 ClinicalTrials.gov NCT03914612 結果區的世代人數）、DUO-E（Westin 2024）、</text>
+<text x="84" y="3192.75" font-size="15" fill="#527078">Study 309／KEYNOTE-775（Makker 2022 與 2026 年的 5 年追蹤）、KEYNOTE-B21（Van Gorp 2024）、KEYNOTE-158（O'Malley 2022）與 GARNET（Oaknin 2022）重繪；各研究</text>
+<text x="84" y="3215.25" font-size="15" fill="#527078">族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="2600" viewBox="0 0 620 2600" role="img" aria-labelledby="t d">
+  <title id="t">下肢淋巴水腫：同一批 235 人，四種判定方法，四個結論</title>
+  <desc id="d">示意圖：下肢淋巴水腫的判定方法如何決定結論。圖的主標題是「判定方法決定了結論」。上半是四條並排的長條：瑞典 14 家醫院的前瞻研究，n=235，其中 116 人做淋巴結廓清、119 人沒做，術前與術後一年對同一批人同時用四種方法判定，兩種體積法以增加 10% 以上為門檻。同一個風險因子「淋巴結廓清」，四種判定方法算出來的校正後勝算比是：以身體質量指數標準化的體積 14.42（95% 信賴區間 3.49 到 59.62）；病人自覺 2.51（1.33 到 4.73）；臨床分級 2.11（1.04 到 4.29）；周徑推算的原始體積完全看不出來，未達統計顯著。長條圖上另標一條虛線在 1，代表看不出差別。補充說明：輔助放療也一樣，在這四種量法裡只有以身體質量指數標準化的體積這一種算得出它是風險因子（校正後勝算比 15.02，95% 信賴區間 2.34 到 96.57）；作者結論句是 Apparent risk factors for lymphedema differed considerably depending on the method used，並主張這個領域需要一個公認的判定標準。圖上另有一行警語：勝算比不是機率的倍數，事件常見的時候勝算比會比真正的風險倍數看起來大得多，14.42 不等於機率高 14 倍。下半是那個 1.3% 到 49.4% 的區間逐筆標上判定方法：Geppert 2018 用臨床判定、n=188 機器人手術，只做前哨淋巴結者 1.3%、做淋巴結廓清者 18.1%；Casarin 2025 用問卷、n=239 腹腔鏡，21.4% 對 44.6%；Glaser 2021 用 13 題自填問卷、n=378，26.0% 對 49.4%；Leitao 2020 用 13 題自填問卷、n=599，27% 對 41%。校正後勝算比分別是 Casarin 3.11、Glaser 2.75、Leitao 1.8；放療是另一個獨立因子，Leitao 那份問卷裡做過外照射的人自述水腫 51%、沒做的 35%，勝算比 1.95。第五筆放不進同一條軸：丹麥全國前瞻世代 486 位低惡性度、推定第 1 期、全部做前哨淋巴結的病人，用 EORTC QLQ-EN24 腿部水腫分數（0 到 100 分）比術前與 12 個月，平均只上升 5.0 分（95% 信賴區間 3.3 到 6.8），低於 8 分的臨床顯著門檻；它報的是分數不是百分比。圖的最後兩格是不准的讀法。第一格：這張圖不給你一個機率——上面每一個數字都綁著一種判定方法與一個族群，把它們平均起來或挑一個當機率，都是把判定方法造成的差異當成身體造成的差異；也不要讀成做前哨就不會腫，同樣用問卷的三份研究裡前哨組仍有 21.4% 到 27% 自述水腫。第二格：自我按摩不能寫成預防——同一個日本世代裡未接受輔助治療的 87 人依意願分組，24 人每天做簡易淋巴引流滿一年、63 人沒做，追蹤五年，下肢周徑變化率與細胞外水比值都沒有差異，5 年累積發生率 37.5% 對 23.5%，方向甚至相反，作者結論逐字是 SLD does not contribute to the prevention of LLE。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="2600" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="74" font-size="17" fill="#A98722" font-weight="800" letter-spacing="2px">HOW LYMPHOEDEMA IS MEASURED</text>
+<text x="40" y="128" font-size="40" fill="#123641" font-weight="800" class="r">判定方法決定了結論</text>
+<text x="40" y="186" font-size="19" fill="#527078">同一批 235 人、同一個風險因子、術後同一個時間點，四種判定</text>
+<text x="40" y="214" font-size="19" fill="#527078">方法給出四個不同的答案。</text>
+<text x="40" y="242" font-size="19" fill="#527078">所以「機率多少」這個問題，要先問「誰在量、怎麼量」。</text>
+<g filter="url(#sh)">
+<rect x="40" y="286" width="540" height="913" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="66" y="318" font-size="18" fill="#123641" font-weight="800">同一個風險因子（淋巴結廓清），四種判定方法算出來的校正</text>
+<text x="66" y="344" font-size="18" fill="#123641" font-weight="800">後勝算比</text>
+<text x="66" y="376" font-size="14.5" fill="#527078">瑞典 14 家醫院的前瞻研究：n=235（116 人做淋巴結廓清、119 人沒做），</text>
+<text x="66" y="397" font-size="14.5" fill="#527078">術前與術後一年對同一批人同時用四種方法判定；兩種體積法以增加 10% 以</text>
+<text x="66" y="418" font-size="14.5" fill="#527078">上為門檻。</text>
+<line x1="66" y1="453" x2="66" y2="461" stroke="#B9AE94" stroke-width="1.5" stroke-linecap="round"/>
+<text x="89.5" y="449" font-size="12.5" fill="#527078" text-anchor="middle">1</text>
+<text x="183.5" y="449" font-size="12.5" fill="#527078" text-anchor="middle">5</text>
+<text x="301" y="449" font-size="12.5" fill="#527078" text-anchor="middle">10</text>
+<text x="418.5" y="449" font-size="12.5" fill="#527078" text-anchor="middle">15</text>
+<text x="66" y="479" font-size="15.5" fill="#123641" font-weight="800">以身體質量指數標準化的體積</text>
+<rect x="66" y="498" width="338.87" height="30" rx="7" fill="#B04A4A"/>
+<line x1="148.01" y1="513" x2="442" y2="513" stroke="#123641" stroke-width="2" stroke-linecap="butt" opacity="0.55"/>
+<line x1="148.01" y1="506" x2="148.01" y2="520" stroke="#123641" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+<polygon points="451,513 442,507 442,519" fill="#123641" opacity="0.55"/>
+<text x="468" y="520" font-size="21" fill="#B04A4A" font-weight="800">14.42</text>
+<text x="66" y="553" font-size="14" fill="#527078">95% 信賴區間 3.49 到 59.62</text>
+<text x="66" y="597" font-size="15.5" fill="#123641" font-weight="800">病人自覺</text>
+<rect x="66" y="616" width="58.98" height="30" rx="7" fill="#5C77C4"/>
+<line x1="97.25" y1="631" x2="177.16" y2="631" stroke="#123641" stroke-width="2" stroke-linecap="butt" opacity="0.55"/>
+<line x1="97.25" y1="624" x2="97.25" y2="638" stroke="#123641" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+<line x1="177.16" y1="624" x2="177.16" y2="638" stroke="#123641" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+<text x="468" y="638" font-size="21" fill="#5C77C4" font-weight="800">2.51</text>
+<text x="66" y="671" font-size="14" fill="#527078">95% 信賴區間 1.33 到 4.73</text>
+<text x="66" y="715" font-size="15.5" fill="#123641" font-weight="800">臨床分級</text>
+<rect x="66" y="734" width="49.58" height="30" rx="7" fill="#96790F"/>
+<line x1="90.44" y1="749" x2="166.81" y2="749" stroke="#123641" stroke-width="2" stroke-linecap="butt" opacity="0.55"/>
+<line x1="90.44" y1="742" x2="90.44" y2="756" stroke="#123641" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+<line x1="166.81" y1="742" x2="166.81" y2="756" stroke="#123641" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+<text x="468" y="756" font-size="21" fill="#96790F" font-weight="800">2.11</text>
+<text x="66" y="789" font-size="14" fill="#527078">95% 信賴區間 1.04 到 4.29</text>
+<text x="66" y="833" font-size="15.5" fill="#123641" font-weight="800">周徑推算的原始體積</text>
+<rect x="66" y="852" width="376" height="30" rx="7" fill="none" stroke="#B9AE94" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="254" y="873" font-size="16" fill="#7A6E58" font-weight="800" text-anchor="middle">看不出來</text>
+<text x="468" y="874" font-size="21" fill="#7A6E58" font-weight="800">—</text>
+<text x="66" y="907" font-size="14" fill="#527078">未達統計顯著</text>
+<line x1="89.5" y1="459" x2="89.5" y2="929" stroke="#123641" stroke-width="1.6" stroke-linecap="butt" stroke-dasharray="5 5" opacity="0.45"/>
+<text x="66" y="951" font-size="14" fill="#527078">校正後勝算比（虛線是 1，也就是「看不出差別」）</text>
+<text x="66" y="975" font-size="14.5" fill="#345963">輔助放療也一樣：在這四種量法裡，只有「以身體質量指數標準化的體積」</text>
+<text x="66" y="996" font-size="14.5" fill="#345963">這一種算得出它是風險因子（校正後勝算比 15.02，95% 信賴區間 2.34 到</text>
+<text x="66" y="1017" font-size="14.5" fill="#345963">96.57）。作者的結論句是「Apparent risk factors for lymphedema</text>
+<text x="66" y="1038" font-size="14.5" fill="#345963">differed considerably depending on the method used」——看起來的風險</text>
+<text x="66" y="1059" font-size="14.5" fill="#345963">因子，會因為判定方法不同而差很多；他們主張這個領域需要一個公認的判</text>
+<text x="66" y="1080" font-size="14.5" fill="#345963">定標準。</text>
+<rect x="66" y="1115" width="488" height="76" rx="14" fill="#F6E2E0"/>
+<text x="82" y="1135" font-size="15.5" fill="#B04A4A" font-weight="700">勝算比不是機率的倍數。事件常見的時候，勝算比會比真正的風險</text>
+<text x="82" y="1158" font-size="15.5" fill="#B04A4A" font-weight="700">倍數看起來大得多——14.42 不等於「機率高 14 倍」。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1229" width="540" height="900" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="66" y="1261" font-size="18" fill="#123641" font-weight="800">那個 1.3% 到 49.4% 的區間，逐筆標上判定方法就散開了</text>
+<text x="66" y="1293" font-size="14.5" fill="#527078">每一列是一份研究：左邊的點是只做前哨淋巴結的人，右邊的點是做淋巴結</text>
+<text x="66" y="1314" font-size="14.5" fill="#527078">廓清的人。判定方法寫在研究名字後面——區間這麼寬，主要來自這一欄。</text>
+<circle cx="73" cy="1355" r="7" fill="#00806B"/>
+<text x="88" y="1360" font-size="14" fill="#527078" font-weight="700">只做前哨淋巴結</text>
+<circle cx="205" cy="1355" r="7" fill="#B04A4A"/>
+<text x="220" y="1360" font-size="14" fill="#527078" font-weight="700">做淋巴結廓清</text>
+<text x="66" y="1385" font-size="12.5" fill="#527078" text-anchor="middle">0%</text>
+<text x="154.73" y="1385" font-size="12.5" fill="#527078" text-anchor="middle">10%</text>
+<text x="243.45" y="1385" font-size="12.5" fill="#527078" text-anchor="middle">20%</text>
+<text x="332.18" y="1385" font-size="12.5" fill="#527078" text-anchor="middle">30%</text>
+<text x="420.91" y="1385" font-size="12.5" fill="#527078" text-anchor="middle">40%</text>
+<text x="509.64" y="1385" font-size="12.5" fill="#527078" text-anchor="middle">50%</text>
+<line x1="66" y1="1393" x2="509.64" y2="1393" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="66" y1="1393" x2="66" y2="1398" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="154.73" y1="1393" x2="154.73" y2="1398" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="243.45" y1="1393" x2="243.45" y2="1398" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="332.18" y1="1393" x2="332.18" y2="1398" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="420.91" y1="1393" x2="420.91" y2="1398" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="509.64" y1="1393" x2="509.64" y2="1398" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="66" y="1422" font-size="15.5" fill="#123641" font-weight="800">Geppert 2018</text>
+<text x="66" y="1443" font-size="14" fill="#527078">臨床判定｜n=188（機器人手術）</text>
+<line x1="77.53" y1="1475" x2="226.6" y2="1475" stroke="#B9AE94" stroke-width="3" stroke-linecap="round"/>
+<circle cx="77.53" cy="1475" r="9" fill="#00806B" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="226.6" cy="1475" r="9" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="77.53" y="1505" font-size="15" fill="#00806B" font-weight="800" text-anchor="middle">1.3%</text>
+<text x="226.6" y="1505" font-size="15" fill="#B04A4A" font-weight="800" text-anchor="middle">18.1%</text>
+<text x="66" y="1538" font-size="15.5" fill="#123641" font-weight="800">Casarin 2025</text>
+<text x="66" y="1559" font-size="14" fill="#527078">問卷｜n=239（腹腔鏡）</text>
+<line x1="255.88" y1="1591" x2="461.72" y2="1591" stroke="#B9AE94" stroke-width="3" stroke-linecap="round"/>
+<circle cx="255.88" cy="1591" r="9" fill="#00806B" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="461.72" cy="1591" r="9" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="255.88" y="1621" font-size="15" fill="#00806B" font-weight="800" text-anchor="middle">21.4%</text>
+<text x="461.72" y="1621" font-size="15" fill="#B04A4A" font-weight="800" text-anchor="middle">44.6%</text>
+<text x="66" y="1654" font-size="15.5" fill="#123641" font-weight="800">Glaser 2021</text>
+<text x="66" y="1675" font-size="14" fill="#527078">13 題自填問卷｜n=378</text>
+<line x1="296.69" y1="1707" x2="504.31" y2="1707" stroke="#B9AE94" stroke-width="3" stroke-linecap="round"/>
+<circle cx="296.69" cy="1707" r="9" fill="#00806B" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="504.31" cy="1707" r="9" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="296.69" y="1737" font-size="15" fill="#00806B" font-weight="800" text-anchor="middle">26.0%</text>
+<text x="504.31" y="1737" font-size="15" fill="#B04A4A" font-weight="800" text-anchor="middle">49.4%</text>
+<text x="66" y="1770" font-size="15.5" fill="#123641" font-weight="800">Leitao 2020</text>
+<text x="66" y="1791" font-size="14" fill="#527078">13 題自填問卷｜n=599</text>
+<line x1="305.56" y1="1823" x2="429.78" y2="1823" stroke="#B9AE94" stroke-width="3" stroke-linecap="round"/>
+<circle cx="305.56" cy="1823" r="9" fill="#00806B" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="429.78" cy="1823" r="9" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2"/>
+<text x="305.56" y="1853" font-size="15" fill="#00806B" font-weight="800" text-anchor="middle">27%</text>
+<text x="429.78" y="1853" font-size="15" fill="#B04A4A" font-weight="800" text-anchor="middle">41%</text>
+<text x="66" y="1885" font-size="14.5" fill="#345963">校正後勝算比：Casarin 3.11、Glaser 2.75、Leitao 1.8。放療是另一個獨</text>
+<text x="66" y="1906" font-size="14.5" fill="#345963">立因子——Leitao 那份問卷裡做過外照射的人自述水腫 51%、沒做的 35%，勝</text>
+<text x="66" y="1927" font-size="14.5" fill="#345963">算比 1.95。</text>
+<rect x="66" y="1962" width="488" height="159" rx="14" fill="none" stroke="#C9A83E" stroke-width="2"/>
+<text x="82" y="1984" font-size="16" fill="#8F7418" font-weight="800">第五筆根本放不進上面那條軸</text>
+<text x="82" y="2006" font-size="14.5" fill="#345963">丹麥全國前瞻世代 486 位低惡性度、推定第 1 期、全部做前哨淋巴結的</text>
+<text x="82" y="2027" font-size="14.5" fill="#345963">病人，用 EORTC QLQ-EN24 的腿部水腫分數（0 到 100 分）比術前與</text>
+<text x="82" y="2048" font-size="14.5" fill="#345963">12 個月：平均只上升 5.0 分（95% 信賴區間 3.3 到 6.8），低於 8 分的</text>
+<text x="82" y="2069" font-size="14.5" fill="#345963">臨床顯著門檻。它報的是分數不是百分比，沒有辦法跟上面四列擺在同</text>
+<text x="82" y="2090" font-size="14.5" fill="#345963">一條軸上比。</text>
+<rect x="40" y="2159" width="540" height="345" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="66" y="2189" font-size="18" fill="#B04A4A" font-weight="800">這張圖不給你一個機率</text>
+<text x="66" y="2215" font-size="15.5" fill="#345963">上面每一個數字都綁著一種判定方法與一個族群，把它們平均起來、或</text>
+<text x="66" y="2238" font-size="15.5" fill="#345963">挑一個當「機率」，都是把判定方法造成的差異當成身體造成的差異。</text>
+<text x="66" y="2275" font-size="15.5" fill="#345963">也不要把它讀成「做前哨就不會腫」：同樣用問卷的三份研究裡，前哨</text>
+<text x="66" y="2298" font-size="15.5" fill="#345963">組仍有 21.4% 到 27% 自述水腫。</text>
+<rect x="66" y="2337" width="488" height="163" rx="14" fill="#FFFFFF"/>
+<text x="82" y="2359" font-size="16" fill="#B04A4A" font-weight="800">自我按摩不能寫成預防</text>
+<text x="82" y="2381" font-size="14.5" fill="#345963">同一個日本世代裡，未接受輔助治療的 87 人依意願分組：24 人每天做</text>
+<text x="82" y="2402" font-size="14.5" fill="#345963">簡易淋巴引流滿一年、63 人沒做，追蹤五年——下肢周徑變化率與細胞</text>
+<text x="82" y="2423" font-size="14.5" fill="#345963">外水比值都沒有差異，5 年累積發生率 37.5% 對 23.5%，方向甚至相反。</text>
+<text x="82" y="2444" font-size="14.5" fill="#345963">作者結論逐字是「SLD does not contribute to the prevention of</text>
+<text x="82" y="2465" font-size="14.5" fill="#345963">LLE」。</text>
+<text x="40" y="2522" font-size="16" fill="#527078">示意圖，依 Wedin 2021、Geppert 2018、Leitao 2020、Glaser 2021、</text>
+<text x="40" y="2546" font-size="16" fill="#527078">Casarin 2025、Bjørnholt 2025 與 Utsugi 2025 重繪，非擷取自原論文圖</text>
+<text x="40" y="2570" font-size="16" fill="#527078">表；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

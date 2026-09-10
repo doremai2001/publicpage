@@ -1,0 +1,257 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="6289" viewBox="0 0 620 6289" role="img" aria-labelledby="t d">
+  <title id="t">FIGO 2009 對 2023：只畫改掉的那幾件事</title>
+  <desc id="d">示意圖：FIGO 2009 對 FIGO 2023 的差異對照。這張圖只畫差異，不是完整的分期表。第一段是規模：次期別由 9 個變成 21 個，這是 FIGO 自己 2025 年報告寫的數字；同一份報告也把這件事列為缺點，說新系統比舊版明顯更複雜，可能妨礙採用，也讓新舊世代之間的比較變困難。第二段是被寫進期別的三個變項。第一，組織型：2023 版把組織型分成非侵襲性（第 1 到第 2 級的類內膜癌）與侵襲性（第 3 級類內膜癌、漿液性、透明細胞、未分化、混合型、中腎樣、腸胃道型黏液性癌與癌肉瘤），同樣的肌層侵犯深度，兩類會走到不同的格子。第二，廣泛淋巴脈管侵犯：非侵襲性組織型只要達到廣泛程度，不論局部侵犯範圍多少，一律歸為 IIB，FIGO 2023 採用的定義是侵犯 5 條以上血管。第三，分子分型：分型已知時期別後面加一個小寫 m 與下標，原文措辭是 encouraged 與 if available and feasible，被鼓勵，不是被要求。第三段列出 2023 版新增或改動的格子。第 I 期被重新切開：IA1 是非侵襲性組織型局限於息肉內或局限於內膜；IA2 是非侵襲性組織型、肌層侵犯小於 50%、且無淋巴脈管侵犯或僅局部；IA3 是低惡性度類內膜癌同時侵犯子宮與卵巢，且符合四個條件——肌層侵犯不超過淺層、沒有廣泛淋巴脈管侵犯、沒有其他轉移、卵巢腫瘤單側且局限於卵巢無包膜侵犯或破裂；IB 是非侵襲性組織型、肌層侵犯 50% 以上、且無淋巴脈管侵犯或僅局部；IC 是侵襲性組織型且完全沒有肌層侵犯。第 II 期整體變大：IIA 是非侵襲性組織型侵犯子宮頸間質；IIB 是非侵襲性組織型加廣泛淋巴脈管侵犯，不論局部侵犯範圍；IIC 是侵襲性組織型加任何肌層侵犯；原文自己就寫了後果，第 II 期的人數將明顯增加。兩個分子註記：IAm_POLEmut 是 POLE 突變的內膜癌局限於子宮體或只延伸到子宮頸，不論淋巴脈管侵犯程度與組織型，往下降；IICm_p53abn 是 p53 異常的內膜癌局限於子宮體且有任何肌層侵犯，有或沒有子宮頸侵犯，不論淋巴脈管侵犯程度與組織型，往上升。第 III、IV 期的細分：IIIA 把附件侵犯與子宮漿膜侵犯分開；IIIB 把陰道或子宮旁侵犯與骨盆腔腹膜轉移分開；IIIC 依淋巴結轉移大小細分，依 TNM8 巨轉移大於 2 毫米、微轉移 0.2 到 2 毫米且或超過 200 顆細胞，孤立腫瘤細胞記為 pN0(i+)，原文寫它的預後意義並不清楚。同一段並標明有一件事沒有改：腹腔沖洗細胞學不列入分期。FIGO 2023 把腹腔沖洗細胞學陽性和輸卵管腔內漂浮的腫瘤碎片放在一起寫成尚有爭議；同時圖上也標出另一半——一個 720 人的世代在多變項分析中看到腹腔細胞學陽性與較差的結果相關，作者結論直接寫 omitting peritoneal cytology from prognostic assessment may risk undertreatment；不進期別，不等於它沒有訊息。第四段畫「廣泛」這個字的門檻不一致：FIGO 2023 是 5 條血管以上、NCCN 是 4 條以上、2022 年 ICCR 是 3 條以上、2019 年 ISGyP 也是 3 條以上。判讀一致性方面，病理醫師判斷有沒有淋巴脈管侵犯的組內相關係數是 0.6，判斷是不是廣泛是 0.56，這兩個數字是該綜述轉引的；FIGO 2025 年報告把這件事列為新分期的缺點之一，說新系統納入了定義仍在演進、且判讀者之間差異相當大的變項，並直接舉淋巴脈管侵犯為例。第五段是期別會動多少，畫成八根長條：Veiga 2026（西班牙 18 中心，n=4,566）19.9%、Seo 2025（韓國，n=2,969）20.2%、Sia 2026（MSKCC，n=2,067）上移 26.0%（另有下移 4.8%）、Zhao 2025（中國，n=720）27.4%、Schwameis 2023（奧地利與義大利 3 中心，n=519）27.6%、Özçelik 2026（土耳其兩中心，n=291）32.0%、Manabe 2025（日本 4 中心，n=1,207）36.3%、Chen 2026（上海，n=331）56.2%。圖上註明「上移」是換了一套描述方式之後落到編號比較大的格子，不是腫瘤長大了，而且各研究不可互相代換。第六段兩邊並陳。支持面：美國國家癌症資料庫 129,146 人重跑，2009 版第 IIIA 期的 5 年整體存活 63.9%，用 2023 版一拆變成 IA3 的 88.0%、IIIA1 的 62.4% 與 IIIA2 的 55.7%；一個 2,067 人的世代裡，被歸到新 IA3 的人 5 年整體存活 100%，而她們在 2009 版裡是第 IIIA 期、那一格是 70.3%；反方向同一個世代裡被標成 IICm_p53abn 的人 5 年整體存活 73%，而她們在 2009 版裡多半只是第 II 期、那一格是 86.8%。限制面：韓國 472 人的世代裡，侵襲性組織型那 84 人身上 2023 版對整體存活與無復發存活都分不出來，反而是 2009 版對無復發存活還有分層（p=0.017）；土耳其 291 人的研究裡，把組成期別的病理因子校正掉之後，期別移動本身不再獨立預測存活；MSKCC 的作者自承各次期別人數太少、有過度配適的疑慮；十位婦科病理學家 2024 年的評論標題就叫 FIGO 2023 endometrial cancer staging: too much, too soon?，主張應先在多機構、全球層級由所有相關學會共同評估，FIGO 這邊也回應了，措辭是它已經引起一些爭議。第七段是誰採用誰保留：歐洲三學會 ESGO、ESTRO、ESP 的 2025 年更新版明文把 FIGO 2023 納入指引；英國婦癌學會與英國婦科病理學會建議繼續使用 2009 年的分期系統；台灣採用哪一版查不到官方或學會公告，所以這張圖不寫，請看病理報告上標的是哪一版。同段並附台北榮總的研究：用傳統查表方式判斷 FIGO 2023 期別，正確率只有 58.1%，婦產科專科醫師 62.6%，分子分型情境 49.0%，IA3 情境 58.3%——所以不要自己換算。圖的最後有兩格。第一格：輔助治療的隨機證據是在舊分期下收案的。PORTEC-1 在 1990 到 1997 年收案，收案定義用的是 FIGO 1988 年代的語言；GOG-99 收的是 FIGO IB、IC 與 II 隱匿性期，而 IB 與 IC 只存在於 1988 年版；PORTEC-3 在 2006 到 2013 年收案，條文寫的是 FIGO 2009 stage I；有沒有以 2023 版收案的輔助治療隨機試驗查不到，只能說查到的主要試驗都不是；FIGO 2023 自己的措辭也還很保留，依分子輪廓降階或加強術後治療的策略原文寫的是 are being defined。第二格：期別的數字變了不會自動觸發治療改變，那個決定要回到婦癌科與放射腫瘤科的門診；但這也不等於新分期沒有意義，它處理的是同一個第 1 期裡預後差很多這個真實存在的問題。兩句缺一句，這張圖就會被讀歪。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="6289" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="62" font-size="17" fill="#A98722" font-weight="800" letter-spacing="2px">FIGO 2009 VS FIGO 2023 — ONLY WHAT CHANGED</text>
+<text x="40" y="114" font-size="38" fill="#123641" font-weight="800" class="r">改了哪幾件事</text>
+<text x="40" y="171.88" font-size="18.5" fill="#527078">這張圖只畫 2009 對 2023 的差異，不是完整的分期表；要知道自</text>
+<text x="40" y="199.63" font-size="18.5" fill="#527078">己落在哪一格，看的是病理報告，不是這張圖。</text>
+<text x="40" y="227.38" font-size="18.5" fill="#527078">腫瘤沒有變，是描述腫瘤的那套語言改了。分期改版不會自動改掉</text>
+<text x="40" y="255.13" font-size="18.5" fill="#527078">治療——這一句在圖的下半有一整格。</text>
+<text x="40" y="332.88" font-size="24" fill="#123641" font-weight="800" class="r">規模：9 個次期別變成 21 個</text>
+<text x="40" y="366.88" font-size="16" fill="#527078">這是 FIGO 自己 2025 年報告裡寫的數字。變多的原因是三個變項被寫進了</text>
+<text x="40" y="389.88" font-size="16" fill="#527078">期別。</text>
+<g filter="url(#sh)"><rect x="40" y="420.88" width="540" height="246" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="454.88" width="209" height="96" rx="14" fill="#ECE8DE"/>
+<rect x="345" y="454.88" width="209" height="96" rx="14" fill="#F3E8CD"/>
+<text x="170.5" y="516.88" font-size="54" fill="#7A6E58" font-weight="800" text-anchor="middle" class="r">9</text>
+<text x="449.5" y="516.88" font-size="54" fill="#8F7418" font-weight="800" text-anchor="middle" class="r">21</text>
+<line x1="289" y1="502.88" x2="319.96" y2="502.88" stroke="#C9A83E" stroke-width="3.5" stroke-linecap="round"/>
+<polygon points="331,502.88 320.04,507.77 320.04,497.99" fill="#C9A83E"/>
+<text x="66" y="572.88" font-size="13.5" fill="#527078" text-anchor="middle">FIGO 2009 的次期別數目</text>
+<text x="345" y="572.88" font-size="13.5" fill="#8F7418" font-weight="700" text-anchor="middle">FIGO 2023 的次期別數目</text>
+<text x="66" y="610.88" font-size="15" fill="#527078">FIGO 2025 年報告同時把這件事列為缺點：新系統比舊版明顯更複雜，可</text>
+<text x="66" y="632.88" font-size="15" fill="#527078">能妨礙採用，也讓新舊世代之間的比較變困難。</text>
+<text x="40" y="700.88" font-size="24" fill="#123641" font-weight="800" class="r">被寫進期別的三個變項</text>
+<text x="40" y="734.88" font-size="16" fill="#527078">這是傳統分期系統沒有做過的事——過去的分期只看解剖範圍，不看組織型、</text>
+<text x="40" y="757.88" font-size="16" fill="#527078">分化度、淋巴脈管侵犯與分子改變。</text>
+<rect x="40" y="788.88" width="540" height="473" rx="18" fill="none"/>
+<rect x="66" y="818.88" width="488" height="154" rx="14" fill="#FFFFFF" stroke="#5C77C4" stroke-width="2"/>
+<circle cx="86" cy="848.88" r="13" fill="#5C77C4"/>
+<text x="86" y="853.88" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="108" y="854.88" font-size="17" fill="#5C77C4" font-weight="800">組織型</text>
+<text x="108" y="878.88" font-size="14.5" fill="#345963">2023 版把組織型分成兩大類。非侵襲性：第 1 到第 2 級的類內膜癌。</text>
+<text x="108" y="899.88" font-size="14.5" fill="#345963">侵襲性：第 3 級類內膜癌、漿液性、透明細胞、未分化、混合型、中</text>
+<text x="108" y="920.88" font-size="14.5" fill="#345963">腎樣、腸胃道型黏液性癌與癌肉瘤。同樣的肌層侵犯深度，兩類會走</text>
+<text x="108" y="941.88" font-size="14.5" fill="#345963">到不同的格子。</text>
+<rect x="66" y="982.88" width="488" height="112" rx="14" fill="#FFFFFF" stroke="#96790F" stroke-width="2"/>
+<circle cx="86" cy="1012.88" r="13" fill="#96790F"/>
+<text x="86" y="1017.88" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="108" y="1018.88" font-size="17" fill="#96790F" font-weight="800">廣泛淋巴脈管侵犯（substantial LVSI）</text>
+<text x="108" y="1042.88" font-size="14.5" fill="#345963">非侵襲性組織型只要達到廣泛程度的淋巴脈管侵犯，不論局部侵犯範</text>
+<text x="108" y="1063.88" font-size="14.5" fill="#345963">圍多少，一律歸為 IIB。FIGO 2023 採用的定義是侵犯 5 條以上血管。</text>
+<rect x="66" y="1104.88" width="488" height="133" rx="14" fill="#FFFFFF" stroke="#00806B" stroke-width="2"/>
+<circle cx="86" cy="1134.88" r="13" fill="#00806B"/>
+<text x="86" y="1139.88" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">3</text>
+<text x="108" y="1140.88" font-size="17" fill="#00806B" font-weight="800">分子分型</text>
+<text x="108" y="1164.88" font-size="14.5" fill="#345963">分型已知時，期別後面加一個小寫 m 與下標。原文措辭是</text>
+<text x="108" y="1185.88" font-size="14.5" fill="#345963">encouraged（被鼓勵）與 if available and feasible（若可取得且可</text>
+<text x="108" y="1206.88" font-size="14.5" fill="#345963">行）——被鼓勵，不是被要求。</text>
+<text x="40" y="1295.88" font-size="24" fill="#123641" font-weight="800" class="r">2023 版新增或改動的格子</text>
+<text x="40" y="1329.88" font-size="16" fill="#527078">下面只列變動的部分。每一格的判準都出自 FIGO 2023 分期文件的原文。</text>
+<g filter="url(#sh)"><rect x="40" y="1360.88" width="540" height="517" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="1394.88" font-size="18" fill="#96790F" font-weight="800">第 I 期被重新切開</text>
+<text x="64" y="1444.88" font-size="16" fill="#96790F" font-weight="800">IA1</text>
+<text x="64" y="1468.88" font-size="14.5" fill="#345963">非侵襲性組織型，局限於息肉內或局限於內膜</text>
+<line x1="64" y1="1493.88" x2="556" y2="1493.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="1523.88" font-size="16" fill="#96790F" font-weight="800">IA2</text>
+<text x="64" y="1547.88" font-size="14.5" fill="#345963">非侵襲性組織型，肌層侵犯 &lt;50%，且無淋巴脈管侵犯或僅局部（focal）</text>
+<line x1="64" y1="1572.88" x2="556" y2="1572.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="1602.88" font-size="16" fill="#96790F" font-weight="800">IA3</text>
+<text x="64" y="1626.88" font-size="14.5" fill="#345963">低惡性度類內膜癌同時侵犯子宮與卵巢，且符合四個條件：肌層侵犯不超過</text>
+<text x="64" y="1647.88" font-size="14.5" fill="#345963">淺層（&lt;50%）；沒有廣泛淋巴脈管侵犯；沒有其他轉移；卵巢腫瘤單側、局</text>
+<text x="64" y="1668.88" font-size="14.5" fill="#345963">限於卵巢、無包膜侵犯或破裂</text>
+<line x1="64" y1="1693.88" x2="556" y2="1693.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="1723.88" font-size="16" fill="#96790F" font-weight="800">IB</text>
+<text x="64" y="1747.88" font-size="14.5" fill="#345963">非侵襲性組織型，肌層侵犯 ≥50%，且無淋巴脈管侵犯或僅局部</text>
+<line x1="64" y1="1772.88" x2="556" y2="1772.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="1802.88" font-size="16" fill="#96790F" font-weight="800">IC</text>
+<text x="64" y="1826.88" font-size="14.5" fill="#345963">侵襲性組織型，且完全沒有肌層侵犯</text>
+<line x1="64" y1="1851.88" x2="556" y2="1851.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<g filter="url(#sh)"><rect x="40" y="1891.88" width="540" height="377" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="1925.88" font-size="18" fill="#96790F" font-weight="800">第 II 期整體變大</text>
+<text x="64" y="1975.88" font-size="16" fill="#96790F" font-weight="800">IIA</text>
+<text x="64" y="1999.88" font-size="14.5" fill="#345963">非侵襲性組織型侵犯子宮頸間質</text>
+<line x1="64" y1="2024.88" x2="556" y2="2024.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2054.88" font-size="16" fill="#96790F" font-weight="800">IIB</text>
+<text x="64" y="2078.88" font-size="14.5" fill="#345963">非侵襲性組織型＋廣泛淋巴脈管侵犯，不論局部侵犯範圍</text>
+<line x1="64" y1="2103.88" x2="556" y2="2103.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2133.88" font-size="16" fill="#96790F" font-weight="800">IIC</text>
+<text x="64" y="2157.88" font-size="14.5" fill="#345963">侵襲性組織型＋任何肌層侵犯</text>
+<line x1="64" y1="2182.88" x2="556" y2="2182.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2212.88" font-size="14.5" fill="#8F7418" font-weight="700">原文自己就寫了後果：「The number of women with Stage II tumors</text>
+<text x="64" y="2233.88" font-size="14.5" fill="#8F7418" font-weight="700">will markedly increase.」</text>
+<g filter="url(#sh)"><rect x="40" y="2282.88" width="540" height="280" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="2316.88" font-size="18" fill="#00806B" font-weight="800">兩個分子註記</text>
+<text x="64" y="2366.88" font-size="16" fill="#00806B" font-weight="800">IAm_POLEmut</text>
+<text x="64" y="2390.88" font-size="14.5" fill="#345963">POLE 突變的內膜癌，局限於子宮體或只延伸到子宮頸，不論淋巴脈管侵犯</text>
+<text x="64" y="2411.88" font-size="14.5" fill="#345963">程度與組織型——往下降</text>
+<line x1="64" y1="2436.88" x2="556" y2="2436.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2466.88" font-size="16" fill="#00806B" font-weight="800">IICm_p53abn</text>
+<text x="64" y="2490.88" font-size="14.5" fill="#345963">p53 異常的內膜癌，局限於子宮體且有任何肌層侵犯，有或沒有子宮頸侵犯，</text>
+<text x="64" y="2511.88" font-size="14.5" fill="#345963">不論淋巴脈管侵犯程度與組織型——往上升</text>
+<line x1="64" y1="2536.88" x2="556" y2="2536.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<g filter="url(#sh)"><rect x="40" y="2576.88" width="540" height="359" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="2610.88" font-size="18" fill="#5C77C4" font-weight="800">第 III、IV 期的細分</text>
+<text x="64" y="2660.88" font-size="16" fill="#5C77C4" font-weight="800">IIIA</text>
+<text x="64" y="2684.88" font-size="14.5" fill="#345963">把附件侵犯與子宮漿膜侵犯分開</text>
+<line x1="64" y1="2709.88" x2="556" y2="2709.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2739.88" font-size="16" fill="#5C77C4" font-weight="800">IIIB</text>
+<text x="64" y="2763.88" font-size="14.5" fill="#345963">把陰道／子宮旁侵犯與骨盆腔腹膜轉移分開</text>
+<line x1="64" y1="2788.88" x2="556" y2="2788.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2818.88" font-size="16" fill="#5C77C4" font-weight="800">IIIC</text>
+<text x="64" y="2842.88" font-size="14.5" fill="#345963">依淋巴結轉移大小細分，依 TNM8：巨轉移 &gt;2 mm；微轉移 0.2–2 mm 且</text>
+<text x="64" y="2863.88" font-size="14.5" fill="#345963">／或超過 200 顆細胞；孤立腫瘤細胞記為 pN0(i+)，原文寫它的預後意義並不</text>
+<text x="64" y="2884.88" font-size="14.5" fill="#345963">清楚</text>
+<line x1="64" y1="2909.88" x2="556" y2="2909.88" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="40" y="2951.88" width="540" height="214" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2"/>
+<circle cx="84" cy="2981.88" r="15" fill="none" stroke="#B04A4A" stroke-width="2.6"/>
+<line x1="74.5" y1="2972.38" x2="93.5" y2="2991.38" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="93.5" y1="2972.38" x2="74.5" y2="2991.38" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<text x="110" y="2987.88" font-size="18" fill="#B04A4A" font-weight="800">有一件事沒有改：腹腔沖洗細胞學不列入分期</text>
+<text x="66" y="3029.88" font-size="15" fill="#345963">FIGO 2023 把腹腔沖洗細胞學陽性和輸卵管腔內漂浮的腫瘤碎片放在一起，</text>
+<text x="66" y="3051.88" font-size="15" fill="#345963">寫成尚有爭議——也就是說，它仍然不列入分期。同一件事的另一半也要放</text>
+<text x="66" y="3073.88" font-size="15" fill="#345963">進來：一個 720 人的世代在多變項分析中看到腹腔細胞學陽性與較差的結</text>
+<text x="66" y="3095.88" font-size="15" fill="#345963">果相關，作者的結論直接寫「omitting peritoneal cytology from</text>
+<text x="66" y="3117.88" font-size="15" fill="#345963">prognostic assessment may risk undertreatment」。不進期別，不</text>
+<text x="66" y="3139.88" font-size="15" fill="#345963">等於它沒有訊息。</text>
+<text x="40" y="3199.88" font-size="24" fill="#123641" font-weight="800" class="r">「廣泛」這個字，各家門檻不一樣</text>
+<text x="40" y="3233.88" font-size="16" fill="#527078">新分期把一個判讀一致性只有中等的變項，變成了期別的決定因子。</text>
+<g filter="url(#sh)"><rect x="40" y="3264.88" width="540" height="403" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="3298.88" width="488" height="52" rx="12" fill="#ECE8DE"/>
+<text x="84" y="3330.88" font-size="15.5" fill="#527078" font-weight="700">FIGO 2023</text>
+<text x="536" y="3332.88" font-size="19" fill="#96790F" font-weight="800" text-anchor="end">≥5 條血管</text>
+<rect x="66" y="3356.88" width="488" height="52" rx="12" fill="#ECE8DE"/>
+<text x="84" y="3388.88" font-size="15.5" fill="#527078" font-weight="700">NCCN</text>
+<text x="536" y="3390.88" font-size="19" fill="#5C77C4" font-weight="800" text-anchor="end">≥4 條血管</text>
+<rect x="66" y="3414.88" width="488" height="52" rx="12" fill="#ECE8DE"/>
+<text x="84" y="3446.88" font-size="15.5" fill="#527078" font-weight="700">ICCR 2022</text>
+<text x="536" y="3448.88" font-size="19" fill="#00806B" font-weight="800" text-anchor="end">≥3 條血管</text>
+<rect x="66" y="3472.88" width="488" height="52" rx="12" fill="#ECE8DE"/>
+<text x="84" y="3504.88" font-size="15.5" fill="#527078" font-weight="700">ISGyP 2019</text>
+<text x="536" y="3506.88" font-size="19" fill="#00806B" font-weight="800" text-anchor="end">≥3 條血管</text>
+<text x="66" y="3558.88" font-size="14.5" fill="#527078">判讀一致性：病理醫師判斷「有沒有淋巴脈管侵犯」的組內相關係數 ICC 是</text>
+<text x="66" y="3579.88" font-size="14.5" fill="#527078">0.6，判斷「是不是廣泛」是 0.56。這兩個數字是該綜述轉引的，不是綜述</text>
+<text x="66" y="3600.88" font-size="14.5" fill="#527078">自己做的。FIGO 2025 年報告把這件事列為新分期的缺點之一，原文說新系</text>
+<text x="66" y="3621.88" font-size="14.5" fill="#527078">統納入了「定義仍在演進、且判讀者之間差異相當大」的變項，並直接舉淋</text>
+<text x="66" y="3642.88" font-size="14.5" fill="#527078">巴脈管侵犯為例。</text>
+<text x="40" y="3701.88" font-size="24" fill="#123641" font-weight="800" class="r">期別會動多少，各家差很多</text>
+<text x="40" y="3735.88" font-size="16" fill="#527078">把舊世代用新分期重跑，會動的比例從兩成到超過五成。方向大多往上。</text>
+<g filter="url(#sh)"><rect x="40" y="3766.88" width="540" height="643" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="3820.88" font-size="14.5" fill="#527078" font-weight="600">Veiga 2026｜西班牙 18 中心｜n=4,566</text>
+<rect x="66" y="3832.88" width="128.69" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="3849.88" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">19.9%</text>
+<text x="66" y="3881.88" font-size="14.5" fill="#527078" font-weight="600">Seo 2025｜韓國單一機構｜n=2,969</text>
+<rect x="66" y="3893.88" width="130.63" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="3910.88" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">20.2%</text>
+<text x="66" y="3942.88" font-size="14.5" fill="#527078" font-weight="600">Sia 2026｜MSKCC｜n=2,067（上移；另有下移 4.8%）</text>
+<rect x="66" y="3954.88" width="168.13" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="3971.88" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">26.0%</text>
+<text x="66" y="4003.88" font-size="14.5" fill="#527078" font-weight="600">Zhao 2025｜中國｜n=720</text>
+<rect x="66" y="4015.88" width="177.19" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="4032.88" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">27.4%</text>
+<text x="66" y="4064.88" font-size="14.5" fill="#527078" font-weight="600">Schwameis 2023｜奧地利與義大利 3 中心｜n=519</text>
+<rect x="66" y="4076.88" width="178.48" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="4093.88" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">27.6%</text>
+<text x="66" y="4125.88" font-size="14.5" fill="#527078" font-weight="600">Özçelik 2026｜土耳其兩中心｜n=291</text>
+<rect x="66" y="4137.88" width="206.93" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="4154.88" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">32.0%</text>
+<text x="66" y="4186.88" font-size="14.5" fill="#527078" font-weight="600">Manabe 2025｜日本 4 中心｜n=1,207</text>
+<rect x="66" y="4198.88" width="234.74" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="4215.88" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">36.3%</text>
+<text x="66" y="4247.88" font-size="14.5" fill="#527078" font-weight="600">Chen 2026｜上海｜n=331</text>
+<rect x="66" y="4259.88" width="363.43" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="4276.88" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">56.2%</text>
+<line x1="66" y1="4290.88" x2="454" y2="4290.88" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="66" y1="4290.88" x2="66" y2="4295.88" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="4311.88" font-size="12.5" fill="#527078" text-anchor="middle">0%</text>
+<line x1="163" y1="4290.88" x2="163" y2="4295.88" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="163" y="4311.88" font-size="12.5" fill="#527078" text-anchor="middle">15%</text>
+<line x1="260" y1="4290.88" x2="260" y2="4295.88" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="260" y="4311.88" font-size="12.5" fill="#527078" text-anchor="middle">30%</text>
+<line x1="357" y1="4290.88" x2="357" y2="4295.88" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="357" y="4311.88" font-size="12.5" fill="#527078" text-anchor="middle">45%</text>
+<line x1="454" y1="4290.88" x2="454" y2="4295.88" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="454" y="4311.88" font-size="12.5" fill="#527078" text-anchor="middle">60%</text>
+<text x="66" y="4342.88" font-size="14.5" fill="#527078">「上移」的意思是換了一套描述方式之後落到編號比較大的格子，不是腫瘤</text>
+<text x="66" y="4363.88" font-size="14.5" fill="#527078">長大了。各研究的世代、年代與分子檢測可得性都不同，這幾根長條不可以</text>
+<text x="66" y="4384.88" font-size="14.5" fill="#527078">互相代換。</text>
+<text x="40" y="4443.88" font-size="24" fill="#123641" font-weight="800" class="r">兩邊都要說：它為什麼要改，以及它的限制</text>
+<rect x="40" y="4483.88" width="540" height="239" rx="16" fill="#FFFFFF" stroke="#00806B" stroke-width="2"/>
+<text x="64" y="4517.88" font-size="17.5" fill="#00806B" font-weight="800">它處理的是一個真的存在的問題</text>
+<circle cx="71" cy="4538.88" r="4.5" fill="#00806B"/>
+<text x="86" y="4543.88" font-size="14.5" fill="#345963">舊分期把預後差距很大的人放在同一格。美國國家癌症資料庫 129,146</text>
+<text x="86" y="4564.88" font-size="14.5" fill="#345963">人重跑：2009 版第 IIIA 期的 5 年整體存活是 63.9%，用 2023 版一拆，</text>
+<text x="86" y="4585.88" font-size="14.5" fill="#345963">變成 IA3 的 88.0%、IIIA1 的 62.4% 與 IIIA2 的 55.7%。</text>
+<circle cx="71" cy="4609.88" r="4.5" fill="#00806B"/>
+<text x="86" y="4614.88" font-size="14.5" fill="#345963">一個 2,067 人的單一機構世代看到同樣的方向：被歸到新的 IA3 的人 5</text>
+<text x="86" y="4635.88" font-size="14.5" fill="#345963">年整體存活 100%，而她們在 2009 版裡是第 IIIA 期，那一格是 70.3%。</text>
+<circle cx="71" cy="4659.88" r="4.5" fill="#00806B"/>
+<text x="86" y="4664.88" font-size="14.5" fill="#345963">反方向也成立：同一個世代裡被標成 IICm_p53abn 的人 5 年整體存活</text>
+<text x="86" y="4685.88" font-size="14.5" fill="#345963">73%，而她們在 2009 版裡多半只是第 II 期，那一格是 86.8%。</text>
+<rect x="40" y="4736.88" width="540" height="352" rx="16" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<text x="64" y="4770.88" font-size="17.5" fill="#B04A4A" font-weight="800">但它的限制也擺在檯面上</text>
+<circle cx="71" cy="4791.88" r="4.5" fill="#B04A4A"/>
+<text x="86" y="4796.88" font-size="14.5" fill="#345963">韓國一個 472 人、以 2009 版第 I 到第 II 期收的世代：在非侵襲性組織型</text>
+<text x="86" y="4817.88" font-size="14.5" fill="#345963">裡 2023 版分層比較好；但在侵襲性組織型那 84 人身上，2023 版對整體</text>
+<text x="86" y="4838.88" font-size="14.5" fill="#345963">存活與無復發存活都分不出來，反而是 2009 版對無復發存活還有分層（</text>
+<text x="86" y="4859.88" font-size="14.5" fill="#345963">p=0.017）。</text>
+<circle cx="71" cy="4883.88" r="4.5" fill="#B04A4A"/>
+<text x="86" y="4888.88" font-size="14.5" fill="#345963">土耳其 291 人的研究：把組成期別的那些病理因子校正掉之後，期別移</text>
+<text x="86" y="4909.88" font-size="14.5" fill="#345963">動本身就不再獨立預測存活。</text>
+<circle cx="71" cy="4933.88" r="4.5" fill="#B04A4A"/>
+<text x="86" y="4938.88" font-size="14.5" fill="#345963">MSKCC 那份最漂亮的資料，作者自己在文中寫：各個次期別的人數太少、</text>
+<text x="86" y="4959.88" font-size="14.5" fill="#345963">有過度配適的疑慮，限制了這個分析。</text>
+<circle cx="71" cy="4983.88" r="4.5" fill="#B04A4A"/>
+<text x="86" y="4988.88" font-size="14.5" fill="#345963">十位婦科病理學家 2024 年的評論標題就叫〈FIGO 2023 endometrial</text>
+<text x="86" y="5009.88" font-size="14.5" fill="#345963">cancer staging: too much, too soon?〉，主張新系統應該先在多機構、</text>
+<text x="86" y="5030.88" font-size="14.5" fill="#345963">全球層級、由所有相關學會共同評估影響與證據。FIGO 這邊也回應了，</text>
+<text x="86" y="5051.88" font-size="14.5" fill="#345963">措辭是它「has generated some controversy」。</text>
+<text x="40" y="5122.88" font-size="24" fill="#123641" font-weight="800" class="r">誰採用了，誰保留舊版</text>
+<rect x="40" y="5162.88" width="540" height="452" rx="16" fill="#F7F1E4"/>
+<rect x="66" y="5192.88" width="488" height="98" rx="12" fill="#FFFFFF" stroke="#00806B" stroke-width="1.8"/>
+<rect x="82" y="5208.88" width="48" height="26" rx="13" fill="#00806B"/>
+<text x="93" y="5226.88" font-size="13" fill="#FFFFFF" font-weight="800">採用</text>
+<text x="82" y="5254.88" font-size="14.5" fill="#345963">歐洲三學會（ESGO／ESTRO／ESP）2025 年更新版明文把 FIGO</text>
+<text x="82" y="5275.88" font-size="14.5" fill="#345963">2023 納入指引。</text>
+<rect x="66" y="5300.88" width="488" height="98" rx="12" fill="#FFFFFF" stroke="#96790F" stroke-width="1.8"/>
+<rect x="82" y="5316.88" width="48" height="26" rx="13" fill="#96790F"/>
+<text x="93" y="5334.88" font-size="13" fill="#FFFFFF" font-weight="800">保留</text>
+<text x="82" y="5362.88" font-size="14.5" fill="#345963">FIGO 自己 2025 年的報告寫：在英國，英國婦癌學會（BGCS）與英</text>
+<text x="82" y="5383.88" font-size="14.5" fill="#345963">國婦科病理學會（BAGP）建議繼續使用 2009 年的分期系統。</text>
+<rect x="66" y="5408.88" width="488" height="98" rx="12" fill="#FFFFFF" stroke="#7A6E58" stroke-width="1.8"/>
+<rect x="82" y="5424.88" width="61" height="26" rx="13" fill="#7A6E58"/>
+<text x="93" y="5442.88" font-size="13" fill="#FFFFFF" font-weight="800">查不到</text>
+<text x="82" y="5470.88" font-size="14.5" fill="#345963">台灣的癌症登記與各醫院現在採用哪一版，查不到官方或學會的公告，</text>
+<text x="82" y="5491.88" font-size="14.5" fill="#345963">所以這張圖不寫。看你的病理報告上標的是哪一版。</text>
+<text x="66" y="5544.88" font-size="15" fill="#123641" font-weight="600">不要自己換算。台北榮總一份研究直接把誤差量了出來：用傳統查表方式</text>
+<text x="66" y="5566.88" font-size="15" fill="#123641" font-weight="600">判斷 FIGO 2023 期別，正確率只有 58.1%；婦產科專科醫師用同樣方法是</text>
+<text x="66" y="5588.88" font-size="15" fill="#123641" font-weight="600">62.6%；在分子分型的情境下降到 49.0%，IA3 的情境是 58.3%。</text>
+<rect x="40" y="5640.88" width="540" height="303" rx="16" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="5676.88" font-size="19" fill="#8F7418" font-weight="800">輔助治療的隨機證據，是在舊分期下收案的</text>
+<text x="66" y="5709.88" font-size="15.5" fill="#345963" font-weight="600">PORTEC-1 在 1990 到 1997 年收案，收案定義用的是 FIGO 1988 年</text>
+<text x="66" y="5732.88" font-size="15.5" fill="#345963" font-weight="600">代的語言（第 1 級合併深部 ≥50% 肌層侵犯、第 2 級任何侵犯、或第 3</text>
+<text x="66" y="5755.88" font-size="15.5" fill="#345963" font-weight="600">級合併淺層 &lt;50% 侵犯）。GOG-99 收的是 FIGO IB、IC 與 II（隱匿性）</text>
+<text x="66" y="5778.88" font-size="15.5" fill="#345963" font-weight="600">期，而 IB 與 IC 這兩個次期別只存在於 1988 年版。時間最近的</text>
+<text x="66" y="5801.88" font-size="15.5" fill="#345963" font-weight="600">PORTEC-3 在 2006 到 2013 年收案，條文寫的是「FIGO 2009 stage</text>
+<text x="66" y="5824.88" font-size="15.5" fill="#345963" font-weight="600">I」。換句話說：決定要不要放療、要不要加化療的那幾個隨機試驗，收</text>
+<text x="66" y="5847.88" font-size="15.5" fill="#345963" font-weight="600">的是用舊分期描述的病人；有沒有以 2023 版收案的輔助治療隨機試驗，</text>
+<text x="66" y="5870.88" font-size="15.5" fill="#345963" font-weight="600">這裡查不到，只能說我查到的主要試驗都不是。FIGO 2023 自己的措辭</text>
+<text x="66" y="5893.88" font-size="15.5" fill="#345963" font-weight="600">也還很保留——依分子輪廓降階或加強術後治療的策略，原文寫的是「</text>
+<text x="66" y="5916.88" font-size="15.5" fill="#345963" font-weight="600">are being defined」。</text>
+<rect x="40" y="5959.88" width="540" height="165" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="66" y="5995.88" font-size="19" fill="#B04A4A" font-weight="800">所以這張圖的兩句話要一起讀</text>
+<text x="66" y="6028.88" font-size="15.5" fill="#345963" font-weight="600">第一句：期別的數字變了，不會自動觸發治療改變；那個決定要回到婦</text>
+<text x="66" y="6051.88" font-size="15.5" fill="#345963" font-weight="600">癌科與放射腫瘤科的門診。第二句：這不等於新分期沒有意義——它處理</text>
+<text x="66" y="6074.88" font-size="15.5" fill="#345963" font-weight="600">的是「同一個第 1 期裡預後差很多」這個真實存在的問題。兩句缺一句，</text>
+<text x="66" y="6097.88" font-size="15.5" fill="#345963" font-weight="600">這張圖就會被讀歪。</text>
+<text x="40" y="6150.88" font-size="15" fill="#527078">示意圖，依 FIGO 2023 分期文件（Berek 2023）、FIGO 2025 子宮體癌報告、</text>
+<text x="40" y="6173.38" font-size="15" fill="#527078">McCluggage 2024、Matias-Guiu 2024、ESGO／ESTRO／ESP 2025、</text>
+<text x="40" y="6195.88" font-size="15" fill="#527078">Schwameis 2023、Matsuo 2024、Seo 2025、Veiga 2026、Sia 2026、</text>
+<text x="40" y="6218.38" font-size="15" fill="#527078">Manabe 2025、Zhao 2025、Chen 2026、Özçelik 2026、Lee 2025、Cheng</text>
+<text x="40" y="6240.88" font-size="15" fill="#527078">2025（台北榮總）、PORTEC-1、PORTEC-3 與 GOG-99 重繪；各研究族群、設</text>
+<text x="40" y="6263.38" font-size="15" fill="#527078">計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

@@ -1,0 +1,323 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="7799" viewBox="0 0 620 7799" role="img" aria-labelledby="t d">
+  <title id="t">FIGO 2009 versus 2023: only the things that changed</title>
+  <desc id="d">Schematic comparing FIGO 2009 with FIGO 2023 by drawing only the differences. It is not a complete staging table. The first section gives the scale: nine substages become twenty-one, a count from the 2025 report by FIGO itself, which also lists this as a disadvantage, saying the new system is markedly more complicated than the previous version, which may hinder adoption and make comparisons between old and new cohorts difficult. The second section sets out the three variables written into the stage. First, histological type: the 2023 system sorts types into non-aggressive (grade 1 and grade 2 endometrioid carcinoma) and aggressive (grade 3 endometrioid, serous, clear cell, undifferentiated, mixed, mesonephric-like and gastrointestinal-type mucinous carcinoma, and carcinosarcoma), so that with the same depth of myometrial invasion the two classes land in different boxes. Second, substantial lymphovascular space invasion: a non-aggressive histological type with substantial LVSI is stage IIB regardless of local tumour spread, and FIGO 2023 defines substantial as five or more vessels involved. Third, molecular classification: where the subtype is known a lower-case m and a subscript are added, with the source wording being encouraged, and if available and feasible — encouraged, not required. The third section lists the boxes the 2023 system adds or changes. Stage I is cut open: IA1 is a non-aggressive histological type confined to a polyp or to the endometrium; IA2 is a non-aggressive type with myometrial invasion under 50 per cent and no LVSI or focal LVSI only; IA3 is low-grade endometrioid carcinoma involving uterus and ovary at once and meeting four conditions — invasion no deeper than superficial, no substantial LVSI, no other metastasis, and a unilateral ovarian tumour confined to the ovary with no capsular invasion or rupture; IB is a non-aggressive type with invasion of 50 per cent or more and no LVSI or focal LVSI only; and IC is an aggressive histological type with no myometrial invasion at all. Stage II gets markedly bigger: IIA is a non-aggressive type invading the cervical stroma; IIB is a non-aggressive type with substantial LVSI regardless of local tumour spread; and IIC is an aggressive type with any myometrial invasion — the consequence being written into the source itself, that the number of women with stage II tumours will markedly increase. Two molecular annotations follow: IAm_POLEmut for POLE-mutant carcinoma confined to the uterine corpus or with cervical extension, regardless of degree of LVSI or histological type, which moves the stage down; and IICm_p53abn for p53-abnormal carcinoma confined to the uterine corpus with any myometrial invasion, with or without cervical invasion, regardless of degree of LVSI or histological type, which moves the stage up. Stage III and IV are subdivided: IIIA separates adnexal involvement from invasion of the uterine serosa; IIIB separates vaginal or parametrial involvement from pelvic peritoneal metastasis; and IIIC is subdivided by the size of nodal metastasis following TNM8, with macrometastasis above 2 mm, micrometastasis 0.2 to 2 mm and/or more than 200 cells, and isolated tumour cells recorded as pN0(i+), of which the source says the prognostic significance is unclear. The same section marks one thing that did not change: peritoneal cytology stays out of the stage. FIGO 2023 groups positive washing cytology with intraluminal tubal floating tumour fragments as a controversial issue, and the figure also carries the other half — in a cohort of 720 women, positive peritoneal cytology was associated with worse outcomes on multivariable analysis, and the authors wrote that omitting peritoneal cytology from prognostic assessment may risk undertreatment. Not entering the stage is not the same as carrying no information. The fourth section shows that the word substantial does not mean the same number in every document: FIGO 2023 uses five or more vessels, NCCN four or more, the 2022 ICCR three or more and the 2019 ISGyP three or more. On reading agreement, the intraclass correlation coefficient for whether LVSI is present at all is 0.6 and for whether it is substantial 0.56, both quoted second-hand by that review; and the FIGO 2025 report lists this among the disadvantages of the new system, saying it incorporates variables whose definitions are still evolving and which are subject to considerable interobserver variability, naming LVSI as the example. The fifth section draws how much the stage moves as eight bars: Veiga 2026 (18 centres in Spain, n=4,566) 19.9 per cent; Seo 2025 (single institution, Korea, n=2,969) 20.2 per cent; Sia 2026 (MSKCC, n=2,067) 26.0 per cent upstaged with a further 4.8 per cent downstaged; Zhao 2025 (China, n=720) 27.4 per cent; Schwameis 2023 (three centres in Austria and Italy, n=519) 27.6 per cent; Ozcelik 2026 (two centres in Turkey, n=291) 32.0 per cent; Manabe 2025 (four centres in Japan, n=1,207) 36.3 per cent; and Chen 2026 (Shanghai, n=331) 56.2 per cent. The figure notes that upstaging means landing in a higher-numbered box once a different description is applied, not that the tumour has grown, and that the cohorts cannot stand in for one another. The sixth section puts both sides together. In favour: rerun across 129,146 patients in the US National Cancer Database, 5-year overall survival for 2009 stage IIIA was 63.9 per cent, and splitting it under the 2023 system gives 88.0 per cent for IA3, 62.4 per cent for IIIA1 and 55.7 per cent for IIIA2; in a cohort of 2,067, those reassigned to the new IA3 had 5-year overall survival of 100 per cent while under the 2009 system they were stage IIIA at 70.3 per cent; and in the other direction, those labelled IICm_p53abn had 73 per cent while under the 2009 system most were merely stage II, at 86.8 per cent. Against: in a Korean cohort of 472, the 84 women with aggressive histological types were separated by neither overall nor recurrence-free survival under the 2023 system, while the 2009 system still stratified recurrence-free survival (p=0.017); in a Turkish study of 291, once the pathological factors making up the stage were adjusted for, stage migration itself no longer independently predicted survival; the MSKCC authors wrote that small numbers in each substage and concerns about over-fitting limit their analysis; and a commentary by ten gynaecological pathologists in 2024 titled &quot;FIGO 2023 endometrial cancer staging: too much, too soon?&quot; argues the system should first be appraised at a multi-institutional and global level with input from all relevant societies, to which FIGO replied that it has generated some controversy. The seventh section covers who adopted it and who kept the old one: the 2025 update of the ESGO, ESTRO and ESP guidelines explicitly incorporates FIGO 2023; the British Gynaecological Cancer Society and the British Association of Gynecological Pathologists have recommended continuing to use the 2009 system; and which version Taiwan uses could not be found in any official or society statement, so the figure does not say, and readers are pointed to the version printed on their own pathology report. It also carries a study from one Taiwanese medical centre: assigning a FIGO 2023 stage by conventional table look-up was correct only 58.1 per cent of the time, 62.6 per cent for obstetrician-gynaecologists using the same method, 49.0 per cent in molecular-classification scenarios and 58.3 per cent in IA3 scenarios — so nobody should convert their own report. The figure closes with two panels. The first: the randomised evidence for adjuvant treatment was recruited under the older staging systems. PORTEC-1 recruited from 1990 to 1997 with entry criteria written in the language of FIGO 1988; GOG-99 recruited FIGO stages IB, IC and II occult, and those two substages exist only in the 1988 version; PORTEC-3 recruited from 2006 to 2013 and its protocol reads FIGO 2009 stage I; whether any adjuvant trial has recruited under the 2023 version could not be established, only that the main trials found were not; and FIGO 2023 is guarded in its own words, saying that strategies to de-escalate or intensify post-operative treatment by molecular profile are being defined. The second: a change in the stage number does not by itself trigger a change in treatment, and that decision goes back to the gynaecological oncology and radiation oncology clinic; but that is not the same as saying the new system is pointless, because it addresses the genuine problem that outlooks inside one stage I differ enormously. Drop either sentence and the figure gets read the wrong way.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="7799" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="62" font-size="17" fill="#A98722" font-weight="800" letter-spacing="2px">FIGO 2009 VS FIGO 2023 — ONLY WHAT CHANGED</text>
+<text x="40" y="114" font-size="33" fill="#123641" font-weight="800" class="r">What the 2023 revision actually</text>
+<text x="40" y="155.58" font-size="33" fill="#123641" font-weight="800" class="r">changed</text>
+<text x="40" y="207.16" font-size="18.5" fill="#527078">This figure draws only the differences between 2009 and</text>
+<text x="40" y="234.91" font-size="18.5" fill="#527078">2023. It is not a complete staging table, and the box a given</text>
+<text x="40" y="262.66" font-size="18.5" fill="#527078">tumour falls into is read off the pathology report, not off this</text>
+<text x="40" y="290.41" font-size="18.5" fill="#527078">figure.</text>
+<text x="40" y="318.16" font-size="18.5" fill="#527078">The tumour has not changed; the language used to describe</text>
+<text x="40" y="345.91" font-size="18.5" fill="#527078">it has. A change of staging system does not automatically</text>
+<text x="40" y="373.66" font-size="18.5" fill="#527078">change treatment — that sentence has a panel of its own</text>
+<text x="40" y="401.41" font-size="18.5" fill="#527078">further down.</text>
+<text x="40" y="479.16" font-size="24" fill="#123641" font-weight="800" class="r">Scale: nine substages become twenty-one</text>
+<text x="40" y="513.16" font-size="16" fill="#527078">That count comes from the 2025 report by FIGO itself. The increase</text>
+<text x="40" y="536.16" font-size="16" fill="#527078">happens because three variables were written into the stage.</text>
+<g filter="url(#sh)"><rect x="40" y="567.16" width="540" height="290" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="601.16" width="209" height="96" rx="14" fill="#ECE8DE"/>
+<rect x="345" y="601.16" width="209" height="96" rx="14" fill="#F3E8CD"/>
+<text x="170.5" y="663.16" font-size="54" fill="#7A6E58" font-weight="800" text-anchor="middle" class="r">9</text>
+<text x="449.5" y="663.16" font-size="54" fill="#8F7418" font-weight="800" text-anchor="middle" class="r">21</text>
+<line x1="289" y1="649.16" x2="319.96" y2="649.16" stroke="#C9A83E" stroke-width="3.5" stroke-linecap="round"/>
+<polygon points="331,649.16 320.04,654.05 320.04,644.27" fill="#C9A83E"/>
+<text x="66" y="719.16" font-size="13.5" fill="#527078" text-anchor="middle">substages under FIGO 2009</text>
+<text x="345" y="719.16" font-size="13.5" fill="#8F7418" font-weight="700" text-anchor="middle">substages under FIGO 2023</text>
+<text x="66" y="757.16" font-size="15" fill="#527078">The same FIGO 2025 report also lists this as a disadvantage: the</text>
+<text x="66" y="779.16" font-size="15" fill="#527078">new system is markedly more complicated than the previous</text>
+<text x="66" y="801.16" font-size="15" fill="#527078">version, which may hinder adoption and make comparisons</text>
+<text x="66" y="823.16" font-size="15" fill="#527078">between old and new cohorts difficult.</text>
+<text x="40" y="891.16" font-size="24" fill="#123641" font-weight="800" class="r">The three variables written into the stage</text>
+<text x="40" y="925.16" font-size="16" fill="#527078">This is something traditional staging systems have not done — they</text>
+<text x="40" y="948.16" font-size="16" fill="#527078">were agnostic of tumour type, grade, lymphovascular space invasion</text>
+<text x="40" y="971.16" font-size="16" fill="#527078">and molecular alterations.</text>
+<rect x="40" y="1002.16" width="540" height="578" rx="18" fill="none"/>
+<rect x="66" y="1032.16" width="488" height="217" rx="14" fill="#FFFFFF" stroke="#5C77C4" stroke-width="2"/>
+<circle cx="86" cy="1062.16" r="13" fill="#5C77C4"/>
+<text x="86" y="1067.16" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="108" y="1068.16" font-size="17" fill="#5C77C4" font-weight="800">Histological type</text>
+<text x="108" y="1092.16" font-size="14.5" fill="#345963">The 2023 system sorts histological types into two classes.</text>
+<text x="108" y="1113.16" font-size="14.5" fill="#345963">Non-aggressive: grade 1 and grade 2 endometrioid carcinoma.</text>
+<text x="108" y="1134.16" font-size="14.5" fill="#345963">Aggressive: grade 3 endometrioid, serous, clear cell,</text>
+<text x="108" y="1155.16" font-size="14.5" fill="#345963">undifferentiated, mixed, mesonephric-like and</text>
+<text x="108" y="1176.16" font-size="14.5" fill="#345963">gastrointestinal-type mucinous carcinoma, and</text>
+<text x="108" y="1197.16" font-size="14.5" fill="#345963">carcinosarcoma. With the same depth of myometrial invasion,</text>
+<text x="108" y="1218.16" font-size="14.5" fill="#345963">the two classes land in different boxes.</text>
+<rect x="66" y="1259.16" width="488" height="133" rx="14" fill="#FFFFFF" stroke="#96790F" stroke-width="2"/>
+<circle cx="86" cy="1289.16" r="13" fill="#96790F"/>
+<text x="86" y="1294.16" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="108" y="1295.16" font-size="17" fill="#96790F" font-weight="800">Substantial lymphovascular space invasion (LVSI)</text>
+<text x="108" y="1319.16" font-size="14.5" fill="#345963">A non-aggressive histological type with substantial LVSI is</text>
+<text x="108" y="1340.16" font-size="14.5" fill="#345963">stage IIB regardless of local tumour spread. FIGO 2023 defines</text>
+<text x="108" y="1361.16" font-size="14.5" fill="#345963">substantial as five or more vessels involved.</text>
+<rect x="66" y="1402.16" width="488" height="154" rx="14" fill="#FFFFFF" stroke="#00806B" stroke-width="2"/>
+<circle cx="86" cy="1432.16" r="13" fill="#00806B"/>
+<text x="86" y="1437.16" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">3</text>
+<text x="108" y="1438.16" font-size="17" fill="#00806B" font-weight="800">Molecular classification</text>
+<text x="108" y="1462.16" font-size="14.5" fill="#345963">Where the molecular subtype is known, a lower-case m and a</text>
+<text x="108" y="1483.16" font-size="14.5" fill="#345963">subscript are added to the stage. The wording in the source is</text>
+<text x="108" y="1504.16" font-size="14.5" fill="#345963">encouraged, and if available and feasible — encouraged, not</text>
+<text x="108" y="1525.16" font-size="14.5" fill="#345963">required.</text>
+<text x="40" y="1614.16" font-size="24" fill="#123641" font-weight="800" class="r">The boxes the 2023 system adds or changes</text>
+<text x="40" y="1648.16" font-size="16" fill="#527078">Only the changed parts are listed. Every criterion here comes from</text>
+<text x="40" y="1671.16" font-size="16" fill="#527078">the text of the FIGO 2023 staging paper.</text>
+<g filter="url(#sh)"><rect x="40" y="1702.16" width="540" height="622" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="1736.16" font-size="18" fill="#96790F" font-weight="800">Stage I is cut open</text>
+<text x="64" y="1786.16" font-size="16" fill="#96790F" font-weight="800">IA1</text>
+<text x="64" y="1810.16" font-size="14.5" fill="#345963">non-aggressive histological type, confined to a polyp or confined to the</text>
+<text x="64" y="1831.16" font-size="14.5" fill="#345963">endometrium</text>
+<line x1="64" y1="1856.16" x2="556" y2="1856.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="1886.16" font-size="16" fill="#96790F" font-weight="800">IA2</text>
+<text x="64" y="1910.16" font-size="14.5" fill="#345963">non-aggressive histological type, myometrial invasion under 50%, with</text>
+<text x="64" y="1931.16" font-size="14.5" fill="#345963">no LVSI or focal LVSI only</text>
+<line x1="64" y1="1956.16" x2="556" y2="1956.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="1986.16" font-size="16" fill="#96790F" font-weight="800">IA3</text>
+<text x="64" y="2010.16" font-size="14.5" fill="#345963">low-grade endometrioid carcinoma involving the uterus and the ovary</text>
+<text x="64" y="2031.16" font-size="14.5" fill="#345963">at once, meeting four conditions: myometrial invasion no deeper than</text>
+<text x="64" y="2052.16" font-size="14.5" fill="#345963">superficial (under 50%); no substantial LVSI; no other metastasis; and</text>
+<text x="64" y="2073.16" font-size="14.5" fill="#345963">a unilateral ovarian tumour confined to the ovary with no capsular</text>
+<text x="64" y="2094.16" font-size="14.5" fill="#345963">invasion or rupture</text>
+<line x1="64" y1="2119.16" x2="556" y2="2119.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2149.16" font-size="16" fill="#96790F" font-weight="800">IB</text>
+<text x="64" y="2173.16" font-size="14.5" fill="#345963">non-aggressive histological type, myometrial invasion of 50% or more,</text>
+<text x="64" y="2194.16" font-size="14.5" fill="#345963">with no LVSI or focal LVSI only</text>
+<line x1="64" y1="2219.16" x2="556" y2="2219.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2249.16" font-size="16" fill="#96790F" font-weight="800">IC</text>
+<text x="64" y="2273.16" font-size="14.5" fill="#345963">aggressive histological type with no myometrial invasion at all</text>
+<line x1="64" y1="2298.16" x2="556" y2="2298.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<g filter="url(#sh)"><rect x="40" y="2338.16" width="540" height="398" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="2372.16" font-size="18" fill="#96790F" font-weight="800">Stage II gets markedly bigger</text>
+<text x="64" y="2422.16" font-size="16" fill="#96790F" font-weight="800">IIA</text>
+<text x="64" y="2446.16" font-size="14.5" fill="#345963">non-aggressive histological type invading the cervical stroma</text>
+<line x1="64" y1="2471.16" x2="556" y2="2471.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2501.16" font-size="16" fill="#96790F" font-weight="800">IIB</text>
+<text x="64" y="2525.16" font-size="14.5" fill="#345963">non-aggressive histological type with substantial LVSI, regardless of</text>
+<text x="64" y="2546.16" font-size="14.5" fill="#345963">local tumour spread</text>
+<line x1="64" y1="2571.16" x2="556" y2="2571.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2601.16" font-size="16" fill="#96790F" font-weight="800">IIC</text>
+<text x="64" y="2625.16" font-size="14.5" fill="#345963">aggressive histological type with any myometrial invasion</text>
+<line x1="64" y1="2650.16" x2="556" y2="2650.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2680.16" font-size="14.5" fill="#8F7418" font-weight="700">The consequence is written into the source itself: &quot;The number of</text>
+<text x="64" y="2701.16" font-size="14.5" fill="#8F7418" font-weight="700">women with Stage II tumors will markedly increase.&quot;</text>
+<g filter="url(#sh)"><rect x="40" y="2750.16" width="540" height="322" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="2784.16" font-size="18" fill="#00806B" font-weight="800">Two molecular annotations</text>
+<text x="64" y="2834.16" font-size="16" fill="#00806B" font-weight="800">IAm_POLEmut</text>
+<text x="64" y="2858.16" font-size="14.5" fill="#345963">POLE-mutant endometrial carcinoma confined to the uterine corpus</text>
+<text x="64" y="2879.16" font-size="14.5" fill="#345963">or with cervical extension, regardless of the degree of LVSI or</text>
+<text x="64" y="2900.16" font-size="14.5" fill="#345963">histological type — it moves down</text>
+<line x1="64" y1="2925.16" x2="556" y2="2925.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="2955.16" font-size="16" fill="#00806B" font-weight="800">IICm_p53abn</text>
+<text x="64" y="2979.16" font-size="14.5" fill="#345963">p53-abnormal endometrial carcinoma confined to the uterine corpus</text>
+<text x="64" y="3000.16" font-size="14.5" fill="#345963">with any myometrial invasion, with or without cervical invasion,</text>
+<text x="64" y="3021.16" font-size="14.5" fill="#345963">regardless of the degree of LVSI or histological type — it moves up</text>
+<line x1="64" y1="3046.16" x2="556" y2="3046.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<g filter="url(#sh)"><rect x="40" y="3086.16" width="540" height="401" rx="18" fill="#FFFFFF"/></g>
+<text x="64" y="3120.16" font-size="18" fill="#5C77C4" font-weight="800">Stage III and IV are subdivided</text>
+<text x="64" y="3170.16" font-size="16" fill="#5C77C4" font-weight="800">IIIA</text>
+<text x="64" y="3194.16" font-size="14.5" fill="#345963">adnexal involvement is separated from invasion of the uterine serosa</text>
+<line x1="64" y1="3219.16" x2="556" y2="3219.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="3249.16" font-size="16" fill="#5C77C4" font-weight="800">IIIB</text>
+<text x="64" y="3273.16" font-size="14.5" fill="#345963">vaginal or parametrial involvement is separated from pelvic</text>
+<text x="64" y="3294.16" font-size="14.5" fill="#345963">peritoneal metastasis</text>
+<line x1="64" y1="3319.16" x2="556" y2="3319.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="64" y="3349.16" font-size="16" fill="#5C77C4" font-weight="800">IIIC</text>
+<text x="64" y="3373.16" font-size="14.5" fill="#345963">subdivided by the size of nodal metastasis, following TNM8:</text>
+<text x="64" y="3394.16" font-size="14.5" fill="#345963">macrometastasis above 2 mm; micrometastasis 0.2 to 2 mm and/or</text>
+<text x="64" y="3415.16" font-size="14.5" fill="#345963">more than 200 cells; isolated tumour cells recorded as pN0(i+), of</text>
+<text x="64" y="3436.16" font-size="14.5" fill="#345963">which the source says the prognostic significance is unclear</text>
+<line x1="64" y1="3461.16" x2="556" y2="3461.16" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="40" y="3503.16" width="540" height="305" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2"/>
+<circle cx="84" cy="3533.16" r="15" fill="none" stroke="#B04A4A" stroke-width="2.6"/>
+<line x1="74.5" y1="3523.66" x2="93.5" y2="3542.66" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="93.5" y1="3523.66" x2="74.5" y2="3542.66" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<text x="110" y="3539.16" font-size="18" fill="#B04A4A" font-weight="800">One thing did not change: peritoneal cytology stays</text>
+<text x="110" y="3564.16" font-size="18" fill="#B04A4A" font-weight="800">out of the stage</text>
+<text x="66" y="3606.16" font-size="15" fill="#345963">FIGO 2023 groups positive washing cytology with intraluminal</text>
+<text x="66" y="3628.16" font-size="15" fill="#345963">tubal floating tumour fragments and calls it a controversial issue —</text>
+<text x="66" y="3650.16" font-size="15" fill="#345963">that is, it still does not enter the stage. The other half of the same</text>
+<text x="66" y="3672.16" font-size="15" fill="#345963">question belongs in the frame too: in a cohort of 720 women,</text>
+<text x="66" y="3694.16" font-size="15" fill="#345963">positive peritoneal cytology was associated with worse outcomes</text>
+<text x="66" y="3716.16" font-size="15" fill="#345963">on multivariable analysis, and the authors wrote plainly that</text>
+<text x="66" y="3738.16" font-size="15" fill="#345963">omitting peritoneal cytology from prognostic assessment may risk</text>
+<text x="66" y="3760.16" font-size="15" fill="#345963">undertreatment. Not entering the stage is not the same as carrying</text>
+<text x="66" y="3782.16" font-size="15" fill="#345963">no information.</text>
+<text x="40" y="3842.16" font-size="24" fill="#123641" font-weight="800" class="r">&quot;Substantial&quot; does not mean the same number</text>
+<text x="40" y="3874.16" font-size="24" fill="#123641" font-weight="800" class="r">in every document</text>
+<text x="40" y="3908.16" font-size="16" fill="#527078">The new system turned a variable with only moderate reading</text>
+<text x="40" y="3931.16" font-size="16" fill="#527078">agreement into a determinant of the stage.</text>
+<g filter="url(#sh)"><rect x="40" y="3962.16" width="540" height="466" rx="18" fill="#FFFFFF"/></g>
+<rect x="66" y="3996.16" width="488" height="52" rx="12" fill="#ECE8DE"/>
+<text x="84" y="4028.16" font-size="15.5" fill="#527078" font-weight="700">FIGO 2023</text>
+<text x="536" y="4030.16" font-size="19" fill="#96790F" font-weight="800" text-anchor="end">5 or more vessels</text>
+<rect x="66" y="4054.16" width="488" height="52" rx="12" fill="#ECE8DE"/>
+<text x="84" y="4086.16" font-size="15.5" fill="#527078" font-weight="700">NCCN</text>
+<text x="536" y="4088.16" font-size="19" fill="#5C77C4" font-weight="800" text-anchor="end">4 or more vessels</text>
+<rect x="66" y="4112.16" width="488" height="52" rx="12" fill="#ECE8DE"/>
+<text x="84" y="4144.16" font-size="15.5" fill="#527078" font-weight="700">ICCR 2022</text>
+<text x="536" y="4146.16" font-size="19" fill="#00806B" font-weight="800" text-anchor="end">3 or more vessels</text>
+<rect x="66" y="4170.16" width="488" height="52" rx="12" fill="#ECE8DE"/>
+<text x="84" y="4202.16" font-size="15.5" fill="#527078" font-weight="700">ISGyP 2019</text>
+<text x="536" y="4204.16" font-size="19" fill="#00806B" font-weight="800" text-anchor="end">3 or more vessels</text>
+<text x="66" y="4256.16" font-size="14.5" fill="#527078">Reading agreement: the intraclass correlation coefficient for</text>
+<text x="66" y="4277.16" font-size="14.5" fill="#527078">whether LVSI is present at all is 0.6, and for whether it is</text>
+<text x="66" y="4298.16" font-size="14.5" fill="#527078">substantial, 0.56. Both figures are quoted second-hand by that review</text>
+<text x="66" y="4319.16" font-size="14.5" fill="#527078">rather than generated by it. The FIGO 2025 report lists this as one of</text>
+<text x="66" y="4340.16" font-size="14.5" fill="#527078">the disadvantages of the new system, saying it incorporates</text>
+<text x="66" y="4361.16" font-size="14.5" fill="#527078">variables whose definitions are still evolving and which are subject</text>
+<text x="66" y="4382.16" font-size="14.5" fill="#527078">to considerable interobserver variability, and naming LVSI as the</text>
+<text x="66" y="4403.16" font-size="14.5" fill="#527078">example.</text>
+<text x="40" y="4462.16" font-size="24" fill="#123641" font-weight="800" class="r">How much the stage moves varies widely</text>
+<text x="40" y="4494.16" font-size="24" fill="#123641" font-weight="800" class="r">between cohorts</text>
+<text x="40" y="4528.16" font-size="16" fill="#527078">Rerunning old cohorts under the new system moves between a fifth</text>
+<text x="40" y="4551.16" font-size="16" fill="#527078">and more than half of them. Most of the movement is upward.</text>
+<g filter="url(#sh)"><rect x="40" y="4582.16" width="540" height="664" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="4636.16" font-size="14.5" fill="#527078" font-weight="600">Veiga 2026 | 18 centres, Spain | n=4,566</text>
+<rect x="66" y="4648.16" width="128.69" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="4665.16" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">19.9%</text>
+<text x="66" y="4697.16" font-size="14.5" fill="#527078" font-weight="600">Seo 2025 | single institution, Korea | n=2,969</text>
+<rect x="66" y="4709.16" width="130.63" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="4726.16" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">20.2%</text>
+<text x="66" y="4758.16" font-size="14.5" fill="#527078" font-weight="600">Sia 2026 | MSKCC | n=2,067 (upstaged; a further 4.8% downstaged)</text>
+<rect x="66" y="4770.16" width="168.13" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="4787.16" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">26.0%</text>
+<text x="66" y="4819.16" font-size="14.5" fill="#527078" font-weight="600">Zhao 2025 | China | n=720</text>
+<rect x="66" y="4831.16" width="177.19" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="4848.16" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">27.4%</text>
+<text x="66" y="4880.16" font-size="14.5" fill="#527078" font-weight="600">Schwameis 2023 | 3 centres, Austria and Italy | n=519</text>
+<rect x="66" y="4892.16" width="178.48" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="4909.16" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">27.6%</text>
+<text x="66" y="4941.16" font-size="14.5" fill="#527078" font-weight="600">Ozcelik 2026 | 2 centres, Turkey | n=291</text>
+<rect x="66" y="4953.16" width="206.93" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="4970.16" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">32.0%</text>
+<text x="66" y="5002.16" font-size="14.5" fill="#527078" font-weight="600">Manabe 2025 | 4 centres, Japan | n=1,207</text>
+<rect x="66" y="5014.16" width="234.74" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="5031.16" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">36.3%</text>
+<text x="66" y="5063.16" font-size="14.5" fill="#527078" font-weight="600">Chen 2026 | Shanghai | n=331</text>
+<rect x="66" y="5075.16" width="363.43" height="20" rx="5" fill="#5C77C4"/>
+<text x="554" y="5092.16" font-size="20" fill="#5C77C4" font-weight="800" text-anchor="end">56.2%</text>
+<line x1="66" y1="5106.16" x2="454" y2="5106.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="66" y1="5106.16" x2="66" y2="5111.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="5127.16" font-size="12.5" fill="#527078" text-anchor="middle">0%</text>
+<line x1="163" y1="5106.16" x2="163" y2="5111.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="163" y="5127.16" font-size="12.5" fill="#527078" text-anchor="middle">15%</text>
+<line x1="260" y1="5106.16" x2="260" y2="5111.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="260" y="5127.16" font-size="12.5" fill="#527078" text-anchor="middle">30%</text>
+<line x1="357" y1="5106.16" x2="357" y2="5111.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="357" y="5127.16" font-size="12.5" fill="#527078" text-anchor="middle">45%</text>
+<line x1="454" y1="5106.16" x2="454" y2="5111.16" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="454" y="5127.16" font-size="12.5" fill="#527078" text-anchor="middle">60%</text>
+<text x="66" y="5158.16" font-size="14.5" fill="#527078">Upstaging here means landing in a higher-numbered box once a</text>
+<text x="66" y="5179.16" font-size="14.5" fill="#527078">different description is applied; it does not mean the tumour has</text>
+<text x="66" y="5200.16" font-size="14.5" fill="#527078">grown. The cohorts, eras and availability of molecular testing all</text>
+<text x="66" y="5221.16" font-size="14.5" fill="#527078">differ, so these bars cannot stand in for one another.</text>
+<text x="40" y="5280.16" font-size="24" fill="#123641" font-weight="800" class="r">Both sides have to be said: why it was</text>
+<text x="40" y="5312.16" font-size="24" fill="#123641" font-weight="800" class="r">changed, and where its limits are</text>
+<rect x="40" y="5352.16" width="540" height="365" rx="16" fill="#FFFFFF" stroke="#00806B" stroke-width="2"/>
+<text x="64" y="5386.16" font-size="17.5" fill="#00806B" font-weight="800">It addresses a problem that genuinely exists</text>
+<circle cx="71" cy="5407.16" r="4.5" fill="#00806B"/>
+<text x="86" y="5412.16" font-size="14.5" fill="#345963">The old system put people with very different outlooks in one box.</text>
+<text x="86" y="5433.16" font-size="14.5" fill="#345963">Rerun across 129,146 patients in the US National Cancer</text>
+<text x="86" y="5454.16" font-size="14.5" fill="#345963">Database: 5-year overall survival for 2009 stage IIIA was 63.9%,</text>
+<text x="86" y="5475.16" font-size="14.5" fill="#345963">and splitting it under the 2023 system gives 88.0% for IA3, 62.4%</text>
+<text x="86" y="5496.16" font-size="14.5" fill="#345963">for IIIA1 and 55.7% for IIIA2.</text>
+<circle cx="71" cy="5520.16" r="4.5" fill="#00806B"/>
+<text x="86" y="5525.16" font-size="14.5" fill="#345963">A single-institution cohort of 2,067 points the same way: those</text>
+<text x="86" y="5546.16" font-size="14.5" fill="#345963">reassigned to the new IA3 had 5-year overall survival of 100%,</text>
+<text x="86" y="5567.16" font-size="14.5" fill="#345963">while under the 2009 system they were stage IIIA, a box with</text>
+<text x="86" y="5588.16" font-size="14.5" fill="#345963">70.3%.</text>
+<circle cx="71" cy="5612.16" r="4.5" fill="#00806B"/>
+<text x="86" y="5617.16" font-size="14.5" fill="#345963">It works in the other direction too: in the same cohort those</text>
+<text x="86" y="5638.16" font-size="14.5" fill="#345963">labelled IICm_p53abn had 5-year overall survival of 73%, while</text>
+<text x="86" y="5659.16" font-size="14.5" fill="#345963">under the 2009 system most of them were merely stage II, a box</text>
+<text x="86" y="5680.16" font-size="14.5" fill="#345963">with 86.8%.</text>
+<rect x="40" y="5731.16" width="540" height="457" rx="16" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<text x="64" y="5765.16" font-size="17.5" fill="#B04A4A" font-weight="800">And its limits are on the table</text>
+<circle cx="71" cy="5786.16" r="4.5" fill="#B04A4A"/>
+<text x="86" y="5791.16" font-size="14.5" fill="#345963">A Korean cohort of 472 women recruited as 2009 stage I to II: in</text>
+<text x="86" y="5812.16" font-size="14.5" fill="#345963">non-aggressive histological types the 2023 system stratified</text>
+<text x="86" y="5833.16" font-size="14.5" fill="#345963">better; but in the 84 women with aggressive histological types it</text>
+<text x="86" y="5854.16" font-size="14.5" fill="#345963">separated neither overall nor recurrence-free survival, while the</text>
+<text x="86" y="5875.16" font-size="14.5" fill="#345963">2009 system still stratified recurrence-free survival (p=0.017).</text>
+<circle cx="71" cy="5899.16" r="4.5" fill="#B04A4A"/>
+<text x="86" y="5904.16" font-size="14.5" fill="#345963">In a Turkish study of 291 women, once the pathological factors</text>
+<text x="86" y="5925.16" font-size="14.5" fill="#345963">that make up the stage were adjusted for, stage migration itself no</text>
+<text x="86" y="5946.16" font-size="14.5" fill="#345963">longer independently predicted survival.</text>
+<circle cx="71" cy="5970.16" r="4.5" fill="#B04A4A"/>
+<text x="86" y="5975.16" font-size="14.5" fill="#345963">The authors of the MSKCC dataset, the most striking of them,</text>
+<text x="86" y="5996.16" font-size="14.5" fill="#345963">wrote in their own paper that small patient numbers in each</text>
+<text x="86" y="6017.16" font-size="14.5" fill="#345963">substage and concerns about over-fitting limit the analysis.</text>
+<circle cx="71" cy="6041.16" r="4.5" fill="#B04A4A"/>
+<text x="86" y="6046.16" font-size="14.5" fill="#345963">A commentary by ten gynaecological pathologists in 2024 is titled</text>
+<text x="86" y="6067.16" font-size="14.5" fill="#345963">&quot;FIGO 2023 endometrial cancer staging: too much, too soon?&quot; and</text>
+<text x="86" y="6088.16" font-size="14.5" fill="#345963">argues the system should first be appraised at a multi-institutional</text>
+<text x="86" y="6109.16" font-size="14.5" fill="#345963">and global level with input from all relevant societies. FIGO</text>
+<text x="86" y="6130.16" font-size="14.5" fill="#345963">replied, in wording of its own: it &quot;has generated some</text>
+<text x="86" y="6151.16" font-size="14.5" fill="#345963">controversy&quot;.</text>
+<text x="40" y="6222.16" font-size="24" fill="#123641" font-weight="800" class="r">Who adopted it, and who kept the old one</text>
+<rect x="40" y="6262.16" width="540" height="602" rx="16" fill="#F7F1E4"/>
+<rect x="66" y="6292.16" width="488" height="98" rx="12" fill="#FFFFFF" stroke="#00806B" stroke-width="1.8"/>
+<rect x="82" y="6308.16" width="72.44" height="26" rx="13" fill="#00806B"/>
+<text x="93" y="6326.16" font-size="13" fill="#FFFFFF" font-weight="800">Adopted</text>
+<text x="82" y="6354.16" font-size="14.5" fill="#345963">The 2025 update of the ESGO / ESTRO / ESP guidelines</text>
+<text x="82" y="6375.16" font-size="14.5" fill="#345963">explicitly incorporates FIGO 2023.</text>
+<rect x="66" y="6400.16" width="488" height="140" rx="12" fill="#FFFFFF" stroke="#96790F" stroke-width="1.8"/>
+<rect x="82" y="6416.16" width="84.01" height="26" rx="13" fill="#96790F"/>
+<text x="93" y="6434.16" font-size="13" fill="#FFFFFF" font-weight="800">Kept 2009</text>
+<text x="82" y="6462.16" font-size="14.5" fill="#345963">The 2025 report by FIGO itself states that in the UK, the British</text>
+<text x="82" y="6483.16" font-size="14.5" fill="#345963">Gynaecological Cancer Society and the British Association of</text>
+<text x="82" y="6504.16" font-size="14.5" fill="#345963">Gynecological Pathologists have recommended that the 2009</text>
+<text x="82" y="6525.16" font-size="14.5" fill="#345963">staging system should continue to be used.</text>
+<rect x="66" y="6550.16" width="488" height="140" rx="12" fill="#FFFFFF" stroke="#7A6E58" stroke-width="1.8"/>
+<rect x="82" y="6566.16" width="80.5" height="26" rx="13" fill="#7A6E58"/>
+<text x="93" y="6584.16" font-size="13" fill="#FFFFFF" font-weight="800">Not found</text>
+<text x="82" y="6612.16" font-size="14.5" fill="#345963">Which version the cancer registry and individual hospitals in</text>
+<text x="82" y="6633.16" font-size="14.5" fill="#345963">Taiwan now use could not be found in any official or society</text>
+<text x="82" y="6654.16" font-size="14.5" fill="#345963">statement, so this figure does not say. Read the version printed</text>
+<text x="82" y="6675.16" font-size="14.5" fill="#345963">on your own pathology report.</text>
+<text x="66" y="6728.16" font-size="15" fill="#123641" font-weight="600">Do not convert your own report. A study from one Taiwanese</text>
+<text x="66" y="6750.16" font-size="15" fill="#123641" font-weight="600">medical centre measured the error directly: assigning a FIGO</text>
+<text x="66" y="6772.16" font-size="15" fill="#123641" font-weight="600">2023 stage by the conventional table look-up was correct only</text>
+<text x="66" y="6794.16" font-size="15" fill="#123641" font-weight="600">58.1% of the time; for obstetrician-gynaecologists using the same</text>
+<text x="66" y="6816.16" font-size="15" fill="#123641" font-weight="600">method it was 62.6%; in molecular-classification scenarios it fell to</text>
+<text x="66" y="6838.16" font-size="15" fill="#123641" font-weight="600">49.0%, and in IA3 scenarios it was 58.3%.</text>
+<rect x="40" y="6890.16" width="540" height="445" rx="16" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="6926.16" font-size="19" fill="#8F7418" font-weight="800">The randomised evidence for adjuvant treatment</text>
+<text x="66" y="6953.16" font-size="19" fill="#8F7418" font-weight="800">was recruited under the older staging systems</text>
+<text x="66" y="6986.16" font-size="15.5" fill="#345963" font-weight="600">PORTEC-1 recruited from 1990 to 1997, and its entry criteria</text>
+<text x="66" y="7009.16" font-size="15.5" fill="#345963" font-weight="600">are written in the language of FIGO 1988 (grade 1 with deep, 50%</text>
+<text x="66" y="7032.16" font-size="15.5" fill="#345963" font-weight="600">or more, myometrial invasion; grade 2 with any invasion; or</text>
+<text x="66" y="7055.16" font-size="15.5" fill="#345963" font-weight="600">grade 3 with superficial, under 50%, invasion). GOG-99 recruited</text>
+<text x="66" y="7078.16" font-size="15.5" fill="#345963" font-weight="600">FIGO stages IB, IC and II (occult), and those two substages exist</text>
+<text x="66" y="7101.16" font-size="15.5" fill="#345963" font-weight="600">only in the 1988 version. The most recent of them, PORTEC-3,</text>
+<text x="66" y="7124.16" font-size="15.5" fill="#345963" font-weight="600">recruited from 2006 to 2013 and its protocol reads &quot;FIGO 2009</text>
+<text x="66" y="7147.16" font-size="15.5" fill="#345963" font-weight="600">stage I&quot;. In other words: the randomised trials that decide</text>
+<text x="66" y="7170.16" font-size="15.5" fill="#345963" font-weight="600">whether radiotherapy is given and whether chemotherapy is</text>
+<text x="66" y="7193.16" font-size="15.5" fill="#345963" font-weight="600">added recruited patients described in the older systems.</text>
+<text x="66" y="7216.16" font-size="15.5" fill="#345963" font-weight="600">Whether any adjuvant trial has recruited under the 2023 version</text>
+<text x="66" y="7239.16" font-size="15.5" fill="#345963" font-weight="600">could not be established here; all that can be said is that the main</text>
+<text x="66" y="7262.16" font-size="15.5" fill="#345963" font-weight="600">trials found were not. FIGO 2023 is guarded about this in its own</text>
+<text x="66" y="7285.16" font-size="15.5" fill="#345963" font-weight="600">words — strategies to de-escalate or intensify post-operative</text>
+<text x="66" y="7308.16" font-size="15.5" fill="#345963" font-weight="600">treatment by molecular profile &quot;are being defined&quot;.</text>
+<rect x="40" y="7351.16" width="540" height="261" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="66" y="7387.16" font-size="19" fill="#B04A4A" font-weight="800">So the two sentences on this figure have to be read</text>
+<text x="66" y="7414.16" font-size="19" fill="#B04A4A" font-weight="800">together</text>
+<text x="66" y="7447.16" font-size="15.5" fill="#345963" font-weight="600">First: a change in the stage number does not by itself trigger a</text>
+<text x="66" y="7470.16" font-size="15.5" fill="#345963" font-weight="600">change in treatment; that decision goes back to the</text>
+<text x="66" y="7493.16" font-size="15.5" fill="#345963" font-weight="600">gynaecological oncology and radiation oncology clinic. Second:</text>
+<text x="66" y="7516.16" font-size="15.5" fill="#345963" font-weight="600">that is not the same as saying the new system is pointless — it</text>
+<text x="66" y="7539.16" font-size="15.5" fill="#345963" font-weight="600">addresses the genuine problem that outlooks inside one stage I</text>
+<text x="66" y="7562.16" font-size="15.5" fill="#345963" font-weight="600">differ enormously. Drop either sentence and this figure gets</text>
+<text x="66" y="7585.16" font-size="15.5" fill="#345963" font-weight="600">read the wrong way.</text>
+<text x="40" y="7638.16" font-size="15" fill="#527078">Schematic, redrawn from the FIGO 2023 staging paper (Berek 2023), the</text>
+<text x="40" y="7660.66" font-size="15" fill="#527078">FIGO 2025 report on cancer of the corpus uteri, McCluggage 2024,</text>
+<text x="40" y="7683.16" font-size="15" fill="#527078">Matias-Guiu 2024, ESGO / ESTRO / ESP 2025, Schwameis 2023, Matsuo</text>
+<text x="40" y="7705.66" font-size="15" fill="#527078">2024, Seo 2025, Veiga 2026, Sia 2026, Manabe 2025, Zhao 2025, Chen</text>
+<text x="40" y="7728.16" font-size="15" fill="#527078">2026, Ozcelik 2026, Lee 2025, Cheng 2025, PORTEC-1, PORTEC-3 and</text>
+<text x="40" y="7750.66" font-size="15" fill="#527078">GOG-99; the cohorts, designs and endpoints of the underlying studies</text>
+<text x="40" y="7773.16" font-size="15" fill="#527078">differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>
