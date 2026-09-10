@@ -1,0 +1,243 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="5027" viewBox="0 0 620 5027" role="img" aria-labelledby="t d">
+  <title id="t">Where the benefit of adding chemotherapy lands and what it costs: PORTEC-3 subgroups and the three directions in GOG-258</title>
+  <desc id="d">Schematic: where the benefit of adding chemotherapy lands and what it costs, with nothing on the figure that answers &quot;should I have chemotherapy&quot;. The first card is a PORTEC-3 subgroup forest plot headed &quot;the benefit is not shared out evenly&quot;. The trial enrolled 660 women at high risk with eligibility by FIGO 2009; one arm had pelvic radiotherapy 48.6 Gy and the other had chemotherapy added to the same radiotherapy, two doses of cisplatin during radiotherapy then four cycles of carboplatin plus paclitaxel, at a median follow-up of 10.1 years. Four rows are drawn on one log scale with ticks at 0.25, 0.5, 1 and 2, a black dashed line at 1, and a gold line at 0.73 marking the whole-trial row, which the other three rows are read against. First row, the whole trial at high risk, 660 women: 10-year overall survival 74.4% with chemoradiotherapy against 67.3% with radiotherapy alone, adjusted hazard ratio 0.73, 95% CI 0.54 to 0.97, p = 0.032. Second row, FIGO 2009 stage III, 295 women: 10-year overall survival 69.5% against 56.1%, adjusted hazard ratio 0.66, 95% CI 0.45 to 0.97, p = 0.033. Third row, serous, 105 women: 10-year overall survival 57.1% against 41.8%, adjusted hazard ratio 0.55, 95% CI 0.31 to 0.98, p = 0.044. Fourth row, FIGO 2009 stage I to II, for which the article gives no n and so the figure gives none either: 5-year overall survival 83.8% against 82.0%, hazard ratio 0.84, 95% CI 0.52 to 1.38, p = 0.50, an interval drawn plainly crossing 1 and labelled both &quot;95% CI crosses 1&quot; and &quot;a different endpoint&quot;. Beneath the card a line reads: the stage I to II row runs from 0.52 to 1.38 and crosses 1, so no benefit is visible in that group; it is also 5-year overall survival rather than the 10-year endpoint of the rows above, so the four rows can be read for direction on one ruler but cannot be added to or subtracted from one another. The second card is the price, the other row of numbers in the same trial, PORTEC-3 with 330 women in each arm; three pairs of bars share one 0 to 100 per cent scale, the upper bar of each pair being chemoradiotherapy and the lower radiotherapy alone. First pair, grade 3 or worse adverse events during treatment: 60% (198/330) against 12% (41/330), p less than 0.0001. Second pair, grade 2 or worse neuropathy at three years: 8% against 1%. Third pair, grade 2 or worse adverse events at five years: 38% against 23%, p = 0.002. Beneath the card: seven percentage points of 10-year overall survival is what that whole row of numbers buys; the figure above says the benefit is concentrated in particular groups, and this row is paid by everybody. The third card is GOG-258, asking what happens when radiotherapy is added on top of chemotherapy, where the three recurrence sites run opposite ways. It enrolled 813 women with 736 analysable, FIGO 2009 stage III or IVA; the primary endpoint was recurrence-free survival and it showed no difference, the proportion alive and free of recurrence at 60 months being 59% (53 to 65) with chemoradiotherapy against 58% (53 to 64) with chemotherapy alone, hazard ratio 0.90, 90% confidence interval 0.74 to 1.10. Below it three boxes each carry an arrow whose direction is the direction of that site. First box, vaginal recurrence, arrow pointing down for fewer in the arm that added radiotherapy: 2% with chemoradiotherapy against 7% with chemotherapy alone, hazard ratio 0.36 (0.16 to 0.82). Second box, pelvic and para-aortic nodal recurrence, arrow pointing down for fewer in the arm that added radiotherapy: 11% against 20%, hazard ratio 0.43 (0.28 to 0.66). Third box, distant recurrence, arrow pointing up for more in the arm that added radiotherapy: 27% against 21%, hazard ratio 1.36 (1.00 to 1.86), with the added label &quot;the lower bound sits right on 1.00&quot;. Beneath the card: grade 3 to 5 adverse events were 58% with chemoradiotherapy against 63% with chemotherapy alone; and the lower bound of the interval on the distant box sits right on 1.00 and is an observation on a secondary endpoint, so it cannot be read as &quot;radiotherapy does harm&quot;, while equally the first two boxes leave &quot;radiotherapy is useless&quot; with nowhere to stand. At the foot of the figure a gold-bordered panel states that this figure does not answer &quot;should I have chemotherapy&quot;: what it draws is where the benefit lands and what it costs, and adding chemotherapy or not depends on stage and which version, histology, molecular classification, whether the nodes were staged, and whether your heart, lungs, liver and kidneys can carry that 60% rate of grade 3 or worse adverse events. The proper place for the decision is the multidisciplinary team meeting, with gynaecological oncology, medical oncology and radiation oncology having all seen your material; and PORTEC-3 and GOG-258 ask questions that run in opposite directions, with different cohorts, designs and endpoints, so the two cards must not be compared directly.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="5027" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">WHERE THE BENEFIT LANDS, AND WHAT IT COSTS</text>
+<text x="40" y="118" font-size="40" fill="#123641" font-weight="800" class="r">Adding chemotherapy:</text>
+<text x="40" y="168.4" font-size="40" fill="#123641" font-weight="800" class="r">where the benefit lands,</text>
+<text x="40" y="218.8" font-size="40" fill="#123641" font-weight="800" class="r">what it costs</text>
+<text x="40" y="279.2" font-size="19" fill="#527078">This figure does not answer &quot;should I have</text>
+<text x="40" y="307.7" font-size="19" fill="#527078">chemotherapy&quot;. It draws two things only: which groups</text>
+<text x="40" y="336.2" font-size="19" fill="#527078">inside one trial the benefit lands in, and which row of</text>
+<text x="40" y="364.7" font-size="19" fill="#527078">numbers everybody pays.</text>
+<text x="40" y="397.2" font-size="19" fill="#527078">The two trials ask questions that run in opposite</text>
+<text x="40" y="425.7" font-size="19" fill="#527078">directions, and their cohorts, designs and endpoints differ,</text>
+<text x="40" y="454.2" font-size="19" fill="#527078">so the boxes must not be compared with one another.</text>
+<g filter="url(#sh)">
+<rect x="40" y="502.7" width="540" height="1682.02" rx="18" fill="#FFFFFF"/>
+<path d="M 40 520.7 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="64" y="547.7" font-size="21" fill="#123641" font-weight="800">PORTEC-3: the benefit is not shared out evenly</text>
+<text x="64" y="582.05" font-size="15.5" fill="#527078">660 women at high risk, eligibility by FIGO 2009. One arm had</text>
+<text x="64" y="605.3" font-size="15.5" fill="#527078">pelvic radiotherapy 48.6 Gy; the other had chemotherapy added</text>
+<text x="64" y="628.55" font-size="15.5" fill="#527078">to the same radiotherapy - two doses of cisplatin during</text>
+<text x="64" y="651.8" font-size="15.5" fill="#527078">radiotherapy, then four cycles of carboplatin plus paclitaxel.</text>
+<text x="64" y="675.05" font-size="15.5" fill="#527078">Median follow-up 10.1 years.</text>
+<text x="64" y="716.3" font-size="12.5" fill="#8F7418" font-weight="700">All four rows are drawn on one log scale</text>
+<text x="64" y="749.8" font-size="17.5" fill="#123641" font-weight="800">Whole trial (high risk)</text>
+<text x="64" y="776.3" font-size="14" fill="#527078" font-weight="700">660 women</text>
+<text x="64" y="797.9" font-size="14" fill="#527078">10-year overall survival</text>
+<text x="64" y="819.5" font-size="14" fill="#345963" font-weight="700">chemoradiotherapy 74.4%  against  radiotherapy alone 67.3%</text>
+<rect x="64" y="847.8" width="492" height="52" rx="12" fill="#ECE8DE"/>
+<line x1="72" y1="873.8" x2="548" y2="873.8" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="389.33" y1="847.8" x2="389.33" y2="899.8" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="317.29" y1="847.8" x2="317.29" y2="899.8" stroke="#C9A83E" stroke-width="1.8" stroke-linecap="butt" opacity="0.85"/>
+<line x1="248.28" y1="873.8" x2="382.36" y2="873.8" stroke="#96790F" stroke-width="5" stroke-linecap="round"/>
+<line x1="248.28" y1="864.8" x2="248.28" y2="882.8" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<line x1="382.36" y1="864.8" x2="382.36" y2="882.8" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<circle cx="317.29" cy="873.8" r="8" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="919.8" font-size="14" fill="#527078" font-weight="700">adjusted hazard ratio</text>
+<text x="64" y="943.4" font-size="17.5" fill="#96790F" font-weight="800">0.73 (0.54 to 0.97)</text>
+<text x="64" y="969.9" font-size="14" fill="#527078" font-weight="700">p = 0.032</text>
+<text x="64" y="1029" font-size="17.5" fill="#123641" font-weight="800">FIGO 2009 stage III</text>
+<text x="64" y="1055.5" font-size="14" fill="#527078" font-weight="700">295 women</text>
+<text x="64" y="1077.1" font-size="14" fill="#527078">10-year overall survival</text>
+<text x="64" y="1098.7" font-size="14" fill="#345963" font-weight="700">chemoradiotherapy 69.5%  against  radiotherapy alone 56.1%</text>
+<rect x="64" y="1127" width="492" height="52" rx="12" fill="#ECE8DE"/>
+<line x1="72" y1="1153" x2="548" y2="1153" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="389.33" y1="1127" x2="389.33" y2="1179" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="317.29" y1="1127" x2="317.29" y2="1179" stroke="#C9A83E" stroke-width="1.8" stroke-linecap="butt" opacity="0.85"/>
+<line x1="206.55" y1="1153" x2="382.36" y2="1153" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<line x1="206.55" y1="1144" x2="206.55" y2="1162" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="382.36" y1="1144" x2="382.36" y2="1162" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="294.22" cy="1153" r="8" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="1199" font-size="14" fill="#527078" font-weight="700">adjusted hazard ratio</text>
+<text x="64" y="1222.6" font-size="17.5" fill="#00806B" font-weight="800">0.66 (0.45 to 0.97)</text>
+<text x="64" y="1249.1" font-size="14" fill="#527078" font-weight="700">p = 0.033</text>
+<text x="64" y="1308.2" font-size="17.5" fill="#123641" font-weight="800">Serous</text>
+<text x="64" y="1334.7" font-size="14" fill="#527078" font-weight="700">105 women</text>
+<text x="64" y="1356.3" font-size="14" fill="#527078">10-year overall survival</text>
+<text x="64" y="1377.9" font-size="14" fill="#345963" font-weight="700">chemoradiotherapy 57.1%  against  radiotherapy alone 41.8%</text>
+<rect x="64" y="1406.2" width="492" height="52" rx="12" fill="#ECE8DE"/>
+<line x1="72" y1="1432.2" x2="548" y2="1432.2" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="389.33" y1="1406.2" x2="389.33" y2="1458.2" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="317.29" y1="1406.2" x2="317.29" y2="1458.2" stroke="#C9A83E" stroke-width="1.8" stroke-linecap="butt" opacity="0.85"/>
+<line x1="121.24" y1="1432.2" x2="384.71" y2="1432.2" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<line x1="121.24" y1="1423.2" x2="121.24" y2="1441.2" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="384.71" y1="1423.2" x2="384.71" y2="1441.2" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="252.48" cy="1432.2" r="8" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="1478.2" font-size="14" fill="#527078" font-weight="700">adjusted hazard ratio</text>
+<text x="64" y="1501.8" font-size="17.5" fill="#00806B" font-weight="800">0.55 (0.31 to 0.98)</text>
+<text x="64" y="1528.3" font-size="14" fill="#527078" font-weight="700">p = 0.044</text>
+<text x="64" y="1587.4" font-size="17.5" fill="#123641" font-weight="800">FIGO 2009 stage I to II</text>
+<text x="64" y="1613.9" font-size="14" fill="#527078" font-weight="700">the article gives no n for this group</text>
+<text x="64" y="1635.5" font-size="14" fill="#527078">5-year overall survival</text>
+<text x="64" y="1657.1" font-size="14" fill="#345963" font-weight="700">chemoradiotherapy 83.8%  against  radiotherapy alone 82.0%</text>
+<rect x="64" y="1685.4" width="492" height="52" rx="12" fill="#ECE8DE"/>
+<line x1="72" y1="1711.4" x2="548" y2="1711.4" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="389.33" y1="1685.4" x2="389.33" y2="1737.4" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="317.29" y1="1685.4" x2="317.29" y2="1737.4" stroke="#C9A83E" stroke-width="1.8" stroke-linecap="butt" opacity="0.85"/>
+<line x1="239.64" y1="1711.4" x2="463.06" y2="1711.4" stroke="#7A6E58" stroke-width="5" stroke-linecap="round"/>
+<line x1="239.64" y1="1702.4" x2="239.64" y2="1720.4" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<line x1="463.06" y1="1702.4" x2="463.06" y2="1720.4" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<circle cx="349.42" cy="1711.4" r="8" fill="#7A6E58" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="1757.4" font-size="14" fill="#527078" font-weight="700">hazard ratio</text>
+<text x="64" y="1781" font-size="17.5" fill="#7A6E58" font-weight="800">0.84 (0.52 to 1.38)</text>
+<text x="64" y="1807.5" font-size="14" fill="#527078" font-weight="700">p = 0.50</text>
+<rect x="64" y="1831.1" width="129.75" height="24" rx="12" fill="#F6E2E0"/>
+<text x="74" y="1847.96" font-size="13.5" fill="#B04A4A" font-weight="800">95% CI crosses 1</text>
+<rect x="64" y="1863.1" width="147.98" height="24" rx="12" fill="#ECE8DE"/>
+<text x="74" y="1879.96" font-size="13.5" fill="#7A6E58" font-weight="800">A different endpoint</text>
+<line x1="72" y1="1917.1" x2="548" y2="1917.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="72" y1="1917.1" x2="72" y2="1923.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="72" y="1939.1" font-size="12.5" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="230.67" y1="1917.1" x2="230.67" y2="1923.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="230.67" y="1939.1" font-size="12.5" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="389.33" y1="1917.1" x2="389.33" y2="1923.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="389.33" y="1939.1" font-size="12.5" fill="#527078" text-anchor="middle">1</text>
+<line x1="548" y1="1917.1" x2="548" y2="1923.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="548" y="1939.1" font-size="12.5" fill="#527078" text-anchor="middle">2</text>
+<text x="72" y="1959.1" font-size="12.5" fill="#527078">Hazard ratio (log scale; the black dashed line is 1)</text>
+<text x="72" y="1979.1" font-size="12.5" fill="#8F7418" font-weight="700">The gold line marks 0.73, the whole-trial row, which the other three rows are read against.</text>
+<rect x="64" y="2001.1" width="492" height="159.63" rx="14" fill="#F3E8CD"/>
+<text x="82" y="2036.6" font-size="15.5" fill="#8F7418" font-weight="700">The stage I to II row runs from 0.52 to 1.38 and crosses 1 -</text>
+<text x="82" y="2060.62" font-size="15.5" fill="#8F7418" font-weight="700">no benefit is visible in that group. It is also 5-year overall</text>
+<text x="82" y="2084.65" font-size="15.5" fill="#8F7418" font-weight="700">survival, not the 10-year endpoint of the three rows above,</text>
+<text x="82" y="2108.67" font-size="15.5" fill="#8F7418" font-weight="700">so the four rows can be read for direction on one ruler but</text>
+<text x="82" y="2132.7" font-size="15.5" fill="#8F7418" font-weight="700">cannot be added to or subtracted from one another.</text>
+<g filter="url(#sh)">
+<rect x="40" y="2214.72" width="540" height="771.7" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2232.72 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="64" y="2259.72" font-size="21" fill="#123641" font-weight="800">The price: the other row of numbers in the</text>
+<text x="64" y="2288.07" font-size="21" fill="#123641" font-weight="800">same trial (PORTEC-3, 330 women in each arm)</text>
+<text x="64" y="2332.42" font-size="12.5" fill="#8F7418" font-weight="700">All three pairs share one 0 to 100 per cent scale</text>
+<text x="64" y="2363.92" font-size="17" fill="#123641" font-weight="800">Grade 3 or worse adverse events during treatment</text>
+<text x="64" y="2407.72" font-size="14" fill="#527078" font-weight="700">chemoradiotherapy</text>
+<rect x="176" y="2389.72" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2389.72" width="165.6" height="26" rx="7" fill="#B04A4A"/>
+<text x="464" y="2410.28" font-size="21" fill="#B04A4A" font-weight="800">60%</text>
+<text x="464" y="2431.72" font-size="12.5" fill="#527078">(198/330)</text>
+<text x="64" y="2447.22" font-size="14" fill="#527078" font-weight="700">radiotherapy</text>
+<text x="64" y="2464.22" font-size="14" fill="#527078" font-weight="700">alone</text>
+<rect x="176" y="2437.72" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2437.72" width="33.12" height="26" rx="7" fill="#7A6E58"/>
+<text x="464" y="2458.28" font-size="21" fill="#7A6E58" font-weight="800">12%</text>
+<text x="464" y="2479.72" font-size="12.5" fill="#527078">(41/330)</text>
+<text x="464" y="2503.22" font-size="12.5" fill="#345963" font-weight="700">p less than 0.0001</text>
+<text x="64" y="2538.72" font-size="17" fill="#123641" font-weight="800">Grade 2 or worse neuropathy at three years</text>
+<text x="64" y="2582.52" font-size="14" fill="#527078" font-weight="700">chemoradiotherapy</text>
+<rect x="176" y="2564.52" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2564.52" width="22.08" height="26" rx="7" fill="#B04A4A"/>
+<text x="464" y="2585.08" font-size="21" fill="#B04A4A" font-weight="800">8%</text>
+<text x="64" y="2608.02" font-size="14" fill="#527078" font-weight="700">radiotherapy</text>
+<text x="64" y="2625.02" font-size="14" fill="#527078" font-weight="700">alone</text>
+<rect x="176" y="2598.52" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2598.52" width="4" height="26" rx="7" fill="#7A6E58"/>
+<text x="464" y="2619.08" font-size="21" fill="#7A6E58" font-weight="800">1%</text>
+<text x="64" y="2663.52" font-size="17" fill="#123641" font-weight="800">Grade 2 or worse adverse events at five years</text>
+<text x="64" y="2707.32" font-size="14" fill="#527078" font-weight="700">chemoradiotherapy</text>
+<rect x="176" y="2689.32" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2689.32" width="104.88" height="26" rx="7" fill="#B04A4A"/>
+<text x="464" y="2709.88" font-size="21" fill="#B04A4A" font-weight="800">38%</text>
+<text x="64" y="2732.82" font-size="14" fill="#527078" font-weight="700">radiotherapy</text>
+<text x="64" y="2749.82" font-size="14" fill="#527078" font-weight="700">alone</text>
+<rect x="176" y="2723.32" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2723.32" width="63.48" height="26" rx="7" fill="#7A6E58"/>
+<text x="464" y="2743.88" font-size="21" fill="#7A6E58" font-weight="800">23%</text>
+<text x="464" y="2772.82" font-size="12.5" fill="#345963" font-weight="700">p = 0.002</text>
+<line x1="176" y1="2784.82" x2="452" y2="2784.82" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="176" y1="2784.82" x2="176" y2="2790.82" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="176" y="2806.82" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="245" y1="2784.82" x2="245" y2="2790.82" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="245" y="2806.82" font-size="12.5" fill="#527078" text-anchor="middle">25</text>
+<line x1="314" y1="2784.82" x2="314" y2="2790.82" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="314" y="2806.82" font-size="12.5" fill="#527078" text-anchor="middle">50</text>
+<line x1="383" y1="2784.82" x2="383" y2="2790.82" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="383" y="2806.82" font-size="12.5" fill="#527078" text-anchor="middle">75</text>
+<line x1="452" y1="2784.82" x2="452" y2="2790.82" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="452" y="2806.82" font-size="12.5" fill="#527078" text-anchor="middle">100%</text>
+<rect x="64" y="2826.82" width="492" height="135.6" rx="14" fill="#F6E2E0"/>
+<text x="82" y="2862.32" font-size="15.5" fill="#B04A4A" font-weight="700">Seven percentage points of 10-year overall survival is what</text>
+<text x="82" y="2886.35" font-size="15.5" fill="#B04A4A" font-weight="700">that whole row of numbers buys. The figure above says the</text>
+<text x="82" y="2910.37" font-size="15.5" fill="#B04A4A" font-weight="700">benefit is concentrated in particular groups; this row is paid</text>
+<text x="82" y="2934.4" font-size="15.5" fill="#B04A4A" font-weight="700">by everybody.</text>
+<g filter="url(#sh)">
+<rect x="40" y="3016.42" width="540" height="1443.67" rx="18" fill="#FFFFFF"/>
+<path d="M 40 3034.42 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="64" y="3061.42" font-size="21" fill="#123641" font-weight="800">GOG-258: add radiotherapy on top of</text>
+<text x="64" y="3089.77" font-size="21" fill="#123641" font-weight="800">chemotherapy and the three recurrence sites</text>
+<text x="64" y="3118.12" font-size="21" fill="#123641" font-weight="800">run opposite ways</text>
+<text x="64" y="3152.47" font-size="15.5" fill="#527078">813 women enrolled, 736 analysable, FIGO 2009 stage III or IVA.</text>
+<text x="64" y="3175.72" font-size="15.5" fill="#527078">The primary endpoint was recurrence-free survival and it</text>
+<text x="64" y="3198.97" font-size="15.5" fill="#527078">showed no difference: the proportion alive and free of</text>
+<text x="64" y="3222.22" font-size="15.5" fill="#527078">recurrence at 60 months was 59% (53 to 65) with</text>
+<text x="64" y="3245.47" font-size="15.5" fill="#527078">chemoradiotherapy against 58% (53 to 64) with chemotherapy</text>
+<text x="64" y="3268.72" font-size="15.5" fill="#527078">alone, hazard ratio 0.90 (90% confidence interval 0.74 to 1.10).</text>
+<rect x="64" y="3307.97" width="492" height="265.4" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<text x="84" y="3344.97" font-size="17" fill="#123641" font-weight="800">Vaginal recurrence</text>
+<rect x="84" y="3376.77" width="70" height="108" rx="14" fill="#D8EDE7"/>
+<line x1="119" y1="3392.77" x2="119" y2="3450.53" stroke="#00806B" stroke-width="8" stroke-linecap="round"/>
+<polygon points="119,3470.77 110.03,3450.69 127.97,3450.69" fill="#00806B"/>
+<text x="172" y="3394.77" font-size="14" fill="#527078" font-weight="700">chemoradiotherapy</text>
+<text x="172" y="3423.77" font-size="27" fill="#00806B" font-weight="800">2%</text>
+<text x="354" y="3394.77" font-size="14" fill="#527078" font-weight="700">chemotherapy alone</text>
+<text x="354" y="3423.77" font-size="27" fill="#7A6E58" font-weight="800">7%</text>
+<text x="84" y="3510.77" font-size="14" fill="#00806B" font-weight="800">fewer in the arm that added radiotherapy</text>
+<text x="84" y="3535.07" font-size="14" fill="#345963" font-weight="700">hazard ratio 0.36 (0.16 to 0.82)</text>
+<rect x="64" y="3589.38" width="492" height="265.4" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<text x="84" y="3626.38" font-size="17" fill="#123641" font-weight="800">Pelvic and para-aortic nodal recurrence</text>
+<rect x="84" y="3658.18" width="70" height="108" rx="14" fill="#D8EDE7"/>
+<line x1="119" y1="3674.18" x2="119" y2="3731.94" stroke="#00806B" stroke-width="8" stroke-linecap="round"/>
+<polygon points="119,3752.18 110.03,3732.09 127.97,3732.09" fill="#00806B"/>
+<text x="172" y="3676.18" font-size="14" fill="#527078" font-weight="700">chemoradiotherapy</text>
+<text x="172" y="3705.18" font-size="27" fill="#00806B" font-weight="800">11%</text>
+<text x="354" y="3676.18" font-size="14" fill="#527078" font-weight="700">chemotherapy alone</text>
+<text x="354" y="3705.18" font-size="27" fill="#7A6E58" font-weight="800">20%</text>
+<text x="84" y="3792.18" font-size="14" fill="#00806B" font-weight="800">fewer in the arm that added radiotherapy</text>
+<text x="84" y="3816.48" font-size="14" fill="#345963" font-weight="700">hazard ratio 0.43 (0.28 to 0.66)</text>
+<rect x="64" y="3870.78" width="492" height="321.7" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<text x="84" y="3907.78" font-size="17" fill="#123641" font-weight="800">Distant recurrence</text>
+<rect x="84" y="3939.58" width="70" height="108" rx="14" fill="#F6E2E0"/>
+<line x1="119" y1="4031.58" x2="119" y2="3973.82" stroke="#B04A4A" stroke-width="8" stroke-linecap="round"/>
+<polygon points="119,3953.58 127.97,3973.66 110.03,3973.66" fill="#B04A4A"/>
+<text x="172" y="3957.58" font-size="14" fill="#527078" font-weight="700">chemoradiotherapy</text>
+<text x="172" y="3986.58" font-size="27" fill="#B04A4A" font-weight="800">27%</text>
+<text x="354" y="3957.58" font-size="14" fill="#527078" font-weight="700">chemotherapy alone</text>
+<text x="354" y="3986.58" font-size="27" fill="#7A6E58" font-weight="800">21%</text>
+<text x="84" y="4073.58" font-size="14" fill="#B04A4A" font-weight="800">more in the arm that added radiotherapy</text>
+<text x="84" y="4097.88" font-size="14" fill="#345963" font-weight="700">hazard ratio 1.36 (1.00 to 1.86)</text>
+<rect x="84" y="4124.18" width="452" height="50.3" rx="12" fill="#F6E2E0"/>
+<text x="96" y="4150.18" font-size="14" fill="#B04A4A" font-weight="800">the lower bound sits right on 1.00</text>
+<text x="64" y="4222.48" font-size="14" fill="#345963" font-weight="700">Grade 3 to 5 adverse events were 58% with chemoradiotherapy against</text>
+<text x="64" y="4243.48" font-size="14" fill="#345963" font-weight="700">63% with chemotherapy alone.</text>
+<rect x="64" y="4276.48" width="492" height="159.62" rx="14" fill="#F3E8CD"/>
+<text x="82" y="4311.98" font-size="15.5" fill="#8F7418" font-weight="700">The lower bound of the interval on the distant box sits right</text>
+<text x="82" y="4336" font-size="15.5" fill="#8F7418" font-weight="700">on 1.00, and it is an observation on a secondary endpoint, so</text>
+<text x="82" y="4360.03" font-size="15.5" fill="#8F7418" font-weight="700">it cannot be read as &quot;radiotherapy does harm&quot;. Equally, the</text>
+<text x="82" y="4384.05" font-size="15.5" fill="#8F7418" font-weight="700">first two boxes leave &quot;radiotherapy is useless&quot; with</text>
+<text x="82" y="4408.07" font-size="15.5" fill="#8F7418" font-weight="700">nowhere to stand.</text>
+<rect x="40" y="4490.1" width="540" height="386.67" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="4534.1" font-size="18" fill="#8F7418" font-weight="800">This figure does not answer &quot;should I have</text>
+<text x="66" y="4559.3" font-size="18" fill="#8F7418" font-weight="800">chemotherapy&quot;</text>
+<text x="66" y="4590.5" font-size="15.5" fill="#345963">What it draws is where the benefit lands and what it costs.</text>
+<text x="66" y="4614.52" font-size="15.5" fill="#345963">Adding chemotherapy or not depends on stage (and which</text>
+<text x="66" y="4638.55" font-size="15.5" fill="#345963">version), histology, molecular classification, whether the nodes</text>
+<text x="66" y="4662.57" font-size="15.5" fill="#345963">were staged, and whether your heart, lungs, liver and kidneys</text>
+<text x="66" y="4686.6" font-size="15.5" fill="#345963">can carry that 60% rate of grade 3 or worse adverse events.</text>
+<text x="66" y="4710.62" font-size="15.5" fill="#345963">The proper place for the decision is the multidisciplinary team</text>
+<text x="66" y="4734.65" font-size="15.5" fill="#345963">meeting, with gynaecological oncology, medical oncology and</text>
+<text x="66" y="4758.67" font-size="15.5" fill="#345963">radiation oncology having all seen your material. PORTEC-3 and</text>
+<text x="66" y="4782.7" font-size="15.5" fill="#345963">GOG-258 ask questions that run in opposite directions, with</text>
+<text x="66" y="4806.72" font-size="15.5" fill="#345963">different cohorts, designs and endpoints, so the two cards must</text>
+<text x="66" y="4830.75" font-size="15.5" fill="#345963">not be compared directly.</text>
+<text x="40" y="4900.77" font-size="15" fill="#527078">Schematic, redrawn from PORTEC-3 (Post 2025 10-year results; de Boer</text>
+<text x="40" y="4923.27" font-size="15" fill="#527078">2018 5-year final results; de Boer 2019 patterns of recurrence and</text>
+<text x="40" y="4945.77" font-size="15" fill="#527078">post-hoc survival analysis) and GOG-258 (Matei 2019); the cohorts, designs</text>
+<text x="40" y="4968.27" font-size="15" fill="#527078">and endpoints of the underlying studies differ, so the data points must not</text>
+<text x="40" y="4990.77" font-size="15" fill="#527078">be compared directly.</text>
+  </g>
+</svg>

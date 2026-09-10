@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="4445" viewBox="0 0 620 4445" role="img" aria-labelledby="t d">
+  <title id="t">加化療的益處落在哪裡、代價是什麼：PORTEC-3 的亞組與 GOG-258 的三個方向</title>
+  <desc id="d">示意圖：加化療的益處落在哪裡、代價是什麼，圖上沒有回答「要不要加化療」。第一張卡片是 PORTEC-3 的亞組森林圖，標題寫著益處不是平均分給每一個人。這個試驗收了 660 人，都是高風險，收案條件用 FIGO 2009 版；一組骨盆腔放療 48.6 Gy，另一組在同一個放療上加化療，放療期間兩次 cisplatin，之後四個療程的 carboplatin 加 paclitaxel，追蹤中位 10.1 年。四列畫在同一把對數尺上，尺上有 0.25、0.5、1、2 四個刻度，黑色虛線標在 1，另有一條金色細線標在 0.73，也就是全體那一列，四列都以它當基準線。第一列是全體（高風險），660 人，10 年整體存活化放療 74.4% 對單純放療 67.3%，校正後風險比 0.73，95% 信賴區間 0.54 到 0.97，p 等於 0.032。第二列是第 3 期，295 人，10 年整體存活 69.5% 對 56.1%，校正後風險比 0.66，95% 信賴區間 0.45 到 0.97，p 等於 0.033。第三列是漿液性，105 人，10 年整體存活 57.1% 對 41.8%，校正後風險比 0.55，95% 信賴區間 0.31 到 0.98，p 等於 0.044。第四列是第 1 到 2 期，正文沒有寫出這一群的人數，所以圖上也不寫；5 年整體存活 83.8% 對 82.0%，風險比 0.84，95% 信賴區間 0.52 到 1.38，p 等於 0.50，這一列的信賴區間在圖上明顯橫跨 1，並標了「信賴區間橫跨 1」與「終點與上面三列不同」兩個標籤。卡片下方一段字寫著：第 1 到 2 期那一列的信賴區間從 0.52 拉到 1.38，橫跨 1，這一群看不出益處；而且它是 5 年整體存活，和上面三列的 10 年不是同一個終點，所以四列可以放在同一把尺上看方向，不能拿來互相加減。第二張卡片是代價，也就是同一個試驗裡的另一排數字，PORTEC-3 兩組各 330 人，三組橫條共用同一把 0 到 100% 的尺，每組上面一條是化放療、下面一條是單純放療。第一組是治療期間第 3 級以上不良事件：化放療 60%（198／330），單純放療 12%（41／330），p 小於 0.0001。第二組是 3 年時第 2 級以上神經病變：8% 對 1%。第三組是 5 年時第 2 級以上不良事件：38% 對 23%，p 等於 0.002。卡片下方寫著：七個百分點的 10 年整體存活，換的是這一整排數字；上面那張圖說益處集中在特定的幾群人身上，這一排數字則是全體都要付的。第三張卡片是 GOG-258，問的是在化療上面加放療，三個復發部位的方向相反。這個試驗 813 人收案、736 人可分析，收的是 FIGO 2009 版第 3 或 IVA 期；主要終點是無復發存活，結果沒有差別：60 個月時仍存活且無復發的比例，化放療 59%（53 到 65）對單純化療 58%（53 到 64），風險比 0.90，90% 信賴區間 0.74 到 1.10。底下三格各畫一支箭頭，箭頭方向就是該部位的方向。第一格是陰道復發，箭頭朝下，代表加放療的那一組比較少：化放療 2% 對單純化療 7%，風險比 0.36（0.16 到 0.82）。第二格是骨盆腔與主動脈旁淋巴結復發，箭頭朝下，加放療的那一組比較少：化放療 11% 對單純化療 20%，風險比 0.43（0.28 到 0.66）。第三格是遠端復發，箭頭朝上，加放療的那一組比較多：化放療 27% 對單純化療 21%，風險比 1.36（1.00 到 1.86），這一格另標了「信賴區間下界剛好貼在 1.00」。卡片下方寫著第 3 到 5 級不良事件是化放療 58% 對單純化療 63%，以及：遠端那一格的區間下界剛好貼在 1.00，而且是次要終點的觀察，所以它不能被讀成「放療有害」；同樣地，前兩格也讓「放療沒有用」這個結論站不住。圖的最下面是一個金框方塊：這張圖沒有回答「要不要加化療」。它畫的是益處落在哪裡、代價是什麼。加不加化療取決於期別（哪一版）、組織型、分子分型、有沒有做淋巴結分期，還有心肺肝腎功能撐不撐得住那 60% 的第 3 級以上不良事件。這個決定的正當位置是多專科團隊會議，加上婦癌科、腫瘤內科與放射腫瘤科都看過你的資料。PORTEC-3 與 GOG-258 問的是相反方向的題目，族群、設計與終點都不一樣，兩張卡片之間不可以直接比較。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="4445" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">WHERE THE BENEFIT LANDS, AND WHAT IT COSTS</text>
+<text x="40" y="118" font-size="40" fill="#123641" font-weight="800" class="r">加化療，益處落在哪裡，代價</text>
+<text x="40" y="168.4" font-size="40" fill="#123641" font-weight="800" class="r">是什麼</text>
+<text x="40" y="228.8" font-size="19" fill="#527078">這張圖不回答「要不要加化療」。它只畫兩件事：同一個試驗裡</text>
+<text x="40" y="257.3" font-size="19" fill="#527078">益處落在哪幾群人身上，以及全體要付的代價是哪一排數字。</text>
+<text x="40" y="289.8" font-size="19" fill="#527078">兩個試驗問的是相反方向的題目，族群、設計與終點都不一樣，</text>
+<text x="40" y="318.3" font-size="19" fill="#527078">格與格之間不可以直接比較。</text>
+<g filter="url(#sh)">
+<rect x="40" y="366.8" width="540" height="1611.5" rx="18" fill="#FFFFFF"/>
+<path d="M 40 384.8 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="64" y="411.8" font-size="21" fill="#123641" font-weight="800">PORTEC-3：益處不是平均分給每一個人</text>
+<text x="64" y="446.15" font-size="15.5" fill="#527078">660 人，高風險，收案條件用 FIGO 2009 版。一組骨盆腔放療 48.6 Gy，</text>
+<text x="64" y="469.4" font-size="15.5" fill="#527078">另一組在同一個放療上加化療：放療期間兩次 cisplatin，之後四個療程</text>
+<text x="64" y="492.65" font-size="15.5" fill="#527078">的 carboplatin 加 paclitaxel。追蹤中位 10.1 年。</text>
+<text x="64" y="533.9" font-size="12.5" fill="#8F7418" font-weight="700">四列畫在同一把對數尺上</text>
+<text x="64" y="567.4" font-size="17.5" fill="#123641" font-weight="800">全體（高風險）</text>
+<text x="64" y="593.9" font-size="14" fill="#527078" font-weight="700">660 人</text>
+<text x="64" y="615.5" font-size="14" fill="#527078">10 年整體存活</text>
+<text x="64" y="637.1" font-size="14" fill="#345963" font-weight="700">化放療 74.4%　對　單純放療 67.3%</text>
+<rect x="64" y="665.4" width="492" height="52" rx="12" fill="#ECE8DE"/>
+<line x1="72" y1="691.4" x2="548" y2="691.4" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="389.33" y1="665.4" x2="389.33" y2="717.4" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="317.29" y1="665.4" x2="317.29" y2="717.4" stroke="#C9A83E" stroke-width="1.8" stroke-linecap="butt" opacity="0.85"/>
+<line x1="248.28" y1="691.4" x2="382.36" y2="691.4" stroke="#96790F" stroke-width="5" stroke-linecap="round"/>
+<line x1="248.28" y1="682.4" x2="248.28" y2="700.4" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<line x1="382.36" y1="682.4" x2="382.36" y2="700.4" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<circle cx="317.29" cy="691.4" r="8" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="737.4" font-size="14" fill="#527078" font-weight="700">校正後風險比</text>
+<text x="64" y="761" font-size="17.5" fill="#96790F" font-weight="800">0.73（0.54 到 0.97）</text>
+<text x="64" y="787.5" font-size="14" fill="#527078" font-weight="700">p＝0.032</text>
+<text x="64" y="846.6" font-size="17.5" fill="#123641" font-weight="800">第 3 期</text>
+<text x="64" y="873.1" font-size="14" fill="#527078" font-weight="700">295 人</text>
+<text x="64" y="894.7" font-size="14" fill="#527078">10 年整體存活</text>
+<text x="64" y="916.3" font-size="14" fill="#345963" font-weight="700">化放療 69.5%　對　單純放療 56.1%</text>
+<rect x="64" y="944.6" width="492" height="52" rx="12" fill="#ECE8DE"/>
+<line x1="72" y1="970.6" x2="548" y2="970.6" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="389.33" y1="944.6" x2="389.33" y2="996.6" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="317.29" y1="944.6" x2="317.29" y2="996.6" stroke="#C9A83E" stroke-width="1.8" stroke-linecap="butt" opacity="0.85"/>
+<line x1="206.55" y1="970.6" x2="382.36" y2="970.6" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<line x1="206.55" y1="961.6" x2="206.55" y2="979.6" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="382.36" y1="961.6" x2="382.36" y2="979.6" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="294.22" cy="970.6" r="8" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="1016.6" font-size="14" fill="#527078" font-weight="700">校正後風險比</text>
+<text x="64" y="1040.2" font-size="17.5" fill="#00806B" font-weight="800">0.66（0.45 到 0.97）</text>
+<text x="64" y="1066.7" font-size="14" fill="#527078" font-weight="700">p＝0.033</text>
+<text x="64" y="1125.8" font-size="17.5" fill="#123641" font-weight="800">漿液性</text>
+<text x="64" y="1152.3" font-size="14" fill="#527078" font-weight="700">105 人</text>
+<text x="64" y="1173.9" font-size="14" fill="#527078">10 年整體存活</text>
+<text x="64" y="1195.5" font-size="14" fill="#345963" font-weight="700">化放療 57.1%　對　單純放療 41.8%</text>
+<rect x="64" y="1223.8" width="492" height="52" rx="12" fill="#ECE8DE"/>
+<line x1="72" y1="1249.8" x2="548" y2="1249.8" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="389.33" y1="1223.8" x2="389.33" y2="1275.8" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="317.29" y1="1223.8" x2="317.29" y2="1275.8" stroke="#C9A83E" stroke-width="1.8" stroke-linecap="butt" opacity="0.85"/>
+<line x1="121.24" y1="1249.8" x2="384.71" y2="1249.8" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<line x1="121.24" y1="1240.8" x2="121.24" y2="1258.8" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="384.71" y1="1240.8" x2="384.71" y2="1258.8" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="252.48" cy="1249.8" r="8" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="1295.8" font-size="14" fill="#527078" font-weight="700">校正後風險比</text>
+<text x="64" y="1319.4" font-size="17.5" fill="#00806B" font-weight="800">0.55（0.31 到 0.98）</text>
+<text x="64" y="1345.9" font-size="14" fill="#527078" font-weight="700">p＝0.044</text>
+<text x="64" y="1405" font-size="17.5" fill="#123641" font-weight="800">第 1 到 2 期</text>
+<text x="64" y="1431.5" font-size="14" fill="#527078" font-weight="700">正文沒有寫出這一群的人數</text>
+<text x="64" y="1453.1" font-size="14" fill="#527078">5 年整體存活</text>
+<text x="64" y="1474.7" font-size="14" fill="#345963" font-weight="700">化放療 83.8%　對　單純放療 82.0%</text>
+<rect x="64" y="1503" width="492" height="52" rx="12" fill="#ECE8DE"/>
+<line x1="72" y1="1529" x2="548" y2="1529" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="389.33" y1="1503" x2="389.33" y2="1555" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="317.29" y1="1503" x2="317.29" y2="1555" stroke="#C9A83E" stroke-width="1.8" stroke-linecap="butt" opacity="0.85"/>
+<line x1="239.64" y1="1529" x2="463.06" y2="1529" stroke="#7A6E58" stroke-width="5" stroke-linecap="round"/>
+<line x1="239.64" y1="1520" x2="239.64" y2="1538" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<line x1="463.06" y1="1520" x2="463.06" y2="1538" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<circle cx="349.42" cy="1529" r="8" fill="#7A6E58" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="1575" font-size="14" fill="#527078" font-weight="700">風險比</text>
+<text x="64" y="1598.6" font-size="17.5" fill="#7A6E58" font-weight="800">0.84（0.52 到 1.38）</text>
+<text x="64" y="1625.1" font-size="14" fill="#527078" font-weight="700">p＝0.50</text>
+<rect x="64" y="1648.7" width="112.61" height="24" rx="12" fill="#F6E2E0"/>
+<text x="74" y="1665.56" font-size="13.5" fill="#B04A4A" font-weight="800">信賴區間橫跨 1</text>
+<rect x="64" y="1680.7" width="141.5" height="24" rx="12" fill="#ECE8DE"/>
+<text x="74" y="1697.56" font-size="13.5" fill="#7A6E58" font-weight="800">終點與上面三列不同</text>
+<line x1="72" y1="1734.7" x2="548" y2="1734.7" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="72" y1="1734.7" x2="72" y2="1740.7" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="72" y="1756.7" font-size="12.5" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="230.67" y1="1734.7" x2="230.67" y2="1740.7" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="230.67" y="1756.7" font-size="12.5" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="389.33" y1="1734.7" x2="389.33" y2="1740.7" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="389.33" y="1756.7" font-size="12.5" fill="#527078" text-anchor="middle">1</text>
+<line x1="548" y1="1734.7" x2="548" y2="1740.7" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="548" y="1756.7" font-size="12.5" fill="#527078" text-anchor="middle">2</text>
+<text x="72" y="1776.7" font-size="12.5" fill="#527078">風險比（對數尺，黑色虛線是 1）</text>
+<text x="72" y="1796.7" font-size="12.5" fill="#8F7418" font-weight="700">金色細線＝全體那一列的 0.73，四列都以它當基準線。</text>
+<rect x="64" y="1818.7" width="492" height="135.6" rx="14" fill="#F3E8CD"/>
+<text x="82" y="1854.2" font-size="15.5" fill="#8F7418" font-weight="700">第 1 到 2 期那一列的信賴區間從 0.52 拉到 1.38，橫跨 1——這一群</text>
+<text x="82" y="1878.22" font-size="15.5" fill="#8F7418" font-weight="700">看不出益處。而且它是 5 年整體存活，和上面三列的 10 年不是同</text>
+<text x="82" y="1902.25" font-size="15.5" fill="#8F7418" font-weight="700">一個終點，所以四列可以放在同一把尺上看方向，不能拿來互相加</text>
+<text x="82" y="1926.27" font-size="15.5" fill="#8F7418" font-weight="700">減。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2008.3" width="540" height="707.15" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2026.3 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="64" y="2053.3" font-size="21" fill="#123641" font-weight="800">代價：同一個試驗裡的另一排數字（PORTEC-3，兩</text>
+<text x="64" y="2081.65" font-size="21" fill="#123641" font-weight="800">組各 330 人）</text>
+<text x="64" y="2126" font-size="12.5" fill="#8F7418" font-weight="700">三組共用同一把 0 到 100% 的尺</text>
+<text x="64" y="2157.5" font-size="17" fill="#123641" font-weight="800">治療期間第 3 級以上不良事件</text>
+<text x="64" y="2201.3" font-size="14" fill="#527078" font-weight="700">化放療</text>
+<rect x="176" y="2183.3" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2183.3" width="165.6" height="26" rx="7" fill="#B04A4A"/>
+<text x="464" y="2203.86" font-size="21" fill="#B04A4A" font-weight="800">60%</text>
+<text x="464" y="2225.3" font-size="12.5" fill="#527078">（198／330）</text>
+<text x="64" y="2249.3" font-size="14" fill="#527078" font-weight="700">單純放療</text>
+<rect x="176" y="2231.3" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2231.3" width="33.12" height="26" rx="7" fill="#7A6E58"/>
+<text x="464" y="2251.86" font-size="21" fill="#7A6E58" font-weight="800">12%</text>
+<text x="464" y="2273.3" font-size="12.5" fill="#527078">（41／330）</text>
+<text x="464" y="2291.3" font-size="12.5" fill="#345963" font-weight="700">p 小於 0.0001</text>
+<text x="64" y="2326.8" font-size="17" fill="#123641" font-weight="800">3 年時第 2 級以上神經病變</text>
+<text x="64" y="2370.6" font-size="14" fill="#527078" font-weight="700">化放療</text>
+<rect x="176" y="2352.6" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2352.6" width="22.08" height="26" rx="7" fill="#B04A4A"/>
+<text x="464" y="2373.16" font-size="21" fill="#B04A4A" font-weight="800">8%</text>
+<text x="64" y="2404.6" font-size="14" fill="#527078" font-weight="700">單純放療</text>
+<rect x="176" y="2386.6" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2386.6" width="4" height="26" rx="7" fill="#7A6E58"/>
+<text x="464" y="2407.16" font-size="21" fill="#7A6E58" font-weight="800">1%</text>
+<text x="64" y="2446.1" font-size="17" fill="#123641" font-weight="800">5 年時第 2 級以上不良事件</text>
+<text x="64" y="2489.9" font-size="14" fill="#527078" font-weight="700">化放療</text>
+<rect x="176" y="2471.9" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2471.9" width="104.88" height="26" rx="7" fill="#B04A4A"/>
+<text x="464" y="2492.46" font-size="21" fill="#B04A4A" font-weight="800">38%</text>
+<text x="64" y="2523.9" font-size="14" fill="#527078" font-weight="700">單純放療</text>
+<rect x="176" y="2505.9" width="276" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="176" y="2505.9" width="63.48" height="26" rx="7" fill="#7A6E58"/>
+<text x="464" y="2526.46" font-size="21" fill="#7A6E58" font-weight="800">23%</text>
+<text x="464" y="2549.9" font-size="12.5" fill="#345963" font-weight="700">p＝0.002</text>
+<line x1="176" y1="2561.9" x2="452" y2="2561.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="176" y1="2561.9" x2="176" y2="2567.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="176" y="2583.9" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="245" y1="2561.9" x2="245" y2="2567.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="245" y="2583.9" font-size="12.5" fill="#527078" text-anchor="middle">25</text>
+<line x1="314" y1="2561.9" x2="314" y2="2567.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="314" y="2583.9" font-size="12.5" fill="#527078" text-anchor="middle">50</text>
+<line x1="383" y1="2561.9" x2="383" y2="2567.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="383" y="2583.9" font-size="12.5" fill="#527078" text-anchor="middle">75</text>
+<line x1="452" y1="2561.9" x2="452" y2="2567.9" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="452" y="2583.9" font-size="12.5" fill="#527078" text-anchor="middle">100%</text>
+<rect x="64" y="2603.9" width="492" height="87.55" rx="14" fill="#F6E2E0"/>
+<text x="82" y="2639.4" font-size="15.5" fill="#B04A4A" font-weight="700">七個百分點的 10 年整體存活，換的是這一整排數字。上面那張圖</text>
+<text x="82" y="2663.42" font-size="15.5" fill="#B04A4A" font-weight="700">說益處集中在特定的幾群人身上，這一排數字則是全體都要付的。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2745.45" width="540" height="1299.78" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2763.45 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="64" y="2790.45" font-size="21" fill="#123641" font-weight="800">GOG-258：在化療上面加放療，三個復發部位的方向</text>
+<text x="64" y="2818.8" font-size="21" fill="#123641" font-weight="800">相反</text>
+<text x="64" y="2853.15" font-size="15.5" fill="#527078">813 人收案、736 人可分析，FIGO 2009 版第 3 或 IVA 期。主要終點是</text>
+<text x="64" y="2876.4" font-size="15.5" fill="#527078">無復發存活，結果沒有差別：60 個月時仍存活且無復發的比例，化放療</text>
+<text x="64" y="2899.65" font-size="15.5" fill="#527078">59%（53 到 65）對單純化療 58%（53 到 64），風險比 0.90（90% 信</text>
+<text x="64" y="2922.9" font-size="15.5" fill="#527078">賴區間 0.74 到 1.10）。</text>
+<rect x="64" y="2962.15" width="492" height="265.4" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<text x="84" y="2999.15" font-size="17" fill="#123641" font-weight="800">陰道復發</text>
+<rect x="84" y="3030.95" width="70" height="108" rx="14" fill="#D8EDE7"/>
+<line x1="119" y1="3046.95" x2="119" y2="3104.71" stroke="#00806B" stroke-width="8" stroke-linecap="round"/>
+<polygon points="119,3124.95 110.03,3104.86 127.97,3104.86" fill="#00806B"/>
+<text x="172" y="3048.95" font-size="14" fill="#527078" font-weight="700">化放療</text>
+<text x="172" y="3077.95" font-size="27" fill="#00806B" font-weight="800">2%</text>
+<text x="354" y="3048.95" font-size="14" fill="#527078" font-weight="700">單純化療</text>
+<text x="354" y="3077.95" font-size="27" fill="#7A6E58" font-weight="800">7%</text>
+<text x="84" y="3164.95" font-size="14" fill="#00806B" font-weight="800">加放療的那一組比較少</text>
+<text x="84" y="3189.25" font-size="14" fill="#345963" font-weight="700">風險比 0.36（0.16 到 0.82）</text>
+<rect x="64" y="3243.55" width="492" height="265.4" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<text x="84" y="3280.55" font-size="17" fill="#123641" font-weight="800">骨盆腔與主動脈旁淋巴結復發</text>
+<rect x="84" y="3312.35" width="70" height="108" rx="14" fill="#D8EDE7"/>
+<line x1="119" y1="3328.35" x2="119" y2="3386.11" stroke="#00806B" stroke-width="8" stroke-linecap="round"/>
+<polygon points="119,3406.35 110.03,3386.26 127.97,3386.26" fill="#00806B"/>
+<text x="172" y="3330.35" font-size="14" fill="#527078" font-weight="700">化放療</text>
+<text x="172" y="3359.35" font-size="27" fill="#00806B" font-weight="800">11%</text>
+<text x="354" y="3330.35" font-size="14" fill="#527078" font-weight="700">單純化療</text>
+<text x="354" y="3359.35" font-size="27" fill="#7A6E58" font-weight="800">20%</text>
+<text x="84" y="3446.35" font-size="14" fill="#00806B" font-weight="800">加放療的那一組比較少</text>
+<text x="84" y="3470.65" font-size="14" fill="#345963" font-weight="700">風險比 0.43（0.28 到 0.66）</text>
+<rect x="64" y="3524.95" width="492" height="321.7" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<text x="84" y="3561.95" font-size="17" fill="#123641" font-weight="800">遠端復發</text>
+<rect x="84" y="3593.75" width="70" height="108" rx="14" fill="#F6E2E0"/>
+<line x1="119" y1="3685.75" x2="119" y2="3627.99" stroke="#B04A4A" stroke-width="8" stroke-linecap="round"/>
+<polygon points="119,3607.75 127.97,3627.84 110.03,3627.84" fill="#B04A4A"/>
+<text x="172" y="3611.75" font-size="14" fill="#527078" font-weight="700">化放療</text>
+<text x="172" y="3640.75" font-size="27" fill="#B04A4A" font-weight="800">27%</text>
+<text x="354" y="3611.75" font-size="14" fill="#527078" font-weight="700">單純化療</text>
+<text x="354" y="3640.75" font-size="27" fill="#7A6E58" font-weight="800">21%</text>
+<text x="84" y="3727.75" font-size="14" fill="#B04A4A" font-weight="800">加放療的那一組比較多</text>
+<text x="84" y="3752.05" font-size="14" fill="#345963" font-weight="700">風險比 1.36（1.00 到 1.86）</text>
+<rect x="84" y="3778.35" width="452" height="50.3" rx="12" fill="#F6E2E0"/>
+<text x="96" y="3804.35" font-size="14" fill="#B04A4A" font-weight="800">信賴區間下界剛好貼在 1.00</text>
+<text x="64" y="3876.65" font-size="14" fill="#345963" font-weight="700">第 3 到 5 級不良事件是化放療 58% 對單純化療 63%。</text>
+<rect x="64" y="3909.65" width="492" height="111.58" rx="14" fill="#F3E8CD"/>
+<text x="82" y="3945.15" font-size="15.5" fill="#8F7418" font-weight="700">遠端那一格的區間下界剛好貼在 1.00，而且是次要終點的觀察，所</text>
+<text x="82" y="3969.18" font-size="15.5" fill="#8F7418" font-weight="700">以它不能被讀成「放療有害」。同樣地，前兩格也讓「放療沒有用」</text>
+<text x="82" y="3993.2" font-size="15.5" fill="#8F7418" font-weight="700">這個結論站不住。</text>
+<rect x="40" y="4075.23" width="540" height="241.35" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="4119.23" font-size="18" fill="#8F7418" font-weight="800">這張圖沒有回答「要不要加化療」</text>
+<text x="66" y="4150.43" font-size="15.5" fill="#345963">它畫的是益處落在哪裡、代價是什麼。加不加化療取決於期別（哪一版）、</text>
+<text x="66" y="4174.45" font-size="15.5" fill="#345963">組織型、分子分型、有沒有做淋巴結分期，還有心肺肝腎功能撐不撐得</text>
+<text x="66" y="4198.48" font-size="15.5" fill="#345963">住那 60% 的第 3 級以上不良事件。這個決定的正當位置是多專科團隊會</text>
+<text x="66" y="4222.5" font-size="15.5" fill="#345963">議，加上婦癌科、腫瘤內科與放射腫瘤科都看過你的資料。PORTEC-3</text>
+<text x="66" y="4246.53" font-size="15.5" fill="#345963">與 GOG-258 問的是相反方向的題目，族群、設計與終點都不一樣，兩</text>
+<text x="66" y="4270.55" font-size="15.5" fill="#345963">張卡片之間不可以直接比較。</text>
+<text x="40" y="4340.57" font-size="15" fill="#527078">示意圖，依 PORTEC-3 的 10 年結果（Post 2025）、5 年最終結果（de Boer</text>
+<text x="40" y="4363.07" font-size="15" fill="#527078">2018）與 2019 年的復發型態與事後存活分析（de Boer 2019），以及</text>
+<text x="40" y="4385.57" font-size="15" fill="#527078">GOG-258（Matei 2019）重繪；各研究族群、設計與終點不同，數點不可直接互</text>
+<text x="40" y="4408.07" font-size="15" fill="#527078">比。</text>
+  </g>
+</svg>
