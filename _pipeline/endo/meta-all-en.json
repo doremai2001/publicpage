@@ -1,0 +1,104 @@
+{
+  "em-bleeding": {
+    "title": "Bleeding after the menopause is not something to wait out",
+    "dek": "Of the women assessed in clinic for postmenopausal bleeding, about one in ten is eventually diagnosed with endometrial cancer; \"most people do not have cancer\" and \"this symptom should not be left\" are two sentences that can both be true at once.",
+    "lead": "I am not going to talk you into it by saying that leaving it will make it advanced — the evidence for that causal link is weak and inconsistent. What holds the timing up is three harder things: this group's denominator, the way endometrial cancer shows itself, and the fact that one outpatient test gives an answer. Along the way, the misunderstanding that a normal thickness on ultrasound means you can relax gets taken apart.",
+    "note": "The person I least want to meet is the one who comes in six months after the bleeding started, having been told on the way that a little bleeding is normal at her age. Write down how many episodes and when, and take that with you; and push the question \"is today ultrasound only, or sampling too?\" until you get an answer. If the biopsy was benign and you bleed again, go back."
+  },
+  "em-two-kinds": {
+    "title": "Two kinds of endometrial cancer, now four molecular groups",
+    "dek": "The old two-type split looked at the patient's constitution; the new four groups look at the tumour's genetics — what the extra MMR, p53 and POLE lines on the report each mean, in one go.",
+    "lead": "From a 366-patient paper in 1983, through TCGA in 2013, to a few abbreviations in the corner of today's report, the classification has been through three generations. One thing survived all of them: for most people, knowing which group you are in will not change the direction of treatment.",
+    "note": "When the report arrives, look for two lines only: the histological type, and whether MMR, p53 and POLE appear anywhere. If those lines are not there, it does not mean you were overlooked."
+  },
+  "em-staging-2023": {
+    "title": "The staging changed; your treatment does not change with it",
+    "dek": "The number of sub-stages went from 9 to 21, and between two and three in ten women move stage; but the randomised trials that decide radiotherapy and chemotherapy enrolled patients under the old staging.",
+    "lead": "A stage that jumps up one box does not mean the tumour has grown; it means the language used to describe it has been replaced. This article covers which three variables the new staging writes into the stage, why two British societies decided to carry on using the 2009 version, and a study from Taiwan in which specialists working out the new stage by hand were right only a little over 60% of the time.",
+    "note": "The line on the report that gives the stage usually says beside it whether it is FIGO 2009 or 2023; if it does not, ask. When the number goes up, do not rush to look up a new survival figure — ask this instead: \"If you used the other version, which box would I be in, and would the treatment recommendation be different?\""
+  },
+  "em-surgery": {
+    "title": "What the operation removes, and what happens to the lymph nodes",
+    "dek": "Total hysterectomy with bilateral salpingo-oophorectomy is the standard extent; the nodes are the hard part — taking them all out has not made anyone live longer, and the sentinel procedure misses roughly 3% to 4% of the patients who do have nodal metastases.",
+    "lead": "Minimally invasive surgery had the brakes put on it by a randomised trial in cervical cancer, while in this cancer two randomised trials came out level — different cancer, different operation, not a contradiction. There is a still more counter-intuitive conclusion inside: clearing out the pelvic nodes has not made anyone live longer.",
+    "note": "Settle the question of what will be done about the lymph nodes before the operation; it decides how complete the staging information you get afterwards will be. Ask the nursing station for a copy of the operation note and the pathology report when you are discharged — every later discussion about radiotherapy or chemotherapy turns on those two pieces of paper."
+  },
+  "em-adjuvant": {
+    "title": "After the operation, do you still need radiotherapy",
+    "dek": "Locoregional recurrence down from 14% to 4%, no difference in overall survival, complications 25% against 6% — PORTEC-1's three figures have to be read together.",
+    "lead": "This article will not tell you whether to be irradiated. It will tell you how the stratification was built, why the 2025 guideline had to add a box marked \"the data are scarce\", and which five questions to get out of your mouth at the next appointment. Irradiating a low-risk woman is harm; so is leaving a high-risk one unirradiated.",
+    "note": "I have seen both of the outcomes that should not happen: a low-risk woman irradiated to the pelvis and still using incontinence pads fifteen years later, and a woman who should have been irradiated and was not, recurring in the pelvis or further away. At your next appointment, ask them to point at the fields on the report that support the recommendation, and ask which group you have been put in."
+  },
+  "em-vaginal-brachy": {
+    "title": "Vaginal brachytherapy: the smallest field there is",
+    "dek": "PORTEC-2's vaginal recurrence result is non-inferiority, not sameness; acute gastrointestinal toxicity 12.6% against 53.8%, and 10-year pelvic recurrence 6.3% against 0.9%.",
+    "lead": "Three sessions and it is over does not sound like a serious treatment. This article covers how it is actually done, which set of side effects you are trading for which, who should not have the field shrunk to its smallest, and why it and cervical-cancer brachytherapy are two different item codes in Taiwan's fee schedule.",
+    "note": "Vaginal stenosis and dryness can be dealt with early, provided somebody is looking at them regularly. Before the course finishes, get this arranged: who does the internal examination afterwards, and how often. Asking that before treatment is far easier than going looking for someone to fix it later."
+  },
+  "em-chemo-rt": {
+    "title": "Adding chemotherapy: what it buys and what it costs",
+    "dek": "PORTEC-3 gained seven percentage points of 10-year overall survival, with the benefit concentrated in stage III and serous disease; the price is grade 3 or worse adverse events, 12% against 60%.",
+    "lead": "Three randomised trials each answer one question: chemotherapy added on top of radiotherapy, radiotherapy added on top of chemotherapy, and pelvic radiotherapy swapped for brachytherapy plus chemotherapy. The three answers point different ways, and not one of them collects into \"so you should have chemotherapy\". What this article does is get the question right, and get it to the right people.",
+    "note": "Whether you can finish chemotherapy matters as much as whether it works. I have seen too many women hold on to the fourth cycle before saying \"actually I have felt terrible since the second\" — said three months earlier, the conversation about reducing the dose would have started three months earlier."
+  },
+  "em-molecular-adjuvant": {
+    "title": "How molecular classification changes your treatment",
+    "dek": "The evidence for escalating p53-abnormal disease is a post-hoc analysis; in PORTEC-4a's molecular profile arm, 46% (168/367) were judged favourable and had no adjuvant treatment.",
+    "lead": "One randomised trial now supports de-escalating by molecular profile, but what it proves is non-inferiority, and the trial's \"favourable profile\" is not the same thing as a POLE mutation. This article also writes the other half: for most early-stage patients, the recommendation after testing is the same one.",
+    "note": "Do not pay out of pocket for a test that will not change your treatment because \"everyone else has had it\". When the report comes, find three lines: MMR, p53, POLE. Then ask one question: will those three lines change the recommendation you would otherwise make? And if they will, is what changes the direction or the intensity?"
+  },
+  "em-immuno": {
+    "title": "Immunotherapy: who does it actually help",
+    "dek": "All four phase 3 trials report split by MMR status: dMMR and pMMR are too far apart to be discussed together, and the trial in the adjuvant setting did not meet its primary endpoint.",
+    "lead": "The same drug is two different stories in two groups of women. This article puts an MMR label and a number of patients on every figure, including a counter-example that usually gets skipped: immunotherapy added to adjuvant chemotherapy after surgery, primary-endpoint hazard ratio 1.02.",
+    "note": "Confirm one thing first: has your MMR test been done, and is the result deficient or proficient? That line decides which column of figures in the article is yours. I have copied the NHI clauses out word for word at the end; whether they can be claimed and whether anything is self-paid, take the clauses and ask the medical affairs office or your case manager."
+  },
+  "em-fertility": {
+    "title": "Keeping the uterus to have a child: what it takes",
+    "dek": "The entry conditions have to hold in full, and the guideline admits that not one of its recommendations is Level I evidence; complete response about 79.7%, recurrence 35.3%, live birth 20.5%.",
+    "lead": "Two kinds of reader will be uncomfortable here: the one hoping to hear \"the drug is enough\" will run into a recurrence rate of a third, and the one who has been told \"just have it taken out\" will find that the guideline does keep a road open. I have attached the grade of evidence to every entry condition, so you can take it to gynaecological oncology and go through them one by one.",
+    "note": "This road trades a higher recurrence risk for a window of time in which to have a child; it is not a drug taken instead of an operation. The entry conditions have to hold in full — one missing and it does not hold — and once childbearing is complete, what the guideline still says is to remove the uterus."
+  },
+  "em-obesity": {
+    "title": "Weight, diabetes and this cancer",
+    "dek": "Relative risk about 1.6 per 5 kg/m² of BMI, and a population attributable fraction of 34.0% in UK women; weight loss lowering incidence has observational evidence, weight loss lowering recurrence has no randomised trial.",
+    "lead": "One box in this article is blank — whether losing weight lowers recurrence in someone already diagnosed has never been answered by a randomised trial. I have written that box as blank, and marked what strength of evidence each of the other boxes stands on, and what the Taiwanese clauses actually say.",
+    "note": "Weight and diabetes are risk factors, not anyone's fault, and that is a sentence I say twice in clinic. What you can do today is dig out three numbers — HbA1c, blood pressure and lipids — and take them in with the question \"who takes over managing my metabolic comorbidities?\" In women with obesity and endometrial cancer, cardiovascular disease is the leading cause of death, and it deserves a place in the diary."
+  },
+  "em-lynch": {
+    "title": "Lynch syndrome: what the test means for you and your family",
+    "dek": "Family history alone would miss 43%, which is why the guidelines want universal testing; but only 15% of those with abnormal immunohistochemistry carry a germline mutation, and the two guidelines disagree on surveillance and on PMS2.",
+    "lead": "This article has two international guidelines arguing on the same page: two antibodies or four, whether to do invasive surveillance, and whether PMS2 carriers should be offered risk-reducing surgery. I am not taking a side; both sets of wording go in side by side, in the original, for you to take to your own doctor.",
+    "note": "\"Did my specimen have MMR immunohistochemistry?\" is a question you can ask outright; if the report says MLH1 loss, follow it with \"was methylation testing added?\" Put your family history on one sheet and take it to clinic. Whether to have germline testing, and whether your relatives test, are decisions that belong to each of you."
+  },
+  "em-hormone-after": {
+    "title": "Hormones after treatment",
+    "dek": "There is one randomised trial, and it closed early with 41% adherence; local or systemic, early or later stage, uterus present or not — the three give different answers.",
+    "lead": "The most unexpected thing I found: the European endometrial cancer guideline has no recommendation at all on whether hormones can be used once treatment is over. So this article takes its anchors from the menopause and reproductive medicine documents instead, and puts the contraindication on the Taiwanese label in untouched.",
+    "note": "Count the symptoms before you go in: how many hot flushes a day, how many times they wake you, whether the dryness is affecting daily life or sex. The label says one thing and the international guideline says another, and that is a question for your gynaecological oncologist and the doctor writing the prescription; I am not smoothing it over for either side. And ask one more: has my bone density ever been measured?"
+  },
+  "em-followup": {
+    "title": "How follow-up is scheduled, and what to watch for",
+    "dek": "The guideline's follow-up section is four sentences, all four graded expert opinion, and it states outright that there is no evidence follow-up visits improve overall survival; what actually holds follow-up up is the other half it catches.",
+    "lead": "In the randomised trial that put intensive follow-up beside minimalist follow-up, 5-year survival was 90.6% against 91.9%. And the guideline's \"not recommended\" for tumour markers and vaginal cytology is the strongest grade there is. What this article is about: which boxes on the follow-up sheet really do stay fixed.",
+    "note": "The reason for scheduling follow-up is not longer survival; it is catching comorbidity, second primary cancers and your mental health. Take one sentence to the next appointment: is each test I am having today for catching a recurrence, or for looking after the body I have now? And write the dates for your mammogram and faecal occult blood test on the same sheet of paper — neither of those happens in the gynaecological oncology clinic."
+  },
+  "em-recurrence": {
+    "title": "If it comes back, can it still be treated",
+    "dek": "Recurrence is not one disease; it is three situations. Where it is, and whether that area has been irradiated before, decide completely different numbers — and the three situations have denominators of very different sizes.",
+    "lead": "About one in ten stage I patients recurs, and the isolated vaginal recurrence with the best chance of being controlled is only 2% of the whole cohort. In the same trial, 3-year survival after vaginal, pelvic and distant relapse was 73%, 8% and 14%. Both of those have to be known together; drop either and the reading goes crooked.",
+    "note": "After a recurrence the two things that matter most are where it is and whether that area has been irradiated before; everything else queues behind them. Take the imaging report of the recurrence site and your original radiotherapy record to clinic together, and ask one question: has my plan been through a multidisciplinary discussion? Ask about repeating mismatch repair testing on the recurrent tissue in the same visit."
+  },
+  "em-lymphedema": {
+    "title": "Lower-limb lymphoedema: prevention and treatment",
+    "dek": "Reported incidence runs from 1.3% to 49.4%, and the width of that range comes from the assessment method, not from the operation. This one covers how it is measured first, then how to prevent and treat it, and what Taiwan's clauses actually say.",
+    "lead": "The same 235 women, assessed for oedema by four different methods, produce entirely different risk factors — the odds ratio for lymphadenectomy runs from \"cannot be made out at all\" up to 14.42. So when you see any single figure, ask first: who measured it, how, and in which group of people.",
+    "note": "One-sided, sudden, red, hot and painful — same-day medical attention, do not wait for the next appointment. A leg that swells overnight and hurts: rule out a thrombosis first, do not assume lymphoedema."
+  },
+  "em-daily": {
+    "title": "Life after treatment",
+    "dek": "Non-cancer causes account for 41.5% of the deaths in this group. Exercise, weight loss and dilators rest on evidence of very different strengths, and each is labelled separately rather than blurred together.",
+    "lead": "What most often disappears when treatment ends is the person who used to get things into your diary. This article works through the four blocks that have data behind them — causes of death, exercise, weight, sexual function — plus two pieces of paper you can deal with now: the five-year validity of the catastrophic illness certificate, and the cancer resource centres in 104 hospitals.",
+    "note": "Treatment ending is not the same as health coming back. The one thing I most want you to do this year is book a family medicine or metabolic clinic and get your blood pressure, blood sugar and lipids up to date — non-cancer causes account for 41.5% of the deaths in this group, and nobody in the gynaecological oncology clinic is looking after that part for you. The second thing is more trivial and yet goes wrong exactly when it is most needed: copy the expiry date of your catastrophic illness certificate into your phone calendar and set the alarm for three months before. The clause says to re-apply three months before validity expires, and that if it is approved the periods of validity may run on; apply late and the effective date runs from the day you apply. How the interval in between is counted is not written any further down — that is a question for the medical affairs office or your case manager, not something to guess at."
+  }
+}
