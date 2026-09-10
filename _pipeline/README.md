@@ -8,11 +8,19 @@
 
 ## 佈局
 
-- 本目錄：`topicbuild.py`（共用 build/build_index）＋各專題模組（colon/breast/nextgen/cervix
-  ×zh/en）＋ build_*.py 驅動與 verify_*.py 驗證腳本＋圖片插入 staging 腳本
-- `colon/`、`breast/`、`nextgen/`、`cervix/`：各專題的 SPEC（含研究修正與紅線）、
-  SPEC-EN、查證 brief（含每條來源的 PASS/FAIL 紀錄）、兩輪查核與 FIXES、
-  中英 metadata、圖片 manifest。hn 與 rc 兩專題早於本管線，無底稿。
+- 本目錄：`topicbuild.py`（共用 build/build_index，**不要改**）＋各專題模組
+  （`colon` `breast` `nextgen` `cervix` `liver` `brt` `pel` `esoph` `gbm` `endo`，各 ×zh/en）
+  ＋ `build_*.py` 驅動、`verify_*.py` 驗證、`stage_*_figs.py` 圖片插入
+- 各專題底稿目錄：SPEC（含 §九 研究修正與紅線）、SPEC-EN、查證 brief（每條來源標 PASS/FAIL
+  與查證路徑）、兩輪對抗式查核與 FIXES、中英 metadata、圖片 manifest、figwish。
+  目前有：`colon/` `breast/` `nextgen/` `cervix/` `liver/` `brt/` `pel/` `esoph/` `gbm/` `endo/`
+  `nextgen-ht/` `nextgen-bn/`。**hn 與 rc 兩專題早於本管線，無底稿。**
+- 各專題的前綴與 hub（建新題前先確認不撞）：
+  hn／rc／cc（colon）／bc（breast）／nt（nextgen，含 `nt-ht-` 熱治療與 `nt-bn-` BNCT 兩個分組，
+  子目錄頁 `nt-ht.html`／`nt-bn.html`）／cx（cervix）／lv（liver，**hub 是 `liver.html`，
+  前綴與 hub 不同名，用 `topicbuild._hub_name` 覆寫**）／brt／pel／ec（esoph，**hub 是 `ec.html`**）／
+  gb（gbm，**hub 是 `gbm.html`，同樣要覆寫**）／em（endo，hub `em.html`，前綴與 hub 同名、不必覆寫）。
+  **`en-` 這個前綴永遠不可用**——會與全站的 `-en.html` 英文版後綴相撞。
 - 正文 fragment 與 SVG 不在此處——它們以成品形式活在 repo 根目錄，可自頁面還原。
 
 ## 新 session 的起手式
@@ -33,9 +41,17 @@
 目前：
 
 - `pending/insight-jp-advanced/` —〈自費，但不能各做各的〉，日本先進醫療A 制度下的
-  粒子線治療（醫學新知）。中文完稿、未上線；英文版未產出。2026-09-01。
+  粒子線治療（醫學新知）。**中英文都已完稿、仍未上線**（2026-09-10 補上英文版並重查了
+  兩件會過期的事：JASTRO 兩張清單仍是 2026 年 6 月版、厚労省実績報告仍是令和 7 年度版，
+  下一版約 2026 年 12 月）。英文譯者以 report-don't-fix 抓出 12 條中文缺陷，記在同資料夾的
+  `EN-REPORT.md`；**上線前要先處理其中的 D1、D2、D6、D7 四條**（見該檔）。
 
 ## 已知的路徑注意事項
 
 `cervix.py` 的 `_STAGE` 指向建題當時的 scratchpad 絕對路徑；`stage_cervix_figs.py`
 重建該 staging（剝除檔名前綴＋插入圖片標記）。新專題照抄這個模式。
+
+`build_*.py` 對 `topics*.html`／`sitemap.xml`／既有頁的修改**不是冪等的**（卡片與 sitemap
+區塊是 append）。專題上線後若只要補一張圖或改一句話，**不要重跑 build**——直接對 repo 根目錄
+的成品頁做定點修改，圖片區塊照既有頁的 `<figure class="article-figure">`＋`<picture>` 版式手動插入
+（`em-chemo-rt` 的第 12 張圖就是這樣補的）。
