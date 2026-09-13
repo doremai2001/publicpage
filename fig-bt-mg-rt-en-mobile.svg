@@ -1,0 +1,398 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="8425" viewBox="0 0 620 8425" role="img" aria-labelledby="t d">
+  <title id="t">The clinical line between single-fraction and fractionated stereotactic treatment: optic pathway dose, the evidence on each side, and the Taiwanese statute</title>
+  <desc id="d">Schematic: where the clinical line between single-fraction and fractionated stereotactic treatment actually comes from, and what level of evidence sits on each side. No platform and no brand name appears anywhere; the only machine-flavoured wording is inside the verbatim Taiwanese insurance item names. The first panel is headed &quot;What actually draws the line is how much the optic nerves and chiasm can take&quot; and is drawn as a dose-fraction bar chart: the maximum point dose to the optic apparatus corresponding to a risk of radiation-induced optic neuropathy below 1 per cent, in people not previously irradiated, is 12 Gy in 1 fraction, 20 Gy in 3 and 25 Gy in 5, with a conventional-fractionation bar at 60 Gy at about 1.8 Gy per fraction. A note states that the conventional bar carries the opposite sense - QUANTEC says toxicity rises clearly above a total of 60 Gy and clearly above 12 Gy in a single fraction - that the authors of the pooled analysis suggest keeping a single fraction to 10 Gy, and that for people irradiated before the risk is roughly ten times higher. The panel also states what QUANTEC calls strong evidence: as the dose per fraction comes down, the total dose the optic pathway tolerates goes up; and it carries the population label for the pooled analysis - 34 studies, 1,578 patients, including cavernous sinus meningioma, pituitary adenoma, craniopharyngioma and malignant skull base tumours, not meningioma alone. In plain words: when the tumour is against the optic nerve or chiasm, the treatment is fractionated. The second panel is the guideline card. On the left are three statements from the EANO 2021 guideline: in well-selected cases with a tumour that is not large, stereotactic radiosurgery is established as an alternative to surgery; for intracranial meningioma under 3 cm in diameter, local control after radiosurgery is comparable to Simpson grade I resection; and for larger tumours the guideline mentions fractionated stereotactic treatment in 2 to 5 fractions. On the right is what the guideline does not say: there is no hard threshold of the form &quot;within so many millimetres of the optic nerve it must be fractionated&quot;, and &quot;over 3 cm must be fractionated&quot; is a line drawn by clinical habit. The third panel is two equal-height cards side by side, headed &quot;The two sides did not treat the same size of tumour&quot;. The left card is stereotactic radiosurgery, tagged as a retrospective cohort from 15 centres: 4,565 patients and 5,300 benign meningiomas, all treated at least five years earlier, 3,768 tumours analysed after excluding imaging follow-up under 24 months, median imaging follow-up 63 months, median tumour volume 4.8 cm3 and median margin dose 14 Gy. It is labelled &quot;Assessed by: change in volume on imaging&quot;, with a stacked bar showing 58 per cent shrank, 34.5 per cent unchanged and 7.5 per cent enlarged, and a list of figures: control rate 92.5 per cent, 5-year progression-free survival 95.2 per cent, 10-year progression-free survival 88.6 per cent, re-treatment needed in 2.2 per cent and permanent complications 6.6 per cent. Beneath it are the two things from the same dataset that have to be said together: control was better at the skull base than at the convexity (p&lt;.001), and control was significantly higher in tumours diagnosed on imaging alone than in pathologically confirmed WHO grade 1 disease (p&lt;.001), which is direct evidence of selection bias. The right card is fractionated stereotactic radiotherapy, tagged as a single-centre retrospective cohort: 317 patients, WHO grade 1 48.3 per cent, WHO grade 2 8.2 per cent and grade unknown 43.5 per cent, median follow-up 5.7 years, median target volume 33.6 cm3 - seven times that of the single-fraction series - and median total dose 57.6 Gy at 1.8 Gy per fraction. A stacked bar shows 70.4 per cent remained stable and 6.9 per cent progressed on imaging at a median of 4.5 years, and the figures are overall local control 93.1 per cent, recurrence 15.5 per cent above 60 cm3 against 4.3 per cent at 60 cm3 or less, pre-existing neurological deficit improved in 42.9 per cent and pre-existing symptoms worsened in 8.2 per cent, with WHO grade 2 tumours failing locally significantly more often (p&lt;0.002) and eight patients developing new symptoms - reduced vision, trigeminal neuralgia, intermittent tinnitus. Between the cards a warning reads: the two sets of numbers must not be set against one another, the volumes differ several times over, a median of 4.8 cm3 against 33.6 cm3. Two smaller panels follow: perioptic meningioma treated with conventional fractionation, transcribed through a review, with pooled local control 99.8 per cent, vision maintained or improved in about 90 per cent, estimated radiation-induced dry eye 10.1 per cent and retinopathy 7.2 per cent; and the time window, in which the commonest problem after single-fraction treatment is radiation-induced brain oedema, with 13 of 26 reviewed studies reporting non-skull-base disease separately, symptomatic oedema 5 to 43 per cent, any oedema 28 to 50 per cent and a mean time to onset of three to nine months after treatment. The fourth panel is the proton therapy card, carrying a red pill reading &quot;This must not be read as proton being better than photon&quot;: a meta-analysis of four techniques in WHO grade 1 meningioma only, 24 studies and 4,673 patients, gives 5-year local control of 95.9 per cent for conventionally fractionated proton therapy, 93.0 per cent for conventionally fractionated photon therapy and 95.3 and 89.8 per cent for two stereotactic radiosurgery groups - while the meta-regression showed that neither treatment modality nor tumour volume was significantly associated with local control. Alongside is a proton-only meta-analysis of 19 studies and 1,431 patients (WHO grade 1 70.6 per cent, grade 2 25.2 per cent, grade 3 4.2 per cent) with a pooled complication rate of 16 per cent, 5-year overall survival 91 per cent and mean local control on imaging 71 per cent, all with high heterogeneity. The same card holds a box tagged &quot;Ongoing, primary completion February 2032&quot;: COG-PROTON-01 randomises benign cavernous sinus meningioma 1:1 to fractionated proton or photon radiotherapy, 160 patients planned, with cognitive and functional deterioration five years after radiotherapy - not tumour control - as the primary endpoint, recruitment having opened in February 2024. The card closes: the sentence &quot;proton therapy is better for meningioma&quot; has no clinical data behind it today. The fifth panel is the Taiwanese statute card, tagged National Health Insurance fee schedule, effective 1 April 2026: item 37028B, &quot;three-dimensional X-ray knife stereotactic radiosurgery&quot; in the statute's own wording, 82,000 points, for a diameter under three centimetres or a volume of fifteen cubic centimetres or less and three lesions or fewer; and item 37029B, &quot;image-guided intensity-modulated X-ray knife stereotactic radiosurgery&quot;, 153,229 points, for a three-dimensional diameter not exceeding 3.5 by 3.5 by 3.5 centimetres or a volume of twenty cubic centimetres and three lesions or fewer. The indications name acoustic neuroma, meningioma, pituitary tumour and craniopharyngioma verbatim, but one of six conditions A to F must also be met: A, has undergone craniotomy but has residual or recurrent tumour; B, craniotomy would carry a risk of neurological injury or substantial danger; C, has severe cardiopulmonary or other medical disease making invasive surgery or general anaesthesia unsuitable; D and E, see the statute; F, unilateral intracranial cerebellopontine angle acoustic neuroma under 2.5 centimetres in width, excluding the internal auditory canal. The statute also requires every case to be submitted to the insurer for prior approval. The last box in this panel reads &quot;The current version has no separate item for fractionated stereotactic treatment&quot;, so the insurance codes cannot be used to infer how single-fraction and fractionated treatment are distinguished. At the foot of the figure a gold-bordered panel reads: the question is not which one is better. Ask two numbers about the tumour - its volume, and how far it sits from the optic nerves and chiasm; then two numbers about the plan - if it is a single fraction, where the maximum point dose to the optic apparatus will fall, and if it is fractionated, how many fractions and why that number; and leave the last question for time: during the three to nine months after treatment, how oedema should be watched for and what would mean coming back at once.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="8425" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">WHAT ACTUALLY DRAWS THE LINE BETWEEN</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">ONE FRACTION AND MANY</text>
+<text x="40" y="142" font-size="40" fill="#123641" font-weight="800" class="r">One fraction or many: the</text>
+<text x="40" y="192.4" font-size="40" fill="#123641" font-weight="800" class="r">line is drawn by the optic</text>
+<text x="40" y="242.8" font-size="40" fill="#123641" font-weight="800" class="r">nerve, not by the machine</text>
+<text x="40" y="303.2" font-size="19" fill="#527078">Single-fraction and fractionated treatment are not a</text>
+<text x="40" y="331.7" font-size="19" fill="#527078">ranking of effectiveness. They are a division of labour</text>
+<text x="40" y="360.2" font-size="19" fill="#527078">set by the volume of the tumour and how close it sits to</text>
+<text x="40" y="388.7" font-size="19" fill="#527078">the optic nerve. This figure shows no platform and no</text>
+<text x="40" y="417.2" font-size="19" fill="#527078">brand name - only dose, fractions and the level of</text>
+<text x="40" y="445.7" font-size="19" fill="#527078">evidence on each side.</text>
+<text x="40" y="478.2" font-size="19" fill="#527078">Every box carries its study design, n, WHO grade and</text>
+<text x="40" y="506.7" font-size="19" fill="#527078">follow-up time. The two sides did not treat the same</text>
+<text x="40" y="535.2" font-size="19" fill="#527078">size of tumour, so the data points must not be set</text>
+<text x="40" y="563.7" font-size="19" fill="#527078">against one another.</text>
+<g filter="url(#sh)">
+<rect x="40" y="612.2" width="540" height="1001.15" rx="18" fill="#FFFFFF"/>
+<path d="M 40 630.2 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="66" y="656.2" font-size="18" fill="#123641" font-weight="800">What actually draws the line is how much the optic</text>
+<text x="66" y="681.4" font-size="18" fill="#123641" font-weight="800">nerves and chiasm can take</text>
+<rect x="66" y="712.6" width="204.73" height="26" rx="13" fill="#5C77C4"/>
+<text x="77" y="730.46" font-size="13.5" fill="#FFFFFF" font-weight="800">Dose-fraction relationship</text>
+<text x="66" y="764.6" font-size="14" fill="#345963">Maximum point dose to the optic apparatus corresponding to a risk</text>
+<text x="66" y="785.6" font-size="14" fill="#345963">of radiation-induced optic neuropathy below 1 per cent, in people</text>
+<text x="66" y="806.6" font-size="14" fill="#345963">not previously irradiated:</text>
+<text x="66" y="848.6" font-size="14" fill="#527078" font-weight="700">1 fraction</text>
+<text x="66" y="865.6" font-size="12.5" fill="#527078">Stereotactic radiosurgery</text>
+<rect x="266" y="839.6" width="184" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="266" y="839.6" width="33.45" height="26" rx="7" fill="#B04A4A"/>
+<text x="462" y="860.16" font-size="21" fill="#B04A4A" font-weight="800">12 Gy</text>
+<text x="66" y="889.6" font-size="14" fill="#527078" font-weight="700">3 fractions</text>
+<text x="66" y="906.6" font-size="12.5" fill="#527078">Fractionated stereotactic radiotherapy</text>
+<rect x="266" y="880.6" width="184" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="266" y="880.6" width="55.76" height="26" rx="7" fill="#96790F"/>
+<text x="462" y="901.16" font-size="21" fill="#96790F" font-weight="800">20 Gy</text>
+<text x="66" y="930.6" font-size="14" fill="#527078" font-weight="700">5 fractions</text>
+<text x="66" y="947.6" font-size="12.5" fill="#527078">Fractionated stereotactic radiotherapy</text>
+<rect x="266" y="921.6" width="184" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="266" y="921.6" width="69.7" height="26" rx="7" fill="#96790F"/>
+<text x="462" y="942.16" font-size="21" fill="#96790F" font-weight="800">25 Gy</text>
+<text x="66" y="963.1" font-size="14" fill="#527078" font-weight="700">Conventional</text>
+<text x="66" y="980.1" font-size="14" fill="#527078" font-weight="700">fractionation</text>
+<text x="66" y="997.1" font-size="12.5" fill="#527078">About 1.8 Gy per fraction</text>
+<rect x="266" y="962.6" width="184" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="266" y="962.6" width="167.27" height="26" rx="7" fill="#5C77C4"/>
+<text x="462" y="983.16" font-size="21" fill="#5C77C4" font-weight="800">60 Gy</text>
+<line x1="266" y1="1012.1" x2="450" y2="1012.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="266" y1="1012.1" x2="266" y2="1018.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="266" y="1034.1" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="321.76" y1="1012.1" x2="321.76" y2="1018.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="321.76" y="1034.1" font-size="12.5" fill="#527078" text-anchor="middle">20</text>
+<line x1="377.52" y1="1012.1" x2="377.52" y2="1018.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="377.52" y="1034.1" font-size="12.5" fill="#527078" text-anchor="middle">40</text>
+<line x1="433.27" y1="1012.1" x2="433.27" y2="1018.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="433.27" y="1034.1" font-size="12.5" fill="#527078" text-anchor="middle">60</text>
+<text x="266" y="1056.1" font-size="12" fill="#527078">Maximum point dose to the optic apparatus (Gy)</text>
+<rect x="66" y="1064.1" width="488" height="232" rx="14" fill="#F6E2E0"/>
+<text x="82" y="1094.1" font-size="14" fill="#345963">The conventional-fractionation bar carries the opposite sense:</text>
+<text x="82" y="1115.1" font-size="14" fill="#345963">QUANTEC states that toxicity rises clearly ABOVE a total dose</text>
+<text x="82" y="1136.1" font-size="14" fill="#345963">of 60 Gy at about 1.8 Gy per fraction, and clearly ABOVE 12 Gy</text>
+<text x="82" y="1157.1" font-size="14" fill="#345963">in a single fraction. [B-S18]</text>
+<text x="82" y="1196.1" font-size="14" fill="#345963">The authors of the pooled analysis suggest going further and</text>
+<text x="82" y="1217.1" font-size="14" fill="#345963">keeping a single fraction to 10 Gy. For people who have been</text>
+<text x="82" y="1238.1" font-size="14" fill="#345963">irradiated before, the risk is roughly ten times that of people</text>
+<text x="82" y="1259.1" font-size="14" fill="#345963">who have not. [B-S19]</text>
+<rect x="66" y="1308.1" width="488" height="109" rx="14" fill="#F3E8CD"/>
+<text x="82" y="1338.1" font-size="14" fill="#345963">What QUANTEC calls strong evidence is something else: as the</text>
+<text x="82" y="1359.1" font-size="14" fill="#345963">dose per fraction comes down, the total dose the optic</text>
+<text x="82" y="1380.1" font-size="14" fill="#345963">pathway will tolerate goes up. [B-S18]</text>
+<text x="66" y="1441.6" font-size="12.5" fill="#527078">Pooled analysis: 34 studies, 1,578 patients; the population includes</text>
+<text x="66" y="1459.1" font-size="12.5" fill="#527078">cavernous sinus meningioma, pituitary adenoma, craniopharyngioma and</text>
+<text x="66" y="1476.6" font-size="12.5" fill="#527078">malignant skull base tumours, not meningioma alone. [B-S19]</text>
+<text x="66" y="1517.6" font-size="15.5" fill="#8F7418" font-weight="700">In plain words: when the tumour is against the optic nerve</text>
+<text x="66" y="1540.85" font-size="15.5" fill="#8F7418" font-weight="700">or the chiasm, the treatment is fractionated, and this is the</text>
+<text x="66" y="1564.1" font-size="15.5" fill="#8F7418" font-weight="700">reason why.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1643.35" width="540" height="597.5" rx="18" fill="#FFFFFF"/>
+<path d="M 40 1661.35 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#C9A83E"/>
+</g>
+<text x="66" y="1687.35" font-size="18" fill="#123641" font-weight="800">What the guideline says, and the half it does not say</text>
+<circle cx="71" cy="1733.55" r="4.5" fill="#00806B"/>
+<text x="84" y="1738.55" font-size="14" fill="#345963">In well-selected cases with a tumour that is not large,</text>
+<text x="84" y="1759.55" font-size="14" fill="#345963">stereotactic radiosurgery is established as an alternative to</text>
+<text x="84" y="1780.55" font-size="14" fill="#345963">surgery.</text>
+<circle cx="71" cy="1818.55" r="4.5" fill="#00806B"/>
+<text x="84" y="1823.55" font-size="14" fill="#345963">For intracranial meningioma under 3 cm in diameter, local</text>
+<text x="84" y="1844.55" font-size="14" fill="#345963">control after radiosurgery is comparable to Simpson grade I</text>
+<text x="84" y="1865.55" font-size="14" fill="#345963">resection.</text>
+<circle cx="71" cy="1903.55" r="4.5" fill="#00806B"/>
+<text x="84" y="1908.55" font-size="14" fill="#345963">For larger tumours the guideline mentions fractionated</text>
+<text x="84" y="1929.55" font-size="14" fill="#345963">stereotactic treatment in 2 to 5 fractions.</text>
+<text x="66" y="1973.05" font-size="12.5" fill="#527078">European Association of Neuro-Oncology (EANO) 2021 guideline [B-S3]</text>
+<rect x="66" y="2006.55" width="488" height="208.3" rx="14" fill="#F6E2E0"/>
+<text x="82" y="2036.55" font-size="14" fill="#B04A4A" font-weight="800">What the guideline does not say</text>
+<text x="82" y="2072.85" font-size="14" fill="#345963">It gives no hard threshold of the form &quot;within so many</text>
+<text x="82" y="2093.85" font-size="14" fill="#345963">millimetres of the optic nerve it must be fractionated&quot;. &quot;Over</text>
+<text x="82" y="2114.85" font-size="14" fill="#345963">3 cm must be fractionated&quot; is a line drawn by clinical habit,</text>
+<text x="82" y="2135.85" font-size="14" fill="#345963">not a rule written into the guideline; when the same tumour is</text>
+<text x="82" y="2156.85" font-size="14" fill="#345963">scheduled for a different number of fractions at two hospitals,</text>
+<text x="82" y="2177.85" font-size="14" fill="#345963">this is usually where the difference comes from.</text>
+<text x="40" y="2291.85" font-size="21" fill="#8F7418" font-weight="800">The two sides did not treat the same size of</text>
+<text x="40" y="2320.2" font-size="21" fill="#8F7418" font-weight="800">tumour</text>
+<g filter="url(#sh)">
+<rect x="40" y="2362.55" width="540" height="1096.5" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2380.55 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="62" y="2402.55" font-size="18" fill="#123641" font-weight="800">Stereotactic radiosurgery</text>
+<rect x="62" y="2433.75" width="253.84" height="26" rx="13" fill="#7A6E58"/>
+<text x="73" y="2451.61" font-size="13.5" fill="#FFFFFF" font-weight="800">Retrospective cohort, 15 centres</text>
+<text x="62" y="2482.75" font-size="13" fill="#527078" font-weight="700">Study design</text>
+<text x="192" y="2482.75" font-size="13" fill="#345963">Retrospective multicentre cohort; all treated at least</text>
+<text x="192" y="2500.75" font-size="13" fill="#345963">five years earlier</text>
+<text x="62" y="2539.75" font-size="13" fill="#527078" font-weight="700">n (tumour type,</text>
+<text x="62" y="2557.75" font-size="13" fill="#527078" font-weight="700">WHO grade)</text>
+<text x="192" y="2539.75" font-size="13" fill="#345963">4,565 patients and 5,300 benign meningiomas; 3,768</text>
+<text x="192" y="2557.75" font-size="13" fill="#345963">tumours analysed after excluding imaging follow-up</text>
+<text x="192" y="2575.75" font-size="13" fill="#345963">under 24 months</text>
+<text x="62" y="2614.75" font-size="13" fill="#527078" font-weight="700">Follow-up</text>
+<text x="192" y="2614.75" font-size="13" fill="#345963">Median imaging follow-up 63 months</text>
+<text x="62" y="2653.75" font-size="13" fill="#527078" font-weight="700">Size and dose</text>
+<text x="192" y="2653.75" font-size="13" fill="#345963">Median tumour volume 4.8 cm3; median margin dose</text>
+<text x="192" y="2671.75" font-size="13" fill="#345963">14 Gy</text>
+<rect x="62" y="2701.75" width="317.98" height="26" rx="13" fill="#00806B"/>
+<text x="73" y="2719.61" font-size="13.5" fill="#FFFFFF" font-weight="800">Assessed by: change in volume on imaging</text>
+<rect x="62" y="2739.75" width="284.68" height="38" rx="6" fill="#00806B"/>
+<text x="73" y="2764.07" font-size="14" fill="#FFFFFF" font-weight="800">Shrank 58%</text>
+<rect x="349.68" y="2739.75" width="168.12" height="38" rx="6" fill="#5C77C4"/>
+<text x="360.68" y="2764.07" font-size="14" fill="#FFFFFF" font-weight="800">Unchanged 34.5%</text>
+<rect x="520.8" y="2739.75" width="34.2" height="38" rx="6" fill="#B04A4A"/>
+<rect x="62" y="2791.75" width="11" height="11" rx="2" fill="#00806B"/>
+<text x="82" y="2803.75" font-size="14" fill="#345963">Shrank 58 per cent</text>
+<rect x="62" y="2830.75" width="11" height="11" rx="2" fill="#5C77C4"/>
+<text x="82" y="2842.75" font-size="14" fill="#345963">Unchanged 34.5 per cent</text>
+<rect x="62" y="2869.75" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="82" y="2881.75" font-size="14" fill="#345963">Enlarged 7.5 per cent</text>
+<line x1="62" y1="2912.75" x2="558" y2="2912.75" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="62" y="2938.75" font-size="14" fill="#345963">Control rate</text>
+<text x="558" y="2943.75" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">92.5%</text>
+<text x="62" y="2979.05" font-size="14" fill="#345963">5-year progression-free survival</text>
+<text x="558" y="2984.05" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">95.2%</text>
+<text x="62" y="3019.35" font-size="14" fill="#345963">10-year progression-free survival</text>
+<text x="558" y="3024.35" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">88.6%</text>
+<text x="62" y="3059.65" font-size="14" fill="#345963">Needed re-treatment</text>
+<text x="558" y="3064.65" font-size="21" fill="#7A6E58" font-weight="800" text-anchor="end">2.2%</text>
+<text x="62" y="3099.95" font-size="14" fill="#345963">Permanent complications</text>
+<text x="558" y="3104.95" font-size="21" fill="#B04A4A" font-weight="800" text-anchor="end">6.6%</text>
+<rect x="62" y="3132.25" width="496" height="247.3" rx="14" fill="#F3E8CD"/>
+<text x="78" y="3162.25" font-size="14" fill="#8F7418" font-weight="800">Two things from the same dataset that have to be said together</text>
+<text x="78" y="3198.55" font-size="14" fill="#345963">Control was better at the skull base than at the convexity</text>
+<text x="78" y="3219.55" font-size="14" fill="#345963">(p&lt;.001) - location by itself changes the number to expect.</text>
+<text x="78" y="3258.55" font-size="14" fill="#345963">Control was significantly higher in tumours diagnosed on</text>
+<text x="78" y="3279.55" font-size="14" fill="#345963">imaging alone, with no tissue taken, than in pathologically</text>
+<text x="78" y="3300.55" font-size="14" fill="#345963">confirmed WHO grade 1 disease (p&lt;.001). That is direct</text>
+<text x="78" y="3321.55" font-size="14" fill="#345963">evidence of selection bias: the tumours irradiated without an</text>
+<text x="78" y="3342.55" font-size="14" fill="#345963">operation were the slower-growing ones to begin with.</text>
+<text x="62" y="3402.05" font-size="12.5" fill="#527078">Meningioma, benign - a mixture of pathologically confirmed WHO grade 1 and</text>
+<text x="62" y="3419.55" font-size="12.5" fill="#527078">imaging-only diagnoses | Santacroce 2012 [B-S21]</text>
+<g filter="url(#sh)">
+<rect x="40" y="3479.05" width="540" height="997.5" rx="18" fill="#FFFFFF"/>
+<path d="M 40 3497.05 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="62" y="3519.05" font-size="18" fill="#123641" font-weight="800">Fractionated stereotactic radiotherapy</text>
+<rect x="62" y="3550.25" width="270.45" height="26" rx="13" fill="#7A6E58"/>
+<text x="73" y="3568.11" font-size="13.5" fill="#FFFFFF" font-weight="800">Retrospective cohort, single centre</text>
+<text x="62" y="3599.25" font-size="13" fill="#527078" font-weight="700">Study design</text>
+<text x="192" y="3599.25" font-size="13" fill="#345963">Retrospective single-centre long-term experience</text>
+<text x="62" y="3638.25" font-size="13" fill="#527078" font-weight="700">n (tumour type,</text>
+<text x="62" y="3656.25" font-size="13" fill="#527078" font-weight="700">WHO grade)</text>
+<text x="192" y="3638.25" font-size="13" fill="#345963">317 patients; WHO grade 1 48.3 per cent, WHO grade 2</text>
+<text x="192" y="3656.25" font-size="13" fill="#345963">8.2 per cent, grade unknown in 43.5 per cent</text>
+<text x="62" y="3695.25" font-size="13" fill="#527078" font-weight="700">Follow-up</text>
+<text x="192" y="3695.25" font-size="13" fill="#345963">Median follow-up 5.7 years</text>
+<text x="62" y="3734.25" font-size="13" fill="#527078" font-weight="700">Size and dose</text>
+<text x="192" y="3734.25" font-size="13" fill="#345963">Median target volume 33.6 cm3, seven times that of</text>
+<text x="192" y="3752.25" font-size="13" fill="#345963">the single-fraction series; median total dose 57.6 Gy at</text>
+<text x="192" y="3770.25" font-size="13" fill="#345963">1.8 Gy per fraction</text>
+<rect x="62" y="3800.25" width="285.48" height="26" rx="13" fill="#00806B"/>
+<text x="73" y="3818.11" font-size="13.5" fill="#FFFFFF" font-weight="800">Assessed by: local control on imaging</text>
+<rect x="62" y="3838.25" width="346.18" height="38" rx="6" fill="#00806B"/>
+<text x="73" y="3862.57" font-size="14" fill="#FFFFFF" font-weight="800">Stable 70.4%</text>
+<rect x="411.18" y="3838.25" width="109.59" height="38" rx="6" fill="#ECE8DE"/>
+<text x="422.18" y="3862.57" font-size="14" fill="#FFFFFF" font-weight="800">Rest</text>
+<rect x="523.78" y="3838.25" width="31.22" height="38" rx="6" fill="#B04A4A"/>
+<rect x="62" y="3890.25" width="11" height="11" rx="2" fill="#00806B"/>
+<text x="82" y="3902.25" font-size="14" fill="#345963">Remained stable 70.4 per cent</text>
+<rect x="62" y="3929.25" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="82" y="3941.25" font-size="14" fill="#345963">Progressed on imaging 6.9 per cent, at a median of 4.5 years</text>
+<line x1="62" y1="3972.25" x2="558" y2="3972.25" stroke="#DBD3BF" stroke-width="1.2" stroke-linecap="round"/>
+<text x="62" y="3998.25" font-size="14" fill="#345963">Overall local control</text>
+<text x="558" y="4003.25" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">93.1%</text>
+<text x="62" y="4038.55" font-size="14" fill="#345963">Recurrence if volume &gt;60 cm3</text>
+<text x="558" y="4043.55" font-size="21" fill="#B04A4A" font-weight="800" text-anchor="end">15.5%</text>
+<text x="62" y="4078.85" font-size="14" fill="#345963">Recurrence if volume 60 cm3 or less</text>
+<text x="558" y="4083.85" font-size="21" fill="#96790F" font-weight="800" text-anchor="end">4.3%</text>
+<text x="62" y="4119.15" font-size="14" fill="#345963">Pre-existing neurological deficit improved</text>
+<text x="558" y="4124.15" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">42.9%</text>
+<text x="62" y="4159.45" font-size="14" fill="#345963">Pre-existing symptoms worsened</text>
+<text x="558" y="4164.45" font-size="21" fill="#B04A4A" font-weight="800" text-anchor="end">8.2%</text>
+<rect x="62" y="4191.75" width="496" height="205.3" rx="14" fill="#F3E8CD"/>
+<text x="78" y="4221.75" font-size="14" fill="#8F7418" font-weight="800">The strata inside this box</text>
+<text x="78" y="4258.05" font-size="14" fill="#345963">Recurrence was 15.5 per cent above 60 cm3 and 4.3 per cent at</text>
+<text x="78" y="4279.05" font-size="14" fill="#345963">60 cm3 or less (p&lt;0.001).</text>
+<text x="78" y="4318.05" font-size="14" fill="#345963">WHO grade 2 tumours failed locally significantly more often</text>
+<text x="78" y="4339.05" font-size="14" fill="#345963">(p&lt;0.002). Eight patients developed new symptoms (reduced</text>
+<text x="78" y="4360.05" font-size="14" fill="#345963">vision, trigeminal neuralgia, intermittent tinnitus).</text>
+<text x="62" y="4419.55" font-size="12.5" fill="#527078">Meningioma, WHO grade 1 48.3 per cent / WHO grade 2 8.2 per cent / grade</text>
+<text x="62" y="4437.05" font-size="12.5" fill="#527078">unknown 43.5 per cent | Milker-Zabel 2005 [B-S22]</text>
+<rect x="40" y="4496.55" width="540" height="117" rx="14" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="60" y="4530.55" font-size="14" fill="#345963">The two sets of numbers must not be set against one another - the</text>
+<text x="60" y="4551.55" font-size="14" fill="#345963">volumes differ several times over: a median of 4.8 cm3 against 33.6</text>
+<text x="60" y="4572.55" font-size="14" fill="#345963">cm3. Fractionated treatment is handling a different size of tumour.</text>
+<g filter="url(#sh)">
+<rect x="40" y="4637.55" width="540" height="275.6" rx="18" fill="#FFFFFF"/>
+<path d="M 40 4655.55 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="62" y="4675.05" font-size="15.5" fill="#123641" font-weight="800">Perioptic meningioma treated with conventional fractionation</text>
+<text x="62" y="4696.75" font-size="15.5" fill="#123641" font-weight="800">(transcribed through a review, not primary data; meningioma</text>
+<text x="62" y="4718.45" font-size="15.5" fill="#123641" font-weight="800">only)</text>
+<text x="62" y="4760.15" font-size="14" fill="#345963">Pooled local control 99.8 per cent, with vision maintained or</text>
+<text x="62" y="4781.15" font-size="14" fill="#345963">improved in about 90 per cent; tumour size was associated with</text>
+<text x="62" y="4802.15" font-size="14" fill="#345963">visual deterioration.</text>
+<text x="62" y="4843.15" font-size="14" fill="#345963">Estimated radiation-induced dry eye 10.1 per cent and retinopathy</text>
+<text x="62" y="4864.15" font-size="14" fill="#345963">7.2 per cent. [B-S20]</text>
+<g filter="url(#sh)">
+<rect x="40" y="4933.15" width="540" height="295.2" rx="18" fill="#FFFFFF"/>
+<path d="M 40 4951.15 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="62" y="4970.65" font-size="15.5" fill="#123641" font-weight="800">The time window: three to nine months after treatment</text>
+<text x="62" y="5012.35" font-size="14" fill="#345963">The commonest problem after single-fraction treatment is</text>
+<text x="62" y="5033.35" font-size="14" fill="#345963">radiation-induced brain oedema. In a systematic review of 26</text>
+<text x="62" y="5054.35" font-size="14" fill="#345963">studies focused on non-skull-base meningioma, 13 reported</text>
+<text x="62" y="5075.35" font-size="14" fill="#345963">non-skull-base disease separately or as its own group: symptomatic</text>
+<text x="62" y="5096.35" font-size="14" fill="#345963">oedema 5 to 43 per cent, any oedema 28 to 50 per cent.</text>
+<text x="62" y="5137.35" font-size="14" fill="#345963">Most studies report a mean time to onset of three to nine months</text>
+<text x="62" y="5158.35" font-size="14" fill="#345963">after treatment; the authors stress that the studies are not</text>
+<text x="62" y="5179.35" font-size="14" fill="#345963">consistent with one another. [B-S27]</text>
+<g filter="url(#sh)">
+<rect x="40" y="5258.35" width="540" height="1131.3" rx="18" fill="#FFFFFF"/>
+<path d="M 40 5276.35 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="66" y="5302.35" font-size="18" fill="#123641" font-weight="800">Proton therapy: elegant in physics, still undecided in</text>
+<text x="66" y="5327.55" font-size="18" fill="#123641" font-weight="800">the clinic</text>
+<rect x="66" y="5358.75" width="416.64" height="26" rx="13" fill="#B04A4A"/>
+<text x="77" y="5376.61" font-size="13.5" fill="#FFFFFF" font-weight="800">This must not be read as proton being better than photon</text>
+<text x="66" y="5410.75" font-size="14" fill="#527078">Meta-analysis comparing four techniques in WHO grade 1</text>
+<text x="66" y="5431.75" font-size="14" fill="#527078">meningioma only: 24 studies, 4,673 patients; the endpoint is 5-year</text>
+<text x="66" y="5452.75" font-size="14" fill="#527078">local control. [B-S25]</text>
+<text x="66" y="5486.75" font-size="14" fill="#527078" font-weight="700">Conventionally</text>
+<text x="66" y="5503.75" font-size="14" fill="#527078" font-weight="700">fractionated proton</text>
+<text x="66" y="5520.75" font-size="14" fill="#527078" font-weight="700">therapy</text>
+<rect x="266" y="5485.75" width="192" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="266" y="5485.75" width="184.13" height="26" rx="7" fill="#00806B"/>
+<text x="470" y="5506.31" font-size="21" fill="#00806B" font-weight="800">95.9%</text>
+<text x="66" y="5536.75" font-size="14" fill="#527078" font-weight="700">Conventionally</text>
+<text x="66" y="5553.75" font-size="14" fill="#527078" font-weight="700">fractionated photon</text>
+<text x="66" y="5570.75" font-size="14" fill="#527078" font-weight="700">therapy</text>
+<rect x="266" y="5535.75" width="192" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="266" y="5535.75" width="178.56" height="26" rx="7" fill="#5C77C4"/>
+<text x="470" y="5556.31" font-size="21" fill="#5C77C4" font-weight="800">93.0%</text>
+<text x="66" y="5586.75" font-size="14" fill="#527078" font-weight="700">Stereotactic</text>
+<text x="66" y="5603.75" font-size="14" fill="#527078" font-weight="700">radiosurgery (first</text>
+<text x="66" y="5620.75" font-size="14" fill="#527078" font-weight="700">group)</text>
+<rect x="266" y="5585.75" width="192" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="266" y="5585.75" width="182.98" height="26" rx="7" fill="#96790F"/>
+<text x="470" y="5606.31" font-size="21" fill="#96790F" font-weight="800">95.3%</text>
+<text x="66" y="5636.75" font-size="14" fill="#527078" font-weight="700">Stereotactic</text>
+<text x="66" y="5653.75" font-size="14" fill="#527078" font-weight="700">radiosurgery (second</text>
+<text x="66" y="5670.75" font-size="14" fill="#527078" font-weight="700">group)</text>
+<rect x="266" y="5635.75" width="192" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="266" y="5635.75" width="172.42" height="26" rx="7" fill="#7A6E58"/>
+<text x="470" y="5656.31" font-size="21" fill="#7A6E58" font-weight="800">89.8%</text>
+<line x1="266" y1="5685.75" x2="458" y2="5685.75" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="266" y1="5685.75" x2="266" y2="5691.75" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="266" y="5707.75" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="314" y1="5685.75" x2="314" y2="5691.75" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="314" y="5707.75" font-size="12.5" fill="#527078" text-anchor="middle">25</text>
+<line x1="362" y1="5685.75" x2="362" y2="5691.75" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="362" y="5707.75" font-size="12.5" fill="#527078" text-anchor="middle">50</text>
+<line x1="410" y1="5685.75" x2="410" y2="5691.75" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="410" y="5707.75" font-size="12.5" fill="#527078" text-anchor="middle">75</text>
+<line x1="458" y1="5685.75" x2="458" y2="5691.75" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="458" y="5707.75" font-size="12.5" fill="#527078" text-anchor="middle">100</text>
+<text x="266" y="5729.75" font-size="12" fill="#527078">5-year local control (%) | meningioma, WHO grade 1</text>
+<rect x="66" y="5737.75" width="488" height="109" rx="14" fill="#F3E8CD"/>
+<text x="82" y="5767.75" font-size="14" fill="#345963">The meta-regression showed that neither treatment modality</text>
+<text x="82" y="5788.75" font-size="14" fill="#345963">nor tumour volume was significantly associated with local</text>
+<text x="82" y="5809.75" font-size="14" fill="#345963">control.</text>
+<text x="66" y="5878.75" font-size="14" fill="#345963">A separate meta-analysis of proton therapy alone: 19 studies,</text>
+<text x="66" y="5899.75" font-size="14" fill="#345963">1,431 patients (WHO grade 1 70.6 per cent, grade 2 25.2 per cent,</text>
+<text x="66" y="5920.75" font-size="14" fill="#345963">grade 3 4.2 per cent), pooled complication rate 16 per cent, 5-year</text>
+<text x="66" y="5941.75" font-size="14" fill="#345963">overall survival 91 per cent and mean local control on imaging 71</text>
+<text x="66" y="5962.75" font-size="14" fill="#345963">per cent, all with high heterogeneity; the authors conclude that</text>
+<text x="66" y="5983.75" font-size="14" fill="#345963">more prospective research is needed. [B-S26]</text>
+<text x="66" y="6034.25" font-size="15.5" fill="#123641" font-weight="800">There is exactly one randomised comparison, and it has</text>
+<text x="66" y="6055.95" font-size="15.5" fill="#123641" font-weight="800">only just started</text>
+<rect x="66" y="6083.65" width="333.58" height="26" rx="13" fill="#8F7418"/>
+<text x="77" y="6101.51" font-size="13.5" fill="#FFFFFF" font-weight="800">Ongoing, primary completion February 2032</text>
+<text x="66" y="6135.65" font-size="14" fill="#345963">COG-PROTON-01 randomises benign cavernous sinus meningioma</text>
+<text x="66" y="6156.65" font-size="14" fill="#345963">1:1 to fractionated proton or photon radiotherapy, with 160</text>
+<text x="66" y="6177.65" font-size="14" fill="#345963">patients planned. The primary endpoint is cognitive and functional</text>
+<text x="66" y="6198.65" font-size="14" fill="#345963">deterioration (visual, hearing, neurological, endocrine) five years</text>
+<text x="66" y="6219.65" font-size="14" fill="#345963">after radiotherapy ends - not tumour control. Recruitment opened</text>
+<text x="66" y="6240.65" font-size="14" fill="#345963">in February 2024. [B-S23] [B-S24]</text>
+<rect x="66" y="6275.65" width="488" height="88" rx="14" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="82" y="6305.65" font-size="14" fill="#345963">So the sentence &quot;proton therapy is better for meningioma&quot;</text>
+<text x="82" y="6326.65" font-size="14" fill="#345963">has no clinical data behind it today.</text>
+<g filter="url(#sh)">
+<rect x="40" y="6419.65" width="540" height="1283.6" rx="18" fill="#FFFFFF"/>
+<path d="M 40 6437.65 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="66" y="6463.65" font-size="18" fill="#123641" font-weight="800">In Taiwan: what the statute says, and what it does</text>
+<text x="66" y="6488.85" font-size="18" fill="#123641" font-weight="800">not</text>
+<rect x="66" y="6520.05" width="449.86" height="26" rx="13" fill="#8F7418"/>
+<text x="77" y="6537.91" font-size="13.5" fill="#FFFFFF" font-weight="800">National Health Insurance fee schedule, effective 1 April 2026</text>
+<rect x="66" y="6558.05" width="488" height="163.1" rx="12" fill="#F3E8CD"/>
+<text x="82" y="6594.05" font-size="20" fill="#96790F" font-weight="800">37028B</text>
+<text x="170.83" y="6593.05" font-size="18" fill="#123641" font-weight="800">82,000 points</text>
+<text x="82" y="6616.05" font-size="14" fill="#345963" font-weight="700">&quot;Three-dimensional X-ray knife stereotactic radiosurgery&quot;</text>
+<text x="82" y="6636.35" font-size="14" fill="#345963" font-weight="700">(statute wording)</text>
+<text x="82" y="6673.15" font-size="12.5" fill="#527078">Diameter under three centimetres or volume fifteen cubic</text>
+<text x="82" y="6691.15" font-size="12.5" fill="#527078">centimetres or less, and three lesions or fewer</text>
+<rect x="66" y="6733.15" width="488" height="181.1" rx="12" fill="#F3E8CD"/>
+<text x="82" y="6769.15" font-size="20" fill="#96790F" font-weight="800">37029B</text>
+<text x="170.83" y="6768.15" font-size="18" fill="#123641" font-weight="800">153,229 points</text>
+<text x="82" y="6791.15" font-size="14" fill="#345963" font-weight="700">&quot;Image-guided intensity-modulated X-ray knife stereotactic</text>
+<text x="82" y="6811.45" font-size="14" fill="#345963" font-weight="700">radiosurgery&quot; (statute wording)</text>
+<text x="82" y="6848.25" font-size="12.5" fill="#527078">Three-dimensional diameter not exceeding 3.5 by 3.5 by 3.5</text>
+<text x="82" y="6866.25" font-size="12.5" fill="#527078">centimetres or volume twenty cubic centimetres, and three lesions or</text>
+<text x="82" y="6884.25" font-size="12.5" fill="#527078">fewer</text>
+<text x="66" y="6947.75" font-size="15.5" fill="#123641" font-weight="800">The indications name four tumours verbatim</text>
+<text x="66" y="6987.45" font-size="14" fill="#345963">Acoustic neuroma, meningioma, pituitary tumour and</text>
+<text x="66" y="7008.45" font-size="14" fill="#345963">craniopharyngioma (the statute's &quot;acoustic neuroma&quot; is vestibular</text>
+<text x="66" y="7029.45" font-size="14" fill="#345963">schwannoma, and its &quot;pituitary tumour&quot; is pituitary adenoma).</text>
+<text x="66" y="7079.95" font-size="15.5" fill="#B04A4A" font-weight="800">But one of six conditions, A to F, must also be met</text>
+<rect x="66" y="7109.65" width="30" height="26" rx="8" fill="#B04A4A"/>
+<text x="81" y="7127.65" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">A</text>
+<text x="108" y="7123.65" font-size="14" fill="#345963">Has undergone craniotomy but has residual or recurrent</text>
+<text x="108" y="7143.95" font-size="14" fill="#345963">tumour</text>
+<rect x="66" y="7170.25" width="30" height="26" rx="8" fill="#B04A4A"/>
+<text x="81" y="7188.25" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">B</text>
+<text x="108" y="7184.25" font-size="14" fill="#345963">Craniotomy would carry a risk of neurological injury or</text>
+<text x="108" y="7204.55" font-size="14" fill="#345963">substantial danger</text>
+<rect x="66" y="7230.85" width="30" height="26" rx="8" fill="#B04A4A"/>
+<text x="81" y="7248.85" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">C</text>
+<text x="108" y="7244.85" font-size="14" fill="#345963">Has severe cardiopulmonary or other medical disease</text>
+<text x="108" y="7265.15" font-size="14" fill="#345963">making invasive surgery or general anaesthesia unsuitable</text>
+<rect x="66" y="7291.45" width="30" height="26" rx="8" fill="#B04A4A"/>
+<text x="81" y="7309.45" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">...</text>
+<text x="108" y="7305.45" font-size="14" fill="#345963">(conditions D and E: see the statute)</text>
+<rect x="66" y="7331.75" width="30" height="26" rx="8" fill="#B04A4A"/>
+<text x="81" y="7349.75" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">F</text>
+<text x="108" y="7345.75" font-size="14" fill="#345963">Unilateral intracranial cerebellopontine angle acoustic</text>
+<text x="108" y="7366.05" font-size="14" fill="#345963">neuroma under 2.5 centimetres in width, excluding the</text>
+<text x="108" y="7386.35" font-size="14" fill="#345963">internal auditory canal</text>
+<text x="66" y="7434.65" font-size="14" fill="#B04A4A" font-weight="800">And the statute is explicit: every case must be submitted to the</text>
+<text x="66" y="7455.65" font-size="14" fill="#B04A4A" font-weight="800">insurer for prior approval on a case-by-case basis.</text>
+<rect x="66" y="7490.65" width="488" height="186.6" rx="14" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2.5"/>
+<text x="82" y="7520.65" font-size="14" fill="#123641" font-weight="800">The current version has no separate item for fractionated</text>
+<text x="82" y="7540.95" font-size="14" fill="#123641" font-weight="800">stereotactic treatment</text>
+<text x="82" y="7577.25" font-size="14" fill="#345963">So the insurance codes cannot be used to infer how the</text>
+<text x="82" y="7598.25" font-size="14" fill="#345963">insurer distinguishes single-fraction from fractionated</text>
+<text x="82" y="7619.25" font-size="14" fill="#345963">treatment. How a given course will be claimed is a question</text>
+<text x="82" y="7640.25" font-size="14" fill="#345963">for the hospital billing office or your case manager. [B-S51]</text>
+<rect x="40" y="7733.25" width="540" height="361.47" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="7777.25" font-size="18" fill="#8F7418" font-weight="800">The question is not which one is better</text>
+<text x="66" y="7808.45" font-size="15.5" fill="#345963">Ten minutes of a clinic appointment are better spent on this</text>
+<text x="66" y="7832.48" font-size="15.5" fill="#345963">particular tumour than on which machine will be used. Ask</text>
+<text x="66" y="7856.5" font-size="15.5" fill="#345963">two numbers about the tumour: what is its volume, and how</text>
+<text x="66" y="7880.53" font-size="15.5" fill="#345963">far is it from the optic nerves and chiasm? Then ask two</text>
+<text x="66" y="7904.55" font-size="15.5" fill="#345963">numbers about the plan: if it is a single fraction, where will</text>
+<text x="66" y="7928.58" font-size="15.5" fill="#345963">the maximum point dose to the optic apparatus fall, and if it</text>
+<text x="66" y="7952.6" font-size="15.5" fill="#345963">is fractionated, how many fractions and why that number?</text>
+<text x="66" y="7976.62" font-size="15.5" fill="#345963">Leave the last question for time: during the three to nine</text>
+<text x="66" y="8000.65" font-size="15.5" fill="#345963">months after treatment, how should oedema be watched for,</text>
+<text x="66" y="8024.67" font-size="15.5" fill="#345963">and what would mean coming back at once? This figure</text>
+<text x="66" y="8048.7" font-size="15.5" fill="#345963">decides nothing; it only shows which numbers to ask for.</text>
+<text x="40" y="8118.72" font-size="15" fill="#527078">Schematic, redrawn from the QUANTEC dose-volume effects for the</text>
+<text x="40" y="8141.22" font-size="15" fill="#527078">optic nerves and chiasm (Mayo 2010), the pooled analysis of optic</text>
+<text x="40" y="8163.72" font-size="15" fill="#527078">pathway tolerance (Milano 2021), the EANO 2021 guideline</text>
+<text x="40" y="8186.22" font-size="15" fill="#527078">(Goldbrunner 2021), the 4,565-patient stereotactic radiosurgery</text>
+<text x="40" y="8208.72" font-size="15" fill="#527078">cohort (Santacroce 2012), the 317-patient fractionated stereotactic</text>
+<text x="40" y="8231.22" font-size="15" fill="#527078">radiotherapy cohort (Milker-Zabel 2005), a radiotherapy review</text>
+<text x="40" y="8253.72" font-size="15" fill="#527078">(Eckelmann 2026), the four-technique meta-analysis in WHO grade 1</text>
+<text x="40" y="8276.22" font-size="15" fill="#527078">meningioma (Nitta 2026), the proton therapy meta-analysis (Wijaya</text>
+<text x="40" y="8298.72" font-size="15" fill="#527078">2026), the COG-PROTON-01 protocol and registry record (Lesueur</text>
+<text x="40" y="8321.22" font-size="15" fill="#527078">2024; NCT05895344), the systematic review of radiation-induced</text>
+<text x="40" y="8343.72" font-size="15" fill="#527078">oedema (Milano 2018) and the Taiwanese National Health Insurance</text>
+<text x="40" y="8366.22" font-size="15" fill="#527078">fee schedule; the cohorts, designs and endpoints of the underlying</text>
+<text x="40" y="8388.72" font-size="15" fill="#527078">studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

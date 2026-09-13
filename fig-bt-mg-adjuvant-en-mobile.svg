@@ -1,0 +1,358 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="7640" viewBox="0 0 620 7640" role="img" aria-labelledby="t d">
+  <title id="t">Four studies of adjuvant radiotherapy in WHO grade 2 meningioma: two randomised trials in different states, the phase 2 figures, and the observational pooled data</title>
+  <desc id="d">Schematic: whether radiotherapy should be added after surgery for WHO grade 2 meningioma, shown as four studies side by side in four different states. The first box is ROAM/EORTC-1308, with a gold status pill reading &quot;Closed to recruitment, awaiting results&quot;: a randomised phase 3 trial allocating 1:1 to 60 Gy in 30 fractions or active monitoring, eligibility being newly diagnosed solitary WHO grade 2 meningioma with a Simpson 1 to 3 resection and the ability to start radiotherapy within twelve weeks of surgery; recruitment ran from 28 April 2016 to 26 May 2021 and is closed, the target was 190 and 157 were actually recruited, and the overall trial end date is 31 March 2026. Its results field is drawn as a grey box reading &quot;Results not yet published&quot;, noting that the registry publications field still holds only the 2015 protocol and a 2020 qualitative analysis. The second box is NRG-BN003, with a blue status pill reading &quot;Still recruiting&quot;: a randomised phase 3 trial of radiotherapy against observation, eligibility being WHO grade 2 meningioma after gross total resection, an estimated 163 patients, still open, primary completion 15 June 2027 and overall completion 2032; its results field is likewise a grey box reading &quot;No results yet&quot;, noting that an ongoing trial must not be read as a known result. The eligibility criteria of these two boxes are picked out in two differently tinted panels headed &quot;they did not recruit the same people&quot;: ROAM takes Simpson 1 to 3, the surgeon's intraoperative judgement, which covers coagulation of the dura and leaving involved dura behind; NRG-BN003 takes patients after gross total resection. Beside them a panel explains why a question asked for ten years is still waiting, tagged &quot;Preprint, not peer reviewed&quot;: ROAM's own radiotherapy quality assurance analysis reports that of 56 centres completing the benchmark case 13, or 23 per cent, had major deviations, and that during the trial 28 centres treated 64 patients in all, a median of 2 per centre, with 25 (39 per cent) having to resubmit outlines or plans. The third box is RTOG 0539, its status pill reading &quot;Phase 2, risk-stratified, not randomised&quot;, with a ten-year analysis published in 2026. Ten-year progression-free survival for the three groups is drawn as horizontal bars: low risk, n=60 (WHO grade 1, observation after surgery, median follow-up 12.1 years), 85.2 per cent, with 10-year overall survival 94.1 per cent; intermediate risk, n=52 (recurrent WHO grade 1, or newly diagnosed WHO grade 2 after gross total resection, 54 Gy, median follow-up 12.0 years), 72.2 per cent, with 10-year overall survival 84.7 per cent and grade 3 or higher treatment-related toxicity in 5 patients (9.6 per cent); high risk, n=53 (newly diagnosed WHO grade 2 after subtotal resection, newly diagnosed WHO grade 3, or recurrent WHO grade 2 or 3, 60 Gy, median follow-up 11.1 years), 42.5 per cent, with 10-year overall survival 51.1 per cent and grade 3 or higher toxicity in 8 patients (15.1 per cent). A note states that the three group names are in fact the grid produced by crossing grade with whether the tumour was completely removed: the same WHO grade 2 tumour sits in the intermediate group after gross total resection and in the high-risk group after subtotal resection. Two further lines add that the first report of the intermediate-risk group gave a 3-year progression-free survival of 93.8 per cent (p=0.0003) against a historical control of about 70 per cent for gross total resection alone, not a concurrently randomised comparison group; and that EORTC 22042-26042 is a single-arm phase 2 study of 56 patients with WHO grade 2 disease, Simpson 1 to 3, treated to 60 Gy, median follow-up 5.1 years, estimated 3-year progression-free survival 88.7 per cent and grade 3 or higher late signs and symptoms 14.3 per cent. The section closes with a warning: these numbers look good, but not one of them is a randomised comparison of treating against not treating. The fourth box is the observational pooled data, with a grey status pill reading &quot;Observational, not randomised&quot;, drawing on 1,452 patients with WHO grade 2 meningioma from 1989 to 2019, of whom 276 (19.0 per cent) had adjuvant fractionated radiotherapy. The observational section opens with interval plots on a log scale with a dashed line at 1: local recurrence after gross total resection, odds ratio 0.50 (0.36 to 0.68), p&lt;0.0001, from 30 studies and 2,904 patients after gross total resection, 737 irradiated and 2,167 not; progression-free survival, hazard ratio 0.849 (0.730 to 0.988), p=0.035, from 23 studies and 3,822 patients; and overall survival, hazard ratio 0.79 (0.57 to 1.11), p=0.173, favouring radiotherapy but not significant. The conclusion drawn is that what the observational data will carry is &quot;recurrence comes later&quot;, not &quot;you live longer&quot;. Next comes the panel headed &quot;The larger of the two finds no benefit after gross total resection&quot;: unadjusted 5-year recurrence after gross total resection was 25.5 per cent among those irradiated and 22.8 per cent among those not, and after G-computation adjustment for age, sex, Simpson grade, Ki-67, location, national health system and year of treatment, the authors write that there is no evidence that adjuvant fractionated radiotherapy lowered the risk of recurrence. This is drawn as an interval plot with the zero line picked out clearly: the largest difference is -2.7 per cent with a 95 per cent confidence interval of -5.6 to 0.2, the zero line marked as meaning no difference, and the note that the interval does not rule out a small benefit but neither does it show that one exists. The same panel carries the finding the authors themselves flag as unexpected - mortality was higher among those irradiated after gross total resection, driven mainly by older patients with a low Ki-67 who nevertheless received radiotherapy - and the paper that points even further the other way: a single centre series of 318 patients with WHO grade 2 disease (1990 to 2023, 104 irradiated, median follow-up 5.1 years) in which adjuvant radiotherapy was associated with markedly worse progression-free survival (p&lt;0.0001 after both gross total and subtotal resection) and worse disease-specific survival after gross total resection (p=0.0237), retrospective single-centre data almost certainly affected by indication bias. A further panel states that subtotal resection is a different box: in the same 1,452-patient analysis the subtotal resection group points more consistently, radiotherapy being associated with a lower risk of recurrence both before and after adjustment, while the low-risk group of RTOG 0539 gives the mirror image, with 10-year progression-free survival of 87.6 per cent after gross total resection and 72.7 per cent after subtotal resection. At the foot of the figure a gold-bordered panel sets out what can be asked for in the years before there is an answer: three things have to be on the table first - the pathology report, the Simpson grade in the operation note, and the baseline postoperative magnetic resonance scan; the first question is whether this counts as gross total or subtotal resection and whether that is based on the intraoperative judgement or the postoperative imaging; then two questions pointing in opposite directions, namely how often the scan would be repeated and what would change the decision if there is no radiotherapy now, and how the dose and field are set and what is most likely to be damaged in this location if there is. The figure decides nothing for anyone, and the four boxes must not be compared with one another.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="7640" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">FOUR STUDIES, FOUR DIFFERENT STATES - AND</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">NOT ONE OF THEM ANSWERS IT</text>
+<text x="40" y="142" font-size="40" fill="#123641" font-weight="800" class="r">Radiotherapy after</text>
+<text x="40" y="192.4" font-size="40" fill="#123641" font-weight="800" class="r">surgery for WHO grade 2</text>
+<text x="40" y="242.8" font-size="40" fill="#123641" font-weight="800" class="r">meningioma: four studies,</text>
+<text x="40" y="293.2" font-size="40" fill="#123641" font-weight="800" class="r">four different states</text>
+<text x="40" y="353.6" font-size="19" fill="#527078">There is no randomised answer to this question today.</text>
+<text x="40" y="382.1" font-size="19" fill="#527078">The two randomised trials are not in the same state</text>
+<text x="40" y="410.6" font-size="19" fill="#527078">and must not be read as &quot;both still running&quot; - and they</text>
+<text x="40" y="439.1" font-size="19" fill="#527078">did not recruit the same people.</text>
+<text x="40" y="471.6" font-size="19" fill="#527078">Anything ongoing is labelled ongoing, and those two</text>
+<text x="40" y="500.1" font-size="19" fill="#527078">boxes carry no result. Observational and randomised</text>
+<text x="40" y="528.6" font-size="19" fill="#527078">evidence are labelled separately; every number</text>
+<text x="40" y="557.1" font-size="19" fill="#527078">carries its tumour type, WHO grade, n and follow-up</text>
+<text x="40" y="585.6" font-size="19" fill="#527078">time.</text>
+<text x="40" y="655.1" font-size="21" fill="#8F7418" font-weight="800">Four boxes side by side: design, state, and what</text>
+<text x="40" y="683.45" font-size="21" fill="#8F7418" font-weight="800">can be drawn</text>
+<g filter="url(#sh)">
+<rect x="40" y="725.8" width="540" height="665.72" rx="18" fill="#FFFFFF"/>
+<path d="M 40 743.8 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#8F7418"/>
+</g>
+<text x="60" y="763.3" font-size="17.5" fill="#123641" font-weight="800">ROAM/EORTC-1308</text>
+<rect x="60" y="792.92" width="297.61" height="26" rx="13" fill="#8F7418"/>
+<text x="71" y="810.78" font-size="13.5" fill="#FFFFFF" font-weight="800">Closed to recruitment, awaiting results</text>
+<text x="60" y="841.42" font-size="12.5" fill="#527078" font-weight="700">Design</text>
+<text x="60" y="859.42" font-size="14" fill="#345963">Randomised phase 3, 1:1</text>
+<text x="60" y="901.22" font-size="12.5" fill="#527078" font-weight="700">Intervention</text>
+<text x="60" y="919.22" font-size="14" fill="#345963">60 Gy in 30 fractions against active monitoring</text>
+<text x="60" y="961.02" font-size="12.5" fill="#527078" font-weight="700">Eligibility</text>
+<text x="60" y="979.02" font-size="14" fill="#345963">Newly diagnosed solitary WHO grade 2 meningioma, Simpson 1 to 3</text>
+<text x="60" y="999.32" font-size="14" fill="#345963">resection, able to start radiotherapy within twelve weeks of</text>
+<text x="60" y="1019.62" font-size="14" fill="#345963">surgery</text>
+<text x="60" y="1061.42" font-size="12.5" fill="#527078" font-weight="700">Recruitment</text>
+<text x="60" y="1079.42" font-size="14" fill="#345963">28 April 2016 to 26 May 2021, now closed</text>
+<text x="60" y="1121.22" font-size="12.5" fill="#527078" font-weight="700">Numbers</text>
+<text x="60" y="1139.22" font-size="14" fill="#345963">Target 190, actually recruited 157</text>
+<text x="60" y="1181.02" font-size="12.5" fill="#527078" font-weight="700">Overall trial end date</text>
+<text x="60" y="1199.02" font-size="14" fill="#345963">31 March 2026</text>
+<rect x="60" y="1230.32" width="500" height="103.2" rx="12" fill="url(#hatch)" opacity="0.5"/>
+<rect x="60" y="1230.32" width="500" height="103.2" rx="12" fill="none" stroke="#B9AE94" stroke-width="2"/>
+<text x="74" y="1259.82" font-size="15.5" fill="#7A6E58" font-weight="800">Results not yet published</text>
+<text x="74" y="1283.52" font-size="12.5" fill="#527078">The publications field of the registry record still holds only the 2015</text>
+<text x="74" y="1301.52" font-size="12.5" fill="#527078">protocol and a 2020 qualitative analysis.</text>
+<text x="60" y="1354.02" font-size="12.5" fill="#527078">Meningioma, WHO grade 2 | randomised | ISRCTN71502099 [B-S37]</text>
+<g filter="url(#sh)">
+<rect x="40" y="1407.52" width="540" height="607.12" rx="18" fill="#FFFFFF"/>
+<path d="M 40 1425.52 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="60" y="1445.02" font-size="17.5" fill="#123641" font-weight="800">NRG-BN003</text>
+<rect x="60" y="1474.65" width="125.14" height="26" rx="13" fill="#5C77C4"/>
+<text x="71" y="1492.51" font-size="13.5" fill="#FFFFFF" font-weight="800">Still recruiting</text>
+<text x="60" y="1523.15" font-size="12.5" fill="#527078" font-weight="700">Design</text>
+<text x="60" y="1541.15" font-size="14" fill="#345963">Randomised phase 3</text>
+<text x="60" y="1582.95" font-size="12.5" fill="#527078" font-weight="700">Intervention</text>
+<text x="60" y="1600.95" font-size="14" fill="#345963">Radiotherapy against observation</text>
+<text x="60" y="1642.75" font-size="12.5" fill="#527078" font-weight="700">Eligibility</text>
+<text x="60" y="1660.75" font-size="14" fill="#345963">WHO grade 2 meningioma AFTER gross total resection</text>
+<text x="60" y="1702.55" font-size="12.5" fill="#527078" font-weight="700">Recruitment</text>
+<text x="60" y="1720.55" font-size="14" fill="#345963">Still open</text>
+<text x="60" y="1762.35" font-size="12.5" fill="#527078" font-weight="700">Numbers</text>
+<text x="60" y="1780.35" font-size="14" fill="#345963">Estimated 163</text>
+<text x="60" y="1822.15" font-size="12.5" fill="#527078" font-weight="700">Primary completion</text>
+<text x="60" y="1840.15" font-size="14" fill="#345963">15 June 2027 (overall completion 2032)</text>
+<rect x="60" y="1871.45" width="500" height="85.2" rx="12" fill="url(#hatch)" opacity="0.5"/>
+<rect x="60" y="1871.45" width="500" height="85.2" rx="12" fill="none" stroke="#B9AE94" stroke-width="2"/>
+<text x="74" y="1900.95" font-size="15.5" fill="#7A6E58" font-weight="800">No results yet</text>
+<text x="74" y="1924.65" font-size="12.5" fill="#527078">An ongoing trial must not be read as a known result.</text>
+<text x="60" y="1977.15" font-size="12.5" fill="#527078">Meningioma, WHO grade 2 | randomised | NCT03180268 [B-S36]</text>
+<g filter="url(#sh)">
+<rect x="40" y="2030.65" width="540" height="354.03" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2048.65 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="60" y="2068.15" font-size="17.5" fill="#123641" font-weight="800">RTOG 0539</text>
+<rect x="60" y="2097.77" width="301.22" height="26" rx="13" fill="#96790F"/>
+<text x="71" y="2115.63" font-size="13.5" fill="#FFFFFF" font-weight="800">Phase 2, risk-stratified, not randomised</text>
+<text x="60" y="2146.27" font-size="12.5" fill="#527078" font-weight="700">Design</text>
+<text x="60" y="2164.27" font-size="14" fill="#345963">Non-randomised phase 2 in three risk groups</text>
+<text x="60" y="2206.07" font-size="12.5" fill="#527078" font-weight="700">Eligibility</text>
+<text x="60" y="2224.07" font-size="14" fill="#345963">See the three group definitions below</text>
+<text x="60" y="2265.88" font-size="12.5" fill="#527078" font-weight="700">Data available</text>
+<text x="60" y="2283.88" font-size="14" fill="#345963">Ten-year analysis published in 2026</text>
+<text x="60" y="2329.68" font-size="12.5" fill="#527078">Meningioma, WHO grades 1 to 3 | non-randomised phase 2 | Kotecha 2026</text>
+<text x="60" y="2347.18" font-size="12.5" fill="#527078">[B-S31]</text>
+<g filter="url(#sh)">
+<rect x="40" y="2400.68" width="540" height="377.13" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2418.68 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#7A6E58"/>
+</g>
+<text x="60" y="2438.18" font-size="17.5" fill="#123641" font-weight="800">Observational pooled data</text>
+<rect x="60" y="2467.8" width="236.65" height="26" rx="13" fill="#7A6E58"/>
+<text x="71" y="2485.66" font-size="13.5" fill="#FFFFFF" font-weight="800">Observational, not randomised</text>
+<text x="60" y="2516.3" font-size="12.5" fill="#527078" font-weight="700">Design</text>
+<text x="60" y="2534.3" font-size="14" fill="#345963">International multicentre database, retrospective cohort</text>
+<text x="60" y="2576.1" font-size="12.5" fill="#527078" font-weight="700">Eligibility</text>
+<text x="60" y="2594.1" font-size="14" fill="#345963">1,452 patients with WHO grade 2 meningioma (1989 to 2019), of</text>
+<text x="60" y="2614.4" font-size="14" fill="#345963">whom 276 (19.0 per cent) had adjuvant fractionated radiotherapy</text>
+<text x="60" y="2656.2" font-size="12.5" fill="#527078" font-weight="700">What this box asks</text>
+<text x="60" y="2674.2" font-size="14" fill="#345963">After gross total resection, did radiotherapy lower the risk of</text>
+<text x="60" y="2694.5" font-size="14" fill="#345963">recurrence</text>
+<text x="60" y="2740.3" font-size="12.5" fill="#527078">Meningioma, WHO grade 2 | observational | Mirian 2026 [B-S40]</text>
+<g filter="url(#sh)">
+<rect x="40" y="2801.8" width="540" height="678" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2819.8 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="64" y="2843.8" font-size="18" fill="#B04A4A" font-weight="800">These two boxes have different eligibility criteria -</text>
+<text x="64" y="2869" font-size="18" fill="#B04A4A" font-weight="800">they did not recruit the same people</text>
+<rect x="64" y="2906.2" width="492" height="150.2" rx="14" fill="#F3E8CD" stroke="#8F7418" stroke-width="2.5"/>
+<text x="80" y="2937.7" font-size="15.5" fill="#8F7418" font-weight="800">ROAM eligibility: Simpson 1 to 3</text>
+<text x="80" y="2977.4" font-size="14" fill="#345963">Simpson 1 to 3 is the surgeon's intraoperative judgement, and</text>
+<text x="80" y="2998.4" font-size="14" fill="#345963">it covers coagulation of the dura and leaving involved dura</text>
+<text x="80" y="3019.4" font-size="14" fill="#345963">behind.</text>
+<rect x="64" y="3068.4" width="492" height="129.2" rx="14" fill="#E3E8F6" stroke="#5C77C4" stroke-width="2.5"/>
+<text x="80" y="3099.9" font-size="15.5" fill="#5C77C4" font-weight="800">NRG-BN003 eligibility: after gross total resection</text>
+<text x="80" y="3139.6" font-size="14" fill="#345963">BN003 requires gross total resection. Even once both report,</text>
+<text x="80" y="3160.6" font-size="14" fill="#345963">they cannot be stacked together as one question.</text>
+<text x="64" y="3231.1" font-size="15.5" fill="#123641" font-weight="800">Why a question asked for ten years is still waiting</text>
+<rect x="64" y="3258.8" width="219.9" height="26" rx="13" fill="#7A6E58"/>
+<text x="75" y="3276.66" font-size="13.5" fill="#FFFFFF" font-weight="800">Preprint, not peer reviewed</text>
+<text x="64" y="3308.8" font-size="14" fill="#345963">ROAM's own radiotherapy quality assurance analysis sets out the</text>
+<text x="64" y="3329.8" font-size="14" fill="#345963">reason: of 56 centres completing the benchmark case, 13 (23 per</text>
+<text x="64" y="3350.8" font-size="14" fill="#345963">cent) had major deviations; during the trial 28 centres treated 64</text>
+<text x="64" y="3371.8" font-size="14" fill="#345963">patients in total, a median of 2 per centre, and 25 (39 per cent) had</text>
+<text x="64" y="3392.8" font-size="14" fill="#345963">to resubmit outlines or plans. That is what a complex radiotherapy</text>
+<text x="64" y="3413.8" font-size="14" fill="#345963">trial in a rare tumour looks like: slow to recruit, quality-controlled</text>
+<text x="64" y="3434.8" font-size="14" fill="#345963">at every step. [B-S39]</text>
+<g filter="url(#sh)">
+<rect x="40" y="3509.8" width="540" height="1176.3" rx="18" fill="#FFFFFF"/>
+<path d="M 40 3527.8 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="64" y="3551.8" font-size="18" fill="#123641" font-weight="800">What has reported is the phase 2 data</text>
+<text x="64" y="3597" font-size="14" fill="#527078">The three group names read easily as a ranking of severity. They</text>
+<text x="64" y="3618" font-size="14" fill="#527078">are in fact the grid produced by crossing grade with whether the</text>
+<text x="64" y="3639" font-size="14" fill="#527078">tumour was completely removed: the same WHO grade 2 tumour</text>
+<text x="64" y="3660" font-size="14" fill="#527078">sits in the intermediate group after gross total resection and in the</text>
+<text x="64" y="3681" font-size="14" fill="#527078">high-risk group after subtotal resection.</text>
+<text x="64" y="3731.5" font-size="15.5" fill="#123641" font-weight="800">Low risk  n=60</text>
+<text x="64" y="3755.2" font-size="12.5" fill="#527078">WHO grade 1, observation after surgery; median follow-up</text>
+<text x="64" y="3772.7" font-size="12.5" fill="#527078">12.1 years</text>
+<text x="64" y="3814.2" font-size="14" fill="#527078" font-weight="700"></text>
+<rect x="284" y="3796.2" width="172" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="3796.2" width="146.54" height="26" rx="7" fill="#00806B"/>
+<text x="468" y="3816.76" font-size="21" fill="#00806B" font-weight="800">85.2%</text>
+<text x="64" y="3838.7" font-size="12.5" fill="#345963">10-year overall survival 94.1 per cent</text>
+<text x="64" y="3884.2" font-size="15.5" fill="#123641" font-weight="800">Intermediate risk  n=52</text>
+<text x="64" y="3907.9" font-size="12.5" fill="#527078">Recurrent WHO grade 1, or newly diagnosed WHO grade 2</text>
+<text x="64" y="3925.4" font-size="12.5" fill="#527078">after gross total resection; 54 Gy; median follow-up 12.0</text>
+<text x="64" y="3942.9" font-size="12.5" fill="#527078">years</text>
+<text x="64" y="3984.4" font-size="14" fill="#527078" font-weight="700"></text>
+<rect x="284" y="3966.4" width="172" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="3966.4" width="124.18" height="26" rx="7" fill="#96790F"/>
+<text x="468" y="3986.96" font-size="21" fill="#96790F" font-weight="800">72.2%</text>
+<text x="64" y="4008.9" font-size="12.5" fill="#345963">10-year overall survival 84.7 per cent; grade 3 or higher treatment-related</text>
+<text x="64" y="4026.9" font-size="12.5" fill="#345963">toxicity in 5 patients (9.6 per cent)</text>
+<text x="64" y="4072.4" font-size="15.5" fill="#123641" font-weight="800">High risk  n=53</text>
+<text x="64" y="4096.1" font-size="12.5" fill="#527078">Newly diagnosed WHO grade 2 after subtotal resection,</text>
+<text x="64" y="4113.6" font-size="12.5" fill="#527078">newly diagnosed WHO grade 3, or recurrent WHO grade 2</text>
+<text x="64" y="4131.1" font-size="12.5" fill="#527078">or 3; 60 Gy; median follow-up 11.1 years</text>
+<text x="64" y="4172.6" font-size="14" fill="#527078" font-weight="700"></text>
+<rect x="284" y="4154.6" width="172" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="4154.6" width="73.1" height="26" rx="7" fill="#B04A4A"/>
+<text x="468" y="4175.16" font-size="21" fill="#B04A4A" font-weight="800">42.5%</text>
+<text x="64" y="4197.1" font-size="12.5" fill="#345963">10-year overall survival 51.1 per cent; grade 3 or higher toxicity in 8</text>
+<text x="64" y="4215.1" font-size="12.5" fill="#345963">patients (15.1 per cent)</text>
+<line x1="284" y1="4239.1" x2="456" y2="4239.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="284" y1="4239.1" x2="284" y2="4245.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="284" y="4261.1" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="327" y1="4239.1" x2="327" y2="4245.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="327" y="4261.1" font-size="12.5" fill="#527078" text-anchor="middle">25</text>
+<line x1="370" y1="4239.1" x2="370" y2="4245.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="370" y="4261.1" font-size="12.5" fill="#527078" text-anchor="middle">50</text>
+<line x1="413" y1="4239.1" x2="413" y2="4245.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="413" y="4261.1" font-size="12.5" fill="#527078" text-anchor="middle">75</text>
+<line x1="456" y1="4239.1" x2="456" y2="4245.1" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="456" y="4261.1" font-size="12.5" fill="#527078" text-anchor="middle">100</text>
+<text x="284" y="4283.1" font-size="12" fill="#527078">10-year progression-free survival (%) | meningioma, non-randomised phase 2</text>
+<text x="64" y="4307.1" font-size="14" fill="#345963">The first report of the intermediate-risk group gave a 3-year</text>
+<text x="64" y="4328.1" font-size="14" fill="#345963">progression-free survival of 93.8 per cent (p=0.0003), but that p</text>
+<text x="64" y="4349.1" font-size="14" fill="#345963">value is against a historical control - about 70 per cent for gross</text>
+<text x="64" y="4370.1" font-size="14" fill="#345963">total resection alone - and not against a concurrently randomised</text>
+<text x="64" y="4391.1" font-size="14" fill="#345963">comparison group. [B-S29]</text>
+<text x="64" y="4434.1" font-size="14" fill="#345963">EORTC 22042-26042 is a single-arm phase 2 study: 56 patients with</text>
+<text x="64" y="4455.1" font-size="14" fill="#345963">WHO grade 2 disease, Simpson 1 to 3, treated to 60 Gy, median</text>
+<text x="64" y="4476.1" font-size="14" fill="#345963">follow-up 5.1 years, estimated 3-year progression-free survival</text>
+<text x="64" y="4497.1" font-size="14" fill="#345963">88.7 per cent, grade 3 or higher late signs and symptoms 14.3 per</text>
+<text x="64" y="4518.1" font-size="14" fill="#345963">cent. [B-S34]</text>
+<rect x="64" y="4553.1" width="492" height="109" rx="14" fill="#F3E8CD"/>
+<text x="80" y="4583.1" font-size="14" fill="#345963">These numbers look good, but none of them answers the</text>
+<text x="80" y="4604.1" font-size="14" fill="#345963">question at hand - not one is a randomised comparison of</text>
+<text x="80" y="4625.1" font-size="14" fill="#345963">treating against not treating.</text>
+<g filter="url(#sh)">
+<rect x="40" y="4716.1" width="540" height="880.4" rx="18" fill="#FFFFFF"/>
+<path d="M 40 4734.1 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#7A6E58"/>
+</g>
+<text x="64" y="4758.1" font-size="18" fill="#123641" font-weight="800">Which way the observational data point: fewer</text>
+<text x="64" y="4783.3" font-size="18" fill="#123641" font-weight="800">recurrences, not longer life</text>
+<rect x="64" y="4814.5" width="282.88" height="26" rx="13" fill="#7A6E58"/>
+<text x="75" y="4832.36" font-size="13.5" fill="#FFFFFF" font-weight="800">All of these are observational studies</text>
+<text x="64" y="4868" font-size="15.5" fill="#123641" font-weight="800">Local recurrence after gross total resection</text>
+<line x1="72" y1="4908.7" x2="548" y2="4908.7" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="72" y1="4903.7" x2="72" y2="4913.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="72" y="4938.7" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="230.67" y1="4903.7" x2="230.67" y2="4913.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="230.67" y="4938.7" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="389.33" y1="4903.7" x2="389.33" y2="4913.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="389.33" y="4938.7" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="548" y1="4903.7" x2="548" y2="4913.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="548" y="4938.7" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="389.33" y1="4889.7" x2="389.33" y2="4927.7" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="155.47" y1="4908.7" x2="301.05" y2="4908.7" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="155.47" y1="4900.7" x2="155.47" y2="4916.7" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="301.05" y1="4900.7" x2="301.05" y2="4916.7" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="230.67" cy="4908.7" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="4959.7" font-size="14" fill="#00806B" font-weight="800">Odds ratio 0.50 (0.36 to 0.68), p&lt;0.0001</text>
+<text x="64" y="4994.5" font-size="12.5" fill="#527078">30 studies, 2,904 patients with WHO grade 2 disease after gross total</text>
+<text x="64" y="5012.5" font-size="12.5" fill="#527078">resection (737 irradiated, 2,167 not). An odds ratio divides one ratio of</text>
+<text x="64" y="5030.5" font-size="12.5" fill="#527078">events to non-events by another; it is not a multiple of a probability. [B-S32]</text>
+<text x="64" y="5078" font-size="15.5" fill="#123641" font-weight="800">Progression-free survival</text>
+<line x1="72" y1="5118.7" x2="548" y2="5118.7" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="72" y1="5113.7" x2="72" y2="5123.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="72" y="5148.7" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="230.67" y1="5113.7" x2="230.67" y2="5123.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="230.67" y="5148.7" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="389.33" y1="5113.7" x2="389.33" y2="5123.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="389.33" y="5148.7" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="548" y1="5113.7" x2="548" y2="5123.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="548" y="5148.7" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="389.33" y1="5099.7" x2="389.33" y2="5137.7" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="317.29" y1="5118.7" x2="386.57" y2="5118.7" stroke="#96790F" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="317.29" y1="5110.7" x2="317.29" y2="5126.7" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<line x1="386.57" y1="5110.7" x2="386.57" y2="5126.7" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<circle cx="351.86" cy="5118.7" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="5169.7" font-size="14" fill="#96790F" font-weight="800">Hazard ratio 0.849 (0.730 to 0.988), p=0.035</text>
+<text x="64" y="5204.5" font-size="12.5" fill="#527078">Meta-analysis of reconstructed time-to-event data from 23 studies, 3,822</text>
+<text x="64" y="5222.5" font-size="12.5" fill="#527078">patients with WHO grade 2 disease. [B-S33]</text>
+<text x="64" y="5270" font-size="15.5" fill="#123641" font-weight="800">Overall survival</text>
+<line x1="72" y1="5310.7" x2="548" y2="5310.7" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="72" y1="5305.7" x2="72" y2="5315.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="72" y="5340.7" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="230.67" y1="5305.7" x2="230.67" y2="5315.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="230.67" y="5340.7" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="389.33" y1="5305.7" x2="389.33" y2="5315.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="389.33" y="5340.7" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="548" y1="5305.7" x2="548" y2="5315.7" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="548" y="5340.7" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="389.33" y1="5291.7" x2="389.33" y2="5329.7" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="260.66" y1="5310.7" x2="413.22" y2="5310.7" stroke="#7A6E58" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="260.66" y1="5302.7" x2="260.66" y2="5318.7" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<line x1="413.22" y1="5302.7" x2="413.22" y2="5318.7" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<circle cx="335.37" cy="5310.7" r="7.5" fill="#7A6E58" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="5361.7" font-size="14" fill="#7A6E58" font-weight="800">Hazard ratio 0.79 (0.57 to 1.11), p=0.173</text>
+<text x="64" y="5396.5" font-size="12.5" fill="#527078">Same meta-analysis; favours radiotherapy but is not significant. In the other</text>
+<text x="64" y="5414.5" font-size="12.5" fill="#527078">pooled analysis overall survival showed no significant difference at any</text>
+<text x="64" y="5432.5" font-size="12.5" fill="#527078">time point. [B-S33] [B-S32]</text>
+<text x="72" y="5476.5" font-size="12" fill="#527078">Odds ratio / hazard ratio on a log scale | the dashed line is 1</text>
+<rect x="64" y="5484.5" width="492" height="88" rx="14" fill="#F3E8CD"/>
+<text x="80" y="5514.5" font-size="14" fill="#345963">So what the observational data will carry is &quot;recurrence</text>
+<text x="80" y="5535.5" font-size="14" fill="#345963">comes later&quot;. It will not carry &quot;you live longer&quot;.</text>
+<g filter="url(#sh)">
+<rect x="40" y="5626.5" width="540" height="1237.28" rx="18" fill="#FFFFFF"/>
+<path d="M 40 5644.5 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#7A6E58"/>
+</g>
+<text x="64" y="5668.5" font-size="18" fill="#123641" font-weight="800">The larger of the two finds no benefit after gross</text>
+<text x="64" y="5693.7" font-size="18" fill="#123641" font-weight="800">total resection</text>
+<rect x="64" y="5724.9" width="313.36" height="26" rx="13" fill="#7A6E58"/>
+<text x="75" y="5742.76" font-size="13.5" fill="#FFFFFF" font-weight="800">Observational, after gross total resection</text>
+<text x="64" y="5776.9" font-size="14" fill="#345963">Unadjusted 5-year recurrence after gross total resection: 25.5 per</text>
+<text x="64" y="5797.9" font-size="14" fill="#345963">cent among those irradiated, 22.8 per cent among those not.</text>
+<text x="64" y="5840.9" font-size="14" fill="#345963">After G-computation adjustment for age, sex, Simpson grade, Ki-67,</text>
+<text x="64" y="5861.9" font-size="14" fill="#345963">location, national health system and year of treatment, the authors</text>
+<text x="64" y="5882.9" font-size="14" fill="#345963">write that there is no evidence that adjuvant fractionated</text>
+<text x="64" y="5903.9" font-size="14" fill="#345963">radiotherapy lowered the risk of recurrence.</text>
+<rect x="72" y="5940.9" width="476" height="34" rx="8" fill="#ECE8DE"/>
+<line x1="72" y1="5957.9" x2="548" y2="5957.9" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="389.33" y1="5928.9" x2="389.33" y2="5988.9" stroke="#123641" stroke-width="2.6" stroke-linecap="butt"/>
+<line x1="72" y1="5974.9" x2="72" y2="5980.9" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="72" y="6000.9" font-size="12" fill="#527078" text-anchor="middle">-8</text>
+<line x1="151.33" y1="5974.9" x2="151.33" y2="5980.9" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="151.33" y="6000.9" font-size="12" fill="#527078" text-anchor="middle">-6</text>
+<line x1="230.67" y1="5974.9" x2="230.67" y2="5980.9" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="230.67" y="6000.9" font-size="12" fill="#527078" text-anchor="middle">-4</text>
+<line x1="310" y1="5974.9" x2="310" y2="5980.9" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="310" y="6000.9" font-size="12" fill="#527078" text-anchor="middle">-2</text>
+<line x1="389.33" y1="5974.9" x2="389.33" y2="5980.9" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="389.33" y="6000.9" font-size="12" fill="#123641" font-weight="800" text-anchor="middle">0</text>
+<line x1="468.67" y1="5974.9" x2="468.67" y2="5980.9" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="468.67" y="6000.9" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="548" y1="5974.9" x2="548" y2="5980.9" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="548" y="6000.9" font-size="12" fill="#527078" text-anchor="middle">4</text>
+<line x1="167.2" y1="5957.9" x2="397.27" y2="5957.9" stroke="#7A6E58" stroke-width="5" stroke-linecap="round"/>
+<line x1="167.2" y1="5948.9" x2="167.2" y2="5966.9" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<line x1="397.27" y1="5948.9" x2="397.27" y2="5966.9" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<circle cx="282.23" cy="5957.9" r="8" fill="#7A6E58" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="72" y="6020.9" font-size="12" fill="#527078">Difference in 5-year recurrence rate (percentage points) | the zero line means no difference</text>
+<text x="64" y="6046.4" font-size="15.5" fill="#123641" font-weight="800">Largest difference -2.7% (95% confidence interval -5.6 to 0.2)</text>
+<text x="64" y="6086.87" font-size="14" fill="#527078">The confidence interval does not rule out a small benefit, but</text>
+<text x="64" y="6107.87" font-size="14" fill="#527078">neither does it show that one exists.</text>
+<text x="64" y="6162.87" font-size="14" fill="#345963">The same dataset carries a finding the authors themselves flag as</text>
+<text x="64" y="6183.87" font-size="14" fill="#345963">unexpected: mortality was higher among those irradiated after</text>
+<text x="64" y="6204.87" font-size="14" fill="#345963">gross total resection, driven mainly by older patients with a low</text>
+<text x="64" y="6225.87" font-size="14" fill="#345963">Ki-67 who nevertheless received radiotherapy. [B-S40]</text>
+<rect x="64" y="6260.87" width="492" height="291.6" rx="14" fill="#F6E2E0"/>
+<text x="80" y="6290.87" font-size="14" fill="#B04A4A" font-weight="800">The paper that points even further the other way belongs here</text>
+<text x="80" y="6311.17" font-size="14" fill="#B04A4A" font-weight="800">too</text>
+<text x="80" y="6347.47" font-size="14" fill="#345963">A single centre series of 318 patients with WHO grade 2</text>
+<text x="80" y="6368.47" font-size="14" fill="#345963">disease (1990 to 2023, 104 irradiated, median follow-up 5.1</text>
+<text x="80" y="6389.47" font-size="14" fill="#345963">years) found adjuvant radiotherapy associated with markedly</text>
+<text x="80" y="6410.47" font-size="14" fill="#345963">worse progression-free survival (p&lt;0.0001 after both gross</text>
+<text x="80" y="6431.47" font-size="14" fill="#345963">total and subtotal resection) and worse disease-specific</text>
+<text x="80" y="6452.47" font-size="14" fill="#345963">survival after gross total resection (p=0.0237). This is</text>
+<text x="80" y="6473.47" font-size="14" fill="#345963">retrospective single-centre data and is almost certainly</text>
+<text x="80" y="6494.47" font-size="14" fill="#345963">affected by indication bias - the more aggressive tumours are</text>
+<text x="80" y="6515.47" font-size="14" fill="#345963">the ones sent for radiotherapy. [B-S41]</text>
+<rect x="64" y="6568.47" width="492" height="271.3" rx="14" fill="#ECE8DE"/>
+<text x="80" y="6598.47" font-size="14" fill="#123641" font-weight="800">Subtotal resection is a different box</text>
+<text x="80" y="6634.77" font-size="14" fill="#345963">In the same 1,452-patient analysis the subtotal resection group</text>
+<text x="80" y="6655.77" font-size="14" fill="#345963">points more consistently: radiotherapy was associated with a</text>
+<text x="80" y="6676.77" font-size="14" fill="#345963">lower risk of recurrence, both before and after adjustment.</text>
+<text x="80" y="6697.77" font-size="14" fill="#345963">[B-S40] The low-risk group of RTOG 0539 gives the mirror</text>
+<text x="80" y="6718.77" font-size="14" fill="#345963">image: on central review, 10-year progression-free survival</text>
+<text x="80" y="6739.77" font-size="14" fill="#345963">was 87.6 per cent after gross total resection and 72.7 per cent</text>
+<text x="80" y="6760.77" font-size="14" fill="#345963">after subtotal resection. [B-S28] &quot;Should a completely removed</text>
+<text x="80" y="6781.77" font-size="14" fill="#345963">tumour be irradiated&quot; and &quot;should an incompletely removed</text>
+<text x="80" y="6802.77" font-size="14" fill="#345963">tumour be irradiated&quot; were never the same question.</text>
+<rect x="40" y="6893.77" width="540" height="482.77" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="6937.77" font-size="18" fill="#8F7418" font-weight="800">What can be asked for in the years before there is</text>
+<text x="66" y="6962.97" font-size="18" fill="#8F7418" font-weight="800">an answer</text>
+<text x="66" y="6994.17" font-size="15.5" fill="#345963">Three things have to be on the table first: the pathology</text>
+<text x="66" y="7018.2" font-size="15.5" fill="#345963">report (grade, mitotic count, whether brain invasion is</text>
+<text x="66" y="7042.22" font-size="15.5" fill="#345963">mentioned, Ki-67), the Simpson grade in the operation note,</text>
+<text x="66" y="7066.25" font-size="15.5" fill="#345963">and the baseline postoperative magnetic resonance scan.</text>
+<text x="66" y="7090.27" font-size="15.5" fill="#345963">With those in hand, the first question is whether this counts</text>
+<text x="66" y="7114.3" font-size="15.5" fill="#345963">as gross total or subtotal resection, and whether that is</text>
+<text x="66" y="7138.32" font-size="15.5" fill="#345963">based on the intraoperative judgement or on the</text>
+<text x="66" y="7162.35" font-size="15.5" fill="#345963">postoperative imaging. Then two questions pointing in</text>
+<text x="66" y="7186.37" font-size="15.5" fill="#345963">opposite directions: if there is no radiotherapy now, how</text>
+<text x="66" y="7210.4" font-size="15.5" fill="#345963">often will the scan be repeated and what would change the</text>
+<text x="66" y="7234.42" font-size="15.5" fill="#345963">decision; and if there is radiotherapy now, how are the dose</text>
+<text x="66" y="7258.45" font-size="15.5" fill="#345963">and the field set, and what is most likely to be damaged in</text>
+<text x="66" y="7282.47" font-size="15.5" fill="#345963">this particular location? This figure decides nothing for</text>
+<text x="66" y="7306.5" font-size="15.5" fill="#345963">anyone, and the four boxes must not be compared with one</text>
+<text x="66" y="7330.52" font-size="15.5" fill="#345963">another - their designs, states and populations all differ.</text>
+<text x="40" y="7400.55" font-size="15" fill="#527078">Schematic, redrawn from the ROAM/EORTC-1308 registry record</text>
+<text x="40" y="7423.05" font-size="15" fill="#527078">(ISRCTN71502099), the NRG-BN003 registry record (NCT03180268),</text>
+<text x="40" y="7445.55" font-size="15" fill="#527078">the ROAM radiotherapy quality assurance preprint (Mayles 2026, not</text>
+<text x="40" y="7468.05" font-size="15" fill="#527078">peer reviewed), the RTOG 0539 ten-year analysis (Kotecha 2026) and</text>
+<text x="40" y="7490.55" font-size="15" fill="#527078">its initial reports (Rogers 2018; Rogers 2023), EORTC 22042-26042</text>
+<text x="40" y="7513.05" font-size="15" fill="#527078">(Weber 2018), the adjuvant radiotherapy meta-analyses (Chun 2021;</text>
+<text x="40" y="7535.55" font-size="15" fill="#527078">Verly 2024), the 1,452-patient international multicentre cohort</text>
+<text x="40" y="7558.05" font-size="15" fill="#527078">(Mirian 2026) and the 318-patient single-centre cohort (Giotta</text>
+<text x="40" y="7580.55" font-size="15" fill="#527078">Lucifero 2026); the cohorts, designs and endpoints of the underlying</text>
+<text x="40" y="7603.05" font-size="15" fill="#527078">studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

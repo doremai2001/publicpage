@@ -1,0 +1,256 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="3958" viewBox="0 0 1440 3958" role="img" aria-labelledby="t d">
+  <title id="t">三種瘤的追蹤時程，以及量法如何決定「有沒有長大」的答案</title>
+  <desc id="d">示意圖：三種良性腦瘤的追蹤時程，以及量法如何決定「有沒有長大」的答案。第一段是三份指引、三張刻意不對齊的時程表，三條軸之間畫著「三條軸不對齊，也不可以互相套用」的分隔。腦膜瘤那一條來自歐洲神經腫瘤學會 2021 指引，證據等級是良好臨床實務建議，也就是專家共識，原文是「目前依共識，對疑似腦膜瘤或第 1 級腦膜瘤，建議每年做磁振造影，持續五年；其後間隔可以加倍」，軸上標出第 1 到第 5 年，尾端標「其後間隔可以加倍」。聽神經瘤那一條來自美國神經外科醫學會 2018 年影像指引，屬第 3 級建議，也就是最低，原文是「應每年做磁振造影，持續五年；其後在腫瘤穩定的前提下拉長間隔」，並註明這份指引 2026 年有更新版，措辭與間隔都改了。垂體瘤那一條來自美國內分泌學會 2011 年偶然瘤指引，針對不符合手術條件的偶然瘤，原文是「大腺瘤 6 個月、微腺瘤一年做磁振造影，之後若大小不變則逐步拉長間隔；貼到或壓迫視神經與視交叉者，6 個月與每年做視野檢查；大腺瘤在 6 個月與每年做內分泌檢查」。圖上把證據等級講白：腦膜瘤那一條是專家共識；聽神經瘤那一套指引的相關建議全部是第 3 級，編撰者自己在執行摘要寫「若干設計良好的問題與後續搜尋，沒有產生足以做出有意義且站得住的建議的資訊」；這些間隔背後沒有隨機試驗撐著，醫師會依你的情況調整。第二段是腦膜瘤換一把尺量答案會反過來，兩個數字同框。左邊是體積量法，Behbahani 2019 前瞻研究，n=64 位偶然發現腦膜瘤的人追蹤五年，生長的定義是體積比基線多 15%，結果 75%、也就是 48 顆體積增加；同一份研究還說生長型態有五種，其中 S 型佔 35%，超過六成是自限性的，拿今年的速率推十年後方法上就是錯的；生長速率跟年齡有關，不到 55 歲每年 0.10 立方公分、55 到 75 歲 0.24、超過 75 歲 0.85。右邊是複合惡化終點，IMPACT 外部驗證，JAMA Oncology 2026，33 中心、15 國、1,248 人、1,010 顆未治療腦膜瘤、中位追蹤 61 個月，終點的定義是生長加症狀加腦膜瘤相關死亡加失去可治癒時機，結果十年無惡化 85.7%，五年 88.1%；同一個世代裡 383 人、40.5% 在腦膜瘤沒動靜、也沒接受治療的情況下死於別的原因。圖上寫明：七成五會長大，跟十年有八成五不會惡化，同時是真的，所以正確的句子是「大多數不會因此出事」，而且要講清楚是用哪一把尺量的。另外附一段：一份 20 篇、2,130 人的統合分析連同 2019 年勘誤給的是，主動監測期間出現症狀 8.4%，95% 信賴區間 2.8 到 16.7%，24.8% 最後接受介入，多數惡化的病人都在診斷後五年內發生。第三段是聽神經瘤的觀察，價格是聽力。Kirchmann 2017：156 位內耳道內聽神經瘤、保守處置、平均追蹤 9.5 年，純音平均聽閾從 51 dB 惡化到 72 dB，語音辨識分數從 60% 掉到 34%，AAO-HNS 甲級聽力的人從 19% 掉到 3%，腫瘤生長 37%，保守處置失敗 15%。同一批 156 人、同一次追蹤，換一套評分系統，答案差 24 個百分點：以 AAO-HNS 甲乙級算，可用聽力保存率 34%；以語音辨識分數的一、二級算是 58%。圖上把兩條並排畫成長條，並註明同一批人、同一次追蹤，只是換了評分系統，所以看到任何一個保存率數字，先問一句你用的是哪一把尺。美國神經外科醫學會聽力保存指引把觀察組維持可用聽力的機率列為第 2 年超過 75% 到 100%、第 5 年超過 50% 到 75%、第 10 年超過 25% 到 50%，並指出最一致的預測因子是治療前的聽力與腫瘤沒有生長。聽神經瘤的生長定義是最大徑增加 2 公釐：丹麥全國 1976 到 2015 年的 3,637 例散發性聽神經瘤裡，2,312 人接受觀察、平均追蹤 7.33 年，生長的定義是線性測量增加超過 2 公釐，依東京 2001 共識；依位置分開，診斷後五年曾生長的比例是內耳道內 21%、延伸到小腦橋腦角 37%，十年是 25% 與 42%，生長主要發生在最初五年；因生長轉為積極治療的是 434 人、19%。長了不等於會一直長：一份四中心、592 位已量到生長卻仍繼續觀察的病人研究顯示，從第一次偵測到生長算起，五年內沒有再長的比例是內耳道內 32%、小腦橋腦角 22%；作者的結論是觀察期間偵測到的生長未必預示未來會生長，在適當選擇的病人身上容忍一些生長是站得住的，而那個限定詞不能拿掉，適不適合是醫師選的。第四段是垂體瘤的觀察量的是三件事，尺又換了，用的是每 100 人年的事件率：大腺瘤每 100 人年 12.5（95% 信賴區間 7.9 到 17.2）、實質性病灶 5.7、微腺瘤 3.3、新發生的內分泌功能異常整體 2.4、囊性病灶 0.05。來源是一份 11 篇、追蹤三到十五年的系統性回顧與統合分析；垂體中風與視野缺損惡化都很罕見；作者把這批證據的品質評為非常低，並註明有明顯異質性。垂體瘤的觀察不只照影像，那份指引同時要求視野與內分泌檢查。第五段是什麼讓觀察停下來、什麼讓追蹤鬆開。腦膜瘤是有症狀或正在長大；聽神經瘤是量到生長之後依位置分流，內耳道內多半繼續觀察，延伸到小腦橋腦角的多半開刀；垂體瘤照內分泌學會那張手術清單：視野缺損、壓迫造成的視覺異常或神經受壓、病灶貼到視路、合併視覺障礙的垂體中風、泌乳素瘤以外的過度分泌腫瘤。什麼時候可以鬆開，腦膜瘤這格有研究：一個 441 人的預後模型顯示，追蹤五年之後所有風險組的惡化風險都進入平台；而年齡校正查爾森共病指數 6 分以上的人，例如 80 歲合併慢性腎病，診斷後五年內死於其他原因的可能性是接受介入的 15 倍，不分風險組。但「連續幾年沒變就不用再追」的年數，三份指引都沒寫。圖上並標明：這是醫師用工具分層後的決定，不是你自己可以決定的事；門診裡值得問出口的是，我這一顆，你是用哪一個工具、看哪幾項把我分到這一層的。第六段是台灣端，畫成三道閘門。第一道：適應症有沒有你這一種瘤——支付標準 37028B 與 37029B 的適應症確實寫了「聽神經瘤、腦膜瘤、腦下垂體瘤、顱咽管瘤」。第二道：且須符合下列條件之一——「A.曾接受開顱手術，但有殘餘腫瘤或腫瘤復發者。B.開顱手術可能造成神經損傷或危險性大者。C.有嚴重心肺疾病或其他內科疾病，不適合侵入性手術或全身麻醉者。……F.顱內單側小腦橋腦角聽神經瘤寬度小於 2.5 公分（不含內耳道）者。」第三道：全部個案須事前專案向保險人申請，條文逐字，這一道沒有例外。出口寫的是：條文把放射手術放在「開刀走不通或風險太大」之後，不是第一步，這解釋了為什麼台灣的第一步常是觀察或手術。至於磁振造影追蹤的頻次，針對這三種瘤的條文在全表裡查不到列項——查不到列項不等於沒有給付，怎麼申報問醫務課。圖的最後一格是不准的讀法：這張圖不說「反正都會觀察」。觀察不是什麼都不做，也不是三種瘤共用一套；三條時程刻意不對齊，就是為了擋掉把其中一條搬去用在另一條。生長速率不是保證——上面每一個長大都綁著一種量法，最大徑還是體積、線性還是複合終點，標籤拿掉數字就不能比。離開診間前把四格填滿：下一次影像是幾月、照哪一種序列；要一起量的東西，聽力、視野、荷爾蒙抽血；哪些狀況要提前回來，請醫師講出你這一顆專屬的那幾項；這次的測量值是最大徑幾公釐或體積幾立方公分，用的是哪一種量法。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="3958" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">OBSERVATION IS A PRESCRIPTION, NOT A PAUSE</text>
+<text x="84" y="142" font-size="38" fill="#123641" font-weight="800" class="r">三張刻意不對齊的時程表</text>
+<text x="84" y="201.88" font-size="19" fill="#527078">觀察是處方：有指定的影像、間隔、要一起量的東西，還有寫好的停止條件。三種瘤的處方長得不一樣。</text>
+<text x="84" y="236.38" font-size="19" fill="#527078">而且「有沒有長大」這個問題，換一把尺量，答案會反過來——所以每個數字都要標明量法。</text>
+<text x="84" y="336.88" font-size="22" fill="#123641" font-weight="800" class="r">三份指引，三張不同的時程表</text>
+<text x="84" y="365.36" font-size="15" fill="#527078">三條軸刻意不對齊，因為它們本來就不對齊。證據等級寫在每一條後面。</text>
+<g filter="url(#sh)">
+<rect x="84" y="384.86" width="1272" height="356.88" rx="18" fill="#FFFFFF"/>
+</g>
+<rect x="110" y="410.86" width="73" height="29" rx="14.5" fill="#96790F"/>
+<text x="124" y="430.91" font-size="15" fill="#FFFFFF" font-weight="800">腦膜瘤</text>
+<text x="110" y="463.86" font-size="14" fill="#123641" font-weight="800">歐洲神經腫瘤學會 2021 指引</text>
+<text x="110" y="486.74" font-size="13" fill="#527078">良好臨床實務建議（專家共識）</text>
+<line x1="148.67" y1="520.24" x2="430.93" y2="520.24" stroke="#96790F" stroke-width="3" stroke-linecap="butt"/>
+<line x1="430.93" y1="520.24" x2="444.65" y2="520.24" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<polygon points="452.93,520.24 444.72,523.91 444.72,516.57" fill="#96790F"/>
+<circle cx="192.09" cy="520.24" r="7" fill="#96790F" stroke="#FFFFFF" stroke-width="2.2"/>
+<circle cx="235.52" cy="520.24" r="7" fill="#96790F" stroke="#FFFFFF" stroke-width="2.2"/>
+<circle cx="278.94" cy="520.24" r="7" fill="#96790F" stroke="#FFFFFF" stroke-width="2.2"/>
+<circle cx="322.37" cy="520.24" r="7" fill="#96790F" stroke="#FFFFFF" stroke-width="2.2"/>
+<circle cx="365.79" cy="520.24" r="7" fill="#96790F" stroke="#FFFFFF" stroke-width="2.2"/>
+<text x="192.09" y="504.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">第 1 年</text>
+<text x="235.52" y="546.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">第 2 年</text>
+<text x="278.94" y="504.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">第 3 年</text>
+<text x="322.37" y="546.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">第 4 年</text>
+<text x="365.79" y="504.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">第 5 年</text>
+<text x="110" y="573.24" font-size="13" fill="#96790F" font-weight="800">其後間隔可以加倍</text>
+<text x="110" y="604.74" font-size="14" fill="#345963">「目前依共識，對疑似腦膜瘤或第 1 級腦膜瘤，建議每年做磁</text>
+<text x="110" y="625.74" font-size="14" fill="#345963">振造影，持續五年；其後間隔可以加倍」。</text>
+<rect x="526.67" y="410.86" width="88" height="29" rx="14.5" fill="#00806B"/>
+<text x="540.67" y="430.91" font-size="15" fill="#FFFFFF" font-weight="800">聽神經瘤</text>
+<text x="526.67" y="463.86" font-size="14" fill="#123641" font-weight="800">美國神經外科醫學會 2018 影像指引</text>
+<text x="526.67" y="486.74" font-size="13" fill="#527078">第 3 級建議（最低）</text>
+<line x1="526.67" y1="520.24" x2="828.27" y2="520.24" stroke="#00806B" stroke-width="3" stroke-linecap="butt"/>
+<line x1="828.27" y1="520.24" x2="841.99" y2="520.24" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<polygon points="850.27,520.24 842.05,523.91 842.05,516.57" fill="#00806B"/>
+<circle cx="578.37" cy="520.24" r="7" fill="#00806B" stroke="#FFFFFF" stroke-width="2.2"/>
+<circle cx="630.07" cy="520.24" r="7" fill="#00806B" stroke="#FFFFFF" stroke-width="2.2"/>
+<circle cx="681.78" cy="520.24" r="7" fill="#00806B" stroke="#FFFFFF" stroke-width="2.2"/>
+<circle cx="733.48" cy="520.24" r="7" fill="#00806B" stroke="#FFFFFF" stroke-width="2.2"/>
+<circle cx="785.18" cy="520.24" r="7" fill="#00806B" stroke="#FFFFFF" stroke-width="2.2"/>
+<text x="578.37" y="504.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">第 1 年</text>
+<text x="630.07" y="546.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">第 2 年</text>
+<text x="681.78" y="504.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">第 3 年</text>
+<text x="733.48" y="546.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">第 4 年</text>
+<text x="785.18" y="504.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">第 5 年</text>
+<text x="526.67" y="573.24" font-size="13" fill="#00806B" font-weight="800">其後在腫瘤穩定的前提下拉長間隔</text>
+<text x="526.67" y="604.74" font-size="14" fill="#345963">「應每年做磁振造影，持續五年；其後在腫瘤穩定的前提下拉</text>
+<text x="526.67" y="625.74" font-size="14" fill="#345963">長間隔」。這份指引 2026 年有更新版，措辭與間隔都改了。</text>
+<rect x="943.33" y="410.86" width="73" height="29" rx="14.5" fill="#5C77C4"/>
+<text x="957.33" y="430.91" font-size="15" fill="#FFFFFF" font-weight="800">垂體瘤</text>
+<text x="943.33" y="463.86" font-size="14" fill="#123641" font-weight="800">美國內分泌學會 2011 偶然瘤指引</text>
+<text x="943.33" y="486.74" font-size="13" fill="#527078">臨床實務指引（針對不符合手術條件的偶然瘤）</text>
+<line x1="943.33" y1="520.24" x2="1244.93" y2="520.24" stroke="#5C77C4" stroke-width="3" stroke-linecap="butt"/>
+<line x1="1244.93" y1="520.24" x2="1258.65" y2="520.24" stroke="#5C77C4" stroke-width="3" stroke-linecap="round"/>
+<polygon points="1266.93,520.24 1258.72,523.91 1258.72,516.57" fill="#5C77C4"/>
+<circle cx="988.57" cy="520.24" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.2"/>
+<circle cx="1033.81" cy="520.24" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.2"/>
+<circle cx="1169.53" cy="520.24" r="7" fill="#5C77C4" stroke="#FFFFFF" stroke-width="2.2"/>
+<text x="988.57" y="504.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">大腺瘤 6 個月</text>
+<text x="1033.81" y="546.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">微腺瘤 1 年</text>
+<text x="1169.53" y="504.24" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">之後逐步拉長</text>
+<text x="943.33" y="573.24" font-size="13" fill="#5C77C4" font-weight="800">之後若大小不變則逐步拉長間隔</text>
+<text x="943.33" y="604.74" font-size="14" fill="#345963">「大腺瘤 6 個月、微腺瘤一年做磁振造影，之後若大小不變則</text>
+<text x="943.33" y="625.74" font-size="14" fill="#345963">逐步拉長間隔；貼到或壓迫視神經與視交叉者，6 個月與每年</text>
+<text x="943.33" y="646.74" font-size="14" fill="#345963">做視野檢查；大腺瘤在 6 個月與每年做內分泌檢查」。</text>
+<line x1="511.67" y1="404.86" x2="511.67" y2="659.74" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<text x="511.67" y="451.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">三</text>
+<text x="511.67" y="468.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">條</text>
+<text x="511.67" y="485.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">軸</text>
+<text x="511.67" y="502.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">不</text>
+<text x="511.67" y="519.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">對</text>
+<text x="511.67" y="536.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">齊</text>
+<text x="511.67" y="553.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">，</text>
+<text x="511.67" y="570.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">不</text>
+<text x="511.67" y="587.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">可</text>
+<text x="511.67" y="604.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">互</text>
+<text x="511.67" y="621.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">套</text>
+<line x1="928.33" y1="404.86" x2="928.33" y2="659.74" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<text x="928.33" y="451.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">三</text>
+<text x="928.33" y="468.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">條</text>
+<text x="928.33" y="485.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">軸</text>
+<text x="928.33" y="502.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">不</text>
+<text x="928.33" y="519.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">對</text>
+<text x="928.33" y="536.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">齊</text>
+<text x="928.33" y="553.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">，</text>
+<text x="928.33" y="570.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">不</text>
+<text x="928.33" y="587.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">可</text>
+<text x="928.33" y="604.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">互</text>
+<text x="928.33" y="621.3" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">套</text>
+<text x="110" y="687.74" font-size="14" fill="#345963">證據等級要講白：腦膜瘤那一條是專家共識；聽神經瘤那一套指引的相關建議全部是第 3 級（最低），編撰者自己在執行摘要寫「若干設計良好的問題與後續搜尋，沒有產生足以做出有意義且站得住</text>
+<text x="110" y="708.74" font-size="14" fill="#345963">的建議的資訊」。這些間隔背後沒有隨機試驗撐著，醫師會依你的情況調整。</text>
+<text x="84" y="793.74" font-size="22" fill="#123641" font-weight="800" class="r">腦膜瘤：換一把尺量，答案會反過來</text>
+<text x="84" y="822.22" font-size="15" fill="#527078">這兩個數字要同框看。它們不衝突——衝突的是「長大」的定義。</text>
+<rect x="84" y="841.72" width="622" height="348.18" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="106" y="863.72" width="88" height="29" rx="14.5" fill="#96790F"/>
+<text x="120" y="883.77" font-size="15" fill="#FFFFFF" font-weight="800">體積量法</text>
+<text x="106" y="918.72" font-size="14" fill="#123641" font-weight="800">Behbahani 2019（前瞻研究）</text>
+<text x="106" y="943.6" font-size="13" fill="#527078">n=64 位偶然發現腦膜瘤的人，追蹤五年</text>
+<rect x="106" y="963.1" width="578" height="44.3" rx="10" fill="#F3E8CD"/>
+<text x="120" y="989.1" font-size="14" fill="#123641" font-weight="800">生長的定義：體積比基線多 15%</text>
+<text x="106" y="1057.8" font-size="40" fill="#96790F" font-weight="800">75%</text>
+<text x="106" y="1084.6" font-size="14" fill="#527078" font-weight="700">48 顆體積增加</text>
+<text x="106" y="1118.9" font-size="14" fill="#345963">同一份研究：生長型態有五種，其中 S 型佔 35%，超過六成是自限性的——拿今年的速率推十</text>
+<text x="106" y="1139.9" font-size="14" fill="#345963">年後，方法上就是錯的。生長速率跟年齡有關：不到 55 歲每年 0.10 立方公分、55 到 75 歲</text>
+<text x="106" y="1160.9" font-size="14" fill="#345963">0.24、超過 75 歲 0.85。</text>
+<rect x="734" y="841.72" width="622" height="348.18" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="756" y="863.72" width="118" height="29" rx="14.5" fill="#5C77C4"/>
+<text x="770" y="883.77" font-size="15" fill="#FFFFFF" font-weight="800">複合惡化終點</text>
+<text x="756" y="918.72" font-size="14" fill="#123641" font-weight="800">IMPACT 外部驗證（JAMA Oncology 2026）</text>
+<text x="756" y="943.6" font-size="13" fill="#527078">33 中心、15 國、1,248 人、1,010 顆未治療腦膜瘤，中位追蹤 61 個月</text>
+<rect x="756" y="963.1" width="578" height="44.3" rx="10" fill="#E3E8F6"/>
+<text x="770" y="989.1" font-size="14" fill="#123641" font-weight="800">終點的定義：生長＋症狀＋腦膜瘤相關死亡＋失去可治癒時機</text>
+<text x="756" y="1057.8" font-size="40" fill="#5C77C4" font-weight="800">85.7%</text>
+<text x="756" y="1084.6" font-size="14" fill="#527078" font-weight="700">十年無惡化（五年 88.1%）</text>
+<text x="756" y="1118.9" font-size="14" fill="#345963">同一個世代裡，383 人（40.5%）在腦膜瘤沒動靜、也沒接受治療的情況下死於別的原因。年</text>
+<text x="756" y="1139.9" font-size="14" fill="#345963">紀越大長得越快，但年紀大的人也最可能先因為別的原因離開——兩句要放在一起才完整。</text>
+<rect x="84" y="1207.9" width="1272" height="63" rx="14" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2"/>
+<text x="104" y="1243.9" font-size="14" fill="#345963">七成五會長大，跟十年有八成五不會惡化，同時是真的。所以正確的句子是「大多數不會因此出事」，而且要講清楚是用哪一把尺量的。</text>
+<rect x="84" y="1286.9" width="1272" height="84" rx="14" fill="none" stroke="#B9AE94" stroke-width="2"/>
+<text x="104" y="1322.9" font-size="14" fill="#345963">那觀察會不會拖出事？一份 20 篇、2,130 人的統合分析（連同 2019 年勘誤）給的是：主動監測期間出現症狀 8.4%（95% 信賴區間 2.8 到 16.7%），24.8% 最後接受介入；「多數惡化的病人都在診斷</text>
+<text x="104" y="1343.9" font-size="14" fill="#345963">後五年內發生」。</text>
+<text x="84" y="1422.9" font-size="22" fill="#123641" font-weight="800" class="r">聽神經瘤的觀察，價格是聽力</text>
+<text x="84" y="1451.38" font-size="15" fill="#527078">同一批 156 人、同一次追蹤，換一套評分系統，答案差 24 個百分點。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1470.88" width="1272" height="773.07" rx="18" fill="#FFFFFF"/>
+</g>
+<rect x="110" y="1496.88" width="76" height="25" rx="12.5" fill="#00806B"/>
+<text x="121" y="1514.37" font-size="13.5" fill="#FFFFFF" font-weight="800">聽神經瘤</text>
+<text x="110" y="1547.88" font-size="14" fill="#123641" font-weight="800">Kirchmann 2017：156 位內耳道內聽神經瘤、保守處置、平均追蹤 9.5 年</text>
+<text x="110" y="1580.18" font-size="14" fill="#527078" font-weight="700">純音平均聽閾</text>
+<text x="573.6" y="1580.18" font-size="14" fill="#345963">51 dB → 72 dB</text>
+<text x="110" y="1609.18" font-size="14" fill="#527078" font-weight="700">語音辨識分數</text>
+<text x="573.6" y="1609.18" font-size="14" fill="#345963">60% → 34%</text>
+<text x="110" y="1638.18" font-size="14" fill="#527078" font-weight="700">AAO-HNS 甲級聽力的人</text>
+<text x="573.6" y="1638.18" font-size="14" fill="#345963">19% → 3%</text>
+<text x="110" y="1667.18" font-size="14" fill="#527078" font-weight="700">腫瘤生長</text>
+<text x="573.6" y="1667.18" font-size="14" fill="#345963">37%</text>
+<text x="110" y="1696.18" font-size="14" fill="#527078" font-weight="700">保守處置失敗</text>
+<text x="573.6" y="1696.18" font-size="14" fill="#345963">15%</text>
+<text x="110" y="1741.18" font-size="14" fill="#527078" font-weight="700">以 AAO-HNS 甲乙級算，可用聽力保存率</text>
+<rect x="646.8" y="1725.18" width="573.2" height="24" rx="6" fill="#ECE8DE"/>
+<rect x="646.8" y="1725.18" width="194.89" height="24" rx="6" fill="#00806B"/>
+<text x="1330" y="1745.18" font-size="22" fill="#00806B" font-weight="800" text-anchor="end">34%</text>
+<text x="110" y="1785.18" font-size="14" fill="#527078" font-weight="700">以語音辨識分數的一、二級算</text>
+<rect x="646.8" y="1769.18" width="573.2" height="24" rx="6" fill="#ECE8DE"/>
+<rect x="646.8" y="1769.18" width="332.46" height="24" rx="6" fill="#00806B"/>
+<text x="1330" y="1789.18" font-size="22" fill="#00806B" font-weight="800" text-anchor="end">58%</text>
+<text x="110" y="1827.18" font-size="14" fill="#B04A4A" font-weight="800">同一批 156 人，差 24 個百分點</text>
+<text x="110" y="1864.18" font-size="14" fill="#345963">同一批人、同一次追蹤，只是換了評分系統。所以看到任何一個「保存率」數字，先問一句：你用的是哪一把尺？</text>
+<line x1="110" y1="1891.18" x2="1330" y2="1891.18" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<text x="110" y="1921.18" font-size="14" fill="#123641" font-weight="800">美國神經外科醫學會聽力保存指引：觀察組維持可用聽力的機率（聽神經瘤）</text>
+<text x="110" y="1953.48" font-size="14" fill="#527078" font-weight="700">第 2 年</text>
+<text x="378.4" y="1953.48" font-size="14" fill="#345963">超過 75% 到 100%</text>
+<text x="110" y="1982.48" font-size="14" fill="#527078" font-weight="700">第 5 年</text>
+<text x="378.4" y="1982.48" font-size="14" fill="#345963">超過 50% 到 75%</text>
+<text x="110" y="2011.48" font-size="14" fill="#527078" font-weight="700">第 10 年</text>
+<text x="378.4" y="2011.48" font-size="14" fill="#345963">超過 25% 到 50%</text>
+<text x="110" y="2044.48" font-size="14" fill="#345963">並指出最一致的預測因子是治療前的聽力與腫瘤沒有生長。</text>
+<line x1="110" y1="2071.48" x2="1330" y2="2071.48" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<text x="110" y="2102.98" font-size="15.5" fill="#123641" font-weight="800">聽神經瘤的「生長」是最大徑增加 2 公釐</text>
+<text x="110" y="2133.95" font-size="14" fill="#345963">丹麥全國 1976 到 2015 年的 3,637 例散發性聽神經瘤裡，2,312 人接受觀察、平均追蹤 7.33 年；生長的定義是「線性測量增加超過 2 公釐」，依東京 2001 共識。依位置分開，診斷後五年曾生長</text>
+<text x="110" y="2154.95" font-size="14" fill="#345963">的比例是內耳道內 21%、延伸到小腦橋腦角 37%，十年是 25% 與 42%，生長「主要發生在最初五年」。因生長轉為積極治療的是 434 人（19%）。</text>
+<text x="110" y="2189.95" font-size="14" fill="#345963">「長了」不等於「會一直長」。一份四中心、592 位已量到生長卻仍繼續觀察的病人研究顯示，從第一次偵測到生長算起，五年內沒有再長的比例是內耳道內 32%、小腦橋腦角 22%；作者的結論是「</text>
+<text x="110" y="2210.95" font-size="14" fill="#345963">觀察期間偵測到的生長，未必預示未來會生長……在適當選擇的病人身上，容忍一些生長是站得住的」。那個限定詞不能拿掉：適不適合是醫師選的。</text>
+<text x="84" y="2295.95" font-size="22" fill="#123641" font-weight="800" class="r">垂體瘤的觀察，量的是三件事</text>
+<text x="84" y="2324.43" font-size="15" fill="#527078">垂體這格的尺又換了：用的是每 100 人年的事件率。</text>
+<g filter="url(#sh)">
+<rect x="84" y="2343.93" width="1272" height="370.25" rx="18" fill="#FFFFFF"/>
+</g>
+<rect x="110" y="2369.93" width="103" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="121" y="2387.43" font-size="13.5" fill="#FFFFFF" font-weight="800">腦下垂體腺瘤</text>
+<text x="110" y="2425.93" font-size="14" fill="#527078" font-weight="700">大腺瘤</text>
+<rect x="524.8" y="2410.93" width="605.2" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="524.8" y="2410.93" width="540.36" height="20" rx="5" fill="#5C77C4"/>
+<text x="1142" y="2426.93" font-size="13" fill="#345963">每 100 人年 12.5（95% 信賴區</text>
+<text x="1142" y="2445.43" font-size="13" fill="#345963">間 7.9 到 17.2）</text>
+<text x="110" y="2474.93" font-size="14" fill="#527078" font-weight="700">實質性病灶</text>
+<rect x="524.8" y="2459.93" width="605.2" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="524.8" y="2459.93" width="246.4" height="20" rx="5" fill="#5C77C4"/>
+<text x="1142" y="2475.93" font-size="13" fill="#345963">每 100 人年 5.7</text>
+<text x="110" y="2515.93" font-size="14" fill="#527078" font-weight="700">微腺瘤</text>
+<rect x="524.8" y="2500.93" width="605.2" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="524.8" y="2500.93" width="142.65" height="20" rx="5" fill="#5C77C4"/>
+<text x="1142" y="2516.93" font-size="13" fill="#345963">每 100 人年 3.3</text>
+<text x="110" y="2556.93" font-size="14" fill="#527078" font-weight="700">新發生的內分泌功能異常（整體）</text>
+<rect x="524.8" y="2541.93" width="605.2" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="524.8" y="2541.93" width="103.75" height="20" rx="5" fill="#5C77C4"/>
+<text x="1142" y="2557.93" font-size="13" fill="#345963">每 100 人年 2.4</text>
+<text x="110" y="2597.93" font-size="14" fill="#527078" font-weight="700">囊性病灶</text>
+<rect x="524.8" y="2582.93" width="605.2" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="524.8" y="2582.93" width="4" height="20" rx="5" fill="#5C77C4"/>
+<text x="1142" y="2598.93" font-size="13" fill="#345963">每 100 人年 0.05</text>
+<text x="110" y="2643.93" font-size="14" fill="#345963">來源是一份 11 篇、追蹤三到十五年的系統性回顧與統合分析；垂體中風與視野缺損惡化都很罕見。作者把這批證據的品質評為「非常低」，並註明有明顯異質性。</text>
+<text x="110" y="2680.43" font-size="15.5" fill="#8F7418" font-weight="800">垂體瘤的觀察不只照影像：那份指引同時要求視野與內分泌檢查。</text>
+<text x="84" y="2766.18" font-size="22" fill="#123641" font-weight="800" class="r">什麼讓觀察停下來，什麼讓追蹤鬆開</text>
+<g filter="url(#sh)">
+<rect x="84" y="2785.66" width="1272" height="279.47" rx="18" fill="#FFFFFF"/>
+</g>
+<rect x="110" y="2811.66" width="62.5" height="25" rx="12.5" fill="#96790F"/>
+<text x="121" y="2829.16" font-size="13.5" fill="#FFFFFF" font-weight="800">腦膜瘤</text>
+<text x="190.5" y="2828.66" font-size="14" fill="#345963">「有症狀或正在長大」。</text>
+<rect x="110" y="2848.66" width="76" height="25" rx="12.5" fill="#00806B"/>
+<text x="121" y="2866.16" font-size="13.5" fill="#FFFFFF" font-weight="800">聽神經瘤</text>
+<text x="204" y="2865.66" font-size="14" fill="#345963">量到生長之後依位置分流：內耳道內多半繼續觀察，延伸到小腦橋腦角的多半開刀。</text>
+<rect x="110" y="2885.66" width="62.5" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="121" y="2903.16" font-size="13.5" fill="#FFFFFF" font-weight="800">垂體瘤</text>
+<text x="190.5" y="2902.66" font-size="14" fill="#345963">照內分泌學會那張手術清單：視野缺損、壓迫造成的視覺異常或神經受壓、病灶貼到視路、合併視覺障礙的垂體中風、泌乳素瘤以外的過度分泌腫瘤。</text>
+<text x="110" y="2940.66" font-size="14" fill="#345963">什麼時候可以鬆開，腦膜瘤這格有研究：一個 441 人的預後模型顯示，追蹤五年之後所有風險組的惡化風險都進入平台；而年齡校正查爾森共病指數 6 分以上的人（例如 80 歲合併慢性腎病），診</text>
+<text x="110" y="2961.66" font-size="14" fill="#345963">斷後五年內「死於其他原因的可能性是接受介入的 15 倍，不分風險組」。但「連續幾年沒變就不用再追」的年數，三份指引都沒寫。</text>
+<rect x="110" y="2984.66" width="1220" height="54.47" rx="12" fill="#F6E2E0"/>
+<text x="128" y="3016.16" font-size="15.5" fill="#B04A4A" font-weight="800">這是醫師用工具分層後的決定，不是你自己可以決定的事。門診裡值得問出口的是：我這一顆，你是用哪一個工具、看哪幾項把我分到這一層的？</text>
+<text x="84" y="3117.14" font-size="22" fill="#123641" font-weight="800" class="r">在台灣，立體定位放射手術不是第一線的預設路徑</text>
+<text x="84" y="3145.62" font-size="15" fill="#527078">照條文引，畫成閘門：三道全部通過，才輪得到申請。</text>
+<g filter="url(#sh)">
+<rect x="84" y="3165.12" width="1272" height="455.67" rx="18" fill="#FFFFFF"/>
+</g>
+<rect x="110" y="3191.12" width="1220" height="83.47" rx="12" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<circle cx="140" cy="3223.12" r="15" fill="#123641"/>
+<text x="140" y="3228.12" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="164" y="3222.62" font-size="15.5" fill="#123641" font-weight="800">第一道：適應症有沒有你這一種瘤</text>
+<text x="164" y="3251.59" font-size="14" fill="#345963">支付標準 37028B 與 37029B 的適應症確實寫了「聽神經瘤、腦膜瘤、腦下垂體瘤、顱咽管瘤」。</text>
+<line x1="140" y1="3278.59" x2="140" y2="3291.23" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="140,3298.59 136.74,3291.29 143.26,3291.29" fill="#B9AE94"/>
+<rect x="110" y="3302.59" width="1220" height="104.47" rx="12" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<circle cx="140" cy="3334.59" r="15" fill="#123641"/>
+<text x="140" y="3339.59" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="164" y="3334.09" font-size="15.5" fill="#123641" font-weight="800">第二道：且須符合下列條件之一</text>
+<text x="164" y="3363.07" font-size="14" fill="#345963">「A.曾接受開顱手術，但有殘餘腫瘤或腫瘤復發者。B.開顱手術可能造成神經損傷或危險性大者。C.有嚴重心肺疾病或其他內科疾病，不適合侵入性手術或全身麻醉者。……F.顱內單側小</text>
+<text x="164" y="3384.07" font-size="14" fill="#345963">腦橋腦角聽神經瘤寬度小於 2.5 公分（不含內耳道）者。」</text>
+<line x1="140" y1="3411.07" x2="140" y2="3423.71" stroke="#B9AE94" stroke-width="2.5" stroke-linecap="round"/>
+<polygon points="140,3431.07 136.74,3423.77 143.26,3423.77" fill="#B9AE94"/>
+<rect x="110" y="3435.07" width="1220" height="83.47" rx="12" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<circle cx="140" cy="3467.07" r="15" fill="#123641"/>
+<text x="140" y="3472.07" font-size="15" fill="#FFFFFF" font-weight="800" text-anchor="middle">3</text>
+<text x="164" y="3466.57" font-size="15.5" fill="#123641" font-weight="800">第三道：全部個案須事前專案向保險人申請</text>
+<text x="164" y="3495.54" font-size="14" fill="#345963">條文逐字。這一道沒有例外。</text>
+<text x="110" y="3552.04" font-size="15.5" fill="#8F7418" font-weight="800">翻成白話：條文把放射手術放在「開刀走不通或風險太大」之後，不是第一步。這解釋了為什麼台灣的第一步常是觀察或手術。</text>
+<text x="110" y="3587.79" font-size="14" fill="#345963">至於磁振造影追蹤的頻次，針對這三種瘤的條文在全表裡查不到列項——查不到列項不等於沒有給付，怎麼申報問醫務課。</text>
+<rect x="84" y="3646.79" width="1272" height="209.1" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="3694.79" font-size="18" fill="#B04A4A" font-weight="800">這張圖不說「反正都會觀察」</text>
+<text x="110" y="3726.39" font-size="15.5" fill="#345963">觀察不是什麼都不做，也不是三種瘤共用一套。三條時程刻意不對齊，就是為了擋掉把其中一條搬去用在另一條。</text>
+<text x="110" y="3759.64" font-size="15.5" fill="#345963">生長速率不是保證。上面每一個「長大」都綁著一種量法——最大徑還是體積、線性還是複合終點，標籤拿掉數字就不能比。</text>
+<text x="110" y="3792.89" font-size="15.5" fill="#345963">離開診間前把四格填滿：下一次影像是幾月、照哪一種序列；要一起量的東西（聽力、視野、荷爾蒙抽血）；哪些狀況要提前回來，請醫師講出你這一顆專屬的那幾項；這次的測</text>
+<text x="110" y="3816.14" font-size="15.5" fill="#345963">量值是最大徑幾公釐或體積幾立方公分，用的是哪一種量法。</text>
+<text x="84" y="3875.89" font-size="15" fill="#527078">示意圖，依 EANO 2021 腦膜瘤指引、美國神經外科醫學會 2018 影像指引與其執行摘要、美國內分泌學會 2011 偶然瘤指引、Behbahani 2019、IMPACT 外部驗證（JAMA Oncology 2026）、</text>
+<text x="84" y="3899.14" font-size="15" fill="#527078">Islim 2019 統合分析與其 2019 年勘誤、Reznitsky 2021、Marinelli 2021、Kirchmann 2017、美國神經外科醫學會 2018 聽力保存指引、Fernández-Balsells 2011、Islim 2020，以及全</text>
+<text x="84" y="3922.39" font-size="15" fill="#527078">民健康保險醫療服務給付項目及支付標準與醫療費用審查注意事項重繪，非擷取自原論文或原文件圖表；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

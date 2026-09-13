@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2970" viewBox="0 0 1440 2970" role="img" aria-labelledby="t d">
+  <title id="t">腦膜瘤分級：只有三格的尺、腦侵犯那一項，以及兩個直接定第 3 級的分子標記</title>
+  <desc id="d">示意圖：腦膜瘤的級別怎麼判，以及兩個分子標記怎麼跳過組織長相直接定級。圖的最上面是一把只有三格的尺：第 1 級、第 2 級、第 3 級三個色塊並排，第四格畫成斜線網底的空格並打上叉，上面寫「沒有第 4 級的腦膜瘤」。旁邊的說明是：2021 年版的各類腫瘤分級表裡，腦膜瘤那一列寫的是「1, 2, 3」；所以報告上如果寫第 3 級，它是腦膜瘤這把尺上最高的一格，不是四格裡的第三格；這把尺量的是復發的機會有多大、接下來幾年要盯多緊，不是餘命的刻度。中段是三張並排的路徑卡，標題是「2021 年版的三條路徑：哪一條先走到，就是哪一格」。路徑 A 是組織病理特徵，級別不再由長得像哪一型自動決定：每 10 個高倍視野 4 到 19 個分裂象定第 2 級；超過 20 個定第 3 級；五項非典型軟性標準符合其中三項定第 2 級。那五項是片狀排列、細胞密度過高、小細胞化、大核仁、自發性壞死。卡片下方註明亞型名稱還是會寫在報告上，但不再自己決定級別；來源是國際腦膜瘤聯盟 2024 年共識回顧，標籤是腦膜瘤、第 1 到 3 級。路徑 B 是腦侵犯，單獨一項就足以定第 2 級，旁邊掛一個紅色狀態標籤寫「它代表什麼還沒定案」：光是有腦侵犯現在就足以定成第 2 級，但同一句接下去說，在沒有其他高級別特徵的情況下，腦侵犯與預後的關聯還不清楚；而且要看到腦侵犯，檢體裡得真的帶到腦組織，各國取樣方式不一致，很多檢體根本沒有那塊東西可看。卡片最後一行是可以問出口的一句：我的報告上除了腦侵犯，還有沒有其他第 2 級的特徵。路徑 C 是兩個分子標記，不看組織長相直接定第 3 級：TERT 啟動子的熱點突變，或 CDKN2A/B 的同型合子缺失，兩個裡出現任何一個就直接是第 3 級；歐洲神經腫瘤學會 2021 年指引寫的是同一件事，不管組織上有沒有間變的特徵。同一張卡片裡另有一條畫成虛線的支線，寫著 CDKN2A/B 異型合子缺失，並掛上「不是分級判準」的標籤：異型合子缺失的風險比 5.5、95% 信賴區間 4.0 到 7.6 雖然不小，卻不是分級判準，報告上寫的是異型合子不等於第 3 級。卡片下方補上國際腦膜瘤聯盟的限制：這些分子變化在腦膜瘤裡本來就少見，在組織長相沒有可疑之處的病例更少見。接著是一組橫條圖，標題是 CDKN2A/B 的狀態與中位無惡化存活，資料是四篇研究、2,521 人的個別病人資料統合分析，同型合子缺失的盛行率 4.9%：野生型 180.0 個月、異型合子缺失 26.1 個月（這一條畫成虛線框並標「不是分級判準」）、同型合子缺失 11.0 個月（標「→ 第 3 級」）。再下面是三個級別各佔多少：一條 100% 的堆疊長條，第 1 級 80.1%、第 2 級 18.3%、第 3 級 1.5%，標明是依 2021 年版分級統計的美國登記資料，並註明這一組比例引自共識的轉述、共識本身沒有標出報告年份與納入人數。旁邊一格寫美國腦瘤登記 2018 到 2022 年那一版：腦膜瘤佔全部原發腦與其他中樞神經系統腫瘤的 42.6%、佔全部非惡性腫瘤的 57.4%，不同報告年份的百分比不可以互相加減；並附一行非惡性腦膜瘤的十年相對存活率 83.4%。下一格是「malignant 這個登記欄位的陷阱」，掛著「編碼欄位，不是病理級別」的標籤：美國 SEER 標成 malignant meningioma 的那一組裡，第 3 級只佔 63.6%，還混進 20.4% 的第 1 級與 15% 的第 2 級，因為那是依 ICD 編碼而不是中央病理覆核；看到這個字第一步是確認它來自病理報告還是登記編碼，兩者可以並存而且可以不一致。最後一張卡是甲基化分型，掛著「研究工具，不是決策工具」的標籤，分成兩欄：左欄「這是真的訊號」寫 2017 年 10 個歐洲中心、497 顆腦膜瘤的回溯分析，把甲基化分型分成六個臨床相關類別，預測復發的能力優於 WHO 分級，Brier 分數比較 p 等於 0.0096，並在 140 人的獨立世代驗證；右欄「但它還不是決策工具」寫共識的說法——統一的分子分類到今天還沒有建立起來，要做定序或甲基化晶片、不是每一家中心都有這個技術，加上給付、判讀經驗的差異，以及該選哪一套檢測都還沒有定論；接上前瞻試驗檢體的那一份分析，EORTC 22042-26042 的 38 顆第 2、3 級腦膜瘤，方向對但沒有達到統計顯著。所以做甲基化能不能決定要不要放療，今天的答案是不能。圖的最下面是一個金框方塊：級別是這一次檢體的判讀，不是一張身分證。同一顆腦膜瘤在不同時間、不同次手術可能拿到不同的級別；手上有兩份時間不同、級別不一樣的病理報告，那不是兩個矛盾的答案，是兩個時間點。要談後面任何一題之前，報告上有四行值得先圈出來：WHO 級別、每 10 個高倍視野的分裂數、有沒有寫腦侵犯、有沒有做 TERT 或 CDKN2A/B。這張圖不決定任何一件事，它只是讓你知道要問哪四個問題。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2970" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">HOW A MENINGIOMA IS GRADED - AND WHAT THE MOLECULES OVERRIDE</text>
+<text x="84" y="140" font-size="40" fill="#123641" font-weight="800" class="r">腦膜瘤的級別怎麼判：三格的尺，兩條分子捷徑</text>
+<text x="84" y="200.4" font-size="19" fill="#527078">2021 年版世界衛生組織中樞神經系統腫瘤分類（第 5 版）動了兩個地方：級別不再由組織亞型自動決定，而且兩個分子標記可以不看組織長相直接定</text>
+<text x="84" y="228.9" font-size="19" fill="#527078">第 3 級。</text>
+<text x="84" y="261.4" font-size="19" fill="#527078">這張圖畫的是判準怎麼走，不是給你自己對號入座用的。落在哪一格由病理科判讀整份檢體決定；圖上每個數字都標了瘤別與 WHO 級別。</text>
+<g filter="url(#sh)">
+<rect x="84" y="309.9" width="1272" height="304.2" rx="18" fill="#FFFFFF"/>
+<path d="M 84 327.9 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="110" y="353.9" font-size="18" fill="#123641" font-weight="800">這把尺只有三格</text>
+<rect x="110" y="391.1" width="294.5" height="74" rx="14" fill="#5C77C4"/>
+<text x="257.25" y="435.1" font-size="19" fill="#FFFFFF" font-weight="800" text-anchor="middle">第 1 級</text>
+<rect x="418.5" y="391.1" width="294.5" height="74" rx="14" fill="#96790F"/>
+<text x="565.75" y="435.1" font-size="19" fill="#FFFFFF" font-weight="800" text-anchor="middle">第 2 級</text>
+<rect x="727" y="391.1" width="294.5" height="74" rx="14" fill="#B04A4A"/>
+<text x="874.25" y="435.1" font-size="19" fill="#FFFFFF" font-weight="800" text-anchor="middle">第 3 級</text>
+<rect x="1035.5" y="391.1" width="294.5" height="74" rx="14" fill="url(#hatch)"/>
+<rect x="1035.5" y="391.1" width="294.5" height="74" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="1047.5" y1="403.1" x2="1318" y2="453.1" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="1318" y1="403.1" x2="1047.5" y2="453.1" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="110" y="498.1" font-size="21" fill="#B04A4A" font-weight="800">沒有第 4 級的腦膜瘤</text>
+<text x="110" y="546.1" font-size="14" fill="#345963">2021 年版的「各類腫瘤分級」表裡，腦膜瘤那一列寫的是「1, 2, 3」。所以報告上如果寫第 3 級，它是腦膜瘤這把尺上最高的一格，不是四格裡的第三格。這把尺量的是復發的機會有多大、接下來</text>
+<text x="110" y="567.1" font-size="14" fill="#345963">幾年要盯多緊，不是餘命的刻度。</text>
+<text x="84" y="665.1" font-size="21" fill="#8F7418" font-weight="800">2021 年版的三條路徑：哪一條先走到，就是哪一格</text>
+<g filter="url(#sh)">
+<rect x="84" y="707.45" width="410.67" height="587.1" rx="18" fill="#FFFFFF"/>
+<path d="M 84 725.45 a 18 18 0 0 1 18 -18 h 374.67 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="106" y="746.45" font-size="17" fill="#123641" font-weight="800">路徑 A｜組織病理特徵——級別不再由「長得像哪</text>
+<text x="106" y="770.25" font-size="17" fill="#123641" font-weight="800">一型」自動決定</text>
+<rect x="106" y="800.05" width="130.31" height="26" rx="13" fill="#96790F"/>
+<text x="117" y="817.91" font-size="13.5" fill="#FFFFFF" font-weight="800">→ 第 1、2 或 3 級</text>
+<text x="106" y="848.05" font-size="14" fill="#345963">在沒有路徑 C 那兩個分子變化的情況下，級別是依組織病</text>
+<text x="106" y="869.05" font-size="14" fill="#345963">理特徵給的。</text>
+<text x="106" y="914.05" font-size="14" fill="#123641" font-weight="700">每 10 個高倍視野 4 到 19 個分裂象</text>
+<rect x="408.81" y="901.05" width="63.86" height="24" rx="12" fill="#96790F"/>
+<text x="419.81" y="918.05" font-size="13" fill="#FFFFFF" font-weight="800">第 2 級</text>
+<text x="106" y="956.35" font-size="14" fill="#123641" font-weight="700">每 10 個高倍視野超過 20 個分裂象</text>
+<rect x="408.81" y="943.35" width="63.86" height="24" rx="12" fill="#B04A4A"/>
+<text x="419.81" y="960.35" font-size="13" fill="#FFFFFF" font-weight="800">第 3 級</text>
+<text x="106" y="998.65" font-size="14" fill="#123641" font-weight="700">五項非典型「軟性」標準符合其中三項</text>
+<rect x="408.81" y="985.65" width="63.86" height="24" rx="12" fill="#96790F"/>
+<text x="419.81" y="1002.65" font-size="13" fill="#FFFFFF" font-weight="800">第 2 級</text>
+<text x="106" y="1041.45" font-size="12.5" fill="#527078">那五項是：片狀排列、細胞密度過高、小細胞化、大核仁、自發性</text>
+<text x="106" y="1059.45" font-size="12.5" fill="#527078">壞死。</text>
+<text x="106" y="1101.45" font-size="14" fill="#345963">亞型名稱（腦膜上皮型、纖維型、過渡型之類）現在還是會</text>
+<text x="106" y="1122.45" font-size="14" fill="#345963">寫在報告上，但它們不再自己決定級別。網路上「某某型比</text>
+<text x="106" y="1143.45" font-size="14" fill="#345963">較兇」的說法，對照的很可能是 2021 年之前那套規則。</text>
+<text x="106" y="1186.95" font-size="12.5" fill="#527078">腦膜瘤，第 1 到 3 級｜國際腦膜瘤聯盟（ICOM）2024 年共識回</text>
+<text x="106" y="1204.45" font-size="12.5" fill="#527078">顧［B-S2］</text>
+<g filter="url(#sh)">
+<rect x="514.67" y="707.45" width="410.67" height="587.1" rx="18" fill="#FFFFFF"/>
+<path d="M 514.67 725.45 a 18 18 0 0 1 18 -18 h 374.67 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="536.67" y="746.45" font-size="17" fill="#123641" font-weight="800">路徑 B｜腦侵犯：單獨一項就足以定第 2 級</text>
+<rect x="536.67" y="776.25" width="78.47" height="26" rx="13" fill="#96790F"/>
+<text x="547.67" y="794.11" font-size="13.5" fill="#FFFFFF" font-weight="800">→ 第 2 級</text>
+<rect x="625.13" y="776.25" width="143.5" height="26" rx="13" fill="#B04A4A"/>
+<text x="636.13" y="794.11" font-size="13.5" fill="#FFFFFF" font-weight="800">它代表什麼還沒定案</text>
+<text x="536.67" y="824.25" font-size="14" fill="#123641" font-weight="700">光是有腦侵犯（brain invasion），現在就足以把它定成</text>
+<text x="536.67" y="845.25" font-size="14" fill="#123641" font-weight="700">第 2 級。</text>
+<rect x="536.67" y="876.25" width="366.67" height="109" rx="14" fill="#F6E2E0"/>
+<text x="552.67" y="906.25" font-size="14" fill="#345963">但同一句接下去說：在沒有其他高級別特徵的情況下，</text>
+<text x="552.67" y="927.25" font-size="14" fill="#345963">腦侵犯與預後的關聯還不清楚。判準改了，判準背後</text>
+<text x="552.67" y="948.25" font-size="14" fill="#345963">的把握度沒有跟著改。</text>
+<text x="536.67" y="1011.25" font-size="14" fill="#345963">而且要看到腦侵犯，檢體裡得真的帶到腦組織；腦膜瘤長在</text>
+<text x="536.67" y="1032.25" font-size="14" fill="#345963">腦子外面，各國取樣方式又不一致，很多檢體根本沒有那塊</text>
+<text x="536.67" y="1053.25" font-size="14" fill="#345963">東西可看。</text>
+<text x="536.67" y="1098.25" font-size="14" fill="#8F7418" font-weight="700">能問出口的一句是：我的報告上除了腦侵犯，還有沒有其他</text>
+<text x="536.67" y="1119.25" font-size="14" fill="#8F7418" font-weight="700">第 2 級的特徵？</text>
+<text x="536.67" y="1162.75" font-size="12.5" fill="#527078">腦膜瘤，第 2 級｜ICOM 2024 年共識回顧［B-S2］</text>
+<g filter="url(#sh)">
+<rect x="945.33" y="707.45" width="410.67" height="609.1" rx="18" fill="#FFFFFF"/>
+<path d="M 945.33 725.45 a 18 18 0 0 1 18 -18 h 374.67 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="967.33" y="746.45" font-size="17" fill="#123641" font-weight="800">路徑 C｜兩個分子標記，不看組織長相直接定第</text>
+<text x="967.33" y="770.25" font-size="17" fill="#123641" font-weight="800">3 級</text>
+<rect x="967.33" y="800.05" width="78.47" height="26" rx="13" fill="#B04A4A"/>
+<text x="978.33" y="817.91" font-size="13.5" fill="#FFFFFF" font-weight="800">→ 第 3 級</text>
+<rect x="967.33" y="834.05" width="366.67" height="32" rx="8" fill="#F6E2E0"/>
+<circle cx="983.33" cy="850.05" r="5" fill="#B04A4A"/>
+<text x="997.33" y="855.05" font-size="14" fill="#B04A4A" font-weight="800">TERT 啟動子的熱點突變</text>
+<rect x="967.33" y="872.05" width="366.67" height="32" rx="8" fill="#F6E2E0"/>
+<circle cx="983.33" cy="888.05" r="5" fill="#B04A4A"/>
+<text x="997.33" y="893.05" font-size="14" fill="#B04A4A" font-weight="800">CDKN2A/B 的同型合子缺失</text>
+<text x="967.33" y="926.05" font-size="14" fill="#123641" font-weight="700">這兩個裡出現任何一個，就直接是第 3 級。</text>
+<text x="967.33" y="967.05" font-size="14" fill="#345963">歐洲神經腫瘤學會（EANO）2021 年指引寫的是同一件事：</text>
+<text x="967.33" y="988.05" font-size="14" fill="#345963">不管組織上有沒有間變的特徵，這兩個變化本身就把級別定</text>
+<text x="967.33" y="1009.05" font-size="14" fill="#345963">到第 3 級。［B-S3］</text>
+<rect x="967.33" y="1042.05" width="366.67" height="32" rx="8" fill="none" stroke="#7A6E58" stroke-width="2.2" stroke-dasharray="7 6"/>
+<text x="981.33" y="1063.05" font-size="14" fill="#7A6E58" font-weight="800">CDKN2A/B 異型合子缺失</text>
+<rect x="967.33" y="1080.05" width="103" height="26" rx="13" fill="#7A6E58"/>
+<text x="978.33" y="1097.91" font-size="13.5" fill="#FFFFFF" font-weight="800">不是分級判準</text>
+<text x="967.33" y="1126.55" font-size="12.5" fill="#345963">異型合子缺失的風險比 5.5（95% 信賴區間 4.0 到 7.6）雖然不小，</text>
+<text x="967.33" y="1144.55" font-size="12.5" fill="#345963">卻不是分級判準。報告上寫的是異型合子（heterozygous），不</text>
+<text x="967.33" y="1162.55" font-size="12.5" fill="#345963">等於第 3 級。［B-S4］［B-S2］</text>
+<line x1="961.33" y1="1042.05" x2="961.33" y2="1184.55" stroke="#7A6E58" stroke-width="2" stroke-linecap="butt" stroke-dasharray="5 5"/>
+<text x="967.33" y="1203.05" font-size="12.5" fill="#527078">ICOM 補的限制：這些分子變化在腦膜瘤裡本來就少見，在組織長</text>
+<text x="967.33" y="1221.05" font-size="12.5" fill="#527078">相沒有可疑之處的病例更少見。</text>
+<text x="967.33" y="1259.55" font-size="12.5" fill="#527078">腦膜瘤，第 3 級｜ICOM 2024 年共識回顧［B-S2］、EANO</text>
+<text x="967.33" y="1277.05" font-size="12.5" fill="#527078">2021 年指引［B-S3］</text>
+<g filter="url(#sh)">
+<rect x="84" y="1348.55" width="1272" height="316.2" rx="18" fill="#FFFFFF"/>
+<path d="M 84 1366.55 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="110" y="1392.55" font-size="18" fill="#123641" font-weight="800">CDKN2A/B 的狀態與中位無惡化存活</text>
+<text x="110" y="1437.75" font-size="14" fill="#527078">四篇研究、2,521 人的個別病人資料統合分析（腦膜瘤，原文未分 WHO 級別呈現）；同型合子缺失的盛行率 4.9%。表上是重建出來的中位無惡化存活。［B-S4］</text>
+<text x="110" y="1488.75" font-size="14" fill="#527078" font-weight="700">野生型</text>
+<rect x="320" y="1470.75" width="882" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="320" y="1470.75" width="835.58" height="26" rx="7" fill="#00806B"/>
+<text x="1214" y="1491.31" font-size="21" fill="#00806B" font-weight="800">180.0 個月</text>
+<text x="110" y="1515.75" font-size="14" fill="#527078" font-weight="700">異型合子缺失</text>
+<text x="110" y="1532.75" font-size="12.5" fill="#527078">不是分級判準</text>
+<rect x="320" y="1506.75" width="882" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="320" y="1506.75" width="121.16" height="26" rx="7" fill="url(#hatch)"/>
+<rect x="320" y="1506.75" width="121.16" height="26" rx="7" fill="none" stroke="#7A6E58" stroke-width="2.4" stroke-dasharray="6 5"/>
+<text x="1214" y="1527.31" font-size="21" fill="#7A6E58" font-weight="800">26.1 個月</text>
+<text x="110" y="1556.75" font-size="14" fill="#527078" font-weight="700">同型合子缺失</text>
+<text x="110" y="1573.75" font-size="12.5" fill="#527078">→ 第 3 級</text>
+<rect x="320" y="1547.75" width="882" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="320" y="1547.75" width="51.06" height="26" rx="7" fill="#B04A4A"/>
+<text x="1214" y="1568.31" font-size="21" fill="#B04A4A" font-weight="800">11.0 個月</text>
+<line x1="320" y1="1588.75" x2="1202" y2="1588.75" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="320" y1="1588.75" x2="320" y2="1594.75" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="320" y="1610.75" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="598.53" y1="1588.75" x2="598.53" y2="1594.75" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="598.53" y="1610.75" font-size="12.5" fill="#527078" text-anchor="middle">60</text>
+<line x1="877.05" y1="1588.75" x2="877.05" y2="1594.75" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="877.05" y="1610.75" font-size="12.5" fill="#527078" text-anchor="middle">120</text>
+<line x1="1155.58" y1="1588.75" x2="1155.58" y2="1594.75" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1155.58" y="1610.75" font-size="12.5" fill="#527078" text-anchor="middle">180</text>
+<text x="320" y="1632.75" font-size="12" fill="#527078">中位無惡化存活（個月）</text>
+<g filter="url(#sh)">
+<rect x="84" y="1694.75" width="622" height="538" rx="18" fill="#FFFFFF"/>
+<path d="M 84 1712.75 a 18 18 0 0 1 18 -18 h 586 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="106" y="1734.75" font-size="18" fill="#123641" font-weight="800">三個級別各佔多少</text>
+<rect x="106" y="1771.95" width="459.98" height="38" rx="6" fill="#5C77C4"/>
+<text x="117" y="1796.27" font-size="14" fill="#FFFFFF" font-weight="800">第 1 級 80.1%</text>
+<rect x="568.98" y="1771.95" width="102.77" height="38" rx="6" fill="#96790F"/>
+<rect x="674.75" y="1771.95" width="5.67" height="38" rx="6" fill="#B04A4A"/>
+<rect x="106" y="1823.95" width="11" height="11" rx="2" fill="#5C77C4"/>
+<text x="126" y="1835.95" font-size="14" fill="#345963">第 1 級 80.1%</text>
+<rect x="304.67" y="1823.95" width="11" height="11" rx="2" fill="#96790F"/>
+<text x="324.67" y="1835.95" font-size="14" fill="#345963">第 2 級 18.3%</text>
+<rect x="503.33" y="1823.95" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="523.33" y="1835.95" font-size="14" fill="#345963">第 3 級 1.5%</text>
+<text x="106" y="1879.45" font-size="12.5" fill="#527078">依 2021 年版分級統計的美國登記資料。這一組比例引自 ICOM 共識的轉述，共識本身沒有標出那份登</text>
+<text x="106" y="1896.95" font-size="12.5" fill="#527078">記是哪一個報告年份、納入多少人，所以只能照它寫的引。［B-S2］</text>
+<text x="106" y="1936.45" font-size="14" fill="#345963">你看到的絕大多數腦膜瘤是第 1 級，這個方向是穩的；小數點以下的位數不必當成自己的機率。</text>
+<rect x="106" y="1969.45" width="578" height="241.3" rx="14" fill="#ECE8DE"/>
+<text x="122" y="1999.45" font-size="14" fill="#123641" font-weight="800">美國腦瘤登記（CBTRUS）2018 到 2022 年那一版</text>
+<text x="122" y="2035.75" font-size="14" fill="#345963">腦膜瘤佔全部原發腦與其他中樞神經系統腫瘤的 42.6%。</text>
+<text x="122" y="2074.75" font-size="14" fill="#345963">腦膜瘤佔全部非惡性腫瘤的 57.4%。</text>
+<text x="122" y="2113.75" font-size="14" fill="#345963">不同報告年份的百分比不可以互相加減。</text>
+<text x="122" y="2152.75" font-size="14" fill="#345963">非惡性腦膜瘤的十年相對存活率 83.4%——同樣是 ICOM 轉述、沒有標報告年份的登記數</text>
+<text x="122" y="2173.75" font-size="14" fill="#345963">字。［B-S2］</text>
+<g filter="url(#sh)">
+<rect x="734" y="1694.75" width="622" height="516" rx="18" fill="#FFFFFF"/>
+<path d="M 734 1712.75 a 18 18 0 0 1 18 -18 h 586 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="756" y="1734.75" font-size="18" fill="#123641" font-weight="800">「malignant」這個登記欄位的陷阱</text>
+<rect x="756" y="1765.95" width="170.5" height="26" rx="13" fill="#B04A4A"/>
+<text x="767" y="1783.81" font-size="13.5" fill="#FFFFFF" font-weight="800">編碼欄位，不是病理級別</text>
+<text x="756" y="1815.95" font-size="14" fill="#123641" font-weight="700">登記資料裡的「malignant meningioma」是一個編碼欄位，不等於第 3 級。</text>
+<rect x="756" y="1848.95" width="364.61" height="38" rx="6" fill="#B04A4A"/>
+<text x="767" y="1873.27" font-size="14" fill="#FFFFFF" font-weight="800">第 3 級 63.6%</text>
+<rect x="1123.61" y="1848.95" width="114.91" height="38" rx="6" fill="#5C77C4"/>
+<text x="1134.61" y="1873.27" font-size="14" fill="#FFFFFF" font-weight="800">第 1 級 20.4%</text>
+<rect x="1241.52" y="1848.95" width="83.7" height="38" rx="6" fill="#96790F"/>
+<rect x="756" y="1900.95" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="776" y="1912.95" font-size="14" fill="#345963">第 3 級 63.6%</text>
+<rect x="954.67" y="1900.95" width="11" height="11" rx="2" fill="#5C77C4"/>
+<text x="974.67" y="1912.95" font-size="14" fill="#345963">第 1 級 20.4%</text>
+<rect x="1153.33" y="1900.95" width="11" height="11" rx="2" fill="#96790F"/>
+<text x="1173.33" y="1912.95" font-size="14" fill="#345963">第 2 級 15%</text>
+<text x="756" y="1957.95" font-size="14" fill="#345963">美國 SEER 的那一組裡，第 3 級只佔 63.6%，還混進 20.4% 的第 1 級與 15% 的第 2 級，因</text>
+<text x="756" y="1978.95" font-size="14" fill="#345963">為那是依 ICD 編碼而不是中央病理覆核。［B-S2］</text>
+<text x="756" y="2023.95" font-size="14" fill="#8F7418" font-weight="700">看到這個字，第一步是確認它來自病理報告還是來自登記編碼；這兩者在同一份病歷裡可以並</text>
+<text x="756" y="2044.95" font-size="14" fill="#8F7418" font-weight="700">存，而且可以不一致。</text>
+<g filter="url(#sh)">
+<rect x="84" y="2264.75" width="1272" height="400.4" rx="18" fill="#FFFFFF"/>
+<path d="M 84 2282.75 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#C9A83E"/>
+</g>
+<text x="110" y="2308.75" font-size="18" fill="#123641" font-weight="800">甲基化分型：研究上比較準，還不是可以拿來決定治療的東西</text>
+<rect x="110" y="2339.95" width="170.5" height="26" rx="13" fill="#8F7418"/>
+<text x="121" y="2357.81" font-size="13.5" fill="#FFFFFF" font-weight="800">研究工具，不是決策工具</text>
+<text x="110" y="2393.45" font-size="15.5" fill="#00806B" font-weight="800">這是真的訊號</text>
+<text x="110" y="2433.15" font-size="14" fill="#345963">2017 年一份 10 個歐洲中心、497 顆腦膜瘤的回溯分析，把甲基化分型分成六個臨床相關類別，</text>
+<text x="110" y="2454.15" font-size="14" fill="#345963">預測復發的能力優於 WHO 分級（Brier 分數比較 p=0.0096），並在 140 人的獨立世代驗證。</text>
+<text x="110" y="2475.15" font-size="14" fill="#345963">［B-S5］</text>
+<text x="737" y="2393.45" font-size="15.5" fill="#B04A4A" font-weight="800">但它還不是決策工具</text>
+<text x="737" y="2433.15" font-size="14" fill="#345963">ICOM 2024 年的共識寫著：統一的分子分類到今天還沒有建立起來。障礙很具體——要做定序或</text>
+<text x="737" y="2454.15" font-size="14" fill="#345963">甲基化晶片，不是每一家中心都有這個技術；加上給付、判讀經驗的差異，以及該選哪一套檢測</text>
+<text x="737" y="2475.15" font-size="14" fill="#345963">都還沒有定論。［B-S2］</text>
+<text x="737" y="2516.15" font-size="14" fill="#345963">接上前瞻試驗檢體的那一份分析（EORTC 22042-26042 的 38 顆第 2、3 級腦膜瘤），方向</text>
+<text x="737" y="2537.15" font-size="14" fill="#345963">對，但沒有達到統計顯著。［B-S6］</text>
+<rect x="110" y="2572.15" width="1220" height="67" rx="14" fill="#F3E8CD"/>
+<text x="126" y="2602.15" font-size="14" fill="#345963">所以「做甲基化能不能決定要不要放療」，今天的答案是不能。</text>
+<rect x="84" y="2695.15" width="1272" height="169.28" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="2739.15" font-size="18" fill="#8F7418" font-weight="800">級別是這一次檢體的判讀，不是一張身分證</text>
+<text x="110" y="2770.35" font-size="15.5" fill="#345963">同一顆腦膜瘤在不同時間、不同次手術，可能拿到不同的級別；ICOM 就討論過續發性非典型腦膜瘤（第一次是第 1 級、復發之後變成第 2 級）復發率較高的問題。手上有兩份時</text>
+<text x="110" y="2794.37" font-size="15.5" fill="#345963">間不同、級別不一樣的病理報告，那不是兩個矛盾的答案，是兩個時間點。要談後面任何一題之前，報告上有四行值得先圈出來：WHO 級別、每 10 個高倍視野的分裂數、有沒有</text>
+<text x="110" y="2818.4" font-size="15.5" fill="#345963">寫腦侵犯、有沒有做 TERT 或 CDKN2A/B。這張圖不決定任何一件事，它只是讓你知道要問哪四個問題。</text>
+<text x="84" y="2888.42" font-size="15" fill="#527078">示意圖，依 2021 年版世界衛生組織中樞神經系統腫瘤分類（Louis 2021）、國際腦膜瘤聯盟共識回顧（Wang 2024）、歐洲神經腫瘤學會 2021 年指引（Goldbrunner 2021）、</text>
+<text x="84" y="2910.92" font-size="15" fill="#527078">CDKN2A/B 個別病人資料統合分析（Wach 2023）、甲基化分型分析（Sahm 2017）與 EORTC 22042-26042 分子分析（Maas 2023）重繪；各研究族群、設計與終點不同，數點不可直</text>
+<text x="84" y="2933.42" font-size="15" fill="#527078">接互比。</text>
+  </g>
+</svg>

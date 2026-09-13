@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="3987" viewBox="0 0 1440 3987" role="img" aria-labelledby="t d">
+  <title id="t">黃體素成分與腦膜瘤：每 10 萬人年的絕對風險、相對倍數，以及台灣只剩一個成分</title>
+  <desc id="d">示意圖：黃體素藥物與腦膜瘤，絕對風險與相對風險放在同一個框裡。圖的最上面先解掉最大的誤會：一般口服避孕藥看不出關聯，標籤是「觀察性統合・沒有顯著關聯」，主數字是相對風險 0.93、95% 信賴區間 0.83 到 1.03，來自 12 篇病例對照加 6 篇世代研究的統合分析；所以吃過避孕藥就會長腦膜瘤這句話，在證據上站不住。同一格旁邊列出方向相反的更年期荷爾蒙治療：同一份統合分析的相對風險 1.19（1.01 到 1.40），停經後女性 1.32（1.07 到 1.64）；另一份專看更年期荷爾蒙治療的統合，11 篇、1,820,954 人、3,249 例腦膜瘤，合併勝算比 1.29（1.03 到 1.60），目前使用者 1.27 顯著、過去使用者 1.12 不顯著，作者自己寫這個關聯是不是因果要靠後續研究去確立。第二區是「有訊號的那幾個，絕對風險長這樣」，標籤是「每 10 萬人年・法國健保資料庫世代」，並先標明結局定義：這幾份研究的結局都是因顱內腦膜瘤接受手術或放射治療，不是被診斷出腦膜瘤。三個成分各畫兩條橫條，上面一條是用藥、下面一條是沒用藥，共用同一把每 10 萬人年的尺：cyproterone acetate 高劑量，世代研究、法國、25 萬多位 7 到 70 歲的女孩與女性，前六個月累積吃到 3 公克以上算暴露——用藥 23.8 例對沒用藥 4.5 例，校正後 6.6 倍（4.0 到 11.1），累積吃超過 60 公克的那一群倍數跳到 21.7（10.8 到 43.5）。nomegestrol acetate，世代研究、法國、一百零六萬位女性——用藥 19.3 例對沒用藥 7.0 例，年齡校正後 2.9 倍（2.4 到 3.7），累積吃超過 6 公克的人倍數跳到 12.0（9.9 到 16.0）。chlormadinone acetate，世代研究、法國、八十二萬多人——用藥 18.5 例對沒用藥 6.8 例，3.1 倍（2.4 到 4.0），累積超過 8.64 公克的那一群接近每 10 萬人年 47 例。每一個倍數都貼在自己的絕對風險旁邊，倍數不單獨出現。這一區收在一段字：風險最高的那一格，每 10 萬人年 23.8 例，換算成一個人一年大約是萬分之二點四；歐洲藥品管理局自己的說法也是這個副作用罕見，依劑量與使用時間長短，大約每 1 萬人裡影響 1 到 10 人，而且風險隨累積劑量上升；倍數很嚇人，基準值很低，兩件事要同時在腦子裡。第三區是三欄並列：有訊號、沒有訊號、資料不足，來自法國一份全國病例對照——2009 到 2018 年因顱內腦膜瘤接受手術的 18,061 人，依出生年與居住地 1:5 配對 90,305 位對照。有訊號那一欄是 medrogestone 勝算比 3.49（2.38 到 5.10）、注射型 medroxyprogesterone acetate 5.55（2.27 到 13.56）、promegestone 2.39（1.85 到 3.09），而且這些超額風險由使用一年以上的人所驅動；本來就知道有風險的三個在同一份資料裡是 cyproterone 19.21（16.61 到 22.22）、nomegestrol 4.93、chlormadinone 3.87。沒有訊號那一欄是 progesterone、dydrogesterone，以及含 levonorgestrel 的子宮內投藥系統。資料不足那一欄是 dienogest 與 hydroxyprogesterone，人數太少下不了結論。這一區下面附上 2026 年統合的收攏：cyproterone acetate 合併勝算比 12.36（7.47 到 20.45），證據等級中等；長效注射型 medroxyprogesterone acetate 2.68（1.72 到 4.19），等級低；作者對整體確定性的自評是觀察性設計、殘餘干擾、異質性與部分暴露的不精確都限制了證據強度。第四區是停藥之後的族群層次數字，並標明這是資料、不是指示：nomegestrol 停用滿一年之後風險與對照組相同，1.0（0.8 到 1.3）；cyproterone 停用一年後仍是對照組的 1.8 倍（1.0 到 3.2），明顯降下來但還沒完全回到基線。第五區是台灣端：三個成分裡只剩一個還拿得到。依食藥署全部藥品許可證資料集全表 72,043 筆逐筆檢索——cyproterone acetate 有多張現行有效的許可證；nomegestrol acetate 全表只有一張、已註銷，有效日期止於 2020 年 1 月 15 日；chlormadinone acetate 也只有一張、已註銷；medrogestone 與 promegestone 現行零筆；medroxyprogesterone acetate 的現行許可證全部是口服劑型，注射劑型已註銷，有效日期止於 2020 年 5 月 9 日。同一格裡是食藥署 2022 年 9 月 15 日衛授食字第1111407692號公告，依藥事法第 48 條，要求含 cyproterone 成分的高劑量 50 毫克藥品中文仿單於「禁忌」處加刊「現罹患腦膜瘤或有腦膜瘤病史之病人」（這一句用引號逐字標出），並於「警語及注意事項」及「藥理特性」段落加刊腦膜瘤相關安全性資訊；適應症同時改為「僅適用無其他治療選項或以其他治療方式無效時方能使用」；用法用量加刊「當臨床症狀獲得改善以後，應使用最低有效劑量維持效果」；低劑量 2 毫克製劑同樣加刊。圖的最下面是一格「這一題要回去問誰」：先講不要做的事——不要自己停藥，停不停、換不換是開藥給你的那位醫師的決定，而且要連同你當初為什麼吃這個藥一起評估。接著是四行要問的事：把藥袋帶回去找開藥的那一科，第一個要問清楚的是我吃的到底是哪一個成分，看藥袋上的英文成分名、不是商品名；接著問吃了多久、累積大概多少；然後問以我現在的狀況要不要安排一次腦部磁振造影；如果決定停，停藥後三個月要不要再照一次看趨勢。最後一句給已經有腦膜瘤的人：這些藥與腦膜瘤的關聯全部來自觀察性資料，而且結局是嚴重到需要手術或放射治療的腦膜瘤；它能告訴你的是這一題值得拿去問，不是你的瘤就是它造成的。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="3987" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">PROGESTINS AND MENINGIOMA - ABSOLUTE RISK AND RELATIVE RISK IN ONE FRAME</text>
+<text x="84" y="140" font-size="40" fill="#123641" font-weight="800" class="r">黃體素藥物與腦膜瘤：倍數很嚇人，基準值很低，兩件事要同時在腦子</text>
+<text x="84" y="190.4" font-size="40" fill="#123641" font-weight="800" class="r">裡</text>
+<text x="84" y="250.8" font-size="19" fill="#527078">先分清楚吃的是哪一個成分。有明確訊號的是幾個特定的黃體素，不是「避孕藥」這三個字。</text>
+<text x="84" y="283.3" font-size="19" fill="#527078">圖上每一個倍數旁邊都放著它的絕對風險；倍數不會單獨出現。全部是觀察性資料，關聯不等於因果——而且這張圖沒有任何一句是「所以要停藥」。</text>
+<g filter="url(#sh)">
+<rect x="84" y="331.8" width="1272" height="368.4" rx="18" fill="#FFFFFF"/>
+<path d="M 84 349.8 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="110" y="375.8" font-size="18" fill="#123641" font-weight="800">先把最大的誤會解掉：一般口服避孕藥看不出關聯</text>
+<rect x="110" y="407" width="184" height="26" rx="13" fill="#00806B"/>
+<text x="121" y="424.86" font-size="13.5" fill="#FFFFFF" font-weight="800">觀察性統合・沒有顯著關聯</text>
+<text x="110" y="471" font-size="26" fill="#00806B" font-weight="800">相對風險 0.93（95% 信賴區間 0.83 到 1.03）</text>
+<line x1="118" y1="528" x2="695" y2="528" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="118" y1="523" x2="118" y2="533" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="118" y="558" font-size="12" fill="#527078" text-anchor="middle">0.6</text>
+<line x1="269.09" y1="523" x2="269.09" y2="533" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="269.09" y="558" font-size="12" fill="#527078" text-anchor="middle">0.8</text>
+<line x1="386.29" y1="523" x2="386.29" y2="533" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="386.29" y="558" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="563.01" y1="523" x2="563.01" y2="533" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="563.01" y="558" font-size="12" fill="#527078" text-anchor="middle">1.4</text>
+<line x1="695" y1="523" x2="695" y2="533" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="695" y="558" font-size="12" fill="#527078" text-anchor="middle">1.8</text>
+<line x1="386.29" y1="509" x2="386.29" y2="547" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="288.43" y1="528" x2="401.81" y2="528" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="288.43" y1="520" x2="288.43" y2="536" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="401.81" y1="520" x2="401.81" y2="536" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="348.18" cy="528" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="110" y="581.5" font-size="12.5" fill="#527078">12 篇病例對照加 6 篇世代研究的統合分析。相對風險是把兩組的發生機率相除。［B-S49］</text>
+<text x="110" y="625" font-size="15.5" fill="#8F7418" font-weight="700">所以「吃過避孕藥就會長腦膜瘤」這句話，在證據上站不住。有明確訊號的是另外幾個</text>
+<text x="110" y="648.25" font-size="15.5" fill="#8F7418" font-weight="700">成分。</text>
+<text x="737" y="460.5" font-size="15.5" fill="#123641" font-weight="800">同一份與另一份裡的更年期荷爾蒙治療（方向相反，也要列）</text>
+<text x="737" y="502.2" font-size="14" fill="#345963">同一份統合分析：更年期荷爾蒙治療的相對風險 1.19（1.01 到 1.40），停經後女性 1.32（</text>
+<text x="737" y="523.2" font-size="14" fill="#345963">1.07 到 1.64）。［B-S49］</text>
+<text x="737" y="564.2" font-size="14" fill="#345963">另一份專看更年期荷爾蒙治療的統合（11 篇、1,820,954 人、3,249 例腦膜瘤）：合併勝算比</text>
+<text x="737" y="585.2" font-size="14" fill="#345963">1.29（1.03 到 1.60），目前使用者 1.27 顯著、過去使用者 1.12 不顯著。作者自己寫，這個</text>
+<text x="737" y="606.2" font-size="14" fill="#345963">關聯是不是因果，要靠後續研究去確立。［B-S50］</text>
+<text x="737" y="647.2" font-size="14" fill="#345963">勝算比是把兩組「發生與不發生的比值」再相除，不是機率的倍數。</text>
+<g filter="url(#sh)">
+<rect x="84" y="730.2" width="1272" height="1076.65" rx="18" fill="#FFFFFF"/>
+<path d="M 84 748.2 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="110" y="774.2" font-size="18" fill="#123641" font-weight="800">有訊號的那幾個，絕對風險長這樣</text>
+<rect x="110" y="805.4" width="235.85" height="26" rx="13" fill="#96790F"/>
+<text x="121" y="823.26" font-size="13.5" fill="#FFFFFF" font-weight="800">每 10 萬人年・法國健保資料庫世代</text>
+<rect x="110" y="843.4" width="1220" height="67" rx="14" fill="#ECE8DE"/>
+<text x="126" y="873.4" font-size="14" fill="#345963">這幾份研究的結局都定義成「因顱內腦膜瘤接受手術或放射治療」，不是「被診斷出腦膜瘤」——所以量到的是嚴重到需要處理的那一部分，比實際盛行率低。［B-S42］［B-S43］［B-S44］</text>
+<text x="110" y="942.9" font-size="17" fill="#123641" font-weight="800">cyproterone acetate（高劑量）</text>
+<text x="110" y="981.2" font-size="12.5" fill="#527078">世代研究，法國，25 萬多位 7 到 70 歲的女孩與女性；前六個月累積吃到 3 公克以上算暴露</text>
+<text x="110" y="1024.7" font-size="14" fill="#527078" font-weight="700">用藥</text>
+<rect x="238" y="1006.7" width="756.92" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="238" y="1006.7" width="692.87" height="26" rx="7" fill="#B04A4A"/>
+<text x="1006.92" y="1027.26" font-size="21" fill="#B04A4A" font-weight="800">23.8</text>
+<text x="110" y="1058.7" font-size="14" fill="#527078" font-weight="700">沒用藥</text>
+<rect x="238" y="1040.7" width="756.92" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="238" y="1040.7" width="131.01" height="26" rx="7" fill="#7A6E58"/>
+<text x="1006.92" y="1061.26" font-size="21" fill="#7A6E58" font-weight="800">4.5</text>
+<rect x="1110.92" y="1002.7" width="219.08" height="62.3" rx="12" fill="#F3E8CD"/>
+<text x="1124.92" y="1030.7" font-size="14" fill="#B04A4A" font-weight="800">校正後 6.6 倍（4.0 到 11.1）</text>
+<text x="110" y="1085.2" font-size="12.5" fill="#345963">累積吃超過 60 公克的那一群，倍數跳到 21.7（10.8 到 43.5）。　［B-S42］</text>
+<text x="110" y="1133.7" font-size="17" fill="#123641" font-weight="800">nomegestrol acetate</text>
+<text x="110" y="1172" font-size="12.5" fill="#527078">世代研究，法國，一百零六萬位女性</text>
+<text x="110" y="1215.5" font-size="14" fill="#527078" font-weight="700">用藥</text>
+<rect x="238" y="1197.5" width="737.61" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="238" y="1197.5" width="547.53" height="26" rx="7" fill="#96790F"/>
+<text x="987.61" y="1218.06" font-size="21" fill="#96790F" font-weight="800">19.3</text>
+<text x="110" y="1249.5" font-size="14" fill="#527078" font-weight="700">沒用藥</text>
+<rect x="238" y="1231.5" width="737.61" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="238" y="1231.5" width="198.59" height="26" rx="7" fill="#7A6E58"/>
+<text x="987.61" y="1252.06" font-size="21" fill="#7A6E58" font-weight="800">7.0</text>
+<rect x="1091.61" y="1193.5" width="238.39" height="62.3" rx="12" fill="#F3E8CD"/>
+<text x="1105.61" y="1221.5" font-size="14" fill="#96790F" font-weight="800">年齡校正後 2.9 倍（2.4 到 3.7）</text>
+<text x="110" y="1276" font-size="12.5" fill="#345963">累積吃超過 6 公克的人，倍數跳到 12.0（9.9 到 16.0）。　［B-S43］</text>
+<text x="110" y="1324.5" font-size="17" fill="#123641" font-weight="800">chlormadinone acetate</text>
+<text x="110" y="1362.8" font-size="12.5" fill="#527078">世代研究，法國，八十二萬多人</text>
+<text x="110" y="1406.3" font-size="14" fill="#527078" font-weight="700">用藥</text>
+<rect x="238" y="1388.3" width="811.8" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="238" y="1388.3" width="577.63" height="26" rx="7" fill="#5C77C4"/>
+<text x="1061.8" y="1408.86" font-size="21" fill="#5C77C4" font-weight="800">18.5</text>
+<text x="110" y="1440.3" font-size="14" fill="#527078" font-weight="700">沒用藥</text>
+<rect x="238" y="1422.3" width="811.8" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="238" y="1422.3" width="212.32" height="26" rx="7" fill="#7A6E58"/>
+<text x="1061.8" y="1442.86" font-size="21" fill="#7A6E58" font-weight="800">6.8</text>
+<rect x="1165.8" y="1384.3" width="164.2" height="62.3" rx="12" fill="#F3E8CD"/>
+<text x="1179.8" y="1412.3" font-size="14" fill="#5C77C4" font-weight="800">3.1 倍（2.4 到 4.0）</text>
+<text x="110" y="1466.8" font-size="12.5" fill="#345963">累積超過 8.64 公克的那一群，接近每 10 萬人年 47 例。　［B-S44］</text>
+<line x1="238" y1="1492.8" x2="1238" y2="1492.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="238" y1="1492.8" x2="238" y2="1498.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="238" y="1514.8" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="430.31" y1="1492.8" x2="430.31" y2="1498.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="430.31" y="1514.8" font-size="12.5" fill="#527078" text-anchor="middle">5</text>
+<line x1="622.62" y1="1492.8" x2="622.62" y2="1498.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="622.62" y="1514.8" font-size="12.5" fill="#527078" text-anchor="middle">10</text>
+<line x1="814.92" y1="1492.8" x2="814.92" y2="1498.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="814.92" y="1514.8" font-size="12.5" fill="#527078" text-anchor="middle">15</text>
+<line x1="1007.23" y1="1492.8" x2="1007.23" y2="1498.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1007.23" y="1514.8" font-size="12.5" fill="#527078" text-anchor="middle">20</text>
+<line x1="1199.54" y1="1492.8" x2="1199.54" y2="1498.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1199.54" y="1514.8" font-size="12.5" fill="#527078" text-anchor="middle">25</text>
+<text x="238" y="1536.8" font-size="12" fill="#527078">每 10 萬人年的腦膜瘤（手術或放射治療）例數</text>
+<text x="110" y="1562.3" font-size="15.5" fill="#8F7418" font-weight="700">三個成分，同一個形狀：吃得愈久、累積愈多，差距愈大。</text>
+<rect x="110" y="1599.55" width="1220" height="181.3" rx="14" fill="#F3E8CD"/>
+<text x="126" y="1629.55" font-size="14" fill="#8F7418" font-weight="800">把絕對數字擺出來是有意義的</text>
+<text x="126" y="1665.85" font-size="14" fill="#345963">風險最高的那一格，每 10 萬人年 23.8 例，換算成一個人一年大約是萬分之二點四。</text>
+<text x="126" y="1704.85" font-size="14" fill="#345963">歐洲藥品管理局自己的說法也是：這個副作用罕見，依劑量與使用時間長短，大約每 1 萬人裡影響 1 到 10 人，而且風險隨累積劑量上升。［B-S55］</text>
+<text x="126" y="1743.85" font-size="14" fill="#345963">倍數很嚇人，基準值很低——兩件事要同時在腦子裡。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1836.85" width="1272" height="720.1" rx="18" fill="#FFFFFF"/>
+<path d="M 84 1854.85 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="110" y="1880.85" font-size="18" fill="#123641" font-weight="800">另一半答案：哪些成分有，哪些成分沒有</text>
+<text x="110" y="1926.05" font-size="14" fill="#527078">法國一份全國病例對照：2009 到 2018 年因顱內腦膜瘤接受手術的 18,061 人，依出生年與居住地 1:5 配對 90,305 位對照。勝算比不是機率的倍數。［B-S45］</text>
+<rect x="110" y="1961.05" width="393.33" height="372.6" rx="14" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="126" y="1995.55" font-size="17" fill="#B04A4A" font-weight="800">有訊號</text>
+<text x="126" y="2035.85" font-size="12.5" fill="#527078">超額風險，由使用一年以上的人所驅動</text>
+<circle cx="131" cy="2071.35" r="4.5" fill="#B04A4A"/>
+<text x="144" y="2077.35" font-size="14" fill="#123641" font-weight="800">medrogestone</text>
+<text x="144" y="2097.95" font-size="12.5" fill="#345963">勝算比 3.49（2.38 到 5.10）</text>
+<circle cx="131" cy="2131.95" r="4.5" fill="#B04A4A"/>
+<text x="144" y="2137.95" font-size="14" fill="#123641" font-weight="800">注射型 medroxyprogesterone acetate</text>
+<text x="144" y="2158.55" font-size="12.5" fill="#345963">5.55（2.27 到 13.56）</text>
+<circle cx="131" cy="2192.55" r="4.5" fill="#B04A4A"/>
+<text x="144" y="2198.55" font-size="14" fill="#123641" font-weight="800">promegestone</text>
+<text x="144" y="2219.15" font-size="12.5" fill="#345963">2.39（1.85 到 3.09）</text>
+<text x="126" y="2261.65" font-size="12.5" fill="#527078">本來就知道有風險的三個，在同一份資料裡是 cyproterone</text>
+<text x="126" y="2279.65" font-size="12.5" fill="#527078">19.21（16.61 到 22.22）、nomegestrol 4.93、</text>
+<text x="126" y="2297.65" font-size="12.5" fill="#527078">chlormadinone 3.87。</text>
+<rect x="523.33" y="1961.05" width="393.33" height="360.6" rx="14" fill="#D8EDE7" stroke="#00806B" stroke-width="2.5"/>
+<text x="539.33" y="1995.55" font-size="17" fill="#00806B" font-weight="800">沒有訊號</text>
+<text x="539.33" y="2035.85" font-size="12.5" fill="#527078">這份資料裡沒有看到超額風險</text>
+<circle cx="544.33" cy="2071.35" r="4.5" fill="#00806B"/>
+<text x="557.33" y="2077.35" font-size="14" fill="#123641" font-weight="800">progesterone</text>
+<circle cx="544.33" cy="2112.95" r="4.5" fill="#00806B"/>
+<text x="557.33" y="2118.95" font-size="14" fill="#123641" font-weight="800">dydrogesterone</text>
+<circle cx="544.33" cy="2154.55" r="4.5" fill="#00806B"/>
+<text x="557.33" y="2160.55" font-size="14" fill="#123641" font-weight="800">含 levonorgestrel 的子宮內投藥系統</text>
+<text x="539.33" y="2204.65" font-size="12.5" fill="#527078">2026 年那份統合也把 levonorgestrel 與 progesterone 這一</text>
+<text x="539.33" y="2222.65" font-size="12.5" fill="#527078">類列為沒有訊號。［B-S46］</text>
+<rect x="936.67" y="1961.05" width="393.33" height="360.6" rx="14" fill="#ECE8DE" stroke="#7A6E58" stroke-width="2.5"/>
+<text x="952.67" y="1995.55" font-size="17" fill="#7A6E58" font-weight="800">資料不足</text>
+<text x="952.67" y="2035.85" font-size="12.5" fill="#527078">人數太少，下不了結論</text>
+<circle cx="957.67" cy="2071.35" r="4.5" fill="#7A6E58"/>
+<text x="970.67" y="2077.35" font-size="14" fill="#123641" font-weight="800">dienogest</text>
+<circle cx="957.67" cy="2112.95" r="4.5" fill="#7A6E58"/>
+<text x="970.67" y="2118.95" font-size="14" fill="#123641" font-weight="800">hydroxyprogesterone</text>
+<text x="952.67" y="2163.05" font-size="12.5" fill="#527078">2026 年統合另把 chlormadinone、nomegestrol、</text>
+<text x="952.67" y="2181.05" font-size="12.5" fill="#527078">promegestone、medrogestone 與 desogestrel 列為「有</text>
+<text x="952.67" y="2199.05" font-size="12.5" fill="#527078">訊號，但資料稀疏、異質性高，沒有合併」。［B-S46］</text>
+<rect x="110" y="2349.65" width="1220" height="181.3" rx="14" fill="#ECE8DE"/>
+<text x="126" y="2379.65" font-size="14" fill="#123641" font-weight="800">2026 年的統合把整體圖像收攏</text>
+<text x="126" y="2415.95" font-size="14" fill="#345963">cyproterone acetate 合併勝算比 12.36（7.47 到 20.45），證據等級中等。</text>
+<text x="126" y="2454.95" font-size="14" fill="#345963">長效注射型 medroxyprogesterone acetate 2.68（1.72 到 4.19），等級低。</text>
+<text x="126" y="2493.95" font-size="14" fill="#345963">作者對整體確定性的自評：觀察性設計、殘餘干擾、異質性與部分暴露的不精確，都限制了證據強度。（78 篇回顧、14 篇進入統合）［B-S46］</text>
+<g filter="url(#sh)">
+<rect x="84" y="2586.95" width="1272" height="283.4" rx="18" fill="#FFFFFF"/>
+<path d="M 84 2604.95 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#7A6E58"/>
+</g>
+<text x="110" y="2630.95" font-size="18" fill="#123641" font-weight="800">停藥之後的族群層次數字（這是資料，不是指示）</text>
+<rect x="110" y="2668.15" width="598" height="113.2" rx="14" fill="#ECE8DE"/>
+<text x="126" y="2699.65" font-size="15.5" fill="#00806B" font-weight="800">nomegestrol</text>
+<text x="126" y="2739.35" font-size="14" fill="#345963">停用滿一年之後，風險與對照組相同：1.0（0.8 到 1.3）。［B-S43］</text>
+<rect x="732" y="2668.15" width="598" height="129.2" rx="14" fill="#ECE8DE"/>
+<text x="748" y="2699.65" font-size="15.5" fill="#96790F" font-weight="800">cyproterone</text>
+<text x="748" y="2739.35" font-size="14" fill="#345963">停用一年後仍是對照組的 1.8 倍（1.0 到 3.2）——明顯降下來，但還沒完全回到基線。［</text>
+<text x="748" y="2760.35" font-size="14" fill="#345963">B-S42］</text>
+<text x="110" y="2823.35" font-size="14" fill="#B04A4A" font-weight="800">這兩行是族群層次的觀察結果，不是給任何人的用藥指示。</text>
+<g filter="url(#sh)">
+<rect x="84" y="2900.35" width="1272" height="525.2" rx="18" fill="#FFFFFF"/>
+<path d="M 84 2918.35 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="110" y="2944.35" font-size="18" fill="#123641" font-weight="800">台灣端：三個成分裡只剩一個還拿得到</text>
+<rect x="110" y="2975.55" width="359.81" height="26" rx="13" fill="#8F7418"/>
+<text x="121" y="2993.41" font-size="13.5" fill="#FFFFFF" font-weight="800">食藥署全部藥品許可證資料集・全表 72,043 筆逐筆檢索</text>
+<text x="126" y="3027.55" font-size="14" fill="#123641" font-weight="800">cyproterone acetate</text>
+<rect x="660" y="3011.55" width="43" height="22" rx="11" fill="#00806B"/>
+<text x="669" y="3027.05" font-size="12.5" fill="#FFFFFF" font-weight="800">還在</text>
+<text x="126" y="3048.15" font-size="12.5" fill="#345963">有多張現行有效的許可證</text>
+<rect x="110" y="3013.55" width="6" height="50.6" rx="3" fill="#00806B"/>
+<text x="126" y="3090.15" font-size="14" fill="#123641" font-weight="800">nomegestrol acetate</text>
+<rect x="610" y="3074.15" width="93" height="22" rx="11" fill="#B04A4A"/>
+<text x="619" y="3089.65" font-size="12.5" fill="#FFFFFF" font-weight="800">許可證已註銷</text>
+<text x="126" y="3110.75" font-size="12.5" fill="#345963">全表只有一張，已註銷，有效日期止於 2020 年 1 月 15 日</text>
+<rect x="110" y="3076.15" width="6" height="50.6" rx="3" fill="#B04A4A"/>
+<text x="126" y="3152.75" font-size="14" fill="#123641" font-weight="800">chlormadinone acetate</text>
+<rect x="610" y="3136.75" width="93" height="22" rx="11" fill="#B04A4A"/>
+<text x="619" y="3152.25" font-size="12.5" fill="#FFFFFF" font-weight="800">許可證已註銷</text>
+<text x="126" y="3173.35" font-size="12.5" fill="#345963">也只有一張，已註銷</text>
+<rect x="110" y="3138.75" width="6" height="50.6" rx="3" fill="#B04A4A"/>
+<text x="126" y="3215.35" font-size="14" fill="#123641" font-weight="800">medrogestone、promegestone</text>
+<rect x="635" y="3199.35" width="68" height="22" rx="11" fill="#7A6E58"/>
+<text x="644" y="3214.85" font-size="12.5" fill="#FFFFFF" font-weight="800">現行零筆</text>
+<text x="126" y="3235.95" font-size="12.5" fill="#345963">現行零筆</text>
+<rect x="110" y="3201.35" width="6" height="50.6" rx="3" fill="#7A6E58"/>
+<text x="126" y="3277.95" font-size="14" fill="#123641" font-weight="800">medroxyprogesterone acetate</text>
+<rect x="597.5" y="3261.95" width="105.5" height="22" rx="11" fill="#7A6E58"/>
+<text x="606.5" y="3277.45" font-size="12.5" fill="#FFFFFF" font-weight="800">注射劑型已註銷</text>
+<text x="126" y="3298.55" font-size="12.5" fill="#345963">現行許可證全部是口服劑型；注射劑型已註銷，有效日期止於 2020 年 5 月 9 日</text>
+<rect x="110" y="3263.95" width="6" height="50.6" rx="3" fill="#7A6E58"/>
+<text x="110" y="3339.05" font-size="12.5" fill="#527078">［B-S52］</text>
+<text x="110" y="3378.55" font-size="14" fill="#8F7418" font-weight="700">法國研究裡風險最高的那幾個，台灣讀者手上大多買不到；還在的是 cyproterone。</text>
+<text x="737" y="3029.05" font-size="15.5" fill="#123641" font-weight="800">而且台灣的仿單上有寫，是主管機關命令加上去的</text>
+<text x="737" y="3069.25" font-size="12.5" fill="#527078">食藥署 2022 年 9 月 15 日衛授食字第1111407692號公告，依藥事法第 48 條，要求含 cyproterone 成</text>
+<text x="737" y="3087.25" font-size="12.5" fill="#527078">分的高劑量（50 mg）藥品中文仿單——低劑量（2 mg）製劑同樣加刊：</text>
+<rect x="737" y="3117.25" width="593" height="70.75" rx="14" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="755" y="3148.75" font-size="15.5" fill="#B04A4A" font-weight="800">於「禁忌」處加刊「現罹患腦膜瘤或有腦膜瘤病史之病人」</text>
+<text x="737" y="3208" font-size="14" fill="#345963">並於「警語及注意事項」及「藥理特性」段落加刊腦膜瘤相關安全性資訊；</text>
+<text x="737" y="3248" font-size="14" fill="#345963">適應症同時改為「僅適用無其他治療選項或以其他治療方式無效時方能使用」；</text>
+<text x="737" y="3288" font-size="14" fill="#345963">用法用量加刊「當臨床症狀獲得改善以後，應使用最低有效劑量維持效果」。［B-S53］</text>
+<rect x="84" y="3455.55" width="1272" height="426.3" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="3499.55" font-size="18" fill="#8F7418" font-weight="800">這一題要回去問誰</text>
+<text x="110" y="3546.25" font-size="15.5" fill="#345963">先講不要做的事：不要自己停藥。停不停、換不換，是開藥給你的那位醫師的決定，而且要連同你當初為什麼吃這個藥一起評估——多毛症、青春痘、子宮內膜異位、更年期症狀，</text>
+<text x="110" y="3570.27" font-size="15.5" fill="#345963">替代方案各不相同，藥停掉之後原本的問題也不會自己消失。</text>
+<text x="110" y="3624.3" font-size="14" fill="#123641" font-weight="800">把藥袋帶回去找開藥的那一科</text>
+<text x="370" y="3624.3" font-size="14" fill="#345963">第一個要問清楚的是：我吃的到底是哪一個成分？看藥袋上的英文成分名，不是商品名。</text>
+<text x="110" y="3669.3" font-size="14" fill="#123641" font-weight="800">接著問暴露量</text>
+<text x="370" y="3669.3" font-size="14" fill="#345963">吃了多久、累積大概多少。</text>
+<text x="110" y="3714.3" font-size="14" fill="#123641" font-weight="800">然後問影像</text>
+<text x="370" y="3714.3" font-size="14" fill="#345963">以我現在的狀況，要不要安排一次腦部磁振造影。</text>
+<text x="110" y="3759.3" font-size="14" fill="#123641" font-weight="800">如果決定停</text>
+<text x="370" y="3759.3" font-size="14" fill="#345963">停藥後三個月要不要再照一次看趨勢。</text>
+<text x="110" y="3811.8" font-size="15.5" fill="#345963">最後一句給已經有腦膜瘤的人：這些藥與腦膜瘤的關聯全部來自觀察性資料，而且結局是「嚴重到需要手術或放射治療的腦膜瘤」。它能告訴你的是這一題值得拿去問，不是「你</text>
+<text x="110" y="3835.82" font-size="15.5" fill="#345963">的瘤就是它造成的」。</text>
+<text x="84" y="3905.85" font-size="15" fill="#527078">示意圖，依口服避孕藥與生殖荷爾蒙統合分析（Qi 2013）、更年期荷爾蒙治療統合分析（Fan 2013）、法國 cyproterone acetate 世代（Weill 2021）、nomegestrol acetate 世代（</text>
+<text x="84" y="3928.35" font-size="15" fill="#527078">Nguyen 2024）、chlormadinone acetate 世代（Roland 2025）、全國病例對照（Roland 2024）、黃體素統合分析（Hudelist 2026）、歐洲藥品管理局公告（2020）、食藥署全部藥</text>
+<text x="84" y="3950.85" font-size="15" fill="#527078">品許可證資料集與 111 年 9 月 15 日公告重繪；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="3377" viewBox="0 0 1440 3377" role="img" aria-labelledby="t d">
+  <title id="t">A sorting tree for three diseases: where it grows, what the first question is, and what the first round of tests is</title>
+  <desc id="d">Schematic sorting tree for three diseases: meningioma, vestibular schwannoma (acoustic neuroma) and pituitary adenoma. A banner across the top states that every incidence figure and every proportion on the figure comes from the United States brain tumour registry, that Taiwan has no corresponding number, and that the reason is written into the law. The tree starts from &quot;the report says a non-malignant intracranial tumour&quot; and divides into three clearly separated branches, with a rule between them marked &quot;prognosis, thresholds and schedules are not shared&quot;. The first branch is meningioma, whose first question is grade and site. It arises from the meningothelial cells, the arachnoid cap cells; a review notes that the meningothelial cells of the skull base and of the convexity have different embryonic origins, mesoderm against neural crest, and that this shapes which histological subtypes occur where. The first round is the imaging itself — where it sits, what it abuts, whether there is oedema. The EANO 2021 guideline states that the diagnosis is usually made by neuroimaging, mostly MRI, but that assigning a grade under the World Health Organization classification requires tissue obtained at surgery, so people who are asymptomatic or older can be managed by a strategy of observation and follow-up imaging. From the US registry for 2017 to 2021: incidence 10.15 per 100,000; men 6.02 and women 13.90, a male-to-female ratio of 0.43; median age at diagnosis 68 years; 195,297 cases, of which 1,608 malignant. The second branch is vestibular schwannoma, whose first question is hearing. Anatomically it divides into intracanalicular tumours and tumours extending into the cerebellopontine angle, and the Danish national cohort keeps its statistics on exactly that division. The first round always includes a formal audiogram. The whole guideline literature is built around hearing: the 2018 CNS guideline is given over to the serviceable hearing preservation rate of each of the three routes and sets out the probability bands for the observation group at two, five and ten years. From the US registry for 2017 to 2021, schwannoma incidence is 2.02 per 100,000, non-malignant 2.01 and malignant 0.01, from 37,436 cases; in the Danish national cohort the median age at diagnosis rose from 49.2 years in 1976 to 60 years in 2015. The third branch is pituitary adenoma, whose first question is whether it is secreting. It arises from the endocrine cells of the anterior pituitary; the 2022 World Health Organization classification separates anterior lobe tumours from posterior lobe and hypothalamic tumours and types them by transcription-factor staining for cell lineage. The first round always includes blood tests for hormones, with visual fields added if it touches the visual pathway. The first recommendation in the Endocrine Society incidentaloma guideline is about secretion: a full history and examination plus laboratory screening for hormone hypersecretion and for hypopituitarism, with visual field testing added when the lesion abuts or compresses the optic nerves and chiasm. From the US registry for 2017 to 2021, pituitary tumour incidence is 4.67 per 100,000, men 4.03 and women 5.41, from 81,187 cases, over 99.8% of them non-malignant; in a Belgian cross-sectional study the mean age at diagnosis was 40.3 years, 67.6% were women and 42.6% were macroadenomas. The figure notes that this third one is clearly younger than the other two, so none of the three should be described as a disease of older people. The next section sets out two registry reports, two denominators, which must not be added together. From the CBTRUS 2018–2022 report: meningioma makes up 42.6% of all primary brain and other central nervous system tumours, a denominator that includes non-malignant tumours, and 57.4% of all non-malignant tumours. From the CBTRUS 2017–2021 report: pituitary tumours 17.4% and schwannomas 8.0%, which the report itself describes together as slightly more than a quarter of all tumours, 25.4%. A rule between the two panels is marked &quot;do not add up&quot;, and a note below states that the two reports do not share a denominator, so the three shares are not added up. The same note records that this registry includes non-malignant tumours and pituitary tumours while several other American cancer registries usually collect only malignant tumours, that the report itself states that differences in definition affect the direct comparison of published incidence, and that the denominator of those percentages is therefore &quot;brain tumour&quot;, not &quot;brain cancer&quot;. The following section explains that Taiwan does not have these three numbers and that this is not an oversight. Article 3 of the Cancer Control Act defines cancer as a malignant tumour confirmed by pathological section, or effectively presumptively diagnosed by other examination or testing, which clinically shows recurrence or metastasis. The Taiwan Cancer Registry long-form abstracting manual states that what must be reported is ICD-O-3 behaviour codes 2, 3, 6 and 9, and the same field note places benign (0) and borderline (1) outside the scope of reporting, so benign brain tumours never enter the cancer registry in the first place. In the National Health Insurance medical statistics annual report for ROC year 113 (2024) the only line that can be separated out is D33, benign neoplasm of brain and other parts of the central nervous system: 23,027 people in western-medicine outpatient care and 652 inpatient discharges. But D33 contains neither meningioma (D32) nor pituitary adenoma (D35.2); both are folded into the &quot;other tumours&quot; category in the same report, so using 23,027 to stand for meningioma or pituitary adenoma is wrong. Of the three, only vestibular schwannoma has a citable Taiwanese incidence, and it is an academic study rather than official statistics: using the National Health Insurance database, taking adults over 20 between 2001 and 2012 who had an MRI before diagnosis as confirmed cases, the annual incidence was 2.66 per 100,000 (95% confidence interval 2.32 to 3.05), highest at ages 60 to 69 at 4.86 per 100,000. The figure then sets both sides of the name PitNET side by side. The side that renamed it is the 2022 World Health Organization classification, which classifies well-differentiated adenohypophyseal tumours as pituitary neuroendocrine tumours, PitNETs, previously called pituitary adenomas — but what was actually published uses dual naming, pituitary adenoma / pituitary neuroendocrine tumour, the two names side by side. The side that objects points out that the overall prevalence of pituitary tumours is over 10% while local invasion occurs in only 1 in 2,000 and malignancy in only 1 in 100,000, so that the neuroendocrine tumour label amounts to grossly mislabelling the overwhelming majority; they also point out that markers such as synaptophysin are expressed in thyroid and adrenal tumours too, and ask whether the same reasoning would rename those as well. The figure concludes that it now has two names and that the matter is not settled. The last section notes that other benign intracranial tumours each have their own logic. Haemangioblastoma: an analysis of a US registry puts the incidence of central nervous system haemangioblastoma at 0.141 per 100,000 person-years, and in multivariable analysis multiple tumours were an independent factor for worse survival, hazard ratio 1.715, that is, the ratio of the rate at which events occur in the two groups. Craniopharyngioma: US registry 2017–2021, 3,096 cases, incidence 0.18 per 100,000, 0.7% of all brain tumours. Epidermoid cyst: in a surgical series of 17 cerebellopontine angle epidermoid cysts followed for a mean of 126 months, only 5 were completely removed and in the other 12 the part stuck to a vessel, a nerve or the brainstem was deliberately left behind; the extent of removal was unrelated to the risk of recurrence and symptomatic recurrence appeared on average more than nine years later, which is the exact opposite of the logic for meningioma. The figure notes that these do not resemble one another and must not be read as much the same. The figure closes on the reading that is ruled out: it sorts, and it does not give a prognosis. The three branches do not share a prognosis, a treatment threshold or a follow-up schedule, and carrying a number from one branch across to another is exactly the mistake the figure is built to block. &quot;Benign&quot; is not a conclusion, only a starting point, since each of the three has a malignant box and the proportion in it differs. The most practical line is that what the first round of tests looks like shows which of the three the doctor has sorted the patient into, so the question to ask is specific: which of these is mine counted as, and on that basis, has the first round been done in full?</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="3377" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">THREE DISEASES, THREE SEPARATE LOGICS</text>
+<text x="84" y="142" font-size="38" fill="#123641" font-weight="800" class="r">Three diseases, three logics, and no shared schedule</text>
+<text x="84" y="201.88" font-size="19" fill="#527078">Settling all three with one &quot;it's benign&quot; is the thing I correct most often in clinic.</text>
+<text x="84" y="236.38" font-size="19" fill="#527078">This figure only sorts: where it grows, what the first question is, what the first round of tests is. It gives no treatment detail.</text>
+<rect x="84" y="294.88" width="1272" height="90.5" rx="14" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="108" y="332.38" font-size="15.5" fill="#8F7418" font-weight="800">Every incidence figure and every proportion on this figure comes from the United States brain tumour registry. Taiwan has no corresponding number — the</text>
+<text x="108" y="355.63" font-size="15.5" fill="#8F7418" font-weight="800">reason is written into the law, and is set out in the Taiwan panel below.</text>
+<rect x="455.82" y="419.38" width="528.36" height="46" rx="23" fill="#123641"/>
+<text x="720" y="448.38" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="middle">the report says a non-malignant intracranial tumour</text>
+<text x="720" y="490.88" font-size="13.5" fill="#527078" text-anchor="middle">and from here the first question is completely different for each of the three</text>
+<line x1="720" y1="504.38" x2="720" y2="522.38" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt"/>
+<line x1="287.33" y1="522.38" x2="1152.67" y2="522.38" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt"/>
+<line x1="287.33" y1="522.38" x2="287.33" y2="533.02" stroke="#B9AE94" stroke-width="2" stroke-linecap="round"/>
+<polygon points="287.33,540.38 284.07,533.08 290.6,533.08" fill="#B9AE94"/>
+<line x1="720" y1="522.38" x2="720" y2="533.02" stroke="#B9AE94" stroke-width="2" stroke-linecap="round"/>
+<polygon points="720,540.38 716.74,533.08 723.26,533.08" fill="#B9AE94"/>
+<line x1="1152.67" y1="522.38" x2="1152.67" y2="533.02" stroke="#B9AE94" stroke-width="2" stroke-linecap="round"/>
+<polygon points="1152.67,540.38 1149.4,533.08 1155.93,533.08" fill="#B9AE94"/>
+<rect x="84" y="544.38" width="406.67" height="738.99" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="106" y="566.38" width="126.65" height="29" rx="14.5" fill="#96790F"/>
+<text x="120" y="586.43" font-size="15" fill="#FFFFFF" font-weight="800">meningioma</text>
+<text x="106" y="625.38" font-size="18" fill="#123641" font-weight="800">first question: grade and site</text>
+<line x1="106" y1="646.94" x2="468.67" y2="646.94" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<text x="106" y="674.94" font-size="14" fill="#345963">Arises from the meningothelial cells, the arachnoid</text>
+<text x="106" y="695.94" font-size="14" fill="#345963">cap cells. A review notes that the meningothelial</text>
+<text x="106" y="716.94" font-size="14" fill="#345963">cells of the skull base and of the convexity have</text>
+<text x="106" y="737.94" font-size="14" fill="#345963">different embryonic origins (mesoderm against</text>
+<text x="106" y="758.94" font-size="14" fill="#345963">neural crest), and that this difference shapes which</text>
+<text x="106" y="779.94" font-size="14" fill="#345963">histological subtypes occur where.</text>
+<rect x="106" y="800.94" width="362.67" height="99.43" rx="12" fill="#F3E8CD"/>
+<text x="122" y="832.44" font-size="15.5" fill="#123641" font-weight="800">The first round is the imaging itself —</text>
+<text x="122" y="854.91" font-size="15.5" fill="#123641" font-weight="800">where it sits, what it abuts, whether there</text>
+<text x="122" y="877.39" font-size="15.5" fill="#123641" font-weight="800">is oedema.</text>
+<text x="106" y="928.37" font-size="14" fill="#345963">The diagnosis is &quot;usually made by neuroimaging,</text>
+<text x="106" y="949.37" font-size="14" fill="#345963">mostly MRI&quot;, but assigning a grade under the World</text>
+<text x="106" y="970.37" font-size="14" fill="#345963">Health Organization classification requires tissue</text>
+<text x="106" y="991.37" font-size="14" fill="#345963">obtained at surgery; so people who are</text>
+<text x="106" y="1012.37" font-size="14" fill="#345963">asymptomatic or older &quot;can be managed by a</text>
+<text x="106" y="1033.37" font-size="14" fill="#345963">strategy of observation and follow-up imaging&quot;</text>
+<text x="106" y="1054.37" font-size="14" fill="#345963">(EANO 2021 guideline).</text>
+<text x="106" y="1088.87" font-size="13.5" fill="#527078" font-weight="700">US registry</text>
+<text x="106" y="1109.12" font-size="13.5" fill="#527078" font-weight="700">2017–2021 incidence</text>
+<text x="265.57" y="1088.87" font-size="13.5" fill="#345963">10.15 per 100,000</text>
+<text x="106" y="1137.37" font-size="13.5" fill="#527078" font-weight="700">by sex</text>
+<text x="265.57" y="1137.37" font-size="13.5" fill="#345963">men 6.02, women 13.90;</text>
+<text x="265.57" y="1157.62" font-size="13.5" fill="#345963">male-to-female ratio 0.43</text>
+<text x="106" y="1185.87" font-size="13.5" fill="#527078" font-weight="700">median age at</text>
+<text x="106" y="1206.12" font-size="13.5" fill="#527078" font-weight="700">diagnosis</text>
+<text x="265.57" y="1185.87" font-size="13.5" fill="#345963">68 years</text>
+<text x="106" y="1234.37" font-size="13.5" fill="#527078" font-weight="700">cases and malignant</text>
+<text x="106" y="1254.62" font-size="13.5" fill="#527078" font-weight="700">cases</text>
+<text x="265.57" y="1234.37" font-size="13.5" fill="#345963">195,297 cases, of which 1,608</text>
+<text x="265.57" y="1254.62" font-size="13.5" fill="#345963">malignant</text>
+<rect x="516.67" y="544.38" width="406.67" height="738.99" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="538.67" y="566.38" width="224.11" height="29" rx="14.5" fill="#00806B"/>
+<text x="552.67" y="586.43" font-size="15" fill="#FFFFFF" font-weight="800">vestibular schwannoma</text>
+<text x="538.67" y="625.38" font-size="18" fill="#123641" font-weight="800">first question: hearing</text>
+<line x1="538.67" y1="646.94" x2="901.33" y2="646.94" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<text x="538.67" y="674.94" font-size="14" fill="#345963">The acoustic neuroma. Anatomically it divides in two</text>
+<text x="538.67" y="695.94" font-size="14" fill="#345963">— intracanalicular, and extending into the</text>
+<text x="538.67" y="716.94" font-size="14" fill="#345963">cerebellopontine angle; the Danish national cohort</text>
+<text x="538.67" y="737.94" font-size="14" fill="#345963">keeps its statistics on exactly that division.</text>
+<rect x="538.67" y="758.94" width="362.67" height="76.95" rx="12" fill="#D8EDE7"/>
+<text x="554.67" y="790.44" font-size="15.5" fill="#123641" font-weight="800">The first round always includes a formal</text>
+<text x="554.67" y="812.91" font-size="15.5" fill="#123641" font-weight="800">audiogram.</text>
+<text x="538.67" y="863.89" font-size="14" fill="#345963">The whole guideline literature is built around</text>
+<text x="538.67" y="884.89" font-size="14" fill="#345963">hearing: the 2018 CNS guideline is given over to the</text>
+<text x="538.67" y="905.89" font-size="14" fill="#345963">serviceable hearing preservation rate of each of the</text>
+<text x="538.67" y="926.89" font-size="14" fill="#345963">three routes, and sets out the probability bands for</text>
+<text x="538.67" y="947.89" font-size="14" fill="#345963">the observation group at two, five and ten years.</text>
+<text x="538.67" y="982.39" font-size="13.5" fill="#527078" font-weight="700">US registry</text>
+<text x="538.67" y="1002.64" font-size="13.5" fill="#527078" font-weight="700">2017–2021 incidence</text>
+<text x="538.67" y="1022.89" font-size="13.5" fill="#527078" font-weight="700">(schwannoma)</text>
+<text x="698.24" y="982.39" font-size="13.5" fill="#345963">2.02 per 100,000</text>
+<text x="538.67" y="1051.14" font-size="13.5" fill="#527078" font-weight="700">non-malignant and</text>
+<text x="538.67" y="1071.39" font-size="13.5" fill="#527078" font-weight="700">malignant</text>
+<text x="698.24" y="1051.14" font-size="13.5" fill="#345963">non-malignant 2.01, malignant</text>
+<text x="698.24" y="1071.39" font-size="13.5" fill="#345963">0.01</text>
+<text x="538.67" y="1099.64" font-size="13.5" fill="#527078" font-weight="700">cases</text>
+<text x="698.24" y="1099.64" font-size="13.5" fill="#345963">37,436 cases</text>
+<text x="538.67" y="1127.89" font-size="13.5" fill="#527078" font-weight="700">age at diagnosis</text>
+<text x="538.67" y="1148.14" font-size="13.5" fill="#527078" font-weight="700">(Danish national</text>
+<text x="538.67" y="1168.39" font-size="13.5" fill="#527078" font-weight="700">cohort)</text>
+<text x="698.24" y="1127.89" font-size="13.5" fill="#345963">median rose from 49.2 years</text>
+<text x="698.24" y="1148.14" font-size="13.5" fill="#345963">in 1976 to 60 years in 2015</text>
+<rect x="949.33" y="544.38" width="406.67" height="738.99" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="971.33" y="566.38" width="175.97" height="29" rx="14.5" fill="#5C77C4"/>
+<text x="985.33" y="586.43" font-size="15" fill="#FFFFFF" font-weight="800">pituitary adenoma</text>
+<text x="971.33" y="625.38" font-size="18" fill="#123641" font-weight="800">first question: is it secreting</text>
+<line x1="971.33" y1="646.94" x2="1334" y2="646.94" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<text x="971.33" y="674.94" font-size="14" fill="#345963">Arises from the endocrine cells of the anterior</text>
+<text x="971.33" y="695.94" font-size="14" fill="#345963">pituitary. The 2022 World Health Organization</text>
+<text x="971.33" y="716.94" font-size="14" fill="#345963">classification separates anterior lobe tumours from</text>
+<text x="971.33" y="737.94" font-size="14" fill="#345963">posterior lobe and hypothalamic tumours, and types</text>
+<text x="971.33" y="758.94" font-size="14" fill="#345963">them by transcription-factor staining for cell lineage.</text>
+<rect x="971.33" y="779.94" width="362.67" height="99.43" rx="12" fill="#E3E8F6"/>
+<text x="987.33" y="811.44" font-size="15.5" fill="#123641" font-weight="800">The first round always includes blood tests</text>
+<text x="987.33" y="833.91" font-size="15.5" fill="#123641" font-weight="800">for hormones; visual fields as well if it</text>
+<text x="987.33" y="856.39" font-size="15.5" fill="#123641" font-weight="800">touches the visual pathway.</text>
+<text x="971.33" y="907.37" font-size="14" fill="#345963">The first recommendation in the Endocrine Society</text>
+<text x="971.33" y="928.37" font-size="14" fill="#345963">incidentaloma guideline is about secretion: a full</text>
+<text x="971.33" y="949.37" font-size="14" fill="#345963">history and examination, plus laboratory screening</text>
+<text x="971.33" y="970.37" font-size="14" fill="#345963">for hormone hypersecretion and for hypopituitarism;</text>
+<text x="971.33" y="991.37" font-size="14" fill="#345963">visual field testing is added when the lesion abuts or</text>
+<text x="971.33" y="1012.37" font-size="14" fill="#345963">compresses the optic nerves and chiasm.</text>
+<text x="971.33" y="1046.87" font-size="13.5" fill="#527078" font-weight="700">US registry</text>
+<text x="971.33" y="1067.12" font-size="13.5" fill="#527078" font-weight="700">2017–2021 incidence</text>
+<text x="1130.91" y="1046.87" font-size="13.5" fill="#345963">4.67 per 100,000</text>
+<text x="971.33" y="1095.37" font-size="13.5" fill="#527078" font-weight="700">by sex</text>
+<text x="1130.91" y="1095.37" font-size="13.5" fill="#345963">men 4.03, women 5.41</text>
+<text x="971.33" y="1123.62" font-size="13.5" fill="#527078" font-weight="700">cases and</text>
+<text x="971.33" y="1143.87" font-size="13.5" fill="#527078" font-weight="700">non-malignant share</text>
+<text x="1130.91" y="1123.62" font-size="13.5" fill="#345963">81,187 cases, over 99.8%</text>
+<text x="1130.91" y="1143.87" font-size="13.5" fill="#345963">non-malignant</text>
+<text x="971.33" y="1172.12" font-size="13.5" fill="#527078" font-weight="700">age at diagnosis</text>
+<text x="971.33" y="1192.37" font-size="13.5" fill="#527078" font-weight="700">(Belgian</text>
+<text x="971.33" y="1212.62" font-size="13.5" fill="#527078" font-weight="700">cross-sectional study)</text>
+<text x="1130.91" y="1172.12" font-size="13.5" fill="#345963">mean 40.3 years, 67.6%</text>
+<text x="1130.91" y="1192.37" font-size="13.5" fill="#345963">women, 42.6%</text>
+<text x="1130.91" y="1212.62" font-size="13.5" fill="#345963">macroadenomas</text>
+<line x1="503.67" y1="544.38" x2="503.67" y2="1283.37" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<text x="503.67" y="918.37" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle" transform="rotate(-90 503.67 918.37)">prognosis, thresholds and schedules are not shared</text>
+<line x1="936.33" y1="544.38" x2="936.33" y2="1283.37" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<text x="936.33" y="918.37" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle" transform="rotate(-90 936.33 918.37)">prognosis, thresholds and schedules are not shared</text>
+<text x="84" y="1314.87" font-size="15.5" fill="#B04A4A" font-weight="800">This third one is clearly younger than the other two, so none of the three should be described as &quot;a disease of older people&quot;.</text>
+<text x="84" y="1384.62" font-size="22" fill="#123641" font-weight="800" class="r">Two registry reports, two denominators, which must not be added together</text>
+<text x="84" y="1413.1" font-size="15" fill="#527078">The percentages used in the article come from two different CBTRUS reporting periods. They are kept apart here so that this is visible.</text>
+<rect x="84" y="1432.6" width="619" height="182.76" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="106" y="1454.6" width="222.6" height="25" rx="12.5" fill="#96790F"/>
+<text x="117" y="1472.09" font-size="13.5" fill="#FFFFFF" font-weight="800">CBTRUS 2018–2022 report</text>
+<circle cx="110.5" cy="1503.2" r="4" fill="#96790F"/>
+<text x="125" y="1509.1" font-size="15.5" fill="#345963">Meningioma makes up 42.6% of all primary brain and other central</text>
+<text x="125" y="1532.04" font-size="15.5" fill="#345963">nervous system tumours (a denominator that includes non-malignant</text>
+<text x="125" y="1554.98" font-size="15.5" fill="#345963">tumours).</text>
+<circle cx="110.5" cy="1580.03" r="4" fill="#96790F"/>
+<text x="125" y="1585.92" font-size="15.5" fill="#345963">Meningioma makes up 57.4% of all non-malignant tumours.</text>
+<rect x="737" y="1432.6" width="619" height="182.76" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="759" y="1454.6" width="222.6" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="770" y="1472.09" font-size="13.5" fill="#FFFFFF" font-weight="800">CBTRUS 2017–2021 report</text>
+<circle cx="763.5" cy="1503.2" r="4" fill="#5C77C4"/>
+<text x="778" y="1509.1" font-size="15.5" fill="#345963">Pituitary tumours 17.4%, schwannomas 8.0%.</text>
+<circle cx="763.5" cy="1534.14" r="4" fill="#5C77C4"/>
+<text x="778" y="1540.04" font-size="15.5" fill="#345963">The report itself describes the two together as &quot;slightly more than a</text>
+<text x="778" y="1562.98" font-size="15.5" fill="#345963">quarter of all tumours (25.4%)&quot;.</text>
+<line x1="720" y1="1432.6" x2="720" y2="1615.36" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<text x="720" y="1528.48" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle" transform="rotate(-90 720 1528.48)">do not add up</text>
+<rect x="84" y="1633.36" width="1272" height="105" rx="14" fill="none" stroke="#B9AE94" stroke-width="2"/>
+<text x="104" y="1669.36" font-size="14" fill="#345963">The two reports do not share a denominator, so the three shares are not added up. This registry includes non-malignant tumours and pituitary tumours, while several other</text>
+<text x="104" y="1690.36" font-size="14" fill="#345963">American cancer registries usually collect only malignant tumours; the report itself states that differences in definition affect the direct comparison of published incidence. So the</text>
+<text x="104" y="1711.36" font-size="14" fill="#345963">denominator of those percentages is &quot;brain tumour&quot;, not &quot;brain cancer&quot;.</text>
+<text x="84" y="1790.36" font-size="22" fill="#123641" font-weight="800" class="r">Taiwan does not have these three numbers, and that is not an oversight</text>
+<g filter="url(#sh)">
+<rect x="84" y="1809.84" width="1272" height="439.5" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="110" y="1851.34" font-size="15.5" fill="#527078" font-weight="700">Cancer Control Act, article 3</text>
+<text x="524.8" y="1851.34" font-size="15.5" fill="#345963">defines cancer as &quot;a malignant tumour confirmed by pathological section, or effectively presumptively</text>
+<text x="524.8" y="1874.59" font-size="15.5" fill="#345963">diagnosed by other examination or testing, which clinically shows recurrence or metastasis&quot;.</text>
+<text x="110" y="1911.84" font-size="15.5" fill="#527078" font-weight="700">Taiwan Cancer Registry long-form abstracting</text>
+<text x="110" y="1935.09" font-size="15.5" fill="#527078" font-weight="700">manual</text>
+<text x="524.8" y="1911.84" font-size="15.5" fill="#345963">states that what must be reported is &quot;ICD-O-3 behaviour codes 2, 3, 6 and 9&quot;; the same field note places</text>
+<text x="524.8" y="1935.09" font-size="15.5" fill="#345963">benign (0) and borderline (1) outside the scope of reporting. Benign brain tumours never enter the cancer</text>
+<text x="524.8" y="1958.34" font-size="15.5" fill="#345963">registry in the first place.</text>
+<text x="110" y="1995.59" font-size="15.5" fill="#527078" font-weight="700">National Health Insurance medical statistics annual</text>
+<text x="110" y="2018.84" font-size="15.5" fill="#527078" font-weight="700">report, ROC year 113 (2024)</text>
+<text x="524.8" y="1995.59" font-size="15.5" fill="#345963">the only line that can be separated out is D33 (benign neoplasm of brain and other parts of the central</text>
+<text x="524.8" y="2018.84" font-size="15.5" fill="#345963">nervous system): 23,027 people in western-medicine outpatient care and 652 inpatient discharges.</text>
+<text x="110" y="2056.09" font-size="15.5" fill="#527078" font-weight="700">But D33 contains neither meningioma nor pituitary</text>
+<text x="110" y="2079.34" font-size="15.5" fill="#527078" font-weight="700">adenoma</text>
+<text x="524.8" y="2056.09" font-size="15.5" fill="#345963">D32 (benign neoplasm of meninges) and D35.2 (benign neoplasm of pituitary gland) are folded into the &quot;other</text>
+<text x="524.8" y="2079.34" font-size="15.5" fill="#345963">tumours&quot; category in the same report. Using 23,027 to stand for meningioma or pituitary adenoma is</text>
+<text x="524.8" y="2102.59" font-size="15.5" fill="#345963">wrong.</text>
+<rect x="110" y="2128.34" width="1220" height="95" rx="12" fill="#D8EDE7"/>
+<text x="128" y="2158.34" font-size="14" fill="#345963">Of the three, only vestibular schwannoma has a citable Taiwanese incidence, and it is an academic study, not official statistics: using the National Health Insurance database,</text>
+<text x="128" y="2179.34" font-size="14" fill="#345963">taking adults over 20 between 2001 and 2012 who had an MRI before diagnosis as confirmed cases, the annual incidence was 2.66 per 100,000 (95% confidence interval 2.32 to</text>
+<text x="128" y="2200.34" font-size="14" fill="#345963">3.05), highest at ages 60 to 69 at 4.86 per 100,000.</text>
+<text x="84" y="2301.34" font-size="22" fill="#123641" font-weight="800" class="r">The name PitNET, with both sides set out</text>
+<rect x="84" y="2320.82" width="619" height="251.58" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="106" y="2342.82" width="195.75" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="117" y="2360.31" font-size="13.5" fill="#FFFFFF" font-weight="800">the side that renamed it</text>
+<circle cx="110.5" cy="2391.43" r="4" fill="#5C77C4"/>
+<text x="125" y="2397.32" font-size="15.5" fill="#345963">Classifies well-differentiated adenohypophyseal tumours &quot;as pituitary</text>
+<text x="125" y="2420.26" font-size="15.5" fill="#345963">neuroendocrine tumours (PitNETs; previously called pituitary</text>
+<text x="125" y="2443.2" font-size="15.5" fill="#345963">adenomas)&quot;.</text>
+<circle cx="110.5" cy="2468.25" r="4" fill="#5C77C4"/>
+<text x="125" y="2474.14" font-size="15.5" fill="#345963">But what was actually published uses dual naming: &quot;pituitary adenoma /</text>
+<text x="125" y="2497.08" font-size="15.5" fill="#345963">pituitary neuroendocrine tumour&quot;, the two names side by side.</text>
+<rect x="737" y="2320.82" width="619" height="251.58" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="759" y="2342.82" width="169.06" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="770" y="2360.31" font-size="13.5" fill="#FFFFFF" font-weight="800">the side that objects</text>
+<circle cx="763.5" cy="2391.43" r="4" fill="#B04A4A"/>
+<text x="778" y="2397.32" font-size="15.5" fill="#345963">The overall prevalence of pituitary tumours is &quot;over 10%&quot;, while local</text>
+<text x="778" y="2420.26" font-size="15.5" fill="#345963">invasion occurs in only 1 in 2,000 and malignancy in only 1 in 100,000, so</text>
+<text x="778" y="2443.2" font-size="15.5" fill="#345963">the &quot;neuroendocrine tumour&quot; label amounts to &quot;grossly mislabelling the</text>
+<text x="778" y="2466.14" font-size="15.5" fill="#345963">overwhelming majority&quot;.</text>
+<circle cx="763.5" cy="2491.19" r="4" fill="#B04A4A"/>
+<text x="778" y="2497.08" font-size="15.5" fill="#345963">They also point out that markers such as synaptophysin are expressed in</text>
+<text x="778" y="2520.02" font-size="15.5" fill="#345963">thyroid and adrenal tumours too, and ask whether the same reasoning</text>
+<text x="778" y="2542.96" font-size="15.5" fill="#345963">would rename those as well.</text>
+<line x1="720" y1="2320.82" x2="720" y2="2572.4" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<text x="720" y="2451.11" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle" transform="rotate(-90 720 2451.11)">both sides stand</text>
+<text x="84" y="2605.9" font-size="15.5" fill="#8F7418" font-weight="800">The accurate statement is that it now has two names, and the matter is not settled.</text>
+<text x="84" y="2665.65" font-size="22" fill="#123641" font-weight="800" class="r">Other benign intracranial tumours each have their own logic</text>
+<g filter="url(#sh)">
+<rect x="84" y="2685.13" width="1272" height="285.25" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="110" y="2725.13" font-size="14" fill="#527078" font-weight="700">haemangioblastoma</text>
+<text x="378.4" y="2725.13" font-size="14" fill="#345963">An analysis of a US registry puts the incidence of central nervous system haemangioblastoma at 0.141 per 100,000 person-years; in</text>
+<text x="378.4" y="2746.13" font-size="14" fill="#345963">multivariable analysis multiple tumours were an independent factor for worse survival (hazard ratio 1.715, that is, the ratio of the rate at</text>
+<text x="378.4" y="2767.13" font-size="14" fill="#345963">which events occur in the two groups).</text>
+<text x="110" y="2801.13" font-size="14" fill="#527078" font-weight="700">craniopharyngioma</text>
+<text x="378.4" y="2801.13" font-size="14" fill="#345963">US registry 2017–2021: 3,096 cases, incidence 0.18 per 100,000, 0.7% of all brain tumours.</text>
+<text x="110" y="2835.13" font-size="14" fill="#527078" font-weight="700">epidermoid cyst</text>
+<text x="378.4" y="2835.13" font-size="14" fill="#345963">In a surgical series of 17 cerebellopontine angle epidermoid cysts followed for a mean of 126 months, only 5 were completely removed; in</text>
+<text x="378.4" y="2856.13" font-size="14" fill="#345963">the other 12 the part stuck to a vessel, a nerve or the brainstem was deliberately left behind. The extent of removal was unrelated to the</text>
+<text x="378.4" y="2877.13" font-size="14" fill="#345963">risk of recurrence, and symptomatic recurrence appeared on average more than nine years later. Leaving some behind does not change</text>
+<text x="378.4" y="2898.13" font-size="14" fill="#345963">recurrence — the exact opposite of the logic for meningioma.</text>
+<text x="110" y="2936.63" font-size="15.5" fill="#B04A4A" font-weight="800">They do not resemble one another, and must not be read as &quot;much the same&quot;.</text>
+<rect x="84" y="2996.38" width="1272" height="232.35" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="3044.38" font-size="18" fill="#B04A4A" font-weight="800">This figure sorts; it does not give a prognosis</text>
+<text x="110" y="3075.98" font-size="15.5" fill="#345963">The three branches do not share a prognosis, a treatment threshold or a follow-up schedule. Carrying a number from one branch across to another is exactly the</text>
+<text x="110" y="3099.23" font-size="15.5" fill="#345963">mistake this figure is built to block.</text>
+<text x="110" y="3132.48" font-size="15.5" fill="#345963">&quot;Benign&quot; is not a conclusion, only a starting point — each of the three has a malignant box, and the proportion in it differs.</text>
+<text x="110" y="3165.73" font-size="15.5" fill="#345963">The most practical line: what your first round of tests looks like shows which of the three your doctor has sorted you into. So the question to ask is specific —</text>
+<text x="110" y="3188.98" font-size="15.5" fill="#345963">which of these is mine counted as, and on that basis, has the first round been done in full?</text>
+<text x="84" y="3248.73" font-size="15" fill="#527078">Schematic, redrawn from the CBTRUS 2018–2022 and 2017–2021 reports, Koo 2018 (Taiwan National Health Insurance database), Daly 2006, Reznitsky 2019, Asa 2022, Ho</text>
+<text x="84" y="3271.98" font-size="15" fill="#527078">2022, Ogasawara 2021, Yin 2020, Czernicki 2016, the EANO 2021 meningioma guideline, the CNS 2018 hearing-preservation guideline, the Endocrine Society 2011 pituitary</text>
+<text x="84" y="3295.23" font-size="15" fill="#527078">incidentaloma guideline, and Taiwan's Cancer Control Act, Cancer Registry long-form abstracting manual and National Health Insurance medical statistics annual report for</text>
+<text x="84" y="3318.48" font-size="15" fill="#527078">ROC year 113 (2024), rather than reproduced from their figures; the cohorts, designs and endpoints of the underlying sources differ, so the data points must not be compared</text>
+<text x="84" y="3341.73" font-size="15" fill="#527078">directly.</text>
+  </g>
+</svg>

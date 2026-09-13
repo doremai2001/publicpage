@@ -1,0 +1,235 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="5932" viewBox="0 0 620 5932" role="img" aria-labelledby="t d">
+  <title id="t">Incidental findings have three different denominators, and which situations were never a question of observation</title>
+  <desc id="d">Schematic on what it means to find something incidentally on a brain scan: the question &quot;how common is this&quot; has three different denominators, and some situations were never a question of observation at all. The first section sets out four numbers and four denominators, each row labelled with its population, its age and its imaging conditions. Bos 2016, the Rotterdam Scan Study, scanned 5,800 people from the general population, mean age 64.9 years, on a research brain MRI: meningioma 2.5%, 143 people; in the same cohort 9.5% had an incidental finding of some kind and 2.3% an intracranial aneurysm, which is not a tumour. Morris 2009, a BMJ meta-analysis of 16 studies and 19,559 people with no neurological symptoms, imaging resolution differing across studies, found neoplastic incidental findings of all tumour types in 0.70%, 95% confidence interval 0.47 to 0.98%; within the same analysis, high-resolution sequences found 4.3% and standard resolution only 1.7%, so the better the scanner, the more it finds. Hall 1994 scanned 100 normal volunteers with a dedicated high-resolution contrast-enhanced pituitary MRI and found lesions of 3 to 6 mm read as a pituitary adenoma by at least two readers in 10%; that 10% cannot be carried over to an ordinary brain MRI. The EANO 2021 guideline uses its own wording, 0.9 to 1.0% of general-population brain MRI scans for meningioma, which is a different denominator from the 2.5% above. The figure states that these four must not be averaged and that none may be picked out as &quot;the&quot; probability. The third tumour changes even the unit: a systematic review pooling Danish, Dutch, Taiwanese and American populations puts the incidence of sporadic vestibular schwannoma, the acoustic neuroma, at 3.0 to 5.2 per 100,000 person-years, of which the asymptomatic, incidentally diagnosed slice was 1.3 per 100,000 person-years in the United States for 2012 to 2016; that is how many people are newly diagnosed each year rather than how many are found when you scan, so it will not go on the same axis. The meta-analysis's own conclusion is quoted: these findings are worth mentioning when consenting for brain MRI, but do not support screening of healthy asymptomatic people. The second section is headed &quot;not operated on today is not the same as closed&quot;. In the Rotterdam cohort, 188 people (3.2%) were referred to a specialist because of an incidental finding, and of those 144 (76.6%) were kept under observation or discharged after the first clinic visit. A meta-analysis of 20 studies and 2,130 people with an incidental meningioma shows what was done at diagnosis: active monitoring 50.7%, surgery 27.3%, stereotactic radiosurgery 22.0%; the authors conclude that intervention at diagnosis may lead to unnecessary overtreatment. But the active-monitoring column is not blank: the same meta-analysis, with its 2019 correction, reports that 8.4% developed symptoms during follow-up, 95% confidence interval 2.8 to 16.7%, and that 24.8% went on to have an intervention. The other side is placed alongside it: in a cohort of 1,248 people and 1,010 untreated meningiomas across 33 centres in 15 countries, 383 people (40.5%) died of something unrelated to the meningioma, with the meningioma still quiet and untreated. The third section asks which situations were never a question of observation, in three columns separated by a rule marked &quot;do not merge into one checklist&quot;. The pituitary adenoma column comes from the Endocrine Society 2011 pituitary incidentaloma guideline, which lists the situations in which referral for surgery is recommended: a visual field defect; other visual abnormality caused by compression, such as ophthalmoplegia; neurological compromise caused by the lesion pressing on something; a lesion abutting the optic nerves or chiasm; pituitary apoplexy with visual disturbance; and a hypersecreting tumour other than a prolactinoma. The meningioma column comes from the EANO 2021 guideline and is brief: for most symptomatic or growing meningiomas, surgery is the first-line treatment; the same guideline also states that a grade 1 meningioma may still recur early, that someone whose grade 2 meningioma was completely removed may stay well for years, and that there is considerable individual variation between grade and clinical course. The vestibular schwannoma column comes from the CNS 2018 hearing-preservation guideline and has to be read the other way round: unilateral hearing loss already present does not mean treat now, it means this cannot be treated as nothing; for those who take the observation route the chance of still having serviceable hearing at ten years is put at moderately low, greater than 25% to 50%; so anyone with new unilateral hearing loss needs a formal audiogram first, as a baseline. The fourth section explains what benign and malignant mean inside the skull. In the US brain tumour registry for 2018 to 2022, five-year relative survival is 91.7% for non-malignant tumours and 34.8% for malignant ones, and the distance between those two numbers is the weight the word benign carries. In the same registry for 2017 to 2021, of 195,297 meningiomas 1,608 were malignant, with an incidence of 10.15 per 100,000 for meningioma overall and 0.08 for malignant meningioma. Pituitary tumours show local invasion in 1 in 2,000 and are malignant in 1 in 100,000. The figure notes that 91.7% is not 100% and that the gap is real too, that the equation &quot;brain tumour equals brain cancer&quot; does not hold for these three diseases, and that benign is not a conclusion either, only a starting point. The figure closes on the reading that is ruled out: it does not end on &quot;benign, so relax&quot;. No line on the figure leads to &quot;so leave it alone&quot; and none leads to &quot;so it must come out&quot;; whether to treat, and when, is a judgement the doctor makes from the site, the size, the imaging features and the patient's health as a whole. The one thing the figure can do is turn a report into questions that can be asked out loud: which of these tumours is mine read as? Is it abutting or pressing on the optic nerve, the chiasm, the internal auditory canal, the brainstem or a venous sinus? When is the next scan, and which sequence?</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="5932" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">WHAT AN INCIDENTAL FINDING IS, AND IS NOT</text>
+<text x="40" y="120" font-size="38" fill="#123641" font-weight="800" class="r">One question, three ways</text>
+<text x="40" y="167.88" font-size="38" fill="#123641" font-weight="800" class="r">of scanning, three</text>
+<text x="40" y="215.76" font-size="38" fill="#123641" font-weight="800" class="r">answers</text>
+<text x="40" y="275.64" font-size="19" fill="#527078">&quot;How common is this&quot; has no single answer: change who</text>
+<text x="40" y="304.14" font-size="19" fill="#527078">was scanned, what was scanned, or the scanner, and you</text>
+<text x="40" y="332.64" font-size="19" fill="#527078">change the denominator.</text>
+<text x="40" y="367.14" font-size="19" fill="#527078">Different denominators are not rival claims. This figure</text>
+<text x="40" y="395.64" font-size="19" fill="#527078">does not tell you whether to treat — that is a judgement</text>
+<text x="40" y="424.14" font-size="19" fill="#527078">your doctor makes from the site, the size, the imaging</text>
+<text x="40" y="452.64" font-size="19" fill="#527078">features and your health as a whole.</text>
+<text x="40" y="553.14" font-size="22" fill="#123641" font-weight="800" class="r">Four numbers, four denominators</text>
+<text x="40" y="581.62" font-size="15" fill="#527078">Every row carries its population, its age and its imaging conditions. Strip</text>
+<text x="40" y="604.12" font-size="15" fill="#527078">the labels off and the number means nothing.</text>
+<rect x="40" y="623.62" width="540" height="385.3" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="62" y="645.62" width="110.78" height="25" rx="12.5" fill="#96790F"/>
+<text x="73" y="663.12" font-size="13.5" fill="#FFFFFF" font-weight="800">meningioma</text>
+<text x="62" y="700.62" font-size="18" fill="#123641" font-weight="800">Bos 2016 (Rotterdam Scan Study)</text>
+<text x="62" y="731.82" font-size="14" fill="#527078" font-weight="700">population</text>
+<text x="62" y="755.82" font-size="14" fill="#345963">5,800 people from the general population</text>
+<text x="62" y="783.82" font-size="14" fill="#527078" font-weight="700">age</text>
+<text x="62" y="807.82" font-size="14" fill="#345963">mean age 64.9 years</text>
+<text x="62" y="835.82" font-size="14" fill="#527078" font-weight="700">imaging</text>
+<text x="62" y="859.82" font-size="14" fill="#345963">research brain MRI</text>
+<text x="62" y="904.9" font-size="28" fill="#96790F" font-weight="800">2.5%</text>
+<text x="62" y="927.42" font-size="13" fill="#527078">143 people</text>
+<text x="62" y="958.92" font-size="14" fill="#345963">In the same cohort, 9.5% had an incidental finding of some kind and 2.3%</text>
+<text x="62" y="979.92" font-size="14" fill="#345963">an intracranial aneurysm (not a tumour).</text>
+<rect x="40" y="1024.92" width="540" height="385.3" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="62" y="1046.92" width="368.14" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="73" y="1064.41" font-size="13.5" fill="#FFFFFF" font-weight="800">neoplastic incidental findings (all tumour types)</text>
+<text x="62" y="1101.92" font-size="18" fill="#123641" font-weight="800">Morris 2009 (BMJ meta-analysis)</text>
+<text x="62" y="1133.12" font-size="14" fill="#527078" font-weight="700">population</text>
+<text x="62" y="1157.12" font-size="14" fill="#345963">16 studies, 19,559 people with no neurological symptoms</text>
+<text x="62" y="1185.12" font-size="14" fill="#527078" font-weight="700">age</text>
+<text x="62" y="1209.12" font-size="14" fill="#345963">not stratified</text>
+<text x="62" y="1237.12" font-size="14" fill="#527078" font-weight="700">imaging</text>
+<text x="62" y="1261.12" font-size="14" fill="#345963">mixed across studies, differing resolution</text>
+<text x="62" y="1306.2" font-size="28" fill="#7A6E58" font-weight="800">0.70%</text>
+<text x="62" y="1328.72" font-size="13" fill="#527078">95% confidence interval 0.47 to 0.98%</text>
+<text x="62" y="1360.22" font-size="14" fill="#345963">Within the same analysis: high-resolution sequences found 4.3%, standard</text>
+<text x="62" y="1381.22" font-size="14" fill="#345963">resolution only 1.7%. The better the scanner, the more it finds.</text>
+<rect x="40" y="1426.22" width="540" height="385.3" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="62" y="1448.22" width="155.18" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="73" y="1465.71" font-size="13.5" fill="#FFFFFF" font-weight="800">pituitary adenoma</text>
+<text x="62" y="1503.22" font-size="18" fill="#123641" font-weight="800">Hall 1994</text>
+<text x="62" y="1534.42" font-size="14" fill="#527078" font-weight="700">population</text>
+<text x="62" y="1558.42" font-size="14" fill="#345963">100 normal volunteers</text>
+<text x="62" y="1586.42" font-size="14" fill="#527078" font-weight="700">age</text>
+<text x="62" y="1610.42" font-size="14" fill="#345963">not stratified</text>
+<text x="62" y="1638.42" font-size="14" fill="#527078" font-weight="700">imaging</text>
+<text x="62" y="1662.42" font-size="14" fill="#345963">dedicated high-resolution contrast-enhanced pituitary MRI</text>
+<text x="62" y="1707.5" font-size="28" fill="#5C77C4" font-weight="800">10%</text>
+<text x="62" y="1730.02" font-size="13" fill="#527078">lesions of 3 to 6 mm, read as adenoma by at least two readers</text>
+<text x="62" y="1761.52" font-size="14" fill="#345963">This 10% cannot be carried over to an ordinary brain MRI — it was</text>
+<text x="62" y="1782.52" font-size="14" fill="#345963">scanning something else.</text>
+<rect x="40" y="1827.52" width="540" height="385.3" rx="16" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="1.6"/>
+<rect x="62" y="1849.52" width="110.78" height="25" rx="12.5" fill="#96790F"/>
+<text x="73" y="1867.01" font-size="13.5" fill="#FFFFFF" font-weight="800">meningioma</text>
+<text x="62" y="1904.52" font-size="18" fill="#123641" font-weight="800">EANO 2021 guideline</text>
+<text x="62" y="1935.72" font-size="14" fill="#527078" font-weight="700">population</text>
+<text x="62" y="1959.72" font-size="14" fill="#345963">general population</text>
+<text x="62" y="1987.72" font-size="14" fill="#527078" font-weight="700">age</text>
+<text x="62" y="2011.72" font-size="14" fill="#345963">not stratified</text>
+<text x="62" y="2039.72" font-size="14" fill="#527078" font-weight="700">imaging</text>
+<text x="62" y="2063.72" font-size="14" fill="#345963">general-population brain MRI</text>
+<text x="62" y="2108.8" font-size="28" fill="#96790F" font-weight="800">0.9–1.0%</text>
+<text x="62" y="2131.32" font-size="13" fill="#527078">the guideline's own wording</text>
+<text x="62" y="2162.82" font-size="14" fill="#345963">Same tumour, same question — and a different denominator from the 2.5%</text>
+<text x="62" y="2183.82" font-size="14" fill="#345963">above.</text>
+<text x="40" y="2244.32" font-size="15.5" fill="#B04A4A" font-weight="800">These four must not be averaged, and none of them may be picked out</text>
+<text x="40" y="2267.57" font-size="15.5" fill="#B04A4A" font-weight="800">as &quot;the&quot; probability.</text>
+<rect x="40" y="2301.32" width="540" height="220.2" rx="14" fill="none" stroke="#B9AE94" stroke-width="2"/>
+<text x="60" y="2339.32" font-size="16" fill="#8F7418" font-weight="800">The third tumour changes even the unit</text>
+<text x="60" y="2368.52" font-size="14" fill="#345963">A systematic review pooling four populations — Danish, Dutch, Taiwanese</text>
+<text x="60" y="2389.52" font-size="14" fill="#345963">and American — puts the incidence of sporadic vestibular schwannoma</text>
+<text x="60" y="2410.52" font-size="14" fill="#345963">(acoustic neuroma) at 3.0 to 5.2 per 100,000 person-years; the</text>
+<text x="60" y="2431.52" font-size="14" fill="#345963">asymptomatic, incidentally diagnosed slice of that was 1.3 per 100,000</text>
+<text x="60" y="2452.52" font-size="14" fill="#345963">person-years in the United States for 2012 to 2016. That is how many</text>
+<text x="60" y="2473.52" font-size="14" fill="#345963">people are newly diagnosed each year, not how many are found when you</text>
+<text x="60" y="2494.52" font-size="14" fill="#345963">scan, so it will not go on the axis above.</text>
+<rect x="40" y="2537.52" width="540" height="115.2" rx="14" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2"/>
+<text x="60" y="2575.52" font-size="16" fill="#8F7418" font-weight="800">What that meta-analysis concludes in its own words</text>
+<text x="60" y="2604.72" font-size="14" fill="#345963">These findings &quot;are worth mentioning when consenting for brain MRI, but</text>
+<text x="60" y="2625.72" font-size="14" fill="#345963">do not support screening of healthy asymptomatic people&quot;.</text>
+<text x="40" y="2704.72" font-size="22" fill="#123641" font-weight="800" class="r">Not operated on today is not the same as</text>
+<text x="40" y="2734.2" font-size="22" fill="#123641" font-weight="800" class="r">closed</text>
+<text x="40" y="2762.68" font-size="15" fill="#527078">This section blocks both misreadings at once — &quot;found it, so it must come</text>
+<text x="40" y="2785.18" font-size="15" fill="#527078">out&quot;, and &quot;no operation, so nothing to do&quot;.</text>
+<g filter="url(#sh)">
+<rect x="40" y="2804.68" width="540" height="667.52" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="66" y="2846.18" font-size="15.5" fill="#527078" font-weight="700">Referred to a specialist because of an incidental finding, in the</text>
+<text x="66" y="2869.43" font-size="15.5" fill="#527078" font-weight="700">Rotterdam cohort</text>
+<text x="66" y="2895.68" font-size="15.5" fill="#345963">188 people (3.2%)</text>
+<text x="66" y="2928.93" font-size="15.5" fill="#527078" font-weight="700">Of those, kept under observation or discharged after the first</text>
+<text x="66" y="2952.18" font-size="15.5" fill="#527078" font-weight="700">clinic visit</text>
+<text x="66" y="2978.43" font-size="15.5" fill="#345963">144 people (76.6%)</text>
+<text x="66" y="3020.18" font-size="14" fill="#527078" font-weight="700">A meta-analysis of 20 studies and 2,130 people with an incidental</text>
+<text x="66" y="3040.48" font-size="14" fill="#527078" font-weight="700">meningioma: what was done at diagnosis</text>
+<rect x="66" y="3058.78" width="244.42" height="34" rx="6" fill="#96790F"/>
+<text x="188.21" y="3081.78" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">50.7%</text>
+<rect x="313.42" y="3058.78" width="130.22" height="34" rx="6" fill="#5C77C4"/>
+<text x="378.53" y="3081.78" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">27.3%</text>
+<rect x="446.64" y="3058.78" width="104.36" height="34" rx="6" fill="#B04A4A"/>
+<text x="498.82" y="3081.78" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">22.0%</text>
+<rect x="66" y="3106.78" width="12" height="12" rx="3" fill="#96790F"/>
+<text x="85" y="3116.78" font-size="13.5" fill="#527078" font-weight="700">active monitoring 50.7%</text>
+<rect x="271.42" y="3106.78" width="12" height="12" rx="3" fill="#5C77C4"/>
+<text x="290.42" y="3116.78" font-size="13.5" fill="#527078" font-weight="700">surgery 27.3%</text>
+<rect x="66" y="3130.78" width="12" height="12" rx="3" fill="#B04A4A"/>
+<text x="85" y="3140.78" font-size="13.5" fill="#527078" font-weight="700">stereotactic radiosurgery 22.0%</text>
+<text x="66" y="3172.78" font-size="14" fill="#345963">The authors conclude that &quot;intervention at diagnosis may lead to</text>
+<text x="66" y="3193.78" font-size="14" fill="#345963">unnecessary overtreatment&quot;.</text>
+<text x="66" y="3232.78" font-size="14" fill="#527078" font-weight="700">But the active-monitoring column is not blank (same meta-analysis, with</text>
+<text x="66" y="3253.08" font-size="14" fill="#527078" font-weight="700">its 2019 correction)</text>
+<circle cx="70.5" cy="3278.99" r="4" fill="#96790F"/>
+<text x="85" y="3284.88" font-size="15.5" fill="#345963">8.4% developed symptoms during follow-up (95% confidence</text>
+<text x="85" y="3307.82" font-size="15.5" fill="#345963">interval 2.8 to 16.7%).</text>
+<circle cx="70.5" cy="3332.87" r="4" fill="#96790F"/>
+<text x="85" y="3338.76" font-size="15.5" fill="#345963">24.8% went on to have an intervention.</text>
+<text x="66" y="3376.2" font-size="14" fill="#345963">The other side belongs here too: in a cohort of 1,248 people and 1,010</text>
+<text x="66" y="3397.2" font-size="14" fill="#345963">untreated meningiomas across 33 centres in 15 countries, 383 people</text>
+<text x="66" y="3418.2" font-size="14" fill="#345963">(40.5%) died of something unrelated to the meningioma, with the</text>
+<text x="66" y="3439.2" font-size="14" fill="#345963">meningioma still quiet and untreated.</text>
+<text x="40" y="3524.2" font-size="22" fill="#123641" font-weight="800" class="r">Which situations were never a question of</text>
+<text x="40" y="3553.68" font-size="22" fill="#123641" font-weight="800" class="r">observation</text>
+<text x="40" y="3582.16" font-size="15" fill="#527078">The three columns below come from three specialties' guidelines, each</text>
+<text x="40" y="3604.66" font-size="15" fill="#527078">covering its own tumour.</text>
+<g filter="url(#sh)">
+<rect x="40" y="3624.16" width="540" height="1042.2" rx="18" fill="#FFFFFF"/>
+</g>
+<rect x="66" y="3650.16" width="155.18" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="77" y="3667.66" font-size="13.5" fill="#FFFFFF" font-weight="800">pituitary adenoma</text>
+<text x="66" y="3701.16" font-size="14" fill="#527078" font-weight="700">Endocrine Society 2011 pituitary incidentaloma guideline</text>
+<text x="66" y="3732.96" font-size="15.5" fill="#345963">lists the situations in which referral for surgery is</text>
+<text x="66" y="3756.21" font-size="15.5" fill="#345963">recommended:</text>
+<circle cx="70.5" cy="3783.57" r="4" fill="#5C77C4"/>
+<text x="85" y="3789.46" font-size="15.5" fill="#345963">a visual field defect;</text>
+<circle cx="70.5" cy="3814.51" r="4" fill="#5C77C4"/>
+<text x="85" y="3820.4" font-size="15.5" fill="#345963">other visual abnormality caused by compression, such as</text>
+<text x="85" y="3843.34" font-size="15.5" fill="#345963">ophthalmoplegia;</text>
+<circle cx="70.5" cy="3868.39" r="4" fill="#5C77C4"/>
+<text x="85" y="3874.28" font-size="15.5" fill="#345963">neurological compromise caused by the lesion pressing on</text>
+<text x="85" y="3897.22" font-size="15.5" fill="#345963">something;</text>
+<circle cx="70.5" cy="3922.27" r="4" fill="#5C77C4"/>
+<text x="85" y="3928.16" font-size="15.5" fill="#345963">a lesion abutting the optic nerves or chiasm;</text>
+<circle cx="70.5" cy="3953.21" r="4" fill="#5C77C4"/>
+<text x="85" y="3959.1" font-size="15.5" fill="#345963">pituitary apoplexy with visual disturbance;</text>
+<circle cx="70.5" cy="3984.15" r="4" fill="#5C77C4"/>
+<text x="85" y="3990.04" font-size="15.5" fill="#345963">a hypersecreting tumour other than a prolactinoma.</text>
+<line x1="40" y1="4027.48" x2="580" y2="4027.48" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<rect x="205.94" y="4015.48" width="208.12" height="24" rx="12" fill="#F7F1E4"/>
+<text x="310" y="4031.98" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">do not merge into one checklist</text>
+<rect x="66" y="4049.48" width="110.78" height="25" rx="12.5" fill="#96790F"/>
+<text x="77" y="4066.98" font-size="13.5" fill="#FFFFFF" font-weight="800">meningioma</text>
+<text x="66" y="4100.48" font-size="14" fill="#527078" font-weight="700">EANO 2021 guideline</text>
+<text x="66" y="4132.28" font-size="15.5" fill="#345963">is brief:</text>
+<circle cx="70.5" cy="4159.64" r="4" fill="#96790F"/>
+<text x="85" y="4165.53" font-size="15.5" fill="#345963">&quot;for most symptomatic or growing meningiomas, surgery is</text>
+<text x="85" y="4188.47" font-size="15.5" fill="#345963">the first-line treatment&quot;.</text>
+<circle cx="70.5" cy="4213.52" r="4" fill="#96790F"/>
+<text x="85" y="4219.41" font-size="15.5" fill="#345963">The same guideline also states that a grade 1 meningioma may</text>
+<text x="85" y="4242.35" font-size="15.5" fill="#345963">still recur early, that someone whose grade 2 meningioma</text>
+<text x="85" y="4265.29" font-size="15.5" fill="#345963">was completely removed may stay well for years, and that</text>
+<text x="85" y="4288.23" font-size="15.5" fill="#345963">there is considerable individual variation between grade and</text>
+<text x="85" y="4311.17" font-size="15.5" fill="#345963">clinical course.</text>
+<line x1="40" y1="4348.61" x2="580" y2="4348.61" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<rect x="205.94" y="4336.61" width="208.12" height="24" rx="12" fill="#F7F1E4"/>
+<text x="310" y="4353.11" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">do not merge into one checklist</text>
+<rect x="66" y="4370.61" width="198.5" height="25" rx="12.5" fill="#00806B"/>
+<text x="77" y="4388.1" font-size="13.5" fill="#FFFFFF" font-weight="800">vestibular schwannoma</text>
+<text x="66" y="4421.61" font-size="14" fill="#527078" font-weight="700">CNS 2018 hearing-preservation guideline</text>
+<text x="66" y="4453.41" font-size="15.5" fill="#345963">has to be read the other way round: unilateral hearing loss</text>
+<text x="66" y="4476.66" font-size="15.5" fill="#345963">already present does not mean &quot;treat now&quot;, it means &quot;this</text>
+<text x="66" y="4499.91" font-size="15.5" fill="#345963">cannot be treated as nothing&quot;.</text>
+<circle cx="70.5" cy="4527.27" r="4" fill="#00806B"/>
+<text x="85" y="4533.16" font-size="15.5" fill="#345963">For those who take the observation route, the chance of still</text>
+<text x="85" y="4556.1" font-size="15.5" fill="#345963">having serviceable hearing at ten years is put at &quot;moderately</text>
+<text x="85" y="4579.04" font-size="15.5" fill="#345963">low (greater than 25% to 50%)&quot;.</text>
+<circle cx="70.5" cy="4604.09" r="4" fill="#00806B"/>
+<text x="85" y="4609.98" font-size="15.5" fill="#345963">So anyone with new unilateral hearing loss needs a formal</text>
+<text x="85" y="4632.92" font-size="15.5" fill="#345963">audiogram first, as a baseline.</text>
+<text x="40" y="4718.36" font-size="22" fill="#123641" font-weight="800" class="r">What &quot;benign&quot; and &quot;malignant&quot; mean inside</text>
+<text x="40" y="4747.84" font-size="22" fill="#123641" font-weight="800" class="r">the skull</text>
+<g filter="url(#sh)">
+<rect x="40" y="4767.32" width="540" height="605.76" rx="18" fill="#FFFFFF"/>
+</g>
+<text x="66" y="4807.32" font-size="14" fill="#527078" font-weight="700">US brain tumour registry 2018–2022: five-year relative survival,</text>
+<text x="66" y="4827.62" font-size="14" fill="#527078" font-weight="700">non-malignant tumours</text>
+<text x="66" y="4862.28" font-size="26" fill="#7A6E58" font-weight="800">91.7%</text>
+<text x="66" y="4885.16" font-size="13" fill="#345963">This registry includes non-malignant tumours.</text>
+<text x="66" y="4923.16" font-size="14" fill="#527078" font-weight="700">Same report: five-year relative survival, malignant tumours</text>
+<text x="66" y="4957.82" font-size="26" fill="#B04A4A" font-weight="800">34.8%</text>
+<text x="66" y="4980.7" font-size="13" fill="#345963">The distance between those two numbers is the weight the word &quot;benign&quot;</text>
+<text x="66" y="4999.7" font-size="13" fill="#345963">carries.</text>
+<text x="66" y="5037.7" font-size="14" fill="#527078" font-weight="700">US brain tumour registry 2017–2021: of 195,297 meningiomas,</text>
+<text x="66" y="5058" font-size="14" fill="#527078" font-weight="700">malignant meningiomas</text>
+<text x="66" y="5092.66" font-size="26" fill="#96790F" font-weight="800">1,608 cases</text>
+<text x="66" y="5115.54" font-size="13" fill="#345963">Incidence 10.15 per 100,000 for meningioma overall, 0.08 for malignant</text>
+<text x="66" y="5134.54" font-size="13" fill="#345963">meningioma.</text>
+<text x="66" y="5172.54" font-size="14" fill="#527078" font-weight="700">Pituitary tumours: the proportion showing local invasion</text>
+<text x="66" y="5207.2" font-size="26" fill="#5C77C4" font-weight="800">1 in 2,000</text>
+<text x="66" y="5230.08" font-size="13" fill="#345963">Malignant ones are 1 in 100,000.</text>
+<text x="66" y="5269.58" font-size="15.5" fill="#345963">91.7% is not 100%, and that gap is real too. The equation &quot;brain</text>
+<text x="66" y="5292.83" font-size="15.5" fill="#345963">tumour equals brain cancer&quot; does not hold for these three</text>
+<text x="66" y="5316.08" font-size="15.5" fill="#345963">diseases — but &quot;benign&quot; is not a conclusion either, only a starting</text>
+<text x="66" y="5339.33" font-size="15.5" fill="#345963">point.</text>
+<rect x="40" y="5399.08" width="540" height="315.35" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="66" y="5447.08" font-size="18" fill="#B04A4A" font-weight="800">This figure does not end on &quot;benign, so relax&quot;</text>
+<text x="66" y="5478.68" font-size="15.5" fill="#345963">No line on this figure leads to &quot;so leave it alone&quot;, and none leads</text>
+<text x="66" y="5501.93" font-size="15.5" fill="#345963">to &quot;so it must come out&quot;. Whether to treat, and when, is a</text>
+<text x="66" y="5525.18" font-size="15.5" fill="#345963">judgement your doctor makes from the site, the size, the imaging</text>
+<text x="66" y="5548.43" font-size="15.5" fill="#345963">features and your health as a whole.</text>
+<text x="66" y="5581.68" font-size="15.5" fill="#345963">The one thing this figure can do for you is turn your report into</text>
+<text x="66" y="5604.93" font-size="15.5" fill="#345963">questions you can ask out loud: which of these tumours is mine</text>
+<text x="66" y="5628.18" font-size="15.5" fill="#345963">read as? Is it abutting or pressing on the optic nerve, the</text>
+<text x="66" y="5651.43" font-size="15.5" fill="#345963">chiasm, the internal auditory canal, the brainstem or a venous</text>
+<text x="66" y="5674.68" font-size="15.5" fill="#345963">sinus? When is the next scan, and which sequence?</text>
+<text x="40" y="5734.43" font-size="15" fill="#527078">Schematic, redrawn from Bos 2016, Morris 2009, Hall 1994, the EANO</text>
+<text x="40" y="5757.68" font-size="15" fill="#527078">2021 meningioma guideline, Marinelli 2022, the Islim 2019 meta-analysis</text>
+<text x="40" y="5780.93" font-size="15" fill="#527078">with its 2019 correction, the IMPACT external validation (JAMA Oncology</text>
+<text x="40" y="5804.18" font-size="15" fill="#527078">2026), the CBTRUS 2018–2022 and 2017–2021 reports, the Endocrine</text>
+<text x="40" y="5827.43" font-size="15" fill="#527078">Society 2011 pituitary incidentaloma guideline, the CNS 2018</text>
+<text x="40" y="5850.68" font-size="15" fill="#527078">hearing-preservation guideline and Ho 2022, rather than reproduced from</text>
+<text x="40" y="5873.93" font-size="15" fill="#527078">their figures; the cohorts, designs and endpoints of the underlying studies</text>
+<text x="40" y="5897.18" font-size="15" fill="#527078">differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

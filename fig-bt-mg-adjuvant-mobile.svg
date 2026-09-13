@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="6222" viewBox="0 0 620 6222" role="img" aria-labelledby="t d">
+  <title id="t">第 2 級腦膜瘤術後輔助放療的四個研究：兩個隨機試驗的狀態、第二期數字與觀察性統合</title>
+  <desc id="d">示意圖：第 2 級腦膜瘤開完刀要不要加放療，四個研究並排，四種不一樣的狀態。第一格是 ROAM／EORTC-1308，狀態標籤是金色的「收完了，等結果」：隨機第三期、1:1 分派到 60 Gy 分 30 次或主動監測，納入新診斷單發第 2 級腦膜瘤、切除程度 Simpson 1 到 3、術後十二週內能開始放療；收案從 2016 年 4 月 28 日到 2021 年 5 月 26 日結束，目標 190 人、實際收到 157 人，試驗整體結束日 2026 年 3 月 31 日。這一格的結果欄畫成灰底，寫「結果尚未發表」，並註明登錄頁上的出版欄到現在只有 2015 年的計畫書與 2020 年的質性分析。第二格是 NRG-BN003，狀態標籤是藍色的「還在收」：隨機第三期，放療對觀察，納入第 2 級腦膜瘤完全切除之後，估計 163 人，仍在收案，主要完成日 2027 年 6 月 15 日、整體完成 2032 年；結果欄同樣畫成灰底，寫「還沒有結果」，並註明進行中的試驗不可以讀成已知結果。這兩格的納入條件用兩塊不同底色標出來，中間寫著「收的不是同一群人」：ROAM 納入 Simpson 1 到 3，那是外科醫師的術中判定，涵蓋了硬膜燒灼與留下受侵犯硬膜的情況；NRG-BN003 納入全切除之後。旁邊一格解釋為什麼一個問了十年的問題還在等，標著「預印本，未經同儕審查」：ROAM 自己的放射治療品保分析寫出了原因——56 個中心做基準案例，13 個（23%）有重大偏差；試驗期間 28 個中心共 64 位病人接受放療，中位每個中心 2 人，25 例（39%）需要重送輪廓或計畫。第三格是 RTOG 0539，狀態標籤是「第二期・風險分層・非隨機」，已有 2026 年的十年期分析。三組的十年無惡化存活畫成橫條：低風險組 60 人（第 1 級，切完只觀察，中位追蹤 12.1 年）85.2%，十年整體存活 94.1%；中風險組 52 人（復發的第 1 級，或新診斷第 2 級全切除後，照 54 Gy，中位追蹤 12.0 年）72.2%，十年整體存活 84.7%，第 3 級以上治療相關毒性 5 人（9.6%）；高風險組 53 人（新診斷第 2 級次全切除後、新診斷第 3 級，或復發的第 2、3 級，照 60 Gy，中位追蹤 11.1 年）42.5%，十年整體存活 51.1%，第 3 級以上毒性 8 人（15.1%）。旁邊註明三組的名字其實是把級別與切乾淨了沒有交叉之後的分格：同樣是第 2 級，全切除後落在中風險，次全切除後落在高風險。再補兩行：中風險組當年的初次報告是三年無惡化存活 93.8%（p 等於 0.0003），但那個 p 值比的是歷史對照、單獨全切除大約 70%，不是同期隨機分派的對照組；EORTC 22042-26042 是單臂第二期，第 2 級、Simpson 1 到 3、照 60 Gy 的 56 人，中位追蹤 5.1 年，估計三年無惡化存活 88.7%，第 3 級以上晚期徵候與症狀 14.3%。這一區收在一句警語：這些數字都好看，但沒有一個是照對不照的隨機比較。第四格是觀察性統合，狀態標籤是灰色的「觀察性・不是隨機」，看的是 1,452 位第 2 級腦膜瘤（1989 到 2019 年）裡 276 人（19.0%）接受輔助分次放療的資料。觀察性那一區先畫一條對數尺的區間圖，虛線標出 1：全切除後的局部復發勝算比 0.50（0.36 到 0.68），p 小於 0.0001，來自 30 篇、2,904 位第 2 級全切除後病人（737 人照、2,167 人沒照）；無惡化存活風險比 0.849（0.730 到 0.988），p 等於 0.035，來自 23 篇、3,822 位第 2 級；整體存活風險比 0.79（0.57 到 1.11），p 等於 0.173，偏向放療但不顯著。結論句是：觀察性資料撐得起來的說法是復發晚一點，撐不起活久一點。接著是「規模更大的那一份，在全切除之後找不到益處」：全切除那一組未校正的五年復發率是照過的 25.5%、沒照的 22.8%；用 G-computation 校正年齡、性別、Simpson 級別、Ki-67、位置、國家醫療體系與治療年份之後，作者寫的是沒有證據顯示輔助分次放療降低了復發風險。這裡畫一條把零線畫清楚的區間圖：最大差異 −2.7%，95% 信賴區間 −5.6 到 0.2，零線用實線標在中間並寫著 0 是沒有差別；信賴區間沒有排除小幅度的好處，但也沒有證明它存在。同一格還列出作者自己標為意外的發現：全切除後接受放療的人死亡率較高，主要由年長、Ki-67 偏低卻接受放療的族群所驅動；以及方向更反的一篇——單中心 318 位第 2 級（1990 到 2023 年，104 人接受輔助放療，中位追蹤 5.1 年），輔助放療與明顯較差的無惡化存活相關（全切除與次全切除後皆 p 小於 0.0001），全切除後的疾病特異存活也較差（p 等於 0.0237），而這是回溯性單中心資料，幾乎確定有適應症偏差。另有一格寫次全切除是另一格：同一份 1,452 人的分析裡，次全切除那一組的方向比較一致，放療與復發風險下降相關，校正前後都是；RTOG 0539 的低風險組也給了反過來的提示，中央覆核為全切除者的十年無惡化存活 87.6%、次全切除者 72.7%。圖的最下面是一個金框方塊：在還沒有答案的這幾年，你能要求的是什麼——桌上得先有病理報告、手術紀錄上的 Simpson 級別，還有術後那一次基準磁振造影；要問的第一件事是我到底算全切除還是次全切除，依據是術中判定還是術後影像；接著問兩個相反方向的問題：如果現在不照，多久掃一次、看到什麼會改變決定；如果現在照，劑量與範圍怎麼定，我這個位置最可能傷到的是什麼。這張圖不替任何人做決定，四格之間也不可以直接比較。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="6222" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">FOUR STUDIES, FOUR DIFFERENT STATES - AND</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">NOT ONE OF THEM ANSWERS IT</text>
+<text x="40" y="142" font-size="40" fill="#123641" font-weight="800" class="r">第 2 級開完刀要不要加放療：</text>
+<text x="40" y="192.4" font-size="40" fill="#123641" font-weight="800" class="r">四格並列，狀態不一樣</text>
+<text x="40" y="252.8" font-size="19" fill="#527078">這一題到今天沒有隨機試驗的答案。兩個隨機試驗的狀態不一樣，</text>
+<text x="40" y="281.3" font-size="19" fill="#527078">不可以讀成「都還在跑」；而且它們收的不是同一群人。</text>
+<text x="40" y="313.8" font-size="19" fill="#527078">進行中的一律標「進行中」，那兩格沒有結果可畫。觀察性與隨</text>
+<text x="40" y="342.3" font-size="19" fill="#527078">機分開標；每個數字都帶瘤別、WHO 級別、n 與追蹤時間。</text>
+<text x="40" y="411.8" font-size="21" fill="#8F7418" font-weight="800">四格並列：設計、狀態、可畫的結果</text>
+<g filter="url(#sh)">
+<rect x="40" y="454.15" width="540" height="627.42" rx="18" fill="#FFFFFF"/>
+<path d="M 40 472.15 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#8F7418"/>
+</g>
+<text x="60" y="491.65" font-size="17.5" fill="#123641" font-weight="800">ROAM／EORTC-1308</text>
+<rect x="60" y="521.28" width="116.5" height="26" rx="13" fill="#8F7418"/>
+<text x="71" y="539.14" font-size="13.5" fill="#FFFFFF" font-weight="800">收完了，等結果</text>
+<text x="60" y="569.78" font-size="12.5" fill="#527078" font-weight="700">設計</text>
+<text x="60" y="587.78" font-size="14" fill="#345963">隨機第三期，1:1</text>
+<text x="60" y="629.58" font-size="12.5" fill="#527078" font-weight="700">介入</text>
+<text x="60" y="647.58" font-size="14" fill="#345963">60 Gy 分 30 次 對 主動監測</text>
+<text x="60" y="689.38" font-size="12.5" fill="#527078" font-weight="700">納入</text>
+<text x="60" y="707.38" font-size="14" fill="#345963">新診斷單發第 2 級腦膜瘤，切除程度 Simpson 1 到 3，術後十二週內能開始放</text>
+<text x="60" y="727.67" font-size="14" fill="#345963">療</text>
+<text x="60" y="769.47" font-size="12.5" fill="#527078" font-weight="700">收案</text>
+<text x="60" y="787.47" font-size="14" fill="#345963">2016 年 4 月 28 日到 2021 年 5 月 26 日結束</text>
+<text x="60" y="829.27" font-size="12.5" fill="#527078" font-weight="700">人數</text>
+<text x="60" y="847.27" font-size="14" fill="#345963">目標 190 人，實際收到 157 人</text>
+<text x="60" y="889.07" font-size="12.5" fill="#527078" font-weight="700">試驗整體結束日</text>
+<text x="60" y="907.07" font-size="14" fill="#345963">2026 年 3 月 31 日</text>
+<rect x="60" y="938.37" width="500" height="85.2" rx="12" fill="url(#hatch)" opacity="0.5"/>
+<rect x="60" y="938.37" width="500" height="85.2" rx="12" fill="none" stroke="#B9AE94" stroke-width="2"/>
+<text x="74" y="967.87" font-size="15.5" fill="#7A6E58" font-weight="800">結果尚未發表</text>
+<text x="74" y="991.57" font-size="12.5" fill="#527078">登錄頁上的出版欄到現在只有 2015 年的計畫書與 2020 年的質性分析。</text>
+<text x="60" y="1044.07" font-size="12.5" fill="#527078">腦膜瘤，WHO 第 2 級｜隨機｜ISRCTN71502099［B-S37］</text>
+<g filter="url(#sh)">
+<rect x="40" y="1097.57" width="540" height="607.12" rx="18" fill="#FFFFFF"/>
+<path d="M 40 1115.57 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="60" y="1135.07" font-size="17.5" fill="#123641" font-weight="800">NRG-BN003</text>
+<rect x="60" y="1164.7" width="62.5" height="26" rx="13" fill="#5C77C4"/>
+<text x="71" y="1182.56" font-size="13.5" fill="#FFFFFF" font-weight="800">還在收</text>
+<text x="60" y="1213.2" font-size="12.5" fill="#527078" font-weight="700">設計</text>
+<text x="60" y="1231.2" font-size="14" fill="#345963">隨機第三期</text>
+<text x="60" y="1273" font-size="12.5" fill="#527078" font-weight="700">介入</text>
+<text x="60" y="1291" font-size="14" fill="#345963">放療 對 觀察</text>
+<text x="60" y="1332.8" font-size="12.5" fill="#527078" font-weight="700">納入</text>
+<text x="60" y="1350.8" font-size="14" fill="#345963">第 2 級腦膜瘤「完全切除之後」</text>
+<text x="60" y="1392.6" font-size="12.5" fill="#527078" font-weight="700">收案</text>
+<text x="60" y="1410.6" font-size="14" fill="#345963">仍在收案</text>
+<text x="60" y="1452.4" font-size="12.5" fill="#527078" font-weight="700">人數</text>
+<text x="60" y="1470.4" font-size="14" fill="#345963">估計 163 人</text>
+<text x="60" y="1512.2" font-size="12.5" fill="#527078" font-weight="700">主要完成日</text>
+<text x="60" y="1530.2" font-size="14" fill="#345963">2027 年 6 月 15 日（整體完成 2032 年）</text>
+<rect x="60" y="1561.5" width="500" height="85.2" rx="12" fill="url(#hatch)" opacity="0.5"/>
+<rect x="60" y="1561.5" width="500" height="85.2" rx="12" fill="none" stroke="#B9AE94" stroke-width="2"/>
+<text x="74" y="1591" font-size="15.5" fill="#7A6E58" font-weight="800">還沒有結果</text>
+<text x="74" y="1614.7" font-size="12.5" fill="#527078">進行中的試驗不可以讀成已知結果。</text>
+<text x="60" y="1667.2" font-size="12.5" fill="#527078">腦膜瘤，WHO 第 2 級｜隨機｜NCT03180268［B-S36］</text>
+<g filter="url(#sh)">
+<rect x="40" y="1720.7" width="540" height="336.52" rx="18" fill="#FFFFFF"/>
+<path d="M 40 1738.7 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="60" y="1758.2" font-size="17.5" fill="#123641" font-weight="800">RTOG 0539</text>
+<rect x="60" y="1787.82" width="184" height="26" rx="13" fill="#96790F"/>
+<text x="71" y="1805.68" font-size="13.5" fill="#FFFFFF" font-weight="800">第二期・風險分層・非隨機</text>
+<text x="60" y="1836.32" font-size="12.5" fill="#527078" font-weight="700">設計</text>
+<text x="60" y="1854.32" font-size="14" fill="#345963">非隨機第二期，依風險分成三組</text>
+<text x="60" y="1896.12" font-size="12.5" fill="#527078" font-weight="700">納入</text>
+<text x="60" y="1914.12" font-size="14" fill="#345963">見下方三組各自的定義</text>
+<text x="60" y="1955.92" font-size="12.5" fill="#527078" font-weight="700">已有資料</text>
+<text x="60" y="1973.92" font-size="14" fill="#345963">2026 年出了十年期分析</text>
+<text x="60" y="2019.72" font-size="12.5" fill="#527078">腦膜瘤，第 1 到 3 級｜非隨機第二期｜Kotecha 2026［B-S31］</text>
+<g filter="url(#sh)">
+<rect x="40" y="2073.22" width="540" height="356.83" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2091.22 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#7A6E58"/>
+</g>
+<text x="60" y="2110.72" font-size="17.5" fill="#123641" font-weight="800">觀察性統合</text>
+<rect x="60" y="2140.35" width="130" height="26" rx="13" fill="#7A6E58"/>
+<text x="71" y="2158.21" font-size="13.5" fill="#FFFFFF" font-weight="800">觀察性・不是隨機</text>
+<text x="60" y="2188.85" font-size="12.5" fill="#527078" font-weight="700">設計</text>
+<text x="60" y="2206.85" font-size="14" fill="#345963">國際多中心資料庫，回溯世代</text>
+<text x="60" y="2248.65" font-size="12.5" fill="#527078" font-weight="700">納入</text>
+<text x="60" y="2266.65" font-size="14" fill="#345963">1,452 位第 2 級腦膜瘤（1989 到 2019 年），其中 276 人（19.0%）接受輔助</text>
+<text x="60" y="2286.95" font-size="14" fill="#345963">分次放療</text>
+<text x="60" y="2328.75" font-size="12.5" fill="#527078" font-weight="700">這一格看的是</text>
+<text x="60" y="2346.75" font-size="14" fill="#345963">全切除之後，放療有沒有降低復發風險</text>
+<text x="60" y="2392.55" font-size="12.5" fill="#527078">腦膜瘤，WHO 第 2 級｜觀察性｜Mirian 2026［B-S40］</text>
+<g filter="url(#sh)">
+<rect x="40" y="2454.05" width="540" height="547.8" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2472.05 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="64" y="2496.05" font-size="18" fill="#B04A4A" font-weight="800">這兩格的納入條件不同——收的不是同一群人</text>
+<rect x="64" y="2533.25" width="492" height="129.2" rx="14" fill="#F3E8CD" stroke="#8F7418" stroke-width="2.5"/>
+<text x="80" y="2564.75" font-size="15.5" fill="#8F7418" font-weight="800">ROAM 納入：Simpson 1 到 3</text>
+<text x="80" y="2604.45" font-size="14" fill="#345963">Simpson 1 到 3 是外科醫師的術中判定，涵蓋了硬膜燒灼與留下受侵犯</text>
+<text x="80" y="2625.45" font-size="14" fill="#345963">硬膜的情況。</text>
+<rect x="64" y="2674.45" width="492" height="108.2" rx="14" fill="#E3E8F6" stroke="#5C77C4" stroke-width="2.5"/>
+<text x="80" y="2705.95" font-size="15.5" fill="#5C77C4" font-weight="800">NRG-BN003 納入：全切除之後</text>
+<text x="80" y="2745.65" font-size="14" fill="#345963">BN003 要的是全切除。就算兩個都讀出來了，也不能疊在一起看成同一題。</text>
+<text x="64" y="2816.15" font-size="15.5" fill="#123641" font-weight="800">為什麼一個問了十年的問題還在等</text>
+<rect x="64" y="2843.85" width="157" height="26" rx="13" fill="#7A6E58"/>
+<text x="75" y="2861.71" font-size="13.5" fill="#FFFFFF" font-weight="800">預印本，未經同儕審查</text>
+<text x="64" y="2893.85" font-size="14" fill="#345963">ROAM 自己的放射治療品保分析寫出了原因：56 個中心做基準案例，13 個（</text>
+<text x="64" y="2914.85" font-size="14" fill="#345963">23%）有重大偏差；試驗期間 28 個中心共 64 位病人接受放療，中位每個中心</text>
+<text x="64" y="2935.85" font-size="14" fill="#345963">2 人，25 例（39%）需要重送輪廓或計畫。罕見腫瘤的複雜放療試驗就是這樣：</text>
+<text x="64" y="2956.85" font-size="14" fill="#345963">收得慢、每一步都要品管。［B-S39］</text>
+<g filter="url(#sh)">
+<rect x="40" y="3031.85" width="540" height="940.8" rx="18" fill="#FFFFFF"/>
+<path d="M 40 3049.85 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="64" y="3073.85" font-size="18" fill="#123641" font-weight="800">已經讀出來的，是第二期的數字</text>
+<text x="64" y="3119.05" font-size="14" fill="#527078">三組的名字很容易被讀成嚴重度的排名，它其實是把「級別」與「切乾淨了沒有」</text>
+<text x="64" y="3140.05" font-size="14" fill="#527078">兩件事交叉之後的分格：同樣是第 2 級，全切除後落在中風險，次全切除後落</text>
+<text x="64" y="3161.05" font-size="14" fill="#527078">在高風險。</text>
+<text x="64" y="3211.55" font-size="15.5" fill="#123641" font-weight="800">低風險　n=60</text>
+<text x="64" y="3235.25" font-size="12.5" fill="#527078">第 1 級，切完只觀察；中位追蹤 12.1 年</text>
+<text x="64" y="3276.75" font-size="14" fill="#527078" font-weight="700"></text>
+<rect x="284" y="3258.75" width="172" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="3258.75" width="146.54" height="26" rx="7" fill="#00806B"/>
+<text x="468" y="3279.31" font-size="21" fill="#00806B" font-weight="800">85.2%</text>
+<text x="64" y="3301.25" font-size="12.5" fill="#345963">十年整體存活 94.1%</text>
+<text x="64" y="3346.75" font-size="15.5" fill="#123641" font-weight="800">中風險　n=52</text>
+<text x="64" y="3370.45" font-size="12.5" fill="#527078">復發的第 1 級，或新診斷第 2 級全切除後；照 54 Gy；中位追蹤</text>
+<text x="64" y="3387.95" font-size="12.5" fill="#527078">12.0 年</text>
+<text x="64" y="3429.45" font-size="14" fill="#527078" font-weight="700"></text>
+<rect x="284" y="3411.45" width="172" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="3411.45" width="124.18" height="26" rx="7" fill="#96790F"/>
+<text x="468" y="3432.01" font-size="21" fill="#96790F" font-weight="800">72.2%</text>
+<text x="64" y="3453.95" font-size="12.5" fill="#345963">十年整體存活 84.7%；第 3 級以上治療相關毒性 5 人（9.6%）</text>
+<text x="64" y="3499.45" font-size="15.5" fill="#123641" font-weight="800">高風險　n=53</text>
+<text x="64" y="3523.15" font-size="12.5" fill="#527078">新診斷第 2 級次全切除後、新診斷第 3 級，或復發的第 2、3 級；照</text>
+<text x="64" y="3540.65" font-size="12.5" fill="#527078">60 Gy；中位追蹤 11.1 年</text>
+<text x="64" y="3582.15" font-size="14" fill="#527078" font-weight="700"></text>
+<rect x="284" y="3564.15" width="172" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="284" y="3564.15" width="73.1" height="26" rx="7" fill="#B04A4A"/>
+<text x="468" y="3584.71" font-size="21" fill="#B04A4A" font-weight="800">42.5%</text>
+<text x="64" y="3606.65" font-size="12.5" fill="#345963">十年整體存活 51.1%；第 3 級以上毒性 8 人（15.1%）</text>
+<line x1="284" y1="3630.65" x2="456" y2="3630.65" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="284" y1="3630.65" x2="284" y2="3636.65" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="284" y="3652.65" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="327" y1="3630.65" x2="327" y2="3636.65" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="327" y="3652.65" font-size="12.5" fill="#527078" text-anchor="middle">25</text>
+<line x1="370" y1="3630.65" x2="370" y2="3636.65" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="370" y="3652.65" font-size="12.5" fill="#527078" text-anchor="middle">50</text>
+<line x1="413" y1="3630.65" x2="413" y2="3636.65" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="413" y="3652.65" font-size="12.5" fill="#527078" text-anchor="middle">75</text>
+<line x1="456" y1="3630.65" x2="456" y2="3636.65" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="456" y="3652.65" font-size="12.5" fill="#527078" text-anchor="middle">100</text>
+<text x="284" y="3674.65" font-size="12" fill="#527078">十年無惡化存活（%）｜腦膜瘤，非隨機第二期</text>
+<text x="64" y="3698.65" font-size="14" fill="#345963">中風險組當年的初次報告是三年無惡化存活 93.8%（p=0.0003），但那個 p 值</text>
+<text x="64" y="3719.65" font-size="14" fill="#345963">比的是歷史對照——單獨全切除大約 70%——不是同期隨機分派的對照組。［</text>
+<text x="64" y="3740.65" font-size="14" fill="#345963">B-S29］</text>
+<text x="64" y="3783.65" font-size="14" fill="#345963">另一份 EORTC 22042-26042 是單臂第二期：第 2 級、Simpson 1 到 3、照</text>
+<text x="64" y="3804.65" font-size="14" fill="#345963">60 Gy 的 56 人，中位追蹤 5.1 年，估計三年無惡化存活 88.7%，第 3 級以上</text>
+<text x="64" y="3825.65" font-size="14" fill="#345963">晚期徵候與症狀 14.3%。［B-S34］</text>
+<rect x="64" y="3860.65" width="492" height="88" rx="14" fill="#F3E8CD"/>
+<text x="80" y="3890.65" font-size="14" fill="#345963">這些數字都好看，但它們沒有回答本題——沒有一個是「照」對「不照」的</text>
+<text x="80" y="3911.65" font-size="14" fill="#345963">隨機比較。</text>
+<g filter="url(#sh)">
+<rect x="40" y="4002.65" width="540" height="780.2" rx="18" fill="#FFFFFF"/>
+<path d="M 40 4020.65 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#7A6E58"/>
+</g>
+<text x="64" y="4044.65" font-size="18" fill="#123641" font-weight="800">觀察性資料的方向：復發少了，活得久沒有</text>
+<rect x="64" y="4075.85" width="130" height="26" rx="13" fill="#7A6E58"/>
+<text x="75" y="4093.71" font-size="13.5" fill="#FFFFFF" font-weight="800">全部是觀察性研究</text>
+<text x="64" y="4129.35" font-size="15.5" fill="#123641" font-weight="800">局部復發（全切除後）</text>
+<line x1="72" y1="4170.05" x2="548" y2="4170.05" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="72" y1="4165.05" x2="72" y2="4175.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="72" y="4200.05" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="230.67" y1="4165.05" x2="230.67" y2="4175.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="230.67" y="4200.05" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="389.33" y1="4165.05" x2="389.33" y2="4175.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="389.33" y="4200.05" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="548" y1="4165.05" x2="548" y2="4175.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="548" y="4200.05" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="389.33" y1="4151.05" x2="389.33" y2="4189.05" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="155.47" y1="4170.05" x2="301.05" y2="4170.05" stroke="#00806B" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="155.47" y1="4162.05" x2="155.47" y2="4178.05" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<line x1="301.05" y1="4162.05" x2="301.05" y2="4178.05" stroke="#00806B" stroke-width="3" stroke-linecap="round"/>
+<circle cx="230.67" cy="4170.05" r="7.5" fill="#00806B" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="4221.05" font-size="14" fill="#00806B" font-weight="800">勝算比 0.50（0.36 到 0.68），p&lt;0.0001</text>
+<text x="64" y="4255.85" font-size="12.5" fill="#527078">30 篇、2,904 位第 2 級全切除後病人（737 人照、2,167 人沒照）。勝算比是把兩組「</text>
+<text x="64" y="4273.85" font-size="12.5" fill="#527078">發生與不發生的比值」再相除，不是機率的倍數。［B-S32］</text>
+<text x="64" y="4321.35" font-size="15.5" fill="#123641" font-weight="800">無惡化存活</text>
+<line x1="72" y1="4362.05" x2="548" y2="4362.05" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="72" y1="4357.05" x2="72" y2="4367.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="72" y="4392.05" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="230.67" y1="4357.05" x2="230.67" y2="4367.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="230.67" y="4392.05" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="389.33" y1="4357.05" x2="389.33" y2="4367.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="389.33" y="4392.05" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="548" y1="4357.05" x2="548" y2="4367.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="548" y="4392.05" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="389.33" y1="4343.05" x2="389.33" y2="4381.05" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="317.29" y1="4362.05" x2="386.57" y2="4362.05" stroke="#96790F" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="317.29" y1="4354.05" x2="317.29" y2="4370.05" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<line x1="386.57" y1="4354.05" x2="386.57" y2="4370.05" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<circle cx="351.86" cy="4362.05" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="4413.05" font-size="14" fill="#96790F" font-weight="800">風險比 0.849（0.730 到 0.988），p=0.035</text>
+<text x="64" y="4447.85" font-size="12.5" fill="#527078">23 篇、3,822 位第 2 級，重建時間事件資料的統合。［B-S33］</text>
+<text x="64" y="4495.35" font-size="15.5" fill="#123641" font-weight="800">整體存活</text>
+<line x1="72" y1="4536.05" x2="548" y2="4536.05" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="72" y1="4531.05" x2="72" y2="4541.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="72" y="4566.05" font-size="12" fill="#527078" text-anchor="middle">0.25</text>
+<line x1="230.67" y1="4531.05" x2="230.67" y2="4541.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="230.67" y="4566.05" font-size="12" fill="#527078" text-anchor="middle">0.5</text>
+<line x1="389.33" y1="4531.05" x2="389.33" y2="4541.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="389.33" y="4566.05" font-size="12" fill="#527078" text-anchor="middle">1</text>
+<line x1="548" y1="4531.05" x2="548" y2="4541.05" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<text x="548" y="4566.05" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="389.33" y1="4517.05" x2="389.33" y2="4555.05" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="260.66" y1="4536.05" x2="413.22" y2="4536.05" stroke="#7A6E58" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="260.66" y1="4528.05" x2="260.66" y2="4544.05" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<line x1="413.22" y1="4528.05" x2="413.22" y2="4544.05" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<circle cx="335.37" cy="4536.05" r="7.5" fill="#7A6E58" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="64" y="4587.05" font-size="14" fill="#7A6E58" font-weight="800">風險比 0.79（0.57 到 1.11），p=0.173</text>
+<text x="64" y="4621.85" font-size="12.5" fill="#527078">同一份統合；偏向放療但不顯著。Chun 那一份的整體存活在任何時間點都沒有顯著差異。</text>
+<text x="64" y="4639.85" font-size="12.5" fill="#527078">［B-S33］［B-S32］</text>
+<text x="72" y="4683.85" font-size="12" fill="#527078">勝算比／風險比（對數尺）｜虛線是 1</text>
+<rect x="64" y="4691.85" width="492" height="67" rx="14" fill="#F3E8CD"/>
+<text x="80" y="4721.85" font-size="14" fill="#345963">所以觀察性資料撐得起來的說法是「復發晚一點」，撐不起「活久一點」。</text>
+<g filter="url(#sh)">
+<rect x="40" y="4812.85" width="540" height="918.78" rx="18" fill="#FFFFFF"/>
+<path d="M 40 4830.85 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#7A6E58"/>
+</g>
+<text x="64" y="4854.85" font-size="18" fill="#123641" font-weight="800">規模更大的那一份，在全切除之後找不到益處</text>
+<rect x="64" y="4886.05" width="130" height="26" rx="13" fill="#7A6E58"/>
+<text x="75" y="4903.91" font-size="13.5" fill="#FFFFFF" font-weight="800">觀察性・全切除後</text>
+<text x="64" y="4938.05" font-size="14" fill="#345963">全切除那一組未校正的五年復發率：照過的 25.5%，沒照的 22.8%。</text>
+<text x="64" y="4981.05" font-size="14" fill="#345963">用 G-computation 校正年齡、性別、Simpson 級別、Ki-67、位置、國家醫</text>
+<text x="64" y="5002.05" font-size="14" fill="#345963">療體系與治療年份之後，作者寫的是：沒有證據顯示輔助分次放療降低了復發風</text>
+<text x="64" y="5023.05" font-size="14" fill="#345963">險。</text>
+<rect x="72" y="5060.05" width="476" height="34" rx="8" fill="#ECE8DE"/>
+<line x1="72" y1="5077.05" x2="548" y2="5077.05" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="389.33" y1="5048.05" x2="389.33" y2="5108.05" stroke="#123641" stroke-width="2.6" stroke-linecap="butt"/>
+<line x1="72" y1="5094.05" x2="72" y2="5100.05" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="72" y="5120.05" font-size="12" fill="#527078" text-anchor="middle">-8</text>
+<line x1="151.33" y1="5094.05" x2="151.33" y2="5100.05" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="151.33" y="5120.05" font-size="12" fill="#527078" text-anchor="middle">-6</text>
+<line x1="230.67" y1="5094.05" x2="230.67" y2="5100.05" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="230.67" y="5120.05" font-size="12" fill="#527078" text-anchor="middle">-4</text>
+<line x1="310" y1="5094.05" x2="310" y2="5100.05" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="310" y="5120.05" font-size="12" fill="#527078" text-anchor="middle">-2</text>
+<line x1="389.33" y1="5094.05" x2="389.33" y2="5100.05" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="389.33" y="5120.05" font-size="12" fill="#123641" font-weight="800" text-anchor="middle">0</text>
+<line x1="468.67" y1="5094.05" x2="468.67" y2="5100.05" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="468.67" y="5120.05" font-size="12" fill="#527078" text-anchor="middle">2</text>
+<line x1="548" y1="5094.05" x2="548" y2="5100.05" stroke="#B9AE94" stroke-width="1.4" stroke-linecap="round"/>
+<text x="548" y="5120.05" font-size="12" fill="#527078" text-anchor="middle">4</text>
+<line x1="167.2" y1="5077.05" x2="397.27" y2="5077.05" stroke="#7A6E58" stroke-width="5" stroke-linecap="round"/>
+<line x1="167.2" y1="5068.05" x2="167.2" y2="5086.05" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<line x1="397.27" y1="5068.05" x2="397.27" y2="5086.05" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<circle cx="282.23" cy="5077.05" r="8" fill="#7A6E58" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="72" y="5140.05" font-size="12" fill="#527078">五年復發率的差值（百分點）｜零線代表沒有差別</text>
+<text x="64" y="5165.55" font-size="15.5" fill="#123641" font-weight="800">最大差異 −2.7%（95% 信賴區間 −5.6 到 0.2）</text>
+<text x="64" y="5206.02" font-size="14" fill="#527078">信賴區間沒有排除小幅度的好處，但也沒有證明它存在。</text>
+<text x="64" y="5261.02" font-size="14" fill="#345963">同一份資料還有一個作者自己標為意外的發現：全切除後接受放療的人死亡率較</text>
+<text x="64" y="5282.02" font-size="14" fill="#345963">高，主要由年長、Ki-67 偏低卻接受放療的族群所驅動。［B-S40］</text>
+<rect x="64" y="5317.02" width="492" height="187.3" rx="14" fill="#F6E2E0"/>
+<text x="80" y="5347.02" font-size="14" fill="#B04A4A" font-weight="800">方向更反的一篇也要列出來</text>
+<text x="80" y="5383.32" font-size="14" fill="#345963">單中心 318 位第 2 級（1990 到 2023 年，104 人接受輔助放療，中位追</text>
+<text x="80" y="5404.32" font-size="14" fill="#345963">蹤 5.1 年），輔助放療與明顯較差的無惡化存活相關（全切除與次全切除</text>
+<text x="80" y="5425.32" font-size="14" fill="#345963">後皆 p&lt;0.0001），全切除後的疾病特異存活也較差（p=0.0237）。這是</text>
+<text x="80" y="5446.32" font-size="14" fill="#345963">回溯性單中心資料，幾乎確定有適應症偏差——比較兇的腫瘤才會被送去放</text>
+<text x="80" y="5467.32" font-size="14" fill="#345963">療。［B-S41］</text>
+<rect x="64" y="5520.32" width="492" height="187.3" rx="14" fill="#ECE8DE"/>
+<text x="80" y="5550.32" font-size="14" fill="#123641" font-weight="800">次全切除是另一格</text>
+<text x="80" y="5586.62" font-size="14" fill="#345963">同一份 1,452 人的分析裡，次全切除那一組的方向比較一致：放療與復發</text>
+<text x="80" y="5607.62" font-size="14" fill="#345963">風險下降相關，校正前後都是。［B-S40］RTOG 0539 的低風險組也給</text>
+<text x="80" y="5628.62" font-size="14" fill="#345963">了一個反過來的提示：中央覆核為全切除者的十年無惡化存活 87.6%，次</text>
+<text x="80" y="5649.62" font-size="14" fill="#345963">全切除者是 72.7%。［B-S28］所以「切乾淨了要不要照」與「沒切乾淨</text>
+<text x="80" y="5670.62" font-size="14" fill="#345963">要不要照」，本來就不是同一題。</text>
+<rect x="40" y="5761.62" width="540" height="265.37" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="5805.62" font-size="18" fill="#8F7418" font-weight="800">在還沒有答案的這幾年，你能要求的是什麼</text>
+<text x="66" y="5836.82" font-size="15.5" fill="#345963">要談這一題，桌上得先有三份東西：病理報告（級別、分裂數、有沒有</text>
+<text x="66" y="5860.85" font-size="15.5" fill="#345963">腦侵犯、Ki-67）、手術紀錄上的 Simpson 級別，還有術後那一次基</text>
+<text x="66" y="5884.87" font-size="15.5" fill="#345963">準磁振造影。資料齊了，要問的第一件事是我到底算全切除還是次全切</text>
+<text x="66" y="5908.9" font-size="15.5" fill="#345963">除，依據是術中判定還是術後影像。接著問兩個相反方向的問題：如果</text>
+<text x="66" y="5932.92" font-size="15.5" fill="#345963">現在不照，多久掃一次、看到什麼會改變決定；如果現在照，劑量與範</text>
+<text x="66" y="5956.95" font-size="15.5" fill="#345963">圍怎麼定，我這個位置最可能傷到的是什麼？這張圖不替任何人做決定，</text>
+<text x="66" y="5980.97" font-size="15.5" fill="#345963">四格之間也不可以直接比較——設計、狀態與族群都不一樣。</text>
+<text x="40" y="6051" font-size="15" fill="#527078">示意圖，依 ROAM／EORTC-1308 登錄資料（ISRCTN71502099）、</text>
+<text x="40" y="6073.5" font-size="15" fill="#527078">NRG-BN003 登錄資料（NCT03180268）、ROAM 放射治療品保分析預印本（</text>
+<text x="40" y="6096" font-size="15" fill="#527078">Mayles 2026，未經同儕審查）、RTOG 0539 十年期分析（Kotecha 2026）</text>
+<text x="40" y="6118.5" font-size="15" fill="#527078">與初次報告（Rogers 2018、Rogers 2023）、EORTC 22042-26042（</text>
+<text x="40" y="6141" font-size="15" fill="#527078">Weber 2018）、輔助放療統合分析（Chun 2021、Verly 2024）、1,452 人</text>
+<text x="40" y="6163.5" font-size="15" fill="#527078">國際多中心世代（Mirian 2026）與單中心 318 人世代（Giotta Lucifero</text>
+<text x="40" y="6186" font-size="15" fill="#527078">2026）重繪；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

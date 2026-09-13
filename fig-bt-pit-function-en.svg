@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="4675" viewBox="0 0 1440 4675" role="img" aria-labelledby="t d">
+  <title id="t">Triage of functioning pituitary adenomas: which type secretes what, and what the first line is</title>
+  <desc id="d">Schematic showing how pituitary adenomas are triaged by what they secrete, and what the first line of treatment is for each type. It opens with the foundation of the whole triage: the incidentaloma guideline lists the conditions that should be referred for surgery and its last item reads, word for word, &quot;Hypersecreting tumors other than prolactinomas&quot; - secreting tumours go to surgery as a rule, and the prolactinoma is singled out as the exception; a crossed circle beside it marks that this must not be read as &quot;pituitary tumours are all treated with drugs first&quot;. Four types then sit side by side. The prolactinoma secretes prolactin and its first line is medical treatment, but the same cell records that the 2025 prolactinoma consensus (a Chinese one, not the Pituitary Society) draws the line on the shape of the tumour: for Knosp grade 0 to 1, well-circumscribed microadenomas and macroadenomas, surgery is also one of the first-line options, and only at Knosp grade 2 or above, and for invasive macroadenomas and giant adenomas, does the consensus write that a dopamine agonist is the first choice. The somatotroph adenoma secretes growth hormone and its first line is surgery. Cushing's disease secretes adrenocorticotrophic hormone and its first line is surgery. The non-functioning adenoma secretes nothing and is followed up while the visual pathway is clear, with referral for surgery if there is already a visual field defect or ophthalmoplegia or if the tumour abuts or compresses the optic nerve and chiasm. A note records that thyrotrophin-secreting adenomas exist but are too rare to appear in the ranking and that no citable proportion was found. The third panel gives how common each type is, in three cohorts with three answers, each labelled with its source and number: cross-sectional intensive case-finding in the province of Liege, Belgium, found 68 clinically relevant pituitary adenomas among 71,972 people, a prevalence of 94 per 100,000 (95% confidence interval 72.2 to 115.8), split as prolactinoma 66%, non-secreting 14.7%, somatotroph adenoma 13.2% and Cushing's disease 5.9%; the community-based study in Banbury in the United Kingdom found 63 cases among 81,149 people, split 57%, 28%, 11% and 2%; and a workshop hosted by the Pituitary Society assembled ranges of prolactinoma 50 to 60%, non-functioning 20 to 40%, somatotroph adenoma 10 to 15% and corticotroph adenoma 5 to 8%. The panel explains that they do not line up because who was scanned, how cases were found and how the denominator was counted all differ, and adds that something in the sellar region is not necessarily an adenoma: in a surgical series of sellar masses 91% were pituitary adenomas and about 9% were not of pituitary origin, that tenth being mostly craniopharyngiomas and Rathke cleft cysts. The fourth panel draws the one-centimetre line: under one centimetre is a microincidentaloma, one centimetre or more a macroincidentaloma, a conventional boundary and not a biological breakpoint; 42.6% of the Liege cohort were already macroadenomas at diagnosis; and the line does not decide the first line of treatment but decides who is being pressed on - upwards into the optic chiasm means a visual field defect, sideways into the cavernous sinus means double vision or a drooping eyelid. The same panel shows the median time from symptom onset to diagnosis in the 63 Banbury patients: one and a half years for prolactinoma, 0.8 years for non-functioning adenoma, 4.5 years for acromegaly and 7 years for corticotroph adenoma, noting that people who arrive having been searching a long time are usually one of the last two types. The fifth panel is the differential for a high prolactin: pregnancy has to be excluded first, then medicines (no citable complete list of drug names was obtained so none is given; bring the whole list of what you take), thyroid function, macroprolactin (prolactin bound to immunoglobulin, detectable but without biological activity, to be screened for when the clinical picture and the value do not match) and the stalk compression effect (when the rise is only mild to moderate the cause may be pressure on the pituitary stalk, in which case a drug will not shrink the tumour and it may still grow, so imaging carries on as usual). The hook effect is drawn as two bars: the true prolactin is very high while the assay reports only a normal or mildly raised value, because prolactin saturates the capture antibody of the assay and a false low value is reported, so the serum should be diluted and re-measured; the other half is written too - this has become uncommon with newer chemiluminescent immunoassays, and whether to dilute and re-test is a clinical judgement. The sixth panel is the follow-up schedule for the non-functioning road from the 2011 incidentaloma guideline: on imaging, a macroincidentaloma is rescanned by MRI six months after the first scan and a microincidentaloma at one year, then for the next three years yearly for macro and every one to two years for micro, lengthening gradually thereafter; on blood tests, a macroincidentaloma is reassessed for hypopituitarism six months after the initial work-up and then yearly, while for a microincidentaloma with no change in clinical picture, history or MRI the guideline writes word for word that repeat testing for hypopituitarism is not needed. The natural history is that up to 25% of untreated non-secreting adenomas enlarge during observation, mostly slowly at 0.4 to 1.0 mm a year, on a maximum-diameter measurement that would give a different answer by volume. The seventh panel covers the other direction: 20.6% of the Liege cohort already had hypopituitarism at diagnosis (n=68); the guideline recommends assessing both too much and too little hormone at once; and the quotable list of tests comes from the emergency guidance of the Society for Endocrinology - cortisol, TSH, free T4, prolactin, IGF-1, LH, FSH, plus testosterone in men and oestradiol in women - which is the emergency setting, with clinic testing left to the doctor. The eighth panel gives the Taiwanese clauses: pasireotide is restricted to patients with Cushing's disease for whom pituitary surgery is not possible or has failed, and octreotide and lanreotide to patients with acromegaly inadequately controlled by surgery, radiotherapy or dopamine agonist therapy - by placing the drug after surgery the clause concedes that surgery is the step taken first; the tests are listed in the fee schedule as prolactin 09120C at 150 points, IGF-1 24023B at 480 points, cortisol 09113C at 240 points and ACTH 09119B at 450 points, along with the stimulation tests for each axis, although being listed does not mean a claim will be approved. The figure closes with four questions in order: which hormones were tested and where did each result fall; is this a microadenoma or a macroadenoma and is it touching the optic chiasm; if the prolactin is high, have medicines, thyroid function and stalk compression been excluded; and is my pituitary function sufficient and does anything need replacing.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="4675" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">PITUITARY ADENOMA - WHICH TYPE, WHICH FIRST LINE</text>
+<text x="84" y="140" font-size="40" fill="#123641" font-weight="800" class="r">What it secretes decides the first line; its size decides who it is</text>
+<text x="84" y="190.4" font-size="40" fill="#123641" font-weight="800" class="r">pressing on</text>
+<text x="84" y="250.8" font-size="19" fill="#527078">When a report says there is something in the pituitary, most people ask how many centimetres first. In this box that is the second</text>
+<text x="84" y="279.3" font-size="19" fill="#527078">question.</text>
+<text x="84" y="311.8" font-size="19" fill="#527078">The two run separately and often point in opposite directions. Every proportion on this page carries its cohort and its number of patients;</text>
+<text x="84" y="340.3" font-size="19" fill="#527078">the three cohorts differ, so the data points must not be compared directly.</text>
+<g filter="url(#sh)"><rect x="84" y="388.8" width="1272" height="290" rx="18" fill="#FFFFFF" stroke="#C9A83E" stroke-width="3"/></g>
+<text x="110" y="422.8" font-size="20" fill="#123641" font-weight="800">The foundation of the whole triage is a hole the incidentaloma guideline cut itself</text>
+<rect x="110" y="468.8" width="1220" height="53.99999999999994" rx="12" fill="#F3E8CD"/>
+<text x="130" y="488.8" font-size="18" fill="#8F7418" font-weight="800">&quot;Hypersecreting tumors other than prolactinomas&quot;</text>
+<rect x="110" y="468.8" width="5" height="54" rx="2" fill="#C9A83E"/>
+<text x="110" y="538.8" font-size="15.5" fill="#345963">The incidentaloma guideline lists the conditions that should be referred for surgery, and its last item is those five words. Secreting tumours go to surgery as a</text>
+<text x="110" y="561.8" font-size="15.5" fill="#345963">rule, and the prolactinoma is singled out as the exception.</text>
+<rect x="110" y="598.8" width="1220" height="66" rx="12" fill="#F6E2E0"/>
+<circle cx="142" cy="630.8" r="16" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.4"/>
+<line x1="134.32" y1="623.12" x2="149.68" y2="638.48" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="134.32" y1="638.48" x2="149.68" y2="623.12" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<text x="172" y="624.8" font-size="17" fill="#B04A4A" font-weight="800">This must not be read as &quot;pituitary tumours are all treated with drugs first&quot;.</text>
+<g filter="url(#sh)"><rect x="84" y="704.8" width="1272" height="594" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="738.8" font-size="20" fill="#123641" font-weight="800">The first line is not the same road for all four types</text>
+<rect x="110" y="776.8" width="293" height="469" rx="14" fill="#F7F1E4"/>
+<text x="126" y="802.8" font-size="18" fill="#00806B" font-weight="800">Prolactinoma</text>
+<text x="126" y="843.8" font-size="14" fill="#527078" font-weight="700">secretes: prolactin</text>
+<rect x="126" y="870.8" width="261" height="35" rx="8" fill="#00806B"/>
+<text x="256.5" y="891.8" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">first line is medical treatment</text>
+<circle cx="131" cy="919.8" r="3.5" fill="#00806B"/>
+<text x="142" y="925.8" font-size="14" fill="#345963">The 2025 prolactinoma consensus</text>
+<text x="142" y="945.8" font-size="14" fill="#345963">(a Chinese one, not the Pituitary</text>
+<text x="142" y="965.8" font-size="14" fill="#345963">Society) draws the line on the shape</text>
+<text x="142" y="985.8" font-size="14" fill="#345963">of the tumour:</text>
+<circle cx="131" cy="1011.8" r="3.5" fill="#00806B"/>
+<text x="142" y="1017.8" font-size="14" fill="#345963">For Knosp grade 0 to 1,</text>
+<text x="142" y="1037.8" font-size="14" fill="#345963">well-circumscribed</text>
+<text x="142" y="1057.8" font-size="14" fill="#345963">microadenomas and</text>
+<text x="142" y="1077.8" font-size="14" fill="#345963">macroadenomas, surgery is also</text>
+<text x="142" y="1097.8" font-size="14" fill="#345963">one of the first-line options</text>
+<circle cx="131" cy="1123.8" r="3.5" fill="#00806B"/>
+<text x="142" y="1129.8" font-size="14" fill="#345963">Only at Knosp grade 2 or above, and</text>
+<text x="142" y="1149.8" font-size="14" fill="#345963">for invasive macroadenomas and</text>
+<text x="142" y="1169.8" font-size="14" fill="#345963">giant adenomas, does the</text>
+<text x="142" y="1189.8" font-size="14" fill="#345963">consensus write that a dopamine</text>
+<text x="142" y="1209.8" font-size="14" fill="#345963">agonist is the first choice</text>
+<rect x="419" y="776.8" width="293" height="469" rx="14" fill="#F7F1E4"/>
+<text x="435" y="802.8" font-size="18" fill="#96790F" font-weight="800">Somatotroph adenoma</text>
+<text x="435" y="843.8" font-size="14" fill="#527078" font-weight="700">secretes: growth hormone</text>
+<rect x="435" y="870.8" width="261" height="35" rx="8" fill="#96790F"/>
+<text x="565.5" y="891.8" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">first line is surgery</text>
+<circle cx="440" cy="919.8" r="3.5" fill="#96790F"/>
+<text x="451" y="925.8" font-size="14" fill="#345963">Secreting tumours go to surgery as</text>
+<text x="451" y="945.8" font-size="14" fill="#345963">a rule, and this type is not an</text>
+<text x="451" y="965.8" font-size="14" fill="#345963">exception</text>
+<rect x="728" y="776.8" width="293" height="469" rx="14" fill="#F7F1E4"/>
+<text x="744" y="802.8" font-size="18" fill="#B04A4A" font-weight="800">Cushing's disease</text>
+<text x="744" y="843.8" font-size="14" fill="#527078" font-weight="700">secretes: adrenocorticotrophic</text>
+<text x="744" y="862.8" font-size="14" fill="#527078" font-weight="700">hormone</text>
+<rect x="744" y="870.8" width="261" height="35" rx="8" fill="#B04A4A"/>
+<text x="874.5" y="891.8" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">first line is surgery</text>
+<circle cx="749" cy="919.8" r="3.5" fill="#B04A4A"/>
+<text x="760" y="925.8" font-size="14" fill="#345963">Secreting tumours go to surgery as</text>
+<text x="760" y="945.8" font-size="14" fill="#345963">a rule, and this type is not an</text>
+<text x="760" y="965.8" font-size="14" fill="#345963">exception</text>
+<rect x="1037" y="776.8" width="293" height="469" rx="14" fill="#F7F1E4"/>
+<text x="1053" y="802.8" font-size="18" fill="#5C77C4" font-weight="800">Non-functioning</text>
+<text x="1053" y="843.8" font-size="14" fill="#527078" font-weight="700">secretes: secretes nothing</text>
+<rect x="1053" y="870.8" width="261" height="56" rx="8" fill="#5C77C4"/>
+<text x="1183.5" y="891.8" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">follow-up while the visual</text>
+<text x="1183.5" y="912.8" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">pathway is clear</text>
+<circle cx="1058" cy="940.8" r="3.5" fill="#5C77C4"/>
+<text x="1069" y="946.8" font-size="14" fill="#345963">Refer for surgery if there is</text>
+<text x="1069" y="966.8" font-size="14" fill="#345963">already a visual field defect or</text>
+<text x="1069" y="986.8" font-size="14" fill="#345963">ophthalmoplegia, or if the tumour</text>
+<text x="1069" y="1006.8" font-size="14" fill="#345963">abuts or compresses the optic</text>
+<text x="1069" y="1026.8" font-size="14" fill="#345963">nerve and chiasm</text>
+<text x="110" y="1265.8" font-size="14.5" fill="#527078">Thyrotrophin-secreting adenomas do exist, but are too rare to appear in this ranking; I could not find a citable proportion, so all that can be said is that they are rare.</text>
+<g filter="url(#sh)"><rect x="84" y="1324.8" width="1272" height="692" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="1358.8" font-size="20" fill="#123641" font-weight="800">How common each type is: three cohorts, three answers</text>
+<text x="110" y="1394.8" font-size="15" fill="#527078">They do not line up, because who was scanned, how cases were found and how the denominator was counted all differ.</text>
+<text x="110" y="1448.8" font-size="16" fill="#123641" font-weight="800">Cross-sectional intensive case-finding, province of Liege, Belgium</text>
+<text x="110" y="1474.8" font-size="14" fill="#527078">68 clinically relevant pituitary adenomas among 71,972 people; prevalence 94 per 100,000 (95% confidence interval 72.2 to 115.8)</text>
+<rect x="110" y="1504.8" width="803.81" height="30" rx="6" fill="#00806B"/>
+<rect x="916.81" y="1504.8" width="176.7" height="30" rx="6" fill="#5C77C4"/>
+<rect x="1096.51" y="1504.8" width="158.36" height="30" rx="6" fill="#96790F"/>
+<rect x="1257.88" y="1504.8" width="69.12" height="30" rx="6" fill="#B04A4A"/>
+<rect x="110" y="1547.8" width="13" height="13" rx="3" fill="#00806B"/>
+<text x="131" y="1558.8" font-size="14" fill="#345963">prolactinoma 66%</text>
+<rect x="415" y="1547.8" width="13" height="13" rx="3" fill="#5C77C4"/>
+<text x="436" y="1558.8" font-size="14" fill="#345963">non-secreting 14.7%</text>
+<rect x="720" y="1547.8" width="13" height="13" rx="3" fill="#96790F"/>
+<text x="741" y="1558.8" font-size="14" fill="#345963">somatotroph adenoma 13.2%</text>
+<rect x="1025" y="1547.8" width="13" height="13" rx="3" fill="#B04A4A"/>
+<text x="1046" y="1558.8" font-size="14" fill="#345963">Cushing's disease 5.9%</text>
+<text x="110" y="1614.8" font-size="16" fill="#123641" font-weight="800">Community-based study, Banbury, United Kingdom</text>
+<text x="110" y="1640.8" font-size="14" fill="#527078">63 cases among 81,149 people</text>
+<rect x="110" y="1670.8" width="706.59" height="30" rx="6" fill="#00806B"/>
+<rect x="819.59" y="1670.8" width="345.57" height="30" rx="6" fill="#5C77C4"/>
+<rect x="1168.16" y="1670.8" width="133.94" height="30" rx="6" fill="#96790F"/>
+<rect x="1305.1" y="1670.8" width="21.9" height="30" rx="6" fill="#B04A4A"/>
+<rect x="110" y="1713.8" width="13" height="13" rx="3" fill="#00806B"/>
+<text x="131" y="1724.8" font-size="14" fill="#345963">prolactinoma 57%</text>
+<rect x="415" y="1713.8" width="13" height="13" rx="3" fill="#5C77C4"/>
+<text x="436" y="1724.8" font-size="14" fill="#345963">non-secreting 28%</text>
+<rect x="720" y="1713.8" width="13" height="13" rx="3" fill="#96790F"/>
+<text x="741" y="1724.8" font-size="14" fill="#345963">somatotroph adenoma 11%</text>
+<rect x="1025" y="1713.8" width="13" height="13" rx="3" fill="#B04A4A"/>
+<text x="1046" y="1724.8" font-size="14" fill="#345963">Cushing's disease 2%</text>
+<text x="110" y="1780.8" font-size="16" fill="#123641" font-weight="800">A workshop hosted by the Pituitary Society with delegates from several societies</text>
+<text x="110" y="1806.8" font-size="14" fill="#527078">the ranges it assembled</text>
+<rect x="110" y="1836.8" width="642.19" height="30" rx="6" fill="#00806B"/>
+<rect x="755.19" y="1836.8" width="348.92" height="30" rx="6" fill="#5C77C4"/>
+<rect x="1107.12" y="1836.8" width="143.63" height="30" rx="6" fill="#96790F"/>
+<rect x="1253.75" y="1836.8" width="73.25" height="30" rx="6" fill="#B04A4A"/>
+<rect x="110" y="1879.8" width="13" height="13" rx="3" fill="#00806B"/>
+<text x="131" y="1890.8" font-size="14" fill="#345963">prolactinoma 50 to 60%</text>
+<rect x="415" y="1879.8" width="13" height="13" rx="3" fill="#5C77C4"/>
+<text x="436" y="1890.8" font-size="14" fill="#345963">non-functioning 20 to 40%</text>
+<rect x="720" y="1879.8" width="13" height="13" rx="3" fill="#96790F"/>
+<text x="741" y="1890.8" font-size="14" fill="#345963">somatotroph adenoma 10 to 15%</text>
+<rect x="1025" y="1879.8" width="13" height="13" rx="3" fill="#B04A4A"/>
+<text x="1046" y="1890.8" font-size="14" fill="#345963">corticotroph adenoma 5 to 8%</text>
+<rect x="110" y="1936.8" width="1220" height="68.0" rx="12" fill="#ECE8DE"/>
+<text x="128" y="1954.8" font-size="15" fill="#345963">Something in the sellar region is not necessarily an adenoma: in a surgical series of sellar masses, 91% were pituitary adenomas and about 9% were not of</text>
+<text x="128" y="1976.8" font-size="15" fill="#345963">pituitary origin, that tenth being mostly craniopharyngiomas and Rathke cleft cysts.</text>
+<g filter="url(#sh)"><rect x="84" y="2042.8" width="1272" height="408" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="2076.8" font-size="20" fill="#123641" font-weight="800">What the one-centimetre line is actually drawing</text>
+<rect x="110" y="2116.8" width="600" height="36" rx="9" fill="#D8EDE7"/>
+<text x="126" y="2140.8" font-size="16" fill="#00806B" font-weight="800">Under one centimetre: microincidentaloma</text>
+<rect x="730" y="2116.8" width="600" height="36" rx="9" fill="#E3E8F6"/>
+<text x="746" y="2140.8" font-size="16" fill="#5C77C4" font-weight="800">One centimetre or more: macroincidentaloma</text>
+<text x="110" y="2166.8" font-size="15.5" fill="#345963">The guideline is blunt about it: by convention, that is what they are called. It is a conventional boundary, not a biological breakpoint. In the Liege cohort, 42.6% were</text>
+<text x="110" y="2189.8" font-size="15.5" fill="#345963">already macroadenomas at diagnosis. This line does not decide the first line of treatment; it decides who is being pressed on - upwards into the optic chiasm</text>
+<text x="110" y="2212.8" font-size="15.5" fill="#345963">means a visual field defect, sideways into the cavernous sinus means double vision or a drooping eyelid.</text>
+<text x="110" y="2265.8" font-size="16" fill="#8F7418" font-weight="800">Median time from symptom onset to diagnosis (Banbury, 63 patients)</text>
+<text x="110" y="2297.8" font-size="14.5" fill="#527078" font-weight="700">Prolactinoma</text>
+<rect x="260" y="2281.8" width="201.43" height="22" rx="6" fill="#00806B"/>
+<text x="1210" y="2298.8" font-size="15.5" fill="#00806B" font-weight="800">one and a half years</text>
+<text x="110" y="2329.8" font-size="14.5" fill="#527078" font-weight="700">Non-functioning</text>
+<rect x="260" y="2313.8" width="107.43" height="22" rx="6" fill="#5C77C4"/>
+<text x="1210" y="2330.8" font-size="15.5" fill="#5C77C4" font-weight="800">0.8 years</text>
+<text x="110" y="2361.8" font-size="14.5" fill="#527078" font-weight="700">Acromegaly</text>
+<rect x="260" y="2345.8" width="604.29" height="22" rx="6" fill="#96790F"/>
+<text x="1210" y="2362.8" font-size="15.5" fill="#96790F" font-weight="800">4.5 years</text>
+<text x="110" y="2393.8" font-size="14.5" fill="#527078" font-weight="700">Corticotroph adenoma</text>
+<rect x="260" y="2377.8" width="940" height="22" rx="6" fill="#B04A4A"/>
+<text x="1210" y="2394.8" font-size="15.5" fill="#B04A4A" font-weight="800">7 years</text>
+<text x="110" y="2417.8" font-size="14.5" fill="#527078">People who arrive at the clinic having been searching for a long time are usually one of the last two types.</text>
+<g filter="url(#sh)"><rect x="84" y="2476.8" width="1272" height="753" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="2510.8" font-size="20" fill="#123641" font-weight="800">A high prolactin is not the same thing as a prolactinoma</text>
+<text x="110" y="2546.8" font-size="15" fill="#527078">Before your value is put down to that tumour, the physiological, drug-related and other pathological causes all have to be excluded, and pregnancy has to be excluded</text>
+<text x="110" y="2568.8" font-size="15" fill="#527078">first.</text>
+<rect x="110" y="2604.8" width="601" height="150" rx="14" fill="#F7F1E4"/>
+<text x="126" y="2628.8" font-size="16" fill="#96790F" font-weight="800">Medicines</text>
+<text x="126" y="2656.8" font-size="14.5" fill="#345963">Plenty of common medicines push prolactin up. I did not obtain a citable complete</text>
+<text x="126" y="2677.8" font-size="14.5" fill="#345963">list of drug names, so none is given here; take the whole list of what you are</text>
+<text x="126" y="2698.8" font-size="14.5" fill="#345963">taking, including psychiatric and gastrointestinal medicines and anything bought</text>
+<text x="126" y="2719.8" font-size="14.5" fill="#345963">over the counter.</text>
+<rect x="729" y="2604.8" width="601" height="150" rx="14" fill="#F7F1E4"/>
+<text x="745" y="2628.8" font-size="16" fill="#96790F" font-weight="800">Thyroid function</text>
+<text x="745" y="2656.8" font-size="14.5" fill="#345963">An underactive thyroid also raises prolactin, and has to be looked at alongside.</text>
+<rect x="110" y="2772.8" width="601" height="150" rx="14" fill="#F7F1E4"/>
+<text x="126" y="2796.8" font-size="16" fill="#5C77C4" font-weight="800">Macroprolactin</text>
+<text x="126" y="2824.8" font-size="14.5" fill="#345963">A large molecule of prolactin bound to immunoglobulin, detectable on assay but</text>
+<text x="126" y="2845.8" font-size="14.5" fill="#345963">without biological activity. The consensus recommends screening for it when</text>
+<text x="126" y="2866.8" font-size="14.5" fill="#345963">the clinical picture and the value do not match.</text>
+<rect x="729" y="2772.8" width="601" height="150" rx="14" fill="#F7F1E4"/>
+<text x="745" y="2796.8" font-size="16" fill="#5C77C4" font-weight="800">Stalk compression effect</text>
+<text x="745" y="2824.8" font-size="14.5" fill="#345963">When the rise is only mild to moderate, the cause may not be the tumour</text>
+<text x="745" y="2845.8" font-size="14.5" fill="#345963">secreting but the tumour pressing on the pituitary stalk. The guideline warns</text>
+<text x="745" y="2866.8" font-size="14.5" fill="#345963">specifically that in this situation a drug will not shrink the tumour, and it may still</text>
+<text x="745" y="2887.8" font-size="14.5" fill="#345963">grow - so imaging carries on as usual.</text>
+<rect x="110" y="2954.8" width="1220" height="267.0" rx="14" fill="#F6E2E0"/>
+<text x="130" y="2974.8" font-size="17" fill="#B04A4A" font-weight="800">Hook effect: the true value is very high, the assay reads low</text>
+<text x="130" y="3018.8" font-size="14.5" fill="#527078" font-weight="700">The true prolactin</text>
+<rect x="130" y="3026.8" width="880" height="26" rx="6" fill="#B04A4A"/>
+<text x="1022" y="3046.8" font-size="14.5" fill="#B04A4A" font-weight="800">very high</text>
+<text x="130" y="3084.8" font-size="14.5" fill="#527078" font-weight="700">What the assay reports</text>
+<rect x="130" y="3092.8" width="193.6" height="26" rx="6" fill="#7A6E58"/>
+<text x="335.6" y="3112.8" font-size="14.5" fill="#7A6E58" font-weight="800">normal or mildly raised</text>
+<line x1="1010" y1="3054.8" x2="336.87" y2="3088.39" stroke="#B04A4A" stroke-width="2.2" stroke-linecap="round"/>
+<polygon points="328.6,3088.8 336.62,3084.73 336.99,3092.06" fill="#B04A4A"/>
+<text x="130" y="3148.8" font-size="14.5" fill="#345963">When a patient with a macroadenoma looks clinically like hyperprolactinaemia but the prolactin is only normal or mildly raised, the serum should be diluted and</text>
+<text x="130" y="3169.8" font-size="14.5" fill="#345963">re-measured. The mechanism is that prolactin is so high that it saturates the capture antibody of the assay, which then reports a false low value. The same passage of</text>
+<text x="130" y="3190.8" font-size="14.5" fill="#345963">the consensus writes the other half: this has become uncommon with newer chemiluminescent immunoassays. Whether to dilute and re-test is a clinical judgement.</text>
+<g filter="url(#sh)"><rect x="84" y="3255.8" width="1272" height="417" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="3289.8" font-size="20" fill="#123641" font-weight="800">On the non-functioning road, follow-up runs to a schedule</text>
+<text x="110" y="3325.8" font-size="15" fill="#527078">This is the schedule written in the 2011 incidentaloma guideline - a document more than a decade old.</text>
+<rect x="110" y="3361.8" width="601" height="205" rx="14" fill="#F7F1E4"/>
+<rect x="126" y="3381.8" width="71.14" height="23" rx="11.5" fill="#5C77C4"/>
+<text x="137" y="3397.98" font-size="13" fill="#FFFFFF" font-weight="800">Imaging</text>
+<circle cx="131" cy="3427.8" r="3.5" fill="#5C77C4"/>
+<text x="142" y="3433.8" font-size="14.5" fill="#345963">Macroincidentaloma: repeat MRI six months after the first scan;</text>
+<text x="142" y="3454.8" font-size="14.5" fill="#345963">microincidentaloma: repeat at one year</text>
+<circle cx="131" cy="3481.8" r="3.5" fill="#5C77C4"/>
+<text x="142" y="3487.8" font-size="14.5" fill="#345963">For the next three years: yearly for macro, every one to two years for micro,</text>
+<text x="142" y="3508.8" font-size="14.5" fill="#345963">then gradually longer</text>
+<rect x="729" y="3361.8" width="601" height="205" rx="14" fill="#F7F1E4"/>
+<rect x="745" y="3381.8" width="91.81" height="23" rx="11.5" fill="#96790F"/>
+<text x="756" y="3397.98" font-size="13" fill="#FFFFFF" font-weight="800">Blood tests</text>
+<circle cx="750" cy="3427.8" r="3.5" fill="#96790F"/>
+<text x="761" y="3433.8" font-size="14.5" fill="#345963">Macroincidentaloma: reassess for hypopituitarism six months after the initial</text>
+<text x="761" y="3454.8" font-size="14.5" fill="#345963">work-up, then yearly</text>
+<circle cx="750" cy="3481.8" r="3.5" fill="#96790F"/>
+<text x="761" y="3487.8" font-size="14.5" fill="#345963">For a microincidentaloma with no change in clinical picture, history or MRI,</text>
+<text x="761" y="3508.8" font-size="14.5" fill="#345963">the guideline writes word for word that repeat testing for hypopituitarism is</text>
+<text x="761" y="3529.8" font-size="14.5" fill="#345963">not needed</text>
+<rect x="110" y="3592.8" width="1220" height="68.0" rx="12" fill="#ECE8DE"/>
+<text x="128" y="3610.8" font-size="15" fill="#345963">Natural history: up to 25% of untreated non-secreting adenomas enlarge during observation, and they mostly grow slowly, by 0.4 to 1.0 mm a year. That is a</text>
+<text x="128" y="3632.8" font-size="15" fill="#345963">maximum-diameter measurement; a volume measurement gives a different answer.</text>
+<g filter="url(#sh)"><rect x="84" y="3698.8" width="1272" height="216" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="3732.8" font-size="20" fill="#123641" font-weight="800">And one more direction to ask about: is the pituitary still doing enough</text>
+<text x="110" y="3814.8" font-size="46" fill="#B04A4A" font-weight="800">20.6%</text>
+<text x="110" y="3836.8" font-size="14.5" fill="#527078">In the Liege cohort, 20.6% already had</text>
+<text x="110" y="3857.8" font-size="14.5" fill="#527078">hypopituitarism at diagnosis (n=68)</text>
+<text x="450" y="3790.8" font-size="15" fill="#345963">For every patient with an incidentaloma, the guideline recommends assessing both directions at once - too much</text>
+<text x="450" y="3812.8" font-size="15" fill="#345963">hormone and too little. As for which tubes are actually drawn, the list I can quote word for word comes from the</text>
+<text x="450" y="3834.8" font-size="15" fill="#345963">emergency guidance of the Society for Endocrinology: cortisol, TSH, free T4, prolactin, IGF-1, LH, FSH, plus</text>
+<text x="450" y="3856.8" font-size="15" fill="#345963">testosterone in men and oestradiol in women - that is the emergency setting, and which tests to send in clinic is your</text>
+<text x="450" y="3878.8" font-size="15" fill="#345963">doctor's decision.</text>
+<g filter="url(#sh)"><rect x="84" y="3940.8" width="1272" height="332" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="3974.8" font-size="20" fill="#123641" font-weight="800">The Taiwanese reimbursement clauses say the same thing from the side</text>
+<rect x="110" y="4018.8" width="1220" height="71.0" rx="12" fill="#F3E8CD"/>
+<text x="128" y="4036.8" font-size="15.5" fill="#8F7418" font-weight="800">pasireotide</text>
+<text x="128" y="4062.8" font-size="14.5" fill="#345963">restricted to &quot;patients with Cushing's disease for whom pituitary surgery is not possible, or in whom such surgery has failed to treat the disease&quot;</text>
+<rect x="110" y="4107.8" width="1220" height="71.0" rx="12" fill="#F3E8CD"/>
+<text x="128" y="4125.8" font-size="15.5" fill="#8F7418" font-weight="800">octreotide and lanreotide</text>
+<text x="128" y="4151.8" font-size="14.5" fill="#345963">restricted to &quot;patients with acromegaly inadequately controlled by surgery, radiotherapy or dopamine agonist therapy&quot;</text>
+<text x="110" y="4194.8" font-size="15" fill="#345963">By placing the drug after surgery, the clause itself concedes that surgery is the step taken first. The tests are all listed in the fee schedule: prolactin 09120C at 150</text>
+<text x="110" y="4216.8" font-size="15" fill="#345963">points, IGF-1 24023B at 480 points, cortisol 09113C at 240 points, ACTH 09119B at 450 points, and the stimulation tests for each axis. Being listed does not mean your</text>
+<text x="110" y="4238.8" font-size="15" fill="#345963">own claim will be approved.</text>
+<rect x="84" y="4298.8" width="1272" height="277" rx="16" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="4332.8" font-size="19" fill="#8F7418" font-weight="800">So this is the order to ask in</text>
+<circle cx="124" cy="4381.8" r="13" fill="#FFFFFF" stroke="#C9A83E" stroke-width="2"/>
+<text x="124" y="4386.8" font-size="13.5" fill="#8F7418" font-weight="800" text-anchor="middle">1</text>
+<text x="148" y="4386.8" font-size="15.5" fill="#345963">Which hormones were tested, and where did each result fall?</text>
+<circle cx="124" cy="4432.8" r="13" fill="#FFFFFF" stroke="#C9A83E" stroke-width="2"/>
+<text x="124" y="4437.8" font-size="13.5" fill="#8F7418" font-weight="800" text-anchor="middle">2</text>
+<text x="148" y="4437.8" font-size="15.5" fill="#345963">Is this a microadenoma or a macroadenoma, and is it touching the optic chiasm?</text>
+<circle cx="124" cy="4483.8" r="13" fill="#FFFFFF" stroke="#C9A83E" stroke-width="2"/>
+<text x="124" y="4488.8" font-size="13.5" fill="#8F7418" font-weight="800" text-anchor="middle">3</text>
+<text x="148" y="4488.8" font-size="15.5" fill="#345963">If the prolactin is high, have medicines, thyroid function and stalk compression been excluded?</text>
+<circle cx="124" cy="4534.8" r="13" fill="#FFFFFF" stroke="#C9A83E" stroke-width="2"/>
+<text x="124" y="4539.8" font-size="13.5" fill="#8F7418" font-weight="800" text-anchor="middle">4</text>
+<text x="148" y="4539.8" font-size="15.5" fill="#345963">Is my pituitary function sufficient, and does anything need replacing?</text>
+<text x="84" y="4593.8" font-size="15" fill="#527078">Schematic, redrawn from the 2011 Endocrine Society pituitary incidentaloma guideline (Freda 2011), the 2025 Chinese prolactinoma consensus, Daly 2006, Fernandez 2010,</text>
+<text x="84" y="4616.3" font-size="15" fill="#527078">the Pituitary Society nomenclature workshop (Ho 2021), the 2016 Society for Endocrinology emergency guidance and the Taiwanese reimbursement clauses, rather than</text>
+<text x="84" y="4638.8" font-size="15" fill="#527078">reproduced from their figures; the cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

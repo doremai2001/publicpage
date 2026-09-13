@@ -1,0 +1,274 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="6142" viewBox="0 0 620 6142" role="img" aria-labelledby="t d">
+  <title id="t">Grading meningioma: a three-step scale, brain invasion, and the two molecular markers that assign WHO grade 3</title>
+  <desc id="d">Schematic: how a meningioma is graded, and how two molecular markers bypass the histology to set the grade. Across the top is a scale with only three steps - WHO grade 1, WHO grade 2 and WHO grade 3 as three coloured blocks side by side - with a fourth slot drawn as an empty hatched box marked with a cross and labelled &quot;There is no WHO grade 4 meningioma&quot;. The note beside it reads: in the 2021 grading table the meningioma row reads &quot;1, 2, 3&quot;, so a report that says grade 3 is at the top of this scale, not third out of four; the scale measures how likely the tumour is to come back and how closely the next few years have to be watched, not life expectancy. The middle of the figure holds three route cards headed &quot;Three routes through the 2021 criteria: whichever is reached first sets the grade&quot;. Route A is histopathological features, grade no longer being set by which subtype the tumour resembles: 4 to 19 mitoses per 10 high-power fields gives WHO grade 2; more than 20 gives WHO grade 3; three of the five &quot;soft&quot; atypical criteria gives WHO grade 2. The five are sheeting, hypercellularity, small-cell change, prominent nucleoli and spontaneous necrosis. A note adds that subtype names still appear on the report but no longer set the grade on their own; the source is the International Consortium on Meningiomas 2024 consensus review, labelled meningioma, WHO grades 1 to 3. Route B is brain invasion, one feature alone being enough for WHO grade 2, with a red status pill reading &quot;What it means is not settled&quot;: brain invasion on its own is now enough for WHO grade 2, but the same sentence goes on to say that in the absence of other high-grade features the relationship between brain invasion and prognosis remains unclear; and to see brain invasion the specimen has to contain brain tissue, sampling practice differs between countries, and many specimens have nothing to look at. The card closes with a question worth asking out loud: apart from brain invasion, does my report show any other WHO grade 2 feature. Route C is the two molecular markers that set WHO grade 3 without reference to the histology - a TERT promoter hotspot mutation, or a CDKN2A/B homozygous deletion - either one alone being enough; the EANO 2021 guideline says the same thing regardless of whether anaplastic features are present. The same card carries a branch drawn as a dashed line reading CDKN2A/B heterozygous deletion and tagged &quot;Not a grading criterion&quot;: the hazard ratio of 5.5, 95 per cent confidence interval 4.0 to 7.6, is not small, but it is not a grading criterion, and a report that says heterozygous does not mean WHO grade 3. Beneath it is the limit ICOM adds: these molecular changes are uncommon in meningioma to begin with and rarer still where the histology looks unremarkable. Below the route cards is a set of horizontal bars headed CDKN2A/B status and median progression-free survival, from an individual patient data meta-analysis of 4 studies and 2,521 patients with a homozygous deletion prevalence of 4.9 per cent: wild type 180.0 months; heterozygous deletion 26.1 months, drawn as a dashed outline and tagged &quot;Not a grading criterion&quot;; homozygous deletion 11.0 months, tagged &quot;to WHO grade 3&quot;. Next comes how the three grades divide up, as a single full-width stacked bar - WHO grade 1 80.1 per cent, WHO grade 2 18.3 per cent, WHO grade 3 1.5 per cent - marked as United States registry data graded under the 2021 classification, with a note that the proportions are quoted through the consensus, which does not state the registry report year or the number of tumours. Alongside sits a panel for the 2018 to 2022 CBTRUS report: meningioma is 42.6 per cent of all primary brain and other central nervous system tumours and 57.4 per cent of all non-malignant tumours, and percentages from different report years must never be added to or subtracted from one another; a further line gives ten-year relative survival for non-malignant meningioma as 83.4 per cent. The next panel is the trap in the registry field marked &quot;malignant&quot;, tagged &quot;A coding field, not a pathological grade&quot;: in the United States SEER series carrying that label only 63.6 per cent were WHO grade 3, with 20.4 per cent WHO grade 1 and 15 per cent WHO grade 2, because the label follows the ICD code rather than central pathology review; the first step on seeing the word is to establish whether it came from the pathology report or from a registry code, since the two can coexist and can disagree. The last card is methylation classification, tagged &quot;A research tool, not a decision tool&quot;, in two columns: on the left, &quot;The signal is real&quot; - a 2017 retrospective analysis of 497 meningiomas from 10 European centres sorted methylation profiles into six clinically relevant classes and predicted recurrence better than WHO grading, Brier score comparison p=0.0096, with validation in an independent cohort of 140; on the right, &quot;But it is not yet a decision tool&quot; - the consensus states that a unified molecular classification has still not been established, that sequencing or a methylation array is needed and not every centre has the technology, and that differences in reimbursement and interpretive experience and the unsettled choice of assay all stand in the way; the analysis run on prospective trial specimens, 38 WHO grade 2 and 3 meningiomas from EORTC 22042-26042, pointed the right way but did not reach statistical significance. So to the question whether methylation can decide whether radiotherapy is needed, today's answer is no. At the foot of the figure a gold-bordered panel reads: a grade is the reading of one specimen, not an identity card. The same meningioma can be given a different grade at a different time or a different operation; two pathology reports from different dates with different grades are not two contradictory answers but two points in time. Before any of the later questions can be discussed, four lines on the report are worth circling: the WHO grade, the mitotic count per 10 high-power fields, whether brain invasion is mentioned, and whether TERT or CDKN2A/B were tested. The figure decides nothing; it only shows which four questions to ask.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="6142" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">HOW A MENINGIOMA IS GRADED - AND WHAT THE</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">MOLECULES OVERRIDE</text>
+<text x="40" y="142" font-size="40" fill="#123641" font-weight="800" class="r">Grading a meningioma: a</text>
+<text x="40" y="192.4" font-size="40" fill="#123641" font-weight="800" class="r">three-step scale and two</text>
+<text x="40" y="242.8" font-size="40" fill="#123641" font-weight="800" class="r">molecular short cuts</text>
+<text x="40" y="303.2" font-size="19" fill="#527078">The 2021 WHO Classification of Tumours of the</text>
+<text x="40" y="331.7" font-size="19" fill="#527078">Central Nervous System (5th edition) changed two</text>
+<text x="40" y="360.2" font-size="19" fill="#527078">things: grade is no longer set automatically by</text>
+<text x="40" y="388.7" font-size="19" fill="#527078">histological subtype, and two molecular markers</text>
+<text x="40" y="417.2" font-size="19" fill="#527078">assign WHO grade 3 without reference to what the</text>
+<text x="40" y="445.7" font-size="19" fill="#527078">tissue looks like.</text>
+<text x="40" y="478.2" font-size="19" fill="#527078">This figure shows how the criteria run. It is not for</text>
+<text x="40" y="506.7" font-size="19" fill="#527078">placing yourself in a box: which box a tumour falls into</text>
+<text x="40" y="535.2" font-size="19" fill="#527078">is decided by the pathologist from the whole specimen.</text>
+<text x="40" y="563.7" font-size="19" fill="#527078">Every number carries its tumour type and WHO</text>
+<text x="40" y="592.2" font-size="19" fill="#527078">grade.</text>
+<g filter="url(#sh)">
+<rect x="40" y="640.7" width="540" height="359.2" rx="18" fill="#FFFFFF"/>
+<path d="M 40 658.7 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="66" y="684.7" font-size="18" fill="#123641" font-weight="800">This scale has three steps only</text>
+<rect x="66" y="721.9" width="114.5" height="66" rx="14" fill="#5C77C4"/>
+<text x="123.25" y="761.9" font-size="19" fill="#FFFFFF" font-weight="800" text-anchor="middle">WHO grade 1</text>
+<rect x="190.5" y="721.9" width="114.5" height="66" rx="14" fill="#96790F"/>
+<text x="247.75" y="761.9" font-size="19" fill="#FFFFFF" font-weight="800" text-anchor="middle">WHO grade 2</text>
+<rect x="315" y="721.9" width="114.5" height="66" rx="14" fill="#B04A4A"/>
+<text x="372.25" y="761.9" font-size="19" fill="#FFFFFF" font-weight="800" text-anchor="middle">WHO grade 3</text>
+<rect x="439.5" y="721.9" width="114.5" height="66" rx="14" fill="url(#hatch)"/>
+<rect x="439.5" y="721.9" width="114.5" height="66" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="451.5" y1="733.9" x2="542" y2="775.9" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="542" y1="733.9" x2="451.5" y2="775.9" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="66" y="820.9" font-size="21" fill="#B04A4A" font-weight="800">There is no WHO grade 4 meningioma</text>
+<text x="66" y="868.9" font-size="14" fill="#345963">In the 2021 grading table the meningioma row reads &quot;1, 2, 3&quot;. A</text>
+<text x="66" y="889.9" font-size="14" fill="#345963">report that says grade 3 is therefore at the top of this scale, not</text>
+<text x="66" y="910.9" font-size="14" fill="#345963">third out of four. The scale measures how likely the tumour is to</text>
+<text x="66" y="931.9" font-size="14" fill="#345963">come back and how closely the next few years have to be watched.</text>
+<text x="66" y="952.9" font-size="14" fill="#345963">It is not a scale of life expectancy.</text>
+<text x="40" y="1050.9" font-size="21" fill="#8F7418" font-weight="800">Three routes through the 2021 criteria:</text>
+<text x="40" y="1079.25" font-size="21" fill="#8F7418" font-weight="800">whichever is reached first sets the grade</text>
+<g filter="url(#sh)">
+<rect x="40" y="1121.6" width="540" height="557.5" rx="18" fill="#FFFFFF"/>
+<path d="M 40 1139.6 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="62" y="1160.6" font-size="17" fill="#123641" font-weight="800">Route A | Histopathological features - grade is no longer</text>
+<text x="62" y="1184.4" font-size="17" fill="#123641" font-weight="800">set by &quot;which subtype it looks like&quot;</text>
+<rect x="62" y="1214.2" width="179.45" height="26" rx="13" fill="#96790F"/>
+<text x="73" y="1232.06" font-size="13.5" fill="#FFFFFF" font-weight="800">to WHO grade 1, 2 or 3</text>
+<text x="62" y="1262.2" font-size="14" fill="#345963">In the absence of the two molecular changes in route C, grade is</text>
+<text x="62" y="1283.2" font-size="14" fill="#345963">assigned from histopathological features.</text>
+<text x="62" y="1328.2" font-size="14" fill="#123641" font-weight="700">4 to 19 mitoses per 10 high-power fields</text>
+<rect x="448.78" y="1315.2" width="109.22" height="24" rx="12" fill="#96790F"/>
+<text x="459.78" y="1332.2" font-size="13" fill="#FFFFFF" font-weight="800">WHO grade 2</text>
+<text x="62" y="1370.5" font-size="14" fill="#123641" font-weight="700">More than 20 mitoses per 10 high-power fields</text>
+<rect x="448.78" y="1357.5" width="109.22" height="24" rx="12" fill="#B04A4A"/>
+<text x="459.78" y="1374.5" font-size="13" fill="#FFFFFF" font-weight="800">WHO grade 3</text>
+<text x="62" y="1412.8" font-size="14" fill="#123641" font-weight="700">Three of the five &quot;soft&quot; atypical criteria</text>
+<rect x="448.78" y="1399.8" width="109.22" height="24" rx="12" fill="#96790F"/>
+<text x="459.78" y="1416.8" font-size="13" fill="#FFFFFF" font-weight="800">WHO grade 2</text>
+<text x="62" y="1455.6" font-size="12.5" fill="#527078">The five are: sheeting, hypercellularity, small-cell change, prominent</text>
+<text x="62" y="1473.6" font-size="12.5" fill="#527078">nucleoli and spontaneous necrosis.</text>
+<text x="62" y="1515.6" font-size="14" fill="#345963">Subtype names (meningothelial, fibrous, transitional and the rest)</text>
+<text x="62" y="1536.6" font-size="14" fill="#345963">still appear on the report, but they no longer set the grade on their</text>
+<text x="62" y="1557.6" font-size="14" fill="#345963">own. Anything online saying &quot;this subtype is more aggressive&quot; is</text>
+<text x="62" y="1578.6" font-size="14" fill="#345963">very likely quoting the pre-2021 rules.</text>
+<text x="62" y="1622.1" font-size="12.5" fill="#527078">Meningioma, WHO grades 1 to 3 | International Consortium on Meningiomas</text>
+<text x="62" y="1639.6" font-size="12.5" fill="#527078">(ICOM) 2024 consensus review [B-S2]</text>
+<g filter="url(#sh)">
+<rect x="40" y="1697.1" width="540" height="560.6" rx="18" fill="#FFFFFF"/>
+<path d="M 40 1715.1 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="62" y="1736.1" font-size="17" fill="#123641" font-weight="800">Route B | Brain invasion: this one feature alone is</text>
+<text x="62" y="1759.9" font-size="17" fill="#123641" font-weight="800">enough for WHO grade 2</text>
+<rect x="62" y="1789.7" width="129.76" height="26" rx="13" fill="#96790F"/>
+<text x="73" y="1807.56" font-size="13.5" fill="#FFFFFF" font-weight="800">to WHO grade 2</text>
+<rect x="201.76" y="1789.7" width="212.82" height="26" rx="13" fill="#B04A4A"/>
+<text x="212.76" y="1807.56" font-size="13.5" fill="#FFFFFF" font-weight="800">What it means is not settled</text>
+<text x="62" y="1837.7" font-size="14" fill="#123641" font-weight="700">Brain invasion on its own is now enough to make a meningioma WHO</text>
+<text x="62" y="1858.7" font-size="14" fill="#123641" font-weight="700">grade 2.</text>
+<rect x="62" y="1889.7" width="496" height="130" rx="14" fill="#F6E2E0"/>
+<text x="78" y="1919.7" font-size="14" fill="#345963">But the same sentence goes on: in the absence of other</text>
+<text x="78" y="1940.7" font-size="14" fill="#345963">high-grade features, the relationship between brain invasion</text>
+<text x="78" y="1961.7" font-size="14" fill="#345963">and prognosis remains unclear. The criterion changed; the</text>
+<text x="78" y="1982.7" font-size="14" fill="#345963">confidence behind it did not change with it.</text>
+<text x="62" y="2045.7" font-size="14" fill="#345963">And to see brain invasion at all, the specimen has to contain brain</text>
+<text x="62" y="2066.7" font-size="14" fill="#345963">tissue. Meningiomas grow outside the brain and sampling practice</text>
+<text x="62" y="2087.7" font-size="14" fill="#345963">differs between countries, so many specimens simply have nothing</text>
+<text x="62" y="2108.7" font-size="14" fill="#345963">to look at.</text>
+<text x="62" y="2153.7" font-size="14" fill="#8F7418" font-weight="700">A question worth asking out loud: apart from brain invasion, does</text>
+<text x="62" y="2174.7" font-size="14" fill="#8F7418" font-weight="700">my report show any other WHO grade 2 feature?</text>
+<text x="62" y="2218.2" font-size="12.5" fill="#527078">Meningioma, WHO grade 2 | ICOM 2024 consensus review [B-S2]</text>
+<g filter="url(#sh)">
+<rect x="40" y="2275.7" width="540" height="630.1" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2293.7 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="62" y="2314.7" font-size="17" fill="#123641" font-weight="800">Route C | Two molecular markers assign WHO grade 3</text>
+<text x="62" y="2338.5" font-size="17" fill="#123641" font-weight="800">without reference to the histology</text>
+<rect x="62" y="2368.3" width="129.76" height="26" rx="13" fill="#B04A4A"/>
+<text x="73" y="2386.16" font-size="13.5" fill="#FFFFFF" font-weight="800">to WHO grade 3</text>
+<rect x="62" y="2402.3" width="496" height="32" rx="8" fill="#F6E2E0"/>
+<circle cx="78" cy="2418.3" r="5" fill="#B04A4A"/>
+<text x="92" y="2423.3" font-size="14" fill="#B04A4A" font-weight="800">TERT promoter hotspot mutation</text>
+<rect x="62" y="2440.3" width="496" height="32" rx="8" fill="#F6E2E0"/>
+<circle cx="78" cy="2456.3" r="5" fill="#B04A4A"/>
+<text x="92" y="2461.3" font-size="14" fill="#B04A4A" font-weight="800">CDKN2A/B homozygous deletion</text>
+<text x="62" y="2494.3" font-size="14" fill="#123641" font-weight="700">Either one of these on its own makes the tumour WHO grade 3.</text>
+<text x="62" y="2535.3" font-size="14" fill="#345963">The European Association of Neuro-Oncology (EANO) 2021 guideline</text>
+<text x="62" y="2556.3" font-size="14" fill="#345963">says the same thing: regardless of whether anaplastic features are</text>
+<text x="62" y="2577.3" font-size="14" fill="#345963">present in the tissue, these two changes themselves set the grade at</text>
+<text x="62" y="2598.3" font-size="14" fill="#345963">3. [B-S3]</text>
+<rect x="62" y="2631.3" width="496" height="32" rx="8" fill="none" stroke="#7A6E58" stroke-width="2.2" stroke-dasharray="7 6"/>
+<text x="76" y="2652.3" font-size="14" fill="#7A6E58" font-weight="800">CDKN2A/B heterozygous deletion</text>
+<rect x="62" y="2669.3" width="182.2" height="26" rx="13" fill="#7A6E58"/>
+<text x="73" y="2687.16" font-size="13.5" fill="#FFFFFF" font-weight="800">Not a grading criterion</text>
+<text x="62" y="2715.8" font-size="12.5" fill="#345963">The hazard ratio for heterozygous deletion, 5.5 (95% confidence interval 4.0</text>
+<text x="62" y="2733.8" font-size="12.5" fill="#345963">to 7.6), is not small - but it is not a grading criterion. A report that says</text>
+<text x="62" y="2751.8" font-size="12.5" fill="#345963">heterozygous does not mean WHO grade 3. [B-S4] [B-S2]</text>
+<line x1="56" y1="2631.3" x2="56" y2="2773.8" stroke="#7A6E58" stroke-width="2" stroke-linecap="butt" stroke-dasharray="5 5"/>
+<text x="62" y="2792.3" font-size="12.5" fill="#527078">The limit ICOM adds: these molecular changes are uncommon in meningioma</text>
+<text x="62" y="2810.3" font-size="12.5" fill="#527078">to begin with, and rarer still in cases whose histology looks unremarkable.</text>
+<text x="62" y="2848.8" font-size="12.5" fill="#527078">Meningioma, WHO grade 3 | ICOM 2024 consensus review [B-S2]; EANO 2021</text>
+<text x="62" y="2866.3" font-size="12.5" fill="#527078">guideline [B-S3]</text>
+<g filter="url(#sh)">
+<rect x="40" y="2935.8" width="540" height="404.4" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2953.8 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="66" y="2979.8" font-size="18" fill="#123641" font-weight="800">CDKN2A/B status and median progression-free</text>
+<text x="66" y="3005" font-size="18" fill="#123641" font-weight="800">survival</text>
+<text x="66" y="3050.2" font-size="14" fill="#527078">Individual patient data meta-analysis of 4 studies, 2,521 patients</text>
+<text x="66" y="3071.2" font-size="14" fill="#527078">(meningioma; the paper does not break the figures down by WHO</text>
+<text x="66" y="3092.2" font-size="14" fill="#527078">grade); prevalence of homozygous deletion 4.9 per cent. The bars</text>
+<text x="66" y="3113.2" font-size="14" fill="#527078">are the reconstructed median progression-free survival. [B-S4]</text>
+<text x="66" y="3164.2" font-size="14" fill="#527078" font-weight="700">Wild type</text>
+<rect x="246" y="3146.2" width="180" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="246" y="3146.2" width="170.53" height="26" rx="7" fill="#00806B"/>
+<text x="438" y="3166.76" font-size="21" fill="#00806B" font-weight="800">180.0 months</text>
+<text x="66" y="3191.2" font-size="14" fill="#527078" font-weight="700">Heterozygous deletion</text>
+<text x="66" y="3208.2" font-size="12.5" fill="#527078">Not a grading criterion</text>
+<rect x="246" y="3182.2" width="180" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="246" y="3182.2" width="24.73" height="26" rx="7" fill="url(#hatch)"/>
+<rect x="246" y="3182.2" width="24.73" height="26" rx="7" fill="none" stroke="#7A6E58" stroke-width="2.4" stroke-dasharray="6 5"/>
+<text x="438" y="3202.76" font-size="21" fill="#7A6E58" font-weight="800">26.1 months</text>
+<text x="66" y="3232.2" font-size="14" fill="#527078" font-weight="700">Homozygous deletion</text>
+<text x="66" y="3249.2" font-size="12.5" fill="#527078">to WHO grade 3</text>
+<rect x="246" y="3223.2" width="180" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="246" y="3223.2" width="10.42" height="26" rx="7" fill="#B04A4A"/>
+<text x="438" y="3243.76" font-size="21" fill="#B04A4A" font-weight="800">11.0 months</text>
+<line x1="246" y1="3264.2" x2="426" y2="3264.2" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="246" y1="3264.2" x2="246" y2="3270.2" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="246" y="3286.2" font-size="12.5" fill="#527078" text-anchor="middle">0</text>
+<line x1="302.84" y1="3264.2" x2="302.84" y2="3270.2" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="302.84" y="3286.2" font-size="12.5" fill="#527078" text-anchor="middle">60</text>
+<line x1="359.68" y1="3264.2" x2="359.68" y2="3270.2" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="359.68" y="3286.2" font-size="12.5" fill="#527078" text-anchor="middle">120</text>
+<line x1="416.53" y1="3264.2" x2="416.53" y2="3270.2" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="416.53" y="3286.2" font-size="12.5" fill="#527078" text-anchor="middle">180</text>
+<text x="246" y="3308.2" font-size="12" fill="#527078">Median progression-free survival (months)</text>
+<g filter="url(#sh)">
+<rect x="40" y="3370.2" width="540" height="797.3" rx="18" fill="#FFFFFF"/>
+<path d="M 40 3388.2 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="62" y="3410.2" font-size="18" fill="#123641" font-weight="800">How the three grades divide up</text>
+<rect x="62" y="3447.4" width="394.3" height="38" rx="6" fill="#5C77C4"/>
+<text x="73" y="3471.72" font-size="14" fill="#FFFFFF" font-weight="800">WHO grade 1  80.1%</text>
+<rect x="459.3" y="3447.4" width="87.77" height="38" rx="6" fill="#96790F"/>
+<rect x="550.06" y="3447.4" width="4.44" height="38" rx="6" fill="#B04A4A"/>
+<rect x="62" y="3499.4" width="11" height="11" rx="2" fill="#5C77C4"/>
+<text x="82" y="3511.4" font-size="14" fill="#345963">WHO grade 1  80.1 per cent</text>
+<rect x="62" y="3538.4" width="11" height="11" rx="2" fill="#96790F"/>
+<text x="82" y="3550.4" font-size="14" fill="#345963">WHO grade 2  18.3 per cent</text>
+<rect x="62" y="3577.4" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="82" y="3589.4" font-size="14" fill="#345963">WHO grade 3  1.5 per cent</text>
+<text x="62" y="3632.9" font-size="12.5" fill="#527078">United States registry data graded under the 2021 classification. These</text>
+<text x="62" y="3650.4" font-size="12.5" fill="#527078">proportions are quoted from the ICOM consensus, which does not itself</text>
+<text x="62" y="3667.9" font-size="12.5" fill="#527078">state which registry report year they come from or how many tumours</text>
+<text x="62" y="3685.4" font-size="12.5" fill="#527078">they cover, so they can only be quoted as written. [B-S2]</text>
+<text x="62" y="3724.9" font-size="14" fill="#345963">The great majority of meningiomas are WHO grade 1, and that</text>
+<text x="62" y="3745.9" font-size="14" fill="#345963">direction is stable; the digits after the decimal point are not</text>
+<text x="62" y="3766.9" font-size="14" fill="#345963">anyone's personal probability.</text>
+<rect x="62" y="3799.9" width="496" height="345.6" rx="14" fill="#ECE8DE"/>
+<text x="78" y="3829.9" font-size="14" fill="#123641" font-weight="800">United States brain tumour registry (CBTRUS), 2018 to 2022</text>
+<text x="78" y="3850.2" font-size="14" fill="#123641" font-weight="800">report</text>
+<text x="78" y="3886.5" font-size="14" fill="#345963">Meningioma accounts for 42.6 per cent of all primary brain and</text>
+<text x="78" y="3907.5" font-size="14" fill="#345963">other central nervous system tumours.</text>
+<text x="78" y="3946.5" font-size="14" fill="#345963">Meningioma accounts for 57.4 per cent of all non-malignant</text>
+<text x="78" y="3967.5" font-size="14" fill="#345963">tumours.</text>
+<text x="78" y="4006.5" font-size="14" fill="#345963">Percentages from different report years must never be added</text>
+<text x="78" y="4027.5" font-size="14" fill="#345963">to or subtracted from one another.</text>
+<text x="78" y="4066.5" font-size="14" fill="#345963">Ten-year relative survival for non-malignant meningioma is</text>
+<text x="78" y="4087.5" font-size="14" fill="#345963">83.4 per cent - again a registry figure quoted through ICOM</text>
+<text x="78" y="4108.5" font-size="14" fill="#345963">without a stated report year. [B-S2]</text>
+<g filter="url(#sh)">
+<rect x="40" y="4189.5" width="540" height="555.2" rx="18" fill="#FFFFFF"/>
+<path d="M 40 4207.5 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="62" y="4229.5" font-size="18" fill="#123641" font-weight="800">The trap in the registry field marked &quot;malignant&quot;</text>
+<rect x="62" y="4260.7" width="290.68" height="26" rx="13" fill="#B04A4A"/>
+<text x="73" y="4278.56" font-size="13.5" fill="#FFFFFF" font-weight="800">A coding field, not a pathological grade</text>
+<text x="62" y="4310.7" font-size="14" fill="#123641" font-weight="700">&quot;Malignant meningioma&quot; in registry data is a coding field. It does not</text>
+<text x="62" y="4331.7" font-size="14" fill="#123641" font-weight="700">mean WHO grade 3.</text>
+<rect x="62" y="4364.7" width="312.46" height="38" rx="6" fill="#B04A4A"/>
+<text x="73" y="4389.02" font-size="14" fill="#FFFFFF" font-weight="800">WHO grade 3  63.6%</text>
+<rect x="377.46" y="4364.7" width="98.18" height="38" rx="6" fill="#5C77C4"/>
+<rect x="478.64" y="4364.7" width="71.4" height="38" rx="6" fill="#96790F"/>
+<rect x="62" y="4416.7" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="82" y="4428.7" font-size="14" fill="#345963">WHO grade 3  63.6 per cent</text>
+<rect x="62" y="4455.7" width="11" height="11" rx="2" fill="#5C77C4"/>
+<text x="82" y="4467.7" font-size="14" fill="#345963">WHO grade 1  20.4 per cent</text>
+<rect x="62" y="4494.7" width="11" height="11" rx="2" fill="#96790F"/>
+<text x="82" y="4506.7" font-size="14" fill="#345963">WHO grade 2  15 per cent</text>
+<text x="62" y="4551.7" font-size="14" fill="#345963">In the United States SEER series carrying that label, only 63.6 per</text>
+<text x="62" y="4572.7" font-size="14" fill="#345963">cent were WHO grade 3; 20.4 per cent were WHO grade 1 and 15</text>
+<text x="62" y="4593.7" font-size="14" fill="#345963">per cent WHO grade 2, because the label follows the ICD code rather</text>
+<text x="62" y="4614.7" font-size="14" fill="#345963">than central pathology review. [B-S2]</text>
+<text x="62" y="4659.7" font-size="14" fill="#8F7418" font-weight="700">Seeing that word, the first step is to establish whether it came from</text>
+<text x="62" y="4680.7" font-size="14" fill="#8F7418" font-weight="700">the pathology report or from a registry code. The two can sit in the</text>
+<text x="62" y="4701.7" font-size="14" fill="#8F7418" font-weight="700">same set of notes, and they can disagree.</text>
+<g filter="url(#sh)">
+<rect x="40" y="4774.7" width="540" height="708.8" rx="18" fill="#FFFFFF"/>
+<path d="M 40 4792.7 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#C9A83E"/>
+</g>
+<text x="66" y="4818.7" font-size="18" fill="#123641" font-weight="800">Methylation classification: better in research, not</text>
+<text x="66" y="4843.9" font-size="18" fill="#123641" font-weight="800">yet something to decide treatment with</text>
+<rect x="66" y="4875.1" width="265.54" height="26" rx="13" fill="#8F7418"/>
+<text x="77" y="4892.96" font-size="13.5" fill="#FFFFFF" font-weight="800">A research tool, not a decision tool</text>
+<text x="66" y="4928.6" font-size="15.5" fill="#00806B" font-weight="800">The signal is real</text>
+<text x="66" y="4968.3" font-size="14" fill="#345963">A 2017 retrospective analysis of 497 meningiomas from 10</text>
+<text x="66" y="4989.3" font-size="14" fill="#345963">European centres sorted methylation profiles into six clinically</text>
+<text x="66" y="5010.3" font-size="14" fill="#345963">relevant classes and predicted recurrence better than WHO</text>
+<text x="66" y="5031.3" font-size="14" fill="#345963">grading (Brier score comparison p=0.0096), with validation in an</text>
+<text x="66" y="5052.3" font-size="14" fill="#345963">independent cohort of 140. [B-S5]</text>
+<text x="66" y="5106.8" font-size="15.5" fill="#B04A4A" font-weight="800">But it is not yet a decision tool</text>
+<text x="66" y="5146.5" font-size="14" fill="#345963">The ICOM 2024 consensus states that a unified molecular</text>
+<text x="66" y="5167.5" font-size="14" fill="#345963">classification has still not been established. The obstacles are</text>
+<text x="66" y="5188.5" font-size="14" fill="#345963">concrete: sequencing or a methylation array is needed and not</text>
+<text x="66" y="5209.5" font-size="14" fill="#345963">every centre has the technology, on top of differences in</text>
+<text x="66" y="5230.5" font-size="14" fill="#345963">reimbursement and in interpretive experience, and no settled</text>
+<text x="66" y="5251.5" font-size="14" fill="#345963">answer on which assay to choose. [B-S2]</text>
+<text x="66" y="5292.5" font-size="14" fill="#345963">The analysis performed on prospective trial specimens (38 WHO</text>
+<text x="66" y="5313.5" font-size="14" fill="#345963">grade 2 and 3 meningiomas from EORTC 22042-26042) pointed the</text>
+<text x="66" y="5334.5" font-size="14" fill="#345963">right way but did not reach statistical significance. [B-S6]</text>
+<rect x="66" y="5369.5" width="488" height="88" rx="14" fill="#F3E8CD"/>
+<text x="82" y="5399.5" font-size="14" fill="#345963">So to the question &quot;can methylation decide whether I need</text>
+<text x="82" y="5420.5" font-size="14" fill="#345963">radiotherapy&quot;, today's answer is no.</text>
+<rect x="40" y="5513.5" width="540" height="410.7" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="5557.5" font-size="18" fill="#8F7418" font-weight="800">A grade is the reading of one specimen, not an</text>
+<text x="66" y="5582.7" font-size="18" fill="#8F7418" font-weight="800">identity card</text>
+<text x="66" y="5613.9" font-size="15.5" fill="#345963">The same meningioma can be given a different grade at a</text>
+<text x="66" y="5637.92" font-size="15.5" fill="#345963">different time or a different operation; ICOM discusses</text>
+<text x="66" y="5661.95" font-size="15.5" fill="#345963">exactly this in secondary atypical meningioma (WHO grade 1</text>
+<text x="66" y="5685.97" font-size="15.5" fill="#345963">the first time, WHO grade 2 at recurrence), which recurs</text>
+<text x="66" y="5710" font-size="15.5" fill="#345963">more often. Two pathology reports from different dates with</text>
+<text x="66" y="5734.02" font-size="15.5" fill="#345963">different grades are not two contradictory answers; they</text>
+<text x="66" y="5758.05" font-size="15.5" fill="#345963">are two points in time. Before any of the later questions can</text>
+<text x="66" y="5782.07" font-size="15.5" fill="#345963">be discussed, four lines on the report are worth circling:</text>
+<text x="66" y="5806.1" font-size="15.5" fill="#345963">the WHO grade, the mitotic count per 10 high-power fields,</text>
+<text x="66" y="5830.12" font-size="15.5" fill="#345963">whether brain invasion is mentioned, and whether TERT or</text>
+<text x="66" y="5854.15" font-size="15.5" fill="#345963">CDKN2A/B were tested. This figure decides nothing; it only</text>
+<text x="66" y="5878.17" font-size="15.5" fill="#345963">shows which four questions to ask.</text>
+<text x="40" y="5948.2" font-size="15" fill="#527078">Schematic, redrawn from the 2021 WHO Classification of Tumours of</text>
+<text x="40" y="5970.7" font-size="15" fill="#527078">the Central Nervous System (Louis 2021), the International</text>
+<text x="40" y="5993.2" font-size="15" fill="#527078">Consortium on Meningiomas consensus review (Wang 2024), the</text>
+<text x="40" y="6015.7" font-size="15" fill="#527078">EANO 2021 guideline (Goldbrunner 2021), the CDKN2A/B individual</text>
+<text x="40" y="6038.2" font-size="15" fill="#527078">patient data meta-analysis (Wach 2023), the methylation classification</text>
+<text x="40" y="6060.7" font-size="15" fill="#527078">analysis (Sahm 2017) and the EORTC 22042-26042 molecular analysis</text>
+<text x="40" y="6083.2" font-size="15" fill="#527078">(Maas 2023); the cohorts, designs and endpoints of the underlying</text>
+<text x="40" y="6105.7" font-size="15" fill="#527078">studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>
