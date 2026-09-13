@@ -1,0 +1,128 @@
+{
+ "bt-incidental": {
+  "title": "They found something on the scan",
+  "dek": "Three-quarters of the people referred on did not go to an operation that day — but \"no operation\" and \"case closed\" are two different things, and telling them apart takes denominators, measurement methods, and knowing what the thing is actually touching.",
+  "lead": "The two things this article has to block run in opposite directions, and the tool that blocks both is the same one: denominators and rulers. \"How common is it\" has three denominators, \"will it grow\" has two rulers, and swapping the ruler turns the answer round.",
+  "note": "My advice is concrete. Photograph that line on the report, and at the next appointment ask three things out loud: which structure is it touching or pressing on, has the first round of tests been done in full, and which month and which sequence is the next scan. Three answers in the notes app on your phone are worth more than a month of searching online."
+ },
+ "bt-three-kinds": {
+  "title": "Three tumours, three different logics",
+  "dek": "Meningioma turns on grade and location, vestibular schwannoma on hearing, pituitary adenoma on whether it is secreting. The three logics are not shared — right down to whether Taiwan can count how many people have one.",
+  "lead": "Some sentences are true of only one of these three tumours and get repeated as though they covered all three. This article is the taking apart of those sentences. You will not finish it knowing how you should be treated, but you will know which question is yours, and which numbers were never about you.",
+  "note": "The only thing I want you to take away from this one is that they are not shared. A meningioma's follow-up schedule is not a vestibular schwannoma's, and a vestibular schwannoma's first round of tests is not a pituitary tumour's. Next time you meet a sentence online that starts \"brain tumours all…\", check which of the three it is talking about — and while you are not sure, that sentence has no force over you."
+ },
+ "bt-where": {
+  "title": "Where it sits matters more than how big it is",
+  "dek": "That location word on the report decides who picks you up first, which extra test belongs in the first round, and which direction the follow-up scans should be watching.",
+  "lead": "Size has not been thrown away; it is still sitting in the prognostic model as a parameter. This article does one thing only: it reverses the order in which you ask.",
+  "note": "I read a report in the opposite order from most people: the location word first, the centimetres second. Location decides which specialty picks you up over the coming year and what extra gets measured; the centimetres decide how often that measurement is repeated. The correspondences themselves are statistics at the level of populations, not a table to look yourself up in."
+ },
+ "bt-watch": {
+  "title": "Watching is a form of treatment",
+  "dek": "Watching names the imaging, the interval, what gets measured alongside and the conditions that stop it — and that table is different for each of the three tumours; in the vestibular schwannoma box it is also paid for in hearing.",
+  "lead": "Ask how your \"growth\" was measured. Volume, longest diameter, events per 100 person-years: three tumours, three different rulers. The numbers cannot be set against each other, and someone else's result cannot be laid over yours.",
+  "note": "Before you leave the consulting room, write down four things: which month the next scan is, what gets measured alongside it, what should bring you back early, and this visit's measurement together with the method used. Whether the watching continues is the doctor's decision after stratifying you with a tool — but writing the timetable down clearly is something you can do yourself."
+ },
+ "bt-mg-grade": {
+  "title": "How a meningioma gets called grade 1, 2 or 3",
+  "dek": "That number on the report has only three boxes, and there is no grade 4. What decides which box it lands in is the mitotic count, brain invasion and two molecular markers — not how many centimetres across it is.",
+  "lead": "Written for anyone holding a pathology report that nobody has gone through line by line. The grade is not a ranking of how bad things are; it is a set of criteria that can be taken apart — and the two newest of them do not look at what the tumour looks like at all.",
+  "note": "I have met too many people who read the \"2\" on their report as \"nearly cancer now\". It is not. Grade 2 changes how closely the next few years get watched and whether a conversation with radiation oncology is needed; it does not change whether you should be able to sleep tonight."
+ },
+ "bt-mg-surgery": {
+  "title": "How much came out, and whether that still counts",
+  "dek": "How the five Simpson boxes were defined at the time, whether they are still accurate today, and why which box you land in is decided by where the tumour sat, not by how hard anyone tried.",
+  "lead": "Completeness of removal has two rulers: the Simpson grade the surgeon gives at the operating table, and the scan taken afterwards. Whether the two line up has been argued over for more than a decade; what is less in doubt is that, of the ingredients deciding which box you land in, where the tumour grew counts for far more than effort.",
+  "note": "I would not advise asking your surgeon to \"achieve a Simpson I\". What is actually worth pinning down is the date of that baseline magnetic resonance scan after the operation — every follow-up for years afterwards is measured against it, and without it every later comparison is missing a piece."
+ },
+ "bt-mg-rt": {
+  "title": "One session, or fractionated",
+  "dek": "The line between single-session and fractionated is drawn by how much dose the optic pathway can take, not by which machine; the long-term figures on both sides, when the complications arrive, and what Taiwan's NHI clause actually says.",
+  "lead": "This part of the treatment is the part I deliver myself, so every number here comes with its follow-up length, its method of assessment and its population, so that you can take it away and get a second opinion on it. The dividing line in this question is a physical one: how much the optic nerve and the chiasm can absorb.",
+  "note": "If someone will only talk to you about machines, change the question: how far away is the optic nerve, and what point dose will it see? Write those two lines on a piece of paper and take it in with you. And in the three to nine months afterwards, a worsening headache or a new neurological symptom means coming back — not waiting for the next scheduled scan."
+ },
+ "bt-mg-adjuvant": {
+  "title": "After the operation, do you add radiotherapy",
+  "dek": "Of the two randomised trials, one has finished recruiting without publishing and the other is still recruiting; the phase II data and the observational data are not answering the same thing. How to hold this conversation.",
+  "lead": "Two randomised trials are asking the same question from different states: one closed recruitment in 2021 and its results are still unpublished, the other is still recruiting and will not have a primary result until 2027. What fills the gap in between is phase II and observational data — and they do not entirely agree with one another.",
+  "note": "On this question I am the side that delivers the radiotherapy, which is exactly why I would rather you heard the surgical view first. At your next appointment, find the Simpson grade on the operation note and ask one sentence: if we hold off for now, what time point and what change on imaging would alter the decision?"
+ },
+ "bt-mg-hormone": {
+  "title": "Progestogen drugs and meningioma",
+  "dek": "The signal sits with a few specific progestogens, not with contraceptives generally; and whether to stop is the decision of the clinic that prescribed it, not of this article.",
+  "lead": "One person, one year, in the box that carries the most risk: about 2.4 in 10,000. Hold that against the \"six times\" and \"twenty times\" multiples before either of them frightens you. Of the high-risk molecules only one can still be obtained in Taiwan, and the Taiwan FDA put \"meningioma\" into its contraindications section by order back in 2022.",
+  "note": "Please do not stop your tablets because you read this. The decision belongs to the doctor who prescribed them; your job is to take the pack to that clinic and let them know what you have read and which molecule you are on."
+ },
+ "bt-an-hearing": {
+  "title": "Hearing is what this decision is really about",
+  "dek": "When one-sided hearing loss should be scanned, what pure tones and word recognition are each answering, and what the two scoring systems put in their boxes — change the ruler and the answer changes.",
+  "lead": "The question I am asked most in clinic is whether it will grow, but what decides the route from here are the two numbers on the audiogram. They are not measuring the same thing at all: one is how loud a sound has to be before you notice it, the other is whether you understand it once you have. This article lays the rulers out, and explains on the way why \"the tumour is smaller\" does not get you to \"the hearing is better\".",
+  "note": "In more than 95% of people whose hearing has gone down on one side, the scan does not find this tumour — what is being counted there is vestibular schwannoma, and counting the other tumours of the internal auditory canal and cerebellopontine angle as well puts the proportion somewhat higher. That sentence is there to make you less frightened, not to make you skip a test. What is worth watching has never been how many millimetres the tumour measures; it is how far the two numbers on that report of yours have moved in the last six months. As for the grades and the referral lines, they are written for the person ordering the test, not left there for you to file yourself under."
+ },
+ "bt-an-choice": {
+  "title": "Watching, radiosurgery, surgery",
+  "dek": "The three paths are not backed by evidence of the same hardness: only two of them have ever been compared at random, and what was compared was tumour volume, not hearing. Every preservation rate here carries four labels.",
+  "lead": "There is one randomised trial on this question, and what it asked was whether the tumour shrank, not whether you are living well. Which is why this article is full of brackets: behind every percentage I have filled in the scoring system, the number of years, the number of people and the treatment — including the few that go against my own side.",
+  "note": "Only two of these three options have actually been compared at random, and what was compared was volume, so I am not going to rank them for you. There is a cheap way to see whether a percentage can be trusted: ask the person quoting it which scoring system, how many years, how many people and which treatment sit behind the number, and discount it if even one of the four is missing. Take the same set of questions to neurosurgery and to neuro-otology, hear both out, and then come back and decide."
+ },
+ "bt-an-after": {
+  "title": "After treatment: balance, hearing, the face",
+  "dek": "Some of what surfaces after treatment can wait for the next appointment and some has to be said the same day — and most people mistake the most urgent of them for a question about appearance.",
+  "lead": "Of the four things I am asked about most after treatment, only one cannot wait: an eye that will not close — what it damages is the cornea, not your appearance. For the other three (balance, devices and subsidies for one-sided hearing, and the scan looking bigger), most of the data I can find reaches only \"very low\" certainty, so I have written the hardness of each into the sentence itself.",
+  "note": "Getting bigger on a scan is the slow one; an eye that will not close is the urgent one, and the two are handled separately in clinic. The slow one can only be read backwards once the follow-up is over, so what you can do is go back at the time already booked and get the person doing the measuring to tell you how it was measured this time. The urgent one does not wait for the next slot: from the moment the eye stops closing, the cornea is exposed every day."
+ },
+ "bt-pit-function": {
+  "title": "First, find out whether it is secreting",
+  "dek": "Three studies give three different sets of proportions for the types, and the guideline cut a hole for prolactinoma in its own \"if it secretes, operate\" rule; triage comes before any conversation about size.",
+  "lead": "The thing I most want to say first, having looked all of this up: a high prolactin is not the same thing as a prolactinoma. Drugs, thyroid function, a stalk being pressed on, and an assay artefact called the hook effect all distort the number. Get this box wrong and the whole road afterwards runs off line.",
+  "note": "Which hormone it secretes decides which road first-line treatment takes; the size only decides who it is pressing on. Those two travel separately, and the order cannot be reversed either — anyone whose prolactin is raised has to have drugs, thyroid function and the stalk effect cleared off the list before that tumour is even in the conversation. Skip that step and everything discussed afterwards rests on a false premise."
+ },
+ "bt-pit-prolactinoma": {
+  "title": "Prolactinoma: the drug comes first, not the knife",
+  "dek": "Prolactinoma is the only one where the drug leads; the first line for somatotroph adenoma and for Cushing's disease is still surgery. And \"the drug first\" does not mean never operated on — how well it works, what it costs, pregnancy, and the recurrence rates after stopping have to be read together.",
+  "lead": "The passage written most carefully in this article is the one about stopping. The guideline's own words are \"can be considered\", evidence level very low; and once it is stopped, in the meta-analysis only about two in ten keep a normal prolactin. Whether to stop and when is something the doctor is watching, not you.",
+  "note": "If you are on a dopamine agonist, three things to hold on to: the drug is not something you decide to stop; if your family think your shopping or your impulses have changed lately, that is something to raise at the clinic; and clear watery fluid from one nostril while you are on it means going back the same day. One more thing to settle early: whether the margins of your tumour count as well-defined on the imaging — that decides whether you are in the small group for whom surgery can also be first-line."
+ },
+ "bt-pit-surgery-rt": {
+  "title": "Where endonasal surgery and radiotherapy fit",
+  "dek": "The randomised evidence propping up the endoscope comes to fewer than seventy people across two trials; and on the radiation side, what steadies on the scan within months often takes several more years to show up in the biochemistry.",
+  "lead": "The radiation half of this is the part I deliver myself, which is why every comparison here comes with its primary source, including the ones that do not flatter my side of it — finishing the radiotherapy is not the end, because hypopituitarism accumulates year on year and reaches 45% by fifteen years.",
+  "note": "To choose between the two roads, get three numbers pinned down first: the expected gross total resection rate, which definition of remission is being used, and who is responsible for following your pituitary function five and ten years from now. Surgery and radiation oncology will not give you the same answers — and the difference is itself information, not somebody trying it on. Taiwan's clause is explicit too: every case of radiosurgery requires a prior case-by-case application."
+ },
+ "bt-pit-apoplexy": {
+  "title": "Pituitary apoplexy, and not enough hormone",
+  "dek": "One emergency erupts within hours, the other drags on quietly for months before it brings you down; both have a concrete, recognisable shape, and once you recognise either of them the move is the same one.",
+  "lead": "Recognising it and knowing what to do once you have recognised it are two separate things. This article makes the shape of both emergencies concrete, and says plainly where to go at the moment it happens. As for steroid numbers, those have to be written for you personally by your endocrinologist, and they do not appear here.",
+  "note": "The thing I most want you to keep from this article is not the symptom list, it is the piece of paper. The one in your wallet with the diagnosis, the medicines and the phone number on it is there to speak for you on a day when you cannot speak — and that day mostly does not give notice."
+ },
+ "bt-seizure-steroid": {
+  "title": "Seizures, oedema and steroids",
+  "dek": "Whether to take a drug before you have ever had a seizure, whether the oedema settles once the operation is over, why a steroid must not be cut down on your own, and what the Taiwanese licensing text says word for word.",
+  "lead": "Once the words \"peritumoural oedema\" turn up on a report, three things tend to follow in a row: somebody wants an anti-seizure tablet in advance, somebody feels better on a steroid and quietly takes less of it, somebody wants to know whether they can still drive. Each has its own answer, and two of the three have already been fixed in writing — one by a guideline, one by the law.",
+  "note": "What worries me is two moves in opposite directions: cutting your own steroid down as you go along, or asking for an anti-seizure tablet because the report has the word \"oedema\" in it. I have met both in clinic. The first may buy you a different emergency; against the second, the current guideline writes \"should not\" at its highest grade of evidence — so neither move is one you can make on your own."
+ },
+ "bt-followup": {
+  "title": "How follow-up is scheduled, and when it stops",
+  "dek": "Three schedules from three societies in three different years, two of which run all the way to the end without a stopping point; and the price of one more scan, which the guideline writes into itself.",
+  "lead": "A follow-up table is not an itinerary the hospital drew up for you. It is a recommendation written out by one guideline or another, and each of them covers only one of these diseases. Knowing which society wrote your table, in which year, and which tumour it covers is what lets you ask \"why am I having this particular scan\".",
+  "note": "Two kinds of patient worry me most: the one who books an extra scan for himself every few months, and the one who thinks five years means it is over. Neither is follow-up. Follow-up is knowing which document your own box rests on, and under what circumstances you do not have to wait for the date on it."
+ },
+ "bt-recurrence": {
+  "title": "If it comes back, what can be done",
+  "dek": "When each of the three tumours recurs, what a second operation costs and what it buys, the discipline re-irradiation is held to, and how to read the scorecard of systemic drugs in meningioma.",
+  "lead": "Every number in this article comes with its denominator and its study design attached. How many people have a complication at a second operation and how many live a long time afterwards are both in here; the drug section is a whole row of single-arm trials, plus the two that were put into a randomised comparison and came out badly.",
+  "note": "What decides how many roads you have is a handful of documents, not how many drug names you can find: the last two scans, the pathology report from the previous operation, and, if you have had radiotherapy, that treatment summary as well. If those are not in the room, the discussion can only be held from memory."
+ },
+ "bt-radiation-induced": {
+  "title": "Can radiotherapy grow a second tumour",
+  "dek": "What to do if your head was irradiated in childhood, and how small the absolute second-tumour risk is for an adult having radiosurgery — the numbers in the two directions cannot be used to cancel each other out.",
+  "lead": "One and the same radiation carries risks two orders of magnitude apart in two different groups of people. Three labels keep those groups apart — how many Gy, at what age, and across how long a follow-up. Take one label away and the figure ends up attached to the wrong reader.",
+  "note": "Both kinds of reader will land on this article, and they should not take the same thing away from it. For the one whose head was irradiated as a child, the decades-old record dug out of a drawer is worth more than any statistic. For the one deciding tomorrow, the boxes worth spending time on are not this one — they are hearing and neurological function."
+ },
+ "bt-nf2": {
+  "title": "More than one, NF2, and what is inherited",
+  "dek": "The term NF2 has been retired, two or more meningiomas is a major diagnostic criterion, more than one meningioma does not mean NF2, and how genetic counselling actually starts.",
+  "lead": "The word \"multiple\" does not say on its own why. It may be one gene, it may be several other genes, it may be a course of radiation given decades ago — telling them apart runs in a particular order, and the first step is not a blood test.",
+  "note": "Do not go and book a genetic test yourself. With several meningiomas, or a tumour in each ear, it is for the doctor to judge whether you should be referred for genetic counselling; a relative's risk figure has to be worked out by a counsellor from your own test results. What comes first is that family history table, and it is quicker than any blood test."
+ }
+}
