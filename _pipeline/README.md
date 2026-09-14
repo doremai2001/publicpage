@@ -9,17 +9,19 @@
 ## 佈局
 
 - 本目錄：`topicbuild.py`（共用 build/build_index，**不要改**）＋各專題模組
-  （`colon` `breast` `nextgen` `cervix` `liver` `brt` `pel` `esoph` `gbm` `endo`，各 ×zh/en）
+  （`colon` `breast` `nextgen` `cervix` `liver` `brt` `pel` `esoph` `gbm` `endo` `bt` `bl` `th`，各 ×zh/en）
   ＋ `build_*.py` 驅動、`verify_*.py` 驗證、`stage_*_figs.py` 圖片插入
 - 各專題底稿目錄：SPEC（含 §九 研究修正與紅線）、SPEC-EN、查證 brief（每條來源標 PASS/FAIL
   與查證路徑）、兩輪對抗式查核與 FIXES、中英 metadata、圖片 manifest、figwish。
   目前有：`colon/` `breast/` `nextgen/` `cervix/` `liver/` `brt/` `pel/` `esoph/` `gbm/` `endo/`
-  `nextgen-ht/` `nextgen-bn/`。**hn 與 rc 兩專題早於本管線，無底稿。**
+  `nextgen-ht/` `nextgen-bn/` `bt/` `bl/` `th/`。**hn 與 rc 兩專題早於本管線，無底稿。**
 - 各專題的前綴與 hub（建新題前先確認不撞）：
   hn／rc／cc（colon）／bc（breast）／nt（nextgen，含 `nt-ht-` 熱治療與 `nt-bn-` BNCT 兩個分組，
   子目錄頁 `nt-ht.html`／`nt-bn.html`）／cx（cervix）／lv（liver，**hub 是 `liver.html`，
   前綴與 hub 不同名，用 `topicbuild._hub_name` 覆寫**）／brt／pel／ec（esoph，**hub 是 `ec.html`**）／
-  gb（gbm，**hub 是 `gbm.html`，同樣要覆寫**）／em（endo，hub `em.html`，前綴與 hub 同名、不必覆寫）。
+  gb（gbm，**hub 是 `gbm.html`，同樣要覆寫**）／em（endo，hub `em.html`，前綴與 hub 同名、不必覆寫）／
+  bt（良性腦瘤，hub `bt.html`，子前綴 `bt-mg-`／`bt-an-`／`bt-pit-`）／bl（膀胱癌，hub `bl.html`）／
+  th（甲狀腺癌，hub `th.html`）。
   **`en-` 這個前綴永遠不可用**——會與全站的 `-en.html` 英文版後綴相撞。
 - 正文 fragment 與 SVG 不在此處——它們以成品形式活在 repo 根目錄，可自頁面還原。
 
@@ -55,3 +57,12 @@
 區塊是 append）。專題上線後若只要補一張圖或改一句話，**不要重跑 build**——直接對 repo 根目錄
 的成品頁做定點修改，圖片區塊照既有頁的 `<figure class="article-figure">`＋`<picture>` 版式手動插入
 （`em-chemo-rt` 的第 12 張圖就是這樣補的）。
+
+## 圖的 `placement` 是清單，不是單一 dict
+
+`figs/manifest.json` 每張圖的 `placement` 是**一個清單**，每篇一筆，而且它的 article 集合必須
+等於 `used_by`。膀胱癌那一輪吃過虧：`fig-bl-followup` 的 `used_by` 寫了兩篇、圖本身也真的是兩欄，
+但 `placement` 只點名一篇，而 stage 腳本收尾的斷言數的是 placement 不是 `used_by`——結果
+`bl-tmt-after` 整篇沒有圖，卻一路過關。現在 `stage_*_figs.py` 的斷言比對的是集合，`verify_*.py`
+的檢查 3 另外從**建好的頁面**回頭確認每一篇 `used_by` 宣告的文章真的都拿到了那張圖。
+同一篇若有多張圖，插入要**由後往前**，否則前一次插入會位移後一次的 `<h4>` 位置。
