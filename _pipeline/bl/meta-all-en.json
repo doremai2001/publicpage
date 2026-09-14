@@ -1,0 +1,110 @@
+{
+ "bl-hematuria": {
+  "title": "Blood in the urine that does not hurt",
+  "dek": "One guideline holds two sentences at once: women wait on average twelve days longer from haematuria to diagnosis, and women under sixty should not be put in the high-risk box on age alone.",
+  "lead": "There is no risk table here for you to tick your way through. What there is instead: the malignancy rates three validation studies measured for each risk stratum, what the guideline says the next step is in each one, and the sentence you can get said out loud in the room — which box am I in?",
+  "note": "If this was microscopic haematuria and you were put in the low-risk box, what the guideline says is a repeat urine test within six months, not go home and forget it. Put the repeat date in a calendar while you are still in the room; that is more reliable than keeping it in your head. Blood again, passing urine that stays uncomfortable, or an infection that clears and comes back — any one of those three and you do not wait for that date."
+ },
+ "bl-turbt": {
+  "title": "The first resection decides everything after it",
+  "dek": "Whether that layer of detrusor muscle is in the specimen decides more than how the report reads: it decides whether you go back to theatre within two to six weeks.",
+  "lead": "\"You need another resection\" is not a sign that something went wrong the first time; it is a step the guideline lists in the standard pathway. The question worth pressing is not who held the resectoscope but whether the boxes on the checklist were filled in — that has been measured, and what came out of it had nothing to do with seniority.",
+  "note": "Ask for a paper copy of the pathology report before you are discharged, and go down it looking for seven items: location, grade, stage, lymphovascular invasion, variant histology, CIS, detrusor muscle. If the detrusor line says \"none\" and you are not Ta low-grade, it is worth asking there and then: do I need a second resection, and in which week is it going? That question gets you further than \"was it all scraped out?\""
+ },
+ "bl-report": {
+  "title": "Ta, T1 and CIS on the report",
+  "dek": "G3 on the report and \"high grade\" are not the same thing, and for T1 against Ta, agreement between pathologists runs at only 50 to 60%.",
+  "lead": "This is the foundation article of the whole topic, and the only one that treats uncertainty as content rather than as a footnote. A bladder cancer report carries two different languages for grade, one line that decides which treatment route you take, and several judgements on which experts do not agree with each other.",
+  "note": "Copy five items off the report onto one sheet of paper and take it to the clinic — T, grade, CIS, variant histology, lymphovascular invasion. Every discussion afterwards comes back to those five boxes. If the report gives only one grading system, ask which system it is using; and if the stage is stuck at T1, the guideline has written down that difficult cases may be looked at again by a genitourinary pathologist."
+ },
+ "bl-staging": {
+  "title": "How staging is done, and what the scan can see",
+  "dek": "Of the 3,809 bladder cancers in Taiwan in 112年, only 547 have a pathological stage — for everybody else, the number in their hand was inferred.",
+  "lead": "What imaging cannot answer is worth knowing before what it can: carcinoma in situ, microscopic extension outside the bladder, and metastasis inside normal-sized lymph nodes will not show up however many scans are done. A staging report is useful because it decides which table you sit down at, not because it hands you an answer.",
+  "note": "When the imaging report comes, confirm first whether the stage is clinical or pathological, then whether the upper tract was looked at this time and by what method. When it says \"no enlarged lymph nodes seen\", asking \"how are we going to handle that uncertainty?\" gets you further than asking about the stage number. And for any scan that needs contrast, say what your kidney function is before it is booked."
+ },
+ "bl-nmibc-risk": {
+  "title": "Low, intermediate, high: what decides whether you get instillations",
+  "dek": "The stratification decides more than whether a drug goes into the bladder; it also decides whether removing the bladder is put on the table at this stage. And that progression table was worked out on people who never had BCG.",
+  "lead": "\"A new scoring model has replaced the old risk tables\" is a piece of misinformation — both tables still carry a Strong recommendation today, they simply answer different questions. This article also puts the 40% for very high risk and the 14.9% to 22% after adequate BCG into the same frame.",
+  "note": "If you have been put in the intermediate group, it is worth spending an extra appointment pinning it down — some people in that layer sit close to low risk and some sit close to high risk. Take the pathology report with you and get the person opposite you to point at the words on it and tell you which ones they are reading, rather than scoring yourself against a table you found online."
+ },
+ "bl-bcg": {
+  "title": "BCG is not chemotherapy, and not a vaccination",
+  "dek": "It is live attenuated mycobacteria instilled into the bladder; the first line of the label says it is not a vaccine for the prevention of cancer, and a fever is something that has to be read on two levels.",
+  "lead": "This article turns \"when do I go back the same day\" into concrete thresholds with times attached, and it lays out both directions of the evidence on cutting back: lowering the dose and cutting the number of instillations are a long way apart in how well they are supported, and they are not the same thing.",
+  "note": "For the first three days after an instillation, take your temperature and write it down — not to make yourself anxious, but so that at the next appointment you can say how high it went and how long it lasted. If the fever has not settled after two or three days, or the symptoms are heavier each time, go back the same day, and tell them which day your last instillation was."
+ },
+ "bl-bcg-fail": {
+  "title": "After BCG stops working",
+  "dek": "\"BCG failure\" comes in several kinds and only one of them is called BCG-unresponsive; that term requires an adequate course first — at least five of six induction instillations, with numbers attached to the threshold.",
+  "lead": "This box has gained several new drugs over five years, with complete response rates running from four in ten to eight in ten. But almost all of them come out of single-arm trials, and one of the labels says in its own words that delaying cystectomy can be lethal. Those two things have to be read together.",
+  "note": "When you are told the BCG has failed, count the instillation record first: how many induction, how many maintenance — someone who did not reach an adequate course is not BCG-unresponsive, and another round may still be possible. If it does count, then know that the standard treatment is still radical cystectomy: those complete response rates of four in ten to eight in ten for the new drugs all come out of single-arm trials, they cannot be ranked against one another, and one of the labels says in its own words that delaying cystectomy can lead to metastatic bladder cancer, which can be lethal. If the bladder is being kept for now, put the date of the three-month reassessment in the calendar today."
+ },
+ "bl-nmibc-followup": {
+  "title": "How long the cystoscopies go on",
+  "dek": "Low risk can consider stopping after five years; for high and very high risk the guideline's word is life-long, and the upper tract CT urography goes on long-term as well.",
+  "lead": "This article puts together two things that are rarely said in the same breath: every one of those surveillance schedules is only a Weak recommendation, and the guideline itself uses the word burden for cystoscopy — people are trading discomfort for certainty.",
+  "note": "Do not push back the three-month appointment; it sets the rhythm of the whole schedule after it. Before your next visit, put every appointment for the coming twelve months into the calendar, with a note saying which layer you are in and how many years it runs for. If you are finding it hard, say so out loud — the chapter added to the 2026 guideline exists so that this can be discussed."
+ },
+ "bl-two-roads": {
+  "title": "Remove the bladder, or keep it",
+  "dek": "There is no completed randomised trial to compare the two roads in muscle-invasive bladder cancer. This article lays out the matched cohorts, the registry data and the three directions selection bias runs in, and gives you the questions to put to your doctor.",
+  "lead": "One number shows how hard this comparison is: in the most-quoted matched study, of every ten people who had a bladder removed at those centres over the same period, only about three had a tumour that would have allowed either road. The other seven were never in the comparison at all.",
+  "note": "This article will not choose a road for you, and it should not be yours to choose alone. Before the next appointment, settle one thing: exactly where your tumour falls — how many, how many centimetres, extensive carcinoma in situ or not, hydronephrosis or not, whether it can be resected completely — and ask your doctor to say which kind of study the figures he quotes came from. If the answer is vague, take the references at the end of this article to urology and to radiation oncology and hear each of them out."
+ },
+ "bl-neoadjuvant": {
+  "title": "Why chemotherapy comes before the operation",
+  "dek": "The absolute benefit of neoadjuvant platinum-based chemotherapy is 5 percentage points at five years, not a phrase about longer survival; plus who cannot have cisplatin, and what the last two years have added around the operation.",
+  "lead": "The individual-patient-data meta-analysis of 3,005 people, put into plain words: of a hundred people who have chemotherapy first, about five more are still alive at five years. It is not a large number, but it is the entire reason this became the standard.",
+  "note": "Take your most recent kidney function, hearing assessment and performance status to the clinic, ask your doctor to work through those five Galsky items one at a time, and get a clear answer on how long the gap between the end of chemotherapy and the operation will be. If you wanted to keep the bladder in the first place, say so now, not once the chemotherapy is finished."
+ },
+ "bl-cystectomy": {
+  "title": "Cystectomy and urinary diversion",
+  "dek": "90-day complications and mortality, readmission, kidney function, sexual function, and what the days are like with each of the three urinary diversions — the price written in full, and why this operation is still the standard treatment.",
+  "lead": "For one and the same operation, 90-day mortality has been reported anywhere from 2.5% to 8%. The difference is not in the surgery; it is in who was in the cohort being reported — and that is what decides how you read every percentage that follows.",
+  "note": "The three diversions cannot be ranked, and the guideline itself says there is no randomised trial by which to recommend one. So what really needs preparing is the conversation: make sure you see a stoma care nurse before the operation, tell them about your work, your eyesight, how nimble your hands are and whether anyone is around to help, and settle the diversion after that."
+ },
+ "bl-tmt": {
+  "title": "Trimodality therapy: how it is done, and who it suits",
+  "dek": "How resection, radiotherapy and concurrent chemotherapy fit together, where the three guidelines differ in their wording about who is suitable, and why BC2001's three numbers have to be read together.",
+  "lead": "On the question of who is suitable, three guidelines produce three versions: EAU allows unilateral hydronephrosis, AUA has no such sentence, and NICE gives no tumour criteria at all. That is not one of them getting it wrong — this decision has never had a single agreed table behind it.",
+  "note": "If you are considering this road, ask your doctor to point out in front of you which clauses of which guideline your tumour meets, and to answer plainly whether it is done here and where you would be referred if not. Not every hospital provides this treatment, and the selection criteria and the quality of the resection decide the whole stretch of road that follows."
+ },
+ "bl-tmt-after": {
+  "title": "The bladder you kept, and what it needs",
+  "dek": "How long the cystoscopies run, what a recurrence looks like, the rate of salvage cystectomy and what it costs, and how much function a preserved bladder actually has.",
+  "lead": "One set of figures is worth having now: most recurrences after bladder preservation are non-muscle-invasive, 36% cumulative at ten years, more than twice the muscle-invasive rate — and most of them can still be salvaged, provided the surveillance is close enough.",
+  "note": "Write down the date treatment ended, and ask your doctor to specify which follow-up schedule you are on and to put it in the notes; the three guidelines use different intervals and I am not going to blend them into one for you. If visible blood appears in the urine, passing urine becomes difficult, or you get a fever with pain on passing urine, contact the team that day rather than waiting for the next scheduled cystoscopy."
+ },
+ "bl-metastatic": {
+  "title": "The first line after it has spread",
+  "dek": "The guidelines and the marketing authorisation have changed which combination goes first; the enfortumab vedotin the NHI pays for is still third line, as a single agent, six courses in a lifetime. Trial figures and clauses word for word, all of it fixed at 13 September 2026.",
+  "lead": "The number most worth remembering here is not 33.8 months. It is two others: for the 29.1% who had a complete response, the median overall survival of the whole group is still 33.8 months; and by the last assessment, 87% of peripheral neuropathy had not resolved completely.",
+  "note": "Which line of therapy you are on decides which set of figures applies to you, so settle that question first. If you are going with enfortumab vedotin plus pembrolizumab, look up two things before the appointment: your glycated haemoglobin, and whether your hands and feet were already numb — the trial excluded people who were poor on both. For the boxes where no listed item can be found in the NHI, ask your case manager to take you to the medical affairs office for the application process, rather than looking up a price online."
+ },
+ "bl-biomarker": {
+  "title": "Which cell actually has a drug in it",
+  "dek": "Neither of the drugs in the FGFR and HER2 boxes belongs in the first line. How many people have one, the nine things the companion diagnostic recognises, where Taiwan's licence and the NHI clauses part company, and one indication that has already been withdrawn.",
+  "lead": "One study measured that distance: of 208 patients who were tested, 21 had actually received the targeted drug by the data cut-off, and 6 of those stopped it because of toxicity. Between the line on the report and the drug reaching the body there are several boxes to cross.",
+  "note": "When you take the test report into the clinic, three questions are enough: which list was it looking for, was it done on tissue or on blood, and will this result change the treatment at the line of therapy I am on now. If the answer is that it only comes into play further down the line, note it and leave it there; there is no need to rush into adding self-paid tests. Licences and reimbursement both move, and this page stops at 13 September 2026."
+ },
+ "bl-utuc": {
+  "title": "It grows in the upper tract too",
+  "dek": "In Taiwan's registry, three to four of every ten urothelial carcinomas are in the upper tract. This article sets out the aristolochic acid evidence, the two ban announcements plus one management regulation, and the two analyses after the ban that point opposite ways.",
+  "lead": "That this disease is unusually common in Taiwan is true. How unusually common is a question no cross-country statistic on a single basis has ever put Taiwan into. I have laid out how far the figure can be taken and why it stops there — and while I was at it I copied out the document numbers of the two ban announcements and of that management regulation for xi xin.",
+  "note": "If you took Chinese medicine over a long period, do not frighten yourself and do not draw your own conclusion either: the name of the material, the dose and the year are all written on the prescription, not in your memory. Take the medicine bag or the prescription slip to clinic and go through it there. Also ask your doctor to say plainly whether your tumour is in the renal pelvis or the ureter, whether it counts as high risk or low risk, and whether chemotherapy is to come before or after the operation."
+ },
+ "bl-smoking": {
+  "title": "Smoking and this disease",
+  "dek": "The evidence linking smoking to whether this disease occurs is hard; the evidence on whether stopping after diagnosis keeps it from coming back is empty. Two cells of different strength, written separately here.",
+  "lead": "Up to 2022, the whole literature on stopping smoking after diagnosis and recurrence came to 9 eligible studies and about 5,500 people, and pooled they give a sub-distribution hazard ratio of 0.99. That cell is not a small effect; it is evidence that has not been produced yet. The incidence cell is nothing like that strength.",
+  "note": "If you are still smoking, get the sentence \"I want to stop; does the hospital have a cessation clinic?\" said out loud at your next visit, so it becomes part of the treatment — that difference between 36% and 6% is a difference in whether someone is doing it with you. If you stopped many years ago, or never smoked and got this disease anyway, this article is not asking you to go back and settle accounts."
+ },
+ "bl-daily": {
+  "title": "A stoma, a neobladder, and getting back to your days",
+  "dek": "The days after discharge: the ring of skin around a stoma, a neobladder at 84% by day and six in ten at night, the denominator under that return-to-work group, and the one Taiwanese assessment provision I could find against the subsidy I could not.",
+  "lead": "With a neobladder, about 84% stay dry through the day and only six in ten through the night; with a stoma, what goes wrong most is not the stoma but the ring of skin around it. The days after discharge are largely those two things, plus a whole row of small matters nobody has studied — and I have listed those empty cells for you as well.",
+  "note": "Settle two things on the day you are discharged: the date of the next appointment, and which number to ring when the stoma or the neobladder goes wrong. Fever, pain in one flank, and a bag with almost no urine in it all day are the three that mean going back the same day. And one that catches a lot of people out: buy ostomy supplies first and apply for the subsidy afterwards and you will not get it — ask the social worker or the assistive-device centre before you buy."
+ }
+}
