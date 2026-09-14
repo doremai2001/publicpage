@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="3522" viewBox="0 0 1440 3522" role="img" aria-labelledby="t d">
+  <title id="t">變多的是被診斷出來的人數：台灣、韓國與 63 國的估計</title>
+  <desc id="d">示意圖，分成四段，講甲狀腺癌「發生人數變多」這件事在不同國家的形狀，以及過度診斷這個概念的邊界。第一段是台灣。左邊一條折線是全國癌症登記的甲狀腺惡性腫瘤申報發生人數，五個點分別是民國 88 年（1999 年）1,228 人、2009 年 2,433 人、2015 年 3,737 人、2020 年 4,974 人、民國 112 年（2023 年）6,045 人，二十四年間大約 4.9 倍；民國 112 年男性 1,507、女性 4,538，同一年發生率排名男性第 11 位、女性第 4 位。折線下方另外註明同儕審查版本只涵蓋女性：年齡標準化發生率由 1995 至 1999 年的每十萬人 7.37 升到 2015 至 2019 年的 20.53，年變化百分比 5.9%（95% 信賴區間 5.3 到 6.5），該篇作者在結論裡寫的是「我們假設」過度診斷可能是主因，那是假說不是估計值。右邊是同一年的死亡端，並以一條標著「兩個量的分母不同，不可疊在同一條軸上」的虛線與左邊隔開：民國 112 年死於甲狀腺惡性腫瘤的是 225 人，男性 81、女性 144，佔全部惡性腫瘤死亡人數的 0.42%，死亡率排名男性第 23 位、女性也是第 23 位，而且這是單獨一年的數字，不是一條趨勢線。同一張卡片列出年齡標準化率：以 2000 年世界標準人口計算，年齡標準化發生率男性 9.49、女性 28.12（每十萬人），年齡標準化死亡率男性 0.39、女性 0.50；在被診斷這件事上女性大約是男性的三倍，在死於這個病這件事上男女差距只剩下大約一點三倍。這一段底下有一個打叉的方框，寫著「台灣逐年的年齡標準化死亡率序列」查無官方發布的版本，所以圖上沒有台灣的死亡率趨勢線，那 0.39 與 0.50 不能拿去講「一直是平的」。第二段是韓國。一條折線是韓國全國登記的病例數：1999 年 3,407 例、2012 年 44,748 例、2015 年 25,523 例、2019 年 30,676 例；折線旁註明 1999 到 2008 年間發生率上升了 6.4 倍（95% 信賴區間 4.9 到 8.4），從每十萬人 6.4 升到 40.7，增加的部分裡 94.4% 是小於 20 毫米的腫瘤、97.1% 是局部與區域性的病灶。折線下方三條橫條是年齡標準化發生率（每十萬人）：2005 年 24.09、2012 年 74.83、2015 年 42.52，到 2018 年持平；並註明 30 歲以下這一群從 2015 年的高點之後並沒有顯著下降，反而有再上升的跡象。接著是一條由左往右的時間箭頭，上面兩個標記：2012 年發生率開始下降，2014 年那場公開爭論開始。旁邊寫著研究原文的說法——下降發生在 2012 到 2016 年之間，早於 2014 年開始的那場公開爭論；一件先發生的事不能拿一件後發生的事去解釋它；而且 2015 年之後又回升了（2015 年 25,523 例、2019 年 30,676 例），所以「一喊話就下降」那條單線因果這張圖不畫。這一段最後三條橫條標的是「已經被診斷出甲狀腺癌的人當中，每 1000 人年死於甲狀腺癌的人數（依診斷年份排開）」：2005 年 1.94、2013 年 0.76、2018 年 2.70，上升集中在接受全甲狀腺切除、或完全沒有接受甲狀腺切除的那兩群人；世代是韓國一個全國世代追蹤的 434,228 名已經被診斷出甲狀腺癌的人（女性 352,678、男性 81,550），平均年齡 48.6 歲，中位追蹤 7.4 年。圖上寫明這個分母是「已經確診的人」、不是「全國的人」，和上面每十萬人的不是同一種算法，兩條不可互比；篩檢把大量低風險的人灌進這個分母的那幾年，這一群人裡的死亡率當然往下掉，篩檢退潮之後又升回來，所以它能講的只有「被診斷出來的那一群人，組成變了」，不能拿來講全人口；論文作者自己也寫明這條線和韓國的人口死亡率走勢不一致，後者一路降到 2015 年。第三段是美國，一個灰底方塊寫著：2025 年那份指引記載，1974 到 2013 年間發生率的上升發生在所有期別，而同一段期間晚期疾病的死亡率每年上升 1.1%；同一份文件也記錄美國的發生率在 2015 年達到每十萬人 14.9 的高點之後，2015 到 2017 年出現了三十年來第一次下降。所以「變多了，死亡的人沒變」這種講法比證據本身強；能拿來反駁它的是美國那一句——上升的那一格落在晚期疾病上。至於各國整體死亡率的走勢，這張圖沒有可以引的序列，就不畫。第四段是 63 個國家的那份估計，涵蓋 2013 到 2017 年、63 個國家、385 個癌症登記：一條橫向長條被分成兩段，較長的那一段標示 2,297,057 個病例中有 1,736,133 例（75.6%）被歸因於過度診斷，其中女性 1,368,181 例、男性 367,952 例。兩枚標籤分別寫著女性過度診斷比例超過 85% 的是賽普勒斯、中國、南韓、土耳其，估計為零的是烏干達、辛巴威、千里達及托巴哥。同一段還列出女性發生率的國際最高與最低差距到 2012 年已經拉開到每十萬人 101.4，而死亡率的國際差距全程都只有大約每十萬人 1.0 到 2.0；並強調那個 75.6% 是拿一整個國家的「被診斷數」減去「本來會出現症狀的數」算出來的，算式裡沒有「你」這一格。這一段底下第二個打叉的方框寫著「台灣的過度診斷比例」：那篇論文的摘要沒有點名台灣，全文不是開放取用，補充資料沒有取得，所以這張圖上沒有台灣的過度診斷比例，也不會用別國的數字去推台灣的。圖的最後是一個紅框的「這張圖不能被讀成什麼」：過度診斷不是誤診，病理科沒有看錯，那確實是癌細胞；過度診斷也不等於「其實不是癌」，它講的是這顆癌在這個人的餘生裡會不會造成麻煩；它只能在族群層級、而且事後回頭看才算得出來，算法是一群人被診斷出來的數量減去同一群人本來會出現症狀的數量，沒有任何檢查能在今天告訴你，你這一顆是不是屬於那個差值；所以「全世界有七成五被歸因於過度診斷」不能被改寫成「我這一顆大概不用理」，真正在決定的是報告上的組織型、大小、侵犯、淋巴結以及你的年齡，那些寫在〈報告上的乳突、濾泡、NIFTP〉與〈為什麼分期看你幾歲〉；反方向也一樣不可以，這張圖不能讀成「早點發現都是多餘的」，晚期疾病那一格的死亡率是有在動的，而高風險族群從來不在美國預防服務工作小組 2017 年那個 D 級建議的適用範圍裡，那條 D 級建議是對無症狀成人講的。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="3522" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">INCIDENCE, DEATHS, AND WHAT OVERDIAGNOSIS IS NOT</text>
+<text x="84" y="142" font-size="38" fill="#123641" font-weight="800" class="r">變多的是被診斷出來的人數</text>
+<text x="84" y="201.88" font-size="19" fill="#527078">左邊是台灣的發生人數，右邊是同一年的死亡數。這是兩個不同的量，不放在同一條軸上，也不相減。</text>
+<text x="84" y="236.38" font-size="19" fill="#527078">這一整張圖講的是一整個國家、一整個世代的統計，而且是事後回頭看才算得出來的東西。它沒有辦法告訴任何一個人，你那一顆是哪一種。</text>
+<text x="84" y="334.88" font-size="22" fill="#123641" font-weight="800" class="r">台灣：發生人數的那條線</text>
+<text x="84" y="360.36" font-size="14" fill="#527078">全國癌症登記的甲狀腺惡性腫瘤申報發生人數，民國 88 年（1999）到民國 112 年（2023）。</text>
+<g filter="url(#sh)">
+<rect x="84" y="379.36" width="619" height="416.13" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="417.36" font-size="18" fill="#123641" font-weight="800">申報發生人數（人）</text>
+<rect x="104" y="447.12" width="579" height="210" rx="12" fill="#F3E8CD"/>
+<line x1="122" y1="623.12" x2="665" y2="623.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<path d="M 150 600.31 L 352.92 577.94 L 474.67 553.72 L 576.12 530.75 L 637 510.86" fill="none" stroke="#96790F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="150" cy="600.31" r="5.5" fill="#96790F"/>
+<text x="150" y="587.31" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">1,228</text>
+<text x="150" y="643.12" font-size="12.5" fill="#527078" text-anchor="middle">1999</text>
+<circle cx="352.92" cy="577.94" r="5.5" fill="#96790F"/>
+<text x="352.92" y="564.94" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">2,433</text>
+<text x="352.92" y="643.12" font-size="12.5" fill="#527078" text-anchor="middle">2009</text>
+<circle cx="474.67" cy="553.72" r="5.5" fill="#96790F"/>
+<text x="474.67" y="540.72" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">3,737</text>
+<text x="474.67" y="643.12" font-size="12.5" fill="#527078" text-anchor="middle">2015</text>
+<circle cx="576.12" cy="530.75" r="5.5" fill="#96790F"/>
+<text x="576.12" y="517.75" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">4,974</text>
+<text x="576.12" y="643.12" font-size="12.5" fill="#527078" text-anchor="middle">2020</text>
+<circle cx="637" cy="510.86" r="5.5" fill="#96790F"/>
+<text x="637" y="497.86" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">6,045</text>
+<text x="637" y="643.12" font-size="12.5" fill="#527078" text-anchor="middle">2023</text>
+<text x="104" y="683.12" font-size="14" fill="#345963">二十四年間大約 4.9 倍。民國 112 年男性 1,507、女性 4,538；同一年發生率排名男性第</text>
+<text x="104" y="704.12" font-size="14" fill="#345963">11 位、女性第 4 位。</text>
+<text x="104" y="733.62" font-size="12.5" fill="#527078">同儕審查的版本只有女性這一條：年齡標準化發生率由 1995 至 1999 年的每十萬人 7.37，升到 2015</text>
+<text x="104" y="751.75" font-size="12.5" fill="#527078">至 2019 年的 20.53，年變化百分比 5.9%（95% 信賴區間 5.3 到 6.5）。那篇作者在結論裡寫的是「我</text>
+<text x="104" y="769.87" font-size="12.5" fill="#527078">們假設」過度診斷可能是主因——那是假說，不是估計值。</text>
+<g filter="url(#sh)">
+<rect x="737" y="379.36" width="619" height="414.13" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="757" y="399.36" width="218.34" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="768" y="416.86" font-size="13.5" fill="#FFFFFF" font-weight="800">民國 112 年（2023）單獨一年</text>
+<text x="757" y="448.36" font-size="14" fill="#527078" font-weight="700">死於甲狀腺惡性腫瘤的人數</text>
+<text x="757" y="484.74" font-size="28" fill="#B04A4A" font-weight="800">225 人</text>
+<text x="757" y="508.26" font-size="14" fill="#345963">男性 81、女性 144，佔全部惡性腫瘤死亡人數的 0.42%；死亡率排名男性第 23 位、女性也</text>
+<text x="757" y="529.26" font-size="14" fill="#345963">是第 23 位。</text>
+<text x="757" y="554.76" font-size="12.5" fill="#527078">全國癌症登記。這是單獨一年的數字，不是一條趨勢線。</text>
+<line x1="757" y1="574.38" x2="1336" y2="574.38" stroke="#DBD3BF" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="757" y="600.38" font-size="14" fill="#527078" font-weight="700">年齡標準化率（把不同人群的年齡結構先拉成同一把尺再比）</text>
+<text x="757" y="630.68" font-size="14" fill="#527078" font-weight="700">年齡標準化發生率（每十萬）</text>
+<text x="1046.5" y="630.68" font-size="14" fill="#345963">男性 9.49／女性 28.12</text>
+<text x="757" y="662.68" font-size="14" fill="#527078" font-weight="700">年齡標準化死亡率（每十萬）</text>
+<text x="1046.5" y="662.68" font-size="14" fill="#345963">男性 0.39／女性 0.50</text>
+<text x="757" y="694.68" font-size="14" fill="#527078" font-weight="700">採用的標準人口</text>
+<text x="1046.5" y="694.68" font-size="14" fill="#345963">2000 年世界標準人口</text>
+<text x="757" y="727.68" font-size="14" fill="#345963">在「被診斷」這件事上女性大約是男性的三倍；在「死於這個病」這件事上，男女的差距只剩</text>
+<text x="757" y="748.68" font-size="14" fill="#345963">下大約一點三倍。發生端和死亡端的男女比不是同一個數字。</text>
+<line x1="720" y1="385.36" x2="720" y2="789.5" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<text x="84" y="818" font-size="12.5" fill="#527078" font-weight="700">兩個量的分母不同，不可疊在同一條軸上</text>
+<rect x="84" y="840.25" width="560" height="84" rx="14" fill="url(#hatch)"/>
+<rect x="84" y="840.25" width="560" height="84" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="98" y1="854.25" x2="630" y2="910.25" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="630" y1="854.25" x2="98" y2="910.25" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="84" y="949.75" font-size="15.5" fill="#B04A4A" font-weight="800">台灣逐年的年齡標準化死亡率序列</text>
+<text x="84" y="986.22" font-size="14" fill="#345963">查無官方發布的版本。所以這張圖上沒有台灣的死亡率趨勢線，上面那 0.39 與 0.50 只是</text>
+<text x="84" y="1007.22" font-size="14" fill="#345963">民國 112 年單獨一年的數字，不能拿去講「一直是平的」。</text>
+<text x="84" y="1078.22" font-size="22" fill="#123641" font-weight="800" class="r">韓國：那條曲線，與它真正的時序</text>
+<text x="84" y="1103.7" font-size="14" fill="#527078">韓國是被研究得最透徹的例子，也是最常被講成單線因果的那一個。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1122.7" width="1272" height="554.06" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1160.7" font-size="18" fill="#123641" font-weight="800">韓國全國登記的病例數（人）</text>
+<rect x="104" y="1190.46" width="1232" height="210" rx="12" fill="#E3E8F6"/>
+<line x1="122" y1="1366.46" x2="1318" y2="1366.46" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<path d="M 150 1357.6 L 891 1250.12 L 1062 1300.1 L 1290 1286.7" fill="none" stroke="#5C77C4" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="150" cy="1357.6" r="5.5" fill="#5C77C4"/>
+<text x="150" y="1344.6" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="middle">3,407</text>
+<text x="150" y="1386.46" font-size="12.5" fill="#527078" text-anchor="middle">1999</text>
+<circle cx="891" cy="1250.12" r="5.5" fill="#5C77C4"/>
+<text x="891" y="1237.12" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="middle">44,748</text>
+<text x="891" y="1386.46" font-size="12.5" fill="#527078" text-anchor="middle">2012</text>
+<circle cx="1062" cy="1300.1" r="5.5" fill="#5C77C4"/>
+<text x="1062" y="1287.1" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="middle">25,523</text>
+<text x="1062" y="1386.46" font-size="12.5" fill="#527078" text-anchor="middle">2015</text>
+<circle cx="1290" cy="1286.7" r="5.5" fill="#5C77C4"/>
+<text x="1290" y="1273.7" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="middle">30,676</text>
+<text x="1290" y="1386.46" font-size="12.5" fill="#527078" text-anchor="middle">2019</text>
+<text x="104" y="1426.46" font-size="14" fill="#345963">1999 到 2008 年間發生率上升了 6.4 倍（95% 信賴區間 4.9 到 8.4），從每十萬人 6.4 升到 40.7；增加的部分裡，94.4% 是小於 20 毫米的腫瘤，97.1% 是局部與區域性的病灶。</text>
+<text x="104" y="1463.46" font-size="14" fill="#527078" font-weight="700">年齡標準化發生率（每十萬人）</text>
+<text x="104" y="1499.76" font-size="14" fill="#527078" font-weight="700">2005 年</text>
+<rect x="220" y="1481.76" width="1020" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="220" y="1481.76" width="307.15" height="26" rx="7" fill="#5C77C4"/>
+<text x="1252" y="1502.32" font-size="21" fill="#5C77C4" font-weight="800">24.09</text>
+<text x="104" y="1537.76" font-size="14" fill="#527078" font-weight="700">2012 年</text>
+<rect x="220" y="1519.76" width="1020" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="220" y="1519.76" width="954.08" height="26" rx="7" fill="#5C77C4"/>
+<text x="1252" y="1540.32" font-size="21" fill="#5C77C4" font-weight="800">74.83</text>
+<text x="104" y="1575.76" font-size="14" fill="#527078" font-weight="700">2015 年</text>
+<rect x="220" y="1557.76" width="1020" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="220" y="1557.76" width="542.13" height="26" rx="7" fill="#5C77C4"/>
+<text x="1252" y="1578.32" font-size="21" fill="#5C77C4" font-weight="800">42.52</text>
+<line x1="220" y1="1597.76" x2="1240" y2="1597.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="220" y1="1597.76" x2="220" y2="1603.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="220" y="1619.76" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">0</text>
+<line x1="475" y1="1597.76" x2="475" y2="1603.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="475" y="1619.76" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">20</text>
+<line x1="730" y1="1597.76" x2="730" y2="1603.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="730" y="1619.76" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">40</text>
+<line x1="985" y1="1597.76" x2="985" y2="1603.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="985" y="1619.76" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">60</text>
+<line x1="1240" y1="1597.76" x2="1240" y2="1603.76" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1240" y="1619.76" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">80</text>
+<text x="104" y="1641.76" font-size="14" fill="#345963">到 2018 年持平。而且 30 歲以下這一群，從 2015 年的高點之後並沒有顯著下降，反而有再上升的跡象。</text>
+<rect x="84" y="1692.76" width="1272" height="244.06" rx="18" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="104" y="1730.76" font-size="18" fill="#8F7418" font-weight="800">時間順序對不上</text>
+<line x1="112" y1="1790.52" x2="1316.96" y2="1790.52" stroke="#B9AE94" stroke-width="2.6" stroke-linecap="round"/>
+<polygon points="1328,1790.52 1317.04,1795.41 1317.04,1785.63" fill="#B9AE94"/>
+<circle cx="152" cy="1790.52" r="8" fill="#B04A4A"/>
+<text x="152" y="1778.52" font-size="14" fill="#B04A4A" font-weight="800" text-anchor="middle">2012</text>
+<text x="219" y="1830.52" font-size="14" fill="#345963" font-weight="700" text-anchor="middle">發生率開始下降</text>
+<circle cx="1288" cy="1790.52" r="8" fill="#B04A4A"/>
+<text x="1288" y="1778.52" font-size="14" fill="#B04A4A" font-weight="800" text-anchor="middle">2014</text>
+<text x="1221" y="1830.52" font-size="14" fill="#345963" font-weight="700" text-anchor="middle">那場公開爭論開始</text>
+<text x="104" y="1864.82" font-size="14" fill="#345963">研究原文寫的是：下降發生在 2012 到 2016 年之間，早於 2014 年開始的那場公開爭論。一件先發生的事，不能拿一件後發生的事去解釋它。</text>
+<text x="104" y="1895.82" font-size="14" fill="#345963">而且 2015 年之後又回升了：2015 年 25,523 例，2019 年 30,676 例。所以「一喊話就下降」那條單線因果，這張圖不畫。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1952.82" width="1272" height="308.55" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1986.82" font-size="14" fill="#527078" font-weight="700">已經被診斷出甲狀腺癌的人當中，每 1000 人年死於甲狀腺癌的人數（依診斷年份排開）</text>
+<text x="104" y="2023.12" font-size="14" fill="#527078" font-weight="700">2005 年</text>
+<rect x="220" y="2005.12" width="1020" height="26" rx="7" fill="#F6E2E0"/>
+<rect x="220" y="2005.12" width="659.6" height="26" rx="7" fill="#B04A4A"/>
+<text x="1252" y="2025.68" font-size="21" fill="#B04A4A" font-weight="800">1.94</text>
+<text x="104" y="2061.12" font-size="14" fill="#527078" font-weight="700">2013 年</text>
+<rect x="220" y="2043.12" width="1020" height="26" rx="7" fill="#F6E2E0"/>
+<rect x="220" y="2043.12" width="258.4" height="26" rx="7" fill="#B04A4A"/>
+<text x="1252" y="2063.68" font-size="21" fill="#B04A4A" font-weight="800">0.76</text>
+<text x="104" y="2099.12" font-size="14" fill="#527078" font-weight="700">2018 年</text>
+<rect x="220" y="2081.12" width="1020" height="26" rx="7" fill="#F6E2E0"/>
+<rect x="220" y="2081.12" width="918" height="26" rx="7" fill="#B04A4A"/>
+<text x="1252" y="2101.68" font-size="21" fill="#B04A4A" font-weight="800">2.70</text>
+<line x1="220" y1="2121.12" x2="1240" y2="2121.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="220" y1="2121.12" x2="220" y2="2127.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="220" y="2143.12" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">0</text>
+<line x1="560" y1="2121.12" x2="560" y2="2127.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="560" y="2143.12" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">1</text>
+<line x1="900" y1="2121.12" x2="900" y2="2127.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="900" y="2143.12" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">2</text>
+<line x1="1240" y1="2121.12" x2="1240" y2="2127.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1240" y="2143.12" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">3</text>
+<text x="104" y="2165.12" font-size="14" fill="#345963">上升集中在接受全甲狀腺切除、或完全沒有接受甲狀腺切除的那兩群人。篩檢把大量低風險的人灌進這個分母的那幾年，這一群人裡的死亡率當然往下掉；篩檢退潮之後又升回來。它能講的只有「被診</text>
+<text x="104" y="2186.12" font-size="14" fill="#345963">斷出來的那一群人，組成變了」，不能拿來講全人口。論文作者自己也寫明，這條線和韓國的人口死亡率走勢不一致，後者一路降到 2015 年。</text>
+<text x="104" y="2213.62" font-size="12.5" fill="#527078">韓國一個全國世代追蹤了 434,228 名已經被診斷出甲狀腺癌的人（女性 352,678、男性 81,550），平均年齡 48.6 歲，中位追蹤 7.4 年。這個分母是「已經確診的人」，不是「全國的人」，和上面每十萬人的不是同一種</text>
+<text x="104" y="2231.74" font-size="12.5" fill="#527078">算法，兩條不可互比。</text>
+<text x="84" y="2311.37" font-size="22" fill="#123641" font-weight="800" class="r">「死亡率完全沒動」這句話也不對，而能反駁它的只有美國那一句</text>
+<rect x="84" y="2330.85" width="1272" height="181.3" rx="14" fill="#ECE8DE"/>
+<text x="100" y="2360.85" font-size="14" fill="#123641" font-weight="800">1974 到 2013 年，晚期疾病的死亡率每年上升 1.1%</text>
+<text x="100" y="2397.15" font-size="14" fill="#345963">2025 年那份指引寫：這段期間發生率的上升發生在所有期別，而同一段期間，晚期疾病的死亡率每年上升 1.1%。</text>
+<text x="100" y="2436.15" font-size="14" fill="#345963">同一份文件也記錄：美國的發生率在 2015 年達到每十萬人 14.9 的高點之後，2015 到 2017 年出現了三十年來第一次下降。</text>
+<text x="100" y="2475.15" font-size="14" fill="#345963">所以「變多了，死亡的人沒變」這種講法，比證據本身強。能拿來反駁它的是美國那一句：上升的那一格落在晚期疾病上。至於各國整體死亡率的走勢，這張圖沒有可以引的序列，就不畫。</text>
+<text x="84" y="2562.15" font-size="22" fill="#123641" font-weight="800" class="r">63 個國家的那份估計，以及台灣為什麼不在裡面</text>
+<text x="84" y="2587.63" font-size="14" fill="#527078">規模最大的一份估計，涵蓋 2013 到 2017 年、63 個國家、385 個癌症登記。</text>
+<g filter="url(#sh)">
+<rect x="84" y="2606.63" width="1272" height="308.06" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="2644.63" font-size="18" fill="#123641" font-weight="800">2,297,057 個病例中，1,736,133 例（75.6%）被歸因於過度診斷</text>
+<rect x="104" y="2678.39" width="928.39" height="38" rx="6" fill="#5C77C4"/>
+<rect x="1035.39" y="2678.39" width="297.61" height="38" rx="6" fill="#7A6E58"/>
+<rect x="104" y="2730.39" width="11" height="11" rx="2" fill="#5C77C4"/>
+<text x="124" y="2742.39" font-size="14" fill="#345963">歸因於過度診斷 1,736,133 例（75.6%）</text>
+<rect x="729" y="2730.39" width="11" height="11" rx="2" fill="#7A6E58"/>
+<text x="749" y="2742.39" font-size="14" fill="#345963">其餘的病例</text>
+<text x="104" y="2786.69" font-size="14" fill="#345963">其中女性 1,368,181 例、男性 367,952 例。</text>
+<rect x="104" y="2805.69" width="311.06" height="25" rx="12.5" fill="#96790F"/>
+<text x="115" y="2823.19" font-size="13.5" fill="#FFFFFF" font-weight="800">女性超過 85%：賽普勒斯、中國、南韓、土耳其</text>
+<rect x="423.06" y="2805.69" width="292" height="25" rx="12.5" fill="#00806B"/>
+<text x="434.06" y="2823.19" font-size="13.5" fill="#FFFFFF" font-weight="800">估計為零：烏干達、辛巴威、千里達及托巴哥</text>
+<text x="104" y="2856.69" font-size="14" fill="#345963">同一篇還有一個對比：女性發生率的國際最高與最低差距，到 2012 年已經拉開到每十萬人 101.4，而死亡率的國際差距全程都只有大約每十萬人 1.0 到 2.0。</text>
+<text x="104" y="2887.69" font-size="14" fill="#5C77C4" font-weight="700">這個 75.6% 是拿一整個國家的「被診斷數」減去「本來會出現症狀的數」算出來的，算式裡沒有「你」這一格。</text>
+<rect x="84" y="2932.69" width="560" height="84" rx="14" fill="url(#hatch)"/>
+<rect x="84" y="2932.69" width="560" height="84" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="98" y1="2946.69" x2="630" y2="3002.69" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="630" y1="2946.69" x2="98" y2="3002.69" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="84" y="3042.19" font-size="15.5" fill="#B04A4A" font-weight="800">台灣的過度診斷比例</text>
+<text x="84" y="3078.67" font-size="14" fill="#345963">那篇論文的摘要沒有點名台灣，全文不是開放取用，補充資料沒有取得。所以這張圖上沒有</text>
+<text x="84" y="3099.67" font-size="14" fill="#345963">台灣的過度診斷比例，也不會用別國的數字去推台灣的——那是兩件事。</text>
+<rect x="84" y="3146.67" width="1272" height="296.85" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="3192.67" font-size="18" fill="#B04A4A" font-weight="800">這張圖不能被讀成什麼</text>
+<text x="110" y="3224.27" font-size="15.5" fill="#345963">過度診斷不是誤診。病理科沒有看錯，那確實是癌細胞。</text>
+<text x="110" y="3257.52" font-size="15.5" fill="#345963">過度診斷也不等於「其實不是癌」。它講的是這顆癌在這個人的餘生裡會不會造成麻煩，不是它的診斷正不正確。</text>
+<text x="110" y="3290.77" font-size="15.5" fill="#345963">它只能在族群層級、而且事後回頭看才算得出來：一群人被診斷出來的數量，減去同一群人本來會出現症狀的數量。沒有任何檢查能在今天告訴你，你這一顆是不是屬於那個差值。</text>
+<text x="110" y="3324.02" font-size="15.5" fill="#345963">所以「全世界有七成五被歸因於過度診斷」不能被改寫成「我這一顆大概不用理」。真正在決定的是報告上的組織型、大小、侵犯、淋巴結，以及你的年齡——那些寫在〈報告上的</text>
+<text x="110" y="3347.27" font-size="15.5" fill="#345963">乳突、濾泡、NIFTP〉與〈為什麼分期看你幾歲〉。</text>
+<text x="110" y="3380.52" font-size="15.5" fill="#345963">反方向也一樣不可以：這張圖不能讀成「早點發現都是多餘的」。晚期疾病那一格的死亡率是有在動的，而高風險族群從來不在美國預防服務工作小組 2017 年那個 D 級建議的適</text>
+<text x="110" y="3403.77" font-size="15.5" fill="#345963">用範圍裡——那條 D 級建議是對無症狀成人講的。</text>
+<text x="84" y="3463.52" font-size="15" fill="#527078">示意圖，依中華民國 112 年癌症登記報告、韓國全國登記與全國世代研究、2025 年美國甲狀腺學會分化型甲狀腺癌指引與 63 國過度診斷估計重繪，非擷取自原論文圖表；各研究族群、設計</text>
+<text x="84" y="3486.77" font-size="15" fill="#527078">與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

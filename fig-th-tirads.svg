@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2580" viewBox="0 0 1440 2580" role="img" aria-labelledby="t d">
+  <title id="t">四套超音波分類表對同一顆結節的四個答案</title>
+  <desc id="d">示意圖，分成四段，講四套超音波風險分層表對同一顆甲狀腺結節不會給同一個答案。第一段把四套表並排：ACR TI-RADS（美國放射學會的白皮書）、美國甲狀腺學會 2015 年版的五型態表、歐洲的 EU-TIRADS、韓國的 K-TIRADS。每一欄畫兩條比例條，數字來自同一篇納入 11 篇原著、對象是 1 公分以上結節的統合分析，括號裡是 95% 信賴區間。圖上標明「不必要切片率」的分母不是所有被掃到的人，而是這套表建議去扎的那些結節，分子是其中最後證實為良性的那些。不必要切片率：ACR TI-RADS 41%（32–49）、美國甲狀腺學會 2015 年版 65%（56–74）、EU-TIRADS 68%（60–75）、2016 年版 K-TIRADS 79%（74–83）；敏感度的排序幾乎是倒過來的：2016 年版 K-TIRADS 96%（94–97）、美國甲狀腺學會 2015 年版 89%（85–93）、EU-TIRADS 88%（81–92）、ACR TI-RADS 82%（74–87）。K-TIRADS 那一欄另外註明，2021 年版改用 1.5 公分切點之後，不必要切片率降到 50%（47–53）、敏感度跟著掉到 76%（74–79），而且現行版是 2021 年版不是 2016 年版；那一欄的切點來自 225 顆結節的比較研究，和 2021 年韓國那份共識列的一樣。每一欄下面列出自己的扎針切點：ACR TI-RADS 第 3 級 2.5 公分以上、第 4 級 1.5 公分以上、第 5 級 1 公分以上，計分制裡第 3 級是 3 分、第 4 級 4 到 6 分、第 5 級 7 分以上，而且邊緣鈣化這個特徵只有這一套給分；美國甲狀腺學會 2015 年版的第 8 條建議是高度可疑 1 公分以上扎（強烈建議、中等品質證據）、中度可疑 1 公分以上扎（強烈建議、低品質證據）、低度可疑要 1.5 公分以上才扎而且只是弱建議、極低度可疑要 2 公分以上才「考慮」扎、純囊狀不必切片（強烈建議），同一份文件配的風險估計是高度可疑 70% 到 90% 以上、中度可疑 10% 到 20%、低度可疑 5% 到 10%、極低度可疑低於 3%、純囊狀低於 1%；EU-TIRADS 第 3 類 20 毫米以上、第 4 類 15 毫米以上、第 5 類 10 毫米以上；K-TIRADS 第 3 類 2 公分以上、第 4 類 1 到 1.5 公分之間、第 5 類 1 公分以上。圖上同時標明：ACR 的白皮書原文與歐洲那份原始指引這次都取不到全文，分級與切點是轉引自那篇把三套表逐欄列出來的比較研究，不是從原始文件抄的；美國甲狀腺學會 2025 年的新版把甲狀腺結節整塊拿掉了，結節這一塊沒有新版，所以那一欄講的是 2015 年版而不是最新版。這一段旁邊有一個灰底說明：另一篇納入 67 篇、76,512 顆結節的統合分析比的是分類切點而不是扎針建議，排出來的順序就不一樣，兩篇的問題不同，答案自然不同，所以這張圖不排名次。第二段是三條橫條，比的是同一批結節裡三套表各自漏掉幾顆惡性。族群是一項單中心的前瞻性研究，225 顆結節，其中 23.1% 最後證實是惡性，三套表同時跑一遍；ACR TI-RADS 漏 11 顆惡性、EU-TIRADS 漏 5 顆、K-TIRADS 漏 3 顆。下面一行寫漏掉的典型長相是同一種：直徑 1.0 到 1.5 公分之間的實質高回音結節；反過來也有，邊緣鈣化這個特徵只有 ACR TI-RADS 給分，另外兩套根本不計。第三段是那一顆結節的實例，三格並排，同一顆結節、同一天、同一張超音波影像：ACR TI-RADS 給第 3 級（只拿到 3 分），扎針切點是 2.5 公分以上，結論是不扎；EU-TIRADS 給第 5 類，切點 1.0 公分以上，結論是扎；K-TIRADS 給第 4 類，切點 1.0 公分以上，結論是扎。這一段下面有一個黃底說明，交代 K-TIRADS 第 4 類那一格寫的是一個區間不是一個數字：同一篇比較研究的表格把切點寫成 1 到 1.5 公分之間，因為那一格本來就是一個區間——切點要在 1 到 1.5 公分之間，依超音波特徵、結節位置與臨床因素決定，所以這一顆 1.0 到 1.5 公分的結節落在區間的下緣、用的是 1.0 公分；這三個切點和 2021 年韓國那份共識列的一樣。第四段講同一套表在大結節和小結節上表現也不一樣，族群是 3,826 顆 1 公分以上的結節，其中 85.7% 良性、14.3% 惡性：2 公分以下的結節，ACR TI-RADS 省下的不必要切片最多，76.3%，但它的敏感度也是五套裡最低的，76.1%；2 公分以上的結節，ACR TI-RADS 的敏感度是 88.8%，明顯低於其他系統的 98.7% 到 99.3%。這一段的結語是：你的結節被哪一套表看、又剛好是多大，這兩件事合起來會決定你今天要不要挨那一針，這不是一句抱怨，這是現況。圖的最後是一個紅框的界線區塊，標題是「這張圖不是用來替你那一顆打分數的」，內容有四條：圖上沒有任何一欄可以讓你替自己算分數，分數來自超音波影像上的形狀特徵，那是判讀的人在機器前面做的事；不必要切片率與敏感度是同一個天平的兩端，抓得多就扎得多、扎得少就會漏，所以「哪一套最準」這個問題沒有答案，圖上也不替讀者選一套；ACR 白皮書與歐洲原始指引都取不到全文，圖上的分級與切點是轉引；讀者能做的是把它問出口——我這份報告用的是哪一套分類、報告上有寫分級嗎、照這套表決定的是大小還是形狀、換另一套表來看答案會不會不一樣。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2580" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">FOUR ULTRASOUND TABLES - ONE NODULE, FOUR ANSWERS</text>
+<text x="84" y="142" font-size="38" fill="#123641" font-weight="800" class="r">四套表，對同一顆結節不會給同一個答案</text>
+<text x="84" y="201.88" font-size="19" fill="#527078">超音波風險分層表把「形狀」換算成「風險」，再配一個「多大才扎」的切點。四套表都在做這件事，但換算的公式與切點都不一樣。</text>
+<text x="84" y="236.38" font-size="19" fill="#527078">這張圖要說的是它們怎麼不一樣，以及為什麼沒有哪一套「比較準」。它不能、也不打算讓你替自己那一顆打分數。</text>
+<text x="84" y="334.88" font-size="22" fill="#123641" font-weight="800" class="r">四套表並排：抓得多就扎得多，扎得少就會漏</text>
+<text x="84" y="360.36" font-size="14" fill="#527078">下面兩個數字來自同一篇統合分析：11 篇原著、對象是 1 公分以上的結節。「不必要切片率」的分母不是所有被掃到的人，而是這套表建議去扎的那些結節，分子是其中最後證實為良性的那些；敏感度則是</text>
+<text x="84" y="381.36" font-size="14" fill="#527078">真的是癌的那些抓得到幾成。括號裡是 95% 信賴區間。</text>
+<g filter="url(#sh)">
+<rect x="84" y="400.36" width="303" height="542.74" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="102" y="418.36" width="126.33" height="25" rx="12.5" fill="#96790F"/>
+<text x="113" y="435.86" font-size="13.5" fill="#FFFFFF" font-weight="800">ACR TI-RADS</text>
+<text x="102" y="463.86" font-size="12.5" fill="#527078">美國放射學會的白皮書</text>
+<text x="102" y="503.99" font-size="14" fill="#527078" font-weight="700">不必要切片率</text>
+<text x="369" y="503.99" font-size="14" fill="#96790F" font-weight="800" text-anchor="end">41%（32–49）</text>
+<rect x="102" y="509.59" width="267" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="102" y="509.59" width="109.47" height="14" rx="5" fill="#96790F"/>
+<text x="102" y="547.59" font-size="14" fill="#527078" font-weight="700">敏感度</text>
+<text x="369" y="547.59" font-size="14" fill="#96790F" font-weight="800" text-anchor="end">82%（74–87）</text>
+<rect x="102" y="553.19" width="267" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="102" y="553.19" width="218.94" height="14" rx="5" fill="#96790F"/>
+<circle cx="106.5" cy="587.87" r="4" fill="#96790F"/>
+<text x="121" y="593.19" font-size="14" fill="#345963">第 3 級：2.5 公分以上才扎</text>
+<circle cx="106.5" cy="613.59" r="4" fill="#96790F"/>
+<text x="121" y="618.91" font-size="14" fill="#345963">第 4 級：1.5 公分以上</text>
+<circle cx="106.5" cy="639.31" r="4" fill="#96790F"/>
+<text x="121" y="644.63" font-size="14" fill="#345963">第 5 級：1 公分以上</text>
+<text x="102" y="675.35" font-size="14" fill="#345963">計分制：第 3 級是 3 分、第 4 級 4 到 6</text>
+<text x="102" y="696.35" font-size="14" fill="#345963">分、第 5 級 7 分以上。邊緣鈣化這個特徵</text>
+<text x="102" y="717.35" font-size="14" fill="#345963">只有這一套給分。</text>
+<text x="102" y="756.85" font-size="12.5" fill="#527078">白皮書原文這次取不到全文，分級與切點轉引自</text>
+<text x="102" y="774.97" font-size="12.5" fill="#527078">那篇把三套表逐欄列出來的比較研究。</text>
+<g filter="url(#sh)">
+<rect x="407" y="400.36" width="303" height="542.74" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="425" y="418.36" width="142.69" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="436" y="435.86" font-size="13.5" fill="#FFFFFF" font-weight="800">ATA 2015 五型態</text>
+<text x="425" y="463.86" font-size="12.5" fill="#527078">美國甲狀腺學會 2015 年版</text>
+<text x="425" y="503.99" font-size="14" fill="#527078" font-weight="700">不必要切片率</text>
+<text x="692" y="503.99" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">65%（56–74）</text>
+<rect x="425" y="509.59" width="267" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="425" y="509.59" width="173.55" height="14" rx="5" fill="#7A6E58"/>
+<text x="425" y="547.59" font-size="14" fill="#527078" font-weight="700">敏感度</text>
+<text x="692" y="547.59" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">89%（85–93）</text>
+<rect x="425" y="553.19" width="267" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="425" y="553.19" width="237.63" height="14" rx="5" fill="#7A6E58"/>
+<circle cx="429.5" cy="587.87" r="4" fill="#7A6E58"/>
+<text x="444" y="593.19" font-size="14" fill="#345963">高度可疑：1 公分以上，扎（強烈建議，</text>
+<text x="444" y="613.91" font-size="14" fill="#345963">中等品質證據）</text>
+<circle cx="429.5" cy="634.31" r="4" fill="#7A6E58"/>
+<text x="444" y="639.63" font-size="14" fill="#345963">中度可疑：1 公分以上，扎（強烈建議，</text>
+<text x="444" y="660.35" font-size="14" fill="#345963">低品質證據）</text>
+<circle cx="429.5" cy="680.75" r="4" fill="#7A6E58"/>
+<text x="444" y="686.07" font-size="14" fill="#345963">低度可疑：1.5 公分以上才扎，弱建議</text>
+<circle cx="429.5" cy="706.47" r="4" fill="#7A6E58"/>
+<text x="444" y="711.79" font-size="14" fill="#345963">極低度可疑：2 公分以上才「考慮」扎</text>
+<circle cx="429.5" cy="732.19" r="4" fill="#7A6E58"/>
+<text x="444" y="737.51" font-size="14" fill="#345963">純囊狀：不必切片（強烈建議）</text>
+<text x="425" y="768.23" font-size="14" fill="#345963">同一份文件配的風險估計：高度可疑 70%</text>
+<text x="425" y="789.23" font-size="14" fill="#345963">到 90% 以上、中度可疑 10% 到 20%、低度</text>
+<text x="425" y="810.23" font-size="14" fill="#345963">可疑 5% 到 10%、極低度可疑低於 3%、純</text>
+<text x="425" y="831.23" font-size="14" fill="#345963">囊狀低於 1%。</text>
+<text x="425" y="870.73" font-size="12.5" fill="#527078">這個學會 2025 年的新版把「甲狀腺結節」整塊</text>
+<text x="425" y="888.85" font-size="12.5" fill="#527078">拿掉了，結節這一塊沒有新版，所以這一欄講的</text>
+<text x="425" y="906.98" font-size="12.5" fill="#527078">是 2015 年版，不是「最新版」。</text>
+<g filter="url(#sh)">
+<rect x="730" y="400.36" width="303" height="542.74" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="748" y="418.36" width="110.61" height="25" rx="12.5" fill="#00806B"/>
+<text x="759" y="435.86" font-size="13.5" fill="#FFFFFF" font-weight="800">EU-TIRADS</text>
+<text x="748" y="463.86" font-size="12.5" fill="#527078">歐洲甲狀腺學會</text>
+<text x="748" y="503.99" font-size="14" fill="#527078" font-weight="700">不必要切片率</text>
+<text x="1015" y="503.99" font-size="14" fill="#00806B" font-weight="800" text-anchor="end">68%（60–75）</text>
+<rect x="748" y="509.59" width="267" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="748" y="509.59" width="181.56" height="14" rx="5" fill="#00806B"/>
+<text x="748" y="547.59" font-size="14" fill="#527078" font-weight="700">敏感度</text>
+<text x="1015" y="547.59" font-size="14" fill="#00806B" font-weight="800" text-anchor="end">88%（81–92）</text>
+<rect x="748" y="553.19" width="267" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="748" y="553.19" width="234.96" height="14" rx="5" fill="#00806B"/>
+<circle cx="752.5" cy="587.87" r="4" fill="#00806B"/>
+<text x="767" y="593.19" font-size="14" fill="#345963">第 3 類：20 毫米以上</text>
+<circle cx="752.5" cy="613.59" r="4" fill="#00806B"/>
+<text x="767" y="618.91" font-size="14" fill="#345963">第 4 類：15 毫米以上</text>
+<circle cx="752.5" cy="639.31" r="4" fill="#00806B"/>
+<text x="767" y="644.63" font-size="14" fill="#345963">第 5 類：10 毫米以上</text>
+<text x="748" y="675.35" font-size="14" fill="#345963">切點用毫米寫，和另外兩套用公分寫的是同</text>
+<text x="748" y="696.35" font-size="14" fill="#345963">一件事，但換算之後三套仍然對不齊。</text>
+<text x="748" y="735.85" font-size="12.5" fill="#527078">歐洲那份原始指引這次同樣取不到全文，分級與</text>
+<text x="748" y="753.97" font-size="12.5" fill="#527078">切點一樣是轉引。</text>
+<g filter="url(#sh)">
+<rect x="1053" y="400.36" width="303" height="542.74" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="1071" y="418.36" width="99.44" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="1082" y="435.86" font-size="13.5" fill="#FFFFFF" font-weight="800">K-TIRADS</text>
+<text x="1071" y="463.86" font-size="12.5" fill="#527078">韓國甲狀腺影像學會（現行版是 2021，不是</text>
+<text x="1071" y="481.99" font-size="12.5" fill="#527078">2016）</text>
+<text x="1071" y="522.11" font-size="14" fill="#527078" font-weight="700">不必要切片率</text>
+<text x="1338" y="522.11" font-size="14" fill="#5C77C4" font-weight="800" text-anchor="end">2016 年版 79%（74–83）</text>
+<rect x="1071" y="527.71" width="267" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="1071" y="527.71" width="210.93" height="14" rx="5" fill="#5C77C4"/>
+<text x="1071" y="565.71" font-size="14" fill="#527078" font-weight="700">敏感度</text>
+<text x="1338" y="565.71" font-size="14" fill="#5C77C4" font-weight="800" text-anchor="end">2016 年版 96%（94–97）</text>
+<rect x="1071" y="571.31" width="267" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="1071" y="571.31" width="256.32" height="14" rx="5" fill="#5C77C4"/>
+<circle cx="1075.5" cy="605.99" r="4" fill="#5C77C4"/>
+<text x="1090" y="611.31" font-size="14" fill="#345963">第 3 類：2 公分以上</text>
+<circle cx="1075.5" cy="631.71" r="4" fill="#5C77C4"/>
+<text x="1090" y="637.03" font-size="14" fill="#345963">第 4 類：1 到 1.5 公分之間</text>
+<circle cx="1075.5" cy="657.43" r="4" fill="#5C77C4"/>
+<text x="1090" y="662.75" font-size="14" fill="#345963">第 5 類：1 公分以上</text>
+<text x="1071" y="693.47" font-size="14" fill="#345963">2021 年版改用 1.5 公分切點之後，不必要</text>
+<text x="1071" y="714.47" font-size="14" fill="#345963">切片率降到 50%（47–53），敏感度也跟</text>
+<text x="1071" y="735.47" font-size="14" fill="#345963">著掉到 76%（74–79）。這就是同一個天</text>
+<text x="1071" y="756.47" font-size="14" fill="#345963">平的兩端。</text>
+<text x="1071" y="795.97" font-size="12.5" fill="#527078">上面那組切點來自 225 顆結節的比較研究；這</text>
+<text x="1071" y="814.1" font-size="12.5" fill="#527078">三個切點和 2021 年韓國那份共識列的一樣。</text>
+<rect x="84" y="959.1" width="1272" height="142.3" rx="14" fill="#ECE8DE"/>
+<text x="100" y="989.1" font-size="14" fill="#123641" font-weight="800">為什麼這張圖不排名次</text>
+<text x="100" y="1025.4" font-size="14" fill="#345963">另一篇納入 67 篇、76,512 顆結節的統合分析，比的是「分類切點」而不是「扎針建議」，排出來的順序就和上面那一篇不一樣。</text>
+<text x="100" y="1064.4" font-size="14" fill="#345963">兩篇的問題不同，答案自然不同。所以這裡沒有第一名。</text>
+<text x="84" y="1151.4" font-size="22" fill="#123641" font-weight="800" class="r">同一批結節，三套表漏掉的不是同一群</text>
+<text x="84" y="1176.88" font-size="14" fill="#527078">一項單中心的前瞻性研究收了 225 顆結節、其中 23.1% 最後證實是惡性，同時用三套表跑一遍。前瞻性的意思是先講好要看什麼、再往前收人追蹤，不是事後翻舊病歷。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1195.88" width="1272" height="203" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="106" y="1235.88" font-size="14" fill="#527078" font-weight="700">ACR TI-RADS</text>
+<rect x="316" y="1217.88" width="848" height="26" rx="7" fill="#F3E8CD"/>
+<rect x="316" y="1217.88" width="848" height="26" rx="7" fill="#96790F"/>
+<text x="1176" y="1238.44" font-size="21" fill="#96790F" font-weight="800">漏 11 顆</text>
+<text x="106" y="1275.88" font-size="14" fill="#527078" font-weight="700">EU-TIRADS</text>
+<rect x="316" y="1257.88" width="848" height="26" rx="7" fill="#D8EDE7"/>
+<rect x="316" y="1257.88" width="385.45" height="26" rx="7" fill="#00806B"/>
+<text x="1176" y="1278.44" font-size="21" fill="#00806B" font-weight="800">漏 5 顆</text>
+<text x="106" y="1315.88" font-size="14" fill="#527078" font-weight="700">K-TIRADS</text>
+<rect x="316" y="1297.88" width="848" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="316" y="1297.88" width="231.27" height="26" rx="7" fill="#5C77C4"/>
+<text x="1176" y="1318.44" font-size="21" fill="#5C77C4" font-weight="800">漏 3 顆</text>
+<text x="106" y="1355.88" font-size="14" fill="#345963">漏掉的典型長相是同一種：直徑 1.0 到 1.5 公分之間的實質高回音結節。反過來也有——邊緣鈣化這個特徵只有 ACR TI-RADS 給分，另外兩套根本不計。</text>
+<text x="84" y="1448.88" font-size="22" fill="#123641" font-weight="800" class="r">那一顆：1.0 到 1.5 公分的實質高回音結節</text>
+<text x="84" y="1474.36" font-size="14" fill="#527078">同一顆結節，同一天，同一張超音波影像。下面三格是三套表各自給的答案。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1493.36" width="410.67" height="200.12" rx="18" fill="#F3E8CD" stroke="#96790F" stroke-width="2"/>
+</g>
+<rect x="102" y="1511.36" width="126.33" height="25" rx="12.5" fill="#96790F"/>
+<text x="113" y="1528.86" font-size="13.5" fill="#FFFFFF" font-weight="800">ACR TI-RADS</text>
+<text x="102" y="1564.36" font-size="18" fill="#123641" font-weight="800">第 3 級（只拿到 3 分）</text>
+<text x="102" y="1606.48" font-size="14" fill="#345963">扎針切點：2.5 公分以上</text>
+<rect x="102" y="1639.48" width="68" height="36" rx="18" fill="#B04A4A"/>
+<text x="118" y="1664.14" font-size="18" fill="#FFFFFF" font-weight="800">不扎</text>
+<g filter="url(#sh)">
+<rect x="514.67" y="1493.36" width="410.67" height="200.12" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2"/>
+</g>
+<rect x="532.67" y="1511.36" width="110.61" height="25" rx="12.5" fill="#00806B"/>
+<text x="543.67" y="1528.86" font-size="13.5" fill="#FFFFFF" font-weight="800">EU-TIRADS</text>
+<text x="532.67" y="1564.36" font-size="18" fill="#123641" font-weight="800">第 5 類</text>
+<text x="532.67" y="1606.48" font-size="14" fill="#345963">扎針切點：1.0 公分以上</text>
+<rect x="532.67" y="1639.48" width="50" height="36" rx="18" fill="#00806B"/>
+<text x="548.67" y="1664.14" font-size="18" fill="#FFFFFF" font-weight="800">扎</text>
+<g filter="url(#sh)">
+<rect x="945.33" y="1493.36" width="410.67" height="200.12" rx="18" fill="#E3E8F6" stroke="#5C77C4" stroke-width="2"/>
+</g>
+<rect x="963.33" y="1511.36" width="99.44" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="974.33" y="1528.86" font-size="13.5" fill="#FFFFFF" font-weight="800">K-TIRADS</text>
+<text x="963.33" y="1564.36" font-size="18" fill="#123641" font-weight="800">第 4 類</text>
+<text x="963.33" y="1606.48" font-size="14" fill="#345963">扎針切點：1.0 公分以上</text>
+<rect x="963.33" y="1639.48" width="50" height="36" rx="18" fill="#00806B"/>
+<text x="979.33" y="1664.14" font-size="18" fill="#FFFFFF" font-weight="800">扎</text>
+<rect x="84" y="1709.48" width="1272" height="163.3" rx="14" fill="#F3E8CD"/>
+<text x="100" y="1739.48" font-size="14" fill="#8F7418" font-weight="800">K-TIRADS 第 4 類那一格，寫的是一個區間不是一個數字</text>
+<text x="100" y="1775.78" font-size="14" fill="#345963">同一篇比較研究的表格把 K-TIRADS 第 4 類的切點寫成 1 到 1.5 公分之間，因為那一格本來就是一個區間：切點要在 1 到 1.5 公分之間，依超音波特徵、結節位置與臨床因素決定。所以這一顆 1.0</text>
+<text x="100" y="1796.78" font-size="14" fill="#345963">到 1.5 公分的結節落在區間的下緣，用的是 1.0 公分。</text>
+<text x="100" y="1835.78" font-size="14" fill="#345963">這三個切點和 2021 年韓國那份共識列的一樣。</text>
+<text x="84" y="1922.78" font-size="22" fill="#123641" font-weight="800" class="r">同一套表，在大結節和小結節上表現也不一樣</text>
+<text x="84" y="1948.26" font-size="14" fill="#527078">一項 3,826 顆 1 公分以上結節的研究，其中 85.7% 良性、14.3% 惡性。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1967.26" width="624" height="239.72" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="102" y="2003.26" font-size="18" fill="#123641" font-weight="800">2 公分以下的結節</text>
+<text x="102" y="2061.46" font-size="28" fill="#96790F" font-weight="800">76.3%</text>
+<text x="102" y="2082.18" font-size="14" fill="#345963">ACR TI-RADS 省下的不必要切片最多</text>
+<text x="102" y="2137.26" font-size="28" fill="#96790F" font-weight="800">76.1%</text>
+<text x="102" y="2157.98" font-size="14" fill="#345963">但它的敏感度也是五套裡最低的</text>
+<g filter="url(#sh)">
+<rect x="732" y="1967.26" width="624" height="239.72" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="750" y="2003.26" font-size="18" fill="#123641" font-weight="800">2 公分以上的結節</text>
+<text x="750" y="2061.46" font-size="28" fill="#5C77C4" font-weight="800">88.8%</text>
+<text x="750" y="2082.18" font-size="14" fill="#345963">ACR TI-RADS 的敏感度</text>
+<text x="750" y="2137.26" font-size="28" fill="#5C77C4" font-weight="800">98.7% 到 99.3%</text>
+<text x="750" y="2157.98" font-size="14" fill="#345963">其他系統的敏感度</text>
+<text x="84" y="2238.48" font-size="15.5" fill="#345963">換句話說，「你的結節被哪一套表看、又剛好是多大」，這兩件事合起來會決定你今天要不要挨那一針。這不是一句抱怨，這是現況。</text>
+<rect x="84" y="2284.51" width="1272" height="217.1" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="2330.51" font-size="18" fill="#B04A4A" font-weight="800">這張圖不是用來替你那一顆打分數的</text>
+<text x="110" y="2362.11" font-size="15.5" fill="#345963">圖上沒有任何一欄可以讓你替自己算分數。分數來自超音波影像上的形狀特徵，那是判讀的人在機器前面做的事，不是從一張圖表上對出來的。</text>
+<text x="110" y="2395.36" font-size="15.5" fill="#345963">不必要切片率與敏感度是同一個天平的兩端：抓得多就扎得多，扎得少就會漏。所以「哪一套最準」這個問題沒有答案，我也不會替你選一套。</text>
+<text x="110" y="2428.61" font-size="15.5" fill="#345963">ACR 的白皮書原文和歐洲那份原始指引，這次都取不到全文，圖上的分級與切點是轉引自那篇把三套表逐欄列出來的比較研究，不是從原始文件抄的。</text>
+<text x="110" y="2461.86" font-size="15.5" fill="#345963">你能做的是把它問出口：我這份報告用的是哪一套分類？報告上有寫分級嗎？照這套表，決定的是大小還是形狀？換另一套表來看，答案會不會不一樣？</text>
+<text x="84" y="2521.61" font-size="15" fill="#527078">示意圖，依 2023 年超音波風險分層系統診斷表現統合分析、2025 年 K-TIRADS／EU-TIRADS／ACR-TIRADS 比較研究、2021 年依結節大小比較五套指引的研究與美國甲狀腺學會 2015</text>
+<text x="84" y="2544.86" font-size="15" fill="#527078">年版指引重繪，非擷取自原論文圖表；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

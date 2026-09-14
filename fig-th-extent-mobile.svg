@@ -1,0 +1,275 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="6184" viewBox="0 0 620 6184" role="img" aria-labelledby="t d">
+  <title id="t">切一半還是全切：2 公分那條線與兩邊的代價</title>
+  <desc id="d">示意圖，分成六段，講分化型甲狀腺癌的手術範圍要切多少。第一段是那條線，三張並排卡片，依美國甲狀腺學會 2025 年版第 15A、15B、15C 條。第 15A 條：腫瘤 2 公分以內（cT1）、沒有明顯甲狀腺外侵犯、臨床上沒有淋巴結與遠端轉移的人，起始手術「應該是」單葉切除，強烈建議、中等確定性證據，除非兩側都有癌或有其他必須拿掉對側的理由；這一格的語氣不是「可以半切」，是「應該半切」。第 15B 條：大於 2 公分到 4 公分那一格，單葉切除「可能是比較好的起始治療」，有條件建議、低到中等確定性，理由是風險與副作用明顯較低，但病人與治療團隊也可能選全切，以便做放射碘或讓追蹤好讀。第 15C 條：腫瘤大於 4 公分、任何大小但有明顯甲狀腺外侵犯、臨床上看得到淋巴結轉移、或已有遠端轉移，起始手術要包含全甲狀腺切除，強烈建議、中等確定性。底下一格對照 2015 年版第 35B 條：腫瘤大於 1 公分、小於 4 公分、沒有甲狀腺外侵犯、臨床上沒有淋巴結轉移的人，起始手術可以做雙側也可以做單側，對低風險的乳突癌與濾泡癌單葉切除「可能就足夠」，強烈建議、中等品質證據；關鍵字是「可以」，2025 年版在 2 公分以內那一格把它換成了「應該」。第二段是一個打叉的方框，寫著「一個把半切對全切隨機起來的試驗」：唯一登記在案的隨機嘗試是一個美國中心的可行性先導研究，主要終點寫的是符合資格的病人有多少比例願意入組，試驗登記上的實際收案數是 2 人、2026 年 1 月結案，而登記表給的是收案人數，沒有另外給隨機分派的人數。旁邊寫 2025 年版指引自述：因為低風險分化型甲狀腺癌的結果普遍良好、又缺乏隨機對照試驗，委員會認為必須倚賴大型資料庫研究。第三段是資料庫。一張對數軸的區間圖，中間一條虛線標「1＝看不出差別」，三條區間是2014 年那篇用美國癌症資料庫重做的分析（1998 到 2006 年、腫瘤 1.0 到 4.0 公分的乳突癌 61,775 人，中位追蹤 82 個月，校正後的整體存活）：全部 1.0 到 4.0 公分風險比 0.96（95% 信賴區間 0.84 到 1.09）、1.0 到 2.0 公分 1.05（0.88 到 1.26）、2.1 到 4.0 公分 0.89（0.73 到 1.07），三個區間都壓在 1 附近；2015 年另一篇看未滿 45 歲、第 I 期、1.1 到 4.0 公分的人結果也一樣。同一段引 2007 年那篇 52,173 位乳突癌的分析：小於 1 公分時手術範圍不影響復發或存活，1 公分以上單葉切除的復發與死亡風險比較高，只看 1 到 2 公分那一格也一樣。接著三條但書：終點是整體存活不是疾病特異性存活，而分化型甲狀腺癌的病人多半死於別的原因；兩組本來就不是同一群人，2014 年那篇裡接受全切的人淋巴結轉移 27%、單葉切除組 7%，甲狀腺外侵犯 16% 比 5%，多發病灶 44% 比 29%，這叫適應症造成的混淆；以及 2015 年那篇的「第 I 期」用的是 AJCC 第七版的 45 歲切點，不是第八版的 55 歲。第四段是半切之後要不要吃藥。兩張並排卡片：目標訂在正常參考範圍時，單葉切除後不必補充甲狀腺素的比例是七到八成；目標訂在舊版那個偏低的區間時只剩兩到三成。2025 年版寫，復發風險落在低或中度那兩格的人（這裡用的是舊的三級講法），不論做的是全切還是單葉切除，促甲狀腺素的目標就是正常參考範圍。底下一格標明「下面這幾個世代用的門檻都是舊目標那條線」，三條橫條：一年內 TSH 升到 2 mIU/L 以上 73%（一個 555 例單葉切除的世代裡，術前沒吃藥的 478 人中有 350 人）；因惡性而切者用了甲狀腺素 59.3%（全美理賠資料裡的 33,756 例單葉切除，因良性而切的是 39.4%，校正後勝算比 2.34，95% 信賴區間 2.20 到 2.48，那份資料沒有告訴我們目標各自訂在哪裡）；單葉切除後被診斷為甲狀腺低下 22%（2012 年一篇 32 篇研究的統合分析，95% 信賴區間 19 到 27，能分清楚的只有其中 4 篇，估計亞臨床 12%、臨床 4%，這一筆混合良性與惡性，終點是有沒有被診斷為甲狀腺低下、不是有沒有吃藥，2025 年版轉述時把 22% 標成生化性低下、和原文不一樣，這裡引的是原文）。再底下列出誰比較容易在術後被驗出甲狀腺低下：術前 TSH 大於 2.5 的人相對風險 3.16（2.03 到 4.90）、甲狀腺抗體陽性 3.52、病理上有甲狀腺炎 3.30；這一組的終點是被診斷為甲狀腺低下，不是開始吃藥。第五段是補全切：回溯研究 5% 到 43%、統合分析 11% 到 34%、術中因為發現高風險特徵而當場轉成全切約 21%、依最終病理補做全切約 27% 到 30%；2025 年版直接寫了一句要讓病人事先知道的話——有至少兩成的可能會在術中轉成全切、或之後補做全切。第二次手術的風險有兩筆：一個 786 人的單一機構世代裡，先單葉再補全切的 149 人暫時性副甲狀腺低下反而比一次做完全切的 637 人少；另一份 70,638 人的全國手術品質登錄裡兩者的 30 天死亡率都是 0.1%、整體併發症也相當，但那份登錄不收錄副甲狀腺低下與喉返神經麻痺。第六段是兩邊各要付什麼，兩張並排卡片中間一條虛線。全切相對於單葉切除，統合分析算出來的相對風險是暫時性低血鈣接近十倍、永久性低血鈣約三倍、喉返神經傷害與術後出血都落在一點七到二點六之間；這張圖刻意不給絕對百分比，因為那些數字取決於那家醫院怎麼查喉、以及把幾個月算成永久。半切這一側：有機會走到第二次手術；2025 年版寫單葉切除之後的復發大多出現在對側那一葉，多半靠補做全切救得回來；日本一個 30 年的世代裡 1,327 位接受單葉切除的低風險乳突微小癌病人中有 18 人（1.4%）在殘餘的甲狀腺復發；追蹤不是比較輕鬆，是看的東西不一樣。圖的最後是一個紅框的「這張圖不能被讀成什麼」：「全部切掉比較乾淨」不是這條線的依據；資料庫那幾篇的終點是整體存活而且兩組本來就不是同一群人，看不出差別不等於證明沒有差別；「半切就不用吃藥」要看目標訂在哪；半切能省掉的不是一輩子的藥，而是全切之後必然的終身替代；這張圖不能拿來自己決定切多少，要不要開刀指向〈不開刀先看著，但有條件〉，淋巴結指向〈淋巴結要不要一起清〉，併發症的分母與定義指向〈開完刀會少掉什麼〉，藥要吃到多少指向〈吃一輩子的那顆藥，要吃到多少〉。最下面是五個可以照著念的門診問句：我這顆量起來幾公分、落在 2 公分以內那一格嗎；你評估我需不需要做放射碘、如果需要是不是就得全切；如果術中冰凍或術後病理跑出高風險特徵你會建議我補全切嗎、機率大概多少；如果我半切你會什麼時候幫我驗 TSH、多少以上你會開藥；如果我選半切我需要放棄什麼。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="6184" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">HALF THE GLAND OR ALL OF IT - WHERE THE</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">LINE SITS, AND WHAT EACH SIDE COSTS</text>
+<text x="40" y="144" font-size="38" fill="#123641" font-weight="800" class="r">線畫在 2 公分，而且語氣從</text>
+<text x="40" y="191.88" font-size="38" fill="#123641" font-weight="800" class="r">「可以」變成「應該」</text>
+<text x="40" y="251.76" font-size="19" fill="#527078">2015 年版寫的是 1 到 4 公分「可以」半切。2025 年版把這一</text>
+<text x="40" y="280.26" font-size="19" fill="#527078">整格拆成兩段，2 公分以內那一段是強烈建議、中等確定性的「</text>
+<text x="40" y="308.76" font-size="19" fill="#527078">應該」。</text>
+<text x="40" y="343.26" font-size="19" fill="#527078">這條線底下沒有隨機試驗。線的兩邊各要付什麼，以及「半切就</text>
+<text x="40" y="371.76" font-size="19" fill="#527078">不用吃藥」那句話真實的樣子，都在這張圖上。</text>
+<text x="40" y="470.26" font-size="22" fill="#123641" font-weight="800" class="r">一、2025 年版把這一格拆成三段</text>
+<text x="40" y="495.74" font-size="14" fill="#527078">美國甲狀腺學會 2025 年版第 15A、15B、15C 條。腫瘤大小是量出來的，不是感覺</text>
+<text x="40" y="516.74" font-size="14" fill="#527078">出來的。</text>
+<g filter="url(#sh)">
+<rect x="40" y="535.74" width="540" height="244.12" rx="18" fill="#FFFFFF" stroke="#00806B" stroke-width="2.5"/>
+</g>
+<rect x="60" y="555.74" width="270.83" height="25" rx="12.5" fill="#00806B"/>
+<text x="71" y="573.24" font-size="13.5" fill="#FFFFFF" font-weight="800">第 15A 條　cT1，2 公分以內，N0M0</text>
+<text x="60" y="608.74" font-size="18" fill="#123641" font-weight="800">腫瘤 2 公分以內、沒有明顯甲狀腺外侵犯、臨床上沒有淋巴結</text>
+<text x="60" y="632.5" font-size="18" fill="#123641" font-weight="800">與遠端轉移</text>
+<text x="60" y="669.26" font-size="21" fill="#00806B" font-weight="800">起始手術「應該是」單葉切除</text>
+<text x="60" y="701.56" font-size="14" fill="#527078" font-weight="700">強烈建議、中等確定性證據</text>
+<text x="60" y="731.86" font-size="14" fill="#345963">除非兩側都有癌、或有其他必須拿掉對側的理由。這一格的語氣不是「可以半切」，</text>
+<text x="60" y="752.86" font-size="14" fill="#345963">是「應該半切」。</text>
+<g filter="url(#sh)">
+<rect x="40" y="793.86" width="540" height="220.36" rx="18" fill="#FFFFFF" stroke="#96790F" stroke-width="2.5"/>
+</g>
+<rect x="60" y="813.86" width="232.98" height="25" rx="12.5" fill="#96790F"/>
+<text x="71" y="831.35" font-size="13.5" fill="#FFFFFF" font-weight="800">第 15B 條　大於 2 公分到 4 公分</text>
+<text x="60" y="866.86" font-size="18" fill="#123641" font-weight="800">同樣沒有明顯甲狀腺外侵犯、臨床上沒有淋巴結與遠端轉移</text>
+<text x="60" y="903.62" font-size="21" fill="#96790F" font-weight="800">單葉切除「可能是比較好的起始治療」</text>
+<text x="60" y="935.92" font-size="14" fill="#527078" font-weight="700">有條件建議、低到中等確定性</text>
+<text x="60" y="966.22" font-size="14" fill="#345963">理由是風險與副作用明顯較低；但病人與治療團隊也可能選全切，以便做放射碘</text>
+<text x="60" y="987.22" font-size="14" fill="#345963">或讓追蹤好讀。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1028.22" width="540" height="223.12" rx="18" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.5"/>
+</g>
+<rect x="60" y="1048.22" width="169.04" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="71" y="1065.71" font-size="13.5" fill="#FFFFFF" font-weight="800">第 15C 條　線的另一邊</text>
+<text x="60" y="1101.22" font-size="18" fill="#123641" font-weight="800">腫瘤大於 4 公分、任何大小但有明顯甲狀腺外侵犯、臨床上看</text>
+<text x="60" y="1124.98" font-size="18" fill="#123641" font-weight="800">得到淋巴結轉移，或已有遠端轉移</text>
+<text x="60" y="1161.74" font-size="21" fill="#B04A4A" font-weight="800">起始手術要包含全甲狀腺切除</text>
+<text x="60" y="1194.04" font-size="14" fill="#527078" font-weight="700">強烈建議、中等確定性</text>
+<text x="60" y="1224.34" font-size="14" fill="#345963">這一格不在「切一半還是全切」這個選擇題裡。</text>
+<rect x="40" y="1269.34" width="540" height="184.3" rx="14" fill="#ECE8DE"/>
+<text x="56" y="1299.34" font-size="14" fill="#123641" font-weight="800">2015 年版第 35B 條長什麼樣</text>
+<text x="56" y="1335.64" font-size="14" fill="#345963">腫瘤大於 1 公分、小於 4 公分、沒有甲狀腺外侵犯、臨床上沒有淋巴結轉移的人，</text>
+<text x="56" y="1356.64" font-size="14" fill="#345963">起始手術可以做雙側，也可以做單側；對低風險的乳突癌與濾泡癌，單葉切除「可</text>
+<text x="56" y="1377.64" font-size="14" fill="#345963">能就足夠」。強烈建議、中等品質證據。</text>
+<text x="56" y="1416.64" font-size="14" fill="#345963">關鍵字是「可以」。2025 年版在 2 公分以內那一格把它換成了「應該」。</text>
+<text x="40" y="1503.64" font-size="22" fill="#123641" font-weight="800" class="r">二、這條線底下，沒有隨機試驗</text>
+<rect x="40" y="1523.12" width="540" height="84" rx="14" fill="url(#hatch)"/>
+<rect x="40" y="1523.12" width="540" height="84" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="54" y1="1537.12" x2="566" y2="1593.12" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="566" y1="1537.12" x2="54" y2="1593.12" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="40" y="1632.62" font-size="15.5" fill="#B04A4A" font-weight="800">一個把「半切對全切」隨機起來的試驗</text>
+<text x="40" y="1669.09" font-size="14" fill="#345963">唯一登記在案的隨機嘗試，是一個美國中心的可行性先導研究。它的主要終點寫的是「</text>
+<text x="40" y="1690.09" font-size="14" fill="#345963">符合資格的病人有多少比例願意入組」，也就是在測未來做一個正式試驗可不可行；試</text>
+<text x="40" y="1711.09" font-size="14" fill="#345963">驗登記上的實際收案數是 2 人，2026 年 1 月結案；登記表給的是收案人數，沒有另外</text>
+<text x="40" y="1732.09" font-size="14" fill="#345963">給隨機分派的人數。</text>
+<rect x="40" y="1769.09" width="540" height="109" rx="14" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="56" y="1799.09" font-size="14" fill="#345963">2025 年版指引自己寫：因為低風險分化型甲狀腺癌的結果普遍良好、又缺乏隨機</text>
+<text x="56" y="1820.09" font-size="14" fill="#345963">對照試驗，所以委員會認為必須倚賴大型資料庫研究。證據的形狀會決定你怎麼讀</text>
+<text x="56" y="1841.09" font-size="14" fill="#345963">下面每一個數字。</text>
+<text x="40" y="1928.09" font-size="22" fill="#123641" font-weight="800" class="r">三、資料庫說了什麼，以及它沒說什麼</text>
+<text x="40" y="1953.57" font-size="14" fill="#527078">2014 年那篇用美國癌症資料庫重做的分析：1998 到 2006 年、腫瘤 1.0 到 4.0 公分</text>
+<text x="40" y="1974.57" font-size="14" fill="#527078">的乳突癌 61,775 人，中位追蹤 82 個月。校正之後，兩種手術的整體存活看不出差別。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1993.57" width="540" height="506.18" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<line x1="317.57" y1="2011.57" x2="317.57" y2="2339.38" stroke="#B9AE94" stroke-width="2" stroke-dasharray="3 6"/>
+<text x="60" y="2027.57" font-size="14" fill="#527078" font-weight="700">全部 1.0 到 4.0 公分</text>
+<text x="60" y="2061.87" font-size="14" fill="#5C77C4" font-weight="800">風險比 0.96（95% 信賴區間 0.84 到 1.09）</text>
+<line x1="213.32" y1="2094.17" x2="369.1" y2="2094.17" stroke="#5C77C4" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="213.32" y1="2086.17" x2="213.32" y2="2102.17" stroke="#5C77C4" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="369.1" y1="2086.17" x2="369.1" y2="2102.17" stroke="#5C77C4" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="293.16" cy="2094.17" r="6.5" fill="#5C77C4"/>
+<text x="60" y="2140.17" font-size="14" fill="#527078" font-weight="700">1.0 到 2.0 公分</text>
+<text x="60" y="2174.47" font-size="14" fill="#5C77C4" font-weight="800">風險比 1.05（0.88 到 1.26）</text>
+<line x1="241.14" y1="2206.78" x2="455.75" y2="2206.78" stroke="#5C77C4" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="241.14" y1="2198.78" x2="241.14" y2="2214.78" stroke="#5C77C4" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="455.75" y1="2198.78" x2="455.75" y2="2214.78" stroke="#5C77C4" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="346.74" cy="2206.78" r="6.5" fill="#5C77C4"/>
+<text x="60" y="2252.78" font-size="14" fill="#527078" font-weight="700">2.1 到 4.0 公分</text>
+<text x="60" y="2287.08" font-size="14" fill="#5C77C4" font-weight="800">風險比 0.89（0.73 到 1.07）</text>
+<line x1="129.4" y1="2319.38" x2="358.02" y2="2319.38" stroke="#5C77C4" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="129.4" y1="2311.38" x2="129.4" y2="2327.38" stroke="#5C77C4" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="358.02" y1="2311.38" x2="358.02" y2="2327.38" stroke="#5C77C4" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="247.89" cy="2319.38" r="6.5" fill="#5C77C4"/>
+<text x="317.57" y="2357.38" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">1＝看不出差別</text>
+<text x="60" y="2385.38" font-size="14" fill="#345963">三個區間都壓在 1 附近。2015 年另一篇看未滿 45 歲、第 I 期、1.1 到 4.0 公</text>
+<text x="60" y="2406.38" font-size="14" fill="#345963">分的人，結果也一樣。</text>
+<text x="60" y="2437.88" font-size="12.5" fill="#527078">2007 年那篇用同一個資料庫、52,173 位乳突癌的分析，是「1 公分以上要全切」這個舊</text>
+<text x="60" y="2456" font-size="12.5" fill="#527078">想法的代表作：小於 1 公分時手術範圍不影響復發或存活；1 公分以上，單葉切除的復發</text>
+<text x="60" y="2474.13" font-size="12.5" fill="#527078">與死亡風險比較高，只看 1 到 2 公分那一格也一樣。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2515.75" width="540" height="316.76" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="2553.75" font-size="18" fill="#123641" font-weight="800">但這幾篇有兩件事要一起講</text>
+<text x="60" y="2585.51" font-size="14" fill="#527078" font-weight="700">終點不是你以為的那個</text>
+<text x="60" y="2609.51" font-size="14" fill="#345963">它們的終點是整體存活，不是疾病特異性存活——分化型甲狀腺癌的病人多半死於</text>
+<text x="60" y="2630.51" font-size="14" fill="#345963">別的原因，整體存活會被稀釋得很厲害。</text>
+<text x="60" y="2662.51" font-size="14" fill="#527078" font-weight="700">兩組本來就不是同一群人</text>
+<text x="60" y="2686.51" font-size="14" fill="#345963">2014 年那篇裡，接受全切的人淋巴結轉移 27%、單葉切除組 7%；甲狀腺外侵犯</text>
+<text x="60" y="2707.51" font-size="14" fill="#345963">16% 比 5%；多發病灶 44% 比 29%。醫師本來就把看起來比較兇的送去全切。這</text>
+<text x="60" y="2728.51" font-size="14" fill="#345963">叫適應症造成的混淆，資料庫再大也不會消失。</text>
+<text x="60" y="2760.51" font-size="14" fill="#527078" font-weight="700">還有一個版本問題</text>
+<text x="60" y="2784.51" font-size="14" fill="#345963">2015 年那篇寫的「第 I 期」用的是 AJCC 第七版的 45 歲切點，不是第八版的</text>
+<text x="60" y="2805.51" font-size="14" fill="#345963">55 歲，不能拿去對現在的報告。</text>
+<text x="40" y="2882.51" font-size="22" fill="#123641" font-weight="800" class="r">四、半切之後要不要吃藥，看目標訂在哪</text>
+<text x="40" y="2907.99" font-size="14" fill="#527078">2025 年版寫：復發風險落在低或中度那兩格的人（這裡用的是舊的三級講法），不論</text>
+<text x="40" y="2928.99" font-size="14" fill="#527078">做的是全切還是單葉切除，促甲狀腺素的目標就是正常參考範圍。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2947.99" width="540" height="201.03" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="2967.99" width="143.5" height="25" rx="12.5" fill="#00806B"/>
+<text x="71" y="2985.49" font-size="13.5" fill="#FFFFFF" font-weight="800">目標＝正常參考範圍</text>
+<text x="60" y="3016.99" font-size="14" fill="#527078" font-weight="700">單葉切除後不必補充甲狀腺素的比例</text>
+<text x="60" y="3053.37" font-size="28" fill="#00806B" font-weight="800">七到八成</text>
+<text x="60" y="3076.89" font-size="14" fill="#345963">2025 年版指引轉述過去的研究：目標訂在正常參考範圍時，做單葉切除的人大</text>
+<text x="60" y="3097.89" font-size="14" fill="#345963">約七到八成可以不必補充甲狀腺素。</text>
+<text x="60" y="3123.39" font-size="12.5" fill="#527078">促甲狀腺素（TSH）是腦下垂體發出來催甲狀腺工作的那個訊號。</text>
+<g filter="url(#sh)">
+<rect x="40" y="3163.02" width="540" height="201.03" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="3183.02" width="184" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="71" y="3200.51" font-size="13.5" fill="#FFFFFF" font-weight="800">目標＝舊版那個偏低的區間</text>
+<text x="60" y="3232.02" font-size="14" fill="#527078" font-weight="700">同一件事，換一條線來量</text>
+<text x="60" y="3268.4" font-size="28" fill="#B04A4A" font-weight="800">兩到三成</text>
+<text x="60" y="3291.92" font-size="14" fill="#345963">目標訂在舊版那個偏低的區間，能不必補充甲狀腺素的就只剩兩到三成。所以「</text>
+<text x="60" y="3312.92" font-size="14" fill="#345963">要不要吃」這句話，問的其實是「你的目標訂在哪」。</text>
+<text x="60" y="3338.42" font-size="12.5" fill="#527078">同一群人，不同的門檻，得到兩個差很多的答案。</text>
+<g filter="url(#sh)">
+<rect x="40" y="3382.04" width="540" height="554.65" rx="18" fill="#FFFFFF" stroke="#C9A83E" stroke-width="2.5"/>
+</g>
+<text x="60" y="3420.04" font-size="18" fill="#8F7418" font-weight="800">下面這幾個世代用的門檻都是舊目標那條線</text>
+<text x="60" y="3445.8" font-size="14" fill="#345963">所以它們回答的是「在舊目標下有多少人達不到標」，不是「半切之後有多少人</text>
+<text x="60" y="3466.8" font-size="14" fill="#345963">非吃藥不可」。</text>
+<text x="60" y="3501.8" font-size="14" fill="#527078" font-weight="700">一年內 TSH 升到 2 mIU/L 以上</text>
+<rect x="60" y="3511.68" width="408" height="26" rx="7" fill="#F3E8CD"/>
+<rect x="60" y="3511.68" width="297.84" height="26" rx="7" fill="#96790F"/>
+<text x="480" y="3532.24" font-size="21" fill="#96790F" font-weight="800">73%</text>
+<text x="60" y="3562.68" font-size="14" fill="#527078" font-weight="700">因惡性而切者用了甲狀腺素</text>
+<rect x="60" y="3572.56" width="408" height="26" rx="7" fill="#F3E8CD"/>
+<rect x="60" y="3572.56" width="241.94" height="26" rx="7" fill="#96790F"/>
+<text x="480" y="3593.12" font-size="21" fill="#96790F" font-weight="800">59.3%</text>
+<text x="60" y="3623.56" font-size="14" fill="#527078" font-weight="700">單葉切除後被診斷為甲狀腺低下</text>
+<rect x="60" y="3633.44" width="408" height="26" rx="7" fill="#F3E8CD"/>
+<rect x="60" y="3633.44" width="89.76" height="26" rx="7" fill="#96790F"/>
+<text x="480" y="3654" font-size="21" fill="#96790F" font-weight="800">22%</text>
+<line x1="60" y1="3672.44" x2="468" y2="3672.44" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="60" y1="3672.44" x2="60" y2="3678.44" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="60" y="3694.44" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">0</text>
+<line x1="162" y1="3672.44" x2="162" y2="3678.44" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="162" y="3694.44" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">25</text>
+<line x1="264" y1="3672.44" x2="264" y2="3678.44" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="264" y="3694.44" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">50</text>
+<line x1="366" y1="3672.44" x2="366" y2="3678.44" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="366" y="3694.44" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">75</text>
+<line x1="468" y1="3672.44" x2="468" y2="3678.44" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="468" y="3694.44" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">100%</text>
+<text x="60" y="3720.94" font-size="12.5" fill="#527078">73%：一個 555 例單葉切除的世代裡，術前沒吃藥的 478 人中有 350 人，一年內 TSH</text>
+<text x="60" y="3739.07" font-size="12.5" fill="#527078">升到 2 mIU/L 以上。門檻是舊目標那條 TSH 2 mIU/L 的線。</text>
+<text x="60" y="3766.19" font-size="12.5" fill="#527078">59.3%：全美理賠資料裡的 33,756 例單葉切除，因為惡性而切的人有 59.3% 用了甲狀腺</text>
+<text x="60" y="3784.32" font-size="12.5" fill="#527078">素，因為良性而切的是 39.4%，校正後勝算比 2.34（95% 信賴區間 2.20 到 2.48）。那份</text>
+<text x="60" y="3802.44" font-size="12.5" fill="#527078">資料沒有告訴我們這些人的目標各自訂在哪裡。</text>
+<text x="60" y="3829.57" font-size="12.5" fill="#527078">22%：2012 年一篇 32 篇研究的統合分析，單葉切除後甲狀腺低下的整體風險 22%（95%</text>
+<text x="60" y="3847.69" font-size="12.5" fill="#527078">信賴區間 19 到 27）；能把臨床與亞臨床分清楚的只有其中 4 篇，估計亞臨床 12%、臨床</text>
+<text x="60" y="3865.82" font-size="12.5" fill="#527078">4%。這一筆混合了良性與惡性，而且終點是「有沒有被診斷為甲狀腺低下」，不是「有沒</text>
+<text x="60" y="3883.94" font-size="12.5" fill="#527078">有吃藥」；2025 年版指引轉述這篇時把 22% 標成生化性低下，和原文不一樣，這裡引的</text>
+<text x="60" y="3902.07" font-size="12.5" fill="#527078">是原文。</text>
+<rect x="40" y="3952.69" width="540" height="241.3" rx="14" fill="#ECE8DE"/>
+<text x="56" y="3982.69" font-size="14" fill="#123641" font-weight="800">誰比較容易在術後被驗出甲狀腺低下</text>
+<text x="56" y="4018.99" font-size="14" fill="#345963">術前 TSH 大於 2.5 的人，相對風險 3.16（2.03 到 4.90）。</text>
+<text x="56" y="4057.99" font-size="14" fill="#345963">甲狀腺抗體陽性 3.52。</text>
+<text x="56" y="4096.99" font-size="14" fill="#345963">病理上有甲狀腺炎 3.30。</text>
+<text x="56" y="4135.99" font-size="14" fill="#345963">這一組的終點是「被診斷為甲狀腺低下」，不是「開始吃藥」。相對風險是兩組各</text>
+<text x="56" y="4156.99" font-size="14" fill="#345963">自發生的比例相除，和前面那個看發生速度的風險比不是同一個算法。</text>
+<text x="40" y="4243.99" font-size="22" fill="#123641" font-weight="800" class="r">五、補全切：有多少人會走到，代價是什麼</text>
+<g filter="url(#sh)">
+<rect x="40" y="4263.47" width="540" height="253" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="4297.47" font-size="14" fill="#527078" font-weight="700">回溯研究</text>
+<text x="60" y="4321.47" font-size="14" fill="#345963">5% 到 43%</text>
+<text x="60" y="4353.47" font-size="14" fill="#527078" font-weight="700">統合分析</text>
+<text x="60" y="4377.47" font-size="14" fill="#345963">11% 到 34%</text>
+<text x="60" y="4409.47" font-size="14" fill="#527078" font-weight="700">術中因為發現高風險特徵而當場轉成全切</text>
+<text x="60" y="4433.47" font-size="14" fill="#345963">約 21%</text>
+<text x="60" y="4465.47" font-size="14" fill="#527078" font-weight="700">依最終病理補做全切</text>
+<text x="60" y="4489.47" font-size="14" fill="#345963">約 27% 到 30%</text>
+<rect x="40" y="4532.47" width="540" height="124.3" rx="14" fill="#F6E2E0"/>
+<text x="56" y="4562.47" font-size="14" fill="#B04A4A" font-weight="800">2025 年版直接寫了一句要讓病人事先知道的話</text>
+<text x="56" y="4598.77" font-size="14" fill="#345963">有至少兩成的可能，會在術中轉成全切、或之後補做全切。選了半切，就要先知道</text>
+<text x="56" y="4619.77" font-size="14" fill="#345963">有機會走到第二次手術。</text>
+<g filter="url(#sh)">
+<rect x="40" y="4672.77" width="540" height="151.6" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<circle cx="64.5" cy="4701.45" r="4" fill="#C9A83E"/>
+<text x="79" y="4706.77" font-size="14" fill="#345963">一個 786 人的單一機構世代裡，先單葉再補全切的 149 人，暫時性副甲狀腺</text>
+<text x="79" y="4727.49" font-size="14" fill="#345963">低下反而比一次做完全切的 637 人少。</text>
+<circle cx="64.5" cy="4750.89" r="4" fill="#C9A83E"/>
+<text x="79" y="4756.21" font-size="14" fill="#345963">另一份 70,638 人的全國手術品質登錄裡，兩者的 30 天死亡率都是 0.1%，整</text>
+<text x="79" y="4776.93" font-size="14" fill="#345963">體併發症也相當；但那份登錄不收錄副甲狀腺低下與喉返神經麻痺，它說的「</text>
+<text x="79" y="4797.65" font-size="14" fill="#345963">安全」不能拿來談聲音和血鈣。</text>
+<text x="40" y="4874.37" font-size="22" fill="#123641" font-weight="800" class="r">六、兩邊各要付什麼</text>
+<g filter="url(#sh)">
+<rect x="40" y="4893.85" width="540" height="204.6" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="4913.85" width="143.5" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="71" y="4931.35" font-size="13.5" fill="#FFFFFF" font-weight="800">全切相對於單葉切除</text>
+<circle cx="64.5" cy="4959.53" r="4" fill="#B04A4A"/>
+<text x="79" y="4964.85" font-size="14" fill="#345963">統合分析算出來的相對風險：暫時性低血鈣接近十倍。</text>
+<circle cx="64.5" cy="4988.25" r="4" fill="#B04A4A"/>
+<text x="79" y="4993.57" font-size="14" fill="#345963">永久性低血鈣約三倍。</text>
+<circle cx="64.5" cy="5016.97" r="4" fill="#B04A4A"/>
+<text x="79" y="5022.29" font-size="14" fill="#345963">喉返神經傷害與術後出血都落在一點七到二點六之間。</text>
+<circle cx="64.5" cy="5045.69" r="4" fill="#B04A4A"/>
+<text x="79" y="5051.01" font-size="14" fill="#345963">這張圖刻意不給絕對百分比——那些數字取決於那家醫院怎麼查喉、以及把幾個</text>
+<text x="79" y="5071.73" font-size="14" fill="#345963">月算成永久。每一個數字的分母與定義，寫在〈開完刀會少掉什麼〉。</text>
+<g filter="url(#sh)">
+<rect x="40" y="5112.45" width="540" height="246.04" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="5132.45" width="89.5" height="25" rx="12.5" fill="#00806B"/>
+<text x="71" y="5149.95" font-size="13.5" fill="#FFFFFF" font-weight="800">半切這一側</text>
+<circle cx="64.5" cy="5178.13" r="4" fill="#00806B"/>
+<text x="79" y="5183.45" font-size="14" fill="#345963">有機會走到第二次手術（上一段那幾個區間）。</text>
+<circle cx="64.5" cy="5206.85" r="4" fill="#00806B"/>
+<text x="79" y="5212.17" font-size="14" fill="#345963">2025 年版寫：單葉切除之後的復發，大多出現在對側那一葉，而且多半靠補</text>
+<text x="79" y="5232.89" font-size="14" fill="#345963">做全切救得回來。</text>
+<circle cx="64.5" cy="5256.29" r="4" fill="#00806B"/>
+<text x="79" y="5261.61" font-size="14" fill="#345963">日本一個 30 年的世代裡，1,327 位接受單葉切除的低風險乳突微小癌病人中，</text>
+<text x="79" y="5282.33" font-size="14" fill="#345963">有 18 人（1.4%）在殘餘的甲狀腺復發。</text>
+<circle cx="64.5" cy="5305.73" r="4" fill="#00806B"/>
+<text x="79" y="5311.05" font-size="14" fill="#345963">追蹤不是比較輕鬆，是看的東西不一樣——留著半邊甲狀腺，甲狀腺球蛋白的判</text>
+<text x="79" y="5331.77" font-size="14" fill="#345963">讀基準就跟全切不同。</text>
+<rect x="40" y="5384.49" width="540" height="436.35" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="66" y="5430.49" font-size="18" fill="#B04A4A" font-weight="800">這張圖不能被讀成什麼</text>
+<text x="66" y="5462.09" font-size="15.5" fill="#345963">「全部切掉比較乾淨」不是這條線的依據。2 公分以內那一格，指引寫</text>
+<text x="66" y="5485.34" font-size="15.5" fill="#345963">的是起始手術應該是單葉切除，強烈建議、中等確定性。</text>
+<text x="66" y="5518.59" font-size="15.5" fill="#345963">資料庫那幾篇的終點是整體存活，不是疾病特異性存活；而且兩組本來</text>
+<text x="66" y="5541.84" font-size="15.5" fill="#345963">就不是同一群人（淋巴結轉移 27% 比 7%、甲狀腺外侵犯 16% 比 5%、</text>
+<text x="66" y="5565.09" font-size="15.5" fill="#345963">多發病灶 44% 比 29%）。看不出差別，不等於證明沒有差別。</text>
+<text x="66" y="5598.34" font-size="15.5" fill="#345963">「半切就不用吃藥」要看目標訂在哪。目標訂在正常參考範圍時大約七</text>
+<text x="66" y="5621.59" font-size="15.5" fill="#345963">到八成不必補充，舊的低目標下只剩兩到三成；下面那幾個世代用的都</text>
+<text x="66" y="5644.84" font-size="15.5" fill="#345963">是舊目標那條線。</text>
+<text x="66" y="5678.09" font-size="15.5" fill="#345963">半切能省掉的不是「一輩子的藥」，而是全切之後必然的終身替代。</text>
+<text x="66" y="5711.34" font-size="15.5" fill="#345963">這張圖不能拿來自己決定切多少。要不要開刀在〈不開刀先看著，但有</text>
+<text x="66" y="5734.59" font-size="15.5" fill="#345963">條件〉，淋巴結要不要一起處理在〈淋巴結要不要一起清〉，併發症的</text>
+<text x="66" y="5757.84" font-size="15.5" fill="#345963">分母與定義在〈開完刀會少掉什麼〉，藥要吃到多少在〈吃一輩子的那</text>
+<text x="66" y="5781.09" font-size="15.5" fill="#345963">顆藥，要吃到多少〉。</text>
+<g filter="url(#sh)">
+<rect x="40" y="5836.84" width="540" height="245.4" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="5874.84" font-size="18" fill="#8F7418" font-weight="800">切多少，問誰、問什麼</text>
+<circle cx="64.5" cy="5902.21" r="4" fill="#C9A83E"/>
+<text x="79" y="5908.1" font-size="15.5" fill="#345963">我這顆量起來幾公分？落在 2 公分以內那一格嗎？</text>
+<circle cx="64.5" cy="5933.15" r="4" fill="#C9A83E"/>
+<text x="79" y="5939.04" font-size="15.5" fill="#345963">你評估我需不需要做放射碘？如果需要，是不是就得全切？</text>
+<circle cx="64.5" cy="5964.09" r="4" fill="#C9A83E"/>
+<text x="79" y="5969.98" font-size="15.5" fill="#345963">如果術中冰凍或術後病理跑出高風險特徵，你會建議我補全切嗎？機率</text>
+<text x="79" y="5992.92" font-size="15.5" fill="#345963">大概多少？</text>
+<circle cx="64.5" cy="6017.97" r="4" fill="#C9A83E"/>
+<text x="79" y="6023.86" font-size="15.5" fill="#345963">如果我半切，你會什麼時候幫我驗 TSH？多少以上你會開藥？</text>
+<circle cx="64.5" cy="6048.91" r="4" fill="#C9A83E"/>
+<text x="79" y="6054.8" font-size="15.5" fill="#345963">如果我選半切，我需要放棄什麼？</text>
+<text x="40" y="6102.24" font-size="15" fill="#527078">示意圖，依 2025 年與 2015 年美國甲狀腺學會指引、美國癌症資料庫兩次分析、</text>
+<text x="40" y="6125.49" font-size="15" fill="#527078">全美理賠資料、單葉切除後甲狀腺低下的兩篇統合分析與補全切的兩個世代重繪，</text>
+<text x="40" y="6148.74" font-size="15" fill="#527078">非擷取自原論文圖表；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

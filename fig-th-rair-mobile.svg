@@ -1,0 +1,257 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="6250" viewBox="0 0 620 6250" role="img" aria-labelledby="t d">
+  <title id="t">放射碘無效：判準，以及四個試驗各自量到什麼</title>
+  <desc id="d">示意圖，分成兩欄：左欄是放射碘無效的判準，右欄是四個第三期試驗的人數、中位無惡化存活與風險比。圖的最上方橫過一條灰底說明：左欄整套判準，指引都沒有給它證據等級——兩道門檻指引列為良好實務、沒有給證據等級；真正的判準寫在那兩條底下的討論段，同樣沒有標註建議強度；而且指引自己也寫，這套判準還會繼續改。左欄第一格是兩道門檻，掛著「良好實務，沒有給證據等級」的標籤：第一，沒接受過消融或治療劑量放射碘的人不能被診斷為放射碘無效，符合條件的人應該先做才知道答案；第二，已經被判定無效的人不該再接受經驗性放射碘，要考慮其他治療。第二格是強的判準兩項：影像或正子造影看得到病灶，但治療後掃描沒有碘的攝取；或在一次適當劑量的放射碘治療（治療後掃描有攝取）之後，不到六個月疾病就惡化。第三格是輔助判準兩項：診斷性掃描沒有攝取但影像看得到病灶，這預測反應較差、但仍有人治療後掃描是陽性；以及只有部分病灶有攝取，不排除放射碘、但單靠它不夠。接著一格寫無效不等於來日無多：指引在同一節裡逐字寫著有些病人會在三到五年內過世，但也有長期存活、疾病穩定或進展極緩慢的人；所以無效之後的第一個處置常常不是吃藥——無症狀、穩定或只有極輕微進展、或本身有明顯共病的人，可以在抑制性甲狀腺素治療下每三到十二個月照一次影像，有條件建議、低確定性。再一格是黃底的：開始吃藥的門檻是影像不是抽血——指引要求啟動全身性藥物的條件是影像上看得到的病灶正在進展，不是一條往上爬的抽血曲線；單憑甲狀腺球蛋白上升，指引明文寫它不構成啟動全身性治療的理由；下面那些試驗收的本來就是影像上有惡化的人。左欄最後一格寫開始全身性治療之前要先用腫瘤組織做生物標記檢測，強烈建議、中等確定性，並說明依基因挑的藥效果很好但撐著它的人數很少，那幾個數字寫在正文裡，這張圖只放第三期。右欄最上面是一格紅底的提醒：信賴區間不都是 95%——lenvatinib 的風險比 0.21 是 99% 信賴區間；cabozantinib 期中分析的反應率是 99% 信賴區間；cabozantinib 的無惡化存活風險比 0.22 是 96% 信賴區間；sorafenib 與 BRAF 第三期的風險比才是 95% 信賴區間。底下註記：信賴區間的層級不一樣，區間的寬窄就不能放在同一句話裡讀；另外如果看到 cabozantinib 寫「中位無惡化存活尚未到達」，那是期中那版的舊說法，現在該用的是 2022 年的延長分析。接著是四張試驗卡，每一張畫兩根同尺的橫條，用藥在上、對照在下，單位是月。lenvatinib 的第三期收 392 名放射碘無效、進展中的分化型甲狀腺癌病人（用藥 261、安慰劑 131），中位無惡化存活 18.3 個月對 3.6 個月，風險比 0.21（0.14 到 0.31），標籤寫 99% 信賴區間；反應率 64.8%（其中 4 個完全反應）對 1.5%；總存活這一項，這個試驗根本沒有發表過總存活的風險比或檢定，只寫了兩組的中位總存活都還沒到達；因不良事件停藥 14.2% 對 2.3%，治療期間 20 例死亡中 6 例判定與藥物有關，高血壓、腹瀉、疲倦、食慾與體重下降都超過四成。sorafenib 的第三期收 417 人（用藥 207、安慰劑 210），中位無惡化存活 10.8 個月對 5.8 個月，風險比 0.59（0.45 到 0.76），95% 信賴區間；總存活沒有做出顯著差異，風險比 0.80（0.54 到 1.19）；安慰劑組有 71.4% 的人在惡化後換吃了這個藥，作者自己寫總存活的結果可能被這件事混淆；反應率 12.2%（24/196）全是部分反應；劑量中斷 66.2%、減量 64.3%、因不良事件停藥 18.8%，嚴重不良事件 37.2% 對 26.3%。cabozantinib 的第三期用 2022 年的延長分析：258 人隨機、中位追蹤 10.1 個月，中位無惡化存活 11.0 個月對 1.9 個月，風險比 0.22（0.15 到 0.32），標籤寫 96% 信賴區間；11.0 個月的區間是 96% 信賴區間 7.4 到 13.8；反應率 11.0%（95% 信賴區間 6.9 到 16.9）對 0，三級或四級不良事件 62% 對 28%；總存活的風險比 0.76（0.45 到 1.31）同樣不顯著，作者寫交叉會讓往後的總存活分析更難解讀；期中分析（187 人）的反應率是前 100 名隨機者中的 10/67（15%，99% 信賴區間 5.8 到 29.3）對 0/33，沒有達到預設的顯著門檻。BRAF 的第三期是指引寫完之後才讀出的：153 名曾接受過治療、BRAF V600E 陽性、放射碘無效的分化型甲狀腺癌病人，隨機分成 101 對 52，中位無惡化存活 12.8 個月對 3.7 個月，分層風險比 0.38（0.25 到 0.57），95% 信賴區間；12.8 個月的區間是 95% 信賴區間 10.2 到 21.2；反應率 57% 對 4%；總存活的期中分析還沒有達到顯著（分層風險比 0.66，0.36 到 1.19），而且那個試驗還在進行；作者的結論寫的是二線用法，受試者有 86% 是亞洲人，那只是族裔組成、不是「特別適合誰」。四張卡下面一格寫四個試驗不是頭對頭比較：指引逐字承認從來沒有隨機試驗直接比較過第一線那兩個藥，它的取捨是沒有可對應標靶的進展性病人用這兩個藥之一、多數情況 lenvatinib 是首選（強烈建議、高確定性），cabozantinib 用在曾用過上述藥物並惡化的人（強烈建議、高確定性）——這是順序，不是排名。再一格寫再分化：國際甲狀腺腫瘤學組 2025 年的聲明寫碘攝取恢復的比例在各試驗之間是33% 到 95%、腫瘤反應率 11% 到 80%，而試驗之間在納入條件、用藥時間、放射碘活度、劑量計量上差異很大，最關鍵的一句是「Randomised studies are missing」；唯一完成的第三期問的還不是救援——ASTRA 收術後高風險、未依基因篩選的病人，233 人隨機，十八個月完全緩解率 40% 對 38%，勝算比 1.07（95% 信賴區間 0.61 到 1.87），陰性。右欄最後一格寫台灣那一段不在這張圖上：有沒有藥證、健保有沒有收載、給付規定有沒有寫這個癌別與條件是三件事，答案不一樣，混著講必定出錯；這張圖不寫哪一支藥在台灣給付於哪一種甲狀腺癌，逐字條文在〈在台灣，這條路怎麼走〉那一篇。兩欄之間是一條垂直的虛線，圖上沒有任何箭頭把左欄的判準連到右欄的某一支藥。圖的最後是一個紅框的界線區塊，標題是「這張圖不會替你把四個試驗排成一張排行榜」，內容四條：四格用同一把尺畫是為了看見每一格自己的兩根柱子差多少，不是為了比較哪一支藥的柱子比較長，族群、線數、對照組都不同；每一個信賴區間都標了層級，99%、96%、95% 的區間不能放在同一句話裡比寬窄；這些藥買到的是把病灶壓住的時間，不是治癒；會不會讓人活得比較久，上面四個試驗沒有一個是為了回答這一題設計的——總存活在四個裡面都只是次要或探索性終點，而且四個都讓安慰劑組在惡化後換吃真藥，交叉本身就會把這個終點弄糊；逐一是 sorafenib 沒有做出顯著差異（0.80，0.54 到 1.19）、cabozantinib 的 0.76（0.45 到 1.31）同樣不顯著、dabrafenib 加 trametinib 的期中分析未達顯著（0.66，0.36 到 1.19）而那個試驗還在進行、lenvatinib 根本沒有發表過總存活的風險比或檢定；沒有一個證明了總存活的好處，那和「總存活沒有好處」不是同一句，第二句這張圖不寫；再分化沒有隨機證據，唯一完成的第三期是陰性的，而且它問的還不是救援。最後一格是三句門診提問：我被判定放射碘無效是根據哪一條判準；我的病灶現在有在長嗎、比上次長了多少；如果吃了三個月沒有把病灶壓住，我們的下一步是什麼。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="6250" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">HOW &quot;REFRACTORY&quot; IS DEFINED - AND WHAT</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">EACH TRIAL ACTUALLY MEASURED</text>
+<text x="40" y="144" font-size="38" fill="#123641" font-weight="800" class="r">判準在左邊，試驗在右邊；</text>
+<text x="40" y="191.88" font-size="38" fill="#123641" font-weight="800" class="r">信賴區間不都是 95%</text>
+<text x="40" y="251.76" font-size="19" fill="#527078">「放射碘對你沒有用了」是一個判準，有明文寫法。左欄是那套</text>
+<text x="40" y="280.26" font-size="19" fill="#527078">判準，以及指引把它擺在什麼位置；右欄是四個試驗各自的人數、</text>
+<text x="40" y="308.76" font-size="19" fill="#527078">中位無惡化存活與風險比。</text>
+<text x="40" y="343.26" font-size="19" fill="#527078">每一個風險比後面都標了它的信賴區間是幾成——因為它們不都是</text>
+<text x="40" y="371.76" font-size="19" fill="#527078">95%。台灣哪一支藥給付在哪一種甲狀腺癌，這張圖不寫。</text>
+<rect x="40" y="424.26" width="540" height="176.73" rx="14" fill="#ECE8DE"/>
+<text x="56" y="455.76" font-size="15.5" fill="#123641" font-weight="800">左欄整套判準，指引都沒有給它證據等級</text>
+<text x="56" y="495.74" font-size="15.5" fill="#345963">兩道門檻指引列為良好實務，沒有給證據等級；真正的判準寫在那兩條底</text>
+<text x="56" y="518.99" font-size="15.5" fill="#345963">下的討論段，同樣沒有標註建議強度。</text>
+<text x="56" y="561.74" font-size="15.5" fill="#345963">指引自己也寫，這套判準還會繼續改。</text>
+<text x="40" y="654.99" font-size="22" fill="#123641" font-weight="800" class="r">左欄　「無效」是怎麼被判定的</text>
+<text x="40" y="680.47" font-size="14" fill="#527078">先是兩道門檻，然後才是判準本身。</text>
+<g filter="url(#sh)">
+<rect x="40" y="699.47" width="540" height="312.76" rx="18" fill="#FFFFFF" stroke="#5C77C4" stroke-width="2.5"/>
+</g>
+<text x="60" y="737.47" font-size="18" fill="#5C77C4" font-weight="800">兩道門檻</text>
+<rect x="60" y="767.59" width="184" height="25" rx="12.5" fill="#FFFFFF" stroke="#5C77C4" stroke-width="1.6"/>
+<text x="71" y="785.08" font-size="13.5" fill="#5C77C4" font-weight="800">良好實務，沒有給證據等級</text>
+<circle cx="75" cy="819.59" r="15" fill="#5C77C4"/>
+<text x="75" y="824.45" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="102" y="821.14" font-size="18" fill="#123641" font-weight="800">沒做過，不能被判定無效</text>
+<text x="102" y="860.9" font-size="14" fill="#345963">沒接受過消融或治療劑量放射碘的人不能被診斷為放射碘無效；符合條件</text>
+<text x="102" y="881.9" font-size="14" fill="#345963">的人應該先做才知道答案。</text>
+<circle cx="75" cy="929.9" r="15" fill="#5C77C4"/>
+<text x="75" y="934.76" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="102" y="931.46" font-size="18" fill="#123641" font-weight="800">判定無效之後，不再給經驗性放射碘</text>
+<text x="102" y="971.22" font-size="14" fill="#345963">已經被判定無效的人不該再接受經驗性放射碘，要考慮其他治療。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1026.22" width="540" height="275.76" rx="18" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.5"/>
+</g>
+<text x="60" y="1064.22" font-size="18" fill="#B04A4A" font-weight="800">強的判準：兩項</text>
+<circle cx="75" cy="1109.34" r="15" fill="#B04A4A"/>
+<text x="75" y="1114.2" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="102" y="1110.9" font-size="18" fill="#123641" font-weight="800">看得到，但不吃碘</text>
+<text x="102" y="1150.66" font-size="14" fill="#345963">影像或正子造影看得到病灶，但治療後掃描沒有碘的攝取。</text>
+<circle cx="75" cy="1198.66" r="15" fill="#B04A4A"/>
+<text x="75" y="1203.52" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="102" y="1200.22" font-size="18" fill="#123641" font-weight="800">做了，很快就惡化</text>
+<text x="102" y="1239.98" font-size="14" fill="#345963">在一次適當劑量的放射碘治療（治療後掃描有攝取）之後，不到六個月疾</text>
+<text x="102" y="1260.98" font-size="14" fill="#345963">病就惡化。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1315.98" width="540" height="275.76" rx="18" fill="#FFFFFF" stroke="#96790F" stroke-width="2.5"/>
+</g>
+<text x="60" y="1353.98" font-size="18" fill="#96790F" font-weight="800">輔助判準：兩項</text>
+<circle cx="75" cy="1399.1" r="15" fill="#96790F"/>
+<text x="75" y="1403.96" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="102" y="1400.66" font-size="18" fill="#123641" font-weight="800">診斷性掃描沒有攝取</text>
+<text x="102" y="1440.42" font-size="14" fill="#345963">診斷性掃描沒有攝取但影像看得到病灶。這預測反應較差，但仍有人治療</text>
+<text x="102" y="1461.42" font-size="14" fill="#345963">後掃描是陽性。</text>
+<circle cx="75" cy="1509.42" r="15" fill="#96790F"/>
+<text x="75" y="1514.28" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="102" y="1510.98" font-size="18" fill="#123641" font-weight="800">只有部分病灶有攝取</text>
+<text x="102" y="1550.74" font-size="14" fill="#345963">不排除放射碘，但單靠它不夠。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1605.74" width="540" height="245.37" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="1643.74" font-size="18" fill="#00806B" font-weight="800">無效不等於來日無多</text>
+<text x="60" y="1691.36" font-size="15.5" fill="#345963">指引在同一節裡逐字寫著：有些病人會在三到五年內過世，但也有長期存</text>
+<text x="60" y="1714.61" font-size="15.5" fill="#345963">活、疾病穩定或進展極緩慢的人。</text>
+<text x="60" y="1761.36" font-size="15.5" fill="#345963">所以「無效」之後的第一個處置常常不是吃藥：無症狀、穩定或只有極輕</text>
+<text x="60" y="1784.61" font-size="15.5" fill="#345963">微進展、或本身有明顯共病的人，可以在抑制性甲狀腺素治療下每三到十</text>
+<text x="60" y="1807.86" font-size="15.5" fill="#345963">二個月照一次影像（有條件建議、低確定性）。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1865.11" width="540" height="207.72" rx="18" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2"/>
+</g>
+<text x="60" y="1903.11" font-size="18" fill="#8F7418" font-weight="800">開始吃藥的門檻，是影像不是抽血</text>
+<circle cx="64.5" cy="1943.91" r="4" fill="#8F7418"/>
+<text x="79" y="1949.23" font-size="14" fill="#345963">指引要求啟動全身性藥物的條件是影像上看得到的病灶正在進展，不是一條往</text>
+<text x="79" y="1969.95" font-size="14" fill="#345963">上爬的抽血曲線。</text>
+<circle cx="64.5" cy="1992.35" r="4" fill="#8F7418"/>
+<text x="79" y="1997.67" font-size="14" fill="#345963">單憑甲狀腺球蛋白上升，指引明文寫它不構成啟動全身性治療的理由。</text>
+<circle cx="64.5" cy="2020.07" r="4" fill="#8F7418"/>
+<text x="79" y="2025.39" font-size="14" fill="#345963">下面那些試驗收的本來就是影像上有惡化的人；用不同的人去套那個結論，換</text>
+<text x="79" y="2046.11" font-size="14" fill="#345963">不到結果，副作用倒是照單全收。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2086.83" width="540" height="146.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="2124.83" font-size="18" fill="#5C77C4" font-weight="800">開始全身性治療之前，先用腫瘤組織做生物標記檢測</text>
+<text x="60" y="2170.95" font-size="14" fill="#345963">強烈建議、中等確定性。依基因挑的藥效果很好，但撐著它的人數很少——那幾個</text>
+<text x="60" y="2191.95" font-size="14" fill="#345963">數字寫在正文裡，這張圖只放第三期。</text>
+<line x1="40" y1="2262.95" x2="580" y2="2262.95" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<rect x="161.5" y="2250.95" width="297" height="24" rx="12" fill="#F7F1E4"/>
+<text x="310" y="2267.45" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">右欄　四個試驗：人數、中位無惡化存活、風險比</text>
+<text x="40" y="2342.95" font-size="22" fill="#123641" font-weight="800" class="r">右欄　四個試驗：人數、中位無惡化存活、風險比</text>
+<text x="40" y="2368.43" font-size="14" fill="#527078">橫條是中位無惡化存活（月），用藥在上、對照在下，四格用同一把尺畫；但四個試驗</text>
+<text x="40" y="2389.43" font-size="14" fill="#527078">的族群、線數與對照組都不同，長度不是可以互比的結論。</text>
+<rect x="40" y="2408.43" width="540" height="64.3" rx="14" fill="#F6E2E0"/>
+<text x="56" y="2438.43" font-size="14" fill="#B04A4A" font-weight="800">這一格要特別看：信賴區間不都是 95%</text>
+<rect x="40" y="2466.73" width="540" height="312" rx="14" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="60" y="2484.73" font-size="14" fill="#527078" font-weight="700">lenvatinib 的風險比 0.21</text>
+<text x="60" y="2508.73" font-size="14" fill="#345963">99% 信賴區間</text>
+<text x="60" y="2536.73" font-size="14" fill="#527078" font-weight="700">cabozantinib 的反應率（期中分析）</text>
+<text x="60" y="2560.73" font-size="14" fill="#345963">99% 信賴區間</text>
+<text x="60" y="2588.73" font-size="14" fill="#527078" font-weight="700">cabozantinib 的無惡化存活風險比 0.22</text>
+<text x="60" y="2612.73" font-size="14" fill="#345963">96% 信賴區間</text>
+<text x="60" y="2640.73" font-size="14" fill="#527078" font-weight="700">sorafenib 與 BRAF 第三期的風險比</text>
+<text x="60" y="2664.73" font-size="14" fill="#345963">95% 信賴區間</text>
+<text x="60" y="2695.73" font-size="14" fill="#345963">信賴區間的層級不一樣，區間的寬窄就不能放在同一句話裡讀。另外：如果你看</text>
+<text x="60" y="2716.73" font-size="14" fill="#345963">到 cabozantinib 寫「中位無惡化存活尚未到達」，那是期中那版的舊說法，現</text>
+<text x="60" y="2737.73" font-size="14" fill="#345963">在該用的是 2022 年的延長分析。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2792.73" width="540" height="425.82" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="2830.73" font-size="18" fill="#00806B" font-weight="800">lenvatinib 的第三期</text>
+<text x="60" y="2871.35" font-size="12.5" fill="#527078">392 名放射碘無效、進展中的分化型甲狀腺癌病人（用藥 261、安慰劑 131）</text>
+<text x="60" y="2914.1" font-size="14" fill="#527078" font-weight="700">用藥</text>
+<rect x="60" y="2919.7" width="415.25" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="2919.7" width="379.95" height="26" rx="7" fill="#00806B"/>
+<text x="487.25" y="2938.02" font-size="14" fill="#00806B" font-weight="800">18.3 個月</text>
+<text x="60" y="2968.7" font-size="14" fill="#527078" font-weight="700">安慰劑</text>
+<rect x="60" y="2974.3" width="423.93" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="2974.3" width="76.31" height="26" rx="7" fill="#7A6E58"/>
+<text x="495.93" y="2992.62" font-size="14" fill="#7A6E58" font-weight="800">3.6 個月</text>
+<text x="60" y="3029.8" font-size="15.5" fill="#123641" font-weight="800">風險比 0.21（0.14 到 0.31）</text>
+<rect x="60" y="3041.55" width="108.56" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="71" y="3059.05" font-size="13.5" fill="#FFFFFF" font-weight="800">99% 信賴區間</text>
+<text x="60" y="3092.55" font-size="14" fill="#345963">反應率 64.8%（其中 4 個完全反應）對 1.5%。總存活：這個試驗根本沒有發表</text>
+<text x="60" y="3113.55" font-size="14" fill="#345963">過總存活的風險比或檢定，只寫了兩組的中位總存活都還沒到達。</text>
+<text x="60" y="3156.55" font-size="14" fill="#345963">代價：因不良事件停藥 14.2% 對 2.3%；治療期間 20 例死亡中 6 例判定與藥物</text>
+<text x="60" y="3177.55" font-size="14" fill="#345963">有關；高血壓、腹瀉、疲倦、食慾與體重下降都超過四成。</text>
+<g filter="url(#sh)">
+<rect x="40" y="3232.55" width="540" height="425.82" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="3270.55" font-size="18" fill="#96790F" font-weight="800">sorafenib 的第三期</text>
+<text x="60" y="3311.17" font-size="12.5" fill="#527078">417 人（用藥 207、安慰劑 210），放射碘無效、局部晚期或轉移且進展中</text>
+<text x="60" y="3353.92" font-size="14" fill="#527078" font-weight="700">用藥</text>
+<rect x="60" y="3359.52" width="415.25" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="3359.52" width="224.23" height="26" rx="7" fill="#96790F"/>
+<text x="487.25" y="3377.84" font-size="14" fill="#96790F" font-weight="800">10.8 個月</text>
+<text x="60" y="3408.52" font-size="14" fill="#527078" font-weight="700">安慰劑</text>
+<rect x="60" y="3414.12" width="423.93" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="3414.12" width="122.94" height="26" rx="7" fill="#7A6E58"/>
+<text x="495.93" y="3432.44" font-size="14" fill="#7A6E58" font-weight="800">5.8 個月</text>
+<text x="60" y="3469.62" font-size="15.5" fill="#123641" font-weight="800">風險比 0.59（0.45 到 0.76）</text>
+<rect x="60" y="3481.37" width="108.56" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="71" y="3498.87" font-size="13.5" fill="#FFFFFF" font-weight="800">95% 信賴區間</text>
+<text x="60" y="3532.37" font-size="14" fill="#345963">總存活沒有做出顯著差異，風險比 0.80（0.54 到 1.19）；安慰劑組有 71.4%</text>
+<text x="60" y="3553.37" font-size="14" fill="#345963">的人在惡化後換吃了這個藥，作者自己寫總存活的結果可能被這件事混淆。</text>
+<text x="60" y="3596.37" font-size="14" fill="#345963">反應率 12.2%（24/196）全是部分反應。劑量中斷 66.2%、減量 64.3%、因不</text>
+<text x="60" y="3617.37" font-size="14" fill="#345963">良事件停藥 18.8%；嚴重不良事件 37.2% 對 26.3%。</text>
+<g filter="url(#sh)">
+<rect x="40" y="3672.37" width="540" height="467.82" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="3710.37" font-size="18" fill="#5C77C4" font-weight="800">cabozantinib 的第三期（2022 年延長分析）</text>
+<text x="60" y="3750.99" font-size="12.5" fill="#527078">258 人隨機、中位追蹤 10.1 個月；用在曾用過上述藥物並惡化的人</text>
+<text x="60" y="3793.74" font-size="14" fill="#527078" font-weight="700">用藥</text>
+<rect x="60" y="3799.34" width="415.25" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="3799.34" width="228.39" height="26" rx="7" fill="#5C77C4"/>
+<text x="487.25" y="3817.66" font-size="14" fill="#5C77C4" font-weight="800">11.0 個月</text>
+<text x="60" y="3848.34" font-size="14" fill="#527078" font-weight="700">對照</text>
+<rect x="60" y="3853.94" width="423.93" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="3853.94" width="40.27" height="26" rx="7" fill="#7A6E58"/>
+<text x="495.93" y="3872.26" font-size="14" fill="#7A6E58" font-weight="800">1.9 個月</text>
+<text x="60" y="3909.44" font-size="15.5" fill="#123641" font-weight="800">風險比 0.22（0.15 到 0.32）</text>
+<rect x="60" y="3921.19" width="108.56" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="71" y="3938.69" font-size="13.5" fill="#FFFFFF" font-weight="800">96% 信賴區間</text>
+<text x="60" y="3972.19" font-size="14" fill="#345963">中位無惡化存活 11.0 個月的區間是 96% 信賴區間 7.4 到 13.8。反應率 11.0%</text>
+<text x="60" y="3993.19" font-size="14" fill="#345963">（95% 信賴區間 6.9 到 16.9）對 0；三級或四級不良事件 62% 對 28%。總存活</text>
+<text x="60" y="4014.19" font-size="14" fill="#345963">的風險比 0.76（0.45 到 1.31）同樣不顯著，作者寫交叉會讓往後的總存活分析</text>
+<text x="60" y="4035.19" font-size="14" fill="#345963">更難解讀。</text>
+<text x="60" y="4078.19" font-size="14" fill="#345963">期中分析（187 人）的反應率是前 100 名隨機者中的 10/67（15%，99% 信賴</text>
+<text x="60" y="4099.19" font-size="14" fill="#345963">區間 5.8 到 29.3）對 0/33，沒有達到預設的顯著門檻。</text>
+<g filter="url(#sh)">
+<rect x="40" y="4154.19" width="540" height="465.57" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="4192.19" font-size="18" fill="#B04A4A" font-weight="800">BRAF 的第三期（指引寫完之後才讀出）</text>
+<text x="60" y="4232.81" font-size="12.5" fill="#527078">153 名曾接受過治療、BRAF V600E 陽性、放射碘無效的分化型甲狀腺癌病人，隨機分</text>
+<text x="60" y="4251.56" font-size="12.5" fill="#527078">成 101 對 52</text>
+<text x="60" y="4294.31" font-size="14" fill="#527078" font-weight="700">用藥</text>
+<rect x="60" y="4299.91" width="415.25" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="4299.91" width="265.76" height="26" rx="7" fill="#B04A4A"/>
+<text x="487.25" y="4318.23" font-size="14" fill="#B04A4A" font-weight="800">12.8 個月</text>
+<text x="60" y="4348.91" font-size="14" fill="#527078" font-weight="700">對照</text>
+<rect x="60" y="4354.51" width="423.93" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="4354.51" width="78.43" height="26" rx="7" fill="#7A6E58"/>
+<text x="495.93" y="4372.83" font-size="14" fill="#7A6E58" font-weight="800">3.7 個月</text>
+<text x="60" y="4410.01" font-size="15.5" fill="#123641" font-weight="800">分層風險比 0.38（0.25 到 0.57）</text>
+<rect x="60" y="4421.76" width="108.56" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="71" y="4439.26" font-size="13.5" fill="#FFFFFF" font-weight="800">95% 信賴區間</text>
+<text x="60" y="4472.76" font-size="14" fill="#345963">中位無惡化存活 12.8 個月的區間是 95% 信賴區間 10.2 到 21.2。反應率 57%</text>
+<text x="60" y="4493.76" font-size="14" fill="#345963">對 4%。</text>
+<text x="60" y="4536.76" font-size="14" fill="#345963">總存活的期中分析還沒有達到顯著（分層風險比 0.66，0.36 到 1.19），而且那</text>
+<text x="60" y="4557.76" font-size="14" fill="#345963">個試驗還在進行。作者的結論寫的是二線用法；受試者有 86% 是亞洲人，那只是</text>
+<text x="60" y="4578.76" font-size="14" fill="#345963">族裔組成，不是「特別適合誰」。</text>
+<g filter="url(#sh)">
+<rect x="40" y="4633.76" width="540" height="245.37" rx="18" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+</g>
+<text x="60" y="4671.76" font-size="18" fill="#123641" font-weight="800">四個試驗不是頭對頭比較</text>
+<text x="60" y="4719.38" font-size="15.5" fill="#345963">指引逐字承認，從來沒有隨機試驗直接比較過第一線那兩個藥。它的取捨</text>
+<text x="60" y="4742.63" font-size="15.5" fill="#345963">是：沒有可對應標靶的進展性病人用這兩個藥之一，多數情況</text>
+<text x="60" y="4765.88" font-size="15.5" fill="#345963">lenvatinib 是首選（強烈建議、高確定性）。</text>
+<text x="60" y="4812.63" font-size="15.5" fill="#345963">cabozantinib 用在曾用過上述藥物並惡化的人（強烈建議、高確定性）。</text>
+<text x="60" y="4835.88" font-size="15.5" fill="#345963">這是順序，不是排名。</text>
+<g filter="url(#sh)">
+<rect x="40" y="4893.13" width="540" height="273.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="4931.13" font-size="18" fill="#B04A4A" font-weight="800">再分化：沒有隨機證據，唯一的第三期是陰性</text>
+<text x="60" y="4977.25" font-size="14" fill="#345963">國際甲狀腺腫瘤學組 2025 年的聲明寫得很坦白：碘攝取恢復的比例在各試驗之</text>
+<text x="60" y="4998.25" font-size="14" fill="#345963">間是 33% 到 95%、腫瘤反應率 11% 到 80%，而試驗之間在納入條件、用藥時間、</text>
+<text x="60" y="5019.25" font-size="14" fill="#345963">放射碘活度、劑量計量上差異很大；最關鍵的一句是「Randomised studies</text>
+<text x="60" y="5040.25" font-size="14" fill="#345963">are missing」——缺的正是隨機試驗。</text>
+<text x="60" y="5083.25" font-size="14" fill="#345963">唯一完成的第三期問的還不是救援：ASTRA 收術後高風險、未依基因篩選的病</text>
+<text x="60" y="5104.25" font-size="14" fill="#345963">人，233 人隨機，十八個月完全緩解率 40% 對 38%，勝算比 1.07（95% 信賴區</text>
+<text x="60" y="5125.25" font-size="14" fill="#345963">間 0.61 到 1.87），陰性。</text>
+<g filter="url(#sh)">
+<rect x="40" y="5180.25" width="540" height="210.12" rx="18" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2"/>
+</g>
+<text x="60" y="5218.25" font-size="18" fill="#8F7418" font-weight="800">台灣那一段，不在這張圖上</text>
+<text x="60" y="5264.37" font-size="14" fill="#345963">有沒有藥證、健保有沒有收載、給付規定有沒有寫這個癌別與條件，是三件事，</text>
+<text x="60" y="5285.37" font-size="14" fill="#345963">答案不一樣，混著講必定出錯。</text>
+<text x="60" y="5328.37" font-size="14" fill="#345963">這張圖不寫哪一支藥在台灣給付於哪一種甲狀腺癌。逐字條文在〈在台灣，這條</text>
+<text x="60" y="5349.37" font-size="14" fill="#345963">路怎麼走〉那一篇。</text>
+<rect x="40" y="5416.37" width="540" height="496.1" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="66" y="5462.37" font-size="18" fill="#B04A4A" font-weight="800">這張圖不會替你把四個試驗排成一張排行榜</text>
+<text x="66" y="5493.97" font-size="15.5" fill="#345963">四格用同一把尺畫，是為了讓你看見每一格自己的兩根柱子差多少，不</text>
+<text x="66" y="5517.22" font-size="15.5" fill="#345963">是為了讓你比較哪一支藥的柱子比較長。族群、線數、對照組都不同，</text>
+<text x="66" y="5540.47" font-size="15.5" fill="#345963">指引自己也寫從來沒有隨機試驗直接比較過。</text>
+<text x="66" y="5573.72" font-size="15.5" fill="#345963">每一個信賴區間都標了層級。99%、96%、95% 的區間不能放在同一句</text>
+<text x="66" y="5596.97" font-size="15.5" fill="#345963">話裡比寬窄。</text>
+<text x="66" y="5630.22" font-size="15.5" fill="#345963">這些藥買到的是把病灶壓住的時間，不是治癒。會不會讓人活得比較久，</text>
+<text x="66" y="5653.47" font-size="15.5" fill="#345963">上面四個試驗沒有一個是為了回答這一題設計的：總存活在四個裡面都</text>
+<text x="66" y="5676.72" font-size="15.5" fill="#345963">只是次要或探索性終點，而且四個都讓安慰劑組在惡化後換吃真藥，交</text>
+<text x="66" y="5699.97" font-size="15.5" fill="#345963">叉本身就會把這個終點弄糊。逐一是這樣：sorafenib 沒有做出顯著差</text>
+<text x="66" y="5723.22" font-size="15.5" fill="#345963">異（0.80，0.54 到 1.19）；cabozantinib 的 0.76（0.45 到 1.31）</text>
+<text x="66" y="5746.47" font-size="15.5" fill="#345963">同樣不顯著；dabrafenib 加 trametinib 的期中分析未達顯著（0.66，</text>
+<text x="66" y="5769.72" font-size="15.5" fill="#345963">0.36 到 1.19），那個試驗還在進行；lenvatinib 根本沒有發表過總存</text>
+<text x="66" y="5792.97" font-size="15.5" fill="#345963">活的風險比或檢定。沒有一個證明了總存活的好處——那和「總存活沒有</text>
+<text x="66" y="5816.22" font-size="15.5" fill="#345963">好處」不是同一句，第二句這張圖不寫。</text>
+<text x="66" y="5849.47" font-size="15.5" fill="#345963">再分化沒有隨機證據，唯一完成的第三期是陰性的，而且它問的還不是</text>
+<text x="66" y="5872.72" font-size="15.5" fill="#345963">救援。</text>
+<g filter="url(#sh)">
+<rect x="40" y="5928.47" width="540" height="172.94" rx="18" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+</g>
+<text x="60" y="5966.47" font-size="18" fill="#8F7418" font-weight="800">開始用藥之前，問這三句</text>
+<circle cx="64.5" cy="6008.2" r="4" fill="#8F7418"/>
+<text x="79" y="6014.09" font-size="15.5" fill="#345963">「我被判定放射碘無效，是根據哪一條判準？」</text>
+<circle cx="64.5" cy="6038.14" r="4" fill="#8F7418"/>
+<text x="79" y="6044.03" font-size="15.5" fill="#345963">「我的病灶現在有在長嗎？比上次長了多少？」</text>
+<circle cx="64.5" cy="6068.08" r="4" fill="#8F7418"/>
+<text x="79" y="6073.97" font-size="15.5" fill="#345963">「如果吃了三個月沒有把病灶壓住，我們的下一步是什麼？」</text>
+<text x="40" y="6121.41" font-size="15" fill="#527078">示意圖，依美國甲狀腺學會 2025 年版分化型甲狀腺癌指引、lenvatinib 與</text>
+<text x="40" y="6144.66" font-size="15" fill="#527078">sorafenib 的兩個第三期試驗、cabozantinib 第三期的期中分析與 2022 年延</text>
+<text x="40" y="6167.91" font-size="15" fill="#527078">長分析、2026 年讀出的 BRAF 第三期、國際甲狀腺腫瘤學組 2025 年的再分化</text>
+<text x="40" y="6191.16" font-size="15" fill="#527078">聲明與 ASTRA 試驗重繪，非擷取自原論文圖表；各研究族群、設計與終點不同，</text>
+<text x="40" y="6214.41" font-size="15" fill="#527078">數點不可直接互比。</text>
+  </g>
+</svg>

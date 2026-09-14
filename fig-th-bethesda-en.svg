@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2906" viewBox="0 0 1440 2906" role="img" aria-labelledby="t d">
+  <title id="t">The six Bethesda categories, third edition (2023)</title>
+  <desc id="d">Schematic setting out the six categories of the 2023 third edition of the Bethesda System for Reporting Thyroid Cytopathology as six rows, each with its risk of malignancy and its next step. Each row carries the category number and the third edition's English name on the left, the average risk of malignancy with its expected range and a proportional bar in the middle, and the road that category leads to on the right. Four labels travel with the figures: third edition, adults, average with the expected range in brackets, and the endpoint is malignancy confirmed on histology after resection. The six rows run in order from category I to category VI, each bar drawn to the same scale from zero to a hundred, and the colour deepens as the risk rises, from the neutral tone of the first row through teal and gold to the red of the last two. Category I, nondiagnostic, 13% (5-20), leading to a repeat FNA with ultrasound guidance; the figure notes that category I does not mean nothing is wrong, but that nothing was obtained this time. Category II, benign, 4% (2-7), leading to clinical and sonographic follow-up. Category III, atypia of undetermined significance, 22% (13-30), leading to a repeat FNA, molecular testing, diagnostic lobectomy, or surveillance. Category IV, follicular neoplasm, 30% (23-34), leading to molecular testing or diagnostic lobectomy. Category V, suspicious for malignancy, 74% (67-83), leading into the discussion about surgery. Category VI, malignant, 97% (97-100), leading into the same discussion. The second part opens category III, which the third edition split into two subcategories: AUS-nuclear, atypia of the nuclei, at 36% to 44% on resected specimens, and AUS-other, atypia of other kinds, at 15% to 23%. A note beside them records that a second review splits &quot;other&quot; more finely still, with nuclear atypia 36% to 48%, architectural atypia 10% to 20% and oncocytic 5% to 6%, and that when a report says category III the next question worth asking is which kind of category III, since asking it can turn 22% into 15% or into 44%. The third part lists three things that make an old report and a new one disagree. First, the names changed, which does not mean the old report was read wrongly: AUS/FLUS is now simply AUS; FN/SFN is now simply FN, and &quot;suspicious for a follicular neoplasm&quot; has been removed; unsatisfactory is now nondiagnostic. Second, after a tumour called NIFTP was reclassified as not cancer, the risk of malignancy fell in every category by 1.3% to 9.1%, so reading the percentages of an older report against a newer one gives the wrong answer. Third, categories I and III each carry a quality line: adequacy has an objective standard of at least six groups of well-visualised follicular cells, each of at least ten cells, on one or more slides, and anything short of that falls into category I; while category III should not exceed roughly 7% to 10% of all fine-needle specimens and the ratio of category III to category VI should stay under 3, because a category used too freely is itself a quality problem. Nothing in the figure turns a category into a decision on its own: each row pairs its risk with the step it leads to, and the two lowest categories lead to another sample or to follow-up rather than to an operation, while the two highest lead into a conversation about surgery rather than to surgery itself. The figure ends with a red-bordered block headed &quot;These are not your odds&quot;, holding four statements: the six figures are averages whose denominator is a whole series of specimens that went on to resection and histology, not the reader's own sample, so a category III reading 22% does not mean a 22% chance of cancer; the number has nothing to do with stage and is not an answer to &quot;what stage am I&quot;, being a cytology category that answers only how likely this sample is to be malignant; the risks and next steps are carried over, because both papers state that their tables are adapted with permission from the third-edition book, which was not obtained; and what a reader can say out loud once they have the number is which category the report is, whether a category III is the nuclear kind or the other kind, and which edition of the classification the report uses.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2906" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">THE BETHESDA SYSTEM, THIRD EDITION (2023) - SIX NUMBERS, SIX NEXT STEPS</text>
+<text x="84" y="142" font-size="38" fill="#123641" font-weight="800" class="r">Reading that number on your fine-needle report</text>
+<text x="84" y="201.88" font-size="19" fill="#527078">The number has nothing to do with stage. It is a cytology category, and it answers one question: how likely is it that this sample is</text>
+<text x="84" y="230.38" font-size="19" fill="#527078">malignant. Each category also carries a different next step.</text>
+<text x="84" y="264.88" font-size="19" fill="#527078">The version in use is the third edition, published in 2023. It leaves one name for each category, and its wording is aligned with the</text>
+<text x="84" y="293.38" font-size="19" fill="#527078">2022 World Health Organization classification of thyroid neoplasms.</text>
+<text x="84" y="391.88" font-size="22" fill="#123641" font-weight="800" class="r">Six numbers, six risks, six roads</text>
+<text x="84" y="417.36" font-size="14" fill="#527078">Four labels travel with this set of figures: third edition, adults, average with the expected range in brackets, and the endpoint is malignancy confirmed on histology after</text>
+<text x="84" y="438.36" font-size="14" fill="#527078">resection.</text>
+<g filter="url(#sh)">
+<rect x="84" y="457.36" width="1272" height="150.42" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="104" y="477.36" width="103.49" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="115" y="494.86" font-size="13.5" fill="#FFFFFF" font-weight="800">Category I</text>
+<text x="104" y="529.36" font-size="18" fill="#123641" font-weight="800">nondiagnostic</text>
+<text x="104" y="567.48" font-size="14" fill="#527078">not enough to read</text>
+<text x="484" y="491.36" font-size="14" fill="#527078" font-weight="700">Risk of malignancy (average and range)</text>
+<text x="484" y="539.04" font-size="28" fill="#7A6E58" font-weight="800">13%</text>
+<text x="544.87" y="539.04" font-size="14" fill="#527078">(5-20)</text>
+<rect x="484" y="546.32" width="306.8" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="484" y="546.32" width="39.88" height="14" rx="5" fill="#7A6E58"/>
+<text x="816.8" y="491.36" font-size="14" fill="#527078" font-weight="700">What it leads to next</text>
+<text x="816.8" y="526.96" font-size="14" fill="#345963">Repeat FNA with ultrasound guidance. Category I does not mean</text>
+<text x="816.8" y="547.96" font-size="14" fill="#345963">&quot;nothing wrong&quot;; it means nothing was obtained this time.</text>
+<g filter="url(#sh)">
+<rect x="84" y="619.78" width="1272" height="150.42" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="104" y="639.78" width="108.35" height="25" rx="12.5" fill="#00806B"/>
+<text x="115" y="657.27" font-size="13.5" fill="#FFFFFF" font-weight="800">Category II</text>
+<text x="104" y="691.78" font-size="18" fill="#123641" font-weight="800">benign</text>
+<text x="104" y="729.9" font-size="14" fill="#527078">benign</text>
+<text x="484" y="653.78" font-size="14" fill="#527078" font-weight="700">Risk of malignancy (average and range)</text>
+<text x="484" y="701.46" font-size="28" fill="#00806B" font-weight="800">4%</text>
+<text x="527.14" y="701.46" font-size="14" fill="#527078">(2-7)</text>
+<rect x="484" y="708.74" width="306.8" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="484" y="708.74" width="12.27" height="14" rx="5" fill="#00806B"/>
+<text x="816.8" y="653.78" font-size="14" fill="#527078" font-weight="700">What it leads to next</text>
+<text x="816.8" y="689.38" font-size="14" fill="#345963">Clinical and sonographic follow-up.</text>
+<g filter="url(#sh)">
+<rect x="84" y="782.2" width="1272" height="150.42" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="104" y="802.2" width="113.21" height="25" rx="12.5" fill="#96790F"/>
+<text x="115" y="819.69" font-size="13.5" fill="#FFFFFF" font-weight="800">Category III</text>
+<text x="104" y="854.2" font-size="18" fill="#123641" font-weight="800">atypia of undetermined significance</text>
+<text x="104" y="892.32" font-size="14" fill="#527078">atypia whose meaning is undetermined</text>
+<text x="484" y="816.2" font-size="14" fill="#527078" font-weight="700">Risk of malignancy (average and range)</text>
+<text x="484" y="863.88" font-size="28" fill="#96790F" font-weight="800">22%</text>
+<text x="544.87" y="863.88" font-size="14" fill="#527078">(13-30)</text>
+<rect x="484" y="871.16" width="306.8" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="484" y="871.16" width="67.5" height="14" rx="5" fill="#96790F"/>
+<text x="816.8" y="816.2" font-size="14" fill="#527078" font-weight="700">What it leads to next</text>
+<text x="816.8" y="851.8" font-size="14" fill="#345963">Repeat FNA, molecular testing, diagnostic lobectomy, or surveillance.</text>
+<text x="816.8" y="872.8" font-size="14" fill="#345963">This category holds two subgroups; see the next part.</text>
+<g filter="url(#sh)">
+<rect x="84" y="944.62" width="1272" height="150.42" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="104" y="964.62" width="114.66" height="25" rx="12.5" fill="#96790F"/>
+<text x="115" y="982.11" font-size="13.5" fill="#FFFFFF" font-weight="800">Category IV</text>
+<text x="104" y="1016.62" font-size="18" fill="#123641" font-weight="800">follicular neoplasm</text>
+<text x="104" y="1054.74" font-size="14" fill="#527078">a follicular neoplasm</text>
+<text x="484" y="978.62" font-size="14" fill="#527078" font-weight="700">Risk of malignancy (average and range)</text>
+<text x="484" y="1026.3" font-size="28" fill="#96790F" font-weight="800">30%</text>
+<text x="544.87" y="1026.3" font-size="14" fill="#527078">(23-34)</text>
+<rect x="484" y="1033.58" width="306.8" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="484" y="1033.58" width="92.04" height="14" rx="5" fill="#96790F"/>
+<text x="816.8" y="978.62" font-size="14" fill="#527078" font-weight="700">What it leads to next</text>
+<text x="816.8" y="1014.22" font-size="14" fill="#345963">Molecular testing or diagnostic lobectomy.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1107.04" width="1272" height="150.42" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="104" y="1127.04" width="109.8" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="115" y="1144.53" font-size="13.5" fill="#FFFFFF" font-weight="800">Category V</text>
+<text x="104" y="1179.04" font-size="18" fill="#123641" font-weight="800">suspicious for malignancy</text>
+<text x="104" y="1217.16" font-size="14" fill="#527078">suspicious for malignancy</text>
+<text x="484" y="1141.04" font-size="14" fill="#527078" font-weight="700">Risk of malignancy (average and range)</text>
+<text x="484" y="1188.72" font-size="28" fill="#B04A4A" font-weight="800">74%</text>
+<text x="544.87" y="1188.72" font-size="14" fill="#527078">(67-83)</text>
+<rect x="484" y="1196" width="306.8" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="484" y="1196" width="227.03" height="14" rx="5" fill="#B04A4A"/>
+<text x="816.8" y="1141.04" font-size="14" fill="#527078" font-weight="700">What it leads to next</text>
+<text x="816.8" y="1176.64" font-size="14" fill="#345963">Into the discussion about surgery.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1269.46" width="1272" height="150.42" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="104" y="1289.46" width="114.66" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="115" y="1306.95" font-size="13.5" fill="#FFFFFF" font-weight="800">Category VI</text>
+<text x="104" y="1341.46" font-size="18" fill="#123641" font-weight="800">malignant</text>
+<text x="104" y="1379.58" font-size="14" fill="#527078">malignant</text>
+<text x="484" y="1303.46" font-size="14" fill="#527078" font-weight="700">Risk of malignancy (average and range)</text>
+<text x="484" y="1351.14" font-size="28" fill="#B04A4A" font-weight="800">97%</text>
+<text x="544.87" y="1351.14" font-size="14" fill="#527078">(97-100)</text>
+<rect x="484" y="1358.42" width="306.8" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="484" y="1358.42" width="297.6" height="14" rx="5" fill="#B04A4A"/>
+<text x="816.8" y="1303.46" font-size="14" fill="#527078" font-weight="700">What it leads to next</text>
+<text x="816.8" y="1339.06" font-size="14" fill="#345963">Into the discussion about surgery.</text>
+<text x="84" y="1469.88" font-size="22" fill="#123641" font-weight="800" class="r">Category III holds two cells, not one</text>
+<text x="84" y="1495.36" font-size="14" fill="#527078">Category III is the one that causes the most anxiety, because 22% is neither reassuring enough to ignore nor high enough to operate on. The third edition did something practical</text>
+<text x="84" y="1516.36" font-size="14" fill="#527078">here: it split the category in two.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1535.36" width="624" height="177.34" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2"/>
+</g>
+<rect x="102" y="1553.36" width="121.31" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="113" y="1570.85" font-size="13.5" fill="#FFFFFF" font-weight="800">AUS-nuclear</text>
+<text x="102" y="1602.36" font-size="14" fill="#527078">atypia of the nuclei</text>
+<text x="102" y="1650.74" font-size="28" fill="#B04A4A" font-weight="800">36% to 44%</text>
+<text x="102" y="1673.7" font-size="14" fill="#345963">On resected specimens this cell carries the clearly higher risk of malignancy.</text>
+<g filter="url(#sh)">
+<rect x="732" y="1535.36" width="624" height="177.34" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2"/>
+</g>
+<rect x="750" y="1553.36" width="103.49" height="25" rx="12.5" fill="#00806B"/>
+<text x="761" y="1570.85" font-size="13.5" fill="#FFFFFF" font-weight="800">AUS-other</text>
+<text x="750" y="1602.36" font-size="14" fill="#527078">atypia of other kinds</text>
+<text x="750" y="1650.74" font-size="28" fill="#00806B" font-weight="800">15% to 23%</text>
+<text x="750" y="1673.7" font-size="14" fill="#345963">In the same third-edition data this cell is clearly lower.</text>
+<rect x="84" y="1728.7" width="1272" height="142.3" rx="14" fill="#F3E8CD"/>
+<text x="100" y="1758.7" font-size="14" fill="#8F7418" font-weight="800">A second review splits &quot;other&quot; more finely still</text>
+<text x="100" y="1795" font-size="14" fill="#345963">Nuclear atypia 36% to 48%, architectural atypia 10% to 20%, oncocytic 5% to 6%.</text>
+<text x="100" y="1834" font-size="14" fill="#345963">So when a report says category III, the next question worth asking is which kind of category III. Asking it can turn 22% into 15%, or into 44%.</text>
+<text x="84" y="1921" font-size="22" fill="#123641" font-weight="800" class="r">Three things that make an old report and a new one disagree</text>
+<g filter="url(#sh)">
+<rect x="84" y="1940.48" width="1272" height="177.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="106" y="1980.48" font-size="18" fill="#123641" font-weight="800">One: the names changed, which does not mean the old report was read wrongly</text>
+<text x="106" y="2024.6" font-size="14" fill="#527078" font-weight="700">AUS / FLUS</text>
+<text x="523.52" y="2024.6" font-size="14" fill="#345963">now simply AUS</text>
+<text x="106" y="2056.6" font-size="14" fill="#527078" font-weight="700">FN / SFN</text>
+<text x="523.52" y="2056.6" font-size="14" fill="#345963">now simply FN; &quot;suspicious for a follicular neoplasm&quot; has been removed</text>
+<text x="106" y="2088.6" font-size="14" fill="#527078" font-weight="700">unsatisfactory</text>
+<text x="523.52" y="2088.6" font-size="14" fill="#345963">now nondiagnostic</text>
+<rect x="84" y="2131.6" width="1272" height="142.3" rx="14" fill="#ECE8DE"/>
+<text x="100" y="2161.6" font-size="14" fill="#123641" font-weight="800">Two: after NIFTP was reclassified, every percentage moved down</text>
+<text x="100" y="2197.9" font-size="14" fill="#345963">Once the third edition reclassified a tumour called NIFTP as not cancer, the risk of malignancy fell in every category, by 1.3% to 9.1%.</text>
+<text x="100" y="2236.9" font-size="14" fill="#345963">So reading the percentages of an older report against a newer one gives the wrong answer.</text>
+<rect x="84" y="2287.9" width="1272" height="184.3" rx="14" fill="#ECE8DE"/>
+<text x="100" y="2317.9" font-size="14" fill="#123641" font-weight="800">Three: categories I and III each carry a quality line</text>
+<text x="100" y="2354.2" font-size="14" fill="#345963">Adequacy has an objective standard: at least six groups of well-visualised follicular cells, each of at least ten cells, on one or more slides. Anything short of that falls into</text>
+<text x="100" y="2375.2" font-size="14" fill="#345963">category I.</text>
+<text x="100" y="2414.2" font-size="14" fill="#345963">Category III should not exceed roughly 7% to 10% of all fine-needle specimens, and the ratio of category III to category VI should stay under 3. A category used too freely is</text>
+<text x="100" y="2435.2" font-size="14" fill="#345963">itself a quality problem.</text>
+<rect x="84" y="2494.2" width="1272" height="310.1" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="2540.2" font-size="18" fill="#B04A4A" font-weight="800">These are not your odds</text>
+<text x="110" y="2571.8" font-size="15.5" fill="#345963">These six figures are averages, and their denominator is a whole series of specimens that went on to resection and histology. It is not your sample. A</text>
+<text x="110" y="2595.05" font-size="15.5" fill="#345963">category III reading 22% does not mean you have a 22% chance of cancer.</text>
+<text x="110" y="2628.3" font-size="15.5" fill="#345963">The number has nothing to do with stage, and it is not &quot;what stage am I&quot;. It is a cytology category answering one question only: how likely is it that this</text>
+<text x="110" y="2651.55" font-size="15.5" fill="#345963">sample is malignant.</text>
+<text x="110" y="2684.8" font-size="15.5" fill="#345963">The risks and the next steps here are carried over: both papers state that their tables are adapted with permission from the third-edition book, which</text>
+<text x="110" y="2708.05" font-size="15.5" fill="#345963">was not obtained for this article.</text>
+<text x="110" y="2741.3" font-size="15.5" fill="#345963">What to say out loud once you have the number: which category is this report, and if it is category III, is it the nuclear kind or the other kind? Which</text>
+<text x="110" y="2764.55" font-size="15.5" fill="#345963">edition of the classification does this report use?</text>
+<text x="84" y="2824.3" font-size="15" fill="#527078">Schematic, redrawn from the 2023 Bethesda System for Reporting Thyroid Cytopathology, a 2025 review of thyroid cytopathology reporting systems and a 2026</text>
+<text x="84" y="2847.55" font-size="15" fill="#527078">review of the diagnostic process for thyroid nodules; not reproduced from the figures of the original papers. The cohorts, designs and endpoints of the underlying</text>
+<text x="84" y="2870.8" font-size="15" fill="#527078">studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

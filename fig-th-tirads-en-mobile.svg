@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="5902" viewBox="0 0 620 5902" role="img" aria-labelledby="t d">
+  <title id="t">Four ultrasound tables, one nodule, four answers</title>
+  <desc id="d">Schematic in four parts, showing that four ultrasound risk-stratification systems do not give the same answer about the same thyroid nodule. The first part sets the four tables side by side: ACR TI-RADS (American College of Radiology, white paper), the five sonographic patterns of the 2015 American Thyroid Association guidelines, the European EU-TIRADS, and the Korean K-TIRADS. Each column carries two proportional bars whose figures come from one meta-analysis of 11 primary studies of nodules 1 cm and larger, with 95% confidence intervals in brackets. The figure states that the denominator of the unnecessary-biopsy rate is not everyone scanned but the nodules the table recommends biopsying, and the numerator is those of them that turned out benign. Unnecessary biopsy rate: ACR TI-RADS 41% (32-49), ATA 2015 65% (56-74), EU-TIRADS 68% (60-75), K-TIRADS 2016 edition 79% (74-83). The sensitivities run almost in the reverse order: K-TIRADS 2016 edition 96% (94-97), ATA 2015 89% (85-93), EU-TIRADS 88% (81-92), ACR TI-RADS 82% (74-87). The K-TIRADS column adds that once the 2021 edition moved to a 1.5 cm cutoff the unnecessary biopsy rate fell to 50% (47-53) and the sensitivity fell with it to 76% (74-79), and that the current edition is 2021, not 2016; that column's cutoffs come from the 225-nodule comparison study and are the same ones listed in the 2021 Korean consensus. Each column lists its own biopsy cutoffs. ACR TI-RADS: TR3 at 2.5 cm and above, TR4 at 1.5 cm and above, TR5 at 1 cm and above, where TR3 is 3 points, TR4 is 4 to 6 points and TR5 is 7 or more, and rim calcification is scored by this table alone. ATA 2015, Recommendation 8: high suspicion biopsied at 1 cm and above (strong recommendation, moderate-quality evidence), intermediate suspicion at 1 cm and above (strong recommendation, low-quality evidence), low suspicion only at 1.5 cm and above and only as a weak recommendation, very low suspicion merely &quot;considered&quot; at 2 cm and above, and purely cystic nodules not biopsied (strong recommendation); the risk estimates in the same document are 70% to over 90% for high suspicion, 10% to 20% for intermediate, 5% to 10% for low, under 3% for very low and under 1% for purely cystic. EU-TIRADS: category 3 at 20 mm and above, category 4 at 15 mm and above, category 5 at 10 mm and above. K-TIRADS: category 3 at 2 cm and above, category 4 between 1 and 1.5 cm, category 5 at 1 cm and above. The figure states on its face that neither the ACR white paper nor the original European guideline could be obtained in full, so the categories and cutoffs shown are carried over from the comparison study that lists all three tables column by column rather than copied from the primary documents; and that the 2025 edition from the American Thyroid Association dropped thyroid nodules altogether, with no newer nodule document published, so that column is the 2015 edition and not the latest. A grey note beside this part explains that a second meta-analysis, of 67 studies and 76,512 nodules, compares classification cutoffs rather than biopsy recommendations and therefore ranks the systems differently; the two ask different questions, so the figure declines to rank them. The second part is three horizontal bars comparing how many cancers each table missed in the same series. The cohort is a single-centre prospective study of 225 nodules, of which 23.1% proved malignant, with three tables run over all of them: ACR TI-RADS missed 11 malignancies, EU-TIRADS missed 5, K-TIRADS missed 3. A line underneath records that the misses share one appearance, a solid hyperechoic nodule between 1.0 and 1.5 cm across, and that it runs the other way too, since rim calcification is scored by ACR TI-RADS alone. The third part is that nodule as a worked case, in three panels, for one nodule on one day on one ultrasound image: ACR TI-RADS calls it TR3 with only 3 points, where the biopsy cutoff is 2.5 cm and above, so it is not biopsied; EU-TIRADS calls it category 5, cutoff 1.0 cm and above, so it is biopsied; K-TIRADS calls it category 4, cutoff 1.0 cm and above, so it is biopsied. A yellow note below explains that the K-TIRADS category 4 cell holds a range rather than a single number: the table in that comparison study gives the cutoff as between 1 and 1.5 cm because that cell is a range in the first place, the cutoff being set between 1 and 1.5 cm according to the ultrasound features, the position of the nodule and clinical factors, so this nodule of 1.0 to 1.5 cm sits at the bottom of the range, at 1.0 cm; these three cutoffs are the same ones listed in the 2021 Korean consensus. The fourth part shows that one table performs differently on large and small nodules, in a series of 3,826 nodules 1 cm and larger of which 85.7% were benign and 14.3% malignant: below 2 cm, ACR TI-RADS spares the most unnecessary biopsies at 76.3% and has the lowest sensitivity of the five at 76.1%; above 2 cm, ACR TI-RADS reaches a sensitivity of 88.8%, clearly below the 98.7% to 99.3% of the other systems. The closing line of that part is that which table happened to read your nodule, and how large that nodule happens to be, together decide whether you are biopsied today; this is not a complaint but the present state of things. The figure ends with a red-bordered block headed &quot;This figure will not score your nodule&quot;, holding four statements: no column here lets a reader work out their own points, because the score comes from shape features on the image judged by the person at the machine; unnecessary-biopsy rate and sensitivity are two ends of one set of scales, so catching more means biopsying more and biopsying less means missing more, and the question of which table is most accurate has no answer, with no system chosen for the reader; the ACR white paper and the original European guideline could not be obtained in full, so the categories and cutoffs shown are carried over from the comparison study; and what a reader can do is ask out loud which system their report uses, whether the report states a category, whether the decision under that system is being made by size or by shape, and whether another table would give a different answer.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="5902" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">FOUR ULTRASOUND TABLES - ONE NODULE,</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">FOUR ANSWERS</text>
+<text x="40" y="144" font-size="38" fill="#123641" font-weight="800" class="r">Four tables, and they do</text>
+<text x="40" y="191.88" font-size="38" fill="#123641" font-weight="800" class="r">not agree about the</text>
+<text x="40" y="239.76" font-size="38" fill="#123641" font-weight="800" class="r">same nodule</text>
+<text x="40" y="299.64" font-size="19" fill="#527078">An ultrasound risk-stratification system turns shape</text>
+<text x="40" y="328.14" font-size="19" fill="#527078">into a risk estimate, then attaches a size cutoff for</text>
+<text x="40" y="356.64" font-size="19" fill="#527078">&quot;large enough to biopsy&quot;. All four systems do that, and</text>
+<text x="40" y="385.14" font-size="19" fill="#527078">all four use different arithmetic and different cutoffs.</text>
+<text x="40" y="419.64" font-size="19" fill="#527078">This figure shows how they differ, and why none of</text>
+<text x="40" y="448.14" font-size="19" fill="#527078">them is &quot;the accurate one&quot;. It cannot be used, and is</text>
+<text x="40" y="476.64" font-size="19" fill="#527078">not meant to be used, to score your own nodule.</text>
+<text x="40" y="575.14" font-size="22" fill="#123641" font-weight="800" class="r">The four side by side: catch more and you</text>
+<text x="40" y="604.62" font-size="22" fill="#123641" font-weight="800" class="r">biopsy more, biopsy less and you miss</text>
+<text x="40" y="634.1" font-size="22" fill="#123641" font-weight="800" class="r">more</text>
+<text x="40" y="659.58" font-size="14" fill="#527078">Both numbers below come from one meta-analysis of 11 primary studies</text>
+<text x="40" y="680.58" font-size="14" fill="#527078">of nodules 1 cm and larger. The denominator of the unnecessary-biopsy</text>
+<text x="40" y="701.58" font-size="14" fill="#527078">rate is not everyone scanned but the nodules the table recommends</text>
+<text x="40" y="722.58" font-size="14" fill="#527078">biopsying, and the numerator is those of them that turned out benign;</text>
+<text x="40" y="743.58" font-size="14" fill="#527078">sensitivity is how many of the true cancers each table catches. The</text>
+<text x="40" y="764.58" font-size="14" fill="#527078">figures in brackets are 95% confidence intervals.</text>
+<g filter="url(#sh)">
+<rect x="40" y="783.58" width="540" height="407.86" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="58" y="801.58" width="126.33" height="25" rx="12.5" fill="#96790F"/>
+<text x="69" y="819.08" font-size="13.5" fill="#FFFFFF" font-weight="800">ACR TI-RADS</text>
+<text x="58" y="847.08" font-size="12.5" fill="#527078">American College of Radiology, white paper</text>
+<text x="58" y="887.21" font-size="14" fill="#527078" font-weight="700">Unnecessary FNA</text>
+<text x="562" y="887.21" font-size="14" fill="#96790F" font-weight="800" text-anchor="end">41% (32-49)</text>
+<rect x="58" y="892.81" width="504" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="58" y="892.81" width="206.64" height="14" rx="5" fill="#96790F"/>
+<text x="58" y="930.81" font-size="14" fill="#527078" font-weight="700">Sensitivity</text>
+<text x="562" y="930.81" font-size="14" fill="#96790F" font-weight="800" text-anchor="end">82% (74-87)</text>
+<rect x="58" y="936.41" width="504" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="58" y="936.41" width="413.28" height="14" rx="5" fill="#96790F"/>
+<circle cx="62.5" cy="971.09" r="4" fill="#96790F"/>
+<text x="77" y="976.41" font-size="14" fill="#345963">TR3: biopsy at 2.5 cm and above</text>
+<circle cx="62.5" cy="996.81" r="4" fill="#96790F"/>
+<text x="77" y="1002.13" font-size="14" fill="#345963">TR4: 1.5 cm and above</text>
+<circle cx="62.5" cy="1022.53" r="4" fill="#96790F"/>
+<text x="77" y="1027.85" font-size="14" fill="#345963">TR5: 1 cm and above</text>
+<text x="58" y="1058.57" font-size="14" fill="#345963">It is a points system: TR3 is 3 points, TR4 is 4 to 6, TR5 is 7 or more.</text>
+<text x="58" y="1079.57" font-size="14" fill="#345963">Rim calcification is scored by this table alone.</text>
+<text x="58" y="1119.07" font-size="12.5" fill="#527078">The white paper itself could not be obtained in full; the categories and cutoffs</text>
+<text x="58" y="1137.19" font-size="12.5" fill="#527078">are carried over from the comparison study that lists all three tables column</text>
+<text x="58" y="1155.32" font-size="12.5" fill="#527078">by column.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1205.44" width="540" height="542.46" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="58" y="1223.44" width="168.61" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="69" y="1240.94" font-size="13.5" fill="#FFFFFF" font-weight="800">ATA 2015 patterns</text>
+<text x="58" y="1268.94" font-size="12.5" fill="#527078">American Thyroid Association, 2015 edition</text>
+<text x="58" y="1309.07" font-size="14" fill="#527078" font-weight="700">Unnecessary FNA</text>
+<text x="562" y="1309.07" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">65% (56-74)</text>
+<rect x="58" y="1314.67" width="504" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="58" y="1314.67" width="327.6" height="14" rx="5" fill="#7A6E58"/>
+<text x="58" y="1352.67" font-size="14" fill="#527078" font-weight="700">Sensitivity</text>
+<text x="562" y="1352.67" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">89% (85-93)</text>
+<rect x="58" y="1358.27" width="504" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="58" y="1358.27" width="448.56" height="14" rx="5" fill="#7A6E58"/>
+<circle cx="62.5" cy="1392.95" r="4" fill="#7A6E58"/>
+<text x="77" y="1398.27" font-size="14" fill="#345963">High suspicion: biopsy at 1 cm and above (strong recommendation,</text>
+<text x="77" y="1418.99" font-size="14" fill="#345963">moderate-quality evidence)</text>
+<circle cx="62.5" cy="1439.39" r="4" fill="#7A6E58"/>
+<text x="77" y="1444.71" font-size="14" fill="#345963">Intermediate suspicion: 1 cm and above (strong recommendation,</text>
+<text x="77" y="1465.43" font-size="14" fill="#345963">low-quality evidence)</text>
+<circle cx="62.5" cy="1485.83" r="4" fill="#7A6E58"/>
+<text x="77" y="1491.15" font-size="14" fill="#345963">Low suspicion: only at 1.5 cm and above, and only a weak</text>
+<text x="77" y="1511.87" font-size="14" fill="#345963">recommendation</text>
+<circle cx="62.5" cy="1532.27" r="4" fill="#7A6E58"/>
+<text x="77" y="1537.59" font-size="14" fill="#345963">Very low suspicion: &quot;consider&quot; biopsy at 2 cm and above</text>
+<circle cx="62.5" cy="1557.99" r="4" fill="#7A6E58"/>
+<text x="77" y="1563.31" font-size="14" fill="#345963">Purely cystic: no biopsy (strong recommendation)</text>
+<text x="58" y="1594.03" font-size="14" fill="#345963">The risk estimates in the same document: high suspicion 70% to over</text>
+<text x="58" y="1615.03" font-size="14" fill="#345963">90%, intermediate 10% to 20%, low 5% to 10%, very low under 3%,</text>
+<text x="58" y="1636.03" font-size="14" fill="#345963">purely cystic under 1%.</text>
+<text x="58" y="1675.53" font-size="12.5" fill="#527078">The 2025 edition from this society dropped thyroid nodules altogether, and no</text>
+<text x="58" y="1693.65" font-size="12.5" fill="#527078">newer nodule document has been published, so this column is the 2015 edition</text>
+<text x="58" y="1711.78" font-size="12.5" fill="#527078">and not &quot;the latest&quot;.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1761.9" width="540" height="389.73" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="58" y="1779.9" width="110.61" height="25" rx="12.5" fill="#00806B"/>
+<text x="69" y="1797.4" font-size="13.5" fill="#FFFFFF" font-weight="800">EU-TIRADS</text>
+<text x="58" y="1825.4" font-size="12.5" fill="#527078">European Thyroid Association</text>
+<text x="58" y="1865.53" font-size="14" fill="#527078" font-weight="700">Unnecessary FNA</text>
+<text x="562" y="1865.53" font-size="14" fill="#00806B" font-weight="800" text-anchor="end">68% (60-75)</text>
+<rect x="58" y="1871.13" width="504" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="58" y="1871.13" width="342.72" height="14" rx="5" fill="#00806B"/>
+<text x="58" y="1909.13" font-size="14" fill="#527078" font-weight="700">Sensitivity</text>
+<text x="562" y="1909.13" font-size="14" fill="#00806B" font-weight="800" text-anchor="end">88% (81-92)</text>
+<rect x="58" y="1914.73" width="504" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="58" y="1914.73" width="443.52" height="14" rx="5" fill="#00806B"/>
+<circle cx="62.5" cy="1949.41" r="4" fill="#00806B"/>
+<text x="77" y="1954.73" font-size="14" fill="#345963">Category 3: 20 mm and above</text>
+<circle cx="62.5" cy="1975.13" r="4" fill="#00806B"/>
+<text x="77" y="1980.45" font-size="14" fill="#345963">Category 4: 15 mm and above</text>
+<circle cx="62.5" cy="2000.85" r="4" fill="#00806B"/>
+<text x="77" y="2006.17" font-size="14" fill="#345963">Category 5: 10 mm and above</text>
+<text x="58" y="2036.89" font-size="14" fill="#345963">The cutoffs are written in millimetres rather than centimetres.</text>
+<text x="58" y="2057.89" font-size="14" fill="#345963">Converting them changes nothing: the three tables still do not line up.</text>
+<text x="58" y="2097.39" font-size="12.5" fill="#527078">The original European guideline could not be obtained in full either, so its</text>
+<text x="58" y="2115.51" font-size="12.5" fill="#527078">categories and cutoffs are carried over in the same way.</text>
+<g filter="url(#sh)">
+<rect x="40" y="2165.64" width="540" height="431.73" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="58" y="2183.64" width="99.44" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="69" y="2201.13" font-size="13.5" fill="#FFFFFF" font-weight="800">K-TIRADS</text>
+<text x="58" y="2229.14" font-size="12.5" fill="#527078">Korean Society of Thyroid Radiology (the current version is 2021, not 2016)</text>
+<text x="58" y="2269.26" font-size="14" fill="#527078" font-weight="700">Unnecessary FNA</text>
+<text x="562" y="2269.26" font-size="14" fill="#5C77C4" font-weight="800" text-anchor="end">2016 edition 79% (74-83)</text>
+<rect x="58" y="2274.86" width="504" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="58" y="2274.86" width="398.16" height="14" rx="5" fill="#5C77C4"/>
+<text x="58" y="2312.86" font-size="14" fill="#527078" font-weight="700">Sensitivity</text>
+<text x="562" y="2312.86" font-size="14" fill="#5C77C4" font-weight="800" text-anchor="end">2016 edition 96% (94-97)</text>
+<rect x="58" y="2318.46" width="504" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="58" y="2318.46" width="483.84" height="14" rx="5" fill="#5C77C4"/>
+<circle cx="62.5" cy="2353.14" r="4" fill="#5C77C4"/>
+<text x="77" y="2358.46" font-size="14" fill="#345963">Category 3: 2 cm and above</text>
+<circle cx="62.5" cy="2378.86" r="4" fill="#5C77C4"/>
+<text x="77" y="2384.18" font-size="14" fill="#345963">Category 4: between 1 and 1.5 cm</text>
+<circle cx="62.5" cy="2404.58" r="4" fill="#5C77C4"/>
+<text x="77" y="2409.9" font-size="14" fill="#345963">Category 5: 1 cm and above</text>
+<text x="58" y="2440.62" font-size="14" fill="#345963">When the 2021 edition moved to a 1.5 cm cutoff, the</text>
+<text x="58" y="2461.62" font-size="14" fill="#345963">unnecessary-biopsy rate fell to 50% (47-53) and the sensitivity fell</text>
+<text x="58" y="2482.62" font-size="14" fill="#345963">with it, to 76% (74-79). That is the same set of scales, seen from both</text>
+<text x="58" y="2503.62" font-size="14" fill="#345963">ends.</text>
+<text x="58" y="2543.12" font-size="12.5" fill="#527078">The cutoffs above come from the 225-nodule comparison study; these three</text>
+<text x="58" y="2561.24" font-size="12.5" fill="#527078">cutoffs are the same ones listed in the 2021 Korean consensus.</text>
+<rect x="40" y="2613.37" width="540" height="205.3" rx="14" fill="#ECE8DE"/>
+<text x="56" y="2643.37" font-size="14" fill="#123641" font-weight="800">Why this figure does not rank them</text>
+<text x="56" y="2679.67" font-size="14" fill="#345963">A second meta-analysis, of 67 studies and 76,512 nodules, compares</text>
+<text x="56" y="2700.67" font-size="14" fill="#345963">the classification cutoffs rather than the biopsy recommendations,</text>
+<text x="56" y="2721.67" font-size="14" fill="#345963">and it puts the systems in a different order.</text>
+<text x="56" y="2760.67" font-size="14" fill="#345963">The two ask different questions, so they give different answers.</text>
+<text x="56" y="2781.67" font-size="14" fill="#345963">There is no first place here.</text>
+<text x="40" y="2868.67" font-size="22" fill="#123641" font-weight="800" class="r">The same nodules, and the three tables</text>
+<text x="40" y="2898.15" font-size="22" fill="#123641" font-weight="800" class="r">miss different ones</text>
+<text x="40" y="2923.63" font-size="14" fill="#527078">A single-centre prospective study collected 225 nodules, of which 23.1%</text>
+<text x="40" y="2944.63" font-size="14" fill="#527078">turned out to be malignant, and ran three tables over all of them.</text>
+<text x="40" y="2965.63" font-size="14" fill="#527078">Prospective means the questions were fixed in advance and the patients</text>
+<text x="40" y="2986.63" font-size="14" fill="#527078">followed forwards, rather than old records read backwards.</text>
+<g filter="url(#sh)">
+<rect x="40" y="3005.63" width="540" height="337.64" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="62" y="3041.63" font-size="14" fill="#527078" font-weight="700">ACR TI-RADS</text>
+<rect x="62" y="3051.51" width="326" height="26" rx="7" fill="#F3E8CD"/>
+<rect x="62" y="3051.51" width="326" height="26" rx="7" fill="#96790F"/>
+<text x="400" y="3072.07" font-size="21" fill="#96790F" font-weight="800">11 missed</text>
+<text x="62" y="3105.51" font-size="14" fill="#527078" font-weight="700">EU-TIRADS</text>
+<rect x="62" y="3115.39" width="326" height="26" rx="7" fill="#D8EDE7"/>
+<rect x="62" y="3115.39" width="148.18" height="26" rx="7" fill="#00806B"/>
+<text x="400" y="3135.95" font-size="21" fill="#00806B" font-weight="800">5 missed</text>
+<text x="62" y="3169.39" font-size="14" fill="#527078" font-weight="700">K-TIRADS</text>
+<rect x="62" y="3179.27" width="326" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="62" y="3179.27" width="88.91" height="26" rx="7" fill="#5C77C4"/>
+<text x="400" y="3199.83" font-size="21" fill="#5C77C4" font-weight="800">3 missed</text>
+<text x="62" y="3237.27" font-size="14" fill="#345963">The misses share one appearance: a solid hyperechoic nodule</text>
+<text x="62" y="3258.27" font-size="14" fill="#345963">between 1.0 and 1.5 cm across. It runs the other way too - rim</text>
+<text x="62" y="3279.27" font-size="14" fill="#345963">calcification is scored by ACR TI-RADS alone, and the other two</text>
+<text x="62" y="3300.27" font-size="14" fill="#345963">tables do not count it at all.</text>
+<text x="40" y="3393.27" font-size="22" fill="#123641" font-weight="800" class="r">That nodule: solid, hyperechoic, 1.0 to 1.5</text>
+<text x="40" y="3422.75" font-size="22" fill="#123641" font-weight="800" class="r">cm</text>
+<text x="40" y="3448.23" font-size="14" fill="#527078">One nodule, one day, one ultrasound image. Below are the three answers</text>
+<text x="40" y="3469.23" font-size="14" fill="#527078">the three tables give it.</text>
+<g filter="url(#sh)">
+<rect x="40" y="3488.23" width="540" height="200.12" rx="18" fill="#F3E8CD" stroke="#96790F" stroke-width="2"/>
+</g>
+<rect x="58" y="3506.23" width="126.33" height="25" rx="12.5" fill="#96790F"/>
+<text x="69" y="3523.72" font-size="13.5" fill="#FFFFFF" font-weight="800">ACR TI-RADS</text>
+<text x="58" y="3559.23" font-size="18" fill="#123641" font-weight="800">TR3 (only 3 points)</text>
+<text x="58" y="3601.35" font-size="14" fill="#345963">Biopsy cutoff: 2.5 cm and above</text>
+<rect x="58" y="3634.35" width="171.32" height="36" rx="18" fill="#B04A4A"/>
+<text x="74" y="3659.01" font-size="18" fill="#FFFFFF" font-weight="800">Do not biopsy</text>
+<g filter="url(#sh)">
+<rect x="40" y="3702.35" width="540" height="200.12" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2"/>
+</g>
+<rect x="58" y="3720.35" width="110.61" height="25" rx="12.5" fill="#00806B"/>
+<text x="69" y="3737.84" font-size="13.5" fill="#FFFFFF" font-weight="800">EU-TIRADS</text>
+<text x="58" y="3773.35" font-size="18" fill="#123641" font-weight="800">Category 5</text>
+<text x="58" y="3815.47" font-size="14" fill="#345963">Biopsy cutoff: 1.0 cm and above</text>
+<rect x="58" y="3848.47" width="102.63" height="36" rx="18" fill="#00806B"/>
+<text x="74" y="3873.13" font-size="18" fill="#FFFFFF" font-weight="800">Biopsy</text>
+<g filter="url(#sh)">
+<rect x="40" y="3916.47" width="540" height="200.12" rx="18" fill="#E3E8F6" stroke="#5C77C4" stroke-width="2"/>
+</g>
+<rect x="58" y="3934.47" width="99.44" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="69" y="3951.96" font-size="13.5" fill="#FFFFFF" font-weight="800">K-TIRADS</text>
+<text x="58" y="3987.47" font-size="18" fill="#123641" font-weight="800">Category 4</text>
+<text x="58" y="4029.59" font-size="14" fill="#345963">Biopsy cutoff: 1.0 cm and above</text>
+<rect x="58" y="4062.59" width="102.63" height="36" rx="18" fill="#00806B"/>
+<text x="74" y="4087.25" font-size="18" fill="#FFFFFF" font-weight="800">Biopsy</text>
+<rect x="40" y="4132.59" width="540" height="268.3" rx="14" fill="#F3E8CD"/>
+<text x="56" y="4162.59" font-size="14" fill="#8F7418" font-weight="800">The K-TIRADS category 4 cell holds a range, not a single number</text>
+<text x="56" y="4198.89" font-size="14" fill="#345963">The table in that comparison study gives the K-TIRADS category 4</text>
+<text x="56" y="4219.89" font-size="14" fill="#345963">cutoff as between 1 and 1.5 cm, because that cell is a range in the</text>
+<text x="56" y="4240.89" font-size="14" fill="#345963">first place: the cutoff is to be set between 1 and 1.5 cm according to</text>
+<text x="56" y="4261.89" font-size="14" fill="#345963">the ultrasound features, the position of the nodule and clinical factors.</text>
+<text x="56" y="4282.89" font-size="14" fill="#345963">This nodule of 1.0 to 1.5 cm therefore sits at the bottom of that range,</text>
+<text x="56" y="4303.89" font-size="14" fill="#345963">at 1.0 cm.</text>
+<text x="56" y="4342.89" font-size="14" fill="#345963">These three cutoffs are the same ones listed in the 2021 Korean</text>
+<text x="56" y="4363.89" font-size="14" fill="#345963">consensus.</text>
+<text x="40" y="4450.89" font-size="22" fill="#123641" font-weight="800" class="r">The same table performs differently on</text>
+<text x="40" y="4480.37" font-size="22" fill="#123641" font-weight="800" class="r">large and small nodules</text>
+<text x="40" y="4505.85" font-size="14" fill="#527078">A study of 3,826 nodules 1 cm and larger, of which 85.7% were benign and</text>
+<text x="40" y="4526.85" font-size="14" fill="#527078">14.3% malignant.</text>
+<g filter="url(#sh)">
+<rect x="40" y="4545.85" width="540" height="239.72" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="58" y="4581.85" font-size="18" fill="#123641" font-weight="800">Nodules under 2 cm</text>
+<text x="58" y="4640.05" font-size="28" fill="#96790F" font-weight="800">76.3%</text>
+<text x="58" y="4660.77" font-size="14" fill="#345963">ACR TI-RADS spares the most unnecessary biopsies</text>
+<text x="58" y="4715.85" font-size="28" fill="#96790F" font-weight="800">76.1%</text>
+<text x="58" y="4736.57" font-size="14" fill="#345963">and has the lowest sensitivity of the five</text>
+<g filter="url(#sh)">
+<rect x="40" y="4799.57" width="540" height="239.72" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="58" y="4835.57" font-size="18" fill="#123641" font-weight="800">Nodules over 2 cm</text>
+<text x="58" y="4893.77" font-size="28" fill="#5C77C4" font-weight="800">88.8%</text>
+<text x="58" y="4914.49" font-size="14" fill="#345963">sensitivity of ACR TI-RADS</text>
+<text x="58" y="4969.57" font-size="28" fill="#5C77C4" font-weight="800">98.7% to 99.3%</text>
+<text x="58" y="4990.29" font-size="14" fill="#345963">sensitivity of the other systems</text>
+<text x="40" y="5070.79" font-size="15.5" fill="#345963">Which table happened to read your nodule, and how large that</text>
+<text x="40" y="5094.81" font-size="15.5" fill="#345963">nodule happens to be, together decide whether you are biopsied</text>
+<text x="40" y="5118.84" font-size="15.5" fill="#345963">today. That is not a complaint. It is the present state of things.</text>
+<rect x="40" y="5164.86" width="540" height="519.35" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="66" y="5210.86" font-size="18" fill="#B04A4A" font-weight="800">This figure will not score your nodule</text>
+<text x="66" y="5242.46" font-size="15.5" fill="#345963">No column here lets you work out your own points. The</text>
+<text x="66" y="5265.71" font-size="15.5" fill="#345963">score comes from shape features on the ultrasound image,</text>
+<text x="66" y="5288.96" font-size="15.5" fill="#345963">judged by the person at the machine, and it is not something</text>
+<text x="66" y="5312.21" font-size="15.5" fill="#345963">to be read off a chart.</text>
+<text x="66" y="5345.46" font-size="15.5" fill="#345963">Unnecessary-biopsy rate and sensitivity are two ends of one</text>
+<text x="66" y="5368.71" font-size="15.5" fill="#345963">set of scales: catch more and you biopsy more, biopsy less</text>
+<text x="66" y="5391.96" font-size="15.5" fill="#345963">and you miss more. So &quot;which one is the most accurate&quot;</text>
+<text x="66" y="5415.21" font-size="15.5" fill="#345963">has no answer, and I will not pick one for you.</text>
+<text x="66" y="5448.46" font-size="15.5" fill="#345963">Neither the ACR white paper nor the original European</text>
+<text x="66" y="5471.71" font-size="15.5" fill="#345963">guideline could be obtained in full for this article. The</text>
+<text x="66" y="5494.96" font-size="15.5" fill="#345963">categories and cutoffs drawn here are carried over from</text>
+<text x="66" y="5518.21" font-size="15.5" fill="#345963">the comparison study that lists all three tables column by</text>
+<text x="66" y="5541.46" font-size="15.5" fill="#345963">column, not copied from the primary documents.</text>
+<text x="66" y="5574.71" font-size="15.5" fill="#345963">What you can do is say it out loud: which system does my</text>
+<text x="66" y="5597.96" font-size="15.5" fill="#345963">report use, and does the report state a category? Under that</text>
+<text x="66" y="5621.21" font-size="15.5" fill="#345963">system, is the decision being made by size or by shape?</text>
+<text x="66" y="5644.46" font-size="15.5" fill="#345963">Would another table give a different answer?</text>
+<text x="40" y="5704.21" font-size="15" fill="#527078">Schematic, redrawn from the 2023 systematic review and</text>
+<text x="40" y="5727.46" font-size="15" fill="#527078">meta-analysis of the diagnostic performance of ultrasound-based</text>
+<text x="40" y="5750.71" font-size="15" fill="#527078">risk stratification systems, the 2025 comparison of K-TIRADS,</text>
+<text x="40" y="5773.96" font-size="15" fill="#527078">EU-TIRADS and ACR-TIRADS, the 2021 comparison of five society</text>
+<text x="40" y="5797.21" font-size="15" fill="#527078">guidelines by nodule size, and the 2015 American Thyroid</text>
+<text x="40" y="5820.46" font-size="15" fill="#527078">Association guidelines; not reproduced from the figures of the</text>
+<text x="40" y="5843.71" font-size="15" fill="#527078">original papers. The cohorts, designs and endpoints of the underlying</text>
+<text x="40" y="5866.96" font-size="15" fill="#527078">studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

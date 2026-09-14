@@ -1,0 +1,300 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="5120" viewBox="0 0 1440 5120" role="img" aria-labelledby="t d">
+  <title id="t">甲狀腺球蛋白怎麼讀：手術範圍 × 放射碘狀態</title>
+  <desc id="d">示意圖，把甲狀腺球蛋白的判讀畫成一個四宮格：橫軸是有沒有做過放射碘，縱軸是手術切掉多少（全甲狀腺切除或單葉切除）。左上格是全甲狀腺切除加做過放射碘：「反應良好」的線是吃著藥、沒有做刺激的狀態下驗到的甲狀腺球蛋白小於 0.2 ng/mL，或刺激後小於 1，而且影像陰性；表上四個反應分類全部存在，這一欄的資料最多，指引整理的結構性復發率就是以這一欄的族群為準。右上格是全甲狀腺切除但沒做放射碘：同一格的線變成小於 2.5 ng/mL，差了十倍以上，不是筆誤；理由是放射碘會把手術留下的正常甲狀腺組織清掉，沒做的人那些組織還在，正常組織一樣會製造這個蛋白，底數本來就高；這一欄的結構性復發率整體比左上那一欄低。左下格是單葉切除、沒做放射碘：「反應良好」那一格根本不看甲狀腺球蛋白，看的是對側那一葉有沒有結節、有的話切片是不是良性、影像上有沒有異常淋巴結；而「反應不明確」與「生化性反應不完全」兩格在指引自己的表上直接寫 N／A，圖上照樣畫成兩個打叉、標著 N／A 的格子，不替它們補數字；指引對單葉切除後例行驗甲狀腺球蛋白的說法是不建議常規做，有條件建議、極低確定性，追蹤主力是超音波，不是那管血。右下格是單葉切除加放射碘：這一格在表上不存在，因為指引把判讀拆成三欄，所以圖上畫成一個打叉的空格，並寫明這張圖不替它生一條線出來。第二段解釋為什麼單葉切除那一欄不是同一種東西：2022 年那篇系統性回顧把三種情境分開報，單葉切除之後是 4 篇、561 人，全切但未做放射碘是 5 篇、751 人，全切之後做放射碘之前是 28 篇、7,618 人；它對第一種情境的逐字結論是「Following partial thyroidectomy, Tg measurement was not accurate for diagnosing recurrence or metastasis, or estimates were imprecise」，而且它給所有情境的證據品質評級都是 very low。紅框那一格寫 30 ng/mL 那個切點沒有被採用：2016 年確實有人提過單葉切除後用 30 ng/mL 當界線，那是 507 人的單中心世代、全部沒做放射碘，但 2025 年版沒有採用這個切點。旁邊一格寫就算在左邊那兩欄，第一次驗出來也不是定案：一個 299 人的世代（全部全切加殘存消融、之後沒再接受其他治療）裡，六個月到達谷底的只有 58%，十二個月 75%。第三段是四個反應分類與各自的結構性復發率，族群是成人分化型甲狀腺癌、全切加放射碘，也就是四宮格左上那一格的人，畫成五條範圍帶：反應良好 1–4%，其中一開始就被分在低風險的人是 0.2–2%；反應不明確 5% 到 15–20%；生化性反應不完全 20–53%；結構性反應不完全那一格畫成斜線，標「影像看得到」，因為它的定義是影像上看得到局部或遠端轉移而不是一個百分比。說明寫：全切但沒做放射碘那一欄的對應數字整體比較低，而這四格是「現在走到哪裡」，不是「一開始被分到哪裡」。接著兩格示範這套分類會改寫一開始的分組：588 人、中位追蹤 7 年的世代，一開始低風險 3%、中風險 21%、高風險 68% 出現持續性結構疾病或復發，前兩年達到反應良好之後重新分類，三格變成 2%、2%、14%；506 人、中位追蹤 10 年的世代是低 13%、中 36%、高 68%，達到反應良好者降到 1.4%。底下註記這兩組數字和分期那一篇裡那組（1.5%、5.4%、25%）不一樣，因為終點定義與世代都不同，同一格風險在不同研究裡會給出不同的百分比，這本身就是為什麼一開始那一格不是判決。第四段是抗體陽性的那兩成：大約兩成的分化型甲狀腺癌病人血中驗得到抗甲狀腺球蛋白抗體，而這不是「干擾」，是另一種追蹤模式。現行的免疫計量法在抗體存在時傾向低估，所以問題不是打折、是數字漂亮可能是假的；質譜法則敏感度不足；指引同一段寫得更白，沒有哪一套甲狀腺球蛋白檢驗在抗體存在時是完全準確的。引文框裡是指引的逐字句「Imaging is the primary modality for monitoring in this population」，有條件建議、低確定性。抗體本身則變成指標：用同一套試劑連續看趨勢，穩定或下降歸在反應不明確，上升歸在生化性反應不完全；所以在這兩成裡的人，超音波會排得比較密，而不是那管血抽得比較勤；每次驗甲狀腺球蛋白都要同時定量抗體，這一條指引列為良好實務，沒有給證據等級。第五段是那個停止點，畫成一條三站的時間軸：初次治療完成後六到十二個月做一次頸部超音波，之後的時間與頻率看復發風險和治療反應，這一條是良好實務、沒有給證據等級；五到八年，低風險、做過全切加放射碘、而且持續維持反應良好的人可以停掉常規的頸部超音波，之後每一到兩年驗生化指標就好，有條件建議、低確定性；十到十五年，持續反應良好的人不需要再繼續常規的生化監測，而且應該被視為已經達到完全緩解，這一條是良好實務、沒有給證據等級。旁邊寫兩個前提要一起記——低風險，而且持續反應良好；另一格寫單葉切除那一群人的資料更有限，指引的寫法是初次超音波陰性的話，之後每一到三年做一次、做五到八年。時間軸下方一行綠底的話：「完全緩解」這四個字，是這份指引第一次寫進條文裡，這也是 ATA 甲狀腺指引史上第一次寫出可以停。再下面兩格：為什麼現在不必再停藥或打針刺激才驗——一篇納入 10 篇、1,796 人的統合分析算出，在服用甲狀腺素的狀態下高敏感甲狀腺球蛋白測不到時，排除結構性疾病的陰性預測值是 99.4%（95% 信賴區間 98.9 到 99.9）；以及超音波怎麼排、什麼時候不必扎——短徑小於 8 到 10 毫米的可疑淋巴結可以先追蹤，除非它長大或威脅到喉返神經、氣管、食道、大血管，有條件建議、低確定性；而且指引給了反面的話，低風險而且反應良好的人做超音波並沒有因此找出有臨床意義的疾病，反而會因為偽陽性增加介入次數。圖的最後是一個紅框的界線區塊，標題是「這張圖不會替你把三欄合成一欄」，內容四條：四宮格裡的每一條線只屬於它自己那一格，把別人的數字拿來對自己的是門診裡最常拆的誤會；單葉切除那一欄的兩個 N／A 是指引自己寫的，不是這張圖沒查到，那兩格沒有線，所以那兩格不能用那管血下結論；第四格（單葉切除加放射碘）在表上不存在，因為指引把判讀拆成三欄；「可以停」有兩個前提，低風險而且持續反應良好，停的是癌症的例行監測，不是「以後都不用看醫師」，甲狀腺素的劑量要怎麼調是另一件事，2025 年版全文查不到一條規定多久驗一次促甲狀腺素的條文，這張圖也不替它補。最後一格是三句門診提問：我這種手術範圍、這種放射碘狀態，Tg 應該對哪一條線；我的抗甲狀腺球蛋白抗體是陽性還是陰性，如果是陽性我的追蹤要怎麼改；如果我這次還不符合停止監測的條件，請幫我寫下還差哪一項、大概還要幾年。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="5120" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">ONE NUMBER, FOUR CELLS - AND TWO OF THEM ARE N/A</text>
+<text x="84" y="142" font-size="38" fill="#123641" font-weight="800" class="r">那管血怎麼讀，要先看你被切掉多少</text>
+<text x="84" y="201.88" font-size="19" fill="#527078">甲狀腺球蛋白不是一個有固定標準值的數字。它要對哪一條線，完全取決於兩件事：手術切掉多少，以及有沒有做過放射碘。</text>
+<text x="84" y="236.38" font-size="19" fill="#527078">這張圖把這兩件事交叉成四格。其中兩格在美國甲狀腺學會 2025 年版指引自己的表上寫著 N/A，這裡就照著畫成 N/A，不替它補一個數字。</text>
+<text x="84" y="340.88" font-size="22" fill="#123641" font-weight="800" class="r">四宮格：手術範圍 × 放射碘狀態</text>
+<text x="84" y="366.36" font-size="14" fill="#527078">指引把治療反應的判讀拆成三欄。三欄的線不一樣，而且單葉切除那一欄根本不是同一種東西——第四格在表上不存在。</text>
+<g filter="url(#sh)">
+<rect x="84" y="385.36" width="623" height="489.76" rx="18" fill="#FFFFFF" stroke="#00806B" stroke-width="2.5"/>
+</g>
+<rect x="104" y="405.36" width="103" height="25" rx="12.5" fill="#00806B"/>
+<text x="115" y="422.86" font-size="13.5" fill="#FFFFFF" font-weight="800">全甲狀腺切除</text>
+<rect x="215" y="405.36" width="89.5" height="25" rx="12.5" fill="#FFFFFF" stroke="#00806B" stroke-width="1.6"/>
+<text x="226" y="422.86" font-size="13.5" fill="#00806B" font-weight="800">做過放射碘</text>
+<text x="104" y="456.36" font-size="14" fill="#527078" font-weight="700">「反應良好」的線</text>
+<text x="104" y="504.04" font-size="28" fill="#00806B" font-weight="800">Tg &lt; 0.2 ng/mL</text>
+<text x="104" y="554.52" font-size="14" fill="#345963">吃著藥、沒有做刺激的狀態下驗到的甲狀腺球蛋白小於 0.2 ng/mL，或刺激後小於 1，而且影</text>
+<text x="104" y="575.52" font-size="14" fill="#345963">像陰性。</text>
+<text x="104" y="621.02" font-size="12.5" fill="#527078" font-weight="700">表上的四個反應分類</text>
+<rect x="104" y="642.52" width="583" height="30.9" rx="8" fill="#D8EDE7"/>
+<rect x="104" y="642.52" width="4.5" height="30.9" rx="2" fill="#00806B"/>
+<text x="118" y="661.35" font-size="13.5" fill="#345963">反應良好</text>
+<rect x="104" y="680.42" width="583" height="30.9" rx="8" fill="#D8EDE7"/>
+<rect x="104" y="680.42" width="4.5" height="30.9" rx="2" fill="#00806B"/>
+<text x="118" y="699.25" font-size="13.5" fill="#345963">反應不明確</text>
+<rect x="104" y="718.32" width="583" height="30.9" rx="8" fill="#D8EDE7"/>
+<rect x="104" y="718.32" width="4.5" height="30.9" rx="2" fill="#00806B"/>
+<text x="118" y="737.14" font-size="13.5" fill="#345963">生化性反應不完全</text>
+<rect x="104" y="756.22" width="583" height="30.9" rx="8" fill="#D8EDE7"/>
+<rect x="104" y="756.22" width="4.5" height="30.9" rx="2" fill="#00806B"/>
+<text x="118" y="775.04" font-size="13.5" fill="#345963">結構性反應不完全</text>
+<text x="104" y="813.12" font-size="14" fill="#345963">這一欄是四個分類都在、資料也最多的一欄。指引整理的結構性復發率就是以這一欄的族群為</text>
+<text x="104" y="834.12" font-size="14" fill="#345963">準。</text>
+<g filter="url(#sh)">
+<rect x="733" y="385.36" width="623" height="489.76" rx="18" fill="#FFFFFF" stroke="#96790F" stroke-width="2.5"/>
+</g>
+<rect x="753" y="405.36" width="103" height="25" rx="12.5" fill="#96790F"/>
+<text x="764" y="422.86" font-size="13.5" fill="#FFFFFF" font-weight="800">全甲狀腺切除</text>
+<rect x="864" y="405.36" width="89.5" height="25" rx="12.5" fill="#FFFFFF" stroke="#96790F" stroke-width="1.6"/>
+<text x="875" y="422.86" font-size="13.5" fill="#96790F" font-weight="800">沒做放射碘</text>
+<text x="753" y="456.36" font-size="14" fill="#527078" font-weight="700">「反應良好」的線</text>
+<text x="753" y="504.04" font-size="28" fill="#96790F" font-weight="800">Tg &lt; 2.5 ng/mL</text>
+<text x="753" y="554.52" font-size="14" fill="#345963">同一格，換一欄，線就從小於 0.2 變成小於 2.5——差了十倍以上，不是筆誤。</text>
+<text x="753" y="600.02" font-size="12.5" fill="#527078" font-weight="700">表上的四個反應分類</text>
+<rect x="753" y="621.52" width="583" height="30.9" rx="8" fill="#F3E8CD"/>
+<rect x="753" y="621.52" width="4.5" height="30.9" rx="2" fill="#96790F"/>
+<text x="767" y="640.35" font-size="13.5" fill="#345963">反應良好</text>
+<rect x="753" y="659.42" width="583" height="30.9" rx="8" fill="#F3E8CD"/>
+<rect x="753" y="659.42" width="4.5" height="30.9" rx="2" fill="#96790F"/>
+<text x="767" y="678.25" font-size="13.5" fill="#345963">反應不明確</text>
+<rect x="753" y="697.32" width="583" height="30.9" rx="8" fill="#F3E8CD"/>
+<rect x="753" y="697.32" width="4.5" height="30.9" rx="2" fill="#96790F"/>
+<text x="767" y="716.14" font-size="13.5" fill="#345963">生化性反應不完全</text>
+<rect x="753" y="735.22" width="583" height="30.9" rx="8" fill="#F3E8CD"/>
+<rect x="753" y="735.22" width="4.5" height="30.9" rx="2" fill="#96790F"/>
+<text x="767" y="754.04" font-size="13.5" fill="#345963">結構性反應不完全</text>
+<text x="753" y="792.12" font-size="14" fill="#345963">理由很直白：放射碘會把手術留下的正常甲狀腺組織清掉；沒做的人那些組織還在，正常組織</text>
+<text x="753" y="813.12" font-size="14" fill="#345963">一樣會製造這個蛋白，底數本來就高。這一欄的結構性復發率整體比左邊那一欄低。</text>
+<g filter="url(#sh)">
+<rect x="84" y="893.12" width="623" height="489.76" rx="18" fill="#FFFFFF" stroke="#5C77C4" stroke-width="2.5"/>
+</g>
+<rect x="104" y="913.12" width="76" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="115" y="930.61" font-size="13.5" fill="#FFFFFF" font-weight="800">單葉切除</text>
+<rect x="188" y="913.12" width="89.5" height="25" rx="12.5" fill="#FFFFFF" stroke="#5C77C4" stroke-width="1.6"/>
+<text x="199" y="930.61" font-size="13.5" fill="#5C77C4" font-weight="800">沒做放射碘</text>
+<text x="104" y="964.12" font-size="14" fill="#527078" font-weight="700">「反應良好」那一格不看 Tg</text>
+<text x="104" y="1011.8" font-size="28" fill="#5C77C4" font-weight="800">看的是對側那一葉</text>
+<text x="104" y="1062.28" font-size="14" fill="#345963">對側那一葉有沒有結節、有的話切片是不是良性、影像上有沒有異常淋巴結——這一格判的是這</text>
+<text x="104" y="1083.28" font-size="14" fill="#345963">三件事，不是那管血。</text>
+<text x="104" y="1128.78" font-size="12.5" fill="#527078" font-weight="700">表上的四個反應分類</text>
+<rect x="104" y="1150.28" width="583" height="30.9" rx="8" fill="#E3E8F6"/>
+<rect x="104" y="1150.28" width="4.5" height="30.9" rx="2" fill="#5C77C4"/>
+<text x="118" y="1169.11" font-size="13.5" fill="#345963">反應良好</text>
+<rect x="104" y="1188.18" width="583" height="30.9" rx="8" fill="url(#hatchR)"/>
+<rect x="104" y="1188.18" width="583" height="30.9" rx="8" fill="none" stroke="#B04A4A" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="118" y="1207.01" font-size="13.5" fill="#B04A4A" font-weight="700">反應不明確</text>
+<rect x="626.57" y="1192.63" width="51.43" height="22" rx="11" fill="#B04A4A"/>
+<text x="652.28" y="1208.49" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">N／A</text>
+<rect x="104" y="1226.08" width="583" height="30.9" rx="8" fill="url(#hatchR)"/>
+<rect x="104" y="1226.08" width="583" height="30.9" rx="8" fill="none" stroke="#B04A4A" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="118" y="1244.91" font-size="13.5" fill="#B04A4A" font-weight="700">生化性反應不完全</text>
+<rect x="626.57" y="1230.53" width="51.43" height="22" rx="11" fill="#B04A4A"/>
+<text x="652.28" y="1246.39" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">N／A</text>
+<rect x="104" y="1263.98" width="583" height="30.9" rx="8" fill="#E3E8F6"/>
+<rect x="104" y="1263.98" width="4.5" height="30.9" rx="2" fill="#5C77C4"/>
+<text x="118" y="1282.81" font-size="13.5" fill="#345963">結構性反應不完全</text>
+<text x="104" y="1320.88" font-size="14" fill="#345963">中間那兩格在表上直接寫 N/A——沒有這一格。指引對單葉切除後例行驗甲狀腺球蛋白的說法是</text>
+<text x="104" y="1341.88" font-size="14" fill="#345963">不建議常規做，有條件建議、極低確定性。追蹤主力是超音波，不是那管血。</text>
+<g filter="url(#sh)">
+<rect x="733" y="893.12" width="623" height="489.76" rx="18" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2.5"/>
+</g>
+<rect x="753" y="913.12" width="76" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="764" y="930.61" font-size="13.5" fill="#FFFFFF" font-weight="800">單葉切除</text>
+<rect x="837" y="913.12" width="89.5" height="25" rx="12.5" fill="#FFFFFF" stroke="#7A6E58" stroke-width="1.6"/>
+<text x="848" y="930.61" font-size="13.5" fill="#7A6E58" font-weight="800">做過放射碘</text>
+<rect x="753" y="950.12" width="583" height="74" rx="12" fill="url(#hatch)"/>
+<rect x="753" y="950.12" width="583" height="74" rx="12" fill="none" stroke="#B9AE94" stroke-width="2.2" stroke-dasharray="7 6"/>
+<line x1="769" y1="964.12" x2="1320" y2="1010.12" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<line x1="1320" y1="964.12" x2="769" y2="1010.12" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<text x="753" y="1056.12" font-size="18" fill="#7A6E58" font-weight="800">表上沒有這一欄</text>
+<text x="753" y="1100.24" font-size="14" fill="#345963">指引把判讀拆成三欄，這個組合不在裡面。這張圖不替它生一條線出來。</text>
+<text x="84" y="1432.88" font-size="22" fill="#123641" font-weight="800" class="r">為什麼單葉切除那一欄不是同一種東西</text>
+<text x="84" y="1458.36" font-size="14" fill="#527078">這不是偷懶。把三種情境分開報的那篇系統性回顧，各自的人數差得很遠。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1477.36" width="1272" height="175.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="106" y="1517.36" font-size="18" fill="#123641" font-weight="800">2022 年那篇系統性回顧，三種情境分開報</text>
+<text x="106" y="1565.48" font-size="14" fill="#527078" font-weight="700">單葉切除之後</text>
+<text x="670.88" y="1565.48" font-size="14" fill="#345963">4 篇、561 人</text>
+<text x="106" y="1594.48" font-size="14" fill="#527078" font-weight="700">全切但未做放射碘</text>
+<text x="670.88" y="1594.48" font-size="14" fill="#345963">5 篇、751 人</text>
+<text x="106" y="1623.48" font-size="14" fill="#527078" font-weight="700">全切之後、做放射碘之前</text>
+<text x="670.88" y="1623.48" font-size="14" fill="#345963">28 篇、7,618 人</text>
+<g filter="url(#sh)">
+<rect x="84" y="1666.48" width="1272" height="110.78" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="114" y="1699.98" font-size="15.5" fill="#123641" font-weight="700">「Following partial thyroidectomy, Tg measurement was not accurate for diagnosing recurrence or metastasis, or estimates were imprecise」</text>
+<text x="114" y="1740.51" font-size="12.5" fill="#527078">2022 年那篇系統性回顧對第一種情境的逐字結論（原文為英文）；它給所有情境的證據品質評級都是 very low。</text>
+<line x1="102" y1="1682.48" x2="102" y2="1753.26" stroke="#5C77C4" stroke-width="4" stroke-linecap="butt"/>
+<g filter="url(#sh)">
+<rect x="84" y="1791.26" width="623" height="188.88" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2"/>
+</g>
+<text x="104" y="1829.26" font-size="18" fill="#B04A4A" font-weight="800">30 ng/mL 那個切點，2025 年版沒有採用</text>
+<circle cx="108.5" cy="1870.99" r="4" fill="#B04A4A"/>
+<text x="123" y="1876.88" font-size="15.5" fill="#345963">2016 年確實有人提過單葉切除後用 30 ng/mL 當界線：507 人的單中心世代，全</text>
+<text x="123" y="1899.82" font-size="15.5" fill="#345963">部沒做放射碘。</text>
+<circle cx="108.5" cy="1923.87" r="4" fill="#B04A4A"/>
+<text x="123" y="1929.76" font-size="15.5" fill="#345963">2025 年版沒有採用這個切點。所以如果有人拿 30 這個數字對你的報告，請先問</text>
+<text x="123" y="1952.7" font-size="15.5" fill="#345963">那是哪一份文件上的線。</text>
+<g filter="url(#sh)">
+<rect x="733" y="1791.26" width="623" height="188.88" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="753" y="1829.26" font-size="18" fill="#96790F" font-weight="800">就算在左邊那兩欄，第一次驗出來也不是定案</text>
+<circle cx="757.5" cy="1870.06" r="4" fill="#96790F"/>
+<text x="772" y="1875.38" font-size="14" fill="#345963">一個 299 人的世代（全部全切加殘存消融、之後沒再接受其他治療）裡，六個月到達谷底</text>
+<text x="772" y="1896.1" font-size="14" fill="#345963">的只有 58%，十二個月 75%。</text>
+<circle cx="757.5" cy="1918.5" r="4" fill="#96790F"/>
+<text x="772" y="1923.82" font-size="14" fill="#345963">第一次驗出來不夠低，不等於事情定案。</text>
+<text x="84" y="2044.14" font-size="22" fill="#123641" font-weight="800" class="r">四個反應分類，各有各的復發率</text>
+<text x="84" y="2069.62" font-size="14" fill="#527078">指引要求用這四個分類描述治療反應，強烈建議、中等確定性。下面這組結構性復發率的族群是成人分化型甲狀腺癌、全切加放射碘——也就是四宮格左上那一格的人。</text>
+<g filter="url(#sh)">
+<rect x="84" y="2088.62" width="1272" height="633.53" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="106" y="2124.62" font-size="14" fill="#527078" font-weight="700">反應良好</text>
+<text x="106" y="2159" font-size="12.5" fill="#527078">臨床、生化、影像都沒有疾病證據</text>
+<rect x="106" y="2183.12" width="1149.2" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="126.89" y="2183.12" width="62.68" height="26" rx="7" fill="#00806B"/>
+<text x="1269.2" y="2203.68" font-size="21" fill="#00806B" font-weight="800">1–4%</text>
+<text x="106" y="2235.12" font-size="14" fill="#527078" font-weight="700">反應良好，而且一開始就被分在低風險</text>
+<text x="106" y="2269.5" font-size="12.5" fill="#527078">同一段另外列出的那一條</text>
+<rect x="106" y="2293.63" width="1129.42" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="110.11" y="2293.63" width="36.96" height="26" rx="7" fill="#00806B"/>
+<text x="1249.42" y="2314.19" font-size="21" fill="#00806B" font-weight="800">0.2–2%</text>
+<text x="106" y="2345.63" font-size="14" fill="#527078" font-weight="700">反應不明確</text>
+<text x="106" y="2380.01" font-size="12.5" fill="#527078">找到不特異的東西，說不上良性或惡性；抗體穩定或下降也算這一格</text>
+<rect x="106" y="2404.13" width="1063.71" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="202.7" y="2404.13" width="290.1" height="26" rx="7" fill="#96790F"/>
+<text x="1183.71" y="2424.69" font-size="21" fill="#96790F" font-weight="800">5% 到 15–20%</text>
+<text x="106" y="2456.13" font-size="14" fill="#527078" font-weight="700">生化性反應不完全</text>
+<text x="106" y="2490.51" font-size="12.5" fill="#527078">Tg 異常或抗體上升，但找不到病灶</text>
+<rect x="106" y="2514.64" width="1123.13" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="514.41" y="2514.64" width="673.88" height="26" rx="7" fill="#B04A4A"/>
+<text x="1243.13" y="2535.2" font-size="21" fill="#B04A4A" font-weight="800">20–53%</text>
+<text x="106" y="2566.64" font-size="14" fill="#527078" font-weight="700">結構性反應不完全</text>
+<text x="106" y="2601.02" font-size="12.5" fill="#527078">影像上看得到局部或遠端轉移</text>
+<rect x="106" y="2625.14" width="1097" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="106" y="2625.14" width="1097" height="26" rx="7" fill="url(#hatch)"/>
+<text x="1217" y="2645.7" font-size="21" fill="#B04A4A" font-weight="800">影像看得到</text>
+<text x="106" y="2679.14" font-size="14" fill="#345963">全切但沒做放射碘那一欄的對應數字整體比較低。這四格是「現在走到哪裡」，不是「一開始被分到哪裡」。</text>
+<text x="84" y="2760.14" font-size="18" fill="#123641" font-weight="800">這套分類會改寫你一開始被歸在哪一格</text>
+<g filter="url(#sh)">
+<rect x="84" y="2794.26" width="623" height="296.48" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="2828.26" font-size="14" fill="#123641" font-weight="800">588 人、中位追蹤 7 年（全切加殘存消融，當年的三級分層）</text>
+<text x="104" y="2870.64" font-size="12.5" fill="#527078" font-weight="700">原本的持續性結構疾病或復發比例</text>
+<text x="104" y="2906.14" font-size="14" fill="#345963">一開始低風險</text>
+<text x="687" y="2906.14" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">3%</text>
+<text x="104" y="2929.24" font-size="14" fill="#345963">中風險</text>
+<text x="687" y="2929.24" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">21%</text>
+<text x="104" y="2952.34" font-size="14" fill="#345963">高風險</text>
+<text x="687" y="2952.34" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">68%</text>
+<text x="104" y="2979.94" font-size="12.5" fill="#527078" font-weight="700">前兩年達到反應良好之後重新分類</text>
+<text x="104" y="3015.44" font-size="14" fill="#345963">低風險</text>
+<text x="687" y="3015.44" font-size="14" fill="#00806B" font-weight="800" text-anchor="end">2%</text>
+<text x="104" y="3038.54" font-size="14" fill="#345963">中風險</text>
+<text x="687" y="3038.54" font-size="14" fill="#00806B" font-weight="800" text-anchor="end">2%</text>
+<text x="104" y="3061.64" font-size="14" fill="#345963">高風險</text>
+<text x="687" y="3061.64" font-size="14" fill="#00806B" font-weight="800" text-anchor="end">14%</text>
+<g filter="url(#sh)">
+<rect x="733" y="2794.26" width="623" height="296.48" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="753" y="2828.26" font-size="14" fill="#123641" font-weight="800">506 人、中位追蹤 10 年（同樣全切加消融）</text>
+<text x="753" y="2870.64" font-size="12.5" fill="#527078" font-weight="700">同方向的結果</text>
+<text x="753" y="2906.14" font-size="14" fill="#345963">低風險</text>
+<text x="1336" y="2906.14" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">13%</text>
+<text x="753" y="2929.24" font-size="14" fill="#345963">中風險</text>
+<text x="1336" y="2929.24" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">36%</text>
+<text x="753" y="2952.34" font-size="14" fill="#345963">高風險</text>
+<text x="1336" y="2952.34" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">68%</text>
+<text x="753" y="2979.94" font-size="12.5" fill="#527078" font-weight="700">達到反應良好之後</text>
+<text x="753" y="3015.44" font-size="14" fill="#345963">達到反應良好者</text>
+<text x="1336" y="3015.44" font-size="14" fill="#00806B" font-weight="800" text-anchor="end">1.4%</text>
+<text x="88" y="3118.74" font-size="14" fill="#527078">這兩組數字和〈為什麼分期看你幾歲〉裡那組（1.5%、5.4%、25%）不一樣，因為終點定義與世代都不同。同一格風險在不同研究裡會給出不同的百分比，這本身就是為什麼一開始那一格不是判決。</text>
+<text x="84" y="3189.74" font-size="22" fill="#123641" font-weight="800" class="r">抗體陽性的那兩成：不是「干擾」，是另一種追蹤模式</text>
+<text x="84" y="3215.22" font-size="14" fill="#527078">大約兩成的分化型甲狀腺癌病人血中驗得到抗甲狀腺球蛋白抗體。很多人被告知「抗體會干擾，數字要打個折」——這句話不對。</text>
+<g filter="url(#sh)">
+<rect x="84" y="3234.22" width="1272" height="175.62" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="3272.22" font-size="18" fill="#5C77C4" font-weight="800">問題不是打折，是數字漂亮可能是假的</text>
+<text x="104" y="3319.84" font-size="15.5" fill="#345963">現行的免疫計量法在抗體存在時傾向低估，所以問題不是打折；質譜法則敏感度不足。</text>
+<text x="104" y="3366.59" font-size="15.5" fill="#345963">指引同一段寫得更白：沒有哪一套甲狀腺球蛋白檢驗在抗體存在時是完全準確的。</text>
+<g filter="url(#sh)">
+<rect x="84" y="3423.84" width="1272" height="110.78" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="114" y="3457.34" font-size="15.5" fill="#123641" font-weight="700">「Imaging is the primary modality for monitoring in this population」</text>
+<text x="114" y="3497.87" font-size="12.5" fill="#527078">美國甲狀腺學會 2025 年版指引，有條件建議、低確定性（原文為英文）。</text>
+<line x1="102" y1="3439.84" x2="102" y2="3510.62" stroke="#5C77C4" stroke-width="4" stroke-linecap="butt"/>
+<g filter="url(#sh)">
+<rect x="84" y="3548.62" width="1272" height="193.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="106" y="3588.62" font-size="18" fill="#123641" font-weight="800">所以抗體本身變成指標</text>
+<text x="106" y="3636.74" font-size="14" fill="#527078" font-weight="700">用同一套試劑連續看趨勢，穩定或下降</text>
+<text x="793.68" y="3636.74" font-size="14" fill="#345963">歸在反應不明確</text>
+<text x="106" y="3665.74" font-size="14" fill="#527078" font-weight="700">用同一套試劑連續看趨勢，上升</text>
+<text x="793.68" y="3665.74" font-size="14" fill="#345963">歸在生化性反應不完全</text>
+<text x="106" y="3698.74" font-size="14" fill="#345963">你如果在這兩成裡，你的超音波會排得比較密，而不是那管血抽得比較勤。每次驗甲狀腺球蛋白都要同時定量抗體——這一條指引列為良好實務，沒有給證據等級。</text>
+<text x="84" y="3791.74" font-size="22" fill="#123641" font-weight="800" class="r">這是 ATA 甲狀腺指引史上第一次寫出「可以停」</text>
+<text x="84" y="3817.22" font-size="14" fill="#527078">過去各版指引都只講怎麼追，沒有講到哪一天可以不追。</text>
+<rect x="84" y="3836.22" width="619" height="140.12" rx="18" fill="#E3E8F6" stroke="#5C77C4" stroke-width="2"/>
+<text x="102" y="3872.22" font-size="18" fill="#5C77C4" font-weight="800">初次治療完成後六到十二個月</text>
+<text x="102" y="3916.34" font-size="14" fill="#345963">做一次頸部超音波；之後的時間與頻率看復發風險和治療反應。這一條是良好實務，沒有給證</text>
+<text x="102" y="3937.34" font-size="14" fill="#345963">據等級。</text>
+<line x1="114" y1="3976.34" x2="114" y2="3990.34" stroke="#5C77C4" stroke-width="2.6" stroke-linecap="round"/>
+<rect x="84" y="3990.34" width="619" height="140.12" rx="18" fill="#F3E8CD" stroke="#96790F" stroke-width="2"/>
+<text x="102" y="4026.34" font-size="18" fill="#96790F" font-weight="800">五到八年</text>
+<text x="102" y="4070.45" font-size="14" fill="#345963">低風險、做過全切加放射碘、而且持續維持反應良好的人，可以停掉常規的頸部超音波，之後</text>
+<text x="102" y="4091.45" font-size="14" fill="#345963">每一到兩年驗生化指標就好。有條件建議、低確定性。</text>
+<line x1="114" y1="4130.45" x2="114" y2="4144.45" stroke="#96790F" stroke-width="2.6" stroke-linecap="round"/>
+<rect x="84" y="4144.45" width="619" height="140.12" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2"/>
+<text x="102" y="4180.45" font-size="18" fill="#00806B" font-weight="800">十到十五年</text>
+<text x="102" y="4224.57" font-size="14" fill="#345963">持續反應良好十到十五年的人，不需要再繼續常規的生化監測，而且應該被視為已經達到完全</text>
+<text x="102" y="4245.57" font-size="14" fill="#345963">緩解。這一條是良好實務，沒有給證據等級。</text>
+<g filter="url(#sh)">
+<rect x="737" y="3836.22" width="619" height="138.56" rx="18" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2"/>
+</g>
+<text x="757" y="3874.22" font-size="18" fill="#8F7418" font-weight="800">兩個前提要一起記</text>
+<circle cx="761.5" cy="3915.01" r="4" fill="#8F7418"/>
+<text x="776" y="3920.34" font-size="14" fill="#345963">低風險。</text>
+<circle cx="761.5" cy="3942.73" r="4" fill="#8F7418"/>
+<text x="776" y="3948.05" font-size="14" fill="#345963">而且持續反應良好。</text>
+<g filter="url(#sh)">
+<rect x="737" y="3988.77" width="619" height="125.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="757" y="4026.77" font-size="18" fill="#5C77C4" font-weight="800">單葉切除那一群人的資料更有限</text>
+<text x="757" y="4072.89" font-size="14" fill="#345963">指引自己寫，他們的寫法是初次超音波陰性的話，之後每一到三年做一次、做五到八年。</text>
+<rect x="84" y="4300.57" width="1272" height="70.75" rx="14" fill="#D8EDE7"/>
+<text x="100" y="4332.07" font-size="15.5" fill="#345963">「完全緩解」這四個字，是這份指引第一次寫進條文裡。</text>
+<g filter="url(#sh)">
+<rect x="84" y="4387.32" width="623" height="180" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="4425.32" font-size="18" fill="#00806B" font-weight="800">為什麼現在不必再停藥或打針刺激才驗</text>
+<text x="104" y="4471.44" font-size="14" fill="#345963">一篇納入 10 篇、1,796 人的統合分析算出，在服用甲狀腺素的狀態下高敏感甲狀腺球蛋白測</text>
+<text x="104" y="4492.44" font-size="14" fill="#345963">不到時，排除結構性疾病的陰性預測值是 99.4%（95% 信賴區間 98.9 到 99.9）。</text>
+<g filter="url(#sh)">
+<rect x="733" y="4387.32" width="623" height="180" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="753" y="4425.32" font-size="18" fill="#96790F" font-weight="800">超音波怎麼排，什麼時候不必扎</text>
+<circle cx="757.5" cy="4466.12" r="4" fill="#96790F"/>
+<text x="772" y="4471.44" font-size="14" fill="#345963">看到可疑的淋巴結不一定要扎：短徑小於 8 到 10 毫米的，可以先追蹤，除非它長大或威脅</text>
+<text x="772" y="4492.16" font-size="14" fill="#345963">到喉返神經、氣管、食道、大血管（有條件建議、低確定性）。</text>
+<circle cx="757.5" cy="4514.57" r="4" fill="#96790F"/>
+<text x="772" y="4519.89" font-size="14" fill="#345963">照得愈勤愈安心，指引給了反面的話：低風險而且反應良好的人做超音波，並沒有因此找出</text>
+<text x="772" y="4540.61" font-size="14" fill="#345963">有臨床意義的疾病，反而會因為偽陽性增加介入次數。</text>
+<rect x="84" y="4589.33" width="1272" height="240.35" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="4635.33" font-size="18" fill="#B04A4A" font-weight="800">這張圖不會替你把三欄合成一欄</text>
+<text x="110" y="4666.93" font-size="15.5" fill="#345963">四宮格裡的每一條線只屬於它自己那一格。把別人的數字拿來對自己的，是門診裡最常拆的一個誤會。</text>
+<text x="110" y="4700.18" font-size="15.5" fill="#345963">單葉切除那一欄的兩個 N／A 是指引自己寫的，不是這張圖沒查到。那兩格沒有線，所以那兩格不能用那管血下結論。</text>
+<text x="110" y="4733.43" font-size="15.5" fill="#345963">第四格（單葉切除加放射碘）在表上不存在——指引把判讀拆成三欄。</text>
+<text x="110" y="4766.68" font-size="15.5" fill="#345963">「可以停」有兩個前提：低風險，而且持續反應良好。停的是癌症的例行監測，不是「以後都不用看醫師」。甲狀腺素的劑量要怎麼調是另一件事；2025 年版全文查不到一條規</text>
+<text x="110" y="4789.93" font-size="15.5" fill="#345963">定多久驗一次促甲狀腺素的條文，這張圖也不替它補。</text>
+<g filter="url(#sh)">
+<rect x="84" y="4845.68" width="1272" height="172.94" rx="18" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+</g>
+<text x="104" y="4883.68" font-size="18" fill="#8F7418" font-weight="800">把追蹤表攤開，這三句問出口</text>
+<circle cx="108.5" cy="4925.41" r="4" fill="#8F7418"/>
+<text x="123" y="4931.3" font-size="15.5" fill="#345963">「我這種手術範圍、這種放射碘狀態，Tg 應該對哪一條線？」</text>
+<circle cx="108.5" cy="4955.35" r="4" fill="#8F7418"/>
+<text x="123" y="4961.24" font-size="15.5" fill="#345963">「我的抗甲狀腺球蛋白抗體是陽性還是陰性？如果是陽性，我的追蹤要怎麼改？」</text>
+<circle cx="108.5" cy="4985.28" r="4" fill="#8F7418"/>
+<text x="123" y="4991.18" font-size="15.5" fill="#345963">「如果我這次還不符合停止監測的條件，請幫我寫下還差哪一項、大概還要幾年。」</text>
+<text x="84" y="5038.61" font-size="15" fill="#527078">示意圖，依美國甲狀腺學會 2025 年版分化型甲狀腺癌指引、2022 年那篇未做放射碘者甲狀腺球蛋白測定的系統性回顧、Momesso 等人 2016 年的動態風險分層世代、2012 年那篇甲狀腺</text>
+<text x="84" y="5061.86" font-size="15" fill="#527078">球蛋白自然下降的世代、Tuttle 等人 2010 年的再分層研究、2012 年那篇生化性反應不完全的世代與 2019 年高敏感甲狀腺球蛋白的統合分析重繪，非擷取自原論文圖表；各研究族群、設計</text>
+<text x="84" y="5085.11" font-size="15" fill="#527078">與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

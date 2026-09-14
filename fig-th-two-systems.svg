@@ -1,0 +1,228 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="3579" viewBox="0 0 1440 3579" role="img" aria-labelledby="t d">
+  <title id="t">兩套系統，兩個標籤：不對稱只成立在一個方向</title>
+  <desc id="d">示意圖，把甲狀腺癌報告上的兩個標籤畫成兩條分開的軸，中間用一條虛線隔開，而且刻意不畫任何箭頭連起來。圖首先寫明：兩套系統是為了不同的主要問題而建的，而不對稱只成立在一個方向——分期是為死亡建的，指引自己說它不足以預測復發，這正是當年另外做一套復發分層的理由。左邊是軸一，AJCC／TNM 期別，它預測的是死於這個病，也就是疾病特異性存活。這一欄引 2025 年美國甲狀腺學會分化型甲狀腺癌指引的原話：AJCC 與 UICC 的分期是為了預測疾病特異性存活而設計的，因此它不預測結構性殘存或復發的整體風險。接著是年齡切點：AJCC 第八版從 2018 年起生效，把分期用的年齡切點從 45 歲提高到 55 歲；美國甲狀腺學會 2015 年那一版指引的分期表用的還是第七版、切點寫 45 歲，2025 年版才是這個學會第一份以第八版為基礎的分化型甲狀腺癌指引；拿 2018 年以前的資料去對現在的報告會對錯。紅框那一格是第八版最常被誤讀的一句：所有 55 歲以下的病人都是第一期，除非有遠端轉移，那樣是第二期；反過來讀，一個 55 歲以下的人如果拿到「第二期」，依定義那代表已經有遠端轉移，「第二期而已」這四個字完全不成立。再下面是 55 歲以上的排法：腫瘤侷限在甲狀腺內、沒有轉移是第一期；加上淋巴結轉移，或腫瘤大於 4 公分、或肉眼侵犯帶狀肌，是第二期；肉眼侵犯到皮下軟組織、喉、氣管、食道或喉返神經是第三期；侵犯椎前筋膜或包覆頸動脈是第四期 A；有遠端轉移是第四期 B。旁註寫第八版另外兩項改動：只在顯微鏡下看到的甲狀腺外侵犯不再算進 T3 的定義，淋巴結轉移不再自動把人推到第三期。接著是版本位移：一篇納入 6 篇研究、10,850 名分化型甲狀腺癌病人、中位追蹤 55 到 148 個月的統合分析，把同一批人用兩個版本各排一次，畫成兩條堆疊條並列出四行數字：第一期 60% 變成 81%、第二期 5% 變成 13%、第三期 21% 變成 2%、第四期 10% 變成 3%。同一篇的 10 年疾病特異性存活按版本分列：第二期在第七版是 98.1%（96.6–99.6）、在第八版是 88.6%（82.7–94.6）；第三期在第七版是 96.8%（94.1–99.64）、在第八版是 70.5%（59.1–83.9）。說明寫：數字掉了快十個百分點，不是因為病人變差了，是因為裝進「第二期」這個盒子裡的人換了一批——指引的說法是有 20% 到 30% 的病人相較第七版降期，所以同樣寫著「第二期」的兩份報告，如果版本不同，指的其實不是同一種處境。右邊是軸二，ATA 復發風險分層，四級，它預測的是結構性疾病殘存或復發（局部區域和／或遠端），和／或存活。這一欄引 2015 年版的理由：因為 AJCC 與 TNM 這套為死亡風險設計的分期系統無法充分預測分化型甲狀腺癌的復發風險，所以 2009 年那一版指引才另外提出一套復發風險分層。四級用復發機率直接定義，畫成四格階梯：低是低於 10%、低—中間是 10% 到 15%、中間—高是 16% 到 30%、高是超過 30%。說明寫 2015 年版是三級（低、中、高），2025 年版變成四級，分家的理由指引自己有寫：原本「中」那一格裡的各個條件並不是每一個都預測同樣的復發風險；「低—中間」與「中間—高」這兩個中文名字是這個專題固定的譯法。下面一格寫 2025 年版第 28A 條被要求判定什麼，逐字是：判定結構性疾病殘存或復發（局部區域和／或遠端）和／或存活的風險，強烈建議、中等確定性證據；註記寫「和／或存活」常在轉述時被省掉但它在原文裡，所以復發風險分層的主要工作是結構性復發，而指引自己的條文又把它延伸到存活，反方向的那一句——復發分層不能預測死亡——指引沒有寫過。這一欄最後有一格黃底的老實交代：2025 年四級系統每一格的完整納入條件這次沒有取得，它在指引裡是一張圖、可擷取的文字只有四個級距的百分比，所以「什麼條件會被歸到哪一格」只能引 2015 年版那一張表——低風險要求沒有侵襲性亞型、沒有血管侵犯、沒有臨床上的淋巴結轉移；中風險包含顯微鏡下侵犯甲狀腺周圍軟組織、侵襲性亞型、乳突癌合併血管侵犯、臨床上可見的淋巴結轉移；高風險包含肉眼可見的甲狀腺外侵犯、切除不完全、遠端轉移、3 公分以上的轉移淋巴結，以及廣泛血管侵犯的濾泡癌。兩欄之間的虛線標著「兩條軸之間：沒有箭頭」。兩欄下面是一個打叉的方框，標題「這裡沒有箭頭」，旁邊寫：兩個標籤不能互相翻譯，「第一期」不等於「低風險」，「中間—高風險」也不是「第三期」，期別不是一個復發機率，風險組也不是一個死亡機率；不對稱只成立在一個方向——分期是為死亡建的，指引自己說它不足以預測復發，這正是另外做一套復發分層的理由，而復發分層的主要工作是結構性復發，第 28A 條又把它延伸到「和／或存活」；兩套系統在同一份文件裡是分開掛理由的，這張圖也把它們分開畫。再下面一段是兩套系統疊起來看會看到什麼：一個 4,881 名 55 歲以下成人分化型甲狀腺癌的登記，1980 到 2016 年初次治療，中位追蹤 6.6 年，122 人（2.5%）死於這個病，把 AJCC 第八版的期別、2015 年版三級復發風險與年齡三個維度交叉，終點是 10 年疾病特異性存活——注意這張表的終點是存活，它是拿復發風險去把存活估得更細——畫成六條橫條：第一期加復發風險低 100%、第一期加中風險 98%、第一期加高風險且 45 歲以下 95%、第一期加高風險且 45 到 55 歲 89%、第二期加高風險且 45 歲以下 78%、第二期加高風險且 45 到 55 歲 61%。說明寫：同樣都寫「第八版第一期」，從 100% 到 89%；同樣都寫「第八版第二期」，從 78% 到 61%；原作者自己的結論是第八版把多達三分之一的病人重新歸進比較年輕的預後分組，低期別裡的疾病光譜因此變寬，那些樂觀的估計未必反映得了帶有高風險特徵的個別病人。接著一格寫第八版對復發也分得比較好、但那是另一個終點：一項納入 3,248 名治療後無病者的登記研究，終點是復發，其中 110 人（3%）復發、中位 27 個月；用第七版排，第二期相對第一期的風險比是 0.91（95% 信賴區間 0.39–2.11），幾乎沒有差別，換成第八版，第二期的風險比變成 4.06（2.38–6.93）；這是好消息，但不要把它和上一段的存活數字混在同一句話裡，那一段的終點是死亡，這一段的終點是復發。再一格寫分期系統本來就解釋不了多少：2015 年版指引寫過，所有為預測甲狀腺癌死亡而設計的分期系統能解釋的不確定性都只有 5% 到 30%，復發風險系統則是 19% 到 34%；就算期別和風險組都排好，大部分的不確定性仍然留在外面，所以期別不是一個結論，它是一個起點。圖的最後是一個紅框的界線區塊，標題是「這張圖不會替你把兩個標籤合成一個」，內容有六條：兩條軸之間不畫箭頭，「第一期」不等於「低風險」、「中間—高風險」也不是「第三期」，任何把兩個標籤合成一句話的說法都是錯的；「一把尺量死亡、一把尺量復發」那種對稱的講法，指引沒說過後面那半句，這張圖不寫，不對稱只成立在一個方向——分期是為死亡建的、指引自己說它不足以預測復發，而第 28A 條把復發分層延伸到「和／或存活」；每一個數字都帶版本，AJCC 第七版用 45 歲、第八版用 55 歲，美國甲狀腺學會 2015 年版用的是第七版、2025 年版才是這個學會第一份以第八版為基礎的分化型甲狀腺癌指引；網路上最常看到的「甲狀腺癌五年存活率 98%」來源通常是美國的統計，美國預防服務工作小組 2017 年那份文件引用的是 98.1%，那是所有組織型、所有期別、所有年齡合在一起的數字，可以描述一個國家、不能描述你那一格；台灣的分期別數字在全國癌症登記報告裡查無列項，甲狀腺癌沒有期別分布、也沒有分期別的存活，所以這張圖給不出「台灣第幾期活多久」，也不用國外的數字冒充；如果你 55 歲以下而報告寫著第二期，一定要問出口：這是因為有遠端轉移嗎？轉移在哪裡？</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="3579" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">TWO SYSTEMS, TWO LABELS - AND NO ARROW BETWEEN THEM</text>
+<text x="84" y="142" font-size="38" fill="#123641" font-weight="800" class="r">兩套系統，兩個標籤：不對稱只成立在一個方向</text>
+<text x="84" y="201.88" font-size="19" fill="#527078">報告上會有兩個標籤：一個期別，一個復發風險組。它們不能互相翻譯——期別不是一個復發機率，風險組也不是一個死亡機率。</text>
+<text x="84" y="236.38" font-size="19" fill="#527078">這張圖把它們畫成兩條分開的軸，中間沒有箭頭。兩套系統是為了不同的主要問題而建的，而不對稱只成立在一個方向：分期是為死亡建的，指引自己</text>
+<text x="84" y="264.88" font-size="19" fill="#527078">說它不足以預測復發，這正是當年另外做一套復發分層的理由。</text>
+<rect x="84" y="323.38" width="607" height="172.8" rx="18" fill="#E3E8F6" stroke="#5C77C4" stroke-width="2.5"/>
+<rect x="104" y="343.38" width="49" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="115" y="360.88" font-size="13.5" fill="#FFFFFF" font-weight="800">軸一</text>
+<text x="104" y="400.38" font-size="22" fill="#123641" font-weight="800" class="r">AJCC／TNM 期別</text>
+<text x="104" y="450.98" font-size="18" fill="#5C77C4" font-weight="800">它預測的是：死於這個病（疾病特異性存活）</text>
+<g filter="url(#sh)">
+<rect x="84" y="510.18" width="607" height="123.57" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="112" y="543.68" font-size="15.5" fill="#345963">2025 年那份美國甲狀腺學會的分化型甲狀腺癌指引直接寫：AJCC 與 UICC 的分</text>
+<text x="112" y="567.71" font-size="15.5" fill="#345963">期是為了預測疾病特異性存活而設計的，因此它不預測結構性殘存或復發的整體風</text>
+<text x="112" y="591.73" font-size="15.5" fill="#345963">險。</text>
+<line x1="102" y1="526.18" x2="102" y2="611.75" stroke="#5C77C4" stroke-width="4" stroke-linecap="butt"/>
+<g filter="url(#sh)">
+<rect x="84" y="647.75" width="607" height="187" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="685.75" font-size="18" fill="#5C77C4" font-weight="800">55 歲那條線，和它之前的 45 歲</text>
+<circle cx="108.5" cy="726.55" r="4" fill="#5C77C4"/>
+<text x="123" y="731.88" font-size="14" fill="#345963">AJCC 第八版從 2018 年起生效，把分期用的年齡切點從 45 歲提高到 55 歲。</text>
+<circle cx="108.5" cy="754.27" r="4" fill="#5C77C4"/>
+<text x="123" y="759.6" font-size="14" fill="#345963">美國甲狀腺學會 2015 年那一版指引的分期表用的還是第七版，切點寫 45 歲；2025 年</text>
+<text x="123" y="780.32" font-size="14" fill="#345963">版才是這個學會第一份以第八版為基礎的分化型甲狀腺癌指引。</text>
+<circle cx="108.5" cy="802.72" r="4" fill="#5C77C4"/>
+<text x="123" y="808.04" font-size="14" fill="#345963">拿 2018 年以前的資料去對現在的報告，會對錯。</text>
+<g filter="url(#sh)">
+<rect x="84" y="848.76" width="607" height="165.94" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2"/>
+</g>
+<text x="104" y="886.76" font-size="18" fill="#B04A4A" font-weight="800">第八版最常被誤讀的那一句</text>
+<circle cx="108.5" cy="928.49" r="4" fill="#B04A4A"/>
+<text x="123" y="934.38" font-size="15.5" fill="#345963">所有 55 歲以下的病人都是第一期，除非有遠端轉移，那樣是第二期。</text>
+<circle cx="108.5" cy="958.43" r="4" fill="#B04A4A"/>
+<text x="123" y="964.32" font-size="15.5" fill="#345963">請反過來讀一次：一個 55 歲以下的人如果拿到「第二期」，依定義那代表已經</text>
+<text x="123" y="987.26" font-size="15.5" fill="#345963">有遠端轉移。「第二期而已」這四個字在這裡完全不成立。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1028.7" width="607" height="194" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1066.7" font-size="18" fill="#5C77C4" font-weight="800">55 歲以上是另一套排法</text>
+<circle cx="108.5" cy="1107.5" r="4" fill="#5C77C4"/>
+<text x="123" y="1112.82" font-size="14" fill="#345963">腫瘤侷限在甲狀腺內、沒有轉移，是第一期。</text>
+<circle cx="108.5" cy="1135.22" r="4" fill="#5C77C4"/>
+<text x="123" y="1140.54" font-size="14" fill="#345963">加上淋巴結轉移，或腫瘤大於 4 公分、或肉眼侵犯帶狀肌，是第二期。</text>
+<circle cx="108.5" cy="1162.94" r="4" fill="#5C77C4"/>
+<text x="123" y="1168.26" font-size="14" fill="#345963">肉眼侵犯到皮下軟組織、喉、氣管、食道或喉返神經是第三期。</text>
+<circle cx="108.5" cy="1190.66" r="4" fill="#5C77C4"/>
+<text x="123" y="1195.98" font-size="14" fill="#345963">侵犯椎前筋膜或包覆頸動脈是第四期 A；有遠端轉移是第四期 B。</text>
+<text x="88" y="1250.7" font-size="14" fill="#527078">第八版另外兩項改動：只在顯微鏡下看到的甲狀腺外侵犯不再算進 T3 的定義；淋巴結轉移不再</text>
+<text x="88" y="1271.7" font-size="14" fill="#527078">自動把人推到第三期。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1308.7" width="607" height="432.54" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1346.7" font-size="18" fill="#123641" font-weight="800">同一批人，兩個版本各排一次</text>
+<text x="104" y="1387.32" font-size="12.5" fill="#527078">一篇納入 6 篇研究、10,850 名分化型甲狀腺癌病人、中位追蹤 55 到 148 個月的統合分析。</text>
+<text x="104" y="1431.44" font-size="14" fill="#527078" font-weight="700">第七版</text>
+<rect x="104" y="1437.04" width="337.2" height="26" rx="6" fill="#5C77C4"/>
+<rect x="444.2" y="1437.04" width="25.35" height="26" rx="6" fill="#96790F"/>
+<rect x="472.55" y="1437.04" width="116.07" height="26" rx="6" fill="#00806B"/>
+<rect x="591.62" y="1437.04" width="53.7" height="26" rx="6" fill="#B04A4A"/>
+<text x="104" y="1489.04" font-size="14" fill="#527078" font-weight="700">第八版</text>
+<rect x="104" y="1494.64" width="456.27" height="26" rx="6" fill="#5C77C4"/>
+<rect x="563.27" y="1494.64" width="70.71" height="26" rx="6" fill="#96790F"/>
+<rect x="636.98" y="1494.64" width="8.34" height="26" rx="6" fill="#00806B"/>
+<rect x="648.32" y="1494.64" width="14.01" height="26" rx="6" fill="#B04A4A"/>
+<rect x="104" y="1534.64" width="11" height="11" rx="2" fill="#5C77C4"/>
+<text x="124" y="1546.64" font-size="14" fill="#345963">第一期</text>
+<rect x="396.5" y="1534.64" width="11" height="11" rx="2" fill="#96790F"/>
+<text x="416.5" y="1546.64" font-size="14" fill="#345963">第二期</text>
+<rect x="104" y="1574.94" width="11" height="11" rx="2" fill="#00806B"/>
+<text x="124" y="1586.94" font-size="14" fill="#345963">第三期</text>
+<rect x="396.5" y="1574.94" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="416.5" y="1586.94" font-size="14" fill="#345963">第四期</text>
+<text x="104" y="1633.24" font-size="14" fill="#527078" font-weight="700">第一期</text>
+<text x="387.5" y="1633.24" font-size="14" fill="#345963">60% → 81%</text>
+<text x="104" y="1660.24" font-size="14" fill="#527078" font-weight="700">第二期</text>
+<text x="387.5" y="1660.24" font-size="14" fill="#345963">5% → 13%</text>
+<text x="104" y="1687.24" font-size="14" fill="#527078" font-weight="700">第三期</text>
+<text x="387.5" y="1687.24" font-size="14" fill="#345963">21% → 2%</text>
+<text x="104" y="1714.24" font-size="14" fill="#527078" font-weight="700">第四期</text>
+<text x="387.5" y="1714.24" font-size="14" fill="#345963">10% → 3%</text>
+<g filter="url(#sh)">
+<rect x="84" y="1755.24" width="607" height="333.92" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1793.24" font-size="18" fill="#123641" font-weight="800">10 年疾病特異性存活，按版本分列</text>
+<text x="104" y="1845.36" font-size="18" fill="#123641" font-weight="800">第二期</text>
+<text x="104" y="1866.56" font-size="14" fill="#527078" font-weight="700">第七版</text>
+<text x="671" y="1866.56" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">98.1%（96.6–99.6）</text>
+<text x="104" y="1889.66" font-size="14" fill="#527078" font-weight="700">第八版</text>
+<text x="671" y="1889.66" font-size="14" fill="#B04A4A" font-weight="800" text-anchor="end">88.6%（82.7–94.6）</text>
+<text x="104" y="1926.76" font-size="18" fill="#123641" font-weight="800">第三期</text>
+<text x="104" y="1947.96" font-size="14" fill="#527078" font-weight="700">第七版</text>
+<text x="671" y="1947.96" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">96.8%（94.1–99.64）</text>
+<text x="104" y="1971.06" font-size="14" fill="#527078" font-weight="700">第八版</text>
+<text x="671" y="1971.06" font-size="14" fill="#B04A4A" font-weight="800" text-anchor="end">70.5%（59.1–83.9）</text>
+<text x="104" y="2006.16" font-size="14" fill="#345963">數字掉了快十個百分點，不是因為病人變差了，是因為裝進「第二期」這個盒子裡的人換了</text>
+<text x="104" y="2027.16" font-size="14" fill="#345963">一批——指引的說法是有 20% 到 30% 的病人相較第七版降期。所以同樣寫著「第二期」的兩</text>
+<text x="104" y="2048.16" font-size="14" fill="#345963">份報告，如果版本不同，指的其實不是同一種處境。</text>
+<rect x="749" y="323.38" width="607" height="198" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2.5"/>
+<rect x="769" y="343.38" width="49" height="25" rx="12.5" fill="#00806B"/>
+<text x="780" y="360.88" font-size="13.5" fill="#FFFFFF" font-weight="800">軸二</text>
+<text x="769" y="400.38" font-size="22" fill="#123641" font-weight="800" class="r">ATA 復發風險分層（四級）</text>
+<text x="769" y="450.98" font-size="18" fill="#00806B" font-weight="800">它預測的是：結構性疾病殘存或復發（局部區域和／或遠端），和／或</text>
+<text x="769" y="476.18" font-size="18" fill="#00806B" font-weight="800">存活</text>
+<g filter="url(#sh)">
+<rect x="749" y="535.38" width="607" height="123.57" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="777" y="568.88" font-size="15.5" fill="#345963">2015 年那一版講得更白：因為 AJCC 與 TNM 這套為死亡風險設計的分期系統</text>
+<text x="777" y="592.9" font-size="15.5" fill="#345963">無法充分預測分化型甲狀腺癌的復發風險，所以 2009 年那一版指引才另外提出一</text>
+<text x="777" y="616.93" font-size="15.5" fill="#345963">套復發風險分層。</text>
+<line x1="767" y1="551.38" x2="767" y2="636.95" stroke="#00806B" stroke-width="4" stroke-linecap="butt"/>
+<g filter="url(#sh)">
+<rect x="749" y="672.95" width="607" height="410.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="769" y="710.95" font-size="18" fill="#123641" font-weight="800">2025 年版直接用復發機率來定義四個級距</text>
+<rect x="769" y="747.07" width="567" height="50" rx="12" fill="#D8EDE7"/>
+<rect x="769" y="747.07" width="6" height="50" rx="3" fill="#00806B"/>
+<text x="789" y="778.73" font-size="18" fill="#00806B" font-weight="800">低</text>
+<text x="1318" y="779.63" font-size="21" fill="#123641" font-weight="800" text-anchor="end">低於 10%</text>
+<rect x="769" y="806.07" width="567" height="50" rx="12" fill="#F3E8CD"/>
+<rect x="769" y="806.07" width="6" height="50" rx="3" fill="#96790F"/>
+<text x="789" y="837.73" font-size="18" fill="#96790F" font-weight="800">低—中間</text>
+<text x="1318" y="838.63" font-size="21" fill="#123641" font-weight="800" text-anchor="end">10% 到 15%</text>
+<rect x="769" y="865.07" width="567" height="50" rx="12" fill="#F3E8CD"/>
+<rect x="769" y="865.07" width="6" height="50" rx="3" fill="#96790F"/>
+<text x="789" y="896.73" font-size="18" fill="#96790F" font-weight="800">中間—高</text>
+<text x="1318" y="897.63" font-size="21" fill="#123641" font-weight="800" text-anchor="end">16% 到 30%</text>
+<rect x="769" y="924.07" width="567" height="50" rx="12" fill="#F6E2E0"/>
+<rect x="769" y="924.07" width="6" height="50" rx="3" fill="#B04A4A"/>
+<text x="789" y="955.73" font-size="18" fill="#B04A4A" font-weight="800">高</text>
+<text x="1318" y="956.63" font-size="21" fill="#123641" font-weight="800" text-anchor="end">超過 30%</text>
+<text x="769" y="1000.07" font-size="14" fill="#345963">2015 年版是三級：低、中、高。2025 年版變成四級。分家的理由指引自己有寫：原本「</text>
+<text x="769" y="1021.07" font-size="14" fill="#345963">中」那一格裡的各個條件，並不是每一個都預測同樣的復發風險。「低—中間」與「中間—高」</text>
+<text x="769" y="1042.07" font-size="14" fill="#345963">這兩個中文名字是這個專題固定的譯法。</text>
+<g filter="url(#sh)">
+<rect x="749" y="1097.07" width="607" height="241.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="769" y="1135.07" font-size="18" fill="#123641" font-weight="800">2025 年版第 28A 條：這套系統被要求判定什麼</text>
+<text x="769" y="1184.69" font-size="15.5" fill="#00806B" font-weight="700">判定結構性疾病殘存或復發（局部區域和／或遠端）和／或存活的風險。強烈建議、</text>
+<text x="769" y="1207.94" font-size="15.5" fill="#00806B" font-weight="700">中等確定性證據。</text>
+<text x="769" y="1255.19" font-size="14" fill="#345963">「和／或存活」常在轉述時被省掉，但它在原文裡。所以復發風險分層的主要工作是結構性</text>
+<text x="769" y="1276.19" font-size="14" fill="#345963">復發，而指引自己的條文又把它延伸到存活。反方向的那一句——復發分層不能預測死亡——</text>
+<text x="769" y="1297.19" font-size="14" fill="#345963">指引沒有寫過。</text>
+<g filter="url(#sh)">
+<rect x="749" y="1352.19" width="607" height="252.12" rx="18" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2"/>
+</g>
+<text x="769" y="1390.19" font-size="18" fill="#8F7418" font-weight="800">這一欄有一件事我要老實交代</text>
+<text x="769" y="1436.31" font-size="14" fill="#345963">2025 年四級系統每一格的完整納入條件，這次沒有取得——它在指引裡是一張圖，可擷取的</text>
+<text x="769" y="1457.31" font-size="14" fill="#345963">文字只有四個級距的百分比。</text>
+<text x="769" y="1500.31" font-size="14" fill="#345963">所以「什麼條件會被歸到哪一格」，只能引 2015 年版那一張表：低風險要求沒有侵襲性亞</text>
+<text x="769" y="1521.31" font-size="14" fill="#345963">型、沒有血管侵犯、沒有臨床上的淋巴結轉移；中風險包含顯微鏡下侵犯甲狀腺周圍軟組織、</text>
+<text x="769" y="1542.31" font-size="14" fill="#345963">侵襲性亞型、乳突癌合併血管侵犯、臨床上可見的淋巴結轉移；高風險包含肉眼可見的甲狀</text>
+<text x="769" y="1563.31" font-size="14" fill="#345963">腺外侵犯、切除不完全、遠端轉移、3 公分以上的轉移淋巴結，以及廣泛血管侵犯的濾泡癌。</text>
+<line x1="720" y1="323.38" x2="720" y2="2089.16" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<rect x="84" y="2115.16" width="1272" height="209.13" rx="18" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+<rect x="108" y="2139.16" width="300" height="104" rx="14" fill="url(#hatch)"/>
+<rect x="108" y="2139.16" width="300" height="104" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="122" y1="2153.16" x2="394" y2="2229.16" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="394" y1="2153.16" x2="122" y2="2229.16" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="108" y="2268.66" font-size="15.5" fill="#B04A4A" font-weight="800">這裡沒有箭頭</text>
+<text x="446" y="2154.66" font-size="15.5" fill="#345963">兩個標籤不能互相翻譯。「第一期」不等於「低風險」，「中間—高風險」也不是「第三期」。期別不是一個復發機率，風險組也</text>
+<text x="446" y="2178.68" font-size="15.5" fill="#345963">不是一個死亡機率。</text>
+<text x="446" y="2228.21" font-size="15.5" fill="#345963">不對稱只成立在一個方向：分期是為死亡建的，指引自己說它不足以預測復發，這正是另外做一套復發分層的理由；而復發分層的</text>
+<text x="446" y="2252.23" font-size="15.5" fill="#345963">主要工作是結構性復發，第 28A 條又把它延伸到「和／或存活」。兩套系統在同一份文件裡是分開掛理由的，這張圖也把它們分</text>
+<text x="446" y="2276.26" font-size="15.5" fill="#345963">開畫。</text>
+<text x="84" y="2374.28" font-size="22" fill="#123641" font-weight="800" class="r">兩套系統疊起來看，會看到什麼</text>
+<text x="84" y="2399.76" font-size="14" fill="#527078">一個 4,881 名 55 歲以下成人分化型甲狀腺癌的登記，1980 到 2016 年初次治療，中位追蹤 6.6 年，122 人（2.5%）死於這個病。把 AJCC 第八版的期別、2015 年版三級復發風險、以及年齡三個維度</text>
+<text x="84" y="2420.76" font-size="14" fill="#527078">交叉，終點是 10 年疾病特異性存活——注意這張表的終點是存活，它是拿復發風險去把存活估得更細。</text>
+<g filter="url(#sh)">
+<rect x="84" y="2439.76" width="1272" height="334" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="106" y="2479.76" font-size="14" fill="#527078" font-weight="700">第一期＋復發風險低</text>
+<rect x="436" y="2461.76" width="768" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="436" y="2461.76" width="768" height="26" rx="7" fill="#5C77C4"/>
+<text x="1216" y="2482.32" font-size="21" fill="#5C77C4" font-weight="800">100%</text>
+<text x="106" y="2517.76" font-size="14" fill="#527078" font-weight="700">第一期＋中風險</text>
+<rect x="436" y="2499.76" width="768" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="436" y="2499.76" width="752.64" height="26" rx="7" fill="#5C77C4"/>
+<text x="1216" y="2520.32" font-size="21" fill="#5C77C4" font-weight="800">98%</text>
+<text x="106" y="2555.76" font-size="14" fill="#527078" font-weight="700">第一期＋高風險、45 歲以下</text>
+<rect x="436" y="2537.76" width="768" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="436" y="2537.76" width="729.6" height="26" rx="7" fill="#5C77C4"/>
+<text x="1216" y="2558.32" font-size="21" fill="#5C77C4" font-weight="800">95%</text>
+<text x="106" y="2593.76" font-size="14" fill="#527078" font-weight="700">第一期＋高風險、45 到 55 歲</text>
+<rect x="436" y="2575.76" width="768" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="436" y="2575.76" width="683.52" height="26" rx="7" fill="#5C77C4"/>
+<text x="1216" y="2596.32" font-size="21" fill="#5C77C4" font-weight="800">89%</text>
+<text x="106" y="2631.76" font-size="14" fill="#527078" font-weight="700">第二期＋高風險、45 歲以下</text>
+<rect x="436" y="2613.76" width="768" height="26" rx="7" fill="#F6E2E0"/>
+<rect x="436" y="2613.76" width="599.04" height="26" rx="7" fill="#B04A4A"/>
+<text x="1216" y="2634.32" font-size="21" fill="#B04A4A" font-weight="800">78%</text>
+<text x="106" y="2669.76" font-size="14" fill="#527078" font-weight="700">第二期＋高風險、45 到 55 歲</text>
+<rect x="436" y="2651.76" width="768" height="26" rx="7" fill="#F6E2E0"/>
+<rect x="436" y="2651.76" width="468.48" height="26" rx="7" fill="#B04A4A"/>
+<text x="1216" y="2672.32" font-size="21" fill="#B04A4A" font-weight="800">61%</text>
+<text x="106" y="2709.76" font-size="14" fill="#345963">同樣都寫「第八版第一期」，從 100% 到 89%。同樣都寫「第八版第二期」，從 78% 到 61%。原作者自己的結論是：第八版把多達三分之一的病人重新歸進比較年輕的預後分組，低期別裡的疾病光</text>
+<text x="106" y="2730.76" font-size="14" fill="#345963">譜因此變寬；那些樂觀的估計，未必反映得了帶有高風險特徵的個別病人。</text>
+<rect x="84" y="2787.76" width="1272" height="181.3" rx="14" fill="#ECE8DE"/>
+<text x="100" y="2817.76" font-size="14" fill="#123641" font-weight="800">第八版對復發也分得比較好，但那是另一個終點</text>
+<text x="100" y="2854.07" font-size="14" fill="#345963">一項以登記資料為基礎、納入 3,248 名治療後無病者的研究，終點是復發，其中 110 人（3%）復發，中位 27 個月。</text>
+<text x="100" y="2893.07" font-size="14" fill="#345963">用第七版排，第二期相對第一期的風險比是 0.91（95% 信賴區間 0.39–2.11），也就是幾乎沒有差別；換成第八版，第二期的風險比變成 4.06（2.38–6.93）。</text>
+<text x="100" y="2932.07" font-size="14" fill="#345963">這是好消息，但請不要把它和上一段的存活數字混在同一句話裡。那一段的終點是死亡，這一段的終點是復發。</text>
+<rect x="84" y="2983.07" width="1272" height="142.3" rx="14" fill="#ECE8DE"/>
+<text x="100" y="3013.07" font-size="14" fill="#123641" font-weight="800">分期系統本來就解釋不了多少</text>
+<text x="100" y="3049.37" font-size="14" fill="#345963">2015 年版指引寫過一句很少人引用的話：所有為預測甲狀腺癌死亡而設計的分期系統，能解釋的不確定性都只有 5% 到 30%；復發風險系統則是 19% 到 34%。</text>
+<text x="100" y="3088.37" font-size="14" fill="#345963">就算期別和風險組都排好，大部分的不確定性仍然留在外面。所以期別不是一個結論，它是一個起點。</text>
+<rect x="84" y="3147.37" width="1272" height="353.35" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="3193.37" font-size="18" fill="#B04A4A" font-weight="800">這張圖不會替你把兩個標籤合成一個</text>
+<text x="110" y="3224.97" font-size="15.5" fill="#345963">兩條軸之間我不畫箭頭：「第一期」不等於「低風險」，「中間—高風險」也不是「第三期」。任何把兩個標籤合成一句話的說法都是錯的。</text>
+<text x="110" y="3258.22" font-size="15.5" fill="#345963">「一把尺量死亡、一把尺量復發」那種對稱的講法，指引沒說過後面那半句，這張圖不寫。不對稱只成立在一個方向：分期是為死亡建的，指引自己說它不足以預測復發；而第</text>
+<text x="110" y="3281.47" font-size="15.5" fill="#345963">28A 條把復發分層延伸到「和／或存活」。</text>
+<text x="110" y="3314.72" font-size="15.5" fill="#345963">每一個數字都帶版本。AJCC 第七版用 45 歲、第八版用 55 歲；美國甲狀腺學會 2015 年版用的是第七版，2025 年版才是這個學會第一份以第八版為基礎的分化型甲狀腺癌指</text>
+<text x="110" y="3337.97" font-size="15.5" fill="#345963">引。</text>
+<text x="110" y="3371.22" font-size="15.5" fill="#345963">網路上最常看到的「甲狀腺癌五年存活率 98%」，來源通常是美國的統計——美國預防服務工作小組 2017 年那份文件引用的是 98.1%。那是所有組織型、所有期別、所有年齡合在</text>
+<text x="110" y="3394.47" font-size="15.5" fill="#345963">一起的數字。它可以描述一個國家，不能描述你那一格。</text>
+<text x="110" y="3427.72" font-size="15.5" fill="#345963">台灣的分期別數字：全國癌症登記報告裡甲狀腺癌沒有期別分布，也沒有分期別的存活。查無列項。所以「台灣第幾期活多久」這張圖給不出來，也不用國外的數字冒充。</text>
+<text x="110" y="3460.97" font-size="15.5" fill="#345963">如果你 55 歲以下而報告寫著第二期，一定要問出口：這是因為有遠端轉移嗎？轉移在哪裡？</text>
+<text x="84" y="3520.72" font-size="15" fill="#527078">示意圖，依美國甲狀腺學會 2025 年與 2015 年分化型甲狀腺癌指引、AJCC 第八版分期的重大改動說明、2021 年第七版對第八版的統合分析、2018 年以復發風險細分第八版存活估計的登</text>
+<text x="84" y="3543.97" font-size="15" fill="#527078">記研究、2019 年第七版對第八版復發風險的人口研究與美國預防服務工作小組 2017 年甲狀腺癌篩檢建議重繪，非擷取自原論文圖表；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

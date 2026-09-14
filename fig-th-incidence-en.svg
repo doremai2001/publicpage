@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="3990" viewBox="0 0 1440 3990" role="img" aria-labelledby="t d">
+  <title id="t">What has risen is the number of people diagnosed: Taiwan, Korea and the 63-country estimate</title>
+  <desc id="d">A schematic in four parts, setting out what the rise in thyroid cancer looks like in different countries and where the boundaries of the idea of overdiagnosis lie. The first part is Taiwan. On the left, a line shows notified new cases of thyroid malignancy in the national cancer registry at five points: 1,228 in 1999, 2,433 in 2009, 3,737 in 2015, 4,974 in 2020 and 6,045 in 2023, roughly 4.9 times over twenty-four years. In 2023 the figures were 1,507 men and 4,538 women, and thyroid cancer ranked 11th by incidence in men and 4th in women that year. Beneath the line a note records the peer-reviewed version, which covers women only: the age-standardised incidence rate rose from 7.37 per 100,000 in 1995-1999 to 20.53 in 2015-2019, an annual percentage change of 5.9% (95% confidence interval 5.3 to 6.5), and the authors write in their conclusion that they hypothesise overdiagnosis as the main driver - a hypothesis, not an estimate. On the right, separated by a dashed rule labelled &quot;different denominators - these two may not share an axis&quot;, is the mortality end of the same year: 225 people died of thyroid malignancy in 2023, 81 men and 144 women, 0.42% of all cancer deaths, ranked 23rd by mortality in men and 23rd in women; and this is one single year, not a trend line. The same card lists the age-standardised rates on the 2000 world standard population: age-standardised incidence 9.49 in men and 28.12 in women per 100,000, and age-standardised mortality 0.39 in men and 0.50 in women. On being diagnosed women run at roughly three times the male figure; on dying of the disease the gap is down to roughly one point three times. Below this part a crossed-out box reads &quot;a year-by-year age-standardised mortality series for Taiwan&quot;: no officially published version was found, so the figure carries no Taiwanese mortality trend line, and the 0.39 and 0.50 cannot be used to claim that mortality has stayed flat. The second part is Korea. A line shows cases in the Korean national registry: 3,407 in 1999, 44,748 in 2012, 25,523 in 2015 and 30,676 in 2019. A note beside it records that between 1999 and 2008 incidence rose 6.4-fold (95% confidence interval 4.9 to 8.4) from 6.4 to 40.7 per 100,000, that 94.4% of the increase were tumours smaller than 20 mm and 97.1% were localised or regional disease. Below the line, three horizontal bars give age-standardised incidence per 100,000: 24.09 in 2005, 74.83 in 2012 and 42.52 in 2015, flat by 2018, with a note that people under 30 showed no significant fall after the 2015 peak and if anything signs of a further rise. Next comes a left-to-right arrow carrying two dated marks: 2012, incidence begins to fall, and 2014, the public debate begins. Beside it the figure quotes the source: the decline ran from 2012 to 2016, before the debates began in 2014; something that happened first cannot be explained by something that happened afterwards; and the curve rose again after 2015 (25,523 cases in 2015, 30,676 in 2019), so the single-line story in which one public statement brings incidence down is not drawn here. This part closes with three bars headed &quot;deaths from thyroid cancer per 1,000 person-years among people already diagnosed with it, set out by year of diagnosis&quot;: 1.94 in 2005, 0.76 in 2013 and 2.70 in 2018, with the rise concentrated in two groups, those who had a total thyroidectomy and those who had no thyroid surgery at all. The cohort is a Korean nationwide cohort following 434,228 people already diagnosed with thyroid cancer (352,678 women, 81,550 men), mean age 48.6 years, median follow-up 7.4 years. The figure states that the denominator is people already diagnosed and not the population, a different calculation from the per-100,000 rates above, so the two lines are not comparable; in the years when screening poured large numbers of low-risk people into that denominator the mortality within this group of course fell and rose again once screening receded, so all it can speak to is that the composition of the people being diagnosed changed, and it cannot speak for the population; the authors themselves write that this line is discordant with Korean population mortality, which continuously decreased until 2015. The third part is the United States: a grey panel records that the 2025 guidelines state that between 1974 and 2013 the rise in incidence occurred across all stages, and that over the same period the mortality rate increased annually by 1.1% in advanced disease; the same document also records that after United States incidence peaked at 14.9 per 100,000 in 2015, the years 2015 to 2017 brought the first decline in three decades. So &quot;more of it, and no more deaths&quot; is a stronger sentence than the evidence behind it; what rebuts it is the American line, that the cell in which mortality rose is advanced disease. As for how overall mortality moved across countries, there is no series here to cite, so none is drawn. The fourth part is the 63-country estimate covering 2013 to 2017, 63 countries and 385 cancer registries. One long horizontal bar is split in two, the larger segment labelled: of 2,297,057 cases, 1,736,133 (75.6%) were attributed to overdiagnosis, of whom 1,368,181 were women and 367,952 were men. Two tags record that the female overdiagnosis fraction exceeded 85% in Cyprus, China, South Korea and Turkiye, and was estimated at zero in Uganda, Zimbabwe and Trinidad and Tobago. The same panel notes that the international gap between the highest and lowest female incidence had widened to 101.4 per 100,000 by 2012 while the international gap in mortality stayed at roughly 1.0 to 2.0 per 100,000 throughout, and it states plainly that the 75.6% is the number of people diagnosed in a whole country minus the number who would have developed symptoms, an arithmetic with no cell in it for you. A second crossed-out box below reads &quot;a Taiwanese overdiagnosis percentage&quot;: the abstract of that paper does not name Taiwan, the full text is not open access and the supplementary material could not be obtained, so no Taiwanese overdiagnosis percentage appears on this figure and no other country is used to stand in for one. The figure ends with a red-framed panel headed &quot;what this figure must not be read to say&quot;. Overdiagnosis is not misdiagnosis; the pathologist did not get it wrong and those really are cancer cells. Nor does it mean the thing is not really cancer; it is about whether this cancer would ever have caused trouble in this person's remaining lifetime. It can only be worked out at the level of a population and only in retrospect - the number of people diagnosed minus the number of the same people who would have developed symptoms - and no test can tell you today whether your nodule belongs to that difference. So &quot;three-quarters of cases worldwide were attributed to overdiagnosis&quot; cannot be rewritten as &quot;mine probably needs no attention&quot;; what actually decides is the histological type, the size, the invasion, the nodes on your report and your age, which are covered in &quot;Papillary, follicular, NIFTP: reading the report&quot; and &quot;Why the stage depends on your age&quot;. The opposite reading is barred too: the figure does not say that finding things early is all superfluous, because mortality in the advanced-disease cell has been moving and high-risk groups were never inside the scope of the 2017 US Preventive Services Task Force grade D recommendation, which is about asymptomatic adults.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="3990" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">INCIDENCE, DEATHS, AND WHAT OVERDIAGNOSIS IS NOT</text>
+<text x="84" y="142" font-size="38" fill="#123641" font-weight="800" class="r">What has risen is the number of people diagnosed</text>
+<text x="84" y="201.88" font-size="19" fill="#527078">On the left, the number of new cases in Taiwan. On the right, the number of deaths in one single year. These are two different</text>
+<text x="84" y="230.38" font-size="19" fill="#527078">quantities: they do not share an axis, and they are not subtracted from one another.</text>
+<text x="84" y="264.88" font-size="19" fill="#527078">Everything on this figure is a statistic about a whole country and a whole generation, and it can only be worked out in retrospect.</text>
+<text x="84" y="293.38" font-size="19" fill="#527078">It cannot tell any one person which kind their own nodule is.</text>
+<text x="84" y="391.88" font-size="22" fill="#123641" font-weight="800" class="r">Taiwan: the line of new cases</text>
+<text x="84" y="417.36" font-size="14" fill="#527078">Notified new cases of thyroid malignancy in the national cancer registry, from 1999 to 2023.</text>
+<g filter="url(#sh)">
+<rect x="84" y="436.36" width="619" height="498.62" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="474.36" font-size="18" fill="#123641" font-weight="800">Notified new cases (people)</text>
+<rect x="104" y="504.12" width="579" height="210" rx="12" fill="#F3E8CD"/>
+<line x1="122" y1="680.12" x2="665" y2="680.12" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<path d="M 150 657.31 L 352.92 634.94 L 474.67 610.72 L 576.12 587.75 L 637 567.86" fill="none" stroke="#96790F" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="150" cy="657.31" r="5.5" fill="#96790F"/>
+<text x="150" y="644.31" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">1,228</text>
+<text x="150" y="700.12" font-size="12.5" fill="#527078" text-anchor="middle">1999</text>
+<circle cx="352.92" cy="634.94" r="5.5" fill="#96790F"/>
+<text x="352.92" y="621.94" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">2,433</text>
+<text x="352.92" y="700.12" font-size="12.5" fill="#527078" text-anchor="middle">2009</text>
+<circle cx="474.67" cy="610.72" r="5.5" fill="#96790F"/>
+<text x="474.67" y="597.72" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">3,737</text>
+<text x="474.67" y="700.12" font-size="12.5" fill="#527078" text-anchor="middle">2015</text>
+<circle cx="576.12" cy="587.75" r="5.5" fill="#96790F"/>
+<text x="576.12" y="574.75" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">4,974</text>
+<text x="576.12" y="700.12" font-size="12.5" fill="#527078" text-anchor="middle">2020</text>
+<circle cx="637" cy="567.86" r="5.5" fill="#96790F"/>
+<text x="637" y="554.86" font-size="12.5" fill="#96790F" font-weight="800" text-anchor="middle">6,045</text>
+<text x="637" y="700.12" font-size="12.5" fill="#527078" text-anchor="middle">2023</text>
+<text x="104" y="740.12" font-size="14" fill="#345963">About 4.9 times over twenty-four years. In 2023: 1,507 men and 4,538 women;</text>
+<text x="104" y="761.12" font-size="14" fill="#345963">thyroid cancer ranked 11th by incidence in men and 4th in women that year.</text>
+<text x="104" y="790.62" font-size="12.5" fill="#527078">The peer-reviewed version covers women only: the age-standardised incidence rate</text>
+<text x="104" y="808.75" font-size="12.5" fill="#527078">rose from 7.37 per 100,000 in 1995-1999 to 20.53 in 2015-2019, an annual percentage</text>
+<text x="104" y="826.87" font-size="12.5" fill="#527078">change of 5.9% (95% confidence interval 5.3 to 6.5). The authors wrote in their conclusion</text>
+<text x="104" y="845" font-size="12.5" fill="#527078">that they &quot;hypothesise&quot; overdiagnosis as the main driver - a hypothesis, not an estimate.</text>
+<g filter="url(#sh)">
+<rect x="737" y="436.36" width="619" height="500.62" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="757" y="456.36" width="189.35" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="768" y="473.86" font-size="13.5" fill="#FFFFFF" font-weight="800">2023, one single year</text>
+<text x="757" y="505.36" font-size="14" fill="#527078" font-weight="700">Deaths from thyroid malignancy</text>
+<text x="757" y="541.74" font-size="28" fill="#B04A4A" font-weight="800">225 people</text>
+<text x="757" y="565.26" font-size="14" fill="#345963">81 men and 144 women, 0.42% of all cancer deaths; thyroid cancer ranked 23rd</text>
+<text x="757" y="586.26" font-size="14" fill="#345963">by mortality in men and 23rd in women.</text>
+<text x="757" y="611.76" font-size="12.5" fill="#527078">National cancer registry. This is one year on its own, not a trend line.</text>
+<line x1="757" y1="631.38" x2="1336" y2="631.38" stroke="#DBD3BF" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="757" y="657.38" font-size="14" fill="#527078" font-weight="700">Age-standardised rates (the age structures of different populations are first put</text>
+<text x="757" y="677.68" font-size="14" fill="#527078" font-weight="700">on one scale)</text>
+<text x="757" y="707.98" font-size="14" fill="#527078" font-weight="700">Age-standardised incidence (per</text>
+<text x="757" y="728.98" font-size="14" fill="#527078" font-weight="700">100,000)</text>
+<text x="1046.5" y="707.98" font-size="14" fill="#345963">Men 9.49 / women 28.12</text>
+<text x="757" y="760.98" font-size="14" fill="#527078" font-weight="700">Age-standardised mortality (per</text>
+<text x="757" y="781.98" font-size="14" fill="#527078" font-weight="700">100,000)</text>
+<text x="1046.5" y="760.98" font-size="14" fill="#345963">Men 0.39 / women 0.50</text>
+<text x="757" y="813.98" font-size="14" fill="#527078" font-weight="700">Standard population used</text>
+<text x="1046.5" y="813.98" font-size="14" fill="#345963">The 2000 world standard population</text>
+<text x="757" y="846.98" font-size="14" fill="#345963">On being diagnosed, women run at roughly three times the male figure. On</text>
+<text x="757" y="867.98" font-size="14" fill="#345963">dying of the disease, the gap between the sexes is down to roughly one point</text>
+<text x="757" y="888.98" font-size="14" fill="#345963">three times. The sex ratio at the incidence end and at the mortality end is not</text>
+<text x="757" y="909.98" font-size="14" fill="#345963">the same number.</text>
+<line x1="720" y1="442.36" x2="720" y2="930.98" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<text x="84" y="959.48" font-size="12.5" fill="#527078" font-weight="700">Different denominators - these two may not share an axis</text>
+<rect x="84" y="981.73" width="560" height="84" rx="14" fill="url(#hatch)"/>
+<rect x="84" y="981.73" width="560" height="84" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="98" y1="995.73" x2="630" y2="1051.73" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="630" y1="995.73" x2="98" y2="1051.73" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="84" y="1091.23" font-size="15.5" fill="#B04A4A" font-weight="800">A year-by-year age-standardised mortality series for Taiwan</text>
+<text x="84" y="1127.71" font-size="14" fill="#345963">No officially published version was found. So this figure carries no</text>
+<text x="84" y="1148.71" font-size="14" fill="#345963">Taiwanese mortality trend line: the 0.39 and 0.50 above are one single year,</text>
+<text x="84" y="1169.71" font-size="14" fill="#345963">and cannot be used to say that mortality &quot;has stayed flat&quot;.</text>
+<text x="84" y="1240.71" font-size="22" fill="#123641" font-weight="800" class="r">Korea: the curve, and its real chronology</text>
+<text x="84" y="1266.19" font-size="14" fill="#527078">Korea is the most thoroughly studied example, and the one most often retold as a single-line cause and effect.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1285.19" width="1272" height="575.06" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1323.19" font-size="18" fill="#123641" font-weight="800">Cases in the Korean national registry (people)</text>
+<rect x="104" y="1352.95" width="1232" height="210" rx="12" fill="#E3E8F6"/>
+<line x1="122" y1="1528.95" x2="1318" y2="1528.95" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<path d="M 150 1520.09 L 891 1412.61 L 1062 1462.59 L 1290 1449.19" fill="none" stroke="#5C77C4" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="150" cy="1520.09" r="5.5" fill="#5C77C4"/>
+<text x="150" y="1507.09" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="middle">3,407</text>
+<text x="150" y="1548.95" font-size="12.5" fill="#527078" text-anchor="middle">1999</text>
+<circle cx="891" cy="1412.61" r="5.5" fill="#5C77C4"/>
+<text x="891" y="1399.61" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="middle">44,748</text>
+<text x="891" y="1548.95" font-size="12.5" fill="#527078" text-anchor="middle">2012</text>
+<circle cx="1062" cy="1462.59" r="5.5" fill="#5C77C4"/>
+<text x="1062" y="1449.59" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="middle">25,523</text>
+<text x="1062" y="1548.95" font-size="12.5" fill="#527078" text-anchor="middle">2015</text>
+<circle cx="1290" cy="1449.19" r="5.5" fill="#5C77C4"/>
+<text x="1290" y="1436.19" font-size="12.5" fill="#5C77C4" font-weight="800" text-anchor="middle">30,676</text>
+<text x="1290" y="1548.95" font-size="12.5" fill="#527078" text-anchor="middle">2019</text>
+<text x="104" y="1588.95" font-size="14" fill="#345963">Between 1999 and 2008 incidence rose 6.4-fold (95% confidence interval 4.9 to 8.4), from 6.4 to 40.7 per 100,000. Of the increase, 94.4% were tumours smaller than 20 mm</text>
+<text x="104" y="1609.95" font-size="14" fill="#345963">and 97.1% were localised or regional disease.</text>
+<text x="104" y="1646.95" font-size="14" fill="#527078" font-weight="700">Age-standardised incidence (per 100,000)</text>
+<text x="104" y="1683.25" font-size="14" fill="#527078" font-weight="700">2005</text>
+<rect x="220" y="1665.25" width="1020" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="220" y="1665.25" width="307.15" height="26" rx="7" fill="#5C77C4"/>
+<text x="1252" y="1685.81" font-size="21" fill="#5C77C4" font-weight="800">24.09</text>
+<text x="104" y="1721.25" font-size="14" fill="#527078" font-weight="700">2012</text>
+<rect x="220" y="1703.25" width="1020" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="220" y="1703.25" width="954.08" height="26" rx="7" fill="#5C77C4"/>
+<text x="1252" y="1723.81" font-size="21" fill="#5C77C4" font-weight="800">74.83</text>
+<text x="104" y="1759.25" font-size="14" fill="#527078" font-weight="700">2015</text>
+<rect x="220" y="1741.25" width="1020" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="220" y="1741.25" width="542.13" height="26" rx="7" fill="#5C77C4"/>
+<text x="1252" y="1761.81" font-size="21" fill="#5C77C4" font-weight="800">42.52</text>
+<line x1="220" y1="1781.25" x2="1240" y2="1781.25" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="220" y1="1781.25" x2="220" y2="1787.25" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="220" y="1803.25" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">0</text>
+<line x1="475" y1="1781.25" x2="475" y2="1787.25" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="475" y="1803.25" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">20</text>
+<line x1="730" y1="1781.25" x2="730" y2="1787.25" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="730" y="1803.25" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">40</text>
+<line x1="985" y1="1781.25" x2="985" y2="1787.25" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="985" y="1803.25" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">60</text>
+<line x1="1240" y1="1781.25" x2="1240" y2="1787.25" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1240" y="1803.25" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">80</text>
+<text x="104" y="1825.25" font-size="14" fill="#345963">Flat by 2018. And in people under 30 there was no significant fall after the 2015 peak; if anything there are signs of a further rise.</text>
+<rect x="84" y="1876.25" width="1272" height="265.06" rx="18" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="104" y="1914.25" font-size="18" fill="#8F7418" font-weight="800">The chronology does not line up</text>
+<line x1="112" y1="1974.01" x2="1316.96" y2="1974.01" stroke="#B9AE94" stroke-width="2.6" stroke-linecap="round"/>
+<polygon points="1328,1974.01 1317.04,1978.9 1317.04,1969.12" fill="#B9AE94"/>
+<circle cx="152" cy="1974.01" r="8" fill="#B04A4A"/>
+<text x="152" y="1962.01" font-size="14" fill="#B04A4A" font-weight="800" text-anchor="middle">2012</text>
+<text x="219" y="2014.01" font-size="14" fill="#345963" font-weight="700" text-anchor="middle">incidence begins to fall</text>
+<circle cx="1288" cy="1974.01" r="8" fill="#B04A4A"/>
+<text x="1288" y="1962.01" font-size="14" fill="#B04A4A" font-weight="800" text-anchor="middle">2014</text>
+<text x="1221" y="2014.01" font-size="14" fill="#345963" font-weight="700" text-anchor="middle">the public debate begins</text>
+<text x="104" y="2048.31" font-size="14" fill="#345963">The paper says it plainly: the decline ran from 2012 to 2016, before the debates began in 2014. Something that happened first cannot be explained by something that</text>
+<text x="104" y="2069.31" font-size="14" fill="#345963">happened afterwards.</text>
+<text x="104" y="2100.31" font-size="14" fill="#345963">And the curve rose again after 2015: 25,523 cases in 2015, 30,676 in 2019. So the single-line story - one public statement, and incidence falls - is not drawn here.</text>
+<g filter="url(#sh)">
+<rect x="84" y="2157.31" width="1272" height="350.55" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="2191.31" font-size="14" fill="#527078" font-weight="700">Deaths from thyroid cancer per 1,000 person-years among people already diagnosed with it, set out by year of diagnosis</text>
+<text x="104" y="2227.61" font-size="14" fill="#527078" font-weight="700">2005</text>
+<rect x="220" y="2209.61" width="1020" height="26" rx="7" fill="#F6E2E0"/>
+<rect x="220" y="2209.61" width="659.6" height="26" rx="7" fill="#B04A4A"/>
+<text x="1252" y="2230.17" font-size="21" fill="#B04A4A" font-weight="800">1.94</text>
+<text x="104" y="2265.61" font-size="14" fill="#527078" font-weight="700">2013</text>
+<rect x="220" y="2247.61" width="1020" height="26" rx="7" fill="#F6E2E0"/>
+<rect x="220" y="2247.61" width="258.4" height="26" rx="7" fill="#B04A4A"/>
+<text x="1252" y="2268.17" font-size="21" fill="#B04A4A" font-weight="800">0.76</text>
+<text x="104" y="2303.61" font-size="14" fill="#527078" font-weight="700">2018</text>
+<rect x="220" y="2285.61" width="1020" height="26" rx="7" fill="#F6E2E0"/>
+<rect x="220" y="2285.61" width="918" height="26" rx="7" fill="#B04A4A"/>
+<text x="1252" y="2306.17" font-size="21" fill="#B04A4A" font-weight="800">2.70</text>
+<line x1="220" y1="2325.61" x2="1240" y2="2325.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="220" y1="2325.61" x2="220" y2="2331.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="220" y="2347.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">0</text>
+<line x1="560" y1="2325.61" x2="560" y2="2331.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="560" y="2347.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">1</text>
+<line x1="900" y1="2325.61" x2="900" y2="2331.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="900" y="2347.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">2</text>
+<line x1="1240" y1="2325.61" x2="1240" y2="2331.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1240" y="2347.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">3</text>
+<text x="104" y="2369.61" font-size="14" fill="#345963">The rise was concentrated in two groups: those who had a total thyroidectomy, and those who had no thyroid surgery at all. In the years when screening poured large</text>
+<text x="104" y="2390.61" font-size="14" fill="#345963">numbers of low-risk people into that denominator, mortality within this group of course fell; when screening receded it rose again. All it can speak to is that the</text>
+<text x="104" y="2411.61" font-size="14" fill="#345963">composition of the people being diagnosed changed. It cannot speak for the population. The authors write that this line is discordant with Korean population mortality,</text>
+<text x="104" y="2432.61" font-size="14" fill="#345963">which continuously decreased until 2015.</text>
+<text x="104" y="2460.11" font-size="12.5" fill="#527078">A Korean nationwide cohort followed 434,228 people already diagnosed with thyroid cancer (352,678 women, 81,550 men), mean age 48.6 years, median follow-up 7.4 years. The denominator</text>
+<text x="104" y="2478.23" font-size="12.5" fill="#527078">is people already diagnosed, not the population; it is a different calculation from the per-100,000 rates above, and the two lines are not comparable.</text>
+<text x="84" y="2557.86" font-size="22" fill="#123641" font-weight="800" class="r">&quot;Mortality did not move at all&quot; is also wrong, and only the US sentence rebuts it</text>
+<rect x="84" y="2577.34" width="1272" height="223.3" rx="14" fill="#ECE8DE"/>
+<text x="100" y="2607.34" font-size="14" fill="#123641" font-weight="800">From 1974 to 2013, mortality in advanced disease rose by 1.1% a year</text>
+<text x="100" y="2643.64" font-size="14" fill="#345963">The 2025 guidelines put it this way: over that period the rise in incidence occurred across all stages, and over the same period the mortality rate increased annually by</text>
+<text x="100" y="2664.64" font-size="14" fill="#345963">1.1% in advanced disease.</text>
+<text x="100" y="2703.64" font-size="14" fill="#345963">The same document also records that after United States incidence peaked at 14.9 per 100,000 in 2015, the years 2015 to 2017 brought the first decline in three decades.</text>
+<text x="100" y="2742.64" font-size="14" fill="#345963">So &quot;more of it, and no more deaths&quot; is a stronger sentence than the evidence behind it. What rebuts it is the American line: the cell in which mortality rose is advanced</text>
+<text x="100" y="2763.64" font-size="14" fill="#345963">disease. As for how overall mortality moved across countries, there is no series here to cite, so none is drawn.</text>
+<text x="84" y="2850.64" font-size="22" fill="#123641" font-weight="800" class="r">The 63-country estimate, and why Taiwan is not in it</text>
+<text x="84" y="2876.12" font-size="14" fill="#527078">The largest estimate available covers 2013 to 2017, 63 countries and 385 cancer registries.</text>
+<g filter="url(#sh)">
+<rect x="84" y="2895.12" width="1272" height="329.06" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="2933.12" font-size="18" fill="#123641" font-weight="800">Of 2,297,057 cases, 1,736,133 (75.6%) were attributed to overdiagnosis</text>
+<rect x="104" y="2966.88" width="928.39" height="38" rx="6" fill="#5C77C4"/>
+<rect x="1035.39" y="2966.88" width="297.61" height="38" rx="6" fill="#7A6E58"/>
+<rect x="104" y="3018.88" width="11" height="11" rx="2" fill="#5C77C4"/>
+<text x="124" y="3030.88" font-size="14" fill="#345963">Attributed to overdiagnosis: 1,736,133 cases (75.6%)</text>
+<rect x="729" y="3018.88" width="11" height="11" rx="2" fill="#7A6E58"/>
+<text x="749" y="3030.88" font-size="14" fill="#345963">The remaining cases</text>
+<text x="104" y="3075.18" font-size="14" fill="#345963">Of those, 1,368,181 were women and 367,952 were men.</text>
+<rect x="104" y="3094.18" width="480.62" height="25" rx="12.5" fill="#96790F"/>
+<text x="115" y="3111.68" font-size="13.5" fill="#FFFFFF" font-weight="800">Above 85% in women: Cyprus, China, South Korea, Turkiye</text>
+<rect x="592.62" y="3094.18" width="490.18" height="25" rx="12.5" fill="#00806B"/>
+<text x="603.62" y="3111.68" font-size="13.5" fill="#FFFFFF" font-weight="800">Estimated at zero: Uganda, Zimbabwe, Trinidad and Tobago</text>
+<text x="104" y="3145.18" font-size="14" fill="#345963">The same paper offers one more contrast: the international gap between the highest and lowest female incidence had widened to 101.4 per 100,000 by 2012, while the</text>
+<text x="104" y="3166.18" font-size="14" fill="#345963">international gap in mortality stayed at roughly 1.0 to 2.0 per 100,000 throughout.</text>
+<text x="104" y="3197.18" font-size="14" fill="#5C77C4" font-weight="700">That 75.6% is the number of people diagnosed in a whole country minus the number who would have developed symptoms. There is no cell in that arithmetic for you.</text>
+<rect x="84" y="3242.18" width="560" height="84" rx="14" fill="url(#hatch)"/>
+<rect x="84" y="3242.18" width="560" height="84" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="98" y1="3256.18" x2="630" y2="3312.18" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="630" y1="3256.18" x2="98" y2="3312.18" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="84" y="3351.68" font-size="15.5" fill="#B04A4A" font-weight="800">A Taiwanese overdiagnosis percentage</text>
+<text x="84" y="3388.16" font-size="14" fill="#345963">The abstract of that paper does not name Taiwan, the full text is not open</text>
+<text x="84" y="3409.16" font-size="14" fill="#345963">access and the supplementary material could not be obtained. So no</text>
+<text x="84" y="3430.16" font-size="14" fill="#345963">Taiwanese overdiagnosis percentage appears on this figure, and no other</text>
+<text x="84" y="3451.16" font-size="14" fill="#345963">country's figure is used to stand in for one.</text>
+<rect x="84" y="3498.16" width="1272" height="389.85" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="3544.16" font-size="18" fill="#B04A4A" font-weight="800">What this figure must not be read to say</text>
+<text x="110" y="3575.76" font-size="15.5" fill="#345963">Overdiagnosis is not misdiagnosis. The pathologist did not get it wrong; those really are cancer cells.</text>
+<text x="110" y="3609.01" font-size="15.5" fill="#345963">Nor does overdiagnosis mean &quot;it is not really cancer&quot;. It is about whether this cancer would ever have caused trouble in this person's remaining</text>
+<text x="110" y="3632.26" font-size="15.5" fill="#345963">lifetime, not about whether the diagnosis is correct.</text>
+<text x="110" y="3665.51" font-size="15.5" fill="#345963">It can only be worked out at the level of a population, and only in retrospect: the number of people diagnosed, minus the number of the same people who</text>
+<text x="110" y="3688.76" font-size="15.5" fill="#345963">would have developed symptoms. No test can tell you today whether your nodule belongs to that difference.</text>
+<text x="110" y="3722.01" font-size="15.5" fill="#345963">So &quot;three-quarters of cases worldwide were attributed to overdiagnosis&quot; cannot be rewritten as &quot;mine probably needs no attention&quot;. What actually</text>
+<text x="110" y="3745.26" font-size="15.5" fill="#345963">decides is the histological type, the size, the invasion, the nodes on your report, and your age - those are in &quot;Papillary, follicular, NIFTP: reading the</text>
+<text x="110" y="3768.51" font-size="15.5" fill="#345963">report&quot; and &quot;Why the stage depends on your age&quot;.</text>
+<text x="110" y="3801.76" font-size="15.5" fill="#345963">The opposite reading is barred too: this figure does not say that finding things early is all superfluous. Mortality in the advanced-disease cell has been</text>
+<text x="110" y="3825.01" font-size="15.5" fill="#345963">moving, and high-risk groups were never inside the scope of the 2017 US Preventive Services Task Force grade D recommendation - that</text>
+<text x="110" y="3848.26" font-size="15.5" fill="#345963">recommendation is about asymptomatic adults.</text>
+<text x="84" y="3908.01" font-size="15" fill="#527078">Schematic, redrawn from the Republic of China 2023 Cancer Registry Annual Report, the Korean national registry and nationwide cohort studies, the 2025</text>
+<text x="84" y="3931.26" font-size="15" fill="#527078">American Thyroid Association guidelines for differentiated thyroid cancer and the 63-country overdiagnosis estimate; not reproduced from the figures of the</text>
+<text x="84" y="3954.51" font-size="15" fill="#527078">original papers. The cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

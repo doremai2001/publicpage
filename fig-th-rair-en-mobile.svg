@@ -1,0 +1,338 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="8129" viewBox="0 0 620 8129" role="img" aria-labelledby="t d">
+  <title id="t">Radioiodine-refractory disease: the criteria, and what the trials measured</title>
+  <desc id="d">Schematic in two columns: on the left the criteria for radioiodine-refractory disease, on the right four phase III trials with their numbers of patients, median progression-free survival and hazard ratios. A grey band across the top states that nothing in the left column carries an evidence grade: the two gates are listed by the guideline as good practice, which it does not grade, the criteria themselves sit in the discussion paragraph beneath them and carry no recommendation strength at all, and the guideline says these criteria will go on changing. The first cell on the left holds the two gates, tagged &quot;good practice, which the guideline does not grade&quot;: first, a patient who has never had ablative or therapeutic radioiodine cannot be diagnosed as refractory to it, and those who qualify should have it first because that is how the answer is found; second, a patient already judged refractory should not be given empiric radioiodine again, and other treatments are to be considered. The second cell holds the two strong criteria: a lesion visible on imaging or PET with no iodine uptake on the post-therapy scan; or progression within six months of one appropriately dosed radioiodine treatment where the post-therapy scan did show uptake. The third holds the two supportive criteria: no uptake on the diagnostic scan while the lesion is visible on imaging, which predicts a poorer response though some such patients still have a positive post-therapy scan; and uptake in only some lesions, which does not rule radioiodine out but is not enough on its own. A further cell records that refractory does not mean a short time left: the guideline says in the same section that some patients die within three to five years and that others survive a long time with stable or extremely slowly progressive disease, so the first step after &quot;refractory&quot; is often not a drug at all - patients who are asymptomatic, stable or barely progressing, or who carry significant comorbidity, may be imaged every three to twelve months on suppressive thyroid hormone therapy, a conditional recommendation with low certainty. A yellow cell states that the threshold for starting a drug is imaging and not a blood test: the guideline requires visible progression of lesions on imaging before systemic therapy, not a blood curve climbing upwards; a rising thyroglobulin on its own is written down as not constituting a reason to start; and the trials below enrolled people with progression on imaging in the first place. The left column closes with the recommendation to test tumour tissue for biomarkers before systemic therapy starts, strong with moderate certainty, noting that the drugs chosen by genotype work well but rest on very few patients, whose numbers are in the article while this figure carries only the phase III trials. The right column opens with a red cell warning that not every confidence interval is 95%: the hazard ratio 0.21 for lenvatinib is a 99% confidence interval; the response rate in the cabozantinib interim analysis is a 99% confidence interval; the progression-free survival hazard ratio 0.22 for cabozantinib is a 96% confidence interval; and only the hazard ratios in the sorafenib and BRAF phase III trials are 95%. A note adds that when the levels differ the widths of the intervals cannot be read in the same sentence, and that &quot;median progression-free survival not reached&quot; for cabozantinib is the older wording from the interim analysis, the 2022 extended analysis being the one to use. Four trial cards follow, each drawing two bars on the same scale in months, drug above and control below. The lenvatinib phase III enrolled 392 patients with radioiodine-refractory, progressive differentiated thyroid cancer, 261 on drug and 131 on placebo, with median progression-free survival 18.3 months against 3.6 months and a hazard ratio of 0.21 (0.14 to 0.31) tagged as a 99% confidence interval; response was 64.8%, 4 of them complete, against 1.5%, and on overall survival this trial published no overall-survival hazard ratio or test at all, only that median overall survival had not been reached in either arm; discontinuation for adverse events was 14.2% against 2.3%, of 20 deaths during treatment 6 were judged drug-related, and hypertension, diarrhoea, fatigue, loss of appetite and weight loss each exceeded four in ten. The sorafenib phase III enrolled 417 patients, 207 on drug and 210 on placebo, with median progression-free survival 10.8 months against 5.8 and a hazard ratio of 0.59 (0.45 to 0.76) at 95%; overall survival showed no significant difference, hazard ratio 0.80 (0.54 to 1.19), while 71.4% of the placebo arm crossed over to the drug after progressing and the authors write that the overall-survival result may be confounded by it; response was 12.2% (24/196), all partial; dose interruption 66.2%, reduction 64.3%, discontinuation for adverse events 18.8%, and serious adverse events 37.2% against 26.3%. The cabozantinib phase III is given from its 2022 extended analysis: 258 randomised, median follow-up 10.1 months, median progression-free survival 11.0 months against 1.9, hazard ratio 0.22 (0.15 to 0.32) tagged as a 96% confidence interval, with the interval around the median of 11.0 months also 96%, from 7.4 to 13.8; response was 11.0% (95% confidence interval 6.9 to 16.9) against 0, grade 3 or 4 adverse events 62% against 28%, and the overall-survival hazard ratio of 0.76 (0.45 to 1.31) is likewise not significant, the authors writing that crossover will confound future analyses of overall survival; in the interim analysis of 187 patients the response rate was 10/67 among the first 100 randomised (15%, 99% confidence interval 5.8 to 29.3) against 0/33 and did not meet the prespecified threshold for significance. The BRAF phase III read out after the guideline was written: 153 previously treated patients with BRAF V600E-positive, radioiodine-refractory differentiated thyroid cancer, randomised 101 to 52, median progression-free survival 12.8 months against 3.7, stratified hazard ratio 0.38 (0.25 to 0.57) at 95%, with the interval around the median of 12.8 months 10.2 to 21.2 at 95%; response was 57% against 4%; the interim analysis of overall survival has not reached significance, stratified hazard ratio 0.66 (0.36 to 1.19), and that trial is still running; the authors conclude for second-line use and 86% of those enrolled were Asian, which is the ethnic composition of the trial and not a statement about who the drug suits. Below the four cards, a cell records that these are not head-to-head comparisons: the guideline admits in so many words that no randomised trial has ever compared the two first-line drugs directly, its judgement being that a progressing patient with no matched target should have one of the two and that in most cases lenvatinib is preferred, a strong recommendation with high certainty, while cabozantinib is for patients who have progressed on one of those drugs, also strong with high certainty - a sequence and not a ranking. A further cell covers redifferentiation: the 2025 International Thyroid Oncology Group statement reports restoration of iodine uptake ranging from 33% to 95% between trials and tumour response from 11% to 80%, with wide differences in eligibility, timing, radioiodine activity and dosimetry, and the sentence that matters most is &quot;Randomised studies are missing&quot;; the only completed phase III was not asking about salvage at all, ASTRA having enrolled high-risk postoperative patients who were not genomically selected, randomised 233 of them and found complete remission at eighteen months in 40% against 38%, odds ratio 1.07 (95% confidence interval 0.61 to 1.87), a negative result. The right column closes by stating that the Taiwan part is not on this figure: whether a drug is licensed, whether it is listed by the National Health Insurance, and whether the reimbursement rules name this cancer and these conditions are three separate questions with three different answers, and running them together goes wrong every time; this figure does not say which drug is reimbursed in Taiwan for which thyroid cancer, and the rules are transcribed verbatim in the sister article, &quot;How this goes in Taiwan&quot;. A vertical dashed rule separates the two columns and no arrow anywhere on the figure joins a criterion on the left to a drug on the right. The figure ends with a red-bordered block headed &quot;This figure will not turn four trials into a league table&quot;, holding four statements: the four cells are drawn on one scale so that the gap between the two bars within each cell can be seen, not so that one drug's bar can be compared with another's, because the populations, the lines of therapy and the control arms all differ; every confidence interval is printed with its level, and intervals at 99%, 96% and 95% cannot have their widths compared in the same sentence; what these drugs buy is time with the disease held down rather than a cure, and on whether they make people live longer not one of the four trials above was designed to answer that question - overall survival is a secondary or exploratory endpoint in all four and all four let the placebo arm cross over after progressing, which by itself blurs the endpoint; one at a time, sorafenib showed no significant difference (0.80, 0.54 to 1.19), cabozantinib's 0.76 (0.45 to 1.31) is likewise not significant, the interim analysis of dabrafenib plus trametinib did not reach significance (0.66, 0.36 to 1.19) and that trial is still running, and lenvatinib published no overall-survival hazard ratio or test at all, so that none of them proved a benefit in overall survival, which is not the same sentence as &quot;there is no benefit in overall survival&quot;; and redifferentiation has no randomised evidence, the one completed phase III was negative, and it was not even asking about salvage. A closing cell carries three sentences to ask before a drug is started: on which criterion was I judged refractory to radioiodine; are my lesions growing now and by how much since last time; and if three months of this does not hold the disease down, what is our next step.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="8129" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">HOW &quot;REFRACTORY&quot; IS DEFINED - AND WHAT</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">EACH TRIAL ACTUALLY MEASURED</text>
+<text x="40" y="144" font-size="38" fill="#123641" font-weight="800" class="r">The criteria on the left,</text>
+<text x="40" y="191.88" font-size="38" fill="#123641" font-weight="800" class="r">the trials on the right,</text>
+<text x="40" y="239.76" font-size="38" fill="#123641" font-weight="800" class="r">and not every interval is</text>
+<text x="40" y="287.64" font-size="38" fill="#123641" font-weight="800" class="r">95%</text>
+<text x="40" y="347.52" font-size="19" fill="#527078">&quot;Radioiodine is not working for you&quot; is a criterion</text>
+<text x="40" y="376.02" font-size="19" fill="#527078">with a written form. The left column is that criterion</text>
+<text x="40" y="404.52" font-size="19" fill="#527078">and where the guideline puts it; the right column is</text>
+<text x="40" y="433.02" font-size="19" fill="#527078">what each of four trials enrolled, what the median</text>
+<text x="40" y="461.52" font-size="19" fill="#527078">progression-free survival was, and what the hazard</text>
+<text x="40" y="490.02" font-size="19" fill="#527078">ratio was.</text>
+<text x="40" y="524.52" font-size="19" fill="#527078">Every hazard ratio here is printed with the level of its</text>
+<text x="40" y="553.02" font-size="19" fill="#527078">confidence interval, because they are not all 95%.</text>
+<text x="40" y="581.52" font-size="19" fill="#527078">Which drug is reimbursed in Taiwan for which thyroid</text>
+<text x="40" y="610.02" font-size="19" fill="#527078">cancer is not on this figure.</text>
+<rect x="40" y="662.52" width="540" height="223.23" rx="14" fill="#ECE8DE"/>
+<text x="56" y="694.02" font-size="15.5" fill="#123641" font-weight="800">Nothing in the left column carries an evidence grade</text>
+<text x="56" y="734" font-size="15.5" fill="#345963">The two gates are listed by the guideline as good practice,</text>
+<text x="56" y="757.25" font-size="15.5" fill="#345963">which it does not grade; the criteria themselves sit in the</text>
+<text x="56" y="780.5" font-size="15.5" fill="#345963">discussion paragraph beneath them and carry no</text>
+<text x="56" y="803.75" font-size="15.5" fill="#345963">recommendation strength at all.</text>
+<text x="56" y="846.5" font-size="15.5" fill="#345963">The guideline also says these criteria will go on changing.</text>
+<text x="40" y="939.75" font-size="22" fill="#123641" font-weight="800" class="r">Left column - how &quot;refractory&quot; is decided</text>
+<text x="40" y="965.23" font-size="14" fill="#527078">Two gates first, and only then the criteria themselves.</text>
+<g filter="url(#sh)">
+<rect x="40" y="984.23" width="540" height="396.76" rx="18" fill="#FFFFFF" stroke="#5C77C4" stroke-width="2.5"/>
+</g>
+<text x="60" y="1022.23" font-size="18" fill="#5C77C4" font-weight="800">The two gates</text>
+<rect x="60" y="1052.35" width="411.45" height="25" rx="12.5" fill="#FFFFFF" stroke="#5C77C4" stroke-width="1.6"/>
+<text x="71" y="1069.84" font-size="13.5" fill="#5C77C4" font-weight="800">Good practice, which the guideline does not grade</text>
+<circle cx="75" cy="1104.35" r="15" fill="#5C77C4"/>
+<text x="75" y="1109.2" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="102" y="1105.9" font-size="18" fill="#123641" font-weight="800">Without radioiodine, no diagnosis of refractory</text>
+<text x="102" y="1145.66" font-size="14" fill="#345963">A patient who has never had ablative or therapeutic</text>
+<text x="102" y="1166.66" font-size="14" fill="#345963">radioiodine cannot be diagnosed as refractory to it; those who</text>
+<text x="102" y="1187.66" font-size="14" fill="#345963">qualify should have it first, because that is how the answer is</text>
+<text x="102" y="1208.66" font-size="14" fill="#345963">found.</text>
+<circle cx="75" cy="1256.66" r="15" fill="#5C77C4"/>
+<text x="75" y="1261.52" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="102" y="1258.22" font-size="18" fill="#123641" font-weight="800">Once refractory, no further empiric radioiodine</text>
+<text x="102" y="1297.98" font-size="14" fill="#345963">A patient already judged refractory should not be given</text>
+<text x="102" y="1318.98" font-size="14" fill="#345963">empiric radioiodine again; other treatments are to be</text>
+<text x="102" y="1339.98" font-size="14" fill="#345963">considered.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1394.98" width="540" height="317.76" rx="18" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.5"/>
+</g>
+<text x="60" y="1432.98" font-size="18" fill="#B04A4A" font-weight="800">Strong criteria: two</text>
+<circle cx="75" cy="1478.1" r="15" fill="#B04A4A"/>
+<text x="75" y="1482.96" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="102" y="1479.66" font-size="18" fill="#123641" font-weight="800">Visible, but takes up no iodine</text>
+<text x="102" y="1519.42" font-size="14" fill="#345963">A lesion visible on imaging or PET with no iodine uptake on the</text>
+<text x="102" y="1540.42" font-size="14" fill="#345963">post-therapy scan.</text>
+<circle cx="75" cy="1588.42" r="15" fill="#B04A4A"/>
+<text x="75" y="1593.28" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="102" y="1589.98" font-size="18" fill="#123641" font-weight="800">Treated, and progressing quickly</text>
+<text x="102" y="1629.74" font-size="14" fill="#345963">Progression within six months of one appropriately dosed</text>
+<text x="102" y="1650.74" font-size="14" fill="#345963">radioiodine treatment where the post-therapy scan did show</text>
+<text x="102" y="1671.74" font-size="14" fill="#345963">uptake.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1726.74" width="540" height="317.76" rx="18" fill="#FFFFFF" stroke="#96790F" stroke-width="2.5"/>
+</g>
+<text x="60" y="1764.74" font-size="18" fill="#96790F" font-weight="800">Supportive criteria: two</text>
+<circle cx="75" cy="1809.86" r="15" fill="#96790F"/>
+<text x="75" y="1814.72" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">1</text>
+<text x="102" y="1811.42" font-size="18" fill="#123641" font-weight="800">No uptake on the diagnostic scan</text>
+<text x="102" y="1851.18" font-size="14" fill="#345963">No uptake on the diagnostic scan while the lesion is visible on</text>
+<text x="102" y="1872.18" font-size="14" fill="#345963">imaging. This predicts a poorer response, but some such</text>
+<text x="102" y="1893.18" font-size="14" fill="#345963">patients still have a positive post-therapy scan.</text>
+<circle cx="75" cy="1941.18" r="15" fill="#96790F"/>
+<text x="75" y="1946.04" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">2</text>
+<text x="102" y="1942.74" font-size="18" fill="#123641" font-weight="800">Only some lesions take up iodine</text>
+<text x="102" y="1982.5" font-size="14" fill="#345963">This does not rule radioiodine out, but radioiodine alone is not</text>
+<text x="102" y="2003.5" font-size="14" fill="#345963">enough.</text>
+<g filter="url(#sh)">
+<rect x="40" y="2058.5" width="540" height="315.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="2096.5" font-size="18" fill="#00806B" font-weight="800">Refractory does not mean a short time left</text>
+<text x="60" y="2144.12" font-size="15.5" fill="#345963">The guideline says in the same section that some patients die</text>
+<text x="60" y="2167.37" font-size="15.5" fill="#345963">within three to five years, and that others survive a long time</text>
+<text x="60" y="2190.62" font-size="15.5" fill="#345963">with stable or extremely slowly progressive disease.</text>
+<text x="60" y="2237.37" font-size="15.5" fill="#345963">So the first step after &quot;refractory&quot; is often not a drug at all:</text>
+<text x="60" y="2260.62" font-size="15.5" fill="#345963">patients who are asymptomatic, stable or barely progressing,</text>
+<text x="60" y="2283.87" font-size="15.5" fill="#345963">or who carry significant comorbidity, may be imaged every</text>
+<text x="60" y="2307.12" font-size="15.5" fill="#345963">three to twelve months on suppressive thyroid hormone</text>
+<text x="60" y="2330.37" font-size="15.5" fill="#345963">therapy (conditional recommendation, low certainty).</text>
+<g filter="url(#sh)">
+<rect x="40" y="2387.62" width="540" height="294" rx="18" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2"/>
+</g>
+<text x="60" y="2425.62" font-size="18" fill="#8F7418" font-weight="800">The threshold for starting a drug is imaging, not a</text>
+<text x="60" y="2449.74" font-size="18" fill="#8F7418" font-weight="800">blood test</text>
+<circle cx="64.5" cy="2490.54" r="4" fill="#8F7418"/>
+<text x="79" y="2495.86" font-size="14" fill="#345963">The guideline requires visible progression of lesions on imaging</text>
+<text x="79" y="2516.58" font-size="14" fill="#345963">before systemic therapy is started, not a blood curve climbing</text>
+<text x="79" y="2537.3" font-size="14" fill="#345963">upwards.</text>
+<circle cx="64.5" cy="2559.7" r="4" fill="#8F7418"/>
+<text x="79" y="2565.02" font-size="14" fill="#345963">A rising thyroglobulin on its own is written down as not</text>
+<text x="79" y="2585.74" font-size="14" fill="#345963">constituting a reason to start systemic therapy.</text>
+<circle cx="64.5" cy="2608.14" r="4" fill="#8F7418"/>
+<text x="79" y="2613.46" font-size="14" fill="#345963">The trials below enrolled people with progression on imaging in</text>
+<text x="79" y="2634.18" font-size="14" fill="#345963">the first place. Applying their conclusions to a different group</text>
+<text x="79" y="2654.9" font-size="14" fill="#345963">buys none of the result and all of the side effects.</text>
+<g filter="url(#sh)">
+<rect x="40" y="2695.62" width="540" height="212.24" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="2733.62" font-size="18" fill="#5C77C4" font-weight="800">Test the tumour tissue for biomarkers before</text>
+<text x="60" y="2757.74" font-size="18" fill="#5C77C4" font-weight="800">systemic therapy starts</text>
+<text x="60" y="2803.86" font-size="14" fill="#345963">A strong recommendation with moderate certainty. The drugs</text>
+<text x="60" y="2824.86" font-size="14" fill="#345963">chosen by genotype work well but rest on very few patients; those</text>
+<text x="60" y="2845.86" font-size="14" fill="#345963">numbers are in the article, and this figure carries only the phase III</text>
+<text x="60" y="2866.86" font-size="14" fill="#345963">trials.</text>
+<line x1="40" y1="2937.86" x2="580" y2="2937.86" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<rect x="22.94" y="2925.86" width="574.12" height="24" rx="12" fill="#F7F1E4"/>
+<text x="310" y="2942.36" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">Right column - four trials: how many, median progression-free survival, hazard ratio</text>
+<text x="40" y="3017.86" font-size="22" fill="#123641" font-weight="800" class="r">Right column - four trials: how many,</text>
+<text x="40" y="3047.34" font-size="22" fill="#123641" font-weight="800" class="r">median progression-free survival, hazard</text>
+<text x="40" y="3076.82" font-size="22" fill="#123641" font-weight="800" class="r">ratio</text>
+<text x="40" y="3102.3" font-size="14" fill="#527078">The bars are median progression-free survival in months, drug above and</text>
+<text x="40" y="3123.3" font-size="14" fill="#527078">control below, drawn on one common scale; but the populations, the lines</text>
+<text x="40" y="3144.3" font-size="14" fill="#527078">of therapy and the control arms differ, so bar length is not a conclusion</text>
+<text x="40" y="3165.3" font-size="14" fill="#527078">that can be compared between cells.</text>
+<rect x="40" y="3184.3" width="540" height="64.3" rx="14" fill="#F6E2E0"/>
+<text x="56" y="3214.3" font-size="14" fill="#B04A4A" font-weight="800">Read this cell carefully: not every interval is 95%</text>
+<rect x="40" y="3242.6" width="540" height="354" rx="14" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="60" y="3260.6" font-size="14" fill="#527078" font-weight="700">Hazard ratio 0.21 for lenvatinib</text>
+<text x="60" y="3284.6" font-size="14" fill="#345963">99% confidence interval</text>
+<text x="60" y="3312.6" font-size="14" fill="#527078" font-weight="700">Response rate for cabozantinib (interim analysis)</text>
+<text x="60" y="3336.6" font-size="14" fill="#345963">99% confidence interval</text>
+<text x="60" y="3364.6" font-size="14" fill="#527078" font-weight="700">Progression-free survival hazard ratio 0.22 for cabozantinib</text>
+<text x="60" y="3388.6" font-size="14" fill="#345963">96% confidence interval</text>
+<text x="60" y="3416.6" font-size="14" fill="#527078" font-weight="700">Hazard ratios in the sorafenib and BRAF phase III trials</text>
+<text x="60" y="3440.6" font-size="14" fill="#345963">95% confidence interval</text>
+<text x="60" y="3471.6" font-size="14" fill="#345963">When the levels differ, the widths of the intervals cannot be read in</text>
+<text x="60" y="3492.6" font-size="14" fill="#345963">the same sentence. And if you see &quot;median progression-free</text>
+<text x="60" y="3513.6" font-size="14" fill="#345963">survival not reached&quot; for cabozantinib, that is the older wording</text>
+<text x="60" y="3534.6" font-size="14" fill="#345963">from the interim analysis; the 2022 extended analysis is the one to</text>
+<text x="60" y="3555.6" font-size="14" fill="#345963">use.</text>
+<g filter="url(#sh)">
+<rect x="40" y="3610.6" width="540" height="528.57" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="3648.6" font-size="18" fill="#00806B" font-weight="800">The lenvatinib phase III</text>
+<text x="60" y="3689.22" font-size="12.5" fill="#527078">392 patients with radioiodine-refractory, progressive differentiated thyroid</text>
+<text x="60" y="3707.97" font-size="12.5" fill="#527078">cancer (261 on drug, 131 on placebo)</text>
+<text x="60" y="3750.72" font-size="14" fill="#527078" font-weight="700">Drug</text>
+<rect x="60" y="3756.32" width="390.52" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="3756.32" width="357.32" height="26" rx="7" fill="#00806B"/>
+<text x="462.52" y="3774.64" font-size="14" fill="#00806B" font-weight="800">18.3 months</text>
+<text x="60" y="3805.32" font-size="14" fill="#527078" font-weight="700">Placebo</text>
+<rect x="60" y="3810.92" width="399.21" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="3810.92" width="71.86" height="26" rx="7" fill="#7A6E58"/>
+<text x="471.21" y="3829.24" font-size="14" fill="#7A6E58" font-weight="800">3.6 months</text>
+<text x="60" y="3866.42" font-size="15.5" fill="#123641" font-weight="800">Hazard ratio 0.21 (0.14 to 0.31)</text>
+<rect x="60" y="3878.17" width="204.74" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="71" y="3895.67" font-size="13.5" fill="#FFFFFF" font-weight="800">99% confidence interval</text>
+<text x="60" y="3929.17" font-size="14" fill="#345963">Response 64.8% (4 of them complete) against 1.5%. On overall</text>
+<text x="60" y="3950.17" font-size="14" fill="#345963">survival: this trial published no overall-survival hazard ratio or test</text>
+<text x="60" y="3971.17" font-size="14" fill="#345963">at all, only that median overall survival had not been reached in</text>
+<text x="60" y="3992.17" font-size="14" fill="#345963">either arm.</text>
+<text x="60" y="4035.17" font-size="14" fill="#345963">The cost: discontinuation for adverse events 14.2% against 2.3%; of</text>
+<text x="60" y="4056.17" font-size="14" fill="#345963">20 deaths during treatment, 6 were judged drug-related;</text>
+<text x="60" y="4077.17" font-size="14" fill="#345963">hypertension, diarrhoea, fatigue, loss of appetite and weight loss</text>
+<text x="60" y="4098.17" font-size="14" fill="#345963">each above four in ten.</text>
+<g filter="url(#sh)">
+<rect x="40" y="4153.17" width="540" height="507.57" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="4191.17" font-size="18" fill="#96790F" font-weight="800">The sorafenib phase III</text>
+<text x="60" y="4231.79" font-size="12.5" fill="#527078">417 patients (207 on drug, 210 on placebo), radioiodine-refractory, locally</text>
+<text x="60" y="4250.54" font-size="12.5" fill="#527078">advanced or metastatic and progressing</text>
+<text x="60" y="4293.29" font-size="14" fill="#527078" font-weight="700">Drug</text>
+<rect x="60" y="4298.89" width="390.52" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="4298.89" width="210.88" height="26" rx="7" fill="#96790F"/>
+<text x="462.52" y="4317.21" font-size="14" fill="#96790F" font-weight="800">10.8 months</text>
+<text x="60" y="4347.89" font-size="14" fill="#527078" font-weight="700">Placebo</text>
+<rect x="60" y="4353.49" width="399.21" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="4353.49" width="115.77" height="26" rx="7" fill="#7A6E58"/>
+<text x="471.21" y="4371.81" font-size="14" fill="#7A6E58" font-weight="800">5.8 months</text>
+<text x="60" y="4408.99" font-size="15.5" fill="#123641" font-weight="800">Hazard ratio 0.59 (0.45 to 0.76)</text>
+<rect x="60" y="4420.74" width="204.74" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="71" y="4438.24" font-size="13.5" fill="#FFFFFF" font-weight="800">95% confidence interval</text>
+<text x="60" y="4471.74" font-size="14" fill="#345963">Overall survival showed no significant difference, hazard ratio 0.80</text>
+<text x="60" y="4492.74" font-size="14" fill="#345963">(0.54 to 1.19); 71.4% of the placebo arm crossed over to the drug</text>
+<text x="60" y="4513.74" font-size="14" fill="#345963">after progressing, and the authors write that the overall-survival</text>
+<text x="60" y="4534.74" font-size="14" fill="#345963">result may be confounded by it.</text>
+<text x="60" y="4577.74" font-size="14" fill="#345963">Response 12.2% (24/196), all of them partial. Dose interruption 66.2%,</text>
+<text x="60" y="4598.74" font-size="14" fill="#345963">reduction 64.3%, discontinuation for adverse events 18.8%; serious</text>
+<text x="60" y="4619.74" font-size="14" fill="#345963">adverse events 37.2% against 26.3%.</text>
+<g filter="url(#sh)">
+<rect x="40" y="4674.74" width="540" height="570.57" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="4712.74" font-size="18" fill="#5C77C4" font-weight="800">The cabozantinib phase III (2022 extended analysis)</text>
+<text x="60" y="4753.36" font-size="12.5" fill="#527078">258 randomised, median follow-up 10.1 months; used in patients who</text>
+<text x="60" y="4772.11" font-size="12.5" fill="#527078">progressed on one of the drugs above</text>
+<text x="60" y="4814.86" font-size="14" fill="#527078" font-weight="700">Drug</text>
+<rect x="60" y="4820.46" width="390.52" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="4820.46" width="214.78" height="26" rx="7" fill="#5C77C4"/>
+<text x="462.52" y="4838.78" font-size="14" fill="#5C77C4" font-weight="800">11.0 months</text>
+<text x="60" y="4869.46" font-size="14" fill="#527078" font-weight="700">Control</text>
+<rect x="60" y="4875.06" width="399.21" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="4875.06" width="37.92" height="26" rx="7" fill="#7A6E58"/>
+<text x="471.21" y="4893.38" font-size="14" fill="#7A6E58" font-weight="800">1.9 months</text>
+<text x="60" y="4930.56" font-size="15.5" fill="#123641" font-weight="800">Hazard ratio 0.22 (0.15 to 0.32)</text>
+<rect x="60" y="4942.31" width="204.74" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="71" y="4959.81" font-size="13.5" fill="#FFFFFF" font-weight="800">96% confidence interval</text>
+<text x="60" y="4993.31" font-size="14" fill="#345963">The interval around the median of 11.0 months is a 96% confidence</text>
+<text x="60" y="5014.31" font-size="14" fill="#345963">interval of 7.4 to 13.8. Response 11.0% (95% confidence interval 6.9 to</text>
+<text x="60" y="5035.31" font-size="14" fill="#345963">16.9) against 0; grade 3 or 4 adverse events 62% against 28%. The</text>
+<text x="60" y="5056.31" font-size="14" fill="#345963">overall-survival hazard ratio of 0.76 (0.45 to 1.31) is likewise not</text>
+<text x="60" y="5077.31" font-size="14" fill="#345963">significant, and the authors write that crossover will confound</text>
+<text x="60" y="5098.31" font-size="14" fill="#345963">future analyses of overall survival.</text>
+<text x="60" y="5141.31" font-size="14" fill="#345963">In the interim analysis (187 patients) the response rate was 10/67</text>
+<text x="60" y="5162.31" font-size="14" fill="#345963">among the first 100 randomised (15%, 99% confidence interval 5.8 to</text>
+<text x="60" y="5183.31" font-size="14" fill="#345963">29.3) against 0/33, which did not meet the prespecified threshold for</text>
+<text x="60" y="5204.31" font-size="14" fill="#345963">significance.</text>
+<g filter="url(#sh)">
+<rect x="40" y="5259.31" width="540" height="531.69" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="5297.31" font-size="18" fill="#B04A4A" font-weight="800">The BRAF phase III, which read out after the</text>
+<text x="60" y="5321.43" font-size="18" fill="#B04A4A" font-weight="800">guideline was written</text>
+<text x="60" y="5362.05" font-size="12.5" fill="#527078">153 previously treated patients with BRAF V600E-positive,</text>
+<text x="60" y="5380.8" font-size="12.5" fill="#527078">radioiodine-refractory differentiated thyroid cancer, randomised 101 to 52</text>
+<text x="60" y="5423.55" font-size="14" fill="#527078" font-weight="700">Drug</text>
+<rect x="60" y="5429.15" width="390.52" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="5429.15" width="249.93" height="26" rx="7" fill="#B04A4A"/>
+<text x="462.52" y="5447.47" font-size="14" fill="#B04A4A" font-weight="800">12.8 months</text>
+<text x="60" y="5478.15" font-size="14" fill="#527078" font-weight="700">Control</text>
+<rect x="60" y="5483.75" width="399.21" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="60" y="5483.75" width="73.85" height="26" rx="7" fill="#7A6E58"/>
+<text x="471.21" y="5502.07" font-size="14" fill="#7A6E58" font-weight="800">3.7 months</text>
+<text x="60" y="5539.25" font-size="15.5" fill="#123641" font-weight="800">Stratified hazard ratio 0.38 (0.25 to 0.57)</text>
+<rect x="60" y="5551" width="204.74" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="71" y="5568.5" font-size="13.5" fill="#FFFFFF" font-weight="800">95% confidence interval</text>
+<text x="60" y="5602" font-size="14" fill="#345963">The interval around the median of 12.8 months is a 95% confidence</text>
+<text x="60" y="5623" font-size="14" fill="#345963">interval of 10.2 to 21.2. Response 57% against 4%.</text>
+<text x="60" y="5666" font-size="14" fill="#345963">The interim analysis of overall survival has not reached significance</text>
+<text x="60" y="5687" font-size="14" fill="#345963">(stratified hazard ratio 0.66, 0.36 to 1.19), and that trial is still</text>
+<text x="60" y="5708" font-size="14" fill="#345963">running. The authors conclude for second-line use; 86% of those</text>
+<text x="60" y="5729" font-size="14" fill="#345963">enrolled were Asian, which is the ethnic composition of the trial and</text>
+<text x="60" y="5750" font-size="14" fill="#345963">not a statement about who the drug suits.</text>
+<g filter="url(#sh)">
+<rect x="40" y="5805" width="540" height="338.37" rx="18" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+</g>
+<text x="60" y="5843" font-size="18" fill="#123641" font-weight="800">These four trials are not head-to-head comparisons</text>
+<text x="60" y="5890.62" font-size="15.5" fill="#345963">The guideline admits in so many words that no randomised</text>
+<text x="60" y="5913.87" font-size="15.5" fill="#345963">trial has ever compared the two first-line drugs directly. Its</text>
+<text x="60" y="5937.12" font-size="15.5" fill="#345963">judgement is that a progressing patient with no matched</text>
+<text x="60" y="5960.37" font-size="15.5" fill="#345963">target should have one of the two, and that in most cases</text>
+<text x="60" y="5983.62" font-size="15.5" fill="#345963">lenvatinib is preferred (strong recommendation, high</text>
+<text x="60" y="6006.87" font-size="15.5" fill="#345963">certainty).</text>
+<text x="60" y="6053.62" font-size="15.5" fill="#345963">Cabozantinib is for patients who have progressed on one of</text>
+<text x="60" y="6076.87" font-size="15.5" fill="#345963">those drugs (strong recommendation, high certainty). That is</text>
+<text x="60" y="6100.12" font-size="15.5" fill="#345963">a sequence, not a ranking.</text>
+<g filter="url(#sh)">
+<rect x="40" y="6157.37" width="540" height="360.24" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="6195.37" font-size="18" fill="#B04A4A" font-weight="800">Redifferentiation: no randomised evidence, and the</text>
+<text x="60" y="6219.49" font-size="18" fill="#B04A4A" font-weight="800">one phase III was negative</text>
+<text x="60" y="6265.61" font-size="14" fill="#345963">The 2025 International Thyroid Oncology Group statement is candid:</text>
+<text x="60" y="6286.61" font-size="14" fill="#345963">restoration of iodine uptake ranged from 33% to 95% between trials</text>
+<text x="60" y="6307.61" font-size="14" fill="#345963">and tumour response from 11% to 80%, while the trials differ widely</text>
+<text x="60" y="6328.61" font-size="14" fill="#345963">in eligibility, timing, radioiodine activity and dosimetry; and the</text>
+<text x="60" y="6349.61" font-size="14" fill="#345963">sentence that matters most is &quot;Randomised studies are missing&quot;.</text>
+<text x="60" y="6392.61" font-size="14" fill="#345963">The only completed phase III was not asking about salvage at all:</text>
+<text x="60" y="6413.61" font-size="14" fill="#345963">ASTRA enrolled high-risk postoperative patients who were not</text>
+<text x="60" y="6434.61" font-size="14" fill="#345963">genomically selected, randomised 233 of them, and found complete</text>
+<text x="60" y="6455.61" font-size="14" fill="#345963">remission at eighteen months in 40% against 38%, odds ratio 1.07 (95%</text>
+<text x="60" y="6476.61" font-size="14" fill="#345963">confidence interval 0.61 to 1.87) - negative.</text>
+<g filter="url(#sh)">
+<rect x="40" y="6531.61" width="540" height="294.12" rx="18" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2"/>
+</g>
+<text x="60" y="6569.61" font-size="18" fill="#8F7418" font-weight="800">The Taiwan part is not on this figure</text>
+<text x="60" y="6615.73" font-size="14" fill="#345963">Whether a drug is licensed, whether it is listed by the National Health</text>
+<text x="60" y="6636.73" font-size="14" fill="#345963">Insurance, and whether the reimbursement rules name this cancer</text>
+<text x="60" y="6657.73" font-size="14" fill="#345963">and these conditions are three separate questions with three</text>
+<text x="60" y="6678.73" font-size="14" fill="#345963">different answers, and running them together goes wrong every</text>
+<text x="60" y="6699.73" font-size="14" fill="#345963">time.</text>
+<text x="60" y="6742.73" font-size="14" fill="#345963">This figure does not say which drug is reimbursed in Taiwan for</text>
+<text x="60" y="6763.73" font-size="14" fill="#345963">which thyroid cancer. The rules are transcribed verbatim in the</text>
+<text x="60" y="6784.73" font-size="14" fill="#345963">sister article, &quot;How this goes in Taiwan&quot;.</text>
+<rect x="40" y="6851.73" width="540" height="777.95" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="66" y="6897.73" font-size="18" fill="#B04A4A" font-weight="800">This figure will not turn four trials into a league</text>
+<text x="66" y="6923.83" font-size="18" fill="#B04A4A" font-weight="800">table</text>
+<text x="66" y="6955.43" font-size="15.5" fill="#345963">The four cells are drawn on one scale so that you can see</text>
+<text x="66" y="6978.68" font-size="15.5" fill="#345963">how far apart the two bars within each cell are, not so that</text>
+<text x="66" y="7001.93" font-size="15.5" fill="#345963">you can compare the length of one drug's bar with</text>
+<text x="66" y="7025.18" font-size="15.5" fill="#345963">another's. The populations, the lines of therapy and the</text>
+<text x="66" y="7048.43" font-size="15.5" fill="#345963">control arms all differ, and the guideline itself says no</text>
+<text x="66" y="7071.68" font-size="15.5" fill="#345963">randomised trial has ever compared them directly.</text>
+<text x="66" y="7104.93" font-size="15.5" fill="#345963">Every confidence interval is printed with its level. Intervals</text>
+<text x="66" y="7128.18" font-size="15.5" fill="#345963">at 99%, 96% and 95% cannot have their widths compared in</text>
+<text x="66" y="7151.43" font-size="15.5" fill="#345963">the same sentence.</text>
+<text x="66" y="7184.68" font-size="15.5" fill="#345963">What these drugs buy is time with the disease held down, not</text>
+<text x="66" y="7207.93" font-size="15.5" fill="#345963">a cure. On whether they make people live longer, not one of</text>
+<text x="66" y="7231.18" font-size="15.5" fill="#345963">the four trials above was designed to answer that question:</text>
+<text x="66" y="7254.43" font-size="15.5" fill="#345963">overall survival is a secondary or exploratory endpoint in</text>
+<text x="66" y="7277.68" font-size="15.5" fill="#345963">all four, and all four let the placebo arm cross over to the</text>
+<text x="66" y="7300.93" font-size="15.5" fill="#345963">drug after progressing, which by itself blurs that endpoint.</text>
+<text x="66" y="7324.18" font-size="15.5" fill="#345963">One at a time: sorafenib showed no significant difference</text>
+<text x="66" y="7347.43" font-size="15.5" fill="#345963">(0.80, 0.54 to 1.19); cabozantinib's 0.76 (0.45 to 1.31) is</text>
+<text x="66" y="7370.68" font-size="15.5" fill="#345963">likewise not significant; the interim analysis of dabrafenib</text>
+<text x="66" y="7393.93" font-size="15.5" fill="#345963">plus trametinib did not reach significance (0.66, 0.36 to 1.19)</text>
+<text x="66" y="7417.18" font-size="15.5" fill="#345963">and that trial is still running; and lenvatinib published no</text>
+<text x="66" y="7440.43" font-size="15.5" fill="#345963">overall-survival hazard ratio or test at all. None of them</text>
+<text x="66" y="7463.68" font-size="15.5" fill="#345963">proved a benefit in overall survival - which is not the same</text>
+<text x="66" y="7486.93" font-size="15.5" fill="#345963">sentence as &quot;there is no benefit in overall survival&quot;, and the</text>
+<text x="66" y="7510.18" font-size="15.5" fill="#345963">second sentence is not written here.</text>
+<text x="66" y="7543.43" font-size="15.5" fill="#345963">Redifferentiation has no randomised evidence, the one</text>
+<text x="66" y="7566.68" font-size="15.5" fill="#345963">completed phase III was negative, and it was not even asking</text>
+<text x="66" y="7589.93" font-size="15.5" fill="#345963">about salvage.</text>
+<g filter="url(#sh)">
+<rect x="40" y="7645.68" width="540" height="241.76" rx="18" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+</g>
+<text x="60" y="7683.68" font-size="18" fill="#8F7418" font-weight="800">Three sentences to ask before a drug is started</text>
+<circle cx="64.5" cy="7725.41" r="4" fill="#8F7418"/>
+<text x="79" y="7731.3" font-size="15.5" fill="#345963">&quot;On which criterion was I judged refractory to</text>
+<text x="79" y="7754.24" font-size="15.5" fill="#345963">radioiodine?&quot;</text>
+<circle cx="64.5" cy="7778.29" r="4" fill="#8F7418"/>
+<text x="79" y="7784.18" font-size="15.5" fill="#345963">&quot;Are my lesions growing now, and by how much since last</text>
+<text x="79" y="7807.12" font-size="15.5" fill="#345963">time?&quot;</text>
+<circle cx="64.5" cy="7831.17" r="4" fill="#8F7418"/>
+<text x="79" y="7837.06" font-size="15.5" fill="#345963">&quot;If three months of this does not hold the disease down,</text>
+<text x="79" y="7860" font-size="15.5" fill="#345963">what is our next step?&quot;</text>
+<text x="40" y="7907.44" font-size="15" fill="#527078">Schematic, redrawn from the 2025 American Thyroid Association</text>
+<text x="40" y="7930.69" font-size="15" fill="#527078">guidelines for differentiated thyroid cancer, the two first-line phase</text>
+<text x="40" y="7953.94" font-size="15" fill="#527078">III trials of lenvatinib and sorafenib, the interim and 2022 extended</text>
+<text x="40" y="7977.19" font-size="15" fill="#527078">analyses of the cabozantinib phase III, the BRAF phase III reported in</text>
+<text x="40" y="8000.44" font-size="15" fill="#527078">2026, the 2025 International Thyroid Oncology Group statement on</text>
+<text x="40" y="8023.69" font-size="15" fill="#527078">redifferentiation and the ASTRA trial; not reproduced from the</text>
+<text x="40" y="8046.94" font-size="15" fill="#527078">figures of the original papers. The cohorts, designs and endpoints of</text>
+<text x="40" y="8070.19" font-size="15" fill="#527078">the underlying studies differ, so the data points must not be</text>
+<text x="40" y="8093.44" font-size="15" fill="#527078">compared directly.</text>
+  </g>
+</svg>

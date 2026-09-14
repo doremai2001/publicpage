@@ -1,0 +1,271 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="4303" viewBox="0 0 1440 4303" role="img" aria-labelledby="t d">
+  <title id="t">Two systems, two labels: the asymmetry holds in one direction only</title>
+  <desc id="d">Schematic drawing the two labels on a thyroid cancer report as two separate axes, divided by a dashed rule, with no arrow of any kind joining them. The figure states first that the two systems were built for different main questions and that the asymmetry holds in one direction only: stage is built for death, the guideline says outright that it is not enough to predict recurrence, and that is exactly why a separate recurrence stratification was made. On the left is axis one, AJCC / TNM stage, which predicts death from this disease, that is disease-specific survival. This column quotes the 2025 American Thyroid Association guidelines for differentiated thyroid cancer: AJCC and UICC staging is designed to predict disease-specific survival and therefore does not predict the overall risk of structural persistence or recurrence. Next comes the age cutoff: the AJCC 8th edition took effect in 2018 and moved the staging age cutoff from 45 to 55; the staging tables in the 2015 edition of these guidelines are still on the 7th edition with the cutoff written as 45, and the 2025 edition is this society's first differentiated thyroid cancer guideline built on the 8th; reading data from before 2018 against a report written today gives the wrong answer. A red-bordered cell carries the sentence in the 8th edition that is misread most often: all patients younger than 55 have stage I disease unless they have distant metastases, in which case their disease is stage II. Read the other way round, if someone under 55 is given &quot;stage II&quot; then by definition distant metastases are already present, and &quot;only stage II&quot; does not exist here. Below that is the layout for patients 55 and over: tumour confined to the thyroid with no metastases is stage I; nodal metastases, or a tumour larger than 4 cm, or gross invasion of the strap muscles make it stage II; gross invasion of subcutaneous soft tissue, larynx, trachea, oesophagus or recurrent laryngeal nerve is stage III; invasion of the prevertebral fascia or encasement of the carotid artery is stage IVA, and distant metastases stage IVB. A note records two further changes in the 8th edition: extrathyroidal extension seen only under the microscope no longer counts towards T3, and nodal metastasis no longer pushes a patient into stage III automatically. The shift between editions follows: a meta-analysis of 6 studies and 10,850 patients with differentiated thyroid cancer, median follow-up 55 to 148 months, staged the same patients once under each edition. Two stacked bars and four lines of figures give stage I 60% to 81%, stage II 5% to 13%, stage III 21% to 2%, and stage IV 10% to 3%. Ten-year disease-specific survival from the same analysis is set out by edition: stage II is 98.1% (96.6-99.6) under the 7th edition and 88.6% (82.7-94.6) under the 8th; stage III is 96.8% (94.1-99.64) under the 7th and 70.5% (59.1-83.9) under the 8th. The note explains that the figure falls by almost ten percentage points not because the patients got worse but because the people put into the box marked &quot;stage II&quot; are a different group, the guideline putting it as 20% to 30% of patients downstaged relative to the 7th edition, so that two reports both saying &quot;stage II&quot; describe different situations if they are on different editions. On the right is axis two, the four-tier ATA recurrence risk, which predicts structural disease persistence or recurrence, locoregionally and/or distantly, and/or survival. This column quotes the reason given in the 2015 edition: because AJCC and TNM staging, built for the risk of death, could not adequately predict the risk of recurrence in differentiated thyroid cancer, the 2009 edition of the guidelines proposed a separate recurrence-risk stratification. The four tiers are defined by the probability of recurrence itself and are drawn as a four-step ladder: low, under 10%; low-intermediate, 10% to 15%; intermediate-high, 16% to 30%; high, over 30%. The note explains that the 2015 edition had three tiers, low, intermediate and high, that the 2025 edition has four, and that the guideline gives its own reason for the split, namely that the conditions gathered in the old intermediate box did not all predict the same risk of recurrence; the tier names are copied verbatim from the guideline. Beneath that is a cell giving what recommendation 28A of the 2025 edition asks this system to determine, verbatim: to determine the risk of structural disease persistence or recurrence, locoregionally and/or distantly, and/or survival, a strong recommendation on moderate certainty evidence. Its note says that &quot;and/or survival&quot; tends to fall off in the retelling but is in the text, so the recurrence system's main job is structural recurrence and the guideline's own recommendation extends it to survival as well, while the sentence pointing the other way - that recurrence risk cannot predict death - the guideline never wrote. The column closes with a yellow cell saying plainly that the full entry conditions for each of the four 2025 tiers could not be obtained, because in the guideline they are a figure and the only extractable text is the four percentage bands, so that for what puts a patient in which tier the only citable table is the 2015 one: low risk requires no aggressive variant, no vascular invasion and no clinical nodal metastases; intermediate risk covers microscopic invasion of perithyroidal soft tissue, aggressive variants, papillary carcinoma with vascular invasion and clinically apparent nodal metastases; high risk covers gross extrathyroidal extension, incomplete resection, distant metastases, metastatic nodes 3 cm and larger, and follicular carcinoma with extensive vascular invasion. The dashed rule between the two columns is labelled &quot;Between the two axes: no arrow&quot;. Below both columns sits a hatched box struck through with a cross, headed &quot;No arrow here&quot;, beside text saying that the two labels cannot be translated into each other, that &quot;stage I&quot; is not &quot;low risk&quot; and &quot;intermediate-high risk&quot; is not &quot;stage III&quot;, that a stage label is not a recurrence probability and a risk tier is not a probability of dying, that the asymmetry holds in one direction only - stage is built for death, the guideline says outright that it is not enough to predict recurrence, and that is exactly why a separate recurrence stratification was made, while the recurrence system's main job is structural recurrence and recommendation 28A extends it to &quot;and/or survival&quot; - and that the two systems are justified separately within the same document so this figure keeps them separately drawn. The next part shows what appears when the two systems are laid over each other: a registry of 4,881 adults under 55 with differentiated thyroid cancer, first treated between 1980 and 2016, median follow-up 6.6 years, 122 of them (2.5%) dying of the disease, with AJCC 8th edition stage, the 2015 three-tier recurrence risk and age crossed against one another and ten-year disease-specific survival as the endpoint, the figure noting that this table's endpoint is survival and that it uses recurrence risk to sharpen the survival estimate. Six horizontal bars give stage I with low recurrence risk 100%, stage I with intermediate risk 98%, stage I with high risk under 45 years 95%, stage I with high risk at 45 to 55 years 89%, stage II with high risk under 45 years 78%, and stage II with high risk at 45 to 55 years 61%. The note observes that reports all saying &quot;8th edition, stage I&quot; run from 100% to 89% and reports saying &quot;8th edition, stage II&quot; run from 78% to 61%, and quotes the authors' own conclusion that the 8th edition reclassified up to a third of patients into the younger prognostic stage groups, widening the spectrum of disease inside those lower stages, but that those optimistic estimates may not reflect the prognosis of an individual patient carrying high-risk features. A further cell records that the 8th edition also separates recurrence better, but on a different endpoint: a population-based study of 3,248 patients disease-free after treatment, in which 110 (3%) recurred at a median of 27 months, gives a hazard ratio for stage II against stage I of 0.91 (95% confidence interval 0.39-2.11) under the 7th edition, which is almost no difference, and 4.06 (2.38-6.93) under the 8th; that is good news, but it does not belong in the same sentence as the survival figures above, because those had death as their endpoint and this one has recurrence. Another cell records that staging systems never explained very much: the 2015 guidelines say that every staging system designed to predict death from thyroid cancer explains only 5% to 30% of the uncertainty, and recurrence-risk systems 19% to 34%, so that even with stage and risk category settled most of the uncertainty stays outside, and a stage is a starting point rather than a conclusion. The figure ends with a red-bordered block headed &quot;This figure will not merge your two labels into one&quot;, holding six statements: no arrow is drawn between the two axes, &quot;stage I&quot; is not &quot;low risk&quot; and &quot;intermediate-high risk&quot; is not &quot;stage III&quot;, and any sentence that folds the two labels together is wrong; the tidy symmetrical version - one ruler for death, one for recurrence - is a sentence the guideline never wrote, so this figure does not write it either, the asymmetry holding in one direction only, with stage built for death and the guideline saying outright that it is not enough to predict recurrence, while recommendation 28A extends the recurrence system to &quot;and/or survival&quot;; every figure carries its edition, with the AJCC 7th edition using 45 years and the 8th using 55, the 2015 American Thyroid Association guidelines on the 7th edition and the 2025 edition the first from this society built on the 8th; the &quot;98% five-year survival&quot; seen everywhere online usually comes from American statistics, the figure cited in the 2017 US Preventive Services Task Force document being 98.1%, which is all histologies, all stages and all ages together and can describe a country but not one reader's cell of the table; for Taiwan the national cancer registry report gives no stage distribution and no stage-specific survival for thyroid cancer, so no entry was found and the question of how long a given stage lives in Taiwan is not answered here, with no foreign figure used in its place; and if you are under 55 and your report says stage II, the question has to be asked out loud - is this because there are distant metastases, and where are they?</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="4303" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">TWO SYSTEMS, TWO LABELS - AND NO ARROW BETWEEN THEM</text>
+<text x="84" y="142" font-size="38" fill="#123641" font-weight="800" class="r">Two systems, two labels: the asymmetry holds in one</text>
+<text x="84" y="189.88" font-size="38" fill="#123641" font-weight="800" class="r">direction only</text>
+<text x="84" y="249.76" font-size="19" fill="#527078">Your report carries two labels: a stage and a recurrence-risk group. They do not translate into each other - a stage label is not a</text>
+<text x="84" y="278.26" font-size="19" fill="#527078">recurrence probability, and a risk tier is not a probability of dying.</text>
+<text x="84" y="312.76" font-size="19" fill="#527078">This figure draws them as two separate axes with no arrow between them. The two systems were built for different main</text>
+<text x="84" y="341.26" font-size="19" fill="#527078">questions, and the asymmetry holds in one direction only: stage is built for death, and the guideline says outright that it is not</text>
+<text x="84" y="369.76" font-size="19" fill="#527078">enough to predict recurrence - which is exactly why a separate recurrence stratification was made.</text>
+<rect x="84" y="428.26" width="607" height="198" rx="18" fill="#E3E8F6" stroke="#5C77C4" stroke-width="2.5"/>
+<rect x="104" y="448.26" width="88.74" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="115" y="465.75" font-size="13.5" fill="#FFFFFF" font-weight="800">Axis one</text>
+<text x="104" y="505.26" font-size="22" fill="#123641" font-weight="800" class="r">AJCC / TNM stage</text>
+<text x="104" y="555.86" font-size="18" fill="#5C77C4" font-weight="800">What it predicts: death from this disease (disease-specific</text>
+<text x="104" y="581.06" font-size="18" fill="#5C77C4" font-weight="800">survival)</text>
+<g filter="url(#sh)">
+<rect x="84" y="640.26" width="607" height="147.6" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="112" y="673.76" font-size="15.5" fill="#345963">The 2025 American Thyroid Association guidelines for differentiated</text>
+<text x="112" y="697.79" font-size="15.5" fill="#345963">thyroid cancer say it outright: AJCC and UICC staging is designed to</text>
+<text x="112" y="721.81" font-size="15.5" fill="#345963">predict disease-specific survival, and therefore does not predict the</text>
+<text x="112" y="745.84" font-size="15.5" fill="#345963">overall risk of structural persistence or recurrence.</text>
+<line x1="102" y1="656.26" x2="102" y2="765.86" stroke="#5C77C4" stroke-width="4" stroke-linecap="butt"/>
+<g filter="url(#sh)">
+<rect x="84" y="801.86" width="607" height="249.16" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="839.86" font-size="18" fill="#5C77C4" font-weight="800">The line at 55, and the 45 that came before it</text>
+<circle cx="108.5" cy="880.66" r="4" fill="#5C77C4"/>
+<text x="123" y="885.98" font-size="14" fill="#345963">The AJCC 8th edition took effect in 2018 and moved the age cutoff used for</text>
+<text x="123" y="906.7" font-size="14" fill="#345963">staging from 45 to 55.</text>
+<circle cx="108.5" cy="929.1" r="4" fill="#5C77C4"/>
+<text x="123" y="934.42" font-size="14" fill="#345963">The staging tables in the 2015 edition of these guidelines are still on the 7th</text>
+<text x="123" y="955.14" font-size="14" fill="#345963">edition, with the cutoff written as 45; the 2025 edition is this society's first</text>
+<text x="123" y="975.86" font-size="14" fill="#345963">differentiated thyroid cancer guideline built on the 8th.</text>
+<circle cx="108.5" cy="998.26" r="4" fill="#5C77C4"/>
+<text x="123" y="1003.58" font-size="14" fill="#345963">Reading data from before 2018 against a report written today gives the</text>
+<text x="123" y="1024.3" font-size="14" fill="#345963">wrong answer.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1065.02" width="607" height="211.82" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2"/>
+</g>
+<text x="104" y="1103.02" font-size="18" fill="#B04A4A" font-weight="800">The sentence in the 8th edition that is misread most often</text>
+<circle cx="108.5" cy="1144.75" r="4" fill="#B04A4A"/>
+<text x="123" y="1150.64" font-size="15.5" fill="#345963">All patients younger than 55 have stage I disease unless they have</text>
+<text x="123" y="1173.58" font-size="15.5" fill="#345963">distant metastases, in which case their disease is stage II.</text>
+<circle cx="108.5" cy="1197.63" r="4" fill="#B04A4A"/>
+<text x="123" y="1203.52" font-size="15.5" fill="#345963">Read it the other way round: if someone under 55 is given &quot;stage</text>
+<text x="123" y="1226.46" font-size="15.5" fill="#345963">II&quot;, by definition that means distant metastases are already present.</text>
+<text x="123" y="1249.4" font-size="15.5" fill="#345963">&quot;Only stage II&quot; does not exist here.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1290.84" width="607" height="256.16" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1328.84" font-size="18" fill="#5C77C4" font-weight="800">At 55 and over the layout is different</text>
+<circle cx="108.5" cy="1369.64" r="4" fill="#5C77C4"/>
+<text x="123" y="1374.96" font-size="14" fill="#345963">Tumour confined to the thyroid with no metastases is stage I.</text>
+<circle cx="108.5" cy="1397.36" r="4" fill="#5C77C4"/>
+<text x="123" y="1402.68" font-size="14" fill="#345963">Add nodal metastases, or a tumour larger than 4 cm, or gross invasion of</text>
+<text x="123" y="1423.4" font-size="14" fill="#345963">the strap muscles, and it is stage II.</text>
+<circle cx="108.5" cy="1445.8" r="4" fill="#5C77C4"/>
+<text x="123" y="1451.12" font-size="14" fill="#345963">Gross invasion of subcutaneous soft tissue, larynx, trachea, oesophagus or</text>
+<text x="123" y="1471.84" font-size="14" fill="#345963">recurrent laryngeal nerve is stage III.</text>
+<circle cx="108.5" cy="1494.24" r="4" fill="#5C77C4"/>
+<text x="123" y="1499.56" font-size="14" fill="#345963">Invasion of the prevertebral fascia or encasement of the carotid artery is</text>
+<text x="123" y="1520.28" font-size="14" fill="#345963">stage IVA; distant metastases are stage IVB.</text>
+<text x="88" y="1575" font-size="14" fill="#527078">Two further changes in the 8th edition: extrathyroidal extension seen only under</text>
+<text x="88" y="1596" font-size="14" fill="#527078">the microscope no longer counts towards T3, and nodal metastasis no longer</text>
+<text x="88" y="1617" font-size="14" fill="#527078">pushes a patient into stage III automatically.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1654" width="607" height="450.67" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1692" font-size="18" fill="#123641" font-weight="800">The same patients, staged once under each edition</text>
+<text x="104" y="1732.62" font-size="12.5" fill="#527078">A meta-analysis of 6 studies and 10,850 patients with differentiated thyroid cancer,</text>
+<text x="104" y="1750.75" font-size="12.5" fill="#527078">median follow-up 55 to 148 months.</text>
+<text x="104" y="1794.87" font-size="14" fill="#527078" font-weight="700">7th edition</text>
+<rect x="104" y="1800.47" width="337.2" height="26" rx="6" fill="#5C77C4"/>
+<rect x="444.2" y="1800.47" width="25.35" height="26" rx="6" fill="#96790F"/>
+<rect x="472.55" y="1800.47" width="116.07" height="26" rx="6" fill="#00806B"/>
+<rect x="591.62" y="1800.47" width="53.7" height="26" rx="6" fill="#B04A4A"/>
+<text x="104" y="1852.47" font-size="14" fill="#527078" font-weight="700">8th edition</text>
+<rect x="104" y="1858.07" width="456.27" height="26" rx="6" fill="#5C77C4"/>
+<rect x="563.27" y="1858.07" width="70.71" height="26" rx="6" fill="#96790F"/>
+<rect x="636.98" y="1858.07" width="8.34" height="26" rx="6" fill="#00806B"/>
+<rect x="648.32" y="1858.07" width="14.01" height="26" rx="6" fill="#B04A4A"/>
+<rect x="104" y="1898.07" width="11" height="11" rx="2" fill="#5C77C4"/>
+<text x="124" y="1910.07" font-size="14" fill="#345963">Stage I</text>
+<rect x="396.5" y="1898.07" width="11" height="11" rx="2" fill="#96790F"/>
+<text x="416.5" y="1910.07" font-size="14" fill="#345963">Stage II</text>
+<rect x="104" y="1938.37" width="11" height="11" rx="2" fill="#00806B"/>
+<text x="124" y="1950.37" font-size="14" fill="#345963">Stage III</text>
+<rect x="396.5" y="1938.37" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="416.5" y="1950.37" font-size="14" fill="#345963">Stage IV</text>
+<text x="104" y="1996.67" font-size="14" fill="#527078" font-weight="700">Stage I</text>
+<text x="387.5" y="1996.67" font-size="14" fill="#345963">60% to 81%</text>
+<text x="104" y="2023.67" font-size="14" fill="#527078" font-weight="700">Stage II</text>
+<text x="387.5" y="2023.67" font-size="14" fill="#345963">5% to 13%</text>
+<text x="104" y="2050.67" font-size="14" fill="#527078" font-weight="700">Stage III</text>
+<text x="387.5" y="2050.67" font-size="14" fill="#345963">21% to 2%</text>
+<text x="104" y="2077.67" font-size="14" fill="#527078" font-weight="700">Stage IV</text>
+<text x="387.5" y="2077.67" font-size="14" fill="#345963">10% to 3%</text>
+<g filter="url(#sh)">
+<rect x="84" y="2118.67" width="607" height="375.92" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="2156.67" font-size="18" fill="#123641" font-weight="800">Ten-year disease-specific survival, set out by edition</text>
+<text x="104" y="2208.79" font-size="18" fill="#123641" font-weight="800">Stage II</text>
+<text x="104" y="2229.99" font-size="14" fill="#527078" font-weight="700">7th edition</text>
+<text x="671" y="2229.99" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">98.1% (96.6-99.6)</text>
+<text x="104" y="2253.09" font-size="14" fill="#527078" font-weight="700">8th edition</text>
+<text x="671" y="2253.09" font-size="14" fill="#B04A4A" font-weight="800" text-anchor="end">88.6% (82.7-94.6)</text>
+<text x="104" y="2290.19" font-size="18" fill="#123641" font-weight="800">Stage III</text>
+<text x="104" y="2311.39" font-size="14" fill="#527078" font-weight="700">7th edition</text>
+<text x="671" y="2311.39" font-size="14" fill="#7A6E58" font-weight="800" text-anchor="end">96.8% (94.1-99.64)</text>
+<text x="104" y="2334.49" font-size="14" fill="#527078" font-weight="700">8th edition</text>
+<text x="671" y="2334.49" font-size="14" fill="#B04A4A" font-weight="800" text-anchor="end">70.5% (59.1-83.9)</text>
+<text x="104" y="2369.59" font-size="14" fill="#345963">The figure falls by almost ten percentage points, and not because the patients</text>
+<text x="104" y="2390.59" font-size="14" fill="#345963">got worse. The people put into the box marked &quot;stage II&quot; are a different group</text>
+<text x="104" y="2411.59" font-size="14" fill="#345963">- the guideline puts it as 20% to 30% of patients being downstaged relative to the</text>
+<text x="104" y="2432.59" font-size="14" fill="#345963">7th edition. So two reports both saying &quot;stage II&quot; describe different situations</text>
+<text x="104" y="2453.59" font-size="14" fill="#345963">if they are on different editions.</text>
+<rect x="749" y="428.26" width="607" height="198" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2.5"/>
+<rect x="769" y="448.26" width="90.36" height="25" rx="12.5" fill="#00806B"/>
+<text x="780" y="465.75" font-size="13.5" fill="#FFFFFF" font-weight="800">Axis two</text>
+<text x="769" y="505.26" font-size="22" fill="#123641" font-weight="800" class="r">ATA recurrence risk (four tiers)</text>
+<text x="769" y="555.86" font-size="18" fill="#00806B" font-weight="800">What it predicts: structural disease persistence or</text>
+<text x="769" y="581.06" font-size="18" fill="#00806B" font-weight="800">recurrence, locoregionally and/or distantly, and/or survival</text>
+<g filter="url(#sh)">
+<rect x="749" y="640.26" width="607" height="147.6" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="777" y="673.76" font-size="15.5" fill="#345963">The 2015 edition is blunter still: because AJCC and TNM staging, built</text>
+<text x="777" y="697.79" font-size="15.5" fill="#345963">for the risk of death, could not adequately predict the risk of</text>
+<text x="777" y="721.81" font-size="15.5" fill="#345963">recurrence in differentiated thyroid cancer, the 2009 edition of the</text>
+<text x="777" y="745.84" font-size="15.5" fill="#345963">guidelines proposed a separate recurrence-risk stratification.</text>
+<line x1="767" y1="656.26" x2="767" y2="765.86" stroke="#00806B" stroke-width="4" stroke-linecap="butt"/>
+<g filter="url(#sh)">
+<rect x="749" y="801.86" width="607" height="455.24" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="769" y="839.86" font-size="18" fill="#123641" font-weight="800">The 2025 edition defines its four tiers by the probability of</text>
+<text x="769" y="863.98" font-size="18" fill="#123641" font-weight="800">recurrence itself</text>
+<rect x="769" y="900.1" width="567" height="50" rx="12" fill="#D8EDE7"/>
+<rect x="769" y="900.1" width="6" height="50" rx="3" fill="#00806B"/>
+<text x="789" y="931.76" font-size="18" fill="#00806B" font-weight="800">low</text>
+<text x="1318" y="932.66" font-size="21" fill="#123641" font-weight="800" text-anchor="end">under 10%</text>
+<rect x="769" y="959.1" width="567" height="50" rx="12" fill="#F3E8CD"/>
+<rect x="769" y="959.1" width="6" height="50" rx="3" fill="#96790F"/>
+<text x="789" y="990.76" font-size="18" fill="#96790F" font-weight="800">low-intermediate</text>
+<text x="1318" y="991.66" font-size="21" fill="#123641" font-weight="800" text-anchor="end">10% to 15%</text>
+<rect x="769" y="1018.1" width="567" height="50" rx="12" fill="#F3E8CD"/>
+<rect x="769" y="1018.1" width="6" height="50" rx="3" fill="#96790F"/>
+<text x="789" y="1049.76" font-size="18" fill="#96790F" font-weight="800">intermediate-high</text>
+<text x="1318" y="1050.66" font-size="21" fill="#123641" font-weight="800" text-anchor="end">16% to 30%</text>
+<rect x="769" y="1077.1" width="567" height="50" rx="12" fill="#F6E2E0"/>
+<rect x="769" y="1077.1" width="6" height="50" rx="3" fill="#B04A4A"/>
+<text x="789" y="1108.76" font-size="18" fill="#B04A4A" font-weight="800">high</text>
+<text x="1318" y="1109.66" font-size="21" fill="#123641" font-weight="800" text-anchor="end">over 30%</text>
+<text x="769" y="1153.1" font-size="14" fill="#345963">The 2015 edition had three tiers: low, intermediate, high. The 2025 edition has</text>
+<text x="769" y="1174.1" font-size="14" fill="#345963">four. The guideline gives its own reason for the split: the conditions gathered</text>
+<text x="769" y="1195.1" font-size="14" fill="#345963">in the old &quot;intermediate&quot; box did not all predict the same risk of recurrence.</text>
+<text x="769" y="1216.1" font-size="14" fill="#345963">The four tier names here are copied verbatim from the guideline.</text>
+<g filter="url(#sh)">
+<rect x="749" y="1271.1" width="607" height="330.49" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="769" y="1309.1" font-size="18" fill="#123641" font-weight="800">Recommendation 28A in the 2025 edition: what this system is</text>
+<text x="769" y="1333.22" font-size="18" fill="#123641" font-weight="800">asked to determine</text>
+<text x="769" y="1382.84" font-size="15.5" fill="#00806B" font-weight="700">To determine the risk of structural disease persistence or</text>
+<text x="769" y="1406.09" font-size="15.5" fill="#00806B" font-weight="700">recurrence, locoregionally and/or distantly, and/or survival. Strong</text>
+<text x="769" y="1429.34" font-size="15.5" fill="#00806B" font-weight="700">recommendation, moderate certainty evidence.</text>
+<text x="769" y="1476.59" font-size="14" fill="#345963">&quot;And/or survival&quot; tends to fall off in the retelling. It is in the text. So the</text>
+<text x="769" y="1497.59" font-size="14" fill="#345963">recurrence system's main job is structural recurrence, and the guideline's</text>
+<text x="769" y="1518.59" font-size="14" fill="#345963">own recommendation extends it to survival as well. The sentence pointing the</text>
+<text x="769" y="1539.59" font-size="14" fill="#345963">other way - that recurrence risk cannot predict death - the guideline never</text>
+<text x="769" y="1560.59" font-size="14" fill="#345963">wrote.</text>
+<g filter="url(#sh)">
+<rect x="749" y="1615.59" width="607" height="357.12" rx="18" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2"/>
+</g>
+<text x="769" y="1653.59" font-size="18" fill="#8F7418" font-weight="800">One thing about this column has to be said plainly</text>
+<text x="769" y="1699.71" font-size="14" fill="#345963">The full entry conditions for each of the four 2025 tiers could not be obtained.</text>
+<text x="769" y="1720.71" font-size="14" fill="#345963">In the guideline they are a figure, and the only extractable text is the four</text>
+<text x="769" y="1741.71" font-size="14" fill="#345963">percentage bands.</text>
+<text x="769" y="1784.71" font-size="14" fill="#345963">So for &quot;what puts a patient in which tier&quot; the only citable table is the 2015</text>
+<text x="769" y="1805.71" font-size="14" fill="#345963">one: low risk requires no aggressive variant, no vascular invasion and no</text>
+<text x="769" y="1826.71" font-size="14" fill="#345963">clinical nodal metastases; intermediate risk covers microscopic invasion of</text>
+<text x="769" y="1847.71" font-size="14" fill="#345963">perithyroidal soft tissue, aggressive variants, papillary carcinoma with</text>
+<text x="769" y="1868.71" font-size="14" fill="#345963">vascular invasion, and clinically apparent nodal metastases; high risk covers</text>
+<text x="769" y="1889.71" font-size="14" fill="#345963">gross extrathyroidal extension, incomplete resection, distant metastases,</text>
+<text x="769" y="1910.71" font-size="14" fill="#345963">metastatic nodes 3 cm and larger, and follicular carcinoma with extensive</text>
+<text x="769" y="1931.71" font-size="14" fill="#345963">vascular invasion.</text>
+<line x1="720" y1="428.26" x2="720" y2="2494.59" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<rect x="84" y="2520.59" width="1272" height="257.18" rx="18" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+<rect x="108" y="2544.59" width="300" height="104" rx="14" fill="url(#hatch)"/>
+<rect x="108" y="2544.59" width="300" height="104" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="122" y1="2558.59" x2="394" y2="2634.59" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="394" y1="2558.59" x2="122" y2="2634.59" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="108" y="2674.09" font-size="15.5" fill="#B04A4A" font-weight="800">No arrow here</text>
+<text x="446" y="2560.09" font-size="15.5" fill="#345963">The two labels cannot be translated into each other. &quot;Stage I&quot; is not &quot;low risk&quot;, and &quot;intermediate-high risk&quot;</text>
+<text x="446" y="2584.11" font-size="15.5" fill="#345963">is not &quot;stage III&quot;. A stage label is not a recurrence probability, and a risk tier is not a probability of dying.</text>
+<text x="446" y="2633.64" font-size="15.5" fill="#345963">The asymmetry holds in one direction only: stage is built for death, the guideline says outright that it is not</text>
+<text x="446" y="2657.66" font-size="15.5" fill="#345963">enough to predict recurrence, and that is exactly why a separate recurrence stratification was made; the</text>
+<text x="446" y="2681.69" font-size="15.5" fill="#345963">recurrence system's main job is structural recurrence, and recommendation 28A extends it to &quot;and/or</text>
+<text x="446" y="2705.71" font-size="15.5" fill="#345963">survival&quot;. The two systems are justified separately within the same document, and this figure keeps them</text>
+<text x="446" y="2729.74" font-size="15.5" fill="#345963">separately drawn.</text>
+<text x="84" y="2827.76" font-size="22" fill="#123641" font-weight="800" class="r">What appears when the two systems are laid over each other</text>
+<text x="84" y="2853.24" font-size="14" fill="#527078">A registry of 4,881 adults under 55 with differentiated thyroid cancer, first treated between 1980 and 2016, median follow-up 6.6 years, with 122 (2.5%) dying of the disease.</text>
+<text x="84" y="2874.24" font-size="14" fill="#527078">AJCC 8th edition stage, the 2015 three-tier recurrence risk and age are crossed against one another; the endpoint is ten-year disease-specific survival - note that this table's</text>
+<text x="84" y="2895.24" font-size="14" fill="#527078">endpoint is survival, and it uses recurrence risk to sharpen the survival estimate.</text>
+<g filter="url(#sh)">
+<rect x="84" y="2914.24" width="1272" height="355" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="106" y="2954.24" font-size="14" fill="#527078" font-weight="700">Stage I + low recurrence risk</text>
+<rect x="436" y="2936.24" width="768" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="436" y="2936.24" width="768" height="26" rx="7" fill="#5C77C4"/>
+<text x="1216" y="2956.8" font-size="21" fill="#5C77C4" font-weight="800">100%</text>
+<text x="106" y="2992.24" font-size="14" fill="#527078" font-weight="700">Stage I + intermediate risk</text>
+<rect x="436" y="2974.24" width="768" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="436" y="2974.24" width="752.64" height="26" rx="7" fill="#5C77C4"/>
+<text x="1216" y="2994.8" font-size="21" fill="#5C77C4" font-weight="800">98%</text>
+<text x="106" y="3030.24" font-size="14" fill="#527078" font-weight="700">Stage I + high risk, under 45</text>
+<rect x="436" y="3012.24" width="768" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="436" y="3012.24" width="729.6" height="26" rx="7" fill="#5C77C4"/>
+<text x="1216" y="3032.8" font-size="21" fill="#5C77C4" font-weight="800">95%</text>
+<text x="106" y="3068.24" font-size="14" fill="#527078" font-weight="700">Stage I + high risk, 45 to 55</text>
+<rect x="436" y="3050.24" width="768" height="26" rx="7" fill="#E3E8F6"/>
+<rect x="436" y="3050.24" width="683.52" height="26" rx="7" fill="#5C77C4"/>
+<text x="1216" y="3070.8" font-size="21" fill="#5C77C4" font-weight="800">89%</text>
+<text x="106" y="3106.24" font-size="14" fill="#527078" font-weight="700">Stage II + high risk, under 45</text>
+<rect x="436" y="3088.24" width="768" height="26" rx="7" fill="#F6E2E0"/>
+<rect x="436" y="3088.24" width="599.04" height="26" rx="7" fill="#B04A4A"/>
+<text x="1216" y="3108.8" font-size="21" fill="#B04A4A" font-weight="800">78%</text>
+<text x="106" y="3144.24" font-size="14" fill="#527078" font-weight="700">Stage II + high risk, 45 to 55</text>
+<rect x="436" y="3126.24" width="768" height="26" rx="7" fill="#F6E2E0"/>
+<rect x="436" y="3126.24" width="468.48" height="26" rx="7" fill="#B04A4A"/>
+<text x="1216" y="3146.8" font-size="21" fill="#B04A4A" font-weight="800">61%</text>
+<text x="106" y="3184.24" font-size="14" fill="#345963">Four reports all saying &quot;8th edition, stage I&quot; run from 100% to 89%. Two reports both saying &quot;8th edition, stage II&quot; run from 78% to 61%. The authors' own conclusion: the</text>
+<text x="106" y="3205.24" font-size="14" fill="#345963">8th edition reclassified up to a third of patients into the younger prognostic stage groups, widening the spectrum of disease inside those lower stages; those optimistic</text>
+<text x="106" y="3226.24" font-size="14" fill="#345963">estimates may not reflect the prognosis of an individual patient carrying high-risk features.</text>
+<rect x="84" y="3283.24" width="1272" height="202.3" rx="14" fill="#ECE8DE"/>
+<text x="100" y="3313.24" font-size="14" fill="#123641" font-weight="800">The 8th edition also separates recurrence better, but that is a different endpoint</text>
+<text x="100" y="3349.55" font-size="14" fill="#345963">A population-based study of 3,248 patients who were disease-free after treatment, with recurrence as the endpoint: 110 (3%) recurred, at a median of 27 months.</text>
+<text x="100" y="3388.55" font-size="14" fill="#345963">Staged by the 7th edition, the hazard ratio for stage II against stage I is 0.91 (95% confidence interval 0.39-2.11), which is almost no difference at all. Staged by the 8th, the</text>
+<text x="100" y="3409.55" font-size="14" fill="#345963">hazard ratio for stage II becomes 4.06 (2.38-6.93).</text>
+<text x="100" y="3448.55" font-size="14" fill="#345963">That is good news, but it does not belong in the same sentence as the survival figures above. Those had death as their endpoint; this one has recurrence.</text>
+<rect x="84" y="3499.55" width="1272" height="163.3" rx="14" fill="#ECE8DE"/>
+<text x="100" y="3529.55" font-size="14" fill="#123641" font-weight="800">Staging systems never explained very much</text>
+<text x="100" y="3565.85" font-size="14" fill="#345963">One sentence in the 2015 guidelines is rarely quoted: every staging system designed to predict death from thyroid cancer explains only 5% to 30% of the uncertainty, and</text>
+<text x="100" y="3586.85" font-size="14" fill="#345963">recurrence-risk systems 19% to 34%.</text>
+<text x="100" y="3625.85" font-size="14" fill="#345963">Even with the stage and the risk category both settled, most of the uncertainty stays outside. A stage is not a conclusion. It is a starting point.</text>
+<rect x="84" y="3684.85" width="1272" height="469.6" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="3730.85" font-size="18" fill="#B04A4A" font-weight="800">This figure will not merge your two labels into one</text>
+<text x="110" y="3762.45" font-size="15.5" fill="#345963">No arrow is drawn between the two axes. &quot;Stage I&quot; is not &quot;low risk&quot;, and &quot;intermediate-high risk&quot; is not &quot;stage III&quot;. Any sentence that folds the two</text>
+<text x="110" y="3785.7" font-size="15.5" fill="#345963">labels together is wrong.</text>
+<text x="110" y="3818.95" font-size="15.5" fill="#345963">The tidy symmetrical version - one ruler for death, one for recurrence - is a sentence the guideline never wrote, so this figure does not write it either.</text>
+<text x="110" y="3842.2" font-size="15.5" fill="#345963">The asymmetry holds in one direction only: stage is built for death and the guideline says outright that it is not enough to predict recurrence, while</text>
+<text x="110" y="3865.45" font-size="15.5" fill="#345963">recommendation 28A extends the recurrence system to &quot;and/or survival&quot;.</text>
+<text x="110" y="3898.7" font-size="15.5" fill="#345963">Every figure carries its edition. The AJCC 7th edition uses 45 years and the 8th uses 55; the 2015 American Thyroid Association guidelines are on the</text>
+<text x="110" y="3921.95" font-size="15.5" fill="#345963">7th edition, and the 2025 edition is this society's first differentiated thyroid cancer guideline built on the 8th.</text>
+<text x="110" y="3955.2" font-size="15.5" fill="#345963">The &quot;98% five-year survival for thyroid cancer&quot; seen everywhere online usually comes from American statistics; the figure cited in the 2017 US</text>
+<text x="110" y="3978.45" font-size="15.5" fill="#345963">Preventive Services Task Force document is 98.1%. That is all histologies, all stages and all ages together. It can describe a country. It cannot describe</text>
+<text x="110" y="4001.7" font-size="15.5" fill="#345963">your cell of the table.</text>
+<text x="110" y="4034.95" font-size="15.5" fill="#345963">For Taiwan: the national cancer registry report gives no stage distribution and no stage-specific survival for thyroid cancer. No entry found. So &quot;how</text>
+<text x="110" y="4058.2" font-size="15.5" fill="#345963">long does stage such-and-such live in Taiwan&quot; is not something this figure can answer, and foreign figures are not used in its place.</text>
+<text x="110" y="4091.45" font-size="15.5" fill="#345963">If you are under 55 and your report says stage II, that question has to be asked out loud: is this because there are distant metastases, and where are</text>
+<text x="110" y="4114.69" font-size="15.5" fill="#345963">they?</text>
+<text x="84" y="4174.44" font-size="15" fill="#527078">Schematic, redrawn from the 2025 and 2015 American Thyroid Association guidelines for differentiated thyroid cancer, the account of the major changes in the</text>
+<text x="84" y="4197.69" font-size="15" fill="#527078">AJCC 8th edition staging manual, the 2021 meta-analysis comparing the 7th and 8th editions, the 2018 registry study refining 8th edition survival estimates by</text>
+<text x="84" y="4220.94" font-size="15" fill="#527078">recurrence risk, the 2019 population-based comparison of recurrence risk under the two editions, and the 2017 US Preventive Services Task Force</text>
+<text x="84" y="4244.19" font-size="15" fill="#527078">recommendation on screening for thyroid cancer; not reproduced from the figures of the original papers. The cohorts, designs and endpoints of the underlying</text>
+<text x="84" y="4267.44" font-size="15" fill="#527078">studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>

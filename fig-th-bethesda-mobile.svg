@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="4291" viewBox="0 0 620 4291" role="img" aria-labelledby="t d">
+  <title id="t">第三版 Bethesda 六個類別與各自的下一步</title>
+  <desc id="d">示意圖，把 2023 年第三版甲狀腺細胞病理報告系統的六個類別、各自的惡性機率與各自的下一步排成六列。每一列左邊是類別編號與第三版的英文名稱，中間是惡性機率的平均值、括號裡的範圍與一條比例條，右邊是這一類接下來會走的路。這一組數字有四個標籤要一起帶：第三版、成人、給的是平均值與括號裡的範圍、終點是「切除後組織病理確認為惡性」。六列由第一類排到第六類，每一列的比例條用同一把 0 到 100 的尺畫，顏色隨機率由淺到深，從第一列的中性色、經過綠與金，到最後兩列的紅。第一類 nondiagnostic（不足以判讀）13%（5–20），下一步是在超音波導引下重扎；圖上註明第一類不是「沒事」，是「這次沒抽到東西」。第二類 benign（良性）4%（2–7），下一步是臨床與超音波追蹤。第三類 atypia of undetermined significance（意義未明的非典型）22%（13–30），下一步是重扎、分子檢測、診斷性單葉切除或監測。第四類 follicular neoplasm（濾泡性腫瘤）30%（23–34），下一步是分子檢測或診斷性單葉切除。第五類 suspicious for malignancy（疑似惡性）74%（67–83），下一步是進到手術的討論。第六類 malignant（惡性）97%（97–100），下一步同樣是進到手術的討論。第二段處理第三類裡面的兩格：第三版把第三類拆成兩個次分類，AUS-nuclear（細胞核有非典型變化）在切除檢體上是 36% 到 44%，AUS-other（其他型態的非典型）是 15% 到 23%。旁邊的黃底說明寫另一篇回顧把「其他型態」再拆得更細：細胞核非典型 36% 到 48%、結構非典型 10% 到 20%、嗜酸性細胞型 5% 到 6%；所以當報告寫第三類，值得問的下一個問題是「是哪一種第三類」，這一句問下去，22% 可能會變成 15%，也可能會變成 44%。第三段是三件會讓新舊報告對不起來的事。第一件是名字換了，不代表當年那張報告判錯：AUS／FLUS 現在只叫 AUS；FN／SFN 現在只叫 FN，「疑似濾泡性腫瘤」這個詞已經被拿掉了；unsatisfactory 現在叫 nondiagnostic。第二件是 NIFTP 改判之後每一類的百分比都往下掉了：第三版把一種叫 NIFTP 的腫瘤改判為非癌以後，各類的惡性機率都往下掉了 1.3% 到 9.1%，所以拿舊報告的百分比去對新報告會對錯。第三件是第一類與第三類各自有一條品管線：夠不夠判讀有客觀標準，至少六群保存良好的濾泡細胞、每一群至少十個細胞，出現在一張或多張玻片上，沒有達到就落到第一類；第三類的判讀最好不要超過全部細針檢體的 7% 到 10%，而第三類對第六類的比值最好在 3 以下，這一類被用得太浮濫本身就是品質問題。圖上沒有任何一格把編號直接換成一個決定：每一列的機率旁邊都配著它自己的下一步，最低的兩類走的是再取一次檢體或追蹤，最高的兩類走的是「進到手術的討論」，而不是手術本身。圖的最後是一個紅框的界線區塊，標題是「這張圖不是你的機率」，內容有四條：這六個數字是平均值，分母是一整批被切除並做了組織病理的檢體，不是你那一管，第三類寫 22% 不代表你有 22% 的機會是癌；這個編號跟期別無關，也不是「第幾期」，它是細胞學的分類，回答的只有「這一管細胞有多大機會是惡性」這一個問題；這些機率與下一步都是轉引，兩篇文獻的表格都註明是經授權改編自第三版原書，這次沒有拿到原書；拿到編號之後可以照著念的是——我這張報告是第幾類？如果是第三類，是細胞核那一種還是其他那一種？這份報告用的是第幾版的分類？</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="4291" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">THE BETHESDA SYSTEM, THIRD EDITION (2023)</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">- SIX NUMBERS, SIX NEXT STEPS</text>
+<text x="40" y="144" font-size="38" fill="#123641" font-weight="800" class="r">細針報告上的那個編號，第</text>
+<text x="40" y="191.88" font-size="38" fill="#123641" font-weight="800" class="r">三版怎麼讀</text>
+<text x="40" y="251.76" font-size="19" fill="#527078">這個編號跟期別無關。它是細胞學的分類，回答的是「這一管細</text>
+<text x="40" y="280.26" font-size="19" fill="#527078">胞有多大機會是惡性」，而每一類後面配的下一步也不一樣。</text>
+<text x="40" y="314.76" font-size="19" fill="#527078">現在通行的是 2023 年出的第三版。它把每一類只留一個名字，</text>
+<text x="40" y="343.26" font-size="19" fill="#527078">用語也和 2022 年那一版世界衛生組織的甲狀腺腫瘤分類對齊。</text>
+<text x="40" y="441.76" font-size="22" fill="#123641" font-weight="800" class="r">六個編號、六個機率、六條路</text>
+<text x="40" y="467.24" font-size="14" fill="#527078">下面這一組數字有四個標籤要一起帶：第三版、成人、給的是平均值與括號裡的範圍、</text>
+<text x="40" y="488.24" font-size="14" fill="#527078">終點是「切除後組織病理確認為惡性」。</text>
+<g filter="url(#sh)">
+<rect x="40" y="507.24" width="540" height="321.98" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="527.24" width="62.5" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="71" y="544.74" font-size="13.5" fill="#FFFFFF" font-weight="800">第一類</text>
+<text x="60" y="579.24" font-size="18" fill="#123641" font-weight="800">nondiagnostic</text>
+<text x="60" y="617.36" font-size="14" fill="#527078">不足以判讀</text>
+<text x="60" y="659.66" font-size="14" fill="#527078" font-weight="700">惡性機率（平均值與範圍）</text>
+<text x="60" y="707.34" font-size="28" fill="#7A6E58" font-weight="800">13%</text>
+<text x="120.87" y="707.34" font-size="14" fill="#527078">（5–20）</text>
+<rect x="60" y="714.62" width="500" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="60" y="714.62" width="65" height="14" rx="5" fill="#7A6E58"/>
+<text x="60" y="752.62" font-size="14" fill="#527078" font-weight="700">下一步</text>
+<text x="60" y="788.22" font-size="14" fill="#345963">在超音波導引下重扎。第一類不是「沒事」，是「這次沒抽到東西」。</text>
+<g filter="url(#sh)">
+<rect x="40" y="841.22" width="540" height="321.98" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="861.22" width="62.5" height="25" rx="12.5" fill="#00806B"/>
+<text x="71" y="878.72" font-size="13.5" fill="#FFFFFF" font-weight="800">第二類</text>
+<text x="60" y="913.22" font-size="18" fill="#123641" font-weight="800">benign</text>
+<text x="60" y="951.34" font-size="14" fill="#527078">良性</text>
+<text x="60" y="993.64" font-size="14" fill="#527078" font-weight="700">惡性機率（平均值與範圍）</text>
+<text x="60" y="1041.32" font-size="28" fill="#00806B" font-weight="800">4%</text>
+<text x="103.14" y="1041.32" font-size="14" fill="#527078">（2–7）</text>
+<rect x="60" y="1048.6" width="500" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="60" y="1048.6" width="20" height="14" rx="5" fill="#00806B"/>
+<text x="60" y="1086.6" font-size="14" fill="#527078" font-weight="700">下一步</text>
+<text x="60" y="1122.2" font-size="14" fill="#345963">臨床與超音波追蹤。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1175.2" width="540" height="321.98" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="1195.2" width="62.5" height="25" rx="12.5" fill="#96790F"/>
+<text x="71" y="1212.69" font-size="13.5" fill="#FFFFFF" font-weight="800">第三類</text>
+<text x="60" y="1247.2" font-size="18" fill="#123641" font-weight="800">atypia of undetermined significance</text>
+<text x="60" y="1285.32" font-size="14" fill="#527078">意義未明的非典型</text>
+<text x="60" y="1327.62" font-size="14" fill="#527078" font-weight="700">惡性機率（平均值與範圍）</text>
+<text x="60" y="1375.3" font-size="28" fill="#96790F" font-weight="800">22%</text>
+<text x="120.87" y="1375.3" font-size="14" fill="#527078">（13–30）</text>
+<rect x="60" y="1382.58" width="500" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="60" y="1382.58" width="110" height="14" rx="5" fill="#96790F"/>
+<text x="60" y="1420.58" font-size="14" fill="#527078" font-weight="700">下一步</text>
+<text x="60" y="1456.18" font-size="14" fill="#345963">重扎、分子檢測、診斷性單葉切除或監測。這一類下面還有兩格，見下一段。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1509.18" width="540" height="321.98" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="1529.18" width="62.5" height="25" rx="12.5" fill="#96790F"/>
+<text x="71" y="1546.67" font-size="13.5" fill="#FFFFFF" font-weight="800">第四類</text>
+<text x="60" y="1581.18" font-size="18" fill="#123641" font-weight="800">follicular neoplasm</text>
+<text x="60" y="1619.3" font-size="14" fill="#527078">濾泡性腫瘤</text>
+<text x="60" y="1661.6" font-size="14" fill="#527078" font-weight="700">惡性機率（平均值與範圍）</text>
+<text x="60" y="1709.28" font-size="28" fill="#96790F" font-weight="800">30%</text>
+<text x="120.87" y="1709.28" font-size="14" fill="#527078">（23–34）</text>
+<rect x="60" y="1716.56" width="500" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="60" y="1716.56" width="150" height="14" rx="5" fill="#96790F"/>
+<text x="60" y="1754.56" font-size="14" fill="#527078" font-weight="700">下一步</text>
+<text x="60" y="1790.16" font-size="14" fill="#345963">分子檢測或診斷性單葉切除。</text>
+<g filter="url(#sh)">
+<rect x="40" y="1843.16" width="540" height="321.98" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="1863.16" width="62.5" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="71" y="1880.65" font-size="13.5" fill="#FFFFFF" font-weight="800">第五類</text>
+<text x="60" y="1915.16" font-size="18" fill="#123641" font-weight="800">suspicious for malignancy</text>
+<text x="60" y="1953.28" font-size="14" fill="#527078">疑似惡性</text>
+<text x="60" y="1995.58" font-size="14" fill="#527078" font-weight="700">惡性機率（平均值與範圍）</text>
+<text x="60" y="2043.26" font-size="28" fill="#B04A4A" font-weight="800">74%</text>
+<text x="120.87" y="2043.26" font-size="14" fill="#527078">（67–83）</text>
+<rect x="60" y="2050.54" width="500" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="60" y="2050.54" width="370" height="14" rx="5" fill="#B04A4A"/>
+<text x="60" y="2088.54" font-size="14" fill="#527078" font-weight="700">下一步</text>
+<text x="60" y="2124.14" font-size="14" fill="#345963">進到手術的討論。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2177.14" width="540" height="321.98" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="2197.14" width="62.5" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="71" y="2214.63" font-size="13.5" fill="#FFFFFF" font-weight="800">第六類</text>
+<text x="60" y="2249.14" font-size="18" fill="#123641" font-weight="800">malignant</text>
+<text x="60" y="2287.26" font-size="14" fill="#527078">惡性</text>
+<text x="60" y="2329.56" font-size="14" fill="#527078" font-weight="700">惡性機率（平均值與範圍）</text>
+<text x="60" y="2377.24" font-size="28" fill="#B04A4A" font-weight="800">97%</text>
+<text x="120.87" y="2377.24" font-size="14" fill="#527078">（97–100）</text>
+<rect x="60" y="2384.52" width="500" height="14" rx="5" fill="#ECE8DE"/>
+<rect x="60" y="2384.52" width="485" height="14" rx="5" fill="#B04A4A"/>
+<text x="60" y="2422.52" font-size="14" fill="#527078" font-weight="700">下一步</text>
+<text x="60" y="2458.12" font-size="14" fill="#345963">進到手術的討論。</text>
+<text x="40" y="2549.12" font-size="22" fill="#123641" font-weight="800" class="r">第三類裡面，其實還有兩格</text>
+<text x="40" y="2574.6" font-size="14" fill="#527078">第三類是最讓人焦慮的一類，因為 22% 這個數字既不能安心也不足以開刀。第三版在這</text>
+<text x="40" y="2595.6" font-size="14" fill="#527078">裡做了一件很實際的事：把它拆成兩個次分類。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2614.6" width="540" height="177.34" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2"/>
+</g>
+<rect x="58" y="2632.6" width="121.31" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="69" y="2650.09" font-size="13.5" fill="#FFFFFF" font-weight="800">AUS-nuclear</text>
+<text x="58" y="2681.6" font-size="14" fill="#527078">細胞核有非典型變化</text>
+<text x="58" y="2729.98" font-size="28" fill="#B04A4A" font-weight="800">36% 到 44%</text>
+<text x="58" y="2752.94" font-size="14" fill="#345963">這一格的惡性機率在切除檢體上明顯較高。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2805.94" width="540" height="177.34" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2"/>
+</g>
+<rect x="58" y="2823.94" width="103.49" height="25" rx="12.5" fill="#00806B"/>
+<text x="69" y="2841.43" font-size="13.5" fill="#FFFFFF" font-weight="800">AUS-other</text>
+<text x="58" y="2872.94" font-size="14" fill="#527078">其他型態的非典型</text>
+<text x="58" y="2921.32" font-size="28" fill="#00806B" font-weight="800">15% 到 23%</text>
+<text x="58" y="2944.28" font-size="14" fill="#345963">同一份第三版資料裡，這一格明顯較低。</text>
+<rect x="40" y="2999.28" width="540" height="163.3" rx="14" fill="#F3E8CD"/>
+<text x="56" y="3029.28" font-size="14" fill="#8F7418" font-weight="800">另一篇回顧把「其他型態」再拆得更細</text>
+<text x="56" y="3065.58" font-size="14" fill="#345963">細胞核非典型 36% 到 48%、結構非典型 10% 到 20%、嗜酸性細胞型 5% 到 6%。</text>
+<text x="56" y="3104.58" font-size="14" fill="#345963">所以當報告寫第三類，值得問的下一個問題是「是哪一種第三類」。這一句問下去，</text>
+<text x="56" y="3125.58" font-size="14" fill="#345963">22% 可能會變成 15%，也可能會變成 44%。</text>
+<text x="40" y="3212.58" font-size="22" fill="#123641" font-weight="800" class="r">三件會讓新舊報告對不起來的事</text>
+<g filter="url(#sh)">
+<rect x="40" y="3232.06" width="540" height="249.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="62" y="3272.06" font-size="18" fill="#123641" font-weight="800">一、名字換了，不代表當年那張報告判錯</text>
+<text x="62" y="3316.18" font-size="14" fill="#527078" font-weight="700">AUS／FLUS</text>
+<text x="62" y="3340.18" font-size="14" fill="#345963">現在只叫 AUS</text>
+<text x="62" y="3372.18" font-size="14" fill="#527078" font-weight="700">FN／SFN</text>
+<text x="62" y="3396.18" font-size="14" fill="#345963">現在只叫 FN，「疑似濾泡性腫瘤」這個詞已經被拿掉了</text>
+<text x="62" y="3428.18" font-size="14" fill="#527078" font-weight="700">unsatisfactory</text>
+<text x="62" y="3452.18" font-size="14" fill="#345963">現在叫 nondiagnostic</text>
+<rect x="40" y="3495.18" width="540" height="163.3" rx="14" fill="#ECE8DE"/>
+<text x="56" y="3525.18" font-size="14" fill="#123641" font-weight="800">二、NIFTP 改判之後，每一類的百分比都往下掉了</text>
+<text x="56" y="3561.48" font-size="14" fill="#345963">第三版把一種叫 NIFTP 的腫瘤改判為非癌以後，各類的惡性機率都往下掉了</text>
+<text x="56" y="3582.48" font-size="14" fill="#345963">1.3% 到 9.1%。</text>
+<text x="56" y="3621.48" font-size="14" fill="#345963">所以拿舊報告的百分比去對新報告，會對錯。</text>
+<rect x="40" y="3672.48" width="540" height="184.3" rx="14" fill="#ECE8DE"/>
+<text x="56" y="3702.48" font-size="14" fill="#123641" font-weight="800">三、第一類與第三類，各自有一條品管線</text>
+<text x="56" y="3738.78" font-size="14" fill="#345963">夠不夠判讀是有客觀標準的：至少六群保存良好的濾泡細胞、每一群至少十個細胞，</text>
+<text x="56" y="3759.78" font-size="14" fill="#345963">出現在一張或多張玻片上。沒有達到就落到第一類。</text>
+<text x="56" y="3798.78" font-size="14" fill="#345963">第三類的判讀最好不要超過全部細針檢體的 7% 到 10%，而第三類對第六類的比值</text>
+<text x="56" y="3819.78" font-size="14" fill="#345963">最好在 3 以下——這一類被用得太浮濫，本身就是品質問題。</text>
+<rect x="40" y="3878.78" width="540" height="310.1" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="66" y="3924.78" font-size="18" fill="#B04A4A" font-weight="800">這張圖不是你的機率</text>
+<text x="66" y="3956.38" font-size="15.5" fill="#345963">這六個數字是平均值，分母是一整批被切除並做了組織病理的檢體，不</text>
+<text x="66" y="3979.63" font-size="15.5" fill="#345963">是你那一管。第三類寫 22%，不代表你有 22% 的機會是癌。</text>
+<text x="66" y="4012.88" font-size="15.5" fill="#345963">這個編號跟期別無關，也不是「第幾期」。它是細胞學的分類，回答的</text>
+<text x="66" y="4036.13" font-size="15.5" fill="#345963">只有「這一管細胞有多大機會是惡性」這一個問題。</text>
+<text x="66" y="4069.38" font-size="15.5" fill="#345963">這些機率與下一步都是轉引：兩篇文獻的表格都註明是經授權改編自第</text>
+<text x="66" y="4092.63" font-size="15.5" fill="#345963">三版原書，我這次沒有拿到原書。</text>
+<text x="66" y="4125.88" font-size="15.5" fill="#345963">拿到編號之後可以照著念的是：我這張報告是第幾類？如果是第三類，</text>
+<text x="66" y="4149.13" font-size="15.5" fill="#345963">是細胞核那一種還是其他那一種？這份報告用的是第幾版的分類？</text>
+<text x="40" y="4208.88" font-size="15" fill="#527078">示意圖，依 2023 年第三版甲狀腺細胞病理報告系統原始說明、2025 年甲狀腺細</text>
+<text x="40" y="4232.13" font-size="15" fill="#527078">胞病理學回顧與 2026 年甲狀腺結節診斷流程回顧重繪，非擷取自原論文圖表；</text>
+<text x="40" y="4255.38" font-size="15" fill="#527078">各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

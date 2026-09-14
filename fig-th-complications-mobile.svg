@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="5796" viewBox="0 0 620 5796" role="img" aria-labelledby="t d">
+  <title id="t">甲狀腺手術併發症：這個數字沒有單一分母</title>
+  <desc id="d">示意圖，主題是「同一種併發症為什麼會查到兩個差十倍的百分比」。全圖分成五段，最上面一段把兩個報告區間畫在同一把尺上（零到七成），四條都畫成有端點的區間，不取中位數也不取平均值。第一條是喉返神經麻痺，報告率 2.3% 到 26%，來源是一篇納入 27 篇研究、約 25,000 人的系統性回顧。旁邊的理由方塊寫：同一篇算出的平均值是暫時性喉返神經麻痺 9.8%、永久性 2.3%，但同一篇也寫這個報告率會隨著喉部檢查方式不同從 2.3% 一路變到 26%；差距十倍，來源不是手術本身，是有沒有去看。方塊下面掛一個標籤：越認真找的醫院，帳面上的數字越難看。第二條是副甲狀腺低下，文獻上 0.5% 到 65%，來源是另一篇納入 45 篇、23,164 人的系統性回顧。理由方塊寫：那一篇開場第一句就是發生率從 0.5% 到 65% 都有，主要原因是每個研究對它的定義不同，尤其是用幾個月當作暫時與永久的分界；同一篇把兩種切點統一算過，以 6 個月為界的永久性副甲狀腺低下是 4.11%、以 12 個月為界是 4.08%，兩者其實沒有差別，但那是在同一篇分析裡統一算的，不同研究之間仍然不能直接比。方塊下面的標籤是：同一篇內可以比，跨篇不可以比。第三條與第四條是美國甲狀腺學會 2025 年分化型甲狀腺癌指引自己給的區間：暫時性副甲狀腺低下 14% 到 43%、永久性副甲狀腺低下 1% 到 25%。說明寫連指引列的區間也是寬的，寬到看起來不像醫學數字，而它寬的理由就是上面那兩件事；二十五倍的跨度寫在同一句話裡，所以當有人告訴你這個手術的副甲狀腺低下大概是百分之幾，要接著問的是：你說的是暫時還是永久，以及你用幾個月當界線。第二段是三張分母清楚的卡片，每一張都帶著它的世代。第一張是斯堪地那維亞 26 個科、3,660 次手術的登錄（良性與惡性混合）：單側喉返神經麻痺 3.9%、雙側 0.2%、6 個月後還有麻痺 0.97%、術後出血 2.1%、術後感染 1.6%；有做淋巴結手術者的感染勝算比是 8.18；雙側手術的 1,648 人裡，需要用活性維生素 D 治療的低血鈣第一次回診時 9.9%、6 個月後 4.4%。這一份也是「常規照喉鏡本身就是單側聲帶麻痺的獨立關聯因子、勝算比 1.92」的來源。第二張是一位高量外科醫師、2,527 條有風險的神經，每個病人術前與術後都做纖維喉鏡：術後聲帶活動受損 2.9%、永久性 9 例（0.4%），其中 3 例是因為癌侵犯而在手術中刻意切斷神經；這是每個人都查的情況下的下緣，也就是上面那條區間最左邊那一端。第三張是長期聲音問卷，308 人、距手術中位 10.7 年，刻意排除了有記錄神經損傷的人：113 人（37%）自述有聲音問題，真正超過問卷異常切點的只有 22 人（7.1%）；最常見的抱怨是聲音清晰度不可預測 23%、在吵雜的地方別人聽不清楚我 23%、覺得要用力才發得出聲音 21%。卡片結語寫只講 37% 會嚇到人、只講 7.1% 會讓有症狀的人覺得自己在無理取鬧，而 2025 年版內文也寫沒有神經傷害的人長期聲音改變超過 30%。第三段是切多少會整組改變這些數字：統合分析給的相對風險，全切相對於單葉切除，暫時性低血鈣 10.67（95% 信賴區間 5.75 到 19.31）、永久性低血鈣 3.17（1.72 到 5.83）、暫時性喉返神經傷害 1.69（1.30 到 2.20）、永久性喉返神經傷害 1.85（1.28 到 2.69）、術後出血 2.58（1.69 到 3.93）；另一份 62,722 例的分析用的是整體併發症，全切 20.4%、單側手術 10.8%。這一組的終點是低血鈣與神經傷害本身，分母是被納入的那些研究，不是任何一家醫院。第四段是手術量的門檻，同樣不是一個數字，三張並排的卡片：美國甲狀腺學會 2025 年版第 6 條寫每年超過 25 到 50 例（強烈建議、中等確定性），理由是高量的甲狀腺外科醫師平均而言併發症較低、結果較好，甲狀腺癌病人應該被提供轉介給高量外科醫師的選項，尤其是需要較大範圍手術的腫瘤，而它給的是一個區間不是一個數字；2017 年、16,954 例全切的全國住院樣本算出的轉折點是每年 26 例，一年只做 1 例的醫師併發症勝算增加 87%，2 到 5 例增加 68%、6 到 10 例 42%、11 到 15 例 22%、16 到 20 例 10%、21 到 25 例 3%；英國內分泌與甲狀腺外科登錄要每年超過 50 例才看到下降，最高量組（每年超過 100 例）的永久性副甲狀腺低下 3%、喉返神經麻痺 2.6%，作者自己說這份資料缺失比例高、可能有偏誤。再加上 1998 年一份美國單一州、5,860 次出院的分析：最高量那組住院併發症 5.1%、中間兩組 6.1%、最低量組 8.6%，而且併發症與住院天數比較取決於外科醫師的經驗，醫院的量沒有一致的關聯。這一段的黃色橫幅寫著「26、50、100——三個門檻，一個沒有共識的問題」，並說把這三個數字合成一句「每年至少要做幾例」是不該做的事，它們來自不同的資料庫、不同的年代、不同的併發症定義。第五段回答為什麼要一直抽血驗鈣：2018 年那份專門講術後副甲狀腺低下的聲明寫得很清楚，它指的是副甲狀腺素低、同時血鈣也低，兩個要一起成立；術後副甲狀腺素低於 15 pg/mL 代表急性副甲狀腺低下的風險升高；同一份列的風險因子是雙側手術、自體免疫甲狀腺疾病、中央區淋巴結廓清、胸骨後甲狀腺腫、外科醫師經驗不足與吸收不良；2025 年版第 24B 條寫全切或中央區廓清之後應該依副甲狀腺素給鈣與維生素 D，這樣比單純觀察加連續驗血鈣更能降低低血鈣、縮短住院，強烈建議、中等確定性。圖的最後是一個紅框的界線區塊，標題是「這張圖不給你一個可以拿去比醫院的百分比」，內容四條：每一個報告率都要帶怎麼查與怎麼定義，少掉任何一件兩家醫院的數字就不可比；瑞典那兩篇的世代是因為良性甲狀腺疾病接受全切的人、不是甲狀腺癌，4,899 人中 246 人（5.2%）有永久性副甲狀腺低下、平均追蹤 4.4 年、校正後死亡風險比 2.09（95% 信賴區間 1.04 到 4.20），同一個登錄另一篇 4,828 人腎功能不全的風險比 4.88（2.00 到 11.95）、本來就有心血管疾病的人心血管事件風險比 1.88（1.02 到 3.47），這些數字不外推到癌症，只能告訴我們永久性副甲狀腺低下不是小事；這張圖不給鈣片與活性維生素 D 的劑量或天數，那要照你手術醫院的術後補鈣流程走，2025 年版也把術前的聲音評估列為強烈建議、中等確定性；最後是術前門診可以照著念的兩句問句，以及出院那天要問到的兩個數字——我今天的血鈣和副甲狀腺素各是多少。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="5796" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">ONE PERCENTAGE, NO SINGLE DENOMINATOR</text>
+<text x="40" y="120" font-size="38" fill="#123641" font-weight="800" class="r">這個數字沒有單一分母：兩</text>
+<text x="40" y="167.88" font-size="38" fill="#123641" font-weight="800" class="r">個區間，和產生它們的理由</text>
+<text x="40" y="227.76" font-size="19" fill="#527078">同一種併發症，你會查到 2% 也會查到 20% 以上。那不是有人在</text>
+<text x="40" y="256.26" font-size="19" fill="#527078">唬你，也不是某些醫院特別差。報告率取決於兩件事：怎麼查，</text>
+<text x="40" y="284.76" font-size="19" fill="#527078">以及怎麼定義。</text>
+<text x="40" y="319.26" font-size="19" fill="#527078">所以這張圖把它們畫成區間，並且把產生每一個區間的理由放在</text>
+<text x="40" y="347.76" font-size="19" fill="#527078">它旁邊。一個被單獨引用的百分比，如果沒有帶查法與定義，幾</text>
+<text x="40" y="376.26" font-size="19" fill="#527078">乎什麼都沒告訴你。</text>
+<text x="40" y="482.76" font-size="22" fill="#123641" font-weight="800" class="r">兩個區間，和產生它們的理由</text>
+<text x="40" y="508.24" font-size="14" fill="#527078">橫軸是同一把尺（零到七成），四條都畫成有端點的區間，不取中位數、不取平均值、</text>
+<text x="40" y="529.24" font-size="14" fill="#527078">不挑一個好看的數字代表它。</text>
+<g filter="url(#sh)">
+<rect x="40" y="548.24" width="540" height="1443.18" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="64" y="590.24" font-size="18" fill="#123641" font-weight="800">喉返神經麻痺：報告率 2.3% 到 26%</text>
+<text x="64" y="626.86" font-size="12.5" fill="#527078">一篇納入 27 篇研究、約 25,000 人的系統性回顧</text>
+<rect x="64" y="656.99" width="492" height="30" rx="8" fill="#ECE8DE"/>
+<rect x="80.17" y="656.99" width="166.58" height="30" rx="8" fill="#B04A4A"/>
+<line x1="80.17" y1="647.99" x2="80.17" y2="695.99" stroke="#B04A4A" stroke-width="3.4" stroke-linecap="butt"/>
+<line x1="246.74" y1="647.99" x2="246.74" y2="695.99" stroke="#B04A4A" stroke-width="3.4" stroke-linecap="butt"/>
+<text x="80.17" y="716.99" font-size="21" fill="#B04A4A" font-weight="800">2.3%</text>
+<text x="246.74" y="716.99" font-size="21" fill="#B04A4A" font-weight="800" text-anchor="end">26%</text>
+<rect x="64" y="727.49" width="492" height="163.3" rx="14" fill="#ECE8DE"/>
+<text x="80" y="757.49" font-size="14" fill="#123641" font-weight="800">區間從哪裡來：有沒有每個人都照喉鏡</text>
+<text x="80" y="793.78" font-size="14" fill="#345963">同一篇算出的平均值是暫時性喉返神經麻痺 9.8%、永久性 2.3%。但同一</text>
+<text x="80" y="814.78" font-size="14" fill="#345963">篇也寫，這個報告率會隨著喉部檢查方式不同，從 2.3% 一路變到 26%。</text>
+<text x="80" y="853.78" font-size="14" fill="#345963">差距十倍，來源不是手術本身，是有沒有去看。</text>
+<rect x="64" y="900.78" width="251.5" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="75" y="918.28" font-size="13.5" fill="#FFFFFF" font-weight="800">越認真找的醫院，帳面上的數字越難看</text>
+<line x1="64" y1="943.78" x2="556" y2="943.78" stroke="#DBD3BF" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="64" y="979.78" font-size="18" fill="#123641" font-weight="800">副甲狀腺低下：文獻上 0.5% 到 65%</text>
+<text x="64" y="1016.4" font-size="12.5" fill="#527078">另一篇納入 45 篇、23,164 人的系統性回顧</text>
+<rect x="64" y="1046.53" width="492" height="30" rx="8" fill="#ECE8DE"/>
+<rect x="67.51" y="1046.53" width="453.34" height="30" rx="8" fill="#96790F"/>
+<line x1="67.51" y1="1037.53" x2="67.51" y2="1085.53" stroke="#96790F" stroke-width="3.4" stroke-linecap="butt"/>
+<line x1="520.86" y1="1037.53" x2="520.86" y2="1085.53" stroke="#96790F" stroke-width="3.4" stroke-linecap="butt"/>
+<text x="67.51" y="1106.53" font-size="21" fill="#96790F" font-weight="800">0.5%</text>
+<text x="520.86" y="1106.53" font-size="21" fill="#96790F" font-weight="800" text-anchor="end">65%</text>
+<rect x="64" y="1117.03" width="492" height="205.3" rx="14" fill="#ECE8DE"/>
+<text x="80" y="1147.03" font-size="14" fill="#123641" font-weight="800">區間從哪裡來：定義，以及「暫時」與「永久」的切點</text>
+<text x="80" y="1183.33" font-size="14" fill="#345963">那一篇開場第一句就是：發生率從 0.5% 到 65% 都有，主要原因是每個研</text>
+<text x="80" y="1204.33" font-size="14" fill="#345963">究對它的定義不同，尤其是用幾個月當作暫時與永久的分界。</text>
+<text x="80" y="1243.33" font-size="14" fill="#345963">同一篇把兩種切點統一算過：以 6 個月為界的永久性副甲狀腺低下是</text>
+<text x="80" y="1264.33" font-size="14" fill="#345963">4.11%，以 12 個月為界是 4.08%，兩者其實沒有差別。但那是在同一篇分</text>
+<text x="80" y="1285.33" font-size="14" fill="#345963">析裡統一算的；不同研究之間仍然不能直接比。</text>
+<rect x="64" y="1332.33" width="211" height="25" rx="12.5" fill="#96790F"/>
+<text x="75" y="1349.82" font-size="13.5" fill="#FFFFFF" font-weight="800">同一篇內可以比，跨篇不可以比</text>
+<line x1="64" y1="1375.33" x2="556" y2="1375.33" stroke="#DBD3BF" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="64" y="1411.33" font-size="18" fill="#123641" font-weight="800">ATA 2025 自己給的區間：暫時性副甲狀腺低下 14% 到 43%</text>
+<text x="64" y="1447.95" font-size="12.5" fill="#527078">美國甲狀腺學會 2025 年分化型甲狀腺癌指引</text>
+<rect x="64" y="1478.07" width="492" height="30" rx="8" fill="#ECE8DE"/>
+<rect x="162.4" y="1478.07" width="203.83" height="30" rx="8" fill="#5C77C4"/>
+<line x1="162.4" y1="1469.07" x2="162.4" y2="1517.07" stroke="#5C77C4" stroke-width="3.4" stroke-linecap="butt"/>
+<line x1="366.23" y1="1469.07" x2="366.23" y2="1517.07" stroke="#5C77C4" stroke-width="3.4" stroke-linecap="butt"/>
+<text x="162.4" y="1538.07" font-size="21" fill="#5C77C4" font-weight="800">14%</text>
+<text x="366.23" y="1538.07" font-size="21" fill="#5C77C4" font-weight="800" text-anchor="end">43%</text>
+<rect x="64" y="1548.57" width="492" height="103.3" rx="14" fill="#ECE8DE"/>
+<text x="80" y="1578.57" font-size="14" fill="#123641" font-weight="800">連指引列的區間也是寬的</text>
+<text x="80" y="1614.87" font-size="14" fill="#345963">寬到看起來不像醫學數字，而它寬的理由就是上面那兩件事。</text>
+<line x1="64" y1="1669.87" x2="556" y2="1669.87" stroke="#DBD3BF" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="64" y="1705.87" font-size="18" fill="#123641" font-weight="800">ATA 2025 自己給的區間：永久性副甲狀腺低下 1% 到 25%</text>
+<text x="64" y="1742.49" font-size="12.5" fill="#527078">同一份指引，同一段</text>
+<rect x="64" y="1772.62" width="492" height="30" rx="8" fill="#ECE8DE"/>
+<rect x="71.03" y="1772.62" width="168.69" height="30" rx="8" fill="#5C77C4"/>
+<line x1="71.03" y1="1763.62" x2="71.03" y2="1811.62" stroke="#5C77C4" stroke-width="3.4" stroke-linecap="butt"/>
+<line x1="239.71" y1="1763.62" x2="239.71" y2="1811.62" stroke="#5C77C4" stroke-width="3.4" stroke-linecap="butt"/>
+<text x="71.03" y="1832.62" font-size="21" fill="#5C77C4" font-weight="800">1%</text>
+<text x="239.71" y="1832.62" font-size="21" fill="#5C77C4" font-weight="800" text-anchor="end">25%</text>
+<rect x="64" y="1843.12" width="492" height="124.3" rx="14" fill="#ECE8DE"/>
+<text x="80" y="1873.12" font-size="14" fill="#123641" font-weight="800">二十五倍的跨度，寫在同一句話裡</text>
+<text x="80" y="1909.42" font-size="14" fill="#345963">所以當有人告訴你「這個手術的副甲狀腺低下大概是百分之幾」，要接著</text>
+<text x="80" y="1930.42" font-size="14" fill="#345963">問的是：你說的是暫時還是永久，以及你用幾個月當界線。</text>
+<text x="40" y="2041.42" font-size="22" fill="#123641" font-weight="800" class="r">分母清楚的那幾組數字，要連著它的世代一起讀</text>
+<text x="40" y="2066.9" font-size="14" fill="#527078">下面三張卡片每一張都有明確的分母與查法。它們可以被引用，但只能連著括號裡那一</text>
+<text x="40" y="2087.9" font-size="14" fill="#527078">行一起被引用。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2106.9" width="540" height="452.25" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="2144.9" font-size="18" fill="#123641" font-weight="800">斯堪地那維亞 26 個科、3,660 次手術的登錄</text>
+<text x="60" y="2183.52" font-size="12.5" fill="#527078">（良性與惡性混合的手術登錄）</text>
+<text x="60" y="2225.64" font-size="14" fill="#527078" font-weight="700">單側喉返神經麻痺</text>
+<text x="560" y="2227.64" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">3.9%</text>
+<text x="60" y="2265.94" font-size="14" fill="#527078" font-weight="700">雙側喉返神經麻痺</text>
+<text x="560" y="2267.94" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">0.2%</text>
+<text x="60" y="2306.24" font-size="14" fill="#527078" font-weight="700">6 個月後還有麻痺</text>
+<text x="560" y="2308.24" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">0.97%</text>
+<text x="60" y="2346.55" font-size="14" fill="#527078" font-weight="700">術後出血</text>
+<text x="560" y="2348.55" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">2.1%</text>
+<text x="60" y="2386.85" font-size="14" fill="#527078" font-weight="700">術後感染</text>
+<text x="560" y="2388.85" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">1.6%</text>
+<text x="60" y="2433.15" font-size="14" fill="#345963">有做淋巴結手術者的感染勝算比是 8.18。雙側手術的 1,648 人裡，需要用活性</text>
+<text x="60" y="2454.15" font-size="14" fill="#345963">維生素 D 治療的低血鈣，第一次回診時 9.9%、6 個月後 4.4%。</text>
+<text x="60" y="2497.15" font-size="14" fill="#00806B" font-weight="700">這一份也是「常規照喉鏡本身就是單側聲帶麻痺的獨立關聯因子、勝算比 1.92」</text>
+<text x="60" y="2518.15" font-size="14" fill="#00806B" font-weight="700">的來源。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2575.15" width="540" height="310.35" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="2613.15" font-size="18" fill="#123641" font-weight="800">一位高量外科醫師、2,527 條有風險的神經</text>
+<text x="60" y="2651.77" font-size="12.5" fill="#527078">（每個病人術前與術後都做纖維喉鏡）</text>
+<text x="60" y="2693.89" font-size="14" fill="#527078" font-weight="700">術後聲帶活動受損</text>
+<text x="560" y="2695.89" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">2.9%</text>
+<text x="60" y="2734.19" font-size="14" fill="#527078" font-weight="700">永久性（9 例）</text>
+<text x="560" y="2736.19" font-size="21" fill="#00806B" font-weight="800" text-anchor="end">0.4%</text>
+<text x="60" y="2780.49" font-size="14" fill="#345963">那 9 例裡有 3 例，是因為癌侵犯而在手術中刻意切斷神經。</text>
+<text x="60" y="2823.49" font-size="14" fill="#00806B" font-weight="700">這是「每個人都查」情況下的下緣——也就是上面那條區間最左邊那一端長什麼樣</text>
+<text x="60" y="2844.49" font-size="14" fill="#00806B" font-weight="700">子。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2901.49" width="540" height="331.35" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="2939.49" font-size="18" fill="#123641" font-weight="800">長期聲音問卷：308 人，距手術中位 10.7 年</text>
+<text x="60" y="2978.11" font-size="12.5" fill="#527078">（刻意排除了有記錄神經損傷的人）</text>
+<text x="60" y="3020.24" font-size="14" fill="#527078" font-weight="700">自述有聲音問題（113 人）</text>
+<text x="560" y="3022.24" font-size="21" fill="#5C77C4" font-weight="800" text-anchor="end">37%</text>
+<text x="60" y="3060.54" font-size="14" fill="#527078" font-weight="700">超過問卷異常切點（22 人）</text>
+<text x="560" y="3062.54" font-size="21" fill="#5C77C4" font-weight="800" text-anchor="end">7.1%</text>
+<text x="60" y="3106.84" font-size="14" fill="#345963">最常見的抱怨是「我的聲音清晰度不可預測」23%、「在吵雜的地方別人聽不清</text>
+<text x="60" y="3127.84" font-size="14" fill="#345963">楚我」23%、「我覺得要用力才發得出聲音」21%。</text>
+<text x="60" y="3170.84" font-size="14" fill="#5C77C4" font-weight="700">只講 37% 會嚇到人，只講 7.1% 會讓有症狀的人覺得自己在無理取鬧。2025 年</text>
+<text x="60" y="3191.84" font-size="14" fill="#5C77C4" font-weight="700">版內文也寫，沒有神經傷害的人長期聲音改變超過 30%。</text>
+<text x="40" y="3282.84" font-size="22" fill="#123641" font-weight="800" class="r">切多少，也會整組改變這些數字</text>
+<text x="40" y="3308.32" font-size="14" fill="#527078">統合分析給的是相對風險，全切相對於單葉切除。這一組的終點是低血鈣與神經傷害本</text>
+<text x="40" y="3329.32" font-size="14" fill="#527078">身，分母是被納入的那些研究，不是任何一家醫院。</text>
+<g filter="url(#sh)">
+<rect x="40" y="3348.32" width="540" height="383" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="64" y="3386.32" font-size="14" fill="#527078" font-weight="700">暫時性低血鈣</text>
+<text x="64" y="3410.32" font-size="14" fill="#345963">10.67（95% 信賴區間 5.75 到 19.31）</text>
+<text x="64" y="3441.32" font-size="14" fill="#527078" font-weight="700">永久性低血鈣</text>
+<text x="64" y="3465.32" font-size="14" fill="#345963">3.17（1.72 到 5.83）</text>
+<text x="64" y="3496.32" font-size="14" fill="#527078" font-weight="700">暫時性喉返神經傷害</text>
+<text x="64" y="3520.32" font-size="14" fill="#345963">1.69（1.30 到 2.20）</text>
+<text x="64" y="3551.32" font-size="14" fill="#527078" font-weight="700">永久性喉返神經傷害</text>
+<text x="64" y="3575.32" font-size="14" fill="#345963">1.85（1.28 到 2.69）</text>
+<text x="64" y="3606.32" font-size="14" fill="#527078" font-weight="700">術後出血</text>
+<text x="64" y="3630.32" font-size="14" fill="#345963">2.58（1.69 到 3.93）</text>
+<text x="64" y="3665.32" font-size="14" fill="#345963">另一份 62,722 例的分析用的是整體併發症：全切 20.4%，單側手術 10.8%。</text>
+<text x="64" y="3686.32" font-size="14" fill="#345963">方向是穩定的，但這仍然是一個帶著自己分母的數字。</text>
+<text x="40" y="3781.32" font-size="22" fill="#123641" font-weight="800" class="r">手術量的門檻，同樣不是一個數字</text>
+<text x="40" y="3806.8" font-size="14" fill="#527078">三個資料庫算出三個門檻。這不是誰算錯了，是「多少算高量」本身就沒有共識。</text>
+<rect x="40" y="3825.8" width="540" height="207.42" rx="18" fill="#F3E8CD" stroke="#96790F" stroke-width="2"/>
+<text x="60" y="3859.8" font-size="14" fill="#527078" font-weight="700">美國甲狀腺學會 2025 年版第 6 條</text>
+<text x="60" y="3904.1" font-size="18" fill="#96790F" font-weight="800">每年超過 25 到 50 例</text>
+<text x="60" y="3950.22" font-size="14" fill="#345963">因為高量的甲狀腺外科醫師平均而言併發症較低、結果較好，甲狀腺癌病人應該</text>
+<text x="60" y="3971.22" font-size="14" fill="#345963">被提供轉介給高量外科醫師的選項，尤其是需要較大範圍手術的腫瘤。強烈建議、</text>
+<text x="60" y="3992.22" font-size="14" fill="#345963">中等確定性。請注意它給的是一個區間，不是一個數字。</text>
+<rect x="40" y="4047.22" width="540" height="186.42" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2"/>
+<text x="60" y="4081.22" font-size="14" fill="#527078" font-weight="700">2017 年、16,954 例全切的全國住院樣本</text>
+<text x="60" y="4125.52" font-size="18" fill="#00806B" font-weight="800">轉折點是每年 26 例</text>
+<text x="60" y="4171.64" font-size="14" fill="#345963">一年只做 1 例的醫師，併發症勝算增加 87%；2 到 5 例增加 68%、6 到 10 例</text>
+<text x="60" y="4192.64" font-size="14" fill="#345963">42%、11 到 15 例 22%、16 到 20 例 10%、21 到 25 例 3%。</text>
+<rect x="40" y="4247.64" width="540" height="207.42" rx="18" fill="#E3E8F6" stroke="#5C77C4" stroke-width="2"/>
+<text x="60" y="4281.64" font-size="14" fill="#527078" font-weight="700">英國內分泌與甲狀腺外科登錄（UKRETS）</text>
+<text x="60" y="4325.94" font-size="18" fill="#5C77C4" font-weight="800">要每年超過 50 例</text>
+<text x="60" y="4372.06" font-size="14" fill="#345963">這份資料要到每年超過 50 例才看到下降；最高量組（每年超過 100 例）的永久</text>
+<text x="60" y="4393.06" font-size="14" fill="#345963">性副甲狀腺低下 3%、喉返神經麻痺 2.6%。作者自己說這份資料缺失比例高，可</text>
+<text x="60" y="4414.06" font-size="14" fill="#345963">能有偏誤。</text>
+<text x="44" y="4477.56" font-size="12.5" fill="#527078">再加上 1998 年一份美國單一州、5,860 次出院的分析：最高量那組住院併發症 5.1%，中間兩</text>
+<text x="44" y="4495.68" font-size="12.5" fill="#527078">組 6.1%，最低量組 8.6%；而且併發症與住院天數比較取決於外科醫師的經驗，醫院的量沒有一</text>
+<text x="44" y="4513.81" font-size="12.5" fill="#527078">致的關聯。</text>
+<rect x="40" y="4541.93" width="540" height="168.15" rx="16" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="4587.93" font-size="22" fill="#8F7418" font-weight="800" class="r">26、50、100——三個門檻，一個沒有共識的問題</text>
+<text x="66" y="4638.03" font-size="15.5" fill="#345963">把這三個數字合成一句「每年至少要做幾例」是不該做的事。它們來自</text>
+<text x="66" y="4662.06" font-size="15.5" fill="#345963">不同的資料庫、不同的年代、不同的併發症定義。</text>
+<text x="40" y="4760.08" font-size="22" fill="#123641" font-weight="800" class="r">那為什麼要一直抽血驗鈣</text>
+<rect x="40" y="4779.56" width="540" height="324.48" rx="14" fill="#ECE8DE"/>
+<text x="62" y="4817.06" font-size="15.5" fill="#123641" font-weight="800">先講定義：兩個條件要一起成立</text>
+<text x="62" y="4857.04" font-size="15.5" fill="#345963">2018 年那份專門講術後副甲狀腺低下的聲明寫得很清楚：它指的是副甲</text>
+<text x="62" y="4880.29" font-size="15.5" fill="#345963">狀腺素低、同時血鈣也低，兩個要一起成立。</text>
+<text x="62" y="4923.04" font-size="15.5" fill="#345963">術後副甲狀腺素低於 15 pg/mL，代表急性副甲狀腺低下的風險升高。</text>
+<text x="62" y="4946.29" font-size="15.5" fill="#345963">同一份列的風險因子是雙側手術、自體免疫甲狀腺疾病、中央區淋巴結廓</text>
+<text x="62" y="4969.54" font-size="15.5" fill="#345963">清、胸骨後甲狀腺腫、外科醫師經驗不足與吸收不良。</text>
+<text x="62" y="5012.29" font-size="15.5" fill="#345963">2025 年版第 24B 條：全切或中央區廓清之後，應該依副甲狀腺素給鈣</text>
+<text x="62" y="5035.54" font-size="15.5" fill="#345963">與維生素 D，這樣比單純觀察加連續驗血鈣更能降低低血鈣、縮短住院。</text>
+<text x="62" y="5058.79" font-size="15.5" fill="#345963">強烈建議、中等確定性。</text>
+<rect x="40" y="5128.04" width="540" height="496.1" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="66" y="5174.04" font-size="18" fill="#B04A4A" font-weight="800">這張圖不給你一個可以拿去比醫院的百分比</text>
+<text x="66" y="5205.64" font-size="15.5" fill="#345963">每一個報告率都要帶兩件事：怎麼查（是每個病人術後都照喉鏡，還是</text>
+<text x="66" y="5228.89" font-size="15.5" fill="#345963">有症狀才照），以及怎麼定義（幾個月以後還要吃活性維生素 D 才算永</text>
+<text x="66" y="5252.14" font-size="15.5" fill="#345963">久）。少掉任何一件，兩家醫院的數字就不可比。</text>
+<text x="66" y="5285.39" font-size="15.5" fill="#345963">瑞典那兩篇的世代是「因為良性甲狀腺疾病」接受全切的人，不是甲狀</text>
+<text x="66" y="5308.64" font-size="15.5" fill="#345963">腺癌：4,899 人中 246 人（5.2%）有永久性副甲狀腺低下，平均追蹤</text>
+<text x="66" y="5331.89" font-size="15.5" fill="#345963">4.4 年，校正後死亡風險比 2.09（95% 信賴區間 1.04 到 4.20）；同</text>
+<text x="66" y="5355.14" font-size="15.5" fill="#345963">一個登錄的另一篇收 4,828 人，腎功能不全的風險比是 4.88，信賴區</text>
+<text x="66" y="5378.39" font-size="15.5" fill="#345963">間 2.00 到 11.95；本來就有心血管疾病的人，心血管事件風險比是</text>
+<text x="66" y="5401.64" font-size="15.5" fill="#345963">1.88，信賴區間 1.02 到 3.47。這些數字不外推到癌症，只能告訴我們</text>
+<text x="66" y="5424.89" font-size="15.5" fill="#345963">永久性副甲狀腺低下不是小事。</text>
+<text x="66" y="5458.14" font-size="15.5" fill="#345963">這張圖不給鈣片與活性維生素 D 的劑量或天數，那要照你手術醫院的術</text>
+<text x="66" y="5481.39" font-size="15.5" fill="#345963">後補鈣流程走。2025 年版也把術前的聲音評估列為強烈建議、中等確</text>
+<text x="66" y="5504.64" font-size="15.5" fill="#345963">定性——手術之前就先記下你原本的聲音是什麼樣子，之後才有得比。</text>
+<text x="66" y="5537.89" font-size="15.5" fill="#345963">術前那次門診可以照著念：「你們是每個病人術後都照喉鏡，還是有症</text>
+<text x="66" y="5561.14" font-size="15.5" fill="#345963">狀才照？」「你們把幾個月以後還要吃活性維生素 D 算成永久？」出院</text>
+<text x="66" y="5584.39" font-size="15.5" fill="#345963">那天再問到兩個數字：我今天的血鈣和副甲狀腺素各是多少。</text>
+<text x="40" y="5644.14" font-size="15" fill="#527078">示意圖，依 2009 年喉返神經麻痺診斷的系統性回顧、2008 年斯堪地那維亞多中</text>
+<text x="40" y="5667.39" font-size="15" fill="#527078">心手術登錄、2021 年副甲狀腺低下定義的系統性回顧、美國甲狀腺學會 2025 年</text>
+<text x="40" y="5690.64" font-size="15" fill="#527078">分化型甲狀腺癌指引與 2018 年術後副甲狀腺低下聲明、2018 年單一高量外科醫</text>
+<text x="40" y="5713.89" font-size="15" fill="#527078">師的喉鏡系列、2013 年單葉切除統合分析、2021 年長期聲音問卷、1998 年與</text>
+<text x="40" y="5737.14" font-size="15" fill="#527078">2017 年的手術量分析、英國內分泌與甲狀腺外科登錄與 2014 年全切併發症分析</text>
+<text x="40" y="5760.39" font-size="15" fill="#527078">重繪，非擷取自原論文圖表；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

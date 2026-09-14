@@ -1,0 +1,294 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="5376" viewBox="0 0 1440 5376" role="img" aria-labelledby="t d">
+  <title id="t">TSH after thyroid cancer: the 2025 guideline removed the numeric targets</title>
+  <desc id="d">Schematic on how much of the lifelong tablet to take, whose most important feature is that no numeric TSH target appears anywhere on it. That absence is deliberate and is the subject of the figure, not an omission. The first part draws what the 2025 American Thyroid Association table actually gives now: four cells of words. Four rows read - excellent response, keep the signal within the normal reference range; indeterminate response, keep the signal within the normal reference range; biochemical incomplete response, below the normal reference range; structural incomplete response, below the normal reference range. The note explains that what these four cells hang on is not the recurrence-risk tier assigned at the time of surgery but the response-to-therapy category, which is only given after a period of follow-up and which changes. Beneath them the footnote to that table is quoted verbatim: &quot;Data on optimal TSH target range are inconclusive and/or conflicting&quot; - the data on the best target range are themselves inconclusive and they conflict with one another - and the recommendation it belongs to is a conditional recommendation with low certainty. The figure then says that this does not sound like an answer but is honest: the number your doctor gives you is no longer copied out of a guideline, it is a judgement made for you. The guideline adds a further line, that the benefits and harms of suppression and the target itself should be re-evaluated over time, which the guideline lists as good practice and does not grade. To the right of that panel on the desktop layout, and below it on the mobile one, sits a hatched box struck through with a cross, headed &quot;This panel is empty, and deliberately so&quot;. Its text explains that the set of numbers a reader can look up and match themselves against belongs to the 2015 edition of the guidelines; that the 2025 edition deleted that set outright, leaving only the four cells of words above with no number to copy; and that this figure therefore does not draw them back in, because drawing them back in would mean reissuing a form of words that has already been superseded. A further block records that the new edition also says something the old one did not, quoted verbatim: &quot;Long-term TSH suppression is not suggested for patients with low- or intermediate-risk disease who have no evidence of biochemical or structural recurrence&quot;, a conditional recommendation with low certainty. It then states plainly that this sentence uses the old three-tier language of low and intermediate risk while the recurrence-risk stratification in the same guideline has moved to four tiers, that the guideline does not explain how the two map onto each other, and that the figure does not translate it across either. The second part is the benefit side, in three cards. The first is the only randomised trial, from 2010 at a single Japanese centre, whose cohort was papillary carcinoma classified by the AMES system of the day, with most patients having had neither total thyroidectomy nor radioiodine: 218 patients in the suppressed arm against 215 not suppressed, disease-free survival as the endpoint, no difference between the arms, and a 95% confidence interval for the recurrence hazard ratio of 0.85 to 1.27. The card notes that it is a non-inferiority trial whose result fell inside the margin, so it cannot be written up as &quot;suppression has been shown not to work&quot;; a non-inferiority trial cannot demonstrate absence of effect, and all it can say is that in these patients not suppressing was not worse. The second card is a 2002 observational meta-analysis favouring suppression, whose cohort is studies from 1934 to 2001 covering 4,174 patients with papillary or follicular carcinoma of whom 2,880 were suppressed: the relative risk of disease progression, recurrence and death combined was 0.73 (confidence interval 0.60 to 0.88), although the period spanned is so long that neither surgery nor radioiodine was standardised across it. The third card is a 2024 observational meta-analysis restricted to adults with intermediate- and high-risk differentiated thyroid cancer and followed for five years: the composite of progression-free or disease-free survival gives a hazard ratio of 0.75 (95% confidence interval 0.48 to 1.17) and disease-specific and overall survival 0.69 (0.31 to 1.52), neither significant, while cardiac or skeletal adverse events are 1.82 (1.30 to 2.55) and significantly higher in the suppressed group. The third part is the cost side, arranged in three groups, with the first line of every card giving its cohort, because most of these figures were not calculated from patients with thyroid cancer. The bone density and fracture group holds three cards. First, 179 women on long-term thyroid hormone after thyroidectomy - cohort: women on long-term treatment after surgery for thyroid carcinoma, median age 59, 178 of them postmenopausal - in whom radiological vertebral fracture ran at 44.6% in the most suppressed group, 24.0% in the middle group and 4.3% in the least suppressed group; those three groups are the study's own division by measured signal rather than anybody's target, and within the most suppressed group women with normal bone density did not fracture any less. Second, 13 prospective cohorts and 70,298 participants - cohort: individual participant data from the general population, not patients with thyroid cancer - giving a hip fracture hazard ratio of 1.36 (95% confidence interval 1.13 to 1.64) with subclinical hyperthyroidism, and in the lowest signal band a hip fracture ratio of 1.61 (1.21 to 2.15, 47 events among 510) and a clinical vertebral fracture ratio of 3.57 (1.88 to 6.78), the last of which rests on 8 events among 162 people. Third, US veterans, 10,370 against 10,370 matched controls - cohort: patients with thyroid cancer, predominantly men - with osteoporosis at 7.3% against 5.3%, an odds ratio of 1.33 (95% confidence interval 1.18 to 1.49), but an odds ratio for signal and fracture of 1.01 (0.96 to 1.07), fractures being no more frequent: losing bone density and actually breaking something are not the same event. The atrial fibrillation group holds two cards. First, 2,007 community-dwelling people over 60 followed for ten years - cohort: community-dwelling older people, not patients with thyroid cancer, and their low signal was not caused by a tablet - in whom the lowest signal band had a ten-year cumulative incidence of 28% against 11% in those with a normal signal, an adjusted relative risk of 3.1 (95% confidence interval 1.7 to 5.5), with no difference at all in the mildly low band. Second, Korean national data of 113,791 patients with differentiated thyroid cancer against 455,188 matched controls - cohort: patients with differentiated thyroid cancer, the comparison being having the disease against not having it rather than suppression against no suppression - giving a hazard ratio for new atrial fibrillation of 2.07 (95% confidence interval 1.98 to 2.17), while patients in the same paper who had a lobectomy only reached 1.93 (1.72 to 2.15), so that the 2.07 cannot be charged in full to suppression. The cardiovascular mortality group holds two cards. First, 524 patients with differentiated thyroid cancer against 1,572 matched regional controls - cohort: patients with differentiated thyroid cancer - with an adjusted hazard ratio for cardiovascular death of 3.35 (95% confidence interval 1.66 to 6.74), and within the patients themselves 3.08 (1.32 to 7.21) per tenfold fall in the geometric mean of the signal. Second, 705,307 US veterans taking thyroid hormone - cohort: people taking thyroid hormone, median age 67 and 88.7% male, the great majority without thyroid cancer - in whom the suppressed end carries an adjusted hazard ratio for cardiovascular death of 1.39 (95% confidence interval 1.32 to 1.47) while the under-treated end, where the signal is abnormally high, carries 2.67 (2.55 to 2.80); both ends carry a cost and the under-treated end carries the larger one. The fourth part puts both sides in the same people: 771 patients with low- and intermediate-risk differentiated thyroid cancer under the three-tier system of the day, all after total thyroidectomy, median follow-up 6.5 years, with structural recurrence in 43 (5.6%), postoperative osteoporosis in 29 (3.9%, women only) and postoperative atrial fibrillation in 17 (2.3%). Split at the median signal into suppressed and not, the risk of recurrence was identical at a hazard ratio of 1.02 (confidence interval 0.54 to 1.91), atrial fibrillation and osteoporosis counted together gave 2.1 (1.001 to 4.3), and postoperative osteoporosis in women 3.5 (1.2 to 10.2). In this group of patients the extra suppression bought nothing, while the cost was measurable. The fifth part explains why people who had only half the gland removed so often end up on the tablet anyway: among 115 patients with low-risk differentiated thyroid cancer who had a therapeutic lobectomy and no radioiodine, 97 (84%) finished above the threshold that study used, of whom 66 (68%) started levothyroxine at a median of 74 days after surgery and 77% had the dose adjusted at least once; the target in use at the time was the low one from the old edition, so &quot;do I have to take it&quot; is really the question of where the target has been set, with the two proportions behind it set out in &quot;Half the gland, or all of it&quot;. The figure closes with a red-bordered block headed &quot;No number you can hold against yourself appears on this figure&quot;, holding five statements. The 2025 edition deleted that set of values for the reason written into the footnote of the table, and drawing the old edition's numbers back onto this figure would be reissuing a superseded form of words, so not one of them is drawn. The opposite claim does not hold either, because suppression has exactly one randomised trial, it is a non-inferiority trial and its result fell inside the margin, so &quot;it has been shown not to work&quot; has nothing behind it. Most of the cost-side figures were not calculated from patients with thyroid cancer, and each keeps its cohort label. The thing that most often goes wrong is not taking too much but stopping or halving the dose when feeling unwell and then not returning for months, the cost at the under-treated end of that series of 705,307 people being larger than the cost at the over-treated end. And finally four sentences for the next appointment: which response-to-therapy category am I in now and can it change; is the target within the normal range or below it, and why that side; if below, how long do we plan to keep it there and when will it be reviewed; and if I feel palpitations or cannot sleep, should I cut the dose or have a blood test first.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="5376" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">THE 2025 EDITION TOOK THE NUMBERS OUT</text>
+<text x="84" y="142" font-size="38" fill="#123641" font-weight="800" class="r">How much of that tablet: the 2025 edition removed the</text>
+<text x="84" y="189.88" font-size="38" fill="#123641" font-weight="800" class="r">numbers</text>
+<text x="84" y="249.76" font-size="19" fill="#527078">There is no numeric TSH target anywhere on this figure, and that absence is what the figure is about. Nothing has been left out.</text>
+<text x="84" y="284.26" font-size="19" fill="#527078">The new table holds four words - within the normal reference range, or below the normal reference range - and they hang on the</text>
+<text x="84" y="312.76" font-size="19" fill="#527078">response-to-therapy category, not on the recurrence-risk tier assigned at the time of surgery.</text>
+<text x="84" y="419.26" font-size="22" fill="#123641" font-weight="800" class="r">The 2025 table: four words and nothing else</text>
+<text x="84" y="444.74" font-size="14" fill="#527078">What the four cells hang on is not which recurrence-risk tier you were put in at operation, but which response-to-therapy category you are in now. That category is only</text>
+<text x="84" y="465.74" font-size="14" fill="#527078">assigned after a period of follow-up, and it changes.</text>
+<rect x="84" y="484.74" width="616" height="98.24" rx="12" fill="#D8EDE7" stroke="#00806B" stroke-width="2"/>
+<text x="100" y="514.74" font-size="14" fill="#527078" font-weight="700">Excellent response</text>
+<text x="333.6" y="518.74" font-size="18" fill="#00806B" font-weight="800">keep the signal within the normal</text>
+<text x="333.6" y="542.86" font-size="18" fill="#00806B" font-weight="800">reference range</text>
+<rect x="84" y="592.98" width="616" height="98.24" rx="12" fill="#D8EDE7" stroke="#00806B" stroke-width="2"/>
+<text x="100" y="622.98" font-size="14" fill="#527078" font-weight="700">Indeterminate response</text>
+<text x="333.6" y="626.98" font-size="18" fill="#00806B" font-weight="800">keep the signal within the normal</text>
+<text x="333.6" y="651.1" font-size="18" fill="#00806B" font-weight="800">reference range</text>
+<rect x="84" y="701.22" width="616" height="86.6" rx="12" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2"/>
+<text x="100" y="731.22" font-size="14" fill="#527078" font-weight="700">Biochemical incomplete</text>
+<text x="100" y="751.52" font-size="14" fill="#527078" font-weight="700">response</text>
+<text x="333.6" y="735.22" font-size="18" fill="#B04A4A" font-weight="800">below the normal reference range</text>
+<rect x="84" y="797.82" width="616" height="86.6" rx="12" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2"/>
+<text x="100" y="827.82" font-size="14" fill="#527078" font-weight="700">Structural incomplete</text>
+<text x="100" y="848.12" font-size="14" fill="#527078" font-weight="700">response</text>
+<text x="333.6" y="831.82" font-size="18" fill="#B04A4A" font-weight="800">below the normal reference range</text>
+<g filter="url(#sh)">
+<rect x="84" y="900.42" width="616" height="303.3" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="116" y="935.92" font-size="15.5" fill="#123641" font-weight="700">“Data on optimal TSH target range are inconclusive and/or</text>
+<text x="116" y="959.94" font-size="15.5" fill="#123641" font-weight="700">conflicting”</text>
+<line x1="104" y1="918.42" x2="104" y2="977.97" stroke="#123641" stroke-width="4" stroke-linecap="butt"/>
+<text x="104" y="1000.47" font-size="12.5" fill="#527078">The footnote to that table, verbatim. The data on the best target range are themselves</text>
+<text x="104" y="1019.22" font-size="12.5" fill="#527078">inconclusive, and they conflict with one another. The recommendation it belongs to is a</text>
+<text x="104" y="1037.97" font-size="12.5" fill="#527078">conditional recommendation with low certainty.</text>
+<text x="104" y="1078.72" font-size="14" fill="#345963">That does not sound like an answer, but it is honest: the number your doctor</text>
+<text x="104" y="1099.72" font-size="14" fill="#345963">gives you is no longer copied out of a guideline. It is a judgement made for you.</text>
+<text x="104" y="1120.72" font-size="14" fill="#345963">The guideline adds a further line - the benefits and harms of suppression, and</text>
+<text x="104" y="1141.72" font-size="14" fill="#345963">the target itself, should be re-evaluated over time - which the guideline lists as</text>
+<text x="104" y="1162.72" font-size="14" fill="#345963">good practice and does not grade.</text>
+<rect x="740" y="490.74" width="616" height="190" rx="14" fill="url(#hatch)"/>
+<rect x="740" y="490.74" width="616" height="190" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="754" y1="504.74" x2="1342" y2="666.74" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="1342" y1="504.74" x2="754" y2="666.74" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="740" y="706.24" font-size="15.5" fill="#B04A4A" font-weight="800">This panel is empty, and deliberately so</text>
+<text x="740" y="742.72" font-size="14" fill="#345963">The set of numbers you can look up and match yourself against belongs to the 2015</text>
+<text x="740" y="763.72" font-size="14" fill="#345963">edition of the American Thyroid Association guidelines. The 2025 edition deleted that</text>
+<text x="740" y="784.72" font-size="14" fill="#345963">set outright; the table now holds only the four cells of words above, and there is no</text>
+<text x="740" y="805.72" font-size="14" fill="#345963">number to copy. So this figure does not draw them back in - drawing them back in</text>
+<text x="740" y="826.72" font-size="14" fill="#345963">would mean reissuing a form of words that has already been superseded.</text>
+<rect x="84" y="1229.72" width="1272" height="217.3" rx="14" fill="#ECE8DE"/>
+<text x="106" y="1265.72" font-size="14" fill="#123641" font-weight="800">The new edition also says something the old one did not</text>
+<text x="106" y="1302.02" font-size="14" fill="#345963">Verbatim: &quot;Long-term TSH suppression is not suggested for patients with low- or intermediate-risk disease who have no evidence of biochemical or structural</text>
+<text x="106" y="1323.02" font-size="14" fill="#345963">recurrence.&quot; Conditional recommendation, low certainty.</text>
+<text x="106" y="1362.02" font-size="14" fill="#345963">One thing has to be said plainly: that sentence uses the old three-tier language of low and intermediate risk, while the recurrence-risk stratification in the same guideline</text>
+<text x="106" y="1383.02" font-size="14" fill="#345963">has moved to four tiers. The guideline does not explain how the two map onto each other, and this figure does not translate it across either. Before holding that sentence</text>
+<text x="106" y="1404.02" font-size="14" fill="#345963">against your own report, ask your doctor whether it covers you.</text>
+<text x="84" y="1497.02" font-size="22" fill="#123641" font-weight="800" class="r">The evidence on the benefit side is this much and no more</text>
+<text x="84" y="1522.5" font-size="14" fill="#527078">There is exactly one randomised trial, and it is a non-inferiority trial. Everything else is observational meta-analysis.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1541.5" width="409.33" height="697.69" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1579.5" font-size="18" fill="#123641" font-weight="800">The only randomised trial (2010, a</text>
+<text x="104" y="1603.62" font-size="18" fill="#123641" font-weight="800">single Japanese centre)</text>
+<text x="104" y="1646.24" font-size="12.5" fill="#5C77C4" font-weight="700">Cohort: papillary carcinoma; the risk classification used</text>
+<text x="104" y="1664.99" font-size="12.5" fill="#5C77C4" font-weight="700">was the AMES system of the day, and most patients had</text>
+<text x="104" y="1683.74" font-size="12.5" fill="#5C77C4" font-weight="700">neither total thyroidectomy nor radioiodine</text>
+<text x="104" y="1728.49" font-size="14" fill="#527078">Suppressed arm</text>
+<text x="104" y="1767.79" font-size="18" fill="#5C77C4" font-weight="800">218 patients</text>
+<text x="104" y="1814.09" font-size="14" fill="#527078">Not suppressed</text>
+<text x="104" y="1853.39" font-size="18" fill="#5C77C4" font-weight="800">215 patients</text>
+<text x="104" y="1899.69" font-size="14" fill="#527078">Endpoint: disease-free survival</text>
+<text x="104" y="1938.99" font-size="18" fill="#5C77C4" font-weight="800">no difference between the arms</text>
+<text x="104" y="1985.29" font-size="14" fill="#527078">95% confidence interval of the recurrence hazard</text>
+<text x="104" y="2005.59" font-size="14" fill="#527078">ratio</text>
+<text x="104" y="2044.89" font-size="18" fill="#5C77C4" font-weight="800">0.85 to 1.27</text>
+<text x="104" y="2093.19" font-size="14" fill="#345963">It is a non-inferiority trial and the result fell inside</text>
+<text x="104" y="2114.19" font-size="14" fill="#345963">the margin. So it cannot be written up as</text>
+<text x="104" y="2135.19" font-size="14" fill="#345963">&quot;suppression has been shown not to work&quot; - a</text>
+<text x="104" y="2156.19" font-size="14" fill="#345963">non-inferiority trial cannot demonstrate absence</text>
+<text x="104" y="2177.19" font-size="14" fill="#345963">of effect. All it can say is that in these patients, not</text>
+<text x="104" y="2198.19" font-size="14" fill="#345963">suppressing was not worse.</text>
+<g filter="url(#sh)">
+<rect x="515.33" y="1541.5" width="409.33" height="377.89" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="535.33" y="1579.5" font-size="18" fill="#123641" font-weight="800">A 2002 observational meta-analysis (in</text>
+<text x="535.33" y="1603.62" font-size="18" fill="#123641" font-weight="800">favour of suppression)</text>
+<text x="535.33" y="1646.24" font-size="12.5" fill="#96790F" font-weight="700">Cohort: studies from 1934 to 2001, 4,174 patients with</text>
+<text x="535.33" y="1664.99" font-size="12.5" fill="#96790F" font-weight="700">papillary or follicular carcinoma, of whom 2,880 were</text>
+<text x="535.33" y="1683.74" font-size="12.5" fill="#96790F" font-weight="700">suppressed</text>
+<text x="535.33" y="1728.49" font-size="14" fill="#527078">Relative risk of disease progression, recurrence</text>
+<text x="535.33" y="1748.79" font-size="14" fill="#527078">and death combined</text>
+<text x="535.33" y="1788.09" font-size="18" fill="#96790F" font-weight="800">0.73 (confidence interval 0.60 to 0.88)</text>
+<text x="535.33" y="1836.39" font-size="14" fill="#345963">But the period spanned is so long that neither</text>
+<text x="535.33" y="1857.39" font-size="14" fill="#345963">surgery nor radioiodine was standardised across</text>
+<text x="535.33" y="1878.39" font-size="14" fill="#345963">it.</text>
+<g filter="url(#sh)">
+<rect x="946.67" y="1541.5" width="409.33" height="549.27" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="966.67" y="1579.5" font-size="18" fill="#123641" font-weight="800">A 2024 observational meta-analysis</text>
+<text x="966.67" y="1622.12" font-size="12.5" fill="#96790F" font-weight="700">Cohort: adults with intermediate- and high-risk</text>
+<text x="966.67" y="1640.87" font-size="12.5" fill="#96790F" font-weight="700">differentiated thyroid cancer only, followed for five</text>
+<text x="966.67" y="1659.62" font-size="12.5" fill="#96790F" font-weight="700">years</text>
+<text x="966.67" y="1704.37" font-size="14" fill="#527078">Hazard ratio for the composite of</text>
+<text x="966.67" y="1724.67" font-size="14" fill="#527078">progression-free or disease-free survival</text>
+<text x="966.67" y="1763.97" font-size="18" fill="#96790F" font-weight="800">0.75 (95% confidence interval 0.48 to</text>
+<text x="966.67" y="1788.27" font-size="18" fill="#96790F" font-weight="800">1.17)</text>
+<text x="966.67" y="1834.57" font-size="14" fill="#527078">Disease-specific and overall survival</text>
+<text x="966.67" y="1873.87" font-size="18" fill="#96790F" font-weight="800">0.69 (0.31 to 1.52)</text>
+<text x="966.67" y="1920.17" font-size="14" fill="#527078">Cardiac or skeletal adverse events</text>
+<text x="966.67" y="1959.47" font-size="18" fill="#96790F" font-weight="800">1.82 (1.30 to 2.55)</text>
+<text x="966.67" y="2007.77" font-size="14" fill="#345963">Neither survival endpoint is significant; cardiac</text>
+<text x="966.67" y="2028.77" font-size="14" fill="#345963">and skeletal adverse events are significantly</text>
+<text x="966.67" y="2049.77" font-size="14" fill="#345963">higher in the suppressed group.</text>
+<text x="84" y="2289.19" font-size="22" fill="#123641" font-weight="800" class="r">The cost side: every figure has to be read against the cohort it came from</text>
+<text x="84" y="2314.67" font-size="14" fill="#527078">This part is laboured on purpose, because anything shorter would mislead. Many of the figures for the harms of suppression do not come from patients with thyroid cancer at</text>
+<text x="84" y="2335.67" font-size="14" fill="#527078">all - the guideline admits as much. So the first line of every card below is its cohort.</text>
+<rect x="84" y="2354.67" width="225.15" height="25" rx="12.5" fill="#96790F"/>
+<text x="95" y="2372.16" font-size="13.5" fill="#FFFFFF" font-weight="800">Bone density and fracture</text>
+<g filter="url(#sh)">
+<rect x="84" y="2391.67" width="409.33" height="570.09" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="2429.67" font-size="18" fill="#123641" font-weight="800">179 women on long-term thyroid</text>
+<text x="104" y="2453.79" font-size="18" fill="#123641" font-weight="800">hormone after thyroidectomy</text>
+<text x="104" y="2496.41" font-size="12.5" fill="#96790F" font-weight="700">Cohort: women on long-term treatment after surgery for</text>
+<text x="104" y="2515.16" font-size="12.5" fill="#96790F" font-weight="700">thyroid carcinoma, median age 59, 178 of them</text>
+<text x="104" y="2533.91" font-size="12.5" fill="#96790F" font-weight="700">postmenopausal</text>
+<text x="104" y="2578.66" font-size="14" fill="#527078">Radiological vertebral fracture: most suppressed</text>
+<text x="104" y="2598.96" font-size="14" fill="#527078">group</text>
+<text x="104" y="2638.26" font-size="18" fill="#96790F" font-weight="800">44.6%</text>
+<text x="104" y="2684.56" font-size="14" fill="#527078">Middle group</text>
+<text x="104" y="2723.86" font-size="18" fill="#96790F" font-weight="800">24.0%</text>
+<text x="104" y="2770.16" font-size="14" fill="#527078">Least suppressed group</text>
+<text x="104" y="2809.46" font-size="18" fill="#96790F" font-weight="800">4.3%</text>
+<text x="104" y="2857.76" font-size="14" fill="#345963">Those three groups are the study's own division</text>
+<text x="104" y="2878.76" font-size="14" fill="#345963">by measured signal, not anybody's target. And</text>
+<text x="104" y="2899.76" font-size="14" fill="#345963">within the most suppressed group, women with</text>
+<text x="104" y="2920.76" font-size="14" fill="#345963">normal bone density did not fracture any less.</text>
+<g filter="url(#sh)">
+<rect x="84" y="2973.76" width="409.33" height="513.34" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="3011.76" font-size="18" fill="#123641" font-weight="800">13 prospective cohorts, 70,298</text>
+<text x="104" y="3035.88" font-size="18" fill="#123641" font-weight="800">participants</text>
+<text x="104" y="3078.5" font-size="12.5" fill="#96790F" font-weight="700">Cohort: individual participant data from the general</text>
+<text x="104" y="3097.25" font-size="12.5" fill="#96790F" font-weight="700">population, not patients with thyroid cancer</text>
+<text x="104" y="3142" font-size="14" fill="#527078">Hip fracture with subclinical hyperthyroidism</text>
+<text x="104" y="3181.3" font-size="18" fill="#96790F" font-weight="800">1.36 (95% confidence interval 1.13 to</text>
+<text x="104" y="3205.6" font-size="18" fill="#96790F" font-weight="800">1.64)</text>
+<text x="104" y="3251.9" font-size="14" fill="#527078">Lowest signal band: hip fracture</text>
+<text x="104" y="3291.2" font-size="18" fill="#96790F" font-weight="800">1.61 (1.21 to 2.15, 47 events among 510)</text>
+<text x="104" y="3337.5" font-size="14" fill="#527078">Clinical vertebral fracture</text>
+<text x="104" y="3376.8" font-size="18" fill="#96790F" font-weight="800">3.57 (1.88 to 6.78)</text>
+<text x="104" y="3425.1" font-size="14" fill="#345963">That last figure rests on 8 events among 162</text>
+<text x="104" y="3446.1" font-size="14" fill="#345963">people.</text>
+<g filter="url(#sh)">
+<rect x="84" y="3499.1" width="409.33" height="515.59" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="3537.1" font-size="18" fill="#123641" font-weight="800">US veterans: 10,370 against 10,370</text>
+<text x="104" y="3561.22" font-size="18" fill="#123641" font-weight="800">matched controls</text>
+<text x="104" y="3603.84" font-size="12.5" fill="#96790F" font-weight="700">Cohort: patients with thyroid cancer, predominantly men</text>
+<text x="104" y="3648.59" font-size="14" fill="#527078">Osteoporosis</text>
+<text x="104" y="3687.89" font-size="18" fill="#96790F" font-weight="800">7.3% against 5.3%</text>
+<text x="104" y="3734.19" font-size="14" fill="#527078">Odds ratio</text>
+<text x="104" y="3773.49" font-size="18" fill="#96790F" font-weight="800">1.33 (95% confidence interval 1.18 to</text>
+<text x="104" y="3797.79" font-size="18" fill="#96790F" font-weight="800">1.49)</text>
+<text x="104" y="3844.09" font-size="14" fill="#527078">Odds ratio for signal and fracture</text>
+<text x="104" y="3883.39" font-size="18" fill="#96790F" font-weight="800">1.01 (0.96 to 1.07)</text>
+<text x="104" y="3931.69" font-size="14" fill="#345963">Fractures were not more frequent. Losing bone</text>
+<text x="104" y="3952.69" font-size="14" fill="#345963">density and actually breaking something are not</text>
+<text x="104" y="3973.69" font-size="14" fill="#345963">the same event.</text>
+<rect x="515.33" y="2354.67" width="152.9" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="526.33" y="2372.16" font-size="13.5" fill="#FFFFFF" font-weight="800">Atrial fibrillation</text>
+<g filter="url(#sh)">
+<rect x="515.33" y="2391.67" width="409.33" height="486.79" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="535.33" y="2429.67" font-size="18" fill="#123641" font-weight="800">2,007 community-dwelling people over</text>
+<text x="535.33" y="2453.79" font-size="18" fill="#123641" font-weight="800">60, followed for ten years</text>
+<text x="535.33" y="2496.41" font-size="12.5" fill="#5C77C4" font-weight="700">Cohort: community-dwelling older people, not patients</text>
+<text x="535.33" y="2515.16" font-size="12.5" fill="#5C77C4" font-weight="700">with thyroid cancer, and their low signal was not caused</text>
+<text x="535.33" y="2533.91" font-size="12.5" fill="#5C77C4" font-weight="700">by a tablet</text>
+<text x="535.33" y="2578.66" font-size="14" fill="#527078">Lowest signal band: ten-year cumulative incidence</text>
+<text x="535.33" y="2617.96" font-size="18" fill="#5C77C4" font-weight="800">28%</text>
+<text x="535.33" y="2664.26" font-size="14" fill="#527078">Normal signal</text>
+<text x="535.33" y="2703.56" font-size="18" fill="#5C77C4" font-weight="800">11%</text>
+<text x="535.33" y="2749.86" font-size="14" fill="#527078">Adjusted relative risk</text>
+<text x="535.33" y="2789.16" font-size="18" fill="#5C77C4" font-weight="800">3.1 (95% confidence interval 1.7 to 5.5)</text>
+<text x="535.33" y="2837.46" font-size="14" fill="#345963">The mildly low band showed no difference at all.</text>
+<g filter="url(#sh)">
+<rect x="515.33" y="2890.46" width="409.33" height="466.79" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="535.33" y="2928.46" font-size="18" fill="#123641" font-weight="800">Korean national data: 113,791 against</text>
+<text x="535.33" y="2952.58" font-size="18" fill="#123641" font-weight="800">455,188 matched controls</text>
+<text x="535.33" y="2995.2" font-size="12.5" fill="#5C77C4" font-weight="700">Cohort: patients with differentiated thyroid cancer; the</text>
+<text x="535.33" y="3013.95" font-size="12.5" fill="#5C77C4" font-weight="700">comparison is having the disease against not having it,</text>
+<text x="535.33" y="3032.7" font-size="12.5" fill="#5C77C4" font-weight="700">not suppression against no suppression</text>
+<text x="535.33" y="3077.45" font-size="14" fill="#527078">Hazard ratio for new atrial fibrillation</text>
+<text x="535.33" y="3116.75" font-size="18" fill="#5C77C4" font-weight="800">2.07 (95% confidence interval 1.98 to</text>
+<text x="535.33" y="3141.05" font-size="18" fill="#5C77C4" font-weight="800">2.17)</text>
+<text x="535.33" y="3187.35" font-size="14" fill="#527078">Patients in the same paper who had a lobectomy</text>
+<text x="535.33" y="3207.65" font-size="14" fill="#527078">only</text>
+<text x="535.33" y="3246.95" font-size="18" fill="#5C77C4" font-weight="800">1.93 (1.72 to 2.15)</text>
+<text x="535.33" y="3295.25" font-size="14" fill="#345963">So that 2.07 cannot be charged in full to</text>
+<text x="535.33" y="3316.25" font-size="14" fill="#345963">suppression.</text>
+<rect x="946.67" y="2354.67" width="221.26" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="957.67" y="2372.16" font-size="13.5" fill="#FFFFFF" font-weight="800">Cardiovascular mortality</text>
+<g filter="url(#sh)">
+<rect x="946.67" y="2391.67" width="409.33" height="453.41" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="966.67" y="2429.67" font-size="18" fill="#123641" font-weight="800">524 patients with differentiated thyroid</text>
+<text x="966.67" y="2453.79" font-size="18" fill="#123641" font-weight="800">cancer against 1,572 matched regional</text>
+<text x="966.67" y="2477.91" font-size="18" fill="#123641" font-weight="800">controls</text>
+<text x="966.67" y="2520.53" font-size="12.5" fill="#B04A4A" font-weight="700">Cohort: patients with differentiated thyroid cancer</text>
+<text x="966.67" y="2565.28" font-size="14" fill="#527078">Adjusted hazard ratio for cardiovascular death</text>
+<text x="966.67" y="2604.58" font-size="18" fill="#B04A4A" font-weight="800">3.35 (95% confidence interval 1.66 to</text>
+<text x="966.67" y="2628.88" font-size="18" fill="#B04A4A" font-weight="800">6.74)</text>
+<text x="966.67" y="2675.18" font-size="14" fill="#527078">Within the patients, per tenfold fall in the geometric</text>
+<text x="966.67" y="2695.48" font-size="14" fill="#527078">mean of the signal</text>
+<text x="966.67" y="2734.78" font-size="18" fill="#B04A4A" font-weight="800">3.08 (1.32 to 7.21)</text>
+<text x="966.67" y="2783.08" font-size="14" fill="#345963">This one is patients' own data, and it points</text>
+<text x="966.67" y="2804.08" font-size="14" fill="#345963">towards suppression.</text>
+<g filter="url(#sh)">
+<rect x="946.67" y="2857.08" width="409.33" height="529.09" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="966.67" y="2895.08" font-size="18" fill="#123641" font-weight="800">705,307 US veterans taking thyroid</text>
+<text x="966.67" y="2919.2" font-size="18" fill="#123641" font-weight="800">hormone</text>
+<text x="966.67" y="2961.82" font-size="12.5" fill="#B04A4A" font-weight="700">Cohort: people taking thyroid hormone, median age 67</text>
+<text x="966.67" y="2980.57" font-size="12.5" fill="#B04A4A" font-weight="700">and 88.7% male, the great majority of whom did not have</text>
+<text x="966.67" y="2999.32" font-size="12.5" fill="#B04A4A" font-weight="700">thyroid cancer</text>
+<text x="966.67" y="3044.07" font-size="14" fill="#527078">Suppressed end: adjusted hazard ratio for</text>
+<text x="966.67" y="3064.37" font-size="14" fill="#527078">cardiovascular death</text>
+<text x="966.67" y="3103.67" font-size="18" fill="#B04A4A" font-weight="800">1.39 (95% confidence interval 1.32 to</text>
+<text x="966.67" y="3127.97" font-size="18" fill="#B04A4A" font-weight="800">1.47)</text>
+<text x="966.67" y="3174.27" font-size="14" fill="#527078">Under-treated end, where the signal is abnormally</text>
+<text x="966.67" y="3194.57" font-size="14" fill="#527078">high</text>
+<text x="966.67" y="3233.87" font-size="18" fill="#B04A4A" font-weight="800">2.67 (2.55 to 2.80)</text>
+<text x="966.67" y="3282.17" font-size="14" fill="#345963">Both ends carry a cost, and the under-treated end</text>
+<text x="966.67" y="3303.17" font-size="14" fill="#345963">carries the larger one. Cutting your own dose for</text>
+<text x="966.67" y="3324.17" font-size="14" fill="#345963">fear of taking too much is what this passage exists</text>
+<text x="966.67" y="3345.17" font-size="14" fill="#345963">to prevent.</text>
+<text x="84" y="4064.69" font-size="22" fill="#123641" font-weight="800" class="r">Both sides measured in the same people</text>
+<text x="84" y="4090.17" font-size="14" fill="#527078">One cohort put the benefit and the cost on the same patients, which makes it the most worth looking at: 771 patients with low- and intermediate-risk differentiated thyroid</text>
+<text x="84" y="4111.17" font-size="14" fill="#527078">cancer under the three-tier system of the day, all after total thyroidectomy, median follow-up 6.5 years.</text>
+<g filter="url(#sh)">
+<rect x="84" y="4130.17" width="1272" height="370.55" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="108" y="4168.17" font-size="14" fill="#527078" font-weight="700">Structural recurrence</text>
+<text x="817.92" y="4168.17" font-size="14" fill="#96790F" font-weight="800">43 patients (5.6%)</text>
+<text x="108" y="4210.47" font-size="14" fill="#527078" font-weight="700">Postoperative osteoporosis (women only)</text>
+<text x="817.92" y="4210.47" font-size="14" fill="#96790F" font-weight="800">29 patients (3.9%)</text>
+<text x="108" y="4252.77" font-size="14" fill="#527078" font-weight="700">Postoperative atrial fibrillation</text>
+<text x="817.92" y="4252.77" font-size="14" fill="#96790F" font-weight="800">17 patients (2.3%)</text>
+<line x1="108" y1="4289.07" x2="1332" y2="4289.07" stroke="#DBD3BF" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="108" y="4319.07" font-size="14" fill="#527078" font-weight="700">Split at the median signal into suppressed and not: risk of recurrence</text>
+<text x="817.92" y="4319.07" font-size="14" fill="#5C77C4" font-weight="800">identical, hazard ratio 1.02 (confidence interval 0.54 to 1.91)</text>
+<text x="108" y="4361.37" font-size="14" fill="#527078" font-weight="700">Atrial fibrillation and osteoporosis counted together</text>
+<text x="817.92" y="4361.37" font-size="14" fill="#5C77C4" font-weight="800">2.1 (1.001 to 4.3)</text>
+<text x="108" y="4403.67" font-size="14" fill="#527078" font-weight="700">Postoperative osteoporosis in women</text>
+<text x="817.92" y="4403.67" font-size="14" fill="#5C77C4" font-weight="800">3.5 (1.2 to 10.2)</text>
+<text x="108" y="4453.47" font-size="15.5" fill="#123641" font-weight="700">In this group of patients, the extra suppression bought nothing, while the cost was measurable.</text>
+<rect x="84" y="4524.72" width="1272" height="196.3" rx="14" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="106" y="4560.72" font-size="14" fill="#8F7418" font-weight="800">Why people who had only half the gland removed so often end up on the tablet anyway</text>
+<text x="106" y="4597.02" font-size="14" fill="#345963">Among 115 patients with low-risk differentiated thyroid cancer who had a therapeutic lobectomy and no radioiodine, 97 (84%) finished above the threshold that study used;</text>
+<text x="106" y="4618.02" font-size="14" fill="#345963">of those, 66 (68%) started levothyroxine, at a median of 74 days after surgery, and 77% had the dose adjusted at least once.</text>
+<text x="106" y="4657.02" font-size="14" fill="#345963">The target in use at the time was the low one from the old edition. So &quot;do I have to take it&quot; is really the question &quot;where has your target been set&quot; - the two proportions</text>
+<text x="106" y="4678.02" font-size="14" fill="#345963">behind that, and their premises, sit in &quot;Half the gland, or all of it&quot;.</text>
+<rect x="84" y="4745.02" width="1272" height="436.35" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="4791.02" font-size="18" fill="#B04A4A" font-weight="800">No number you can hold against yourself appears on this figure</text>
+<text x="110" y="4822.62" font-size="15.5" fill="#345963">The 2025 edition deleted that set of values, and the reason is written into the footnote of the table: the data are inconclusive and they conflict. Drawing</text>
+<text x="110" y="4845.87" font-size="15.5" fill="#345963">the old edition's numbers back onto this figure would be reissuing a form of words that has already been superseded, so not one of them is drawn here.</text>
+<text x="110" y="4879.12" font-size="15.5" fill="#345963">The opposite claim does not hold either. Suppression has exactly one randomised trial, it is a non-inferiority trial, and its result fell inside the margin -</text>
+<text x="110" y="4902.37" font-size="15.5" fill="#345963">so &quot;it has been shown not to work&quot; has nothing behind it. What can be said is that in those patients, not suppressing was not worse.</text>
+<text x="110" y="4935.62" font-size="15.5" fill="#345963">Most of the figures on the cost side were not calculated from patients with thyroid cancer. Fracture data from the general population, atrial fibrillation</text>
+<text x="110" y="4958.87" font-size="15.5" fill="#345963">data from community-dwelling older people, cardiovascular mortality data from veterans who mostly did not have thyroid cancer - each keeps its</text>
+<text x="110" y="4982.12" font-size="15.5" fill="#345963">cohort label, and none of them should be read as &quot;this is what this tablet will do to me&quot;.</text>
+<text x="110" y="5015.37" font-size="15.5" fill="#345963">The thing that most often goes wrong is not taking too much. It is stopping or halving the dose yourself when you feel unwell and then not coming back</text>
+<text x="110" y="5038.62" font-size="15.5" fill="#345963">for months. In that series of 705,307 people the cost at the under-treated end was larger than the cost at the over-treated end. Come back and say so; do</text>
+<text x="110" y="5061.87" font-size="15.5" fill="#345963">not adjust it yourself.</text>
+<text x="110" y="5095.12" font-size="15.5" fill="#345963">Four sentences for the next appointment: which response-to-therapy category am I in now, and can it change? Is the target you have set for me within</text>
+<text x="110" y="5118.37" font-size="15.5" fill="#345963">the normal range or below it, and why that side? If it is below, how long do we plan to keep it there, and when will it be reviewed? And if I feel</text>
+<text x="110" y="5141.62" font-size="15.5" fill="#345963">palpitations or cannot sleep, should I cut the dose or have a blood test first?</text>
+<text x="84" y="5201.37" font-size="15" fill="#527078">Schematic, redrawn from the 2025 and 2015 American Thyroid Association guidelines for differentiated thyroid cancer, the 2010 randomised trial of suppression,</text>
+<text x="84" y="5224.62" font-size="15" fill="#527078">the 2002 and 2024 meta-analyses, the 2018 cross-sectional study of vertebral fracture in women with thyroid carcinoma, the 2015 individual participant data</text>
+<text x="84" y="5247.87" font-size="15" fill="#527078">meta-analysis of subclinical thyroid dysfunction and fracture, the 2019 case-control study of osteoporosis and fracture in US veterans, the 1994 cohort study of</text>
+<text x="84" y="5271.12" font-size="15" fill="#527078">atrial fibrillation in older people, the 2026 Korean nationwide analysis of atrial fibrillation, the 2013 observational study of long-term cardiovascular mortality in</text>
+<text x="84" y="5294.37" font-size="15" fill="#527078">differentiated thyroid carcinoma, the 2022 analysis of thyroid hormone treatment intensity and cardiovascular mortality in US veterans, the 2015 cohort measuring</text>
+<text x="84" y="5317.62" font-size="15" fill="#527078">recurrence and osteoporosis together and the 2021 study of thyroid hormone replacement after lobectomy; not reproduced from the figures of the original papers.</text>
+<text x="84" y="5340.87" font-size="15" fill="#527078">The cohorts, designs and endpoints of the underlying studies differ, so the data points must not be compared directly.</text>
+  </g>
+</svg>
