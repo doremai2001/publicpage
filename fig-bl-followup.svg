@@ -1,0 +1,232 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2395" viewBox="0 0 1440 2395" role="img" aria-labelledby="t d">
+  <title id="t">兩條路的追蹤時程</title>
+  <desc id="d">示意圖，兩欄並排比較兩條路的追蹤時程。左欄是非肌肉侵犯型膀胱癌（Ta／T1／原位癌），依歐洲泌尿科醫學會 2026 年版指引，建議強度全部是 Weak，指引自承缺少隨機試驗。所有人共同的一格：第一次膀胱鏡永遠在刮除後第三個月，證據等級 1a。低風險：第 3 個月一次、第 12 個月一次、之後每年一次，做滿五年之後有停止點，指引措辭是 should be considered（應該納入考慮停止，不是停）；這一層不做尿液細胞學，也不常規做影像，血尿試紙陰性的陰性預測值是 0.89 與 0.94。中風險（不含高惡性度）：第 3 個月一次、之後每六個月一次共兩年、再之後每年一次，做滿十年之後有停止點；中風險裡屬於高惡性度的那一群要比照高風險追蹤。高風險與極高風險：每三個月一次共兩年、之後每六個月一次到滿五年、之後每年一次，標示為終身（life long），沒有停止點，理由是指引原句 Recurrences after ten years tumour-free are not unusual；尿液細胞學與膀胱鏡同頻率。高／極高風險另有一條上泌尿道電腦斷層尿路攝影軸：每年一次到五年、之後每兩年一次到十年，同樣是終身、沒有停止點；十年上泌尿道腫瘤發生率從 T1 腫瘤的 1.9% 到多發且復發的高風險非肌肉侵犯型膀胱癌的 25%，以人口為基礎的研究裡高風險（Ta G3 與原位癌）病人十年內是 3.6%。右欄是保留下來的膀胱（三聯療法做完之後）的三份指引三條時程，三條末端都標示沒有停止點：歐洲泌尿科醫學會 2026，前兩年每三個月一次膀胱鏡、到第五年每六個月一次、之後每年一次，尿液細胞學與胸腹骨盆斷層或磁振（含上泌尿道）在前三到五年每六到十二個月一次；美國泌尿科醫學會／臨床腫瘤醫學會／泌尿腫瘤學會，第一年每三個月、第二年每四到六個月、之後每六到十二個月，影像前兩年每六個月一次，並自述沒有已發表的資料證明這個影像頻率能改善存活；英國 NICE 指引 NG2，放療結束後三個月一次硬式膀胱鏡、前兩年每三個月、接下來兩年每六個月、再之後每年一次，上泌尿道影像每年一次照五年。三份的間隔不同，但最後一段都落在之後每年一次，沒有一份寫到停止。圖下方台灣端兩行：健保 28019C 膀胱鏡檢查 1,800 點；追蹤情境下的次數限制在支付標準備註欄查不到列項，零筆的意思是查不到列項、不是確定不給付，要問醫務課或個管師。最後三句門診提問：我屬於哪一層（或我走的是哪一份指引的時程）、我的時程有沒有停止點、我需不需要每年做上泌尿道的電腦斷層。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2395" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">FOLLOW-UP SCHEDULES - WHICH CELLS HAVE A STOPPING POINT AND WHICH DO NOT</text>
+<text x="84" y="138" font-size="40" fill="#123641" font-weight="800" class="r">兩條路的追蹤時程：哪一格有停止點，哪一格沒有</text>
+<text x="84" y="198.4" font-size="19" fill="#527078">左欄是非肌肉侵犯型膀胱癌刮除之後，右欄是保留膀胱的三聯療法做完之後。兩邊的分層、間隔與停止點都不一樣，任何一格的數字都不可以搬到另一</text>
+<text x="84" y="226.9" font-size="19" fill="#527078">邊。</text>
+<text x="84" y="261.4" font-size="19" fill="#527078">紅色斜線那幾格的意思只有一個：指引沒有給停止點。高風險與極高風險的膀胱鏡是終身，上泌尿道的電腦斷層尿路攝影也是終身。</text>
+<rect x="84" y="309.9" width="622" height="108.3" rx="18" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+<text x="102" y="348.9" font-size="21" fill="#8F7418" font-weight="800">左欄　非肌肉侵犯型（Ta／T1／原位癌）：刮除之後</text>
+<text x="102" y="372.2" font-size="14" fill="#527078">歐洲泌尿科醫學會 2026 年版非肌肉侵犯型膀胱癌指引。時程跟著初診時的風險層走，不是跟</text>
+<text x="102" y="393.2" font-size="14" fill="#527078">著「這次照起來很乾淨」走。</text>
+<g filter="url(#sh)">
+<rect x="84" y="432.2" width="622" height="184.37" rx="18" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2"/>
+</g>
+<text x="104" y="470.2" font-size="18" fill="#123641" font-weight="800">這一格沒有分層：第一次膀胱鏡永遠在第三個月</text>
+<text x="122" y="498.32" font-size="14" fill="#123641" font-weight="700">「should always be performed three months after TURBT in all patients with</text>
+<text x="122" y="519.32" font-size="14" fill="#123641" font-weight="700">TaT1 tumours and CIS」</text>
+<text x="122" y="539.82" font-size="13.5" fill="#527078">歐洲泌尿科醫學會 2026 年非肌肉侵犯型膀胱癌指引，證據等級 1a（原文為英文）</text>
+<rect x="104" y="487.32" width="4" height="56.25" rx="2" fill="#C9A83E"/>
+<text x="104" y="568.57" font-size="14" fill="#345963">它不只是一次檢查。第三個月看到什麼，會回頭改變後面整條時程的節奏，也會影響要不要換</text>
+<text x="104" y="589.57" font-size="14" fill="#345963">治療。所以這一次不要往後挪。</text>
+<g filter="url(#sh)">
+<rect x="84" y="630.57" width="622" height="384.9" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="104" y="650.57" width="62.5" height="25" rx="12.5" fill="#00806B"/>
+<text x="115" y="667.93" font-size="13.5" fill="#FFFFFF" font-weight="800">低風險</text>
+<text x="104" y="698.57" font-size="14" fill="#527078">小的、單一的、低惡性度 Ta</text>
+<rect x="104" y="712.57" width="582" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="104" y="712.57" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="122" y="733.45" font-size="14" fill="#345963">第 3 個月一次</text>
+<line x1="126" y1="748.87" x2="126" y2="759.87" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="104" y="759.87" width="582" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="104" y="759.87" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="122" y="780.75" font-size="14" fill="#345963">第 12 個月一次</text>
+<line x1="126" y1="796.17" x2="126" y2="807.17" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="104" y="807.17" width="582" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="104" y="807.17" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="122" y="828.05" font-size="14" fill="#345963">之後每年一次</text>
+<rect x="104" y="856.47" width="582" height="35" rx="10" fill="#D8EDE7"/>
+<rect x="104" y="856.47" width="582" height="35" rx="10" fill="none" stroke="#00806B" stroke-width="2.2"/>
+<text x="116" y="877.97" font-size="13.5" fill="#00806B" font-weight="800">做滿五年之後有停止點</text>
+<text x="104" y="917.47" font-size="14" fill="#345963">指引的措辭是 should be considered——「應該納入考慮」停止膀胱鏡、或改用侵入性較低</text>
+<text x="104" y="938.47" font-size="14" fill="#345963">的方法，不是「停」。這一層不做尿液細胞學，也不常規做影像；同一段提到低風險世代裡血</text>
+<text x="104" y="959.47" font-size="14" fill="#345963">尿試紙陰性的陰性預測值是 0.89 與 0.94。</text>
+<text x="104" y="988.47" font-size="14" fill="#00806B" font-weight="700">「照五年就可以停」這句話只掛在這一層上。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1029.47" width="622" height="342.9" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="104" y="1049.47" width="170.5" height="25" rx="12.5" fill="#96790F"/>
+<text x="115" y="1066.83" font-size="13.5" fill="#FFFFFF" font-weight="800">中風險（不含高惡性度）</text>
+<text x="104" y="1097.47" font-size="14" fill="#527078">介於兩端之間的那一箱人</text>
+<rect x="104" y="1111.47" width="582" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="104" y="1111.47" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="122" y="1132.35" font-size="14" fill="#345963">第 3 個月一次</text>
+<line x1="126" y1="1147.77" x2="126" y2="1158.77" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="104" y="1158.77" width="582" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="104" y="1158.77" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="122" y="1179.65" font-size="14" fill="#345963">之後每六個月一次共兩年</text>
+<line x1="126" y1="1195.07" x2="126" y2="1206.07" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="104" y="1206.07" width="582" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="104" y="1206.07" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="122" y="1226.95" font-size="14" fill="#345963">再之後每年一次</text>
+<rect x="104" y="1255.37" width="582" height="35" rx="10" fill="#D8EDE7"/>
+<rect x="104" y="1255.37" width="582" height="35" rx="10" fill="none" stroke="#00806B" stroke-width="2.2"/>
+<text x="116" y="1276.87" font-size="13.5" fill="#00806B" font-weight="800">做滿十年之後有停止點</text>
+<text x="104" y="1316.37" font-size="14" fill="#345963">依一個小型隨機試驗採較低強度的追蹤，做滿十年。</text>
+<text x="104" y="1345.37" font-size="14" fill="#96790F" font-weight="700">有一句常被漏掉：中風險裡屬於高惡性度的那一群，要比照高風險追蹤。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1386.37" width="622" height="402.9" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="104" y="1406.37" width="130" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="115" y="1423.73" font-size="13.5" fill="#FFFFFF" font-weight="800">高風險與極高風險</text>
+<text x="104" y="1454.37" font-size="14" fill="#527078">膀胱鏡與尿液細胞學同頻率</text>
+<rect x="104" y="1468.37" width="582" height="36.3" rx="10" fill="#F6E2E0"/>
+<rect x="104" y="1468.37" width="5" height="36.3" rx="2.5" fill="#B04A4A"/>
+<text x="122" y="1489.25" font-size="14" fill="#345963">每三個月一次共兩年</text>
+<line x1="126" y1="1504.67" x2="126" y2="1515.67" stroke="#B04A4A" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="104" y="1515.67" width="582" height="36.3" rx="10" fill="#F6E2E0"/>
+<rect x="104" y="1515.67" width="5" height="36.3" rx="2.5" fill="#B04A4A"/>
+<text x="122" y="1536.55" font-size="14" fill="#345963">之後每六個月一次到滿五年</text>
+<line x1="126" y1="1551.97" x2="126" y2="1562.97" stroke="#B04A4A" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="104" y="1562.97" width="582" height="36.3" rx="10" fill="#F6E2E0"/>
+<rect x="104" y="1562.97" width="5" height="36.3" rx="2.5" fill="#B04A4A"/>
+<text x="122" y="1583.85" font-size="14" fill="#345963">之後每年一次</text>
+<circle cx="126" cy="1610.27" r="3.4" fill="#B04A4A"/>
+<circle cx="126" cy="1622.27" r="3.4" fill="#B04A4A"/>
+<circle cx="126" cy="1634.27" r="3.4" fill="#B04A4A"/>
+<rect x="104" y="1651.27" width="582" height="35" rx="10" fill="#F6E2E0"/>
+<rect x="104" y="1651.27" width="582" height="35" rx="10" fill="url(#hatchR)"/>
+<rect x="104" y="1651.27" width="582" height="35" rx="10" fill="none" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="116" y="1672.77" font-size="13.5" fill="#B04A4A" font-weight="800">終身（life long）——沒有停止點</text>
+<text x="104" y="1712.27" font-size="14" fill="#345963">指引寫的理由是這一句：「Recurrences after ten years tumour-free are not</text>
+<text x="104" y="1733.27" font-size="14" fill="#345963">unusual.」十年沒事之後才復發，在這一層不是稀奇事。</text>
+<text x="104" y="1762.27" font-size="14" fill="#B04A4A" font-weight="700">這一層的監測策略包含一開始密集的膀胱鏡與尿液細胞學，以及 life-long follow-up。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1803.27" width="622" height="376.6" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="104" y="1823.27" width="184" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="115" y="1840.63" font-size="13.5" fill="#FFFFFF" font-weight="800">上泌尿道（高／極高風險）</text>
+<text x="104" y="1871.27" font-size="14" fill="#527078">電腦斷層尿路攝影，另一條軸</text>
+<rect x="104" y="1885.27" width="582" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="104" y="1885.27" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="122" y="1906.15" font-size="14" fill="#345963">每年一次到五年</text>
+<line x1="126" y1="1921.57" x2="126" y2="1932.57" stroke="#5C77C4" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="104" y="1932.57" width="582" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="104" y="1932.57" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="122" y="1953.45" font-size="14" fill="#345963">之後每兩年一次到十年</text>
+<circle cx="126" cy="1979.87" r="3.4" fill="#5C77C4"/>
+<circle cx="126" cy="1991.87" r="3.4" fill="#5C77C4"/>
+<circle cx="126" cy="2003.87" r="3.4" fill="#5C77C4"/>
+<rect x="104" y="2020.87" width="582" height="35" rx="10" fill="#F6E2E0"/>
+<rect x="104" y="2020.87" width="582" height="35" rx="10" fill="url(#hatchR)"/>
+<rect x="104" y="2020.87" width="582" height="35" rx="10" fill="none" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="116" y="2042.37" font-size="13.5" fill="#B04A4A" font-weight="800">同樣是終身——沒有停止點</text>
+<text x="104" y="2081.87" font-size="14" fill="#345963">帶分母的數字是：十年上泌尿道腫瘤發生率在不同族群間差距很大，從 T1 腫瘤的 1.9% 到多</text>
+<text x="104" y="2102.87" font-size="14" fill="#345963">發且復發的高風險非肌肉侵犯型膀胱癌的 25%；一項以人口為基礎的研究裡，高風險（Ta G3</text>
+<text x="104" y="2123.87" font-size="14" fill="#345963">與原位癌）病人十年內是 3.6%。</text>
+<text x="104" y="2152.87" font-size="14" fill="#5C77C4" font-weight="700">膀胱裡乾淨，不等於整條泌尿道都乾淨。</text>
+<rect x="84" y="2193.87" width="622" height="125.92" rx="14" fill="#ECE8DE"/>
+<text x="100" y="2227.87" font-size="18" fill="#123641" font-weight="800">這一整欄的建議強度全部是 Weak</text>
+<text x="100" y="2251.79" font-size="14" fill="#345963">指引自己寫，追蹤的建議主要建立在回溯性資料上，而且缺少隨機試驗（a lack of RCTs）去</text>
+<text x="100" y="2272.79" font-size="14" fill="#345963">研究能不能安全地降低追蹤膀胱鏡的頻率。</text>
+<text x="100" y="2296.79" font-size="14" fill="#345963">這不是「規定」，是目前能拿出來的安排，而且提出的人自己說證據等級不高。</text>
+<rect x="734" y="309.9" width="622" height="87.3" rx="18" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+<text x="752" y="348.9" font-size="21" fill="#8F7418" font-weight="800">右欄　保留下來的膀胱：三聯療法做完之後</text>
+<text x="752" y="372.2" font-size="14" fill="#527078">三份指引三條時程，間隔不一樣——這不是筆誤；把它們合成一份是不該做的事。</text>
+<g filter="url(#sh)">
+<rect x="734" y="411.2" width="622" height="365.27" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="754" y="449.2" font-size="18" fill="#00806B" font-weight="800">歐洲泌尿科醫學會 2026</text>
+<text x="754" y="468.82" font-size="13.5" fill="#527078">肌肉侵犯型與轉移性膀胱癌指引</text>
+<rect x="754" y="484.57" width="582" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="754" y="484.57" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="772" y="505.45" font-size="14" fill="#345963">前兩年每三個月一次膀胱鏡</text>
+<line x1="776" y1="520.87" x2="776" y2="531.87" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="754" y="531.87" width="582" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="754" y="531.87" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="772" y="552.75" font-size="14" fill="#345963">到第五年每六個月一次</text>
+<line x1="776" y1="568.17" x2="776" y2="579.17" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="754" y="579.17" width="582" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="754" y="579.17" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="772" y="600.05" font-size="14" fill="#345963">之後每年一次</text>
+<circle cx="776" cy="626.47" r="3.4" fill="#00806B"/>
+<circle cx="776" cy="638.47" r="3.4" fill="#00806B"/>
+<circle cx="776" cy="650.47" r="3.4" fill="#00806B"/>
+<rect x="754" y="667.47" width="582" height="35" rx="10" fill="#F6E2E0"/>
+<rect x="754" y="667.47" width="582" height="35" rx="10" fill="url(#hatchR)"/>
+<rect x="754" y="667.47" width="582" height="35" rx="10" fill="none" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="766" y="688.97" font-size="13.5" fill="#B04A4A" font-weight="800">沒有停止點</text>
+<text x="754" y="728.47" font-size="14" fill="#345963">多數復發發生在治療後兩到五年內；這一段是專家共識。尿液細胞學與胸腹骨盆的斷層或磁振</text>
+<text x="754" y="749.47" font-size="14" fill="#345963">（含上泌尿道）在前三到五年每六到十二個月一次，之後視臨床狀況。</text>
+<g filter="url(#sh)">
+<rect x="734" y="790.47" width="622" height="365.27" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="754" y="828.47" font-size="18" fill="#96790F" font-weight="800">美國泌尿科醫學會／臨床腫瘤醫學會／泌尿腫瘤學會</text>
+<text x="754" y="848.09" font-size="13.5" fill="#527078">AUA／ASCO／SUO</text>
+<rect x="754" y="863.84" width="582" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="754" y="863.84" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="772" y="884.72" font-size="14" fill="#345963">第一年每三個月</text>
+<line x1="776" y1="900.14" x2="776" y2="911.14" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="754" y="911.14" width="582" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="754" y="911.14" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="772" y="932.02" font-size="14" fill="#345963">第二年每四到六個月</text>
+<line x1="776" y1="947.44" x2="776" y2="958.44" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="754" y="958.44" width="582" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="754" y="958.44" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="772" y="979.32" font-size="14" fill="#345963">之後每六到十二個月</text>
+<circle cx="776" cy="1005.74" r="3.4" fill="#96790F"/>
+<circle cx="776" cy="1017.74" r="3.4" fill="#96790F"/>
+<circle cx="776" cy="1029.74" r="3.4" fill="#96790F"/>
+<rect x="754" y="1046.74" width="582" height="35" rx="10" fill="#F6E2E0"/>
+<rect x="754" y="1046.74" width="582" height="35" rx="10" fill="url(#hatchR)"/>
+<rect x="754" y="1046.74" width="582" height="35" rx="10" fill="none" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="766" y="1068.24" font-size="13.5" fill="#B04A4A" font-weight="800">沒有停止點</text>
+<text x="754" y="1107.74" font-size="14" fill="#345963">影像建議前兩年每六個月一次，而且同一段自己補了一句——沒有任何已發表的資料證明這個影</text>
+<text x="754" y="1128.74" font-size="14" fill="#345963">像頻率能改善存活。</text>
+<g filter="url(#sh)">
+<rect x="734" y="1169.74" width="622" height="391.57" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="754" y="1207.74" font-size="18" fill="#5C77C4" font-weight="800">英國 NICE 指引 NG2</text>
+<text x="754" y="1227.36" font-size="13.5" fill="#527078">Bladder cancer: diagnosis and management</text>
+<rect x="754" y="1243.11" width="582" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="754" y="1243.11" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="772" y="1263.99" font-size="14" fill="#345963">放療結束後三個月一次硬式膀胱鏡</text>
+<line x1="776" y1="1279.41" x2="776" y2="1290.41" stroke="#5C77C4" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="754" y="1290.41" width="582" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="754" y="1290.41" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="772" y="1311.29" font-size="14" fill="#345963">前兩年每三個月</text>
+<line x1="776" y1="1326.71" x2="776" y2="1337.71" stroke="#5C77C4" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="754" y="1337.71" width="582" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="754" y="1337.71" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="772" y="1358.59" font-size="14" fill="#345963">接下來兩年每六個月</text>
+<line x1="776" y1="1374.01" x2="776" y2="1385.01" stroke="#5C77C4" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="754" y="1385.01" width="582" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="754" y="1385.01" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="772" y="1405.89" font-size="14" fill="#345963">再之後每年一次</text>
+<circle cx="776" cy="1432.31" r="3.4" fill="#5C77C4"/>
+<circle cx="776" cy="1444.31" r="3.4" fill="#5C77C4"/>
+<circle cx="776" cy="1456.31" r="3.4" fill="#5C77C4"/>
+<rect x="754" y="1473.31" width="582" height="35" rx="10" fill="#F6E2E0"/>
+<rect x="754" y="1473.31" width="582" height="35" rx="10" fill="url(#hatchR)"/>
+<rect x="754" y="1473.31" width="582" height="35" rx="10" fill="none" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="766" y="1494.81" font-size="13.5" fill="#B04A4A" font-weight="800">沒有停止點</text>
+<text x="754" y="1534.31" font-size="14" fill="#345963">上泌尿道影像每年一次照五年。</text>
+<rect x="734" y="1575.31" width="622" height="127.84" rx="14" fill="#F3E8CD"/>
+<text x="750" y="1609.31" font-size="18" fill="#8F7418" font-weight="800">三份的間隔不同，但最後一段都落在「之後每年一次」——沒有一份寫到停</text>
+<text x="750" y="1635.23" font-size="18" fill="#8F7418" font-weight="800">止。</text>
+<text x="750" y="1659.15" font-size="14" fill="#345963">所以「再照幾年就可以停」這句話，在這一條路上沒有依據。哪一份時程是你要走的，請醫師當</text>
+<text x="750" y="1680.15" font-size="14" fill="#345963">面指一份、寫下來。</text>
+<rect x="734" y="1725.15" width="622" height="119.3" rx="13" fill="#ECE8DE"/>
+<text x="749" y="1754.15" font-size="14" fill="#345963" font-weight="800">台灣端（兩條路共用）：查到的一條，與查不到的一條</text>
+<text x="749" y="1776.45" font-size="14" fill="#345963">健保醫療服務給付項目：28019C 膀胱鏡檢查，1,800 點。</text>
+<text x="749" y="1801.45" font-size="14" fill="#345963">追蹤情境下有沒有次數限制：支付標準的備註欄裡查不到列項。零筆的意思是查不到列項，不是</text>
+<text x="749" y="1822.45" font-size="14" fill="#345963">「確定不給付」——問醫院的醫務課或個管師，不要自己推論。</text>
+<g filter="url(#sh)">
+<rect x="734" y="1858.45" width="622" height="140.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="752" y="1894.45" font-size="18" fill="#8F7418" font-weight="800">下次門診把這三句問出口</text>
+<circle cx="756" cy="1914.27" r="3.2" fill="#C9A83E"/>
+<text x="768" y="1920.57" font-size="14" fill="#345963">我屬於哪一層（或我走的是哪一份指引的時程）？</text>
+<circle cx="756" cy="1941.27" r="3.2" fill="#C9A83E"/>
+<text x="768" y="1947.57" font-size="14" fill="#345963">我的時程有沒有停止點？</text>
+<circle cx="756" cy="1968.27" r="3.2" fill="#C9A83E"/>
+<text x="768" y="1974.57" font-size="14" fill="#345963">我需不需要每年做上泌尿道的電腦斷層？</text>
+<text x="84" y="2337.79" font-size="14" fill="#527078">示意圖，依歐洲泌尿科醫學會 2026 年非肌肉侵犯型膀胱癌指引、歐洲泌尿科醫學會 2026 年肌肉侵犯型與轉移性膀胱癌指引、美國泌尿科醫學會／臨床腫瘤醫學會／泌尿腫瘤學會 年指引、英國</text>
+<text x="84" y="2359.49" font-size="14" fill="#527078">NICE 指引 NG2 與健保醫療服務給付項目及支付標準重繪，非擷取自原論文圖表；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

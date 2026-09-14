@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="3261" viewBox="0 0 1440 3261" role="img" aria-labelledby="t d">
+  <title id="t">非肌肉侵犯型膀胱癌的兩個風險模型，以及極高風險那一格的兩個數字</title>
+  <desc id="d">示意圖：非肌肉侵犯型膀胱癌的兩個風險模型並陳，以及極高風險那一格裡必須一起看的兩個數字。第一格是兩個問題、兩張表，中間一條虛線寫明兩張表回答的是兩個不同的問題、中間不畫箭頭：復發是同一層樓又冒出東西，進展是往下鑽進肌肉。左欄是 2006 年的 EORTC 表，問的是會不會再長回來：預測的終點是復發（也給進展）；建立在 2,596 人、七個 EORTC 試驗上；族群以接受膀胱灌注化療者為主；算出來的五年復發機率從 31% 到 78%，五年進展機率從不到 1% 到 45%；2026 年版的建議強度是 Strong，用於預測沒有用卡介苗的人的復發。右欄是 2021 年的 EAU 模型，問的是會不會往肌肉層長：只預測進展，終點是進展到肌肉侵犯或遠端轉移的時間；建立在 3,401 位病人的個別資料上；族群全部是初發的非肌肉侵犯型、1990 到 2018 年間治療、只收接受經尿道刮除加或不加膀胱灌注化療的人，接受輔助性卡介苗的人被排除在外；作者自列的限制是回溯性收案、沒有中央病理複閱；2026 年版的建議強度同樣是 Strong。兩欄下方寫著用了卡介苗的人另外有 2016 年的 EORTC 模型或 CUETO 模型，「新表取代舊表」這句話是錯的。第二格是這張圖的核心，標題是「同一格裡的兩個數字：極高風險的五年進展」。同一個座標軸上畫兩條：沒有接受卡介苗的那一條是 40%，95% 信賴區間 29% 到 54%，來自表 6.3；給了足量卡介苗之後的那一條畫成一段區間，14.9% 到 22%，來自同一份指引在極高風險的治療段落。說明寫著表 6.3 自己在表下註明這些百分比指的是初次刮除後沒有立刻接受輔助性卡介苗灌注的病人，所以 40% 是沒打卡介苗的一群人的平均，不是你的機率。分母標籤是 n 等於 3,401、全部初發、1990 到 2018 年治療、只做刮除加或不加灌注化療、排除接受輔助性卡介苗者，終點是進展到肌肉侵犯或遠端轉移的時間；同一群人的十年進展機率是 53%。旁邊一格寫日本一個 3,024 人的卡介苗治療世代拿 2021 模型去驗證，對進展的 C-index 只有 0.617（2019 年版是 0.572，p 等於 0.011）；C-index 翻成白話是隨便挑兩個人，模型能不能把先出事的那一個排在前面，0.5 是丟銅板、1 是全對；而且在這個世代裡，五個極高風險次組之間的存活曲線沒有顯著差異。第三格畫的是分層算出來的東西，不是輸入：四張卡片依序是低風險、中風險、高風險、極高風險。低風險那張：五年進展機率 0.93%（信賴區間 0.49% 到 1.7%）、十年 3.7%、五年復發機率 10% 到 35%；處置是術後單次即刻灌注化療，指引寫「對這些病人已經是足夠的治療」；並附上那一次灌注的雙面——11 篇研究、2,278 位 pTa–pT1 病人的個別病人資料統合分析（單純刮除 1,161 人對刮除加單次灌注 1,117 人），復發風險下降 35%（風險比 0.65，95% 信賴區間 0.58 到 0.74），五年復發率從 58.8% 降到 44.8%；但在過去每年復發超過一次或 2006 EORTC 復發分數 5 分以上的人身上沒有效，不延長到進展的時間、也不延長到膀胱癌死亡的時間，而且在高復發風險者身上整體死亡風險反而上升（風險比 1.26，95% 信賴區間 1.05 到 1.51，p 等於 0.015；五年死亡率 12.0% 對 11.2%）；反過來，低風險也不是卡介苗的對象，TICE 卡介苗美國仿單的使用限制欄自己寫不建議用於 TaG1 乳突狀腫瘤，除非被判斷為高復發風險。中風險那張：十年進展機率 7.4% 與 8.5%（兩套分級系統各一個）、五年復發機率 18% 到 50%；第一線多半是誘導期的膀胱灌注化療，加或不加最多一年的維持，一年份的全劑量卡介苗是替代選項；並寫明中風險在定義上就是「沒有原位癌，而且不落在低、高、極高任何一格」的其餘的人，國際膀胱癌小組 2022 年修訂的次分層模型在 677 人身上驗證，零個風險因子的人進展風險接近低風險、三個以上的人接近高風險，被歸在中風險不代表你在這個箱子的中間。高風險那張只寫一句：這一格的處置本篇正文沒有展開，灌的如果是卡介苗，那是完全另一回事，見〈卡介苗不是化療，也不是打疫苗〉。極高風險那張：五年進展機率（未接受卡介苗）40%、十年 53%；指引寫的是應與病人討論立即膀胱全切除，不是應該切；同一節也寫膀胱全切除從腫瘤學角度是最安全的做法，但伴隨併發症與生活品質的損失，對一部分病人而言是過度治療；原位癌無法靠內視鏡處置治癒，回溯資料裡灌注化療的完全反應率 48%、卡介苗 72% 到 93%，而完全反應的人當中最多一半日後仍然會復發；把非肌肉侵犯型直接讀成早期、不用擔心，是這一格最常被誤會的地方。第四格是一個打上叉的空白方塊，寫著「這裡沒有計分表」：沒有風險因子的勾選格、沒有切點，也沒有加總的分數。旁邊列出三個理由：第一，模型本身就沒有納入原發的純原位癌、攝護腺尿道原位癌、復發性腫瘤、變異型組織與淋巴血管侵犯；第二，各國指引的分層本來就不一樣，一篇 2022 年的綜論寫各國指引對低、中、高風險的歸類略有不同，歐洲用四層、美國那邊是三層，而美國泌尿科醫學會與泌尿腫瘤學會 2026 年的更新也再次調整了風險分層；第三，分層的前提是第一次刮除刮乾淨、檢體裡有肌肉層、必要時再刮一次，那一格不在你手上，在病理報告和刮除紀錄裡。同一格另有兩段：2026 年的指引新增第 10 章，標題是「Pragmatic deintensification strategy in NMIBC」，前提寫在同一段，建立在與充分知情並同意的病人共同決策的過程，減量是被討論出來的，不是自己決定少來幾次；同一章提到一個用 14 個臨床病理變項建立的人工智慧模型 PROGRxN-BCa，指引給它的評語是「Pending further validation」，在驗證完成之前不是現行標準。圖的最下面是一個金框方塊：同一個極高風險的 40%，在沒有打卡介苗的人身上和在打了足量卡介苗的人身上是兩個不同的數字，醫師指給你看的那一個是哪一種值得當場弄清楚，這一句問下去，40% 跟 14.9% 到 22% 的差別就出來了；錢的部分可以先問一半，膀胱灌注這個處置在健保醫療服務給付項目裡有列項（50011C，260 點），但灌進去的藥怎麼算是另一回事，要問醫院的醫務課或個管師。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="3261" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">TWO MODELS, TWO QUESTIONS - AND WHOSE PERCENTAGES THESE ARE</text>
+<text x="84" y="142" font-size="38" fill="#123641" font-weight="800" class="r">兩個模型並陳：一個算復發，一個算進展，而且算的是沒打卡介苗的</text>
+<text x="84" y="189.88" font-size="38" fill="#123641" font-weight="800" class="r">人</text>
+<text x="84" y="249.76" font-size="19" fill="#527078">這張圖不是一張可以自己打分數的表。圖上沒有任何勾選格、沒有切點、沒有加總——畫的是分層「算出來的東西」：各層的終點數值，以及那一層實際</text>
+<text x="84" y="278.26" font-size="19" fill="#527078">上拿到什麼處置。</text>
+<text x="84" y="312.76" font-size="19" fill="#527078">每一個百分比都帶四個標籤：初發還是復發、有沒有原位癌、有沒有打卡介苗、追蹤幾年。把報告帶去門診，讓對方指著上面的字告訴你他看的是哪幾</text>
+<text x="84" y="341.26" font-size="19" fill="#527078">項。</text>
+<text x="84" y="439.76" font-size="22" fill="#123641" font-weight="800" class="r">兩個問題，兩張表，沒有誰取代誰</text>
+<text x="84" y="465.24" font-size="14" fill="#527078">2026 年版的指引同時給了兩條建議，強度都是 Strong。</text>
+<rect x="84" y="484.24" width="623" height="307.2" rx="18" fill="#FFFFFF" stroke="#5C77C4" stroke-width="2.2"/>
+<rect x="104" y="504.24" width="169.58" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="115" y="521.74" font-size="13.5" fill="#FFFFFF" font-weight="800">2006 年的 EORTC 表</text>
+<text x="104" y="559.24" font-size="18" fill="#5C77C4" font-weight="800">問的是：會不會再長回來</text>
+<text x="104" y="594.44" font-size="14" fill="#527078" font-weight="700">預測的終點</text>
+<text x="313.88" y="594.44" font-size="14" fill="#345963">復發（也給進展）</text>
+<text x="104" y="626.44" font-size="14" fill="#527078" font-weight="700">建立在</text>
+<text x="313.88" y="626.44" font-size="14" fill="#345963">2,596 人、七個 EORTC 試驗</text>
+<text x="104" y="658.44" font-size="14" fill="#527078" font-weight="700">族群</text>
+<text x="313.88" y="658.44" font-size="14" fill="#345963">以接受膀胱灌注化療者為主</text>
+<text x="104" y="690.44" font-size="14" fill="#527078" font-weight="700">算出來的範圍</text>
+<text x="313.88" y="690.44" font-size="14" fill="#345963">五年復發機率 31% 到 78%；五年進展機率從不到 1% 到 45%</text>
+<text x="104" y="722.44" font-size="14" fill="#527078" font-weight="700">2026 年版的建議強度</text>
+<text x="313.88" y="722.44" font-size="14" fill="#345963">Strong（用於預測沒有用卡介苗的人的復發）</text>
+<rect x="733" y="484.24" width="623" height="307.2" rx="18" fill="#FFFFFF" stroke="#96790F" stroke-width="2.2"/>
+<rect x="753" y="504.24" width="160.73" height="25" rx="12.5" fill="#96790F"/>
+<text x="764" y="521.74" font-size="13.5" fill="#FFFFFF" font-weight="800">2021 年的 EAU 模型</text>
+<text x="753" y="559.24" font-size="18" fill="#96790F" font-weight="800">問的是：會不會往肌肉層長</text>
+<text x="753" y="594.44" font-size="14" fill="#527078" font-weight="700">預測的終點</text>
+<text x="962.88" y="594.44" font-size="14" fill="#345963">只預測進展——進展到肌肉侵犯或遠端轉移的時間</text>
+<text x="753" y="626.44" font-size="14" fill="#527078" font-weight="700">建立在</text>
+<text x="962.88" y="626.44" font-size="14" fill="#345963">3,401 位病人的個別資料</text>
+<text x="753" y="658.44" font-size="14" fill="#527078" font-weight="700">族群</text>
+<text x="962.88" y="658.44" font-size="14" fill="#345963">全部是初發的非肌肉侵犯型，1990 到 2018 年間治療，只</text>
+<text x="962.88" y="679.44" font-size="14" fill="#345963">收接受經尿道刮除加或不加膀胱灌注化療的人，接受輔助性</text>
+<text x="962.88" y="700.44" font-size="14" fill="#345963">卡介苗的人被排除在外</text>
+<text x="753" y="732.44" font-size="14" fill="#527078" font-weight="700">作者自列的限制</text>
+<text x="962.88" y="732.44" font-size="14" fill="#345963">回溯性收案、沒有中央病理複閱</text>
+<text x="753" y="764.44" font-size="14" fill="#527078" font-weight="700">2026 年版的建議強度</text>
+<text x="962.88" y="764.44" font-size="14" fill="#345963">Strong（用來分風險群）</text>
+<text x="84" y="815.94" font-size="12.5" fill="#527078" font-weight="700">兩張表回答的是兩個不同的問題，中間不畫箭頭：復發是同一層樓又冒出東西，進展是往下鑽進肌肉</text>
+<text x="84" y="852.07" font-size="14" fill="#345963">用了卡介苗的人，另外有 2016 年的 EORTC 模型或 CUETO 模型。「新表取代舊表」這句話是錯的。</text>
+<text x="84" y="933.77" font-size="22" fill="#123641" font-weight="800" class="r">同一格裡的兩個數字：極高風險的五年進展</text>
+<text x="84" y="959.25" font-size="14" fill="#527078">拆開來看任何一個都會誤導，所以它們畫在同一格。</text>
+<g filter="url(#sh)">
+<rect x="84" y="978.25" width="1272" height="500.19" rx="18" fill="#FFFFFF"/>
+<path d="M 84 996.25 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="110" y="1022.25" font-size="18" fill="#123641" font-weight="800">極高風險群，五年進展機率</text>
+<text x="110" y="1065.45" font-size="14" fill="#527078" font-weight="700">沒有接受卡介苗（表 6.3 那一欄）</text>
+<text x="110" y="1082.45" font-size="12.5" fill="#527078">95% 信賴區間 29% 到 54%</text>
+<rect x="549.2" y="1059.45" width="648.8" height="30" rx="8" fill="#ECE8DE"/>
+<rect x="549.2" y="1059.45" width="432.53" height="30" rx="8" fill="#B04A4A"/>
+<text x="1210" y="1082.01" font-size="21" fill="#B04A4A" font-weight="800">40%</text>
+<text x="110" y="1125.45" font-size="14" fill="#527078" font-weight="700">給了足量的卡介苗之後</text>
+<text x="110" y="1142.45" font-size="12.5" fill="#527078">同一份指引在極高風險的治療段落</text>
+<rect x="549.2" y="1119.45" width="648.8" height="30" rx="8" fill="#ECE8DE"/>
+<rect x="710.32" y="1119.45" width="76.77" height="30" rx="8" fill="#00806B"/>
+<line x1="710.32" y1="1113.45" x2="710.32" y2="1155.45" stroke="#00806B" stroke-width="2" stroke-linecap="butt"/>
+<line x1="787.09" y1="1113.45" x2="787.09" y2="1155.45" stroke="#00806B" stroke-width="2" stroke-linecap="butt"/>
+<text x="1210" y="1142.01" font-size="21" fill="#00806B" font-weight="800">14.9–22%</text>
+<line x1="549.2" y1="1171.45" x2="1198" y2="1171.45" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="549.2" y1="1171.45" x2="549.2" y2="1177.45" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="549.2" y="1193.45" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">0</text>
+<line x1="765.47" y1="1171.45" x2="765.47" y2="1177.45" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="765.47" y="1193.45" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">20</text>
+<line x1="981.73" y1="1171.45" x2="981.73" y2="1177.45" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="981.73" y="1193.45" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">40</text>
+<line x1="1198" y1="1171.45" x2="1198" y2="1177.45" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1198" y="1193.45" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">60%</text>
+<rect x="110" y="1209.45" width="1220" height="67" rx="14" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="126" y="1239.45" font-size="14" fill="#345963">表 6.3 自己在表下註明：這些百分比指的是初次刮除後沒有立刻接受輔助性卡介苗灌注的病人。所以 40% 是「沒打卡介苗的一群人的平均」，不是「你的機率」。</text>
+<text x="110" y="1298.95" font-size="12.5" fill="#527078">分母標籤：n=3,401、全部初發、1990 到 2018 年治療、只做刮除加或不加灌注化療、排除接受輔助性卡介苗者；終點是進展到肌肉侵犯或遠端轉移的時間。同一群人的十年進展機率是 53%。</text>
+<text x="110" y="1346.57" font-size="15.5" fill="#123641" font-weight="800">還有一筆更冷的資料</text>
+<circle cx="114.5" cy="1382.95" r="4" fill="#5C77C4"/>
+<text x="129" y="1388.27" font-size="14" fill="#345963">日本一個 3,024 人的卡介苗治療世代拿 2021 模型去驗證，對進展的 C-index 只有 0.617（2019 年版是 0.572，p=0.011）。</text>
+<circle cx="114.5" cy="1411.67" r="4" fill="#5C77C4"/>
+<text x="129" y="1416.99" font-size="14" fill="#345963">C-index 翻成白話是「隨便挑兩個人，模型能不能把先出事的那一個排在前面」，0.5 是丟銅板，1 是全對。0.617 的意思是：比舊版好一點，但離「準」還很遠。</text>
+<circle cx="114.5" cy="1440.39" r="4" fill="#5C77C4"/>
+<text x="129" y="1445.71" font-size="14" fill="#345963">而且在這個世代裡，五個極高風險次組之間的存活曲線沒有顯著差異。</text>
+<text x="84" y="1550.43" font-size="22" fill="#123641" font-weight="800" class="r">分層算出來的是什麼：各層的終點與處置</text>
+<text x="84" y="1575.91" font-size="14" fill="#527078">下面畫的是輸出，不是輸入——沒有任何一格可以拿來對號入座。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1594.91" width="1272" height="92" rx="18" fill="#FFFFFF"/>
+</g>
+<rect x="110" y="1620.91" width="294.5" height="40" rx="12" fill="#00806B"/>
+<text x="257.25" y="1647.91" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">低風險</text>
+<rect x="418.5" y="1620.91" width="294.5" height="40" rx="12" fill="#96790F"/>
+<text x="565.75" y="1647.91" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">中風險</text>
+<rect x="727" y="1620.91" width="294.5" height="40" rx="12" fill="#5C77C4"/>
+<text x="874.25" y="1647.91" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">高風險</text>
+<rect x="1035.5" y="1620.91" width="294.5" height="40" rx="12" fill="#B04A4A"/>
+<text x="1182.75" y="1647.91" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">極高風險</text>
+<rect x="84" y="1704.91" width="623" height="430.2" rx="18" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<rect x="104" y="1724.91" width="62.5" height="25" rx="12.5" fill="#00806B"/>
+<text x="115" y="1742.41" font-size="13.5" fill="#FFFFFF" font-weight="800">低風險</text>
+<text x="104" y="1775.91" font-size="14" fill="#527078" font-weight="700">五年進展機率</text>
+<text x="372.18" y="1775.91" font-size="14" fill="#345963">0.93%（信賴區間 0.49% 到 1.7%）</text>
+<text x="104" y="1807.91" font-size="14" fill="#527078" font-weight="700">十年進展機率</text>
+<text x="372.18" y="1807.91" font-size="14" fill="#345963">3.7%</text>
+<text x="104" y="1839.91" font-size="14" fill="#527078" font-weight="700">五年復發機率</text>
+<text x="372.18" y="1839.91" font-size="14" fill="#345963">10% 到 35%</text>
+<text x="104" y="1872.91" font-size="14" fill="#123641" font-weight="700">指引對這一格的處置寫得很短：術後單次即刻灌注化療「對這些病人已經是足夠的治療」。</text>
+<circle cx="108.5" cy="1900.59" r="4" fill="#00806B"/>
+<text x="123" y="1905.91" font-size="14" fill="#345963">那一次灌注的效果，有一份 11 篇研究、2,278 位 pTa–pT1 病人的個別病人資料統合分析</text>
+<text x="123" y="1926.63" font-size="14" fill="#345963">（單純刮除 1,161 人對刮除加單次灌注 1,117 人）：復發風險下降 35%（風險比 0.65，</text>
+<text x="123" y="1947.35" font-size="14" fill="#345963">95% 信賴區間 0.58 到 0.74），五年復發率從 58.8% 降到 44.8%。</text>
+<circle cx="108.5" cy="1970.75" r="4" fill="#00806B"/>
+<text x="123" y="1976.07" font-size="14" fill="#345963">但同一篇的另外半邊更重要：在「過去每年復發超過一次」或 2006 EORTC 復發分數 5</text>
+<text x="123" y="1996.79" font-size="14" fill="#345963">分以上的人身上沒有效，它不延長到進展的時間、也不延長到膀胱癌死亡的時間，而且在高</text>
+<text x="123" y="2017.51" font-size="14" fill="#345963">復發風險者身上整體死亡風險反而上升（風險比 1.26，95% 信賴區間 1.05 到 1.51，</text>
+<text x="123" y="2038.23" font-size="14" fill="#345963">p=0.015；五年死亡率 12.0% 對 11.2%）。</text>
+<circle cx="108.5" cy="2061.63" r="4" fill="#00806B"/>
+<text x="123" y="2066.95" font-size="14" fill="#345963">反過來，低風險也不是卡介苗的對象：TICE 卡介苗美國仿單的使用限制欄自己寫「not</text>
+<text x="123" y="2087.67" font-size="14" fill="#345963">recommended for stage TaG1 papillary tumors, unless they are judged to be</text>
+<text x="123" y="2108.39" font-size="14" fill="#345963">at high risk of tumor recurrence」。</text>
+<rect x="733" y="1704.91" width="623" height="430.2" rx="18" fill="#FFFFFF" stroke="#96790F" stroke-width="2.2"/>
+<rect x="753" y="1724.91" width="62.5" height="25" rx="12.5" fill="#96790F"/>
+<text x="764" y="1742.41" font-size="13.5" fill="#FFFFFF" font-weight="800">中風險</text>
+<text x="753" y="1775.91" font-size="14" fill="#527078" font-weight="700">十年進展機率</text>
+<text x="1021.18" y="1775.91" font-size="14" fill="#345963">7.4% 與 8.5%（兩套分級系統各一個）</text>
+<text x="753" y="1807.91" font-size="14" fill="#527078" font-weight="700">五年復發機率</text>
+<text x="1021.18" y="1807.91" font-size="14" fill="#345963">18% 到 50%</text>
+<text x="753" y="1840.91" font-size="14" fill="#123641" font-weight="700">第一線多半是誘導期的膀胱灌注化療，加或不加最多一年的維持；一年份的全劑量卡介苗是替</text>
+<text x="753" y="1861.91" font-size="14" fill="#123641" font-weight="700">代選項。</text>
+<circle cx="757.5" cy="1889.59" r="4" fill="#96790F"/>
+<text x="772" y="1894.91" font-size="14" fill="#345963">中風險在定義上就比較尷尬——它指的是「沒有原位癌，而且不落在低、高、極高任何一格」</text>
+<text x="772" y="1915.63" font-size="14" fill="#345963">的其餘的人。</text>
+<circle cx="757.5" cy="1939.03" r="4" fill="#96790F"/>
+<text x="772" y="1944.35" font-size="14" fill="#345963">國際膀胱癌小組 2022 年修訂的次分層模型在 677 人身上驗證：零個風險因子的人進展風</text>
+<text x="772" y="1965.07" font-size="14" fill="#345963">險接近低風險、三個以上的人接近高風險。被歸在中風險，不代表你在這個箱子的中間。</text>
+<rect x="84" y="2151.11" width="623" height="315.32" rx="18" fill="#FFFFFF" stroke="#5C77C4" stroke-width="2.2"/>
+<rect x="104" y="2171.11" width="62.5" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="115" y="2188.6" font-size="13.5" fill="#FFFFFF" font-weight="800">高風險</text>
+<text x="104" y="2222.11" font-size="14" fill="#527078" font-weight="700">這一格的處置</text>
+<text x="372.18" y="2222.11" font-size="14" fill="#345963">本篇正文沒有展開</text>
+<text x="104" y="2255.11" font-size="14" fill="#123641" font-weight="700">灌的如果是卡介苗，那是完全另一回事，見〈卡介苗不是化療，也不是打疫苗〉。</text>
+<rect x="733" y="2151.11" width="623" height="315.32" rx="18" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.2"/>
+<rect x="753" y="2171.11" width="76" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="764" y="2188.6" font-size="13.5" fill="#FFFFFF" font-weight="800">極高風險</text>
+<text x="753" y="2222.11" font-size="14" fill="#527078" font-weight="700">五年進展機率（未接受卡介苗）</text>
+<text x="1021.18" y="2222.11" font-size="14" fill="#345963">40%</text>
+<text x="753" y="2254.11" font-size="14" fill="#527078" font-weight="700">十年進展機率（未接受卡介苗）</text>
+<text x="1021.18" y="2254.11" font-size="14" fill="#345963">53%</text>
+<text x="753" y="2287.11" font-size="14" fill="#123641" font-weight="700">指引寫的是「應與病人討論立即膀胱全切除」，不是「應該切」。</text>
+<circle cx="757.5" cy="2314.79" r="4" fill="#B04A4A"/>
+<text x="772" y="2320.11" font-size="14" fill="#345963">同一節也寫了另一半：膀胱全切除從腫瘤學角度是最安全的做法，但它伴隨併發症與生活品</text>
+<text x="772" y="2340.83" font-size="14" fill="#345963">質的損失，「對一部分病人而言是過度治療」。</text>
+<circle cx="757.5" cy="2364.23" r="4" fill="#B04A4A"/>
+<text x="772" y="2369.55" font-size="14" fill="#345963">原位癌自己也不是靠內視鏡就能處理掉的東西：指引寫它無法靠內視鏡處置治癒；回溯資料</text>
+<text x="772" y="2390.27" font-size="14" fill="#345963">裡，灌注化療的完全反應率 48%、卡介苗 72% 到 93%，而完全反應的人當中最多一半日後</text>
+<text x="772" y="2410.99" font-size="14" fill="#345963">仍然會復發。</text>
+<circle cx="757.5" cy="2434.39" r="4" fill="#B04A4A"/>
+<text x="772" y="2439.71" font-size="14" fill="#345963">把非肌肉侵犯型直接讀成「早期、不用擔心」，是這一格最常被誤會的地方。</text>
+<text x="84" y="2538.43" font-size="22" fill="#123641" font-weight="800" class="r">為什麼這張圖不給你一張可以自己打勾的表</text>
+<g filter="url(#sh)">
+<rect x="84" y="2557.91" width="1272" height="426.97" rx="18" fill="#FFFFFF"/>
+<path d="M 84 2575.91 a 18 18 0 0 1 18 -18 h 1236 a 18 18 0 0 1 18 18 z" fill="#C9A83E"/>
+</g>
+<rect x="110" y="2583.91" width="593" height="110" rx="14" fill="url(#hatch)"/>
+<rect x="110" y="2583.91" width="593" height="110" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="124" y1="2597.91" x2="689" y2="2679.91" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="689" y1="2597.91" x2="124" y2="2679.91" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="110" y="2719.41" font-size="15.5" fill="#B04A4A" font-weight="800">這裡沒有計分表</text>
+<text x="110" y="2755.88" font-size="14" fill="#345963">沒有風險因子的勾選格，沒有切點，也沒有加總的分數。</text>
+<circle cx="741.5" cy="2592.59" r="4" fill="#B04A4A"/>
+<text x="756" y="2597.91" font-size="14" fill="#345963">第一，模型本身就沒有納入幾類人——原發的純原位癌、攝護腺尿道原位癌、復發性腫瘤、變</text>
+<text x="756" y="2618.63" font-size="14" fill="#345963">異型組織、淋巴血管侵犯，指引是另外用文獻把這幾類歸位的。</text>
+<circle cx="741.5" cy="2642.03" r="4" fill="#B04A4A"/>
+<text x="756" y="2647.35" font-size="14" fill="#345963">第二，各國指引的分層本來就不一樣：一篇 2022 年的綜論寫，各國指引對低、中、高風險</text>
+<text x="756" y="2668.07" font-size="14" fill="#345963">非肌肉侵犯型膀胱癌的歸類「略有不同」；歐洲用四層，美國那邊是三層，而美國泌尿科醫學</text>
+<text x="756" y="2688.79" font-size="14" fill="#345963">會與泌尿腫瘤學會 2026 年的更新也再次調整了風險分層。</text>
+<circle cx="741.5" cy="2712.19" r="4" fill="#B04A4A"/>
+<text x="756" y="2717.51" font-size="14" fill="#345963">第三，分層的前提是第一次刮除刮乾淨、檢體裡有肌肉層、必要時再刮一次，那一格不在你手</text>
+<text x="756" y="2738.23" font-size="14" fill="#345963">上，在病理報告和刮除紀錄裡。</text>
+<text x="110" y="2808.38" font-size="15.5" fill="#123641" font-weight="800">2026 年的指引多了一章，講的是怎麼少做</text>
+<text x="110" y="2850.08" font-size="14" fill="#345963">新增的第 10 章標題就叫「Pragmatic deintensification strategy in NMIBC」，列出可以在共同決策下減量的做法；前提寫在同一段：這一切建立在「與充分知情並同意的病人共同決策的過程」。</text>
+<text x="110" y="2871.78" font-size="14" fill="#345963">減量是被討論出來的，不是自己決定少來幾次。</text>
+<text x="110" y="2915.48" font-size="14" fill="#345963">同一章也提到一個用 14 個臨床病理變項建立的人工智慧模型 PROGRxN-BCa，納入了 2021 模型沒有的再刮除與卡介苗治療等變項。指引給它的評語是四個字：「Pending further validation」。</text>
+<text x="110" y="2937.18" font-size="14" fill="#345963">在驗證完成之前，它不是現行標準。</text>
+<rect x="84" y="3006.88" width="1272" height="169.28" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="110" y="3050.88" font-size="18" fill="#8F7418" font-weight="800">那張表上的百分比，是誰的百分比</text>
+<text x="110" y="3082.08" font-size="15.5" fill="#345963">同一個極高風險的 40%，在沒有打卡介苗的人身上和在打了足量卡介苗的人身上，是兩個不同的數字；醫師指給你看的那一個是哪一種，值得當場弄清楚——這一句問下去，40% 跟</text>
+<text x="110" y="3106.11" font-size="15.5" fill="#345963">14.9% 到 22% 的差別就出來了。錢的部分可以先問一半：膀胱灌注這個處置在健保醫療服務給付項目裡有列項（50011C，260 點），但灌進去的藥怎麼算是另一回事，要問醫院</text>
+<text x="110" y="3130.13" font-size="15.5" fill="#345963">的醫務課或個管師。</text>
+<text x="84" y="3202.16" font-size="15" fill="#527078">示意圖，依 EAU 2026 非肌肉侵犯型膀胱癌指引、Sylvester 2006、Sylvester 2021、Miyake 2024、Sylvester 2016、TICE 卡介苗美國仿單、Balasubramanian 2022 與健保支付</text>
+<text x="84" y="3225.41" font-size="15" fill="#527078">標準重繪，非擷取自原論文圖表；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

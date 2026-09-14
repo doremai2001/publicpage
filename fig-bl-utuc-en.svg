@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2507" viewBox="0 0 1440 2507" role="img" aria-labelledby="t d">
+  <title id="t">Upper tract urothelial carcinoma in Taiwan: the ceiling of what the data will carry</title>
+  <desc id="d">Schematic in three blocks. The first block draws two rows of ten cells: the Taiwan row has three cells filled and a fourth drawn as a dashed hatched outline, carrying &quot;for every ten urothelial carcinoma registrations in Taiwan, three to four are in the upper tract&quot;; the Western row has one cell filled and a second hatched, carrying &quot;one to two in ten&quot;. The basis is printed underneath: Taiwan Cancer Registry long-term trend file, diagnosis year 2023, invasive-only basis, bladder cancer 2,562 cases and cancer of the renal pelvis and other urinary organs 1,884 cases, the latter 42.4% of the two added together; the EAU 2025 upper tract guideline states 5% to 10% of all urothelial carcinomas; and the file's own note that these are invasive cancer incidence data age-standardised to the 2000 world standard population. Three red caveat boxes sit alongside: first, the numerator is formally &quot;cancer of the renal pelvis and other urinary organs&quot;, ICD-9 189.1 to 189.9, which includes the urethra and other unspecified urinary organs and is not purely upper tract; second, the denominator is invasive-only and excludes bladder carcinoma in situ, so putting carcinoma in situ back into the denominator lowers the proportion; third, Cancer Incidence in Five Continents Volume XI does not include Taiwan, so there is no international ranking on the same basis. A band then states the two sentences that are never written: never &quot;the highest in the world&quot;, because that is a sentence recurring in the literature rather than a calculated ranking; and never &quot;half of Taiwan's cases&quot;, because the 42.4% is biased at both ends. Two notes follow: the Western 5% to 10% is itself moving - the Norwegian national registry, 1999 to 2018, 3,096 patients, put the upper tract at 11.8% of all urothelial carcinoma, rising from 9.9% to 12.8%, and the Dutch national registry, 1993 to 2017, 13,314 patients, saw the age-standardised incidence rise from 2.0 to 3.2 per 100,000; and in the Taiwanese upper-tract group women outnumber men, 1,090 women and 794 men in 2023. The second block holds three announcement cards under a band reading &quot;the same day, two different document numbers&quot;. On 4 November 2003, document number 0920002350 banned five aristolochic acid-containing herbal materials - Guang Fang Ji, Qing Mu Xiang, Guan Mu Tong, Ma Dou Ling and Tian Xian Teng - from manufacture, dispensing, import, export or sale from the date of the announcement. On the same day, document number 0920002349 also banned preparations containing those five materials from manufacture and import and revoked their product licences. The third card is drawn in a different colour and labelled &quot;NOT in the ban&quot;: on 27 February 2004, document number 0930000756 set the management regulation for asarum - the part used changes from the whole plant to the root, concentrated preparations must be made by decoction in water, and finished products may only be sold after passing the established HPLC test, with any marketed asarum product found to contain aristolochic acid dealt with under the Pharmaceutical Affairs Act. A closing line notes that asarum was not banned; the part used, the process and the testing were changed. The third block holds two analysis cards pointing opposite ways. On the left, a downward arrow: Scientific Reports 2019, an interrupted time series of the Taiwan Cancer Registry from 1995 to 2013, in which the slope for cancer of the renal pelvis and other urinary organs turned at 2000 and again at 2011 and fell by 3.4% per year after the second join point, with the authors writing &quot;possibly associated with&quot;. On the right, an upward arrow: J Cancer Res Clin Oncol 2023, the same registry from 2001 to 2018, in which the incidence of upper tract urothelial carcinoma rose significantly, average annual percentage change +1.47% (95% confidence interval 1.03 to 1.90, p less than 0.001). The closing band reads &quot;the same registry, two analyses with opposite conclusions&quot;, and adds the two directions in the trend file itself: the age-standardised rate peaked in 2010 at 4.93 and was 3.91 in 2023, while the case count rose from 1,505 to 1,884 over the same period. By rate it is drifting down; by number of people it is still going up, so &quot;the ban brought it down&quot; is not written.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2507" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">UPPER TRACT UROTHELIAL CARCINOMA IN TAIWAN - THE CEILING OF WHAT THE DATA WILL CARRY</text>
+<text x="84" y="138" font-size="40" fill="#123641" font-weight="800" class="r">The upper tract: the ceiling of what can be said, three</text>
+<text x="84" y="188.4" font-size="40" fill="#123641" font-weight="800" class="r">announcements, and two analyses pointing opposite ways</text>
+<text x="84" y="248.8" font-size="19" fill="#527078">Upper tract urothelial carcinoma is commoner in Taiwan than Western textbooks describe. That much is true, but it is routinely</text>
+<text x="84" y="277.3" font-size="19" fill="#527078">stated more strongly than the evidence will carry. This figure draws the ceiling of what can be said, and the three limits of</text>
+<text x="84" y="305.8" font-size="19" fill="#527078">basis that hold it up.</text>
+<text x="84" y="340.3" font-size="19" fill="#527078">The lower half is aristolochic acid: three announcements - two bans and one that is not a ban - and, after the ban, two analyses</text>
+<text x="84" y="368.8" font-size="19" fill="#527078">of the same registry that point in opposite directions.</text>
+<text x="84" y="438.3" font-size="21" fill="#8F7418" font-weight="800">1. The ceiling: for every ten urothelial carcinoma registrations in Taiwan, three to four are in the upper tract</text>
+<text x="84" y="461.44" font-size="14" fill="#527078">The Western guideline says one to two. The two are not on the same basis, and the three limits below belong in the same breath as the sentence.</text>
+<g filter="url(#sh)">
+<rect x="84" y="480.44" width="623" height="512.8" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="106" y="516.44" font-size="14" fill="#527078" font-weight="700">Taiwan (Cancer Registry, diagnosis year 2023, invasive-only basis)</text>
+<rect x="106" y="529.44" width="50.7" height="46" rx="8" fill="#B04A4A"/>
+<rect x="164.7" y="529.44" width="50.7" height="46" rx="8" fill="#B04A4A"/>
+<rect x="223.4" y="529.44" width="50.7" height="46" rx="8" fill="#B04A4A"/>
+<rect x="282.1" y="529.44" width="50.7" height="46" rx="8" fill="#FFFFFF"/>
+<rect x="282.1" y="529.44" width="50.7" height="46" rx="8" fill="url(#hatch)"/>
+<rect x="282.1" y="529.44" width="50.7" height="46" rx="8" fill="none" stroke="#B04A4A" stroke-width="2.4" stroke-dasharray="6 5"/>
+<rect x="340.8" y="529.44" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="399.5" y="529.44" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="458.2" y="529.44" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="516.9" y="529.44" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="575.6" y="529.44" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="634.3" y="529.44" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<text x="106" y="614.44" font-size="27" fill="#B04A4A" font-weight="800">Three to four in ten</text>
+<text x="106" y="653.19" font-size="14" fill="#527078" font-weight="700">West (EAU Upper Urinary Tract Urothelial Carcinoma guideline, 2025)</text>
+<rect x="106" y="666.19" width="50.7" height="46" rx="8" fill="#5C77C4"/>
+<rect x="164.7" y="666.19" width="50.7" height="46" rx="8" fill="#FFFFFF"/>
+<rect x="164.7" y="666.19" width="50.7" height="46" rx="8" fill="url(#hatch)"/>
+<rect x="164.7" y="666.19" width="50.7" height="46" rx="8" fill="none" stroke="#5C77C4" stroke-width="2.4" stroke-dasharray="6 5"/>
+<rect x="223.4" y="666.19" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="282.1" y="666.19" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="340.8" y="666.19" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="399.5" y="666.19" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="458.2" y="666.19" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="516.9" y="666.19" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="575.6" y="666.19" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="634.3" y="666.19" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<text x="106" y="751.19" font-size="27" fill="#5C77C4" font-weight="800">One to two in ten</text>
+<text x="106" y="787.94" font-size="14" fill="#8F7418" font-weight="800">The basis of these two rows</text>
+<circle cx="110" cy="804.94" r="3.2" fill="#C9A83E"/>
+<text x="122" y="811.24" font-size="14" fill="#345963">Taiwan Cancer Registry long-term trend file, diagnosis year 2023,</text>
+<text x="122" y="831.24" font-size="14" fill="#345963">invasive-only basis: bladder cancer 2,562 cases, cancer of the renal pelvis</text>
+<text x="122" y="851.24" font-size="14" fill="#345963">and other urinary organs 1,884 cases, the latter 42.4% of the two added</text>
+<text x="122" y="871.24" font-size="14" fill="#345963">together.</text>
+<circle cx="110" cy="891.94" r="3.2" fill="#C9A83E"/>
+<text x="122" y="898.24" font-size="14" fill="#345963">The EAU 2025 upper tract guideline states that upper tract tumours account</text>
+<text x="122" y="918.24" font-size="14" fill="#345963">for 5% to 10% of all urothelial carcinomas.</text>
+<circle cx="110" cy="938.94" r="3.2" fill="#C9A83E"/>
+<text x="122" y="945.24" font-size="14" fill="#345963">The file's own note: these are invasive cancer incidence data, and rates are</text>
+<text x="122" y="965.24" font-size="14" fill="#345963">age-standardised to the 2000 world standard population.</text>
+<g filter="url(#sh)">
+<rect x="733" y="480.44" width="623" height="420.66" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+</g>
+<text x="753" y="518.44" font-size="18" fill="#B04A4A" font-weight="800">Three limits, which belong beside that sentence</text>
+<rect x="753" y="534.2" width="583" height="115.3" rx="13" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="768" y="563.2" font-size="14" fill="#B04A4A" font-weight="800">1. The numerator is not purely upper tract</text>
+<text x="768" y="585.5" font-size="14" fill="#345963">The numerator is formally &quot;cancer of the renal pelvis and other urinary</text>
+<text x="768" y="606.5" font-size="14" fill="#345963">organs&quot; (ICD-9 189.1 to 189.9), which includes the urethra and other</text>
+<text x="768" y="627.5" font-size="14" fill="#345963">unspecified urinary organs.</text>
+<rect x="753" y="660.5" width="583" height="94.3" rx="13" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="768" y="689.5" font-size="14" fill="#B04A4A" font-weight="800">2. The denominator is invasive-only and excludes bladder carcinoma in situ</text>
+<text x="768" y="711.8" font-size="14" fill="#345963">Carcinoma in situ is a large share of the Taiwanese bladder cancer</text>
+<text x="768" y="732.8" font-size="14" fill="#345963">registry; put it back into the denominator and the proportion falls.</text>
+<rect x="753" y="765.8" width="583" height="115.3" rx="13" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="768" y="794.8" font-size="14" fill="#B04A4A" font-weight="800">3. There is no international ranking on the same basis</text>
+<text x="768" y="817.1" font-size="14" fill="#345963">Cancer Incidence in Five Continents Volume XI does not include Taiwan. No</text>
+<text x="768" y="838.1" font-size="14" fill="#345963">international ranking on a common basis has ever placed Taiwan in the</text>
+<text x="768" y="859.1" font-size="14" fill="#345963">comparison.</text>
+<rect x="84" y="1009.24" width="1272" height="104.92" rx="14" fill="#ECE8DE"/>
+<text x="100" y="1043.24" font-size="18" fill="#123641" font-weight="800">Which is why these two sentences are not written</text>
+<text x="100" y="1067.16" font-size="14" fill="#345963">Never &quot;the highest in the world&quot; - that is a sentence that recurs in the literature, not a ranking anyone calculated.</text>
+<text x="100" y="1091.16" font-size="14" fill="#345963">Never &quot;half of Taiwan's cases&quot; - the 42.4% above is biased at both ends, and both ends have to be stated.</text>
+<rect x="84" y="1130.16" width="623" height="186.3" rx="13" fill="#E3E8F6"/>
+<text x="99" y="1159.16" font-size="14" fill="#345963" font-weight="800">And the Western 5% to 10% is itself moving</text>
+<text x="99" y="1181.46" font-size="14" fill="#345963">Norwegian national registry, 1999 to 2018, 3,096 patients: the upper tract</text>
+<text x="99" y="1202.46" font-size="14" fill="#345963">accounted for 11.8% of all urothelial carcinoma, rising from 9.9% to 12.8%.</text>
+<text x="99" y="1227.46" font-size="14" fill="#345963">Dutch national registry, 1993 to 2017, 13,314 patients: the age-standardised</text>
+<text x="99" y="1248.46" font-size="14" fill="#345963">incidence rose from 2.0 to 3.2 per 100,000.</text>
+<text x="99" y="1273.46" font-size="14" fill="#345963">The guideline says 5% to 10%; recent national registries are already above one in</text>
+<text x="99" y="1294.46" font-size="14" fill="#345963">ten.</text>
+<rect x="733" y="1130.16" width="623" height="94.3" rx="13" fill="#E3E8F6"/>
+<text x="748" y="1159.16" font-size="14" fill="#345963" font-weight="800">One more way Taiwan runs opposite to the West</text>
+<text x="748" y="1181.46" font-size="14" fill="#345963">In the Taiwanese upper-tract group women outnumber men: in 2023, 1,090</text>
+<text x="748" y="1202.46" font-size="14" fill="#345963">women and 794 men.</text>
+<text x="84" y="1363.46" font-size="21" fill="#8F7418" font-weight="800">2. Aristolochic acid: two ban announcements on the same day under different document numbers, plus one</text>
+<text x="84" y="1391.6" font-size="21" fill="#8F7418" font-weight="800">management regulation that is not a ban</text>
+<text x="84" y="1414.74" font-size="14" fill="#527078">The document numbers are copied exactly. No manufacturer, clinic or product is named.</text>
+<rect x="84" y="1433.74" width="842" height="34" rx="10" fill="#F6E2E0"/>
+<rect x="84" y="1433.74" width="842" height="34" rx="10" fill="none" stroke="#B04A4A" stroke-width="2"/>
+<text x="505" y="1456.74" font-size="14" fill="#B04A4A" font-weight="800" text-anchor="middle">The same day, two different document numbers</text>
+<g filter="url(#sh)">
+<rect x="84" y="1479.74" width="412" height="329.71" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+</g>
+<rect x="104" y="1499.74" width="48.68" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="115" y="1517.1" font-size="13.5" fill="#FFFFFF" font-weight="800">Ban</text>
+<text x="104" y="1549.74" font-size="14" fill="#527078" font-weight="700">4 November 2003</text>
+<text x="104" y="1576.24" font-size="15.5" fill="#123641" font-weight="800">署授藥字第０九二０００二三五０號（No.</text>
+<text x="104" y="1598.72" font-size="15.5" fill="#123641" font-weight="800">0920002350）</text>
+<text x="104" y="1631.69" font-size="18" fill="#B04A4A" font-weight="800">Five herbal materials banned</text>
+<text x="104" y="1656.45" font-size="14" fill="#345963">Guang Fang Ji, Qing Mu Xiang, Guan Mu Tong, Ma</text>
+<text x="104" y="1677.45" font-size="14" fill="#345963">Dou Ling and Tian Xian Teng - five aristolochic</text>
+<text x="104" y="1698.45" font-size="14" fill="#345963">acid-containing herbal materials - banned from</text>
+<text x="104" y="1719.45" font-size="14" fill="#345963">manufacture, dispensing, import, export or sale</text>
+<text x="104" y="1740.45" font-size="14" fill="#345963">from the date of the announcement.</text>
+<g filter="url(#sh)">
+<rect x="514" y="1479.74" width="412" height="329.71" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+</g>
+<rect x="534" y="1499.74" width="48.68" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="545" y="1517.1" font-size="13.5" fill="#FFFFFF" font-weight="800">Ban</text>
+<text x="534" y="1549.74" font-size="14" fill="#527078" font-weight="700">4 November 2003</text>
+<text x="534" y="1576.24" font-size="15.5" fill="#123641" font-weight="800">署授藥字第０九二０００二三四九號（No.</text>
+<text x="534" y="1598.72" font-size="15.5" fill="#123641" font-weight="800">0920002349）</text>
+<text x="534" y="1631.69" font-size="18" fill="#B04A4A" font-weight="800">Preparations banned and licences</text>
+<text x="534" y="1655.45" font-size="18" fill="#B04A4A" font-weight="800">revoked</text>
+<text x="534" y="1680.21" font-size="14" fill="#345963">Preparations containing those five materials were</text>
+<text x="534" y="1701.21" font-size="14" fill="#345963">also banned from manufacture and import, and</text>
+<text x="534" y="1722.21" font-size="14" fill="#345963">their product licences were revoked.</text>
+<g filter="url(#sh)">
+<rect x="944" y="1479.74" width="412" height="329.71" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2.5"/>
+</g>
+<rect x="964" y="1499.74" width="123.62" height="25" rx="12.5" fill="#00806B"/>
+<text x="975" y="1517.1" font-size="13.5" fill="#FFFFFF" font-weight="800">NOT in the ban</text>
+<text x="964" y="1549.74" font-size="14" fill="#527078" font-weight="700">27 February 2004</text>
+<text x="964" y="1576.24" font-size="15.5" fill="#123641" font-weight="800">署授藥字第０九三００００七五六號（No.</text>
+<text x="964" y="1598.72" font-size="15.5" fill="#123641" font-weight="800">0930000756）</text>
+<text x="964" y="1631.69" font-size="18" fill="#00806B" font-weight="800">Management regulation for asarum</text>
+<text x="964" y="1656.45" font-size="14" fill="#345963">The part used changes from the whole plant to the</text>
+<text x="964" y="1677.45" font-size="14" fill="#345963">root; concentrated preparations must be made by</text>
+<text x="964" y="1698.45" font-size="14" fill="#345963">decoction in water; finished products may only be</text>
+<text x="964" y="1719.45" font-size="14" fill="#345963">sold after passing the manufacturer's established</text>
+<text x="964" y="1740.45" font-size="14" fill="#345963">HPLC test. Any marketed asarum product found to</text>
+<text x="964" y="1761.45" font-size="14" fill="#345963">contain aristolochic acid is dealt with under the</text>
+<text x="964" y="1782.45" font-size="14" fill="#345963">Pharmaceutical Affairs Act.</text>
+<rect x="84" y="1823.45" width="1272" height="72" rx="13" fill="#D8EDE7"/>
+<text x="99" y="1852.45" font-size="14" fill="#345963">Asarum was not banned. The part used, the process and the testing were changed. This is the hardest available evidence that legal Chinese herbal medicine today is not</text>
+<text x="99" y="1873.45" font-size="14" fill="#345963">the same thing as aristolochic acid.</text>
+<text x="84" y="1942.45" font-size="21" fill="#8F7418" font-weight="800">3. Did it come down after the ban? The same registry, two analyses with opposite conclusions</text>
+<text x="84" y="1965.59" font-size="14" fill="#527078">They differ in period, in basis and in statistical method. Picking one side is not allowed.</text>
+<g filter="url(#sh)">
+<rect x="84" y="1984.59" width="623" height="263.5" rx="18" fill="#FFFFFF" stroke="#00806B" stroke-width="2.5"/>
+</g>
+<line x1="121" y1="2006.59" x2="121" y2="2034.59" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<polygon points="121,2050.59 109,2032.59 133,2032.59" fill="#00806B"/>
+<text x="150" y="2022.59" font-size="18" fill="#00806B" font-weight="800">Scientific Reports 2019: interrupted time series</text>
+<text x="150" y="2042.35" font-size="14" fill="#527078">Taiwan Cancer Registry, 1995 to 2013</text>
+<text x="104" y="2089.59" font-size="27" fill="#00806B" font-weight="800">-3.4% per year</text>
+<text x="104" y="2118.34" font-size="14" fill="#345963">The slope for cancer of the renal pelvis and other urinary organs turned at</text>
+<text x="104" y="2139.34" font-size="14" fill="#345963">2000 and again at 2011, and fell by 3.4% per year after the second join point.</text>
+<text x="104" y="2166.34" font-size="14" fill="#00806B" font-weight="700">The authors' own wording is cautious: &quot;possibly associated with&quot;.</text>
+<g filter="url(#sh)">
+<rect x="733" y="1984.59" width="623" height="263.5" rx="18" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.5"/>
+</g>
+<line x1="770" y1="2020.59" x2="770" y2="2050.59" stroke="#B04A4A" stroke-width="5" stroke-linecap="round"/>
+<polygon points="770,2002.59 758,2020.59 782,2020.59" fill="#B04A4A"/>
+<text x="799" y="2022.59" font-size="18" fill="#B04A4A" font-weight="800">J Cancer Res Clin Oncol 2023: national registry analysis</text>
+<text x="799" y="2042.35" font-size="14" fill="#527078">Taiwan Cancer Registry, 2001 to 2018</text>
+<text x="753" y="2089.59" font-size="27" fill="#B04A4A" font-weight="800">Average annual percentage change</text>
+<text x="753" y="2123.34" font-size="27" fill="#B04A4A" font-weight="800">+1.47%</text>
+<text x="753" y="2152.09" font-size="14" fill="#345963">The incidence of upper tract urothelial carcinoma rose significantly, average</text>
+<text x="753" y="2173.09" font-size="14" fill="#345963">annual percentage change +1.47% (95% confidence interval 1.03 to 1.90, p less</text>
+<text x="753" y="2194.09" font-size="14" fill="#345963">than 0.001).</text>
+<text x="753" y="2221.09" font-size="14" fill="#B04A4A" font-weight="700">The conclusion runs opposite to the one on the left.</text>
+<rect x="84" y="2262.09" width="1272" height="125.92" rx="14" fill="#F3E8CD"/>
+<text x="100" y="2296.09" font-size="18" fill="#8F7418" font-weight="800">The same registry, two analyses with opposite conclusions</text>
+<text x="100" y="2320.01" font-size="14" fill="#345963">Opening the trend file gives two directions as well: the age-standardised rate for this group peaked in 2010 at 4.93 and was 3.91 in 2023, while over the same period the</text>
+<text x="100" y="2341.01" font-size="14" fill="#345963">case count rose from 1,505 to 1,884.</text>
+<text x="100" y="2365.01" font-size="14" fill="#345963">By rate it is drifting down; by number of people it is still going up. So &quot;the ban brought it down&quot; is not written here.</text>
+<text x="84" y="2406.01" font-size="14" fill="#527078">Schematic, redrawn from the Taiwan Cancer Registry long-term trend file (urinary organs, diagnosis year 2023), the EAU Guidelines on Upper Urinary Tract Urothelial</text>
+<text x="84" y="2427.71" font-size="14" fill="#527078">Carcinoma (2025), Chang 2023, the Norwegian and Dutch national registry studies, three Department of Health announcements (document numbers 0920002350, 0920002349</text>
+<text x="84" y="2449.41" font-size="14" fill="#527078">and 0930000756), Jhuang 2019 and Liao 2023; not reproduced from any published figure. Populations, designs and endpoints differ between studies, so the points are not</text>
+<text x="84" y="2471.11" font-size="14" fill="#527078">directly comparable.</text>
+  </g>
+</svg>

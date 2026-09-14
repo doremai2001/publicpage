@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2953" viewBox="0 0 1440 2953" role="img" aria-labelledby="t d">
+  <title id="t">Intravesical BCG: the shape of a course, the side-effect timeline, and the signals that mean going back the same day</title>
+  <desc id="d">Schematic in three panels. The first, &quot;the shape of a course: six weeks is only the beginning&quot;, draws a timeline: a six-week induction, one instillation a week, then maintenance with three weekly instillations again at 3, 6, 12, 18, 24, 30 and 36 months, up to 27 in all; a note says the length of a course is not a score, and that who is given BCG and how often is decided by risk stratification. Below the timeline are two evidence cards. SWOG 8507 is a randomised trial: 660 patients had the six-week induction, 550 were randomised at three months to maintenance or none, and the primary analysis set was the 384 patients disease-free at randomisation; median recurrence-free survival was 35.7 months without maintenance against 76.8 months with it, p less than 0.0001; median worsening-free survival 111.5 months against not reached; five-year overall survival 78% against 83%. The card records that the authors themselves noted patients with bad side effects simply stopped maintenance, so the trial could not see severe toxicity. The second card is EORTC 30962, a randomised 2x2 trial (one-third dose or full dose, by one year or three years) in intermediate- and high-risk Ta and T1 disease, 1,355 patients in the intention-to-treat set, median follow-up 7.1 years: in high-risk patients two extra years reduced recurrence (hazard ratio 1.61, 95% confidence interval 1.13 to 2.30, p=0.009) but only at full dose; at intermediate risk two extra years at full dose bought nothing; progression and survival did not differ across the four arms. The second panel, &quot;the days after an instillation, and how many people get through the course&quot;, shows a three-step timeline: bladder irritation begins 4 to 6 hours after instillation, lasts 24 to 72 hours, and is usually only marked after the third instillation; about 60% of patients get bladder irritation. The adverse-event table in the label, 674 patients including 153 with carcinoma in situ: painful urination 60% (grade 3 or worse 11%), urinary frequency 40% (7%), flu-like syndrome 33% (9%), fever 20% (8%). Completion: the guideline states more than half of patients cannot complete one year of maintenance, and in the three-year maintenance arm of EORTC 30962 only 34% completed the whole course. The same panel lists three things often mistaken for a contraindication which are not - white cells on the urine dipstick, invisible haematuria, asymptomatic bacteriuria - and the group that really has to wait, quoting the label verbatim: &quot;Treatment should be postponed for at least 1 week following transurethral resection, biopsy, traumatic catheterization, or gross hematuria&quot;; the guideline advises at least two weeks after a resection, and the contraindications section separately lists immunosuppression and active tuberculosis. The third panel is a red box, &quot;what means going back the same day, rather than waiting for the next visit&quot;, listing verbatim the four signals the label calls suggestive of systemic BCG infection: flu-like fever lasting more than 72 hours; a fever reaching 103°F (about 39.4°C), or a temperature of 38.5°C (101.3°F) or above lasting more than two to three days; systemic symptoms getting worse with each instillation, or persistently abnormal liver blood tests; local acute inflammation - prostatitis, epididymitis, orchitis - lasting more than two to three days. Above the red box the label is quoted: &quot;Deaths have been reported as a result of systemic BCG infection and sepsis.&quot;, together with the label's other sentence that malaise, fever and chills lasting one to two days usually reflect a hypersensitivity reaction. Below it: there is only one thing for you to do - go back the same day and say clearly which day the last instillation was; stopping the drug, cultures, imaging and referral are the clinical side, and the guideline's threshold is a persistent fever above 38.5°C for more than 48 hours, at which point BCG is stopped permanently. Three rates close the panel: serious side effects in fewer than 5% of patients, systemic BCG infection 1% to 2%, and among 5,033 exposed people in the Swedish national database a five-year cumulative notified tuberculosis diagnosis rate of 1.1%. The figure ends by stating that it is not a tool for deciding whether your own case is serious enough; that judgement belongs to the person who can see your results.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2953" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">BCG INTRAVESICAL - COURSE, SIDE EFFECTS, RED FLAGS</text>
+<text x="84" y="140" font-size="40" fill="#123641" font-weight="800" class="r">The shape of a BCG course, the days after an instillation,</text>
+<text x="84" y="190.4" font-size="40" fill="#123641" font-weight="800" class="r">and what means going back the same day</text>
+<text x="84" y="250.8" font-size="19" fill="#527078">This figure does three things: it shows how long one round of BCG actually is, what the body does in the days after an instillation, and</text>
+<text x="84" y="279.3" font-size="19" fill="#527078">which signals mean going back the same day rather than waiting for the next booked clinic.</text>
+<text x="84" y="311.8" font-size="19" fill="#527078">Every cell carries its source and who the patients were. The cohorts, designs and endpoints of the underlying studies differ, so the data</text>
+<text x="84" y="340.3" font-size="19" fill="#527078">points must not be compared directly.</text>
+<rect x="84" y="388.8" width="1272" height="86" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="418.8" font-size="16" fill="#B04A4A" font-weight="800">The lines in the red panel are the label's own wording, not thresholds I assembled; the same section of the label reads &quot;Deaths have been reported as a</text>
+<text x="110" y="443.8" font-size="16" fill="#B04A4A" font-weight="800">result of systemic BCG infection and sepsis.&quot;</text>
+<g filter="url(#sh)"><rect x="84" y="500.8" width="1272" height="806" rx="18" fill="#FFFFFF" stroke="#C9A83E" stroke-width="3"/></g>
+<text x="110" y="536.8" font-size="22" fill="#123641" font-weight="800">The shape of a course: six weeks is only the beginning</text>
+<text x="110" y="574.8" font-size="15.5" fill="#527078">The full schedule as the guideline describes it: a six-week induction, one instillation a week; then maintenance, three weekly instillations again at 3, 6, 12, 18, 24,</text>
+<text x="110" y="597.8" font-size="15.5" fill="#527078">30 and 36 months, up to 27 in all.</text>
+<line x1="110" y1="684.8" x2="1330" y2="684.8" stroke="#B9AE94" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="110" y="654.8" width="268.4" height="60" rx="10" fill="#D8EDE7"/>
+<text x="124" y="676.8" font-size="17" fill="#00806B" font-weight="800">Induction</text>
+<text x="124" y="698.8" font-size="13.5" fill="#527078">six weeks, once a week</text>
+<circle cx="362.4" cy="668.8" r="6" fill="#00806B"/>
+<circle cx="346.4" cy="668.8" r="6" fill="#00806B"/>
+<circle cx="330.4" cy="668.8" r="6" fill="#00806B"/>
+<circle cx="314.4" cy="668.8" r="6" fill="#00806B"/>
+<circle cx="298.4" cy="668.8" r="6" fill="#00806B"/>
+<circle cx="282.4" cy="668.8" r="6" fill="#00806B"/>
+<circle cx="456.51" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="470.51" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="484.51" cy="684.8" r="6" fill="#5C77C4"/>
+<line x1="470.51" y1="696.8" x2="470.51" y2="706.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="470.51" y="724.8" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">month 3</text>
+<circle cx="588.74" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="602.74" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="616.74" cy="684.8" r="6" fill="#5C77C4"/>
+<line x1="602.74" y1="696.8" x2="602.74" y2="706.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="602.74" y="724.8" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">month 6</text>
+<circle cx="720.97" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="734.97" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="748.97" cy="684.8" r="6" fill="#5C77C4"/>
+<line x1="734.97" y1="696.8" x2="734.97" y2="706.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="734.97" y="724.8" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">month 12</text>
+<circle cx="853.2" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="867.2" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="881.2" cy="684.8" r="6" fill="#5C77C4"/>
+<line x1="867.2" y1="696.8" x2="867.2" y2="706.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="867.2" y="724.8" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">month 18</text>
+<circle cx="985.43" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="999.43" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="1013.43" cy="684.8" r="6" fill="#5C77C4"/>
+<line x1="999.43" y1="696.8" x2="999.43" y2="706.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="999.43" y="724.8" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">month 24</text>
+<circle cx="1117.66" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="1131.66" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="1145.66" cy="684.8" r="6" fill="#5C77C4"/>
+<line x1="1131.66" y1="696.8" x2="1131.66" y2="706.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1131.66" y="724.8" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">month 30</text>
+<circle cx="1249.89" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="1263.89" cy="684.8" r="6" fill="#5C77C4"/>
+<circle cx="1277.89" cy="684.8" r="6" fill="#5C77C4"/>
+<line x1="1263.89" y1="696.8" x2="1263.89" y2="706.8" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1263.89" y="724.8" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">month 36</text>
+<text x="404.4" y="650.8" font-size="17" fill="#5C77C4" font-weight="800">Maintenance</text>
+<text x="520.1" y="650.8" font-size="13.5" fill="#527078">three weeks each time</text>
+<rect x="110" y="740.8" width="109.18" height="24" rx="12" fill="#C9A83E"/>
+<text x="120" y="757.84" font-size="14" fill="#FFFFFF" font-weight="800">up to 27 in all</text>
+<text x="110" y="786.8" font-size="15" fill="#345963">The length of a course is not a score. It is what risk group, tolerance and drug supply settle on together - and who is given BCG, and how often, is decided by risk</text>
+<text x="110" y="808.8" font-size="15" fill="#345963">stratification.</text>
+<rect x="110" y="846.8" width="599" height="448" rx="14" fill="#F7F1E4" stroke="#DBD3BF" stroke-width="2"/>
+<text x="130" y="876.8" font-size="18" fill="#00806B" font-weight="800">Does maintenance do anything</text>
+<rect x="130" y="905.8" width="92.41" height="24" rx="12" fill="#00806B"/>
+<text x="140" y="922.48" font-size="13" fill="#FFFFFF" font-weight="800">SWOG 8507</text>
+<rect x="130" y="937.8" width="56.95" height="20" rx="5" fill="#ECE8DE"/>
+<text x="138" y="952.3" font-size="13" fill="#7A6E58" font-weight="800">design</text>
+<text x="130" y="970.8" font-size="13.5" fill="#345963" font-weight="600">randomised trial</text>
+<rect x="130" y="995.8" width="80.09" height="20" rx="5" fill="#ECE8DE"/>
+<text x="138" y="1010.3" font-size="13" fill="#7A6E58" font-weight="800">population</text>
+<text x="130" y="1028.8" font-size="13.5" fill="#345963" font-weight="600">recurrent Ta, T1 and carcinoma in situ; 660 patients had the six-week induction, 550</text>
+<text x="130" y="1047.8" font-size="13.5" fill="#345963" font-weight="600">were randomised at three months to maintenance or none</text>
+<rect x="130" y="1072.8" width="147.43" height="20" rx="5" fill="#ECE8DE"/>
+<text x="138" y="1087.3" font-size="13" fill="#7A6E58" font-weight="800">primary analysis set</text>
+<text x="130" y="1105.8" font-size="13.5" fill="#345963" font-weight="600">the 384 patients who were disease-free at randomisation</text>
+<rect x="130" y="1130.8" width="53.96" height="20" rx="5" fill="#ECE8DE"/>
+<text x="138" y="1145.3" font-size="13" fill="#7A6E58" font-weight="800">result</text>
+<text x="130" y="1163.8" font-size="13.5" fill="#345963" font-weight="600">median recurrence-free survival 35.7 months (no maintenance) against 76.8 months</text>
+<text x="130" y="1182.8" font-size="13.5" fill="#345963" font-weight="600">(maintenance), p less than 0.0001; median worsening-free survival 111.5 months</text>
+<text x="130" y="1201.8" font-size="13.5" fill="#345963" font-weight="600">against not reached; five-year overall survival 78% against 83%</text>
+<text x="130" y="1240.8" font-size="14" fill="#527078">The authors note it themselves: patients with bad side effects simply stopped</text>
+<text x="130" y="1260.8" font-size="14" fill="#527078">maintenance, so the trial could not see severe toxicity.</text>
+<rect x="731" y="846.8" width="599" height="448" rx="14" fill="#F7F1E4" stroke="#DBD3BF" stroke-width="2"/>
+<text x="751" y="876.8" font-size="18" fill="#5C77C4" font-weight="800">And for how long</text>
+<rect x="751" y="905.8" width="106.19" height="24" rx="12" fill="#5C77C4"/>
+<text x="761" y="922.48" font-size="13" fill="#FFFFFF" font-weight="800">EORTC 30962</text>
+<rect x="751" y="937.8" width="56.95" height="20" rx="5" fill="#ECE8DE"/>
+<text x="759" y="952.3" font-size="13" fill="#7A6E58" font-weight="800">design</text>
+<text x="751" y="970.8" font-size="13.5" fill="#345963" font-weight="600">randomised trial, 2x2 design (one-third dose or full dose, by one year or three years)</text>
+<rect x="751" y="995.8" width="80.09" height="20" rx="5" fill="#ECE8DE"/>
+<text x="759" y="1010.3" font-size="13" fill="#7A6E58" font-weight="800">population</text>
+<text x="751" y="1028.8" font-size="13.5" fill="#345963" font-weight="600">intermediate- and high-risk Ta and T1; 1,355 patients in the intention-to-treat set</text>
+<rect x="751" y="1053.8" width="73.98" height="20" rx="5" fill="#ECE8DE"/>
+<text x="759" y="1068.3" font-size="13" fill="#7A6E58" font-weight="800">follow-up</text>
+<text x="751" y="1086.8" font-size="13.5" fill="#345963" font-weight="600">median 7.1 years</text>
+<rect x="751" y="1111.8" width="53.96" height="20" rx="5" fill="#ECE8DE"/>
+<text x="759" y="1126.3" font-size="13" fill="#7A6E58" font-weight="800">result</text>
+<text x="751" y="1144.8" font-size="13.5" fill="#345963" font-weight="600">in high-risk patients two extra years reduced recurrence (hazard ratio 1.61, 95%</text>
+<text x="751" y="1163.8" font-size="13.5" fill="#345963" font-weight="600">confidence interval 1.13 to 2.30, p=0.009), but only at full dose; at intermediate risk</text>
+<text x="751" y="1182.8" font-size="13.5" fill="#345963" font-weight="600">two extra years at full dose bought nothing</text>
+<text x="751" y="1221.8" font-size="14" fill="#527078">Progression and survival did not differ across the four arms. The two extra</text>
+<text x="751" y="1241.8" font-size="14" fill="#527078">years buy fewer recurrences, not fewer deaths.</text>
+<g filter="url(#sh)"><rect x="84" y="1332.8" width="1272" height="751" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="1368.8" font-size="22" fill="#123641" font-weight="800">The days after an instillation, and how many people get through the course</text>
+<text x="110" y="1406.8" font-size="15.5" fill="#527078">The label is specific: about 60% of patients get bladder irritation. Each one being harder than the last is what this drug does; it is not you getting weaker.</text>
+<line x1="124" y1="1457.8" x2="1316" y2="1457.8" stroke="#96790F" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+<circle cx="124" cy="1457.8" r="8" fill="#96790F"/>
+<text x="110" y="1487.8" font-size="16" fill="#96790F" font-weight="800">4 to 6 hours after instillation</text>
+<text x="110" y="1511.8" font-size="14" fill="#527078">bladder irritation begins</text>
+<circle cx="530.67" cy="1457.8" r="8" fill="#96790F"/>
+<text x="516.67" y="1487.8" font-size="16" fill="#96790F" font-weight="800">lasting 24 to 72 hours</text>
+<text x="516.67" y="1511.8" font-size="14" fill="#527078">it usually settles inside this window</text>
+<circle cx="937.33" cy="1457.8" r="8" fill="#96790F"/>
+<text x="923.33" y="1487.8" font-size="16" fill="#96790F" font-weight="800">after the third instillation</text>
+<text x="923.33" y="1511.8" font-size="14" fill="#527078">the label: usually only marked from here on</text>
+<text x="110" y="1547.8" font-size="16" fill="#123641" font-weight="800">The adverse-event table in the label, 674 patients (153 of them with</text>
+<text x="110" y="1569.8" font-size="16" fill="#123641" font-weight="800">carcinoma in situ)</text>
+<text x="110" y="1593.8" font-size="13.5" fill="#527078">In brackets: the proportion that was grade 3 or worse.</text>
+<text x="110" y="1639.8" font-size="14.5" fill="#345963" font-weight="700">painful urination</text>
+<rect x="270" y="1625.8" width="324" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="270" y="1625.8" width="194.4" height="20" rx="5" fill="#96790F"/>
+<text x="604" y="1640.8" font-size="15" fill="#96790F" font-weight="800">60%</text>
+<text x="270" y="1662.8" font-size="13" fill="#527078">grade 3 or worse 11%</text>
+<text x="110" y="1691.8" font-size="14.5" fill="#345963" font-weight="700">urinary frequency</text>
+<rect x="270" y="1677.8" width="324" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="270" y="1677.8" width="129.6" height="20" rx="5" fill="#96790F"/>
+<text x="604" y="1692.8" font-size="15" fill="#96790F" font-weight="800">40%</text>
+<text x="270" y="1714.8" font-size="13" fill="#527078">grade 3 or worse 7%</text>
+<text x="110" y="1743.8" font-size="14.5" fill="#345963" font-weight="700">flu-like syndrome</text>
+<rect x="270" y="1729.8" width="324" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="270" y="1729.8" width="106.92" height="20" rx="5" fill="#96790F"/>
+<text x="604" y="1744.8" font-size="15" fill="#96790F" font-weight="800">33%</text>
+<text x="270" y="1766.8" font-size="13" fill="#527078">grade 3 or worse 9%</text>
+<text x="110" y="1795.8" font-size="14.5" fill="#345963" font-weight="700">fever</text>
+<rect x="270" y="1781.8" width="324" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="270" y="1781.8" width="64.8" height="20" rx="5" fill="#96790F"/>
+<text x="604" y="1796.8" font-size="15" fill="#96790F" font-weight="800">20%</text>
+<text x="270" y="1818.8" font-size="13" fill="#527078">grade 3 or worse 8%</text>
+<text x="740" y="1547.8" font-size="16" fill="#123641" font-weight="800">How many get through it</text>
+<circle cx="745" cy="1580.8" r="4.5" fill="#B04A4A"/>
+<text x="760" y="1585.8" font-size="15" fill="#345963">The guideline: more than half of patients cannot complete one year of</text>
+<text x="760" y="1607.8" font-size="15" fill="#345963">maintenance.</text>
+<circle cx="745" cy="1632.8" r="4.5" fill="#B04A4A"/>
+<text x="760" y="1637.8" font-size="15" fill="#345963">In the three-year maintenance arm of EORTC 30962, only 34% completed the</text>
+<text x="760" y="1659.8" font-size="15" fill="#345963">whole course.</text>
+<text x="740" y="1697.8" font-size="16" fill="#123641" font-weight="800">Three things often mistaken for a contraindication, which are not</text>
+<rect x="740" y="1727.8" width="227.63" height="24" rx="12" fill="#D8EDE7"/>
+<text x="750" y="1744.66" font-size="13.5" fill="#00806B" font-weight="800">white cells on the urine dipstick</text>
+<rect x="975.63" y="1727.8" width="246.8" height="24" rx="12" fill="#D8EDE7"/>
+<text x="985.63" y="1744.66" font-size="13.5" fill="#00806B" font-weight="800">invisible (microscopic) haematuria</text>
+<rect x="740" y="1759.8" width="189.42" height="24" rx="12" fill="#D8EDE7"/>
+<text x="750" y="1776.66" font-size="13.5" fill="#00806B" font-weight="800">asymptomatic bacteriuria</text>
+<text x="740" y="1807.8" font-size="14" fill="#345963">None of the three calls for preventive antibiotics, and a positive tuberculin skin test is</text>
+<text x="740" y="1827.8" font-size="14" fill="#345963">not a reason to be excluded either.</text>
+<line x1="720" y1="1541.8" x2="720" y2="1847.8" stroke="#DBD3BF" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="110" y="1877.8" width="1220" height="200.00000000000023" rx="14" fill="#F3E8CD"/>
+<text x="128" y="1901.8" font-size="16" fill="#8F7418" font-weight="800">This is the group that really has to wait</text>
+<rect x="128" y="1933.8" width="6" height="43" rx="3" fill="#C9A83E"/>
+<text x="138" y="1951.8" font-size="15.5" fill="#123641" font-weight="700">Treatment should be postponed for at least 1 week following transurethral resection, biopsy, traumatic catheterization, or gross hematuria</text>
+<text x="128" y="2000.8" font-size="14.5" fill="#345963">The label: instilling while the lining is bleeding may promote systemic infection, so after a resection, a biopsy, a traumatic catheterisation or visible blood in the urine</text>
+<text x="128" y="2021.8" font-size="14.5" fill="#345963">there has to be at least a week in between; the guideline advises at least two weeks after a resection. The contraindications section separately lists immunosuppression</text>
+<text x="128" y="2042.8" font-size="14.5" fill="#345963">and active tuberculosis.</text>
+<g filter="url(#sh)"><rect x="84" y="2109.8" width="1272" height="744" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="3.5"/></g>
+<text x="110" y="2145.8" font-size="23" fill="#B04A4A" font-weight="800">What means going back the same day, rather than waiting for the next visit</text>
+<text x="110" y="2184.8" font-size="15.5" fill="#345963">&quot;Fever is a normal reaction&quot; cannot stand as one sentence; it has to be split in two. The label: malaise, fever and chills lasting one to two days usually reflect a</text>
+<text x="110" y="2207.8" font-size="15.5" fill="#345963">hypersensitivity reaction. But the four below are what the label calls suggestive of systemic BCG infection, which may need antituberculous treatment.</text>
+<rect x="110" y="2246.8" width="601" height="82" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<rect x="128" y="2264.8" width="30" height="30" rx="15" fill="#B04A4A"/>
+<text x="143" y="2285.8" font-size="20" fill="#FFFFFF" font-weight="800" text-anchor="middle">!</text>
+<text x="170" y="2270.8" font-size="16" fill="#123641" font-weight="700">flu-like fever lasting more than 72 hours</text>
+<rect x="729" y="2246.8" width="601" height="82" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<rect x="747" y="2264.8" width="30" height="30" rx="15" fill="#B04A4A"/>
+<text x="762" y="2285.8" font-size="20" fill="#FFFFFF" font-weight="800" text-anchor="middle">!</text>
+<text x="789" y="2270.8" font-size="16" fill="#123641" font-weight="700">a fever reaching 103°F (about 39.4°C), or a temperature of 38.5°C</text>
+<text x="789" y="2293.8" font-size="16" fill="#123641" font-weight="700">(101.3°F) or above lasting more than two to three days</text>
+<rect x="110" y="2346.8" width="601" height="82" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<rect x="128" y="2364.8" width="30" height="30" rx="15" fill="#B04A4A"/>
+<text x="143" y="2385.8" font-size="20" fill="#FFFFFF" font-weight="800" text-anchor="middle">!</text>
+<text x="170" y="2370.8" font-size="16" fill="#123641" font-weight="700">systemic symptoms getting worse with each instillation, or</text>
+<text x="170" y="2393.8" font-size="16" fill="#123641" font-weight="700">persistently abnormal liver blood tests</text>
+<rect x="729" y="2346.8" width="601" height="82" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<rect x="747" y="2364.8" width="30" height="30" rx="15" fill="#B04A4A"/>
+<text x="762" y="2385.8" font-size="20" fill="#FFFFFF" font-weight="800" text-anchor="middle">!</text>
+<text x="789" y="2370.8" font-size="16" fill="#123641" font-weight="700">local acute inflammation - prostatitis, epididymitis, orchitis - lasting</text>
+<text x="789" y="2393.8" font-size="16" fill="#123641" font-weight="700">more than two to three days</text>
+<rect x="110" y="2468.8" width="1220" height="71.0" rx="14" fill="#B04A4A"/>
+<text x="130" y="2496.8" font-size="19" fill="#FFFFFF" font-weight="800">There is only one thing for you to do: go back the same day, and say clearly which day the last instillation was.</text>
+<text x="110" y="2553.8" font-size="14.5" fill="#345963">Stopping the drug, cultures, imaging and referral are the clinical side of it - the guideline's threshold is a persistent fever above 38.5°C for more than 48 hours, at which</text>
+<text x="110" y="2574.8" font-size="14.5" fill="#345963">point BCG is stopped permanently and urine culture, blood tests, a chest X-ray and an infectious-diseases opinion are arranged straight away.</text>
+<text x="110" y="2613.8" font-size="16" fill="#123641" font-weight="800">The rates belong in the same panel, not hidden elsewhere</text>
+<rect x="110" y="2651.8" width="396" height="122" rx="12" fill="#ECE8DE"/>
+<text x="126" y="2677.8" font-size="14.5" fill="#96790F" font-weight="800">serious side effects</text>
+<text x="126" y="2701.8" font-size="14.5" fill="#345963">fewer than 5% of patients, and nearly all can be</text>
+<text x="126" y="2721.8" font-size="14.5" fill="#345963">managed effectively</text>
+<rect x="522" y="2651.8" width="396" height="122" rx="12" fill="#ECE8DE"/>
+<text x="538" y="2677.8" font-size="14.5" fill="#B04A4A" font-weight="800">systemic BCG infection</text>
+<text x="538" y="2701.8" font-size="14.5" fill="#345963">1% to 2%</text>
+<rect x="934" y="2651.8" width="396" height="122" rx="12" fill="#ECE8DE"/>
+<text x="950" y="2677.8" font-size="14.5" fill="#5C77C4" font-weight="800">5,033 exposed people in the Swedish national</text>
+<text x="950" y="2697.8" font-size="14.5" fill="#5C77C4" font-weight="800">database</text>
+<text x="950" y="2721.8" font-size="14.5" fill="#345963">five-year cumulative notified tuberculosis diagnosis</text>
+<text x="950" y="2741.8" font-size="14.5" fill="#345963">1.1%</text>
+<circle cx="125" cy="2806.8" r="15" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.4"/>
+<line x1="117.8" y1="2799.6" x2="132.2" y2="2814" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="117.8" y1="2814" x2="132.2" y2="2799.6" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<text x="154" y="2799.8" font-size="14.5" fill="#527078">This figure is not a tool for deciding &quot;is mine serious enough&quot;. The signals are there so you telephone and come in the same day; how serious it is, is judged by the</text>
+<text x="154" y="2820.8" font-size="14.5" fill="#527078">person who can see your results.</text>
+<text x="84" y="2871.8" font-size="15" fill="#527078">Schematic, redrawn from the TICE BCG US prescribing information (revised 2/2026), the EAU guidelines on non-muscle-invasive bladder cancer (2026 edition), SWOG 8507</text>
+<text x="84" y="2894.3" font-size="15" fill="#527078">(Lamm 2000) and EORTC 30962 (Oddens 2013); not reproduced from their figures. The cohorts, designs and endpoints of the underlying studies differ, so the data points must</text>
+<text x="84" y="2916.8" font-size="15" fill="#527078">not be compared directly.</text>
+  </g>
+</svg>

@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="3767" viewBox="0 0 620 3767" role="img" aria-labelledby="t d">
+  <title id="t">轉移之後的第一線：指引與藥證換了，健保沒換</title>
+  <desc id="d">示意圖，分成上下兩層，中間一條斷掉的箭頭。圖上蓋著查證日期 2026-09-13：藥證與給付條文都停在這一天。上層「指引與藥證：換了」有三張卡。第一張是 EV-302／KEYNOTE-A39，第一線、隨機第三期、全球開放標示，未曾接受全身治療的局部晚期或轉移性泌尿道上皮癌 886 人（enfortumab vedotin 加 pembrolizumab 442、化療 444）；註冊那一版中位追蹤 17.2 個月，中位總存活 31.5 對 16.1 個月，風險比 0.47（0.38 到 0.58）；2.5 年追蹤的更新分析，中位總存活 33.8 個月（95% 信賴區間 26.1 到 39.3）對 15.9（13.6 到 18.3），風險比 0.51（0.43 到 0.61），中位無惡化存活 12.5 對 6.3 個月，風險比 0.48（0.41 到 0.57）；兩組數字都對但不可混用，追蹤拉長之後中位數往上、風險比也往上，這是正常行為。同一張卡裡放反應率：確認的客觀反應率 67.7%（63.1 到 72.1）對 44.4%（39.7 到 49.2），分母是基準時有可測量病灶的人 437 對 441；完全反應率 29.1% 對 12.5%；並標明反應率不是治癒率、完全反應不等於治癒，整群人的中位總存活仍然是 33.8 個月，以及周邊神經病變在有結果紀錄的 373 人中只有 13% 完全恢復、87% 仍有殘留。第二張卡是用不了那個組合的人還有兩條有隨機證據的路：JAVELIN Bladder 100，含鉑化療四到六個療程後未惡化的 700 人，一年存活率 71.3% 對 58.4%，中位總存活 21.4 對 14.3 個月，風險比 0.69（0.56 到 0.86），第 3 級以上不良事件 47.4% 對 25.2%，並列出誰不適用；CheckMate 901，只收適合 cisplatin 的 608 人，中位追蹤 33.6 個月，中位總存活 21.7 對 18.9 個月，風險比 0.78（0.63 到 0.96），P 等於 0.02，完全反應 21.7% 對 11.8%，完全反應中位持續 37.1 對 13.2 個月，第 3 級以上不良事件 61.8% 對 51.7%，對照組只有 9% 接受 avelumab 維持。第三張卡是台灣藥證：食藥署許可證 衛部菌疫輸字第001212號（enfortumab vedotin），異動日 2026-05-08，適應症已登載「併用 pembrolizumab 適用於治療局部晚期或轉移性泌尿道上皮癌（mUC）的成人病人」；藥證是可以上市的資格，不等於健保付錢。兩層之間的斷箭頭寫著「藥證有，健保沒有」。下層「台灣健保：沒換」也有三張卡。第一張是 9.109 enfortumab vedotin，113 年 5 月 1 日生效，標第三線、單用、一生六個療程，條文逐字為適用於先前接受過含鉑化學治療、後續接受免疫檢查點抑制劑治療失敗後疾病惡化的局部晚期或轉移性泌尿道上皮癌成人病人，以及每位病人限給付6個療程；對應的證據是 EV-301，608 人，中位總存活 12.88 對 8.97 個月，風險比 0.70（0.56 到 0.89）。第二張是 9.69 有付的另外兩格：nivolumab 與 cisplatin 及 gemcitabine 併用至多 6 個療程、接續單用 nivolumab 做為第一線治療，並要求腎絲球過濾率 60 以上；avelumab 維持限 4 至 6 個療程後疾病未惡化且達部分緩解或疾病穩定者，並標明 JAVELIN Bladder 100 收的是沒有惡化、包含完全緩解，兩邊照原文並陳。第三張卡畫成一個虛線空框，框裡只有「零筆」兩個字：第一線 enfortumab vedotin 併用 pembrolizumab 的給付條文全文檔搜尋零筆；零筆的意思是查不到列項，不是確定不給付，也不是所以只能自費，要問醫務課；圖上不寫任何金額。最後一欄寫這一頁的有效期停在 2026-09-13，不要拿它當今天的規則用，也不要憑它自行停藥或改療程。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="3767" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">METASTATIC UROTHELIAL CARCINOMA - THE</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">GUIDELINE AND THE LICENCE CHANGED, THE</text>
+<text x="40" y="114" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">REIMBURSEMENT DID NOT</text>
+<text x="40" y="164" font-size="40" fill="#123641" font-weight="800" class="r">轉移之後的第一線：上面那一</text>
+<text x="40" y="214.4" font-size="40" fill="#123641" font-weight="800" class="r">層換了，下面那一層沒換</text>
+<text x="40" y="274.8" font-size="19" fill="#527078">上層是國際指引與台灣藥證，下層是台灣健保。兩層之間那條斷</text>
+<text x="40" y="303.3" font-size="19" fill="#527078">掉的箭頭，就是這一篇的全部重量：藥證有，健保沒有。</text>
+<text x="40" y="337.8" font-size="19" fill="#527078">每一個數字都帶試驗名、線別、族群、人數、終點與追蹤時間。</text>
+<text x="40" y="366.3" font-size="19" fill="#527078">從頭到尾守一條：反應率不是治癒率。</text>
+<rect x="40" y="414.8" width="540" height="109" rx="14" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+<rect x="56" y="430.8" width="157.65" height="25" rx="12.5" fill="#123641"/>
+<text x="67" y="448.16" font-size="13.5" fill="#FFFFFF" font-weight="800">查證日期 2026-09-13</text>
+<text x="56" y="479.8" font-size="14" fill="#345963">藥證與給付條文都停在這一天，試驗數字也只到這一天為止的發表。看到這張圖的</text>
+<text x="56" y="500.8" font-size="14" fill="#345963">時候先問現況。</text>
+<rect x="40" y="545.8" width="540" height="1641.38" rx="24" fill="#D8EDE7" stroke="#00806B" stroke-width="3"/>
+<rect x="62" y="567.8" width="49" height="25" rx="12.5" fill="#00806B"/>
+<text x="73" y="585.16" font-size="13.5" fill="#FFFFFF" font-weight="800">上層</text>
+<text x="62" y="623.8" font-size="21" fill="#00806B" font-weight="800">指引與藥證：換了</text>
+<text x="62" y="646.1" font-size="14" fill="#527078">國際指引換了組合，台灣的藥證也換了。</text>
+<g filter="url(#sh)">
+<rect x="62" y="667.1" width="496" height="701.66" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="82" y="705.1" font-size="18" fill="#00806B" font-weight="800">EV-302／KEYNOTE-A39</text>
+<rect x="82" y="718.86" width="62.5" height="25" rx="12.5" fill="#00806B"/>
+<text x="93" y="736.22" font-size="13.5" fill="#FFFFFF" font-weight="800">第一線</text>
+<rect x="151.5" y="718.86" width="89.5" height="25" rx="12.5" fill="#00806B"/>
+<text x="162.5" y="736.22" font-size="13.5" fill="#FFFFFF" font-weight="800">隨機第三期</text>
+<rect x="248" y="718.86" width="103" height="25" rx="12.5" fill="#00806B"/>
+<text x="259" y="736.22" font-size="13.5" fill="#FFFFFF" font-weight="800">全球開放標示</text>
+<text x="82" y="768.86" font-size="14" fill="#527078">未曾接受全身治療的局部晚期或轉移性泌尿道上皮癌，886 人（</text>
+<text x="82" y="789.86" font-size="14" fill="#527078">enfortumab vedotin 加 pembrolizumab 442／化療 444）；化療組</text>
+<text x="82" y="810.86" font-size="14" fill="#527078">依能不能用 cisplatin 給 gemcitabine 加 cisplatin 或 carboplatin。</text>
+<text x="96" y="845.86" font-size="14" fill="#00806B" font-weight="800">註冊那一版（中位追蹤 17.2 個月）</text>
+<text x="96" y="866.16" font-size="14" fill="#345963">中位總存活 31.5 對 16.1 個月，風險比 0.47（0.38 到 0.58）</text>
+<rect x="82" y="829.86" width="4" height="43.3" rx="2" fill="#D8EDE7"/>
+<text x="96" y="903.16" font-size="14" fill="#00806B" font-weight="800">2.5 年追蹤的更新分析</text>
+<text x="96" y="923.46" font-size="14" fill="#345963">中位總存活 33.8 個月（95% 信賴區間 26.1 到 39.3）對 15.9（13.6</text>
+<text x="96" y="944.46" font-size="14" fill="#345963">到 18.3），風險比 0.51（0.43 到 0.61）；中位無惡化存活 12.5 對</text>
+<text x="96" y="965.46" font-size="14" fill="#345963">6.3 個月，風險比 0.48（0.41 到 0.57）</text>
+<rect x="82" y="887.16" width="4" height="85.3" rx="2" fill="#D8EDE7"/>
+<text x="82" y="1000.46" font-size="14" fill="#345963">兩組數字都對，但不可以混著用，引的時候要說是哪一次分析。追蹤拉長</text>
+<text x="82" y="1021.46" font-size="14" fill="#345963">之後中位數往上、風險比也往上（0.47 變 0.51），這是長期追蹤的正常</text>
+<text x="82" y="1042.46" font-size="14" fill="#345963">行為。</text>
+<text x="82" y="1070.46" font-size="14" fill="#345963">風險比是把兩組發生事件的速度相除，0.51 的意思是死亡發生的速度大約</text>
+<text x="82" y="1091.46" font-size="14" fill="#345963">是對照組的一半，不是「活兩倍久」。</text>
+<rect x="82" y="1109.46" width="456" height="239.3" rx="13" fill="#F6E2E0"/>
+<text x="96" y="1137.46" font-size="14" fill="#00806B" font-weight="800">確認的客觀反應率與完全反應率</text>
+<circle cx="100" cy="1154.46" r="3.2" fill="#00806B"/>
+<text x="112" y="1160.76" font-size="14" fill="#345963">67.7%（63.1 到 72.1）對 44.4%（39.7 到 49.2），分母是基準</text>
+<text x="112" y="1180.76" font-size="14" fill="#345963">時有可測量病灶的人（437 對 441）</text>
+<circle cx="100" cy="1201.46" r="3.2" fill="#00806B"/>
+<text x="112" y="1207.76" font-size="14" fill="#345963">完全反應率 29.1% 對 12.5%</text>
+<text x="96" y="1237.76" font-size="14" fill="#B04A4A" font-weight="800">反應率不是治癒率。完全反應不等於治癒——它的意思是影像上量不到</text>
+<text x="96" y="1258.76" font-size="14" fill="#B04A4A" font-weight="800">腫瘤了，而同一個試驗裡整群人的中位總存活仍然是 33.8 個月。</text>
+<text x="96" y="1285.76" font-size="14" fill="#345963">同一份仿單裡緊接著的另一個數字要一起讀：周邊神經病變在有結果</text>
+<text x="96" y="1306.76" font-size="14" fill="#345963">紀錄的 373 人中只有 13% 完全恢復，87% 在最後一次評估時仍有殘</text>
+<text x="96" y="1327.76" font-size="14" fill="#345963">留。</text>
+<g filter="url(#sh)">
+<rect x="62" y="1382.76" width="496" height="500.36" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="82" y="1420.76" font-size="18" fill="#5C77C4" font-weight="800">用不了那個組合的人：兩條有隨機證據的路</text>
+<rect x="82" y="1434.52" width="116.5" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="93" y="1451.88" font-size="13.5" fill="#FFFFFF" font-weight="800">都是隨機第三期</text>
+<text x="82" y="1484.52" font-size="14" fill="#527078">這兩條路收的是不同的人，標籤不能省。</text>
+<text x="96" y="1519.52" font-size="14" fill="#5C77C4" font-weight="800">JAVELIN Bladder 100：含鉑化療打完之後接 avelumab 維持</text>
+<text x="96" y="1539.82" font-size="14" fill="#345963">收的是第一線 gemcitabine 加 cisplatin 或 carboplatin 打了四到</text>
+<text x="96" y="1560.82" font-size="14" fill="#345963">六個療程、疾病沒有惡化的 700 人：一年存活率 71.3% 對 58.4%，中</text>
+<text x="96" y="1581.82" font-size="14" fill="#345963">位總存活 21.4 對 14.3 個月，風險比 0.69（0.56 到 0.86）；第 3 級</text>
+<text x="96" y="1602.82" font-size="14" fill="#345963">以上不良事件 47.4% 對 25.2%</text>
+<rect x="82" y="1503.52" width="4" height="106.3" rx="2" fill="#E3E8F6"/>
+<text x="96" y="1639.82" font-size="14" fill="#5C77C4" font-weight="800">CheckMate 901：適合 cisplatin 的人加上 nivolumab</text>
+<text x="96" y="1660.12" font-size="14" fill="#345963">608 人，中位追蹤 33.6 個月，中位總存活 21.7 對 18.9 個月，風險</text>
+<text x="96" y="1681.12" font-size="14" fill="#345963">比 0.78（0.63 到 0.96），P=0.02；完全反應 21.7% 對 11.8%，完</text>
+<text x="96" y="1702.12" font-size="14" fill="#345963">全反應的中位持續時間 37.1 對 13.2 個月；第 3 級以上不良事件</text>
+<text x="96" y="1723.12" font-size="14" fill="#345963">61.8% 對 51.7%</text>
+<rect x="82" y="1623.82" width="4" height="106.3" rx="2" fill="#E3E8F6"/>
+<text x="82" y="1758.12" font-size="14" fill="#345963">JAVELIN 誰不適用，要寫在同一段：化療期間就惡化的人、沒打滿四到</text>
+<text x="82" y="1779.12" font-size="14" fill="#345963">六個療程的人、第一線就用 enfortumab vedotin 加 pembrolizumab</text>
+<text x="82" y="1800.12" font-size="14" fill="#345963">的人。</text>
+<text x="82" y="1828.12" font-size="14" fill="#345963">CheckMate 901 只收適合 cisplatin 的人，而且對照組只有 9% 接受了</text>
+<text x="82" y="1849.12" font-size="14" fill="#345963">avelumab 維持——這讓它跟「化療接維持」的比較並不對等。</text>
+<g filter="url(#sh)">
+<rect x="62" y="1897.12" width="496" height="268.06" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="82" y="1935.12" font-size="18" fill="#96790F" font-weight="800">台灣藥證（食藥署）</text>
+<rect x="82" y="1948.88" width="62.5" height="25" rx="12.5" fill="#96790F"/>
+<text x="93" y="1966.24" font-size="13.5" fill="#FFFFFF" font-weight="800">藥證有</text>
+<text x="82" y="1998.88" font-size="14" fill="#527078">食藥署許可證 衛部菌疫輸字第001212號（enfortumab vedotin），異</text>
+<text x="82" y="2019.88" font-size="14" fill="#527078">動日 2026-05-08。</text>
+<text x="96" y="2054.88" font-size="14" fill="#96790F" font-weight="800">登載的適應症已經有這一條（逐字）</text>
+<text x="96" y="2075.18" font-size="14" fill="#345963">「併用 pembrolizumab 適用於治療局部晚期或轉移性泌尿道上皮癌</text>
+<text x="96" y="2096.18" font-size="14" fill="#345963">（mUC）的成人病人」</text>
+<rect x="82" y="2038.88" width="4" height="64.3" rx="2" fill="#F3E8CD"/>
+<text x="82" y="2131.18" font-size="14" fill="#345963">藥證是可以上市的資格，不等於健保付錢。下面那一層才是付錢的規則。</text>
+<rect x="40" y="2203.18" width="540" height="108.3" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<line x1="85" y1="2225.18" x2="85" y2="2243.18" stroke="#B04A4A" stroke-width="5" stroke-linecap="round"/>
+<line x1="85" y1="2257.18" x2="85" y2="2273.18" stroke="#B04A4A" stroke-width="5" stroke-linecap="round"/>
+<polygon points="85,2289.18 74,2271.18 96,2271.18" fill="#B04A4A"/>
+<line x1="65" y1="2250.18" x2="105" y2="2250.18" stroke="#B04A4A" stroke-width="3.4" stroke-linecap="round"/>
+<text x="128" y="2242.18" font-size="21" fill="#B04A4A" font-weight="800">藥證有，健保沒有</text>
+<text x="128" y="2265.48" font-size="14" fill="#345963">這篇的標題沒有寫成「第一線變了」，就是因為這個落差。在指引與藥</text>
+<text x="128" y="2286.48" font-size="14" fill="#345963">證上它是真的，在健保那一格它是假的。</text>
+<rect x="40" y="2327.48" width="540" height="1136.98" rx="24" fill="#ECE8DE" stroke="#8F7418" stroke-width="3"/>
+<rect x="62" y="2349.48" width="49" height="25" rx="12.5" fill="#8F7418"/>
+<text x="73" y="2366.84" font-size="13.5" fill="#FFFFFF" font-weight="800">下層</text>
+<text x="62" y="2405.48" font-size="21" fill="#8F7418" font-weight="800">台灣健保：沒換</text>
+<text x="62" y="2427.78" font-size="14" fill="#527078">條文逐字引，不推論。</text>
+<g filter="url(#sh)">
+<rect x="62" y="2448.78" width="496" height="345.31" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="82" y="2486.78" font-size="18" fill="#B04A4A" font-weight="800">9.109 enfortumab vedotin（113 年 5 月 1 日生效）</text>
+<rect x="82" y="2500.54" width="62.5" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="93" y="2517.9" font-size="13.5" fill="#FFFFFF" font-weight="800">第三線</text>
+<rect x="151.5" y="2500.54" width="49" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="162.5" y="2517.9" font-size="13.5" fill="#FFFFFF" font-weight="800">單用</text>
+<rect x="207.5" y="2500.54" width="103" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="218.5" y="2517.9" font-size="13.5" fill="#FFFFFF" font-weight="800">一生六個療程</text>
+<text x="100" y="2551.54" font-size="14" fill="#123641" font-weight="700">「適用於先前接受過含鉑化學治療，後續接受免疫檢查點抑制劑(如</text>
+<text x="100" y="2572.54" font-size="14" fill="#123641" font-weight="700">atezolizumab；nivolumab；pembrolizumab；avelumab；</text>
+<text x="100" y="2593.54" font-size="14" fill="#123641" font-weight="700">ipilimumab 製劑)治療失敗後疾病惡化的局部晚期或轉移性泌尿道上</text>
+<text x="100" y="2614.54" font-size="14" fill="#123641" font-weight="700">皮癌成人病人」</text>
+<rect x="82" y="2540.54" width="4" height="78" rx="2" fill="#B04A4A"/>
+<text x="100" y="2647.54" font-size="14" fill="#123641" font-weight="700">「每位病人限給付6個療程」</text>
+<text x="100" y="2668.04" font-size="13.5" fill="#527078">這是一生的上限，不是一個療程數建議。</text>
+<rect x="82" y="2636.54" width="4" height="35.25" rx="2" fill="#B04A4A"/>
+<text x="82" y="2702.79" font-size="14" fill="#B04A4A" font-weight="800">這一格對應的證據是哪一個試驗</text>
+<text x="82" y="2725.09" font-size="14" fill="#345963">EV-301：608 人，族群是打過鉑類「而且」在 PD-1／PD-L1 抑制劑期</text>
+<text x="82" y="2746.09" font-size="14" fill="#345963">間或之後惡化的人，中位總存活 12.88 對 8.97 個月，風險比 0.70（</text>
+<text x="82" y="2767.09" font-size="14" fill="#345963">0.56 到 0.89）。</text>
+<g filter="url(#sh)">
+<rect x="62" y="2808.09" width="496" height="324.31" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="82" y="2846.09" font-size="18" fill="#96790F" font-weight="800">9.69 有付的另外兩格</text>
+<rect x="82" y="2859.85" width="103" height="25" rx="12.5" fill="#96790F"/>
+<text x="93" y="2877.21" font-size="13.5" fill="#FFFFFF" font-weight="800">第一線併化療</text>
+<rect x="192" y="2859.85" width="76" height="25" rx="12.5" fill="#96790F"/>
+<text x="203" y="2877.21" font-size="13.5" fill="#FFFFFF" font-weight="800">維持療法</text>
+<text x="100" y="2910.85" font-size="14" fill="#123641" font-weight="700">「限 nivolumab 與 cisplatin 及 gemcitabine 併用至多 6 個療程，</text>
+<text x="100" y="2931.85" font-size="14" fill="#123641" font-weight="700">接續限單用 nivolumab，做為無法切除或轉移性泌尿道上皮癌成人病</text>
+<text x="100" y="2952.85" font-size="14" fill="#123641" font-weight="700">人的第一線治療」</text>
+<text x="100" y="2973.35" font-size="13.5" fill="#527078">並要求腎絲球過濾率 60 以上。</text>
+<rect x="82" y="2899.85" width="4" height="77.25" rx="2" fill="#96790F"/>
+<text x="100" y="3006.1" font-size="14" fill="#123641" font-weight="700">avelumab 維持那一條寫「4 至 6 個療程後，疾病未惡化，且達部分</text>
+<text x="100" y="3027.1" font-size="14" fill="#123641" font-weight="700">緩解（PR）或疾病呈穩定狀態者(SD)」</text>
+<rect x="82" y="2995.1" width="4" height="36" rx="2" fill="#96790F"/>
+<text x="82" y="3062.1" font-size="14" fill="#96790F" font-weight="800">條文跟試驗不一樣的地方，兩邊照原文並陳</text>
+<text x="82" y="3084.4" font-size="14" fill="#345963">JAVELIN Bladder 100 收的是「沒有惡化」，包含完全緩解；條文寫</text>
+<text x="82" y="3105.4" font-size="14" fill="#345963">的是 PR 或 SD。我不替它解釋。</text>
+<g filter="url(#sh)">
+<rect x="62" y="3146.4" width="496" height="296.06" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="82" y="3184.4" font-size="18" fill="#7A6E58" font-weight="800">第一線 enfortumab vedotin 併用 pembrolizumab</text>
+<rect x="82" y="3198.16" width="89.5" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="93" y="3215.52" font-size="13.5" fill="#FFFFFF" font-weight="800">全文檔搜尋</text>
+<rect x="82" y="3235.16" width="456" height="86" rx="13" fill="#FFFFFF" stroke="#7A6E58" stroke-width="2.6" stroke-dasharray="9 7"/>
+<text x="310" y="3287.16" font-size="36" fill="#7A6E58" font-weight="800" text-anchor="middle">零筆</text>
+<text x="82" y="3351.16" font-size="14" fill="#7A6E58" font-weight="800">零筆的意思</text>
+<text x="82" y="3373.46" font-size="14" fill="#345963">查不到列項，不是「確定不給付」，也不是「所以只能自費」——問醫務課，</text>
+<text x="82" y="3394.46" font-size="14" fill="#345963">怎麼申請要問他們。這張圖不寫任何金額，因為找不到可以引用的官方公</text>
+<text x="82" y="3415.46" font-size="14" fill="#345963">告。</text>
+<rect x="40" y="3486.46" width="540" height="140.3" rx="13" fill="#F3E8CD"/>
+<text x="55" y="3515.46" font-size="14" fill="#8F7418" font-weight="800">這一頁的有效期</text>
+<text x="55" y="3537.76" font-size="14" fill="#345963">上面每一條藥證與給付條文都停在 2026-09-13，試驗數字也只到那一天為止的發</text>
+<text x="55" y="3558.76" font-size="14" fill="#345963">表。</text>
+<text x="55" y="3583.76" font-size="14" fill="#345963">看到這張圖的時候先問現況，不要拿它當今天的規則用；也不要憑它自行停藥或改</text>
+<text x="55" y="3604.76" font-size="14" fill="#345963">療程。</text>
+<text x="40" y="3644.76" font-size="14" fill="#527078">示意圖，依 EV-302／KEYNOTE-A39 註冊分析與 2.5 年更新分析、FDA</text>
+<text x="40" y="3666.46" font-size="14" fill="#527078">enfortumab vedotin 仿單、JAVELIN Bladder 100、CheckMate 901、EV-301、</text>
+<text x="40" y="3688.16" font-size="14" fill="#527078">歐洲泌尿科醫學會 2026 年肌肉侵犯型與轉移性膀胱癌指引、健保《藥品給付規定》與</text>
+<text x="40" y="3709.86" font-size="14" fill="#527078">食藥署未註銷藥品許可證資料集重繪，非擷取自原論文圖表；各研究族群、設計與終點</text>
+<text x="40" y="3731.56" font-size="14" fill="#527078">不同，數點不可直接互比。</text>
+  </g>
+</svg>

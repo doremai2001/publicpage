@@ -1,0 +1,263 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="5182" viewBox="0 0 620 5182" role="img" aria-labelledby="t d">
+  <title id="t">Smoking and bladder cancer: two columns of unequal evidence</title>
+  <desc id="d">Schematic in two columns with a dashed rule between them labelled &quot;these two columns do not carry the same weight of evidence&quot;. A band across the top reads: a risk factor is a statistic calculated across a very large group of people; it is not anyone's fault. The left column, &quot;incidence: the evidence is strong&quot;, holds four cards. The first carries three independent studies: a meta-analysis of 89 observational studies and 57,145 bladder cancers, giving a pooled odds ratio of 3.14 (95% confidence interval 2.53 to 3.75) for current smokers and 1.83 (1.52 to 2.14) for former smokers, with the note that an odds ratio is not a multiple of a probability, which is why the absolute rates sit in the same frame; bars for the NIH-AARP prospective cohort (281,394 men, 186,134 women, 4.519 million person-years) showing 39.8 per 100,000 person-years in never-smokers, 119.8 in former smokers (hazard ratio 2.22) and 177.3 in current smokers (hazard ratio 4.06, 3.66 to 4.50); and a meta-analysis of 83 studies giving relative risks of 2.58 for all smokers, 3.47 for current smokers and 2.04 for former smokers. The second card: amount and duration matter but not in proportion - intensity plateaus beyond 15 cigarettes a day and cumulative exposure beyond 50 pack-years, the younger someone starts the higher the risk, cessation is most beneficial &quot;from 20 years before diagnosis&quot;, and even after long-term cessation an elevated risk remains, which does not mean quitting is pointless. The third card: the population attributable fraction is an estimate at population level and not a verdict on any one person - 43% in European men and 26% in European women, 0.50 in men and 0.52 in women in the American cohort, not to be swapped between populations or eras; and no local Taiwanese estimate could be found. The fourth card is the separate set of upper-tract figures: the EAU 2025 upper tract guideline puts the relative risk increase at 2.5 to 7.0 fold, and in a registry of 2,380 patients across 29 countries and 101 centres 53.3% were former or current smokers; but in a comparison cohort from Kaohsiung and Hirosaki (765 Taiwanese vs 325 Japanese patients) the Taiwanese patients had less smoking history, p less than 0.001. The right column, &quot;stopping smoking after diagnosis and recurrence: this cell is empty&quot;, holds four cards. The first is a forest plot with a single point: pooled sub-distribution hazard ratio for recurrence 0.99 (95% confidence interval 0.61 to 1.61), with the null line at 1.0; the population label records that up to January 2022 only 9 eligible studies covering about 5,500 bladder cancer patients were found, the great majority non-muscle-invasive with only 1 study including muscle-invasive disease, and that overall survival, cancer-specific survival and progression-free survival had 3 studies each with conflicting results. The second card carries in large type &quot;only 25 (14%) stopped&quot;: the British BCPP study enrolled 722 patients with non-muscle-invasive disease (pTa, pT1, CIS), median follow-up 4.21 years, cessation was unrelated to recurrence risk (p=0.352), and the authors concluded that too few people stopped for the study to answer the question. A red band follows: the evidence in this cell is empty - not &quot;stopping smoking does not help&quot;, and not &quot;stopping smoking keeps it from coming back&quot;. The third card sets two guideline sentences side by side: the EAU 2026 non-muscle-invasive guideline still states that smoking increases the risk of tumour recurrence and progression in NMIBC patients, while its recommendation is the single line &quot;counsel smokers to stop smoking&quot;, given for the general health risks of tobacco smoking. The fourth card is the cell where the evidence is positive: an intensive cessation programme achieved 36% cessation against 6% with standard advice, and whether someone manages to stop depends on whether anyone is alongside them rather than on willpower. The divider text states that the left column is three independent large studies, consistent in direction and on the same order of magnitude, while the right column is 9 studies and about 5,500 people showing no difference when pooled, with only 25 people who stopped in the single prospective cohort; the left column's figures may not be carried into the right column, and the right column's emptiness may not be read as &quot;stopping smoking does not help&quot;. A final cell below covers disease-specific mortality from the same meta-analysis of 83 studies: relative risk 1.47 (1.24 to 1.75) for all smokers, 1.53 (1.12 to 2.09) for current smokers and 1.44 (0.99 to 2.11, the confidence interval crossing 1) for former smokers; for those who have already stopped the estimate sits between the two and is statistically uncertain, which is an honest shape and neither good news nor bad news.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="5182" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">SMOKING AND BLADDER CANCER - TWO</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">COLUMNS THAT DO NOT CARRY THE SAME</text>
+<text x="40" y="114" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">WEIGHT OF EVIDENCE</text>
+<text x="40" y="164" font-size="40" fill="#123641" font-weight="800" class="r">Smoking and this</text>
+<text x="40" y="214.4" font-size="40" fill="#123641" font-weight="800" class="r">disease: the left column</text>
+<text x="40" y="264.8" font-size="40" fill="#123641" font-weight="800" class="r">is solid, the right column</text>
+<text x="40" y="315.2" font-size="40" fill="#123641" font-weight="800" class="r">is empty</text>
+<text x="40" y="375.6" font-size="19" fill="#527078">This figure separates two things that are routinely</text>
+<text x="40" y="404.1" font-size="19" fill="#527078">spoken of as one: the relation between smoking and</text>
+<text x="40" y="432.6" font-size="19" fill="#527078">whether someone develops this disease, and what</text>
+<text x="40" y="461.1" font-size="19" fill="#527078">happens when someone already diagnosed stops. The</text>
+<text x="40" y="489.6" font-size="19" fill="#527078">line between the columns is there to show that they do</text>
+<text x="40" y="518.1" font-size="19" fill="#527078">not carry the same weight of evidence.</text>
+<text x="40" y="552.6" font-size="19" fill="#527078">In Taiwan a large share of this disease occurs in</text>
+<text x="40" y="581.1" font-size="19" fill="#527078">people who have never smoked. Not one cell of this</text>
+<text x="40" y="609.6" font-size="19" fill="#527078">figure is here to look for a cause after the fact.</text>
+<rect x="40" y="658.1" width="540" height="208.72" rx="14" fill="#ECE8DE"/>
+<text x="56" y="695.1" font-size="21" fill="#123641" font-weight="800">A risk factor is a statistic calculated across a</text>
+<text x="56" y="725.34" font-size="21" fill="#123641" font-weight="800">very large group of people. It is not anyone's</text>
+<text x="56" y="755.58" font-size="21" fill="#123641" font-weight="800">fault.</text>
+<text x="56" y="780.82" font-size="14" fill="#345963">Talking about smoking slips easily into a post-mortem, and a</text>
+<text x="56" y="801.82" font-size="14" fill="#345963">post-mortem does nothing for treatment. This figure does not look</text>
+<text x="56" y="822.82" font-size="14" fill="#345963">backwards for a cause; it only sets the two cells of evidence side by</text>
+<text x="56" y="843.82" font-size="14" fill="#345963">side.</text>
+<rect x="40" y="890.82" width="540" height="135.6" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2.5"/>
+<text x="58" y="929.82" font-size="21" fill="#00806B" font-weight="800">Left column - incidence: the evidence is</text>
+<text x="58" y="957.12" font-size="21" fill="#00806B" font-weight="800">strong</text>
+<text x="58" y="980.42" font-size="14" fill="#527078">Three independent studies, three designs, landing on the same order</text>
+<text x="58" y="1001.42" font-size="14" fill="#527078">of magnitude.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1040.42" width="540" height="601.21" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="1078.42" font-size="18" fill="#00806B" font-weight="800">Three independent studies</text>
+<text x="60" y="1106.18" font-size="14" fill="#96790F" font-weight="800">Meta-analysis of 89 observational studies, 57,145 bladder cancers</text>
+<text x="60" y="1131.18" font-size="14" fill="#345963">Compared with never-smokers, the pooled odds ratio for current</text>
+<text x="60" y="1152.18" font-size="14" fill="#345963">smokers is 3.14 (95% confidence interval 2.53 to 3.75); for former</text>
+<text x="60" y="1173.18" font-size="14" fill="#345963">smokers it is 1.83 (1.52 to 2.14).</text>
+<text x="60" y="1202.18" font-size="14" fill="#123641" font-weight="700">An odds ratio divides one ratio of events to non-events by another; it</text>
+<text x="60" y="1223.18" font-size="14" fill="#123641" font-weight="700">is not a multiple of a probability - which is why the absolute rates sit</text>
+<text x="60" y="1244.18" font-size="14" fill="#123641" font-weight="700">in the same frame.</text>
+<text x="60" y="1277.18" font-size="14" fill="#96790F" font-weight="800">NIH-AARP prospective cohort (281,394 men, 186,134 women, 4.519</text>
+<text x="60" y="1298.18" font-size="14" fill="#96790F" font-weight="800">million person-years)</text>
+<text x="60" y="1331.18" font-size="14" fill="#527078" font-weight="700">Never smoked</text>
+<rect x="210" y="1313.18" width="220" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="210" y="1313.18" width="43.78" height="26" rx="7" fill="#00806B"/>
+<text x="442" y="1335.9" font-size="27" fill="#00806B" font-weight="800">39.8</text>
+<text x="60" y="1369.18" font-size="14" fill="#527078" font-weight="700">Former smoker</text>
+<rect x="210" y="1351.18" width="220" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="210" y="1351.18" width="131.78" height="26" rx="7" fill="#96790F"/>
+<text x="442" y="1373.9" font-size="27" fill="#96790F" font-weight="800">119.8</text>
+<text x="210" y="1394.68" font-size="13.5" fill="#527078">Hazard ratio 2.22</text>
+<text x="60" y="1428.78" font-size="14" fill="#527078" font-weight="700">Current smoker</text>
+<rect x="210" y="1410.78" width="220" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="210" y="1410.78" width="195.03" height="26" rx="7" fill="#B04A4A"/>
+<text x="442" y="1433.5" font-size="27" fill="#B04A4A" font-weight="800">177.3</text>
+<text x="210" y="1454.28" font-size="13.5" fill="#527078">Hazard ratio 4.06 (3.66 to 4.50)</text>
+<text x="60" y="1483.88" font-size="13.5" fill="#527078">Bladder cancer incidence per 100,000 person-years</text>
+<text x="60" y="1516.63" font-size="14" fill="#96790F" font-weight="800">Third: meta-analysis of 83 bladder cancer studies</text>
+<text x="60" y="1541.63" font-size="14" fill="#345963">Relative risk: all smokers 2.58, current smokers 3.47, former</text>
+<text x="60" y="1562.63" font-size="14" fill="#345963">smokers 2.04.</text>
+<text x="60" y="1593.63" font-size="14" fill="#00806B" font-weight="700">Three independent studies land on the same order of magnitude.</text>
+<text x="60" y="1614.63" font-size="14" fill="#00806B" font-weight="700">This column is not weak.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1655.63" width="540" height="293.76" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="1693.63" font-size="18" fill="#00806B" font-weight="800">Amount and duration matter, but not in proportion</text>
+<text x="60" y="1721.39" font-size="14" fill="#345963">Risk rises steadily with years of smoking, but intensity plateaus</text>
+<text x="60" y="1742.39" font-size="14" fill="#345963">beyond 15 cigarettes a day and cumulative exposure plateaus</text>
+<text x="60" y="1763.39" font-size="14" fill="#345963">beyond 50 pack-years - above that the increase is no longer</text>
+<text x="60" y="1784.39" font-size="14" fill="#345963">proportional. The younger someone starts, the higher the risk.</text>
+<text x="60" y="1811.39" font-size="14" fill="#345963">Two more sentences from the same analysis belong together:</text>
+<text x="60" y="1832.39" font-size="14" fill="#345963">cessation is most beneficial &quot;from 20 years before diagnosis&quot;, and</text>
+<text x="60" y="1853.39" font-size="14" fill="#345963">even after long-term cessation an elevated risk of bladder cancer</text>
+<text x="60" y="1874.39" font-size="14" fill="#345963">remains.</text>
+<text x="60" y="1901.39" font-size="14" fill="#345963">That second sentence does not mean &quot;so quitting is pointless&quot;. It</text>
+<text x="60" y="1922.39" font-size="14" fill="#345963">means the curve was never a reversible straight line.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1963.39" width="540" height="294.52" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="2001.39" font-size="18" fill="#00806B" font-weight="800">Population attributable fraction: an estimate at</text>
+<text x="60" y="2025.15" font-size="18" fill="#00806B" font-weight="800">population level, not a verdict on any one person</text>
+<circle cx="64" cy="2046.61" r="3.2" fill="#B9AE94"/>
+<text x="76" y="2052.91" font-size="14" fill="#345963">The European estimate is 43% in men and 26% in women.</text>
+<circle cx="64" cy="2073.61" r="3.2" fill="#B9AE94"/>
+<text x="76" y="2079.91" font-size="14" fill="#345963">In the American cohort it is 0.50 in men and 0.52 in women.</text>
+<circle cx="64" cy="2100.61" r="3.2" fill="#B9AE94"/>
+<text x="76" y="2106.91" font-size="14" fill="#345963">Different populations and different eras; the two must not be</text>
+<text x="76" y="2126.91" font-size="14" fill="#345963">swapped for each other.</text>
+<rect x="60" y="2144.91" width="500" height="93" rx="13" fill="#ECE8DE"/>
+<text x="75" y="2173.91" font-size="14" fill="#345963">Taiwan's own attributable fraction: no local estimate could be</text>
+<text x="75" y="2194.91" font-size="14" fill="#345963">found. So the European and American figures are not carried</text>
+<text x="75" y="2215.91" font-size="14" fill="#345963">over to Taiwan.</text>
+<g filter="url(#sh)">
+<rect x="40" y="2271.91" width="540" height="269.52" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="2309.91" font-size="18" fill="#5C77C4" font-weight="800">The upper tract is a separate set of figures, and the</text>
+<text x="60" y="2333.67" font-size="18" fill="#5C77C4" font-weight="800">label cannot be dropped</text>
+<text x="60" y="2361.43" font-size="14" fill="#345963">EAU upper tract guideline, 2025: tobacco exposure increases the</text>
+<text x="60" y="2382.43" font-size="14" fill="#345963">relative risk of developing upper tract urothelial carcinoma by 2.5</text>
+<text x="60" y="2403.43" font-size="14" fill="#345963">to 7.0 fold; in a registry of 2,380 patients across 29 countries and</text>
+<text x="60" y="2424.43" font-size="14" fill="#345963">101 centres, 53.3% were former or current smokers.</text>
+<text x="60" y="2451.43" font-size="14" fill="#345963">Taiwan is shaped differently: in a comparison cohort from two</text>
+<text x="60" y="2472.43" font-size="14" fill="#345963">hospitals, Kaohsiung and Hirosaki (765 Taiwanese patients vs 325</text>
+<text x="60" y="2493.43" font-size="14" fill="#345963">Japanese), the Taiwanese patients had less smoking history (p less</text>
+<text x="60" y="2514.43" font-size="14" fill="#345963">than 0.001).</text>
+<rect x="40" y="2563.43" width="540" height="280.84" rx="14" fill="#F7F1E4" stroke="#123641" stroke-width="2.5"/>
+<text x="56" y="2597.43" font-size="18" fill="#123641" font-weight="800">The two columns are drawn apart because they do</text>
+<text x="56" y="2623.35" font-size="18" fill="#123641" font-weight="800">not carry the same weight of evidence</text>
+<text x="56" y="2647.27" font-size="14" fill="#345963">Left: three independent large studies (a meta-analysis of 89 studies, a</text>
+<text x="56" y="2668.27" font-size="14" fill="#345963">prospective cohort, a meta-analysis of 83 studies), consistent in</text>
+<text x="56" y="2689.27" font-size="14" fill="#345963">direction and on the same order of magnitude.</text>
+<text x="56" y="2713.27" font-size="14" fill="#345963">Right: 9 studies in all, about 5,500 people, showing no difference</text>
+<text x="56" y="2734.27" font-size="14" fill="#345963">when pooled; and the single prospective cohort had only 25 people</text>
+<text x="56" y="2755.27" font-size="14" fill="#345963">who stopped, which its authors say cannot answer the question.</text>
+<text x="56" y="2779.27" font-size="14" fill="#345963">The left column's figures may not be carried into the right column,</text>
+<text x="56" y="2800.27" font-size="14" fill="#345963">and the right column's emptiness may not be read as &quot;stopping</text>
+<text x="56" y="2821.27" font-size="14" fill="#345963">smoking does not help&quot;.</text>
+<rect x="40" y="2866.27" width="540" height="135.6" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="58" y="2905.27" font-size="21" fill="#B04A4A" font-weight="800">Right column - stopping smoking after</text>
+<text x="58" y="2932.57" font-size="21" fill="#B04A4A" font-weight="800">diagnosis and recurrence: this cell is empty</text>
+<text x="58" y="2955.87" font-size="14" fill="#527078">The level of evidence here is nothing like the left column, which is</text>
+<text x="58" y="2976.87" font-size="14" fill="#527078">why it stands as its own column.</text>
+<g filter="url(#sh)">
+<rect x="40" y="3015.87" width="540" height="451.06" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="3053.87" font-size="18" fill="#B04A4A" font-weight="800">Systematic review and meta-analysis: one point only</text>
+<text x="60" y="3081.63" font-size="14" fill="#527078">Up to January 2022, the systematic review of cessation after</text>
+<text x="60" y="3102.63" font-size="14" fill="#527078">diagnosis and recurrence found only 9 eligible studies covering</text>
+<text x="60" y="3123.63" font-size="14" fill="#527078">about 5,500 bladder cancer patients, the great majority of them</text>
+<text x="60" y="3144.63" font-size="14" fill="#527078">non-muscle-invasive (only 1 study included muscle-invasive</text>
+<text x="60" y="3165.63" font-size="14" fill="#527078">disease).</text>
+<line x1="70" y1="3201.63" x2="550" y2="3201.63" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="123.16" y1="3196.63" x2="123.16" y2="3206.63" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="288.28" y1="3196.63" x2="288.28" y2="3206.63" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="453.41" y1="3196.63" x2="453.41" y2="3206.63" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="288.28" y1="3178.63" x2="288.28" y2="3224.63" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="170.53" y1="3201.63" x2="401.73" y2="3201.63" stroke="#B04A4A" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="170.53" y1="3193.63" x2="170.53" y2="3209.63" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<line x1="401.73" y1="3193.63" x2="401.73" y2="3209.63" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="285.89" cy="3201.63" r="7.5" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="310" y="3240.13" font-size="13.5" fill="#527078" text-anchor="middle">1.0 (no difference visible)</text>
+<text x="60" y="3268.93" font-size="18" fill="#B04A4A" font-weight="800">Pooled sub-distribution hazard ratio for recurrence</text>
+<text x="60" y="3295.93" font-size="18" fill="#B04A4A" font-weight="800">0.99 (95% confidence interval 0.61 to 1.61)</text>
+<text x="60" y="3328.93" font-size="14" fill="#345963">A sub-distribution hazard ratio compares recurrence risk once</text>
+<text x="60" y="3349.93" font-size="14" fill="#345963">competing events such as death are taken into account; 0.99 means</text>
+<text x="60" y="3370.93" font-size="14" fill="#345963">no lower recurrence risk can be seen in those who stopped than in</text>
+<text x="60" y="3391.93" font-size="14" fill="#345963">those who carried on.</text>
+<text x="60" y="3418.93" font-size="14" fill="#345963">Overall survival, cancer-specific survival and progression-free</text>
+<text x="60" y="3439.93" font-size="14" fill="#345963">survival had 3 studies each, and the results conflict.</text>
+<g filter="url(#sh)">
+<rect x="40" y="3480.93" width="540" height="276.26" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="3518.93" font-size="18" fill="#B04A4A" font-weight="800">The one prospective cohort, which explains why</text>
+<text x="60" y="3559.69" font-size="27" fill="#B04A4A" font-weight="800">Only 25 (14%) stopped</text>
+<circle cx="64" cy="3590.89" r="3.2" fill="#B9AE94"/>
+<text x="76" y="3597.19" font-size="14" fill="#345963">The British BCPP study enrolled 722 patients with</text>
+<text x="76" y="3617.19" font-size="14" fill="#345963">non-muscle-invasive disease (pTa, pT1, CIS), median follow-up</text>
+<text x="76" y="3637.19" font-size="14" fill="#345963">4.21 years.</text>
+<circle cx="64" cy="3657.89" r="3.2" fill="#B9AE94"/>
+<text x="76" y="3664.19" font-size="14" fill="#345963">Of those smoking at diagnosis, only 25 (14%) stopped during</text>
+<text x="76" y="3684.19" font-size="14" fill="#345963">follow-up; cessation was unrelated to recurrence risk (p=0.352).</text>
+<circle cx="64" cy="3704.89" r="3.2" fill="#B9AE94"/>
+<text x="76" y="3711.19" font-size="14" fill="#345963">The authors' own conclusion: too few people stopped, and this</text>
+<text x="76" y="3731.19" font-size="14" fill="#345963">study cannot answer the question.</text>
+<rect x="40" y="3771.19" width="540" height="122.92" rx="14" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="56" y="3805.19" font-size="18" fill="#B04A4A" font-weight="800">The evidence in this cell is empty</text>
+<text x="56" y="3829.11" font-size="14" fill="#345963">The correct way to put it is &quot;the evidence in this cell is empty&quot; - not</text>
+<text x="56" y="3850.11" font-size="14" fill="#345963">&quot;stopping smoking does not help&quot;, and not &quot;stopping smoking keeps it</text>
+<text x="56" y="3871.11" font-size="14" fill="#345963">from coming back&quot;.</text>
+<g filter="url(#sh)">
+<rect x="40" y="3908.11" width="540" height="290.76" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="3946.11" font-size="18" fill="#B04A4A" font-weight="800">What the guideline says, set beside it</text>
+<text x="78" y="3973.87" font-size="14" fill="#123641" font-weight="700">“smoking increases the risk of tumour recurrence and</text>
+<text x="78" y="3994.87" font-size="14" fill="#123641" font-weight="700">progression in NMIBC patients”</text>
+<rect x="60" y="3962.87" width="4" height="36" rx="2" fill="#B9AE94"/>
+<text x="60" y="4025.87" font-size="14" fill="#345963">The EAU 2026 non-muscle-invasive guideline still carries the</text>
+<text x="60" y="4046.87" font-size="14" fill="#345963">sentence above, but its recommendation is the single line below, and</text>
+<text x="60" y="4067.87" font-size="14" fill="#345963">it gives its reason as the general health risks of tobacco smoking</text>
+<text x="60" y="4088.87" font-size="14" fill="#345963">rather than any reduction in recurrence.</text>
+<text x="78" y="4119.87" font-size="14" fill="#123641" font-weight="700">“Counsel smokers to stop smoking”</text>
+<rect x="60" y="4108.87" width="4" height="15" rx="2" fill="#C9A83E"/>
+<text x="60" y="4150.87" font-size="14" fill="#527078">The guideline and the meta-analysis are not in conflict. They are</text>
+<text x="60" y="4171.87" font-size="14" fill="#527078">talking about two different things.</text>
+<g filter="url(#sh)">
+<rect x="40" y="4212.87" width="540" height="294.02" rx="18" fill="#FFFFFF" stroke="#00806B" stroke-width="2.5"/>
+</g>
+<text x="60" y="4250.87" font-size="18" fill="#00806B" font-weight="800">One cell where the evidence is positive: stopping is</text>
+<text x="60" y="4274.63" font-size="18" fill="#00806B" font-weight="800">itself achievable</text>
+<text x="60" y="4302.39" font-size="14" fill="#527078">A randomised trial cited by the non-muscle-invasive guideline: an</text>
+<text x="60" y="4323.39" font-size="14" fill="#527078">intensive cessation programme delivered around the time of</text>
+<text x="60" y="4344.39" font-size="14" fill="#527078">transurethral resection.</text>
+<text x="60" y="4370.89" font-size="14" fill="#527078" font-weight="700">Intensive cessation</text>
+<text x="60" y="4387.89" font-size="14" fill="#527078" font-weight="700">programme</text>
+<rect x="260" y="4361.39" width="200" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="260" y="4361.39" width="72" height="26" rx="7" fill="#00806B"/>
+<text x="472" y="4384.11" font-size="27" fill="#00806B" font-weight="800">36%</text>
+<text x="60" y="4422.89" font-size="14" fill="#527078" font-weight="700">Standard advice</text>
+<rect x="260" y="4404.89" width="200" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="260" y="4404.89" width="12" height="26" rx="7" fill="#7A6E58"/>
+<text x="472" y="4427.61" font-size="27" fill="#7A6E58" font-weight="800">6%</text>
+<text x="60" y="4458.89" font-size="14" fill="#00806B" font-weight="700">Whether someone manages to stop depends on whether anyone is</text>
+<text x="60" y="4479.89" font-size="14" fill="#00806B" font-weight="700">alongside them while they do it, not on willpower.</text>
+<g filter="url(#sh)">
+<rect x="40" y="4528.89" width="540" height="425.92" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="62" y="4568.89" font-size="18" fill="#123641" font-weight="800">One more cell: disease-specific mortality, where the</text>
+<text x="62" y="4592.65" font-size="18" fill="#123641" font-weight="800">figures are smaller and imprecise</text>
+<text x="62" y="4616.41" font-size="14" fill="#527078">Disease-specific mortality relative risks from the same</text>
+<text x="62" y="4637.41" font-size="14" fill="#527078">meta-analysis of 83 studies. The dashed line is 1.0.</text>
+<text x="62" y="4670.41" font-size="14" fill="#527078" font-weight="700">All smokers</text>
+<text x="238.64" y="4670.41" font-size="14" fill="#96790F" font-weight="800">1.47 (1.24 to 1.75)</text>
+<line x1="72" y1="4695.21" x2="548" y2="4695.21" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="124.72" y1="4690.21" x2="124.72" y2="4700.21" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="288.46" y1="4690.21" x2="288.46" y2="4700.21" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="452.21" y1="4690.21" x2="452.21" y2="4700.21" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="288.46" y1="4674.21" x2="288.46" y2="4716.21" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="339.28" y1="4695.21" x2="420.67" y2="4695.21" stroke="#96790F" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="339.28" y1="4687.21" x2="339.28" y2="4703.21" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<line x1="420.67" y1="4687.21" x2="420.67" y2="4703.21" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<circle cx="379.48" cy="4695.21" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="62" y="4740.21" font-size="14" fill="#527078" font-weight="700">Current smokers</text>
+<text x="238.64" y="4740.21" font-size="14" fill="#B04A4A" font-weight="800">1.53 (1.12 to 2.09)</text>
+<line x1="72" y1="4765.01" x2="548" y2="4765.01" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="124.72" y1="4760.01" x2="124.72" y2="4770.01" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="288.46" y1="4760.01" x2="288.46" y2="4770.01" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="452.21" y1="4760.01" x2="452.21" y2="4770.01" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="288.46" y1="4744.01" x2="288.46" y2="4786.01" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="315.24" y1="4765.01" x2="462.61" y2="4765.01" stroke="#B04A4A" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="315.24" y1="4757.01" x2="315.24" y2="4773.01" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<line x1="462.61" y1="4757.01" x2="462.61" y2="4773.01" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="388.93" cy="4765.01" r="7.5" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="62" y="4810.01" font-size="14" fill="#527078" font-weight="700">Former smokers</text>
+<text x="238.64" y="4810.01" font-size="14" fill="#7A6E58" font-weight="800">1.44 (0.99 to 2.11)  confidence interval crosses 1</text>
+<line x1="72" y1="4834.81" x2="548" y2="4834.81" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="124.72" y1="4829.81" x2="124.72" y2="4839.81" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="288.46" y1="4829.81" x2="288.46" y2="4839.81" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="452.21" y1="4829.81" x2="452.21" y2="4839.81" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="288.46" y1="4813.81" x2="288.46" y2="4855.81" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="286.09" y1="4834.81" x2="464.86" y2="4834.81" stroke="#7A6E58" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="286.09" y1="4826.81" x2="286.09" y2="4842.81" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<line x1="464.86" y1="4826.81" x2="464.86" y2="4842.81" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<circle cx="374.61" cy="4834.81" r="7.5" fill="#7A6E58" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="62" y="4883.81" font-size="14" fill="#345963">For those who have already stopped, the estimate sits between the</text>
+<text x="62" y="4904.81" font-size="14" fill="#345963">two and is statistically uncertain. That is an honest shape. It is</text>
+<text x="62" y="4925.81" font-size="14" fill="#345963">neither good news nor bad news.</text>
+<text x="40" y="4972.81" font-size="14" fill="#527078">Schematic, redrawn from van Osch 2016 (meta-analysis of 89 studies),</text>
+<text x="40" y="4994.51" font-size="14" fill="#527078">Freedman 2011 (NIH-AARP cohort), Cumberbatch 2016 (meta-analysis of</text>
+<text x="40" y="5016.21" font-size="14" fill="#527078">83 studies), Caini 2022 (meta-analysis of cessation after diagnosis), van</text>
+<text x="40" y="5037.91" font-size="14" fill="#527078">Osch 2018 (BCPP prospective cohort), the EAU Guidelines on</text>
+<text x="40" y="5059.61" font-size="14" fill="#527078">Non-muscle-invasive Bladder Cancer (2026), the EAU Guidelines on Upper</text>
+<text x="40" y="5081.31" font-size="14" fill="#527078">Urinary Tract Urothelial Carcinoma (2025) and the Taiwan-Japan</text>
+<text x="40" y="5103.01" font-size="14" fill="#527078">comparison cohort (Luo 2020); not reproduced from any published figure.</text>
+<text x="40" y="5124.71" font-size="14" fill="#527078">Populations, designs and endpoints differ between studies, so the points</text>
+<text x="40" y="5146.41" font-size="14" fill="#527078">are not directly comparable.</text>
+  </g>
+</svg>

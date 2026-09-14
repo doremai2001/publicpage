@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2532" viewBox="0 0 1440 2532" role="img" aria-labelledby="t d">
+  <title id="t">卡介苗：療程的形狀、副作用時間軸，與要立刻回診的訊號</title>
+  <desc id="d">示意圖，分三大格。第一格「療程的形狀：六週只是開頭」畫一條時間軸：誘導期六週、每週一次，接著維持期在第 3、6、12、18、24、30、36 個月各再連續灌三週，最多加起來 27 次；旁註寫療程長短不是評分，誰該灌、灌幾次由風險分層決定。時間軸下面兩張證據卡：SWOG 8507 是隨機試驗，660 人接受六週誘導，三個月時 550 人隨機分到維持或不維持，主要分析族群是隨機時無病的 384 人，中位無復發存活 35.7 個月（不維持）對 76.8 個月（維持），p 小於 0.0001，中位無惡化存活 111.5 個月對未達到，五年整體存活 78% 對 83%；卡片底下標明作者自己註記副作用大的人就把維持停掉了，所以試驗看不到重度毒性。第二張卡是 EORTC 30962，隨機 2×2 設計（三分之一劑量或全劑量 × 打一年或打三年），中、高風險 Ta 與 T1，意向治療 1,355 人，中位追蹤 7.1 年：高風險病人多打兩年可以減少復發（風險比 1.61，95% 信賴區間 1.13 到 2.30，p=0.009），但只有在用全劑量時成立；中風險用全劑量多打兩年沒有好處；進展與存活在四組之間沒有差異。第二格「灌完那幾天，以及有多少人撐得完」：三段時間軸——灌注後 4 到 6 小時膀胱刺激症狀開始，持續 24 到 72 小時，第三次灌注之後才明顯；大約 60% 的人會有膀胱刺激症狀。仿單 674 人（含 153 位原位癌病人）的不良事件表：排尿疼痛 60%（第 3 級以上 11%）、頻尿 40%（7%）、類流感症候群 33%（9%）、發燒 20%（8%）。完成率：指引寫超過一半的病人無法完成一年的維持療程，EORTC 30962 的三年維持組只有 34% 完成全程。同一格另列常被誤會成禁忌、其實不是的三件事（驗尿有白血球、看不見的血尿、沒有症狀的細菌尿），以及真正要延後的那一組，逐字引仿單「Treatment should be postponed for at least 1 week following transurethral resection, biopsy, traumatic catheterization, or gross hematuria」，指引則建議刮除後至少兩週才開始灌，禁忌欄另列免疫抑制狀態與活動性結核。第三格是紅框「什麼情況是同一天回診，不是等下次」，逐字列出仿單暗示全身性卡介苗感染的四種訊號：類流感的發燒症狀持續超過 72 小時；發燒達到 103°F（換算約 39.4°C），或體溫 38.5°C（101.3°F）以上、且持續超過兩到三天；全身性的症狀隨著每一次灌注愈來愈重，或肝功能指數持續異常；局部的急性發炎——攝護腺炎、副睪炎、睪丸炎——持續超過兩到三天。紅框上方引仿單原句「Deaths have been reported as a result of systemic BCG infection and sepsis.」，並寫仿單也說持續一到兩天的倦怠、發燒、發冷通常反映的是過敏反應。紅框下方寫你要做的只有一件：當天回去，並說清楚最後一次灌注是哪一天；停藥、培養、影像與會診是醫療端的處置，指引的門檻是持續高燒超過 38.5°C 且超過 48 小時就永久停止灌注。最後並列三個發生率：嚴重副作用不到 5%、全身性卡介苗感染 1% 到 2%、瑞典全國資料庫 5,033 名曝露者五年累積的結核病通報診斷率 1.1%。圖末聲明：這張圖不是用來判斷「我這樣算不算嚴重」的工具，嚴不嚴重由看得到你報告的那個人判斷。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2532" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">BCG INTRAVESICAL - COURSE, SIDE EFFECTS, RED FLAGS</text>
+<text x="84" y="140" font-size="40" fill="#123641" font-weight="800" class="r">卡介苗的療程形狀、灌完那幾天，以及什麼情況是同一天回診</text>
+<text x="84" y="200.4" font-size="19" fill="#527078">這張圖畫三件事：一輪卡介苗實際上有多長、灌完之後身體會怎樣、以及哪些訊號代表要當天回去，不是等下一次排定的門診。</text>
+<text x="84" y="232.9" font-size="19" fill="#527078">每一格都標了出處與那一群人是誰。各研究的族群、設計與終點不同，數點不可直接互比。</text>
+<rect x="84" y="281.4" width="1272" height="61" rx="16" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="110" y="311.4" font-size="16" fill="#B04A4A" font-weight="800">紅框裡那幾句是仿單逐字寫的訊號，不是我整理出來的門檻；仿單同一段寫著「Deaths have been reported as a result of systemic BCG infection and sepsis.」</text>
+<g filter="url(#sh)"><rect x="84" y="368.4" width="1272" height="703" rx="18" fill="#FFFFFF" stroke="#C9A83E" stroke-width="3"/></g>
+<text x="110" y="404.4" font-size="22" fill="#123641" font-weight="800">療程的形狀：六週只是開頭</text>
+<text x="110" y="442.4" font-size="15.5" fill="#527078">指引描述的完整排程：誘導期六週、每週一次；接著進入維持期，在第 3、6、12、18、24、30、36 個月各再連續灌三週，最多加起來 27 次。</text>
+<line x1="110" y1="529.4" x2="1330" y2="529.4" stroke="#B9AE94" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="110" y="499.4" width="268.4" height="60" rx="10" fill="#D8EDE7"/>
+<text x="124" y="521.4" font-size="17" fill="#00806B" font-weight="800">誘導</text>
+<text x="124" y="543.4" font-size="13.5" fill="#527078">六週，每週一次</text>
+<circle cx="362.4" cy="513.4" r="6" fill="#00806B"/>
+<circle cx="346.4" cy="513.4" r="6" fill="#00806B"/>
+<circle cx="330.4" cy="513.4" r="6" fill="#00806B"/>
+<circle cx="314.4" cy="513.4" r="6" fill="#00806B"/>
+<circle cx="298.4" cy="513.4" r="6" fill="#00806B"/>
+<circle cx="282.4" cy="513.4" r="6" fill="#00806B"/>
+<circle cx="456.51" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="470.51" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="484.51" cy="529.4" r="6" fill="#5C77C4"/>
+<line x1="470.51" y1="541.4" x2="470.51" y2="551.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="470.51" y="569.4" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">第 3 個月</text>
+<circle cx="588.74" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="602.74" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="616.74" cy="529.4" r="6" fill="#5C77C4"/>
+<line x1="602.74" y1="541.4" x2="602.74" y2="551.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="602.74" y="569.4" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">第 6 個月</text>
+<circle cx="720.97" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="734.97" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="748.97" cy="529.4" r="6" fill="#5C77C4"/>
+<line x1="734.97" y1="541.4" x2="734.97" y2="551.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="734.97" y="569.4" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">第 12 個月</text>
+<circle cx="853.2" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="867.2" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="881.2" cy="529.4" r="6" fill="#5C77C4"/>
+<line x1="867.2" y1="541.4" x2="867.2" y2="551.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="867.2" y="569.4" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">第 18 個月</text>
+<circle cx="985.43" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="999.43" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="1013.43" cy="529.4" r="6" fill="#5C77C4"/>
+<line x1="999.43" y1="541.4" x2="999.43" y2="551.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="999.43" y="569.4" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">第 24 個月</text>
+<circle cx="1117.66" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="1131.66" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="1145.66" cy="529.4" r="6" fill="#5C77C4"/>
+<line x1="1131.66" y1="541.4" x2="1131.66" y2="551.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1131.66" y="569.4" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">第 30 個月</text>
+<circle cx="1249.89" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="1263.89" cy="529.4" r="6" fill="#5C77C4"/>
+<circle cx="1277.89" cy="529.4" r="6" fill="#5C77C4"/>
+<line x1="1263.89" y1="541.4" x2="1263.89" y2="551.4" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="1263.89" y="569.4" font-size="13.5" fill="#5C77C4" font-weight="800" text-anchor="middle">第 36 個月</text>
+<text x="404.4" y="495.4" font-size="17" fill="#5C77C4" font-weight="800">維持</text>
+<text x="450.4" y="495.4" font-size="13.5" fill="#527078">每一次連續三週</text>
+<rect x="110" y="585.4" width="86.08" height="24" rx="12" fill="#C9A83E"/>
+<text x="120" y="602.44" font-size="14" fill="#FFFFFF" font-weight="800">最多 27 次</text>
+<text x="110" y="631.4" font-size="15" fill="#345963">療程長短不是評分。它是風險層、耐受度與藥物供應一起談出來的結果——誰該灌、灌幾次由風險分層決定。</text>
+<rect x="110" y="669.4" width="599" height="390" rx="14" fill="#F7F1E4" stroke="#DBD3BF" stroke-width="2"/>
+<text x="130" y="699.4" font-size="18" fill="#00806B" font-weight="800">維持有沒有用</text>
+<rect x="130" y="728.4" width="92.41" height="24" rx="12" fill="#00806B"/>
+<text x="140" y="745.08" font-size="13" fill="#FFFFFF" font-weight="800">SWOG 8507</text>
+<rect x="130" y="760.4" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="138" y="774.9" font-size="13" fill="#7A6E58" font-weight="800">研究設計</text>
+<text x="130" y="793.4" font-size="13.5" fill="#345963" font-weight="600">隨機試驗</text>
+<rect x="130" y="818.4" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="138" y="832.9" font-size="13" fill="#7A6E58" font-weight="800">族群</text>
+<text x="130" y="851.4" font-size="13.5" fill="#345963" font-weight="600">復發的 Ta、T1 與原位癌；660 人接受六週誘導，三個月時 550 人隨機分到維持或不維持</text>
+<rect x="130" y="876.4" width="94" height="20" rx="5" fill="#ECE8DE"/>
+<text x="138" y="890.9" font-size="13" fill="#7A6E58" font-weight="800">主要分析族群</text>
+<text x="130" y="909.4" font-size="13.5" fill="#345963" font-weight="600">隨機時無病的 384 人</text>
+<rect x="130" y="934.4" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="138" y="948.9" font-size="13" fill="#7A6E58" font-weight="800">結果</text>
+<text x="130" y="967.4" font-size="13.5" fill="#345963" font-weight="600">中位無復發存活 35.7 個月（不維持）對 76.8 個月（維持），p 小於 0.0001；中位無惡化存</text>
+<text x="130" y="986.4" font-size="13.5" fill="#345963" font-weight="600">活 111.5 個月對未達到；五年整體存活 78% 對 83%</text>
+<text x="130" y="1025.4" font-size="14" fill="#527078">作者自己註明：副作用大的人就把維持停掉了，所以這個試驗看不到重度毒性。</text>
+<rect x="731" y="669.4" width="599" height="390" rx="14" fill="#F7F1E4" stroke="#DBD3BF" stroke-width="2"/>
+<text x="751" y="699.4" font-size="18" fill="#5C77C4" font-weight="800">那要打多久</text>
+<rect x="751" y="728.4" width="106.19" height="24" rx="12" fill="#5C77C4"/>
+<text x="761" y="745.08" font-size="13" fill="#FFFFFF" font-weight="800">EORTC 30962</text>
+<rect x="751" y="760.4" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="759" y="774.9" font-size="13" fill="#7A6E58" font-weight="800">研究設計</text>
+<text x="751" y="793.4" font-size="13.5" fill="#345963" font-weight="600">隨機試驗，2×2 設計（三分之一劑量或全劑量 × 打一年或打三年）</text>
+<rect x="751" y="818.4" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="759" y="832.9" font-size="13" fill="#7A6E58" font-weight="800">族群</text>
+<text x="751" y="851.4" font-size="13.5" fill="#345963" font-weight="600">中、高風險 Ta 與 T1；意向治療 1,355 人</text>
+<rect x="751" y="876.4" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="759" y="890.9" font-size="13" fill="#7A6E58" font-weight="800">追蹤</text>
+<text x="751" y="909.4" font-size="13.5" fill="#345963" font-weight="600">中位 7.1 年</text>
+<rect x="751" y="934.4" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="759" y="948.9" font-size="13" fill="#7A6E58" font-weight="800">結果</text>
+<text x="751" y="967.4" font-size="13.5" fill="#345963" font-weight="600">高風險病人多打兩年可以減少復發（風險比 1.61，95% 信賴區間 1.13 到 2.30，p=0.009），</text>
+<text x="751" y="986.4" font-size="13.5" fill="#345963" font-weight="600">但只有在用全劑量時成立；中風險用全劑量多打兩年沒有好處</text>
+<text x="751" y="1025.4" font-size="14" fill="#527078">進展與存活在四組之間沒有差異。多出來的兩年買到的是少一些復發，不是少一些死亡。</text>
+<g filter="url(#sh)"><rect x="84" y="1097.4" width="1272" height="683" rx="18" fill="#FFFFFF"/></g>
+<text x="110" y="1133.4" font-size="22" fill="#123641" font-weight="800">灌完那幾天，以及有多少人撐得完</text>
+<text x="110" y="1171.4" font-size="15.5" fill="#527078">仿單寫得具體：大約 60% 的人會有膀胱刺激症狀。一次比一次難受是這個藥的常態，不是你變弱了。</text>
+<line x1="124" y1="1222.4" x2="1316" y2="1222.4" stroke="#96790F" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+<circle cx="124" cy="1222.4" r="8" fill="#96790F"/>
+<text x="110" y="1252.4" font-size="16" fill="#96790F" font-weight="800">灌注後 4 到 6 小時</text>
+<text x="110" y="1276.4" font-size="14" fill="#527078">膀胱刺激症狀開始</text>
+<circle cx="530.67" cy="1222.4" r="8" fill="#96790F"/>
+<text x="516.67" y="1252.4" font-size="16" fill="#96790F" font-weight="800">持續 24 到 72 小時</text>
+<text x="516.67" y="1276.4" font-size="14" fill="#527078">多半在這個區間內退掉</text>
+<circle cx="937.33" cy="1222.4" r="8" fill="#96790F"/>
+<text x="923.33" y="1252.4" font-size="16" fill="#96790F" font-weight="800">第三次灌注之後</text>
+<text x="923.33" y="1276.4" font-size="14" fill="#527078">仿單寫：多半到這時候才明顯</text>
+<text x="110" y="1312.4" font-size="16" fill="#123641" font-weight="800">仿單裡 674 人的不良事件表（含 153 位原位癌病人）</text>
+<text x="110" y="1336.4" font-size="13.5" fill="#527078">括號內是第 3 級以上的比例。</text>
+<text x="110" y="1382.4" font-size="14.5" fill="#345963" font-weight="700">排尿疼痛</text>
+<rect x="270" y="1368.4" width="324" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="270" y="1368.4" width="194.4" height="20" rx="5" fill="#96790F"/>
+<text x="604" y="1383.4" font-size="15" fill="#96790F" font-weight="800">60%</text>
+<text x="270" y="1405.4" font-size="13" fill="#527078">第 3 級以上 11%</text>
+<text x="110" y="1434.4" font-size="14.5" fill="#345963" font-weight="700">頻尿</text>
+<rect x="270" y="1420.4" width="324" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="270" y="1420.4" width="129.6" height="20" rx="5" fill="#96790F"/>
+<text x="604" y="1435.4" font-size="15" fill="#96790F" font-weight="800">40%</text>
+<text x="270" y="1457.4" font-size="13" fill="#527078">第 3 級以上 7%</text>
+<text x="110" y="1486.4" font-size="14.5" fill="#345963" font-weight="700">類流感症候群</text>
+<rect x="270" y="1472.4" width="324" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="270" y="1472.4" width="106.92" height="20" rx="5" fill="#96790F"/>
+<text x="604" y="1487.4" font-size="15" fill="#96790F" font-weight="800">33%</text>
+<text x="270" y="1509.4" font-size="13" fill="#527078">第 3 級以上 9%</text>
+<text x="110" y="1538.4" font-size="14.5" fill="#345963" font-weight="700">發燒</text>
+<rect x="270" y="1524.4" width="324" height="20" rx="5" fill="#ECE8DE"/>
+<rect x="270" y="1524.4" width="64.8" height="20" rx="5" fill="#96790F"/>
+<text x="604" y="1539.4" font-size="15" fill="#96790F" font-weight="800">20%</text>
+<text x="270" y="1561.4" font-size="13" fill="#527078">第 3 級以上 8%</text>
+<text x="740" y="1312.4" font-size="16" fill="#123641" font-weight="800">撐得完的人有多少</text>
+<circle cx="745" cy="1345.4" r="4.5" fill="#B04A4A"/>
+<text x="760" y="1350.4" font-size="15" fill="#345963">指引寫：超過一半的病人無法完成一年的維持療程。</text>
+<circle cx="745" cy="1375.4" r="4.5" fill="#B04A4A"/>
+<text x="760" y="1380.4" font-size="15" fill="#345963">EORTC 30962 的三年維持組，只有 34% 完成全程。</text>
+<text x="740" y="1418.4" font-size="16" fill="#123641" font-weight="800">常被誤會成禁忌、其實不是的三件事</text>
+<rect x="740" y="1448.4" width="101" height="24" rx="12" fill="#D8EDE7"/>
+<text x="750" y="1465.26" font-size="13.5" fill="#00806B" font-weight="800">驗尿有白血球</text>
+<rect x="849" y="1448.4" width="101" height="24" rx="12" fill="#D8EDE7"/>
+<text x="859" y="1465.26" font-size="13.5" fill="#00806B" font-weight="800">看不見的血尿</text>
+<rect x="958" y="1448.4" width="128" height="24" rx="12" fill="#D8EDE7"/>
+<text x="968" y="1465.26" font-size="13.5" fill="#00806B" font-weight="800">沒有症狀的細菌尿</text>
+<text x="740" y="1496.4" font-size="14" fill="#345963">這三件都不需要因此吃預防性抗生素；結核菌素皮膚試驗陽性也不該因此被排除。</text>
+<line x1="720" y1="1306.4" x2="720" y2="1565.4" stroke="#DBD3BF" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="110" y="1595.4" width="1220" height="179.0" rx="14" fill="#F3E8CD"/>
+<text x="128" y="1619.4" font-size="16" fill="#8F7418" font-weight="800">真正要延後的是這一組</text>
+<rect x="128" y="1651.4" width="6" height="43" rx="3" fill="#C9A83E"/>
+<text x="138" y="1669.4" font-size="15.5" fill="#123641" font-weight="700">Treatment should be postponed for at least 1 week following transurethral resection, biopsy, traumatic catheterization, or gross hematuria</text>
+<text x="128" y="1718.4" font-size="14.5" fill="#345963">仿單：黏膜正在出血時灌注可能促成全身性感染，所以刮除、切片、導尿受傷或肉眼血尿之後，至少要隔一週；指引則建議刮除後至少兩週才開始灌。禁忌欄另列免疫抑制狀態與活動性</text>
+<text x="128" y="1739.4" font-size="14.5" fill="#345963">結核。</text>
+<g filter="url(#sh)"><rect x="84" y="1806.4" width="1272" height="649" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="3.5"/></g>
+<text x="110" y="1842.4" font-size="23" fill="#B04A4A" font-weight="800">什麼情況是同一天回診，不是等下次</text>
+<text x="110" y="1881.4" font-size="15.5" fill="#345963">「發燒是正常反應」這句話不能整句成立，它要分成兩層。仿單寫：持續一到兩天的倦怠、發燒、發冷，通常反映的是過敏反應；但下面這四種，仿單寫的是暗示全身性卡介苗感</text>
+<text x="110" y="1904.4" font-size="15.5" fill="#345963">染，可能需要抗結核治療。</text>
+<rect x="110" y="1943.4" width="601" height="82" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<rect x="128" y="1961.4" width="30" height="30" rx="15" fill="#B04A4A"/>
+<text x="143" y="1982.4" font-size="20" fill="#FFFFFF" font-weight="800" text-anchor="middle">!</text>
+<text x="170" y="1967.4" font-size="16" fill="#123641" font-weight="700">類流感的發燒症狀持續超過 72 小時</text>
+<rect x="729" y="1943.4" width="601" height="82" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<rect x="747" y="1961.4" width="30" height="30" rx="15" fill="#B04A4A"/>
+<text x="762" y="1982.4" font-size="20" fill="#FFFFFF" font-weight="800" text-anchor="middle">!</text>
+<text x="789" y="1967.4" font-size="16" fill="#123641" font-weight="700">發燒達到 103°F（換算約 39.4°C），或體溫 38.5°C（101.3°F）以上、</text>
+<text x="789" y="1990.4" font-size="16" fill="#123641" font-weight="700">且持續超過兩到三天</text>
+<rect x="110" y="2043.4" width="601" height="60" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<rect x="128" y="2061.4" width="30" height="30" rx="15" fill="#B04A4A"/>
+<text x="143" y="2082.4" font-size="20" fill="#FFFFFF" font-weight="800" text-anchor="middle">!</text>
+<text x="170" y="2067.4" font-size="16" fill="#123641" font-weight="700">全身性的症狀隨著每一次灌注愈來愈重，或肝功能指數持續異常</text>
+<rect x="729" y="2043.4" width="601" height="60" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<rect x="747" y="2061.4" width="30" height="30" rx="15" fill="#B04A4A"/>
+<text x="762" y="2082.4" font-size="20" fill="#FFFFFF" font-weight="800" text-anchor="middle">!</text>
+<text x="789" y="2067.4" font-size="16" fill="#123641" font-weight="700">局部的急性發炎——攝護腺炎、副睪炎、睪丸炎——持續超過兩到三天</text>
+<rect x="110" y="2143.4" width="1220" height="71.0" rx="14" fill="#B04A4A"/>
+<text x="130" y="2171.4" font-size="19" fill="#FFFFFF" font-weight="800">你要做的只有一件：當天回去，並說清楚最後一次灌注是哪一天。</text>
+<text x="110" y="2228.4" font-size="14.5" fill="#345963">停藥、培養、影像與會診是醫療端的處置——指引的門檻是持續高燒超過 38.5°C 且超過 48 小時，就永久停止卡介苗灌注，並立即安排尿液培養、血液檢查與胸部 X 光、會診感染科。</text>
+<text x="110" y="2267.4" font-size="16" fill="#123641" font-weight="800">機率放在同一段，不另外藏</text>
+<rect x="110" y="2305.4" width="396" height="82" rx="12" fill="#ECE8DE"/>
+<text x="126" y="2331.4" font-size="14.5" fill="#96790F" font-weight="800">嚴重副作用</text>
+<text x="126" y="2355.4" font-size="14.5" fill="#345963">不到 5% 的病人，幾乎都能有效處理</text>
+<rect x="522" y="2305.4" width="396" height="82" rx="12" fill="#ECE8DE"/>
+<text x="538" y="2331.4" font-size="14.5" fill="#B04A4A" font-weight="800">全身性卡介苗感染</text>
+<text x="538" y="2355.4" font-size="14.5" fill="#345963">1% 到 2%</text>
+<rect x="934" y="2305.4" width="396" height="82" rx="12" fill="#ECE8DE"/>
+<text x="950" y="2331.4" font-size="14.5" fill="#5C77C4" font-weight="800">瑞典全國資料庫 5,033 名曝露者</text>
+<text x="950" y="2355.4" font-size="14.5" fill="#345963">五年累積的結核病通報診斷率 1.1%</text>
+<circle cx="125" cy="2420.4" r="15" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.4"/>
+<line x1="117.8" y1="2413.2" x2="132.2" y2="2427.6" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="117.8" y1="2427.6" x2="132.2" y2="2413.2" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<text x="154" y="2413.4" font-size="14.5" fill="#527078">這張圖不是用來判斷「我這樣算不算嚴重」的工具。訊號是給你當天打電話、當天回診用的；嚴不嚴重由看得到你報告的那個人判斷。</text>
+<text x="84" y="2473.4" font-size="15" fill="#527078">示意圖，依 TICE BCG 美國仿單（Revised 2/2026）、EAU 非肌肉侵犯型膀胱癌指引 2026 版、SWOG 8507（Lamm 2000）與 EORTC 30962（Oddens 2013）重繪，非擷取自原論文圖表；</text>
+<text x="84" y="2495.9" font-size="15" fill="#527078">各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

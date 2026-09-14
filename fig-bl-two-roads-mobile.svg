@@ -1,0 +1,289 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="6289" viewBox="0 0 620 6289" role="img" aria-labelledby="t d">
+  <title id="t">切掉膀胱還是保留膀胱：兩條路的證據形狀、選擇偏差的三個方向，與挽救性切除</title>
+  <desc id="d">示意圖，把肌肉侵犯型膀胱癌的兩條路——膀胱全切除與三聯療法（刮除加同步化放療）——排在同一張表上，每一格都帶研究設計、族群、追蹤時間與人數。圖的最上方就寫明：這一題沒有成功完成的隨機試驗，並逐字引 EAU 2026 指引原句「No successfully completed RCTs are available comparing the outcomes of TMT with RC.」同一格兩張卡：SPARE 是隨機可行性試驗，2007 年 7 月 20 日收第一位、2010 年 2 月 12 日依獨立資料監測委員會與試驗指導委員會的建議關閉收案，總共只收到 45 人；篩檢登記的 796 位 T2–T3 N0M0 病人裡，490 人不合格，165 人被詢問、45 人同意（27%），拒絕的 120 人中 51 人偏好放療、25 人偏好手術。第二張卡是 1991 年的 DAVECA 8201：隨機試驗、183 人、T2 到 T4a、1983 到 1986 年收案，但它比的是術前放療 40 Gy 加計畫性膀胱切除對足量放療 60 Gy、有殘存腫瘤時再切，沒有同步化療，所以不是今天講的三聯療法。第二格是 Zlotta 2023：回溯性、傾向分數配對加逆機率加權，不是隨機試驗；臨床 T2–T4 N0M0，2005 到 2017 年，722 人（切除 440、三聯療法 282），中位追蹤 4.4 年與 4.9 年。收案條件另框標出：單一腫瘤小於 7 公分、沒有或只有單側水腎、沒有廣泛或多發的原位癌；那 440 位切除的病人只佔同期所有膀胱全切除的 29%。配對後的結果並排：五年無轉移存活 74% 對 74%、五年癌症專一存活 83% 對 85%（p=0.057）、五年無病存活 76% 對 76%；底下寫明這只能讀成「在這一群被挑過的病人身上，這些終點看不出差別」，看不出差別不等於一樣好。第三格是兩條路各自帶著什麼。膀胱全切除那一欄：EAU 對 T2–T4a N0M0 是強建議，單靠這個手術大約一半的人能活過五年；90 天死亡率隨族群而異——大學中心被挑過的族群 2.5%、66 篇回溯研究彙總 4.7%、荷蘭全國登記 9,287 人 5.6%、SWOG S1011 隨機試驗裡擴大淋巴廓清那一組 7%（19/292）對標準廓清 2%（7/300）；90 天併發症彙總 58.5%（36.1% 到 80.5%）；切除的人拿到病理期別，那 440 人裡 44% 是 pT3–4、26% 淋巴結陽性。三聯療法那一欄：放療是 64 Gy 分 32 次六週半或 55 Gy 分 20 次四週，同時打增敏化療；RTOG 0712 隨機第二期試驗的治療相關第 3–4 級毒性一組 21/33（64%）、另一組 18/33（55%），配對世代統合分析的急性第 3 級以上毒性彙總 11.4%；挽救性膀胱切除在 73 篇、9,110 人、追蹤超過五年的研究裡彙總約 19.2%，大約每五個人有一個最後仍切掉膀胱，EAU 給的現代系列區間是 10% 到 30%，那一次手術的併發症率在 67% 到 72% 之間；三份指引對治療後的膀胱鏡都沒有給停止點，EAU 引 BC2001 的病人自填資料寫約三分之一的人在五年後膀胱症狀分數仍低於治療前；保留的人只有臨床期別。第四格把選擇偏差畫成三支箭，左端是「讓三聯療法看起來比較好」、右端是「讓膀胱全切除看起來比較好」。第一支箭指向左邊：只收配對世代研究的統合分析，87 篇、28,218 人，總存活風險比 1.05（95% 信賴區間 0.78–1.40）、癌症專一存活 1.05（0.69–1.58），看不出差別，偏差來自單中心與配對世代裡的三聯療法病人是被挑過、有動機、腫瘤條件好的人，而作者結語仍寫需要高品質對照試驗的證據。第二支箭指向右邊：NCDB 2004 到 2013 年、AJCC 第二到三期、32,300 人，配對後同步化放療對膀胱切除的死亡風險比 1.406（1.235–1.601）；SEER 2010 到 2022 年 T2N0M0、10,495 人，配對後五年總存活切除 62.6% 對三聯療法 36.7%；偏差在登記資料看不到的欄位裡——國際多中心的 RISC 世代量過，走保留那條路的人比較老、體能狀態比較差、共病比較多，三項 p 值都小於 0.01。第三支箭也指向右邊：Robesti 2025 重建 6 篇研究、8,594 人的存活曲線，12 個報告終點裡有 10 個存在追蹤中斷的不平衡（informative censoring），整體偏向膀胱切除；而校正之後膀胱切除仍然較優，五年總存活 42% 對 30%。圖上註明這一格對「保留膀胱做得太少」這個主張不利，所以一定要在圖上。第五格是生活品質：兩家醫院的橫斷面回溯研究，226 位兩條路都適合、無病存活至少兩年的人，回覆率 77%，173 人（三聯療法 64、切除 109），中位追蹤 5.6 年；傾向分數校正後三聯療法組的整體生活品質高 9.7 分（滿分 100，p=0.001）、性功能高 8.7 到 32.1 分、身體形象高 14.8 分，排尿症狀分數兩組相似；作者自己寫兩條路的長期生活品質都不錯，是不是比較好需要前瞻研究驗證，而兩組從診斷到填問卷還差了兩年。最後一格列出三句不准的讀法：「保留膀胱＝次等選擇」「保留膀胱＝一樣好」「不用開刀＝比較輕鬆」，各附一句理由；並揭露畫圖者的利益關係（三聯療法裡的放射治療是他自己在做的那一段），說明第三支箭與挽救性切除那一格都沒有被縮小；最後引 EAU「For all suitable candidates, both bladder-preserving techniques and RC should be discussed」與 NICE NG2 第 1.5.5 條「Offer a choice of radical cystectomy or radiotherapy with a radiosensitiser」，並寫明這張圖給的是要問醫師的問題，不是一個答案。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="6289" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">MUSCLE-INVASIVE BLADDER CANCER - TWO</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">ROADS, AND WHAT THE EVIDENCE ACTUALLY IS</text>
+<text x="40" y="142" font-size="40" fill="#123641" font-weight="800" class="r">兩條路排在同一張表上：每一</text>
+<text x="40" y="192.4" font-size="40" fill="#123641" font-weight="800" class="r">格的研究設計、族群、追蹤時</text>
+<text x="40" y="242.8" font-size="40" fill="#123641" font-weight="800" class="r">間與人數</text>
+<text x="40" y="303.2" font-size="19" fill="#527078">肌肉侵犯型膀胱癌的兩條路——膀胱全切除，或刮除加上同步化放</text>
+<text x="40" y="331.7" font-size="19" fill="#527078">療的三聯療法。這張圖不告訴你該走哪一條，它只做一件事：把</text>
+<text x="40" y="360.2" font-size="19" fill="#527078">每一個數字背後的設計、族群、追蹤時間、人數，以及三聯療法</text>
+<text x="40" y="388.7" font-size="19" fill="#527078">那一組是不是被挑過的，攤在數字旁邊。</text>
+<text x="40" y="421.2" font-size="19" fill="#527078">各研究的族群、設計與終點不同，數點不可直接互比。</text>
+<rect x="40" y="469.7" width="540" height="86" rx="16" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2.5"/>
+<text x="66" y="499.7" font-size="16" fill="#7A6E58" font-weight="800">這一題沒有成功完成的隨機試驗。今天能引的是配對世代與登記資料</text>
+<text x="66" y="524.7" font-size="16" fill="#7A6E58" font-weight="800">——它們的方向不一致，而且三個方向的偏差都要一起看。</text>
+<g filter="url(#sh)"><rect x="40" y="581.7" width="540" height="1077" rx="18" fill="#FFFFFF" stroke="#B04A4A" stroke-width="3"/></g>
+<text x="66" y="617.7" font-size="22" fill="#123641" font-weight="800">第一件事：沒有成功完成的隨機試驗</text>
+<rect x="66" y="659.7" width="6" height="118" rx="3" fill="#B04A4A"/>
+<text x="76" y="677.7" font-size="16.5" fill="#123641" font-weight="700">No successfully completed RCTs are available comparing</text>
+<text x="76" y="701.7" font-size="16.5" fill="#123641" font-weight="700">the outcomes of TMT with RC.</text>
+<text x="76" y="731.7" font-size="15.5" fill="#527078">EAU 2026 指引自己的句子：拿三聯療法跟膀胱全切除比，沒有成</text>
+<text x="76" y="753.7" font-size="15.5" fill="#527078">功完成的隨機試驗。</text>
+<rect x="66" y="801.7" width="488" height="431" rx="14" fill="#F7F1E4" stroke="#DBD3BF" stroke-width="2"/>
+<text x="86" y="833.7" font-size="17" fill="#B04A4A" font-weight="800">因收案不足收掉的那一個</text>
+<rect x="86" y="862.7" width="64.85" height="24" rx="12" fill="#B04A4A"/>
+<text x="96" y="879.38" font-size="13" fill="#FFFFFF" font-weight="800">SPARE</text>
+<rect x="86" y="894.7" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="94" y="909.2" font-size="13" fill="#7A6E58" font-weight="800">研究設計</text>
+<text x="86" y="927.7" font-size="13.5" fill="#345963" font-weight="600">隨機可行性試驗</text>
+<rect x="86" y="952.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="94" y="967.2" font-size="13" fill="#7A6E58" font-weight="800">收案</text>
+<text x="86" y="985.7" font-size="13.5" fill="#345963" font-weight="600">2007 年 7 月 20 日收第一位，2010 年 2 月 12 日依獨立資料監測委員會與</text>
+<text x="86" y="1004.7" font-size="13.5" fill="#345963" font-weight="600">試驗指導委員會的建議關閉收案</text>
+<rect x="86" y="1029.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="94" y="1044.2" font-size="13" fill="#7A6E58" font-weight="800">人數</text>
+<text x="86" y="1062.7" font-size="13.5" fill="#345963" font-weight="600">總共只收到 45 人</text>
+<rect x="86" y="1087.7" width="94" height="20" rx="5" fill="#ECE8DE"/>
+<text x="94" y="1102.2" font-size="13" fill="#7A6E58" font-weight="800">為什麼收不到</text>
+<text x="86" y="1120.7" font-size="13.5" fill="#345963" font-weight="600">篩檢登記的 796 位 T2–T3 N0M0 病人裡，490 人不合格，165 人被詢問、</text>
+<text x="86" y="1139.7" font-size="13.5" fill="#345963" font-weight="600">45 人同意（27%）；拒絕的 120 人中，51 人偏好放療、25 人偏好手術</text>
+<text x="86" y="1178.7" font-size="14" fill="#527078">作者的結論句：病人與醫師都有強烈偏好，不願意讓抽籤決定走哪一條，</text>
+<text x="86" y="1198.7" font-size="14" fill="#527078">而且醫師之間本來就缺乏「兩條路一樣好」的共識。</text>
+<rect x="66" y="1254.7" width="488" height="392" rx="14" fill="#F7F1E4" stroke="#DBD3BF" stroke-width="2"/>
+<text x="86" y="1286.7" font-size="17" fill="#7A6E58" font-weight="800">1991 年那個做完的隨機試驗，比的不是這個</text>
+<rect x="86" y="1315.7" width="107.62" height="24" rx="12" fill="#7A6E58"/>
+<text x="96" y="1332.38" font-size="13" fill="#FFFFFF" font-weight="800">DAVECA 8201</text>
+<rect x="86" y="1347.7" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="94" y="1362.2" font-size="13" fill="#7A6E58" font-weight="800">研究設計</text>
+<text x="86" y="1380.7" font-size="13.5" fill="#345963" font-weight="600">隨機試驗，做完了</text>
+<rect x="86" y="1405.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="94" y="1420.2" font-size="13" fill="#7A6E58" font-weight="800">族群</text>
+<text x="86" y="1438.7" font-size="13.5" fill="#345963" font-weight="600">183 人，T2 到 T4a，1983 到 1986 年收案</text>
+<rect x="86" y="1463.7" width="94" height="20" rx="5" fill="#ECE8DE"/>
+<text x="94" y="1478.2" font-size="13" fill="#7A6E58" font-weight="800">它比的是什麼</text>
+<text x="86" y="1496.7" font-size="13.5" fill="#345963" font-weight="600">「術前放療 40 Gy 加計畫性膀胱切除」對「足量放療 60 Gy、有殘存腫瘤</text>
+<text x="86" y="1515.7" font-size="13.5" fill="#345963" font-weight="600">時再切」</text>
+<rect x="86" y="1540.7" width="81" height="20" rx="5" fill="#ECE8DE"/>
+<text x="94" y="1555.2" font-size="13" fill="#7A6E58" font-weight="800">為什麼不算</text>
+<text x="86" y="1573.7" font-size="13.5" fill="#345963" font-weight="600">沒有同步化療——那不是今天講的三聯療法</text>
+<text x="86" y="1612.7" font-size="14" fill="#527078">所以它不能拿來當「兩條路的隨機證據」。</text>
+<g filter="url(#sh)"><rect x="40" y="1684.7" width="540" height="813" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="1720.7" font-size="22" fill="#123641" font-weight="800">證據等級最高的那份比較，比的是被挑過的一群人</text>
+<text x="66" y="1758.7" font-size="15.5" fill="#527078">Zlotta 2023：回溯性、美加三家大學中心、用傾向分數配對加逆機率加</text>
+<text x="66" y="1781.7" font-size="15.5" fill="#527078">權的分析。傾向分數配對是把兩組在年齡、期別、水腎等欄位上湊成條</text>
+<text x="66" y="1804.7" font-size="15.5" fill="#527078">件相近的人再比，它壓得住看得到的差異，壓不住沒記錄到的，不是隨</text>
+<text x="66" y="1827.7" font-size="15.5" fill="#527078">機試驗。</text>
+<rect x="66" y="1866.7" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="74" y="1881.2" font-size="13" fill="#7A6E58" font-weight="800">研究設計</text>
+<text x="144" y="1881.2" font-size="13.5" fill="#345963" font-weight="600">回溯性，傾向分數配對加逆機率加權（不是隨機試驗）</text>
+<rect x="66" y="1892.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="74" y="1907.2" font-size="13" fill="#7A6E58" font-weight="800">族群</text>
+<text x="118" y="1907.2" font-size="13.5" fill="#345963" font-weight="600">臨床 T2–T4 N0M0 尿路上皮癌，2005 到 2017 年</text>
+<rect x="66" y="1918.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="74" y="1933.2" font-size="13" fill="#7A6E58" font-weight="800">人數</text>
+<text x="118" y="1933.2" font-size="13.5" fill="#345963" font-weight="600">722 人（切除 440、三聯療法 282）</text>
+<rect x="66" y="1944.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="74" y="1959.2" font-size="13" fill="#7A6E58" font-weight="800">追蹤</text>
+<text x="118" y="1959.2" font-size="13.5" fill="#345963" font-weight="600">中位 4.4 年與 4.9 年</text>
+<rect x="66" y="2004.7" width="488" height="210.99999999999977" rx="14" fill="#F3E8CD"/>
+<text x="84" y="2028.7" font-size="16" fill="#8F7418" font-weight="800">收案條件本身就是重點，每次引用都要帶著</text>
+<rect x="84" y="2056.7" width="143.39" height="24" rx="12" fill="#C9A83E"/>
+<text x="94" y="2073.56" font-size="13.5" fill="#FFFFFF" font-weight="800">單一腫瘤小於 7 公分</text>
+<rect x="235.39" y="2056.7" width="141.5" height="24" rx="12" fill="#C9A83E"/>
+<text x="245.39" y="2073.56" font-size="13.5" fill="#FFFFFF" font-weight="800">沒有或只有單側水腎</text>
+<rect x="84" y="2088.7" width="168.5" height="24" rx="12" fill="#C9A83E"/>
+<text x="94" y="2105.56" font-size="13.5" fill="#FFFFFF" font-weight="800">沒有廣泛或多發的原位癌</text>
+<text x="84" y="2138.7" font-size="14.5" fill="#345963">也就是兩條路在腫瘤條件上都走得通的人。那 440 位切除的病人只佔</text>
+<text x="84" y="2159.7" font-size="14.5" fill="#345963">同期所有膀胱全切除的 29%——每十個切掉膀胱的人，大約只有三個在</text>
+<text x="84" y="2180.7" font-size="14.5" fill="#345963">腫瘤條件上本來就兩條路都能走。</text>
+<text x="369" y="2241.7" font-size="14" fill="#5C77C4" font-weight="800" text-anchor="middle">膀胱全切除</text>
+<text x="499" y="2241.7" font-size="14" fill="#00806B" font-weight="800" text-anchor="middle">三聯療法</text>
+<rect x="66" y="2253.7" width="488" height="44" rx="8" fill="#ECE8DE"/>
+<text x="76" y="2281.7" font-size="14.5" fill="#345963" font-weight="700">五年無轉移存活</text>
+<text x="369" y="2283.7" font-size="19" fill="#5C77C4" font-weight="800" text-anchor="middle">74%</text>
+<text x="499" y="2283.7" font-size="19" fill="#00806B" font-weight="800" text-anchor="middle">74%</text>
+<rect x="66" y="2301.7" width="488" height="44" rx="8" fill="#FFFFFF"/>
+<text x="76" y="2329.7" font-size="14.5" fill="#345963" font-weight="700">五年癌症專一存活</text>
+<text x="369" y="2331.7" font-size="19" fill="#5C77C4" font-weight="800" text-anchor="middle">83%</text>
+<text x="499" y="2331.7" font-size="19" fill="#00806B" font-weight="800" text-anchor="middle">85%（p=0.057）</text>
+<rect x="66" y="2349.7" width="488" height="44" rx="8" fill="#ECE8DE"/>
+<text x="76" y="2377.7" font-size="14.5" fill="#345963" font-weight="700">五年無病存活</text>
+<text x="369" y="2379.7" font-size="19" fill="#5C77C4" font-weight="800" text-anchor="middle">76%</text>
+<text x="499" y="2379.7" font-size="19" fill="#00806B" font-weight="800" text-anchor="middle">76%</text>
+<text x="66" y="2417.7" font-size="15" fill="#345963">這句話只能寫成「在這一群被挑過的病人身上，這些終點看不出差別」。</text>
+<text x="66" y="2439.7" font-size="15" fill="#345963">看不出差別不等於一樣好——被挑過的族群、回溯性的設計、四到五年的追</text>
+<text x="66" y="2461.7" font-size="15" fill="#345963">蹤，每一項都限制它能講多硬。</text>
+<text x="40" y="2541.7" font-size="25" fill="#123641" font-weight="800" class="r">兩條路各自帶著什麼</text>
+<g filter="url(#sh)"><rect x="40" y="2582.7" width="540" height="403" rx="18" fill="#FFFFFF"/></g>
+<rect x="40" y="2582.7" width="540" height="6" rx="3" fill="#5C77C4"/>
+<text x="60" y="2624.7" font-size="21" fill="#5C77C4" font-weight="800">膀胱全切除</text>
+<text x="60" y="2654.7" font-size="14" fill="#527078">標準治療</text>
+<rect x="60" y="2686.7" width="81" height="20" rx="5" fill="#ECE8DE"/>
+<text x="68" y="2701.2" font-size="13" fill="#7A6E58" font-weight="800">指引怎麼寫</text>
+<text x="60" y="2719.7" font-size="13.5" fill="#345963" font-weight="600">EAU 對 T2–T4a N0M0 是強建議做膀胱全切除；理由不是傳統——單靠這個手術，大</text>
+<text x="60" y="2738.7" font-size="13.5" fill="#345963" font-weight="600">約一半的人能活過五年</text>
+<rect x="60" y="2763.7" width="216.72" height="20" rx="5" fill="#ECE8DE"/>
+<text x="68" y="2778.2" font-size="13" fill="#7A6E58" font-weight="800">90 天死亡率：關鍵在那一群人是誰</text>
+<text x="60" y="2796.7" font-size="13.5" fill="#345963" font-weight="600">大學中心被挑過的族群 2.5%；66 篇回溯研究的彙總 4.7%；荷蘭全國登記 9,287 人</text>
+<text x="60" y="2815.7" font-size="13.5" fill="#345963" font-weight="600">5.6%；SWOG S1011 這個隨機試驗裡，做擴大淋巴廓清那一組 7%（19/292）、標</text>
+<text x="60" y="2834.7" font-size="13.5" fill="#345963" font-weight="600">準廓清那一組 2%（7/300）</text>
+<rect x="60" y="2859.7" width="86.72" height="20" rx="5" fill="#ECE8DE"/>
+<text x="68" y="2874.2" font-size="13" fill="#7A6E58" font-weight="800">90 天併發症</text>
+<text x="60" y="2892.7" font-size="13.5" fill="#345963" font-weight="600">彙總 58.5%（各研究 36.1% 到 80.5%）</text>
+<rect x="60" y="2917.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="68" y="2932.2" font-size="13" fill="#7A6E58" font-weight="800">期別</text>
+<text x="60" y="2950.7" font-size="13.5" fill="#345963" font-weight="600">切除的人拿到的是病理期別：那 440 人裡 44% 是 pT3–4、26% 淋巴結陽性</text>
+<g filter="url(#sh)"><rect x="40" y="3011.7" width="540" height="499" rx="18" fill="#FFFFFF"/></g>
+<rect x="40" y="3011.7" width="540" height="6" rx="3" fill="#00806B"/>
+<text x="60" y="3053.7" font-size="21" fill="#00806B" font-weight="800">三聯療法（保留膀胱）</text>
+<text x="60" y="3083.7" font-size="14" fill="#527078">刮除＋同步化放療</text>
+<rect x="60" y="3115.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="68" y="3130.2" font-size="13" fill="#7A6E58" font-weight="800">療程</text>
+<text x="60" y="3148.7" font-size="13.5" fill="#345963" font-weight="600">放療是 64 Gy 分 32 次、六週半，或 55 Gy 分 20 次、四週，同時打增敏化療</text>
+<rect x="60" y="3173.7" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="68" y="3188.2" font-size="13" fill="#7A6E58" font-weight="800">急性毒性</text>
+<text x="60" y="3206.7" font-size="13.5" fill="#345963" font-weight="600">RTOG 0712 這個隨機第二期試驗裡，治療相關第 3–4 級毒性一組 21/33（64%）、</text>
+<text x="60" y="3225.7" font-size="13.5" fill="#345963" font-weight="600">另一組 18/33（55%），以血液學毒性為主；配對世代統合分析的急性第 3 級以上毒</text>
+<text x="60" y="3244.7" font-size="13.5" fill="#345963" font-weight="600">性彙總估計 11.4%</text>
+<rect x="60" y="3269.7" width="107" height="20" rx="5" fill="#ECE8DE"/>
+<text x="68" y="3284.2" font-size="13" fill="#7A6E58" font-weight="800">挽救性膀胱切除</text>
+<text x="60" y="3302.7" font-size="13.5" fill="#345963" font-weight="600">73 篇、9,110 人、追蹤超過五年的研究彙總起來約 19.2%——大約每五個人有一個，</text>
+<text x="60" y="3321.7" font-size="13.5" fill="#345963" font-weight="600">最後還是切掉了膀胱；EAU 給的現代系列區間是 10% 到 30%；那一次手術的併發症</text>
+<text x="60" y="3340.7" font-size="13.5" fill="#345963" font-weight="600">率在 67% 到 72% 之間</text>
+<rect x="60" y="3365.7" width="120" height="20" rx="5" fill="#ECE8DE"/>
+<text x="68" y="3380.2" font-size="13" fill="#7A6E58" font-weight="800">療程結束不是結束</text>
+<text x="60" y="3398.7" font-size="13.5" fill="#345963" font-weight="600">三份指引對治療後的膀胱鏡都沒有給停止點；EAU 引 BC2001 的病人自填資料：約</text>
+<text x="60" y="3417.7" font-size="13.5" fill="#345963" font-weight="600">三分之一的人在五年後膀胱症狀分數仍低於治療前</text>
+<rect x="60" y="3442.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="68" y="3457.2" font-size="13" fill="#7A6E58" font-weight="800">期別</text>
+<text x="60" y="3475.7" font-size="13.5" fill="#345963" font-weight="600">保留的人只有臨床期別，沒有人知道他真正的期別</text>
+<g filter="url(#sh)"><rect x="40" y="3536.7" width="540" height="1504" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="3572.7" font-size="22" fill="#123641" font-weight="800">選擇偏差有三個方向，不是一個</text>
+<text x="66" y="3610.7" font-size="15.5" fill="#527078">每一支箭指的是「這一類資料會讓哪一條路看起來比較好」。三支箭不</text>
+<text x="66" y="3633.7" font-size="15.5" fill="#527078">指向同一邊，所以沒有一個方向可以單獨拿來當結論。</text>
+<rect x="66" y="3672.7" width="488" height="426" rx="14" fill="#F7F1E4" stroke="#DBD3BF" stroke-width="2"/>
+<circle cx="98" cy="3704.7" r="14" fill="#00806B"/>
+<text x="98" y="3710.7" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">①</text>
+<text x="122" y="3698.7" font-size="17" fill="#00806B" font-weight="800">配對世代偏向保留</text>
+<line x1="84" y1="3743.7" x2="536" y2="3743.7" stroke="#DBD3BF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="310" cy="3743.7" r="5" fill="#B9AE94"/>
+<line x1="302" y1="3743.7" x2="101.96" y2="3743.7" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<polygon points="90,3743.7 101.87,3738.4 101.87,3749" fill="#00806B"/>
+<text x="84" y="3769.7" font-size="13.5" fill="#00806B" font-weight="800">讓三聯療法看起來比較好</text>
+<text x="322" y="3769.7" font-size="13.5" fill="#B9AE94" font-weight="600">讓膀胱全切除看起來比較好</text>
+<rect x="84" y="3801.7" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="3816.2" font-size="13" fill="#7A6E58" font-weight="800">研究設計</text>
+<text x="84" y="3834.7" font-size="13.5" fill="#345963" font-weight="600">只收配對世代研究的統合分析</text>
+<rect x="84" y="3859.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="3874.2" font-size="13" fill="#7A6E58" font-weight="800">人數</text>
+<text x="84" y="3892.7" font-size="13.5" fill="#345963" font-weight="600">87 篇、28,218 人</text>
+<rect x="84" y="3917.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="3932.2" font-size="13" fill="#7A6E58" font-weight="800">結果</text>
+<text x="84" y="3950.7" font-size="13.5" fill="#345963" font-weight="600">總存活風險比 1.05（95% 信賴區間 0.78–1.40）、癌症專一存活 1.05（</text>
+<text x="84" y="3969.7" font-size="13.5" fill="#345963" font-weight="600">0.69–1.58），看不出差別</text>
+<rect x="84" y="3994.7" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="4009.2" font-size="13" fill="#7A6E58" font-weight="800">偏在哪裡</text>
+<text x="84" y="4027.7" font-size="13.5" fill="#345963" font-weight="600">單中心與配對世代裡的三聯療法病人是被挑過、有動機、腫瘤條件好的人</text>
+<text x="84" y="4064.7" font-size="14" fill="#527078">作者結語仍寫「需要高品質對照試驗的證據」。</text>
+<rect x="66" y="4118.7" width="488" height="464" rx="14" fill="#F7F1E4" stroke="#DBD3BF" stroke-width="2"/>
+<circle cx="98" cy="4150.7" r="14" fill="#5C77C4"/>
+<text x="98" y="4156.7" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">②</text>
+<text x="122" y="4144.7" font-size="17" fill="#5C77C4" font-weight="800">登記資料偏向切除</text>
+<line x1="84" y1="4189.7" x2="536" y2="4189.7" stroke="#DBD3BF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="310" cy="4189.7" r="5" fill="#B9AE94"/>
+<line x1="318" y1="4189.7" x2="518.04" y2="4189.7" stroke="#5C77C4" stroke-width="5" stroke-linecap="round"/>
+<polygon points="530,4189.7 518.13,4195 518.13,4184.4" fill="#5C77C4"/>
+<text x="84" y="4215.7" font-size="13.5" fill="#B9AE94" font-weight="600">讓三聯療法看起來比較好</text>
+<text x="322" y="4215.7" font-size="13.5" fill="#5C77C4" font-weight="800">讓膀胱全切除看起來比較好</text>
+<rect x="84" y="4247.7" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="4262.2" font-size="13" fill="#7A6E58" font-weight="800">研究設計</text>
+<text x="84" y="4280.7" font-size="13.5" fill="#345963" font-weight="600">全國登記資料，傾向分數配對</text>
+<rect x="84" y="4305.7" width="81" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="4320.2" font-size="13" fill="#7A6E58" font-weight="800">人數與族群</text>
+<text x="84" y="4338.7" font-size="13.5" fill="#345963" font-weight="600">NCDB 2004 到 2013 年、AJCC 第二到三期、32,300 人；SEER 2010 到</text>
+<text x="84" y="4357.7" font-size="13.5" fill="#345963" font-weight="600">2022 年 T2N0M0、10,495 人</text>
+<rect x="84" y="4382.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="4397.2" font-size="13" fill="#7A6E58" font-weight="800">結果</text>
+<text x="84" y="4415.7" font-size="13.5" fill="#345963" font-weight="600">NCDB 配對後同步化放療對膀胱切除的死亡風險比 1.406（1.235–1.601）；</text>
+<text x="84" y="4434.7" font-size="13.5" fill="#345963" font-weight="600">SEER 配對後五年總存活切除 62.6% 對三聯療法 36.7%</text>
+<rect x="84" y="4459.7" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="4474.2" font-size="13" fill="#7A6E58" font-weight="800">偏在哪裡</text>
+<text x="84" y="4492.7" font-size="13.5" fill="#345963" font-weight="600">原因在登記資料看不到的欄位裡：國際多中心的 RISC 世代量過，走保留那</text>
+<text x="84" y="4511.7" font-size="13.5" fill="#345963" font-weight="600">條路的人比較老、體能狀態比較差、共病比較多，三項 p 值都小於 0.01</text>
+<text x="84" y="4548.7" font-size="14" fill="#527078">登記資料記得下期別與治療，記不下體能狀態與共病。</text>
+<rect x="66" y="4602.7" width="488" height="426" rx="14" fill="#F7F1E4" stroke="#DBD3BF" stroke-width="2"/>
+<circle cx="98" cy="4634.7" r="14" fill="#B04A4A"/>
+<text x="98" y="4640.7" font-size="16" fill="#FFFFFF" font-weight="800" text-anchor="middle">③</text>
+<text x="122" y="4628.7" font-size="17" fill="#B04A4A" font-weight="800">統計方法本身也偏向切除——而且校正之後切除仍然較優</text>
+<line x1="84" y1="4673.7" x2="536" y2="4673.7" stroke="#DBD3BF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="310" cy="4673.7" r="5" fill="#B9AE94"/>
+<line x1="318" y1="4673.7" x2="518.04" y2="4673.7" stroke="#B04A4A" stroke-width="5" stroke-linecap="round"/>
+<polygon points="530,4673.7 518.13,4679 518.13,4668.4" fill="#B04A4A"/>
+<text x="84" y="4699.7" font-size="13.5" fill="#B9AE94" font-weight="600">讓三聯療法看起來比較好</text>
+<text x="322" y="4699.7" font-size="13.5" fill="#B04A4A" font-weight="800">讓膀胱全切除看起來比較好</text>
+<rect x="84" y="4731.7" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="4746.2" font-size="13" fill="#7A6E58" font-weight="800">研究設計</text>
+<text x="84" y="4764.7" font-size="13.5" fill="#345963" font-weight="600">重建存活曲線的系統性回顧與統合分析</text>
+<rect x="84" y="4789.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="4804.2" font-size="13" fill="#7A6E58" font-weight="800">人數</text>
+<text x="84" y="4822.7" font-size="13.5" fill="#345963" font-weight="600">6 篇研究、8,594 人</text>
+<rect x="84" y="4847.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="4862.2" font-size="13" fill="#7A6E58" font-weight="800">發現</text>
+<text x="84" y="4880.7" font-size="13.5" fill="#345963" font-weight="600">12 個報告終點裡有 10 個存在追蹤中斷的不平衡（informative censoring，</text>
+<text x="84" y="4899.7" font-size="13.5" fill="#345963" font-weight="600">也就是提早失去追蹤的人跟留下來的人本來就不一樣），整體偏向膀胱切除</text>
+<rect x="84" y="4924.7" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="92" y="4939.2" font-size="13" fill="#7A6E58" font-weight="800">校正之後</text>
+<text x="84" y="4957.7" font-size="13.5" fill="#345963" font-weight="600">膀胱切除仍然較優——五年總存活 42% 對 30%</text>
+<text x="84" y="4994.7" font-size="14" fill="#527078">這一格對「保留膀胱做得太少」這個主張不利，所以它一定要在圖上。</text>
+<rect x="40" y="5066.7" width="540" height="283" rx="16" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2"/>
+<text x="66" y="5100.7" font-size="20" fill="#123641" font-weight="800">生活品質那一欄，只有回溯性的資料</text>
+<rect x="66" y="5135.7" width="68" height="20" rx="5" fill="#ECE8DE"/>
+<text x="74" y="5150.2" font-size="13" fill="#7A6E58" font-weight="800">研究設計</text>
+<text x="144" y="5150.2" font-size="13.5" fill="#345963" font-weight="600">兩家醫院的橫斷面回溯研究，傾向分數校正</text>
+<rect x="66" y="5161.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="74" y="5176.2" font-size="13" fill="#7A6E58" font-weight="800">族群</text>
+<text x="118" y="5176.2" font-size="13.5" fill="#345963" font-weight="600">226 位 cT2–cT4 非轉移、兩條路都適合、無病存活至少兩年的人，回覆</text>
+<text x="118" y="5195.2" font-size="13.5" fill="#345963" font-weight="600">率 77%，173 人（三聯療法 64、切除 109）</text>
+<rect x="66" y="5205.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="74" y="5220.2" font-size="13" fill="#7A6E58" font-weight="800">追蹤</text>
+<text x="118" y="5220.2" font-size="13.5" fill="#345963" font-weight="600">中位 5.6 年</text>
+<rect x="66" y="5231.7" width="42" height="20" rx="5" fill="#ECE8DE"/>
+<text x="74" y="5246.2" font-size="13" fill="#7A6E58" font-weight="800">結果</text>
+<text x="118" y="5246.2" font-size="13.5" fill="#345963" font-weight="600">三聯療法組的整體生活品質高 9.7 分（滿分 100，p=0.001），性功能高</text>
+<text x="118" y="5265.2" font-size="13.5" fill="#345963" font-weight="600">8.7 到 32.1 分、身體形象高 14.8 分，排尿症狀分數兩組相似</text>
+<text x="66" y="5293.7" font-size="14.5" fill="#345963">作者自己的結論句：兩條路的長期生活品質都不錯，三聯療法是不是比較好，</text>
+<text x="66" y="5314.7" font-size="14.5" fill="#345963">需要前瞻研究驗證。兩組從診斷到填問卷還差了兩年——這只能當線索。</text>
+<g filter="url(#sh)"><rect x="40" y="5375.7" width="540" height="746" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="3.5"/></g>
+<text x="66" y="5411.7" font-size="22" fill="#B04A4A" font-weight="800">這張圖不准被讀成的三句話</text>
+<rect x="66" y="5453.7" width="488" height="101" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<circle cx="99" cy="5487.7" r="15" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.4"/>
+<line x1="91.8" y1="5480.5" x2="106.2" y2="5494.9" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="91.8" y1="5494.9" x2="106.2" y2="5480.5" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<text x="126" y="5479.7" font-size="16.5" fill="#123641" font-weight="800">「保留膀胱＝次等選擇」</text>
+<text x="84" y="5519.7" font-size="14.5" fill="#345963">膀胱全切除是這個病的標準治療之一，它的理由寫在左欄。</text>
+<rect x="66" y="5572.7" width="488" height="101" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<circle cx="99" cy="5606.7" r="15" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.4"/>
+<line x1="91.8" y1="5599.5" x2="106.2" y2="5613.9" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="91.8" y1="5613.9" x2="106.2" y2="5599.5" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<text x="126" y="5598.7" font-size="16.5" fill="#123641" font-weight="800">「保留膀胱＝一樣好」</text>
+<text x="84" y="5638.7" font-size="14.5" fill="#345963">配對世代就是配對世代，不是隨機試驗；選擇偏差還有三個方向。</text>
+<rect x="66" y="5691.7" width="488" height="122" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<circle cx="99" cy="5725.7" r="15" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.4"/>
+<line x1="91.8" y1="5718.5" x2="106.2" y2="5732.9" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="91.8" y1="5732.9" x2="106.2" y2="5718.5" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<text x="126" y="5717.7" font-size="16.5" fill="#123641" font-weight="800">「不用開刀＝比較輕鬆」</text>
+<text x="84" y="5757.7" font-size="14.5" fill="#345963">六到七週的同步化放療、一輩子的膀胱鏡，以及約兩成的挽救性切除，</text>
+<text x="84" y="5778.7" font-size="14.5" fill="#345963">都在右欄。</text>
+<rect x="66" y="5853.7" width="488" height="126.0" rx="14" fill="#F3E8CD"/>
+<text x="84" y="5877.7" font-size="15" fill="#8F7418" font-weight="700">畫這張圖的人有利益關係：三聯療法裡的放射治療是他自己在做的那</text>
+<text x="84" y="5899.7" font-size="15" fill="#8F7418" font-weight="700">一段，而這個專題主張台灣的保留膀胱做得太少。所以第三支箭（對</text>
+<text x="84" y="5921.7" font-size="15" fill="#8F7418" font-weight="700">這個主張不利的那一支）跟另外兩支畫成同樣大小，挽救性切除的那</text>
+<text x="84" y="5943.7" font-size="15" fill="#8F7418" font-weight="700">一格也沒有縮小。</text>
+<text x="66" y="5997.7" font-size="15" fill="#345963">指引自己把「兩條路都要談」寫進去了：EAU「For all suitable</text>
+<text x="66" y="6019.7" font-size="15" fill="#345963">candidates, both bladder-preserving techniques and RC should be</text>
+<text x="66" y="6041.7" font-size="15" fill="#345963">discussed」；NICE NG2 第 1.5.5 條「Offer a choice of radical</text>
+<text x="66" y="6063.7" font-size="15" fill="#345963">cystectomy or radiotherapy with a radiosensitiser」。這張圖給的</text>
+<text x="66" y="6085.7" font-size="15" fill="#345963">是要問醫師的問題，不是一個答案。</text>
+<text x="40" y="6139.7" font-size="15" fill="#527078">示意圖，依 EAU 肌肉侵犯型與轉移性膀胱癌指引 2026 版、Zlotta 2023、</text>
+<text x="40" y="6162.2" font-size="15" fill="#527078">SPARE（Huddart 2017）、Sell 1991、Matsukawa 2025、Cahn 2017、He</text>
+<text x="40" y="6184.7" font-size="15" fill="#527078">2026、Rose 2016、Robesti 2025、Schuettfort 2021、RTOG 0712（Coen</text>
+<text x="40" y="6207.2" font-size="15" fill="#527078">2019）、Maibom 2021、Richters 2021、SWOG S1011（Lerner 2024）、</text>
+<text x="40" y="6229.7" font-size="15" fill="#527078">Mak 2016 與 NICE NG2 重繪，非擷取自原論文圖表；各研究族群、設計與終點</text>
+<text x="40" y="6252.2" font-size="15" fill="#527078">不同，數點不可直接互比。</text>
+  </g>
+</svg>

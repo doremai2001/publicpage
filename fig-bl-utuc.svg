@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2003" viewBox="0 0 1440 2003" role="img" aria-labelledby="t d">
+  <title id="t">台灣的上泌尿道尿路上皮癌：能講到的上限</title>
+  <desc id="d">示意圖，分成三塊。第一塊畫兩排十格的人形格子：台灣那一排填滿三格、第四格畫成虛線斜線（代表三到四），標「台灣每十個尿路上皮癌登記，有三到四個長在上泌尿道」；西方那一排填滿一格、第二格畫成虛線斜線，標「十個裡面一到兩個」。口徑列在下面：台灣癌症登記中心長期趨勢檔 2023 診斷年、侵襲癌口徑，膀胱癌 2,562 例、腎盂及其他泌尿器官癌 1,884 例，後者佔兩者相加的 42.4%；歐洲泌尿科醫學會 2025 年上泌尿道指引寫上泌尿道佔全部尿路上皮癌 5% 到 10%；檔案自己的註記是此為侵襲癌發生率數據，年齡調整化率使用 2000 年世界標準人口。右邊三個紅框警語：①分子那一格的正式名稱是「腎盂及其他泌尿器官癌」，ICD-9 189.1 到 189.9，含尿道與其他不明泌尿器官，不是純粹的上泌尿道；②分母是侵襲癌、不含膀胱原位癌，放回分母這個比例會往下掉；③《五大洲癌症發生率》第 XI 冊沒有收台灣，所以沒有同口徑的跨國排名。接著一條橫幅寫明兩句不寫的話：不寫「世界第一」，因為那是文獻裡的敘述句不是算出來的排名；不寫「台灣一半」，因為 42.4% 有兩頭的偏差。旁邊兩個註記：西方那個 5% 到 10% 自己也在動——挪威全國登記 1999 到 2018 年 3,096 人，上泌尿道佔所有尿路上皮癌 11.8%（從 9.9% 升到 12.8%）；荷蘭全國登記 1993 到 2017 年 13,314 人，年齡標準化發生率從 2.0 升到 3.2 每十萬；以及台灣上泌尿道那一組女多於男，2023 年女 1,090、男 794。第二塊是三張公文卡，上方橫幅標「同一天，兩個不同的字號」：民國九十二年十一月四日，署授藥字第０九二０００二三五０號，公告禁用廣防己、青木香、關木通、馬兜鈴、天仙藤等五種含馬兜鈴酸之中藥材，自公告日起禁止製造、調劑、輸入、輸出或販賣；同一天，署授藥字第０九二０００二三四九號，把含這五種藥材的製劑一併禁止製造輸入並註銷藥品許可證；第三張用不同底色並標「不在禁用之列」——民國九十三年二月二十七日，署授藥字第０九三００００七五六號，細辛的管理規定：藥用部位由全草改用根部、濃縮製劑以水煎煮方式製造、成品依廠內既定的 HPLC 方法檢驗合格後始得販售，市售含細辛產品經檢出含馬兜鈴酸者依藥事法論處。底下一行：細辛不是被禁，是改成不同部位、不同製程，加上檢驗把關。第三塊是兩張方向相反的分析卡。左邊向下的箭頭：Scientific Reports 2019，台灣癌症登記 1995 到 2013 年的中斷時間序列，腎盂及其他泌尿器官癌的斜率在 2000 與 2011 年兩次轉折，第二次轉折之後每年下降 3.4%，作者用詞是 possibly associated with。右邊向上的箭頭：J Cancer Res Clin Oncol 2023，台灣癌症登記 2001 到 2018 年，上泌尿道尿路上皮癌發生率顯著上升，平均年百分比變化 +1.47%（95% 信賴區間 1.03 到 1.90，p 小於 0.001）。底下橫幅寫「同一個登記，兩份分析結論相反」，並補上趨勢檔本身的兩個方向：年齡標準化發生率高點在 2010 年的 4.93、2023 年是 3.91，但同期個案數從 1,505 升到 1,884；用率看是慢慢降，用人數看還在增加，所以不寫「禁了就降了」。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2003" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">UPPER TRACT UROTHELIAL CARCINOMA IN TAIWAN - THE CEILING OF WHAT THE DATA WILL CARRY</text>
+<text x="84" y="138" font-size="40" fill="#123641" font-weight="800" class="r">上泌尿道：能講到的上限，三張公告，與兩份方向相反的分析</text>
+<text x="84" y="198.4" font-size="19" fill="#527078">台灣的上泌尿道尿路上皮癌比西方教科書寫的多，這是真的；但它常被講得比證據能撐的更滿。這張圖畫的是可以講到的上限，以及撐著那個上限的三</text>
+<text x="84" y="226.9" font-size="19" fill="#527078">個口徑限制。</text>
+<text x="84" y="261.4" font-size="19" fill="#527078">下半是馬兜鈴酸：三張公告（兩張禁用、一張不是禁用），以及禁用之後同一個登記裡兩份方向相反的分析。</text>
+<text x="84" y="330.9" font-size="21" fill="#8F7418" font-weight="800">一、可以講到的上限：台灣每十個尿路上皮癌登記，有三到四個長在上泌尿道</text>
+<text x="84" y="354.04" font-size="14" fill="#527078">西方指引寫的是一到兩個。兩邊的口徑不一樣，下面三個限制要跟這句話寫在一起。</text>
+<g filter="url(#sh)">
+<rect x="84" y="373.04" width="623" height="432.8" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="106" y="409.04" font-size="14" fill="#527078" font-weight="700">台灣（癌症登記 2023 診斷年，侵襲癌口徑）</text>
+<rect x="106" y="422.04" width="50.7" height="46" rx="8" fill="#B04A4A"/>
+<rect x="164.7" y="422.04" width="50.7" height="46" rx="8" fill="#B04A4A"/>
+<rect x="223.4" y="422.04" width="50.7" height="46" rx="8" fill="#B04A4A"/>
+<rect x="282.1" y="422.04" width="50.7" height="46" rx="8" fill="#FFFFFF"/>
+<rect x="282.1" y="422.04" width="50.7" height="46" rx="8" fill="url(#hatch)"/>
+<rect x="282.1" y="422.04" width="50.7" height="46" rx="8" fill="none" stroke="#B04A4A" stroke-width="2.4" stroke-dasharray="6 5"/>
+<rect x="340.8" y="422.04" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="399.5" y="422.04" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="458.2" y="422.04" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="516.9" y="422.04" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="575.6" y="422.04" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="634.3" y="422.04" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<text x="106" y="507.04" font-size="27" fill="#B04A4A" font-weight="800">十個裡面三到四個</text>
+<text x="106" y="545.79" font-size="14" fill="#527078" font-weight="700">西方（歐洲泌尿科醫學會 2025 年上泌尿道指引）</text>
+<rect x="106" y="558.79" width="50.7" height="46" rx="8" fill="#5C77C4"/>
+<rect x="164.7" y="558.79" width="50.7" height="46" rx="8" fill="#FFFFFF"/>
+<rect x="164.7" y="558.79" width="50.7" height="46" rx="8" fill="url(#hatch)"/>
+<rect x="164.7" y="558.79" width="50.7" height="46" rx="8" fill="none" stroke="#5C77C4" stroke-width="2.4" stroke-dasharray="6 5"/>
+<rect x="223.4" y="558.79" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="282.1" y="558.79" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="340.8" y="558.79" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="399.5" y="558.79" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="458.2" y="558.79" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="516.9" y="558.79" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="575.6" y="558.79" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<rect x="634.3" y="558.79" width="50.7" height="46" rx="8" fill="#ECE8DE"/>
+<text x="106" y="643.79" font-size="27" fill="#5C77C4" font-weight="800">十個裡面一到兩個</text>
+<text x="106" y="680.54" font-size="14" fill="#8F7418" font-weight="800">這兩排格子的口徑</text>
+<circle cx="110" cy="697.54" r="3.2" fill="#C9A83E"/>
+<text x="122" y="703.84" font-size="14" fill="#345963">台灣癌症登記中心長期趨勢檔，2023 診斷年、侵襲癌口徑：膀胱癌 2,562 例，腎盂及其</text>
+<text x="122" y="723.84" font-size="14" fill="#345963">他泌尿器官癌 1,884 例，後者佔兩者相加的 42.4%。</text>
+<circle cx="110" cy="744.54" r="3.2" fill="#C9A83E"/>
+<text x="122" y="750.84" font-size="14" fill="#345963">歐洲泌尿科醫學會 2025 年上泌尿道指引寫的是：上泌尿道佔全部尿路上皮癌 5% 到 10%。</text>
+<circle cx="110" cy="771.54" r="3.2" fill="#C9A83E"/>
+<text x="122" y="777.84" font-size="14" fill="#345963">檔案自己的註記：此為侵襲癌發生率數據，年齡調整化率使用 2000 年世界標準人口。</text>
+<g filter="url(#sh)">
+<rect x="733" y="373.04" width="623" height="357.66" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+</g>
+<text x="753" y="411.04" font-size="18" fill="#B04A4A" font-weight="800">三個限制，要跟那句話寫在一起</text>
+<rect x="753" y="426.8" width="583" height="94.3" rx="13" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="768" y="455.8" font-size="14" fill="#B04A4A" font-weight="800">①　分子不是純粹的上泌尿道</text>
+<text x="768" y="478.1" font-size="14" fill="#345963">分子那一格的正式名稱是「腎盂及其他泌尿器官癌」（ICD-9 189.1 到 189.9），裡面含</text>
+<text x="768" y="499.1" font-size="14" fill="#345963">尿道與其他不明泌尿器官。</text>
+<rect x="753" y="532.1" width="583" height="73.3" rx="13" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="768" y="561.1" font-size="14" fill="#B04A4A" font-weight="800">②　分母是侵襲癌，不含膀胱原位癌</text>
+<text x="768" y="583.4" font-size="14" fill="#345963">而原位癌在台灣的膀胱癌登記裡是很大一格；放回分母，這個比例會往下掉。</text>
+<rect x="753" y="616.4" width="583" height="94.3" rx="13" fill="#FFFFFF" stroke="#B9AE94" stroke-width="2"/>
+<text x="768" y="645.4" font-size="14" fill="#B04A4A" font-weight="800">③　沒有同口徑的跨國排名</text>
+<text x="768" y="667.7" font-size="14" fill="#345963">《五大洲癌症發生率》第 XI 冊沒有收台灣。所以沒有一份同口徑的跨國排名把台灣放進</text>
+<text x="768" y="688.7" font-size="14" fill="#345963">去比過。</text>
+<rect x="84" y="821.84" width="1272" height="104.92" rx="14" fill="#ECE8DE"/>
+<text x="100" y="855.84" font-size="18" fill="#123641" font-weight="800">所以這兩句話不寫</text>
+<text x="100" y="879.76" font-size="14" fill="#345963">不寫「世界第一」——那是文獻裡反覆出現的敘述句，不是被算出來的排名。</text>
+<text x="100" y="903.76" font-size="14" fill="#345963">不寫「台灣一半」——上面那個 42.4% 有兩頭的偏差，兩頭都要講。</text>
+<rect x="84" y="942.76" width="623" height="144.3" rx="13" fill="#E3E8F6"/>
+<text x="99" y="971.76" font-size="14" fill="#345963" font-weight="800">而且西方那個 5% 到 10% 自己也在動</text>
+<text x="99" y="994.06" font-size="14" fill="#345963">挪威全國登記 1999 到 2018 年、3,096 人：上泌尿道佔所有尿路上皮癌 11.8%（從 9.9% 升到</text>
+<text x="99" y="1015.06" font-size="14" fill="#345963">12.8%）。</text>
+<text x="99" y="1040.06" font-size="14" fill="#345963">荷蘭全國登記 1993 到 2017 年、13,314 人：年齡標準化發生率從 2.0 升到 3.2／十萬。</text>
+<text x="99" y="1065.06" font-size="14" fill="#345963">指引寫 5% 到 10%，近年的全國登記已經到一成以上。</text>
+<rect x="733" y="942.76" width="623" height="73.3" rx="13" fill="#E3E8F6"/>
+<text x="748" y="971.76" font-size="14" fill="#345963" font-weight="800">另一個跟西方相反的地方</text>
+<text x="748" y="994.06" font-size="14" fill="#345963">台灣上泌尿道那一組女多於男：2023 年女 1,090、男 794。</text>
+<text x="84" y="1134.06" font-size="21" fill="#8F7418" font-weight="800">二、馬兜鈴酸：兩張禁用公告同一天、不同字號，加一張不是禁用的管理規定</text>
+<text x="84" y="1157.2" font-size="14" fill="#527078">字號我照抄。不點名任何藥廠、診所或產品。</text>
+<rect x="84" y="1176.2" width="842" height="34" rx="10" fill="#F6E2E0"/>
+<rect x="84" y="1176.2" width="842" height="34" rx="10" fill="none" stroke="#B04A4A" stroke-width="2"/>
+<text x="505" y="1199.2" font-size="14" fill="#B04A4A" font-weight="800" text-anchor="middle">同一天，兩個不同的字號</text>
+<g filter="url(#sh)">
+<rect x="84" y="1222.2" width="412" height="223.23" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+</g>
+<rect x="104" y="1242.2" width="49" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="115" y="1259.56" font-size="13.5" fill="#FFFFFF" font-weight="800">禁用</text>
+<text x="104" y="1292.2" font-size="14" fill="#527078" font-weight="700">民國九十二年十一月四日</text>
+<text x="104" y="1318.7" font-size="15.5" fill="#123641" font-weight="800">署授藥字第０九二０００二三五０號</text>
+<text x="104" y="1351.67" font-size="18" fill="#B04A4A" font-weight="800">五種中藥材禁用</text>
+<text x="104" y="1376.43" font-size="14" fill="#345963">公告禁用廣防己、青木香、關木通、馬兜鈴、天仙藤等五種</text>
+<text x="104" y="1397.43" font-size="14" fill="#345963">含馬兜鈴酸之中藥材，自公告日起禁止製造、調劑、輸入、</text>
+<text x="104" y="1418.43" font-size="14" fill="#345963">輸出或販賣。</text>
+<g filter="url(#sh)">
+<rect x="514" y="1222.2" width="412" height="223.23" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+</g>
+<rect x="534" y="1242.2" width="49" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="545" y="1259.56" font-size="13.5" fill="#FFFFFF" font-weight="800">禁用</text>
+<text x="534" y="1292.2" font-size="14" fill="#527078" font-weight="700">民國九十二年十一月四日</text>
+<text x="534" y="1318.7" font-size="15.5" fill="#123641" font-weight="800">署授藥字第０九二０００二三四九號</text>
+<text x="534" y="1351.67" font-size="18" fill="#B04A4A" font-weight="800">製劑禁用並註銷許可證</text>
+<text x="534" y="1376.43" font-size="14" fill="#345963">把含上述五種藥材的製劑一併禁止製造輸入，並註銷藥品許</text>
+<text x="534" y="1397.43" font-size="14" fill="#345963">可證。</text>
+<g filter="url(#sh)">
+<rect x="944" y="1222.2" width="412" height="223.23" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2.5"/>
+</g>
+<rect x="964" y="1242.2" width="103" height="25" rx="12.5" fill="#00806B"/>
+<text x="975" y="1259.56" font-size="13.5" fill="#FFFFFF" font-weight="800">不在禁用之列</text>
+<text x="964" y="1292.2" font-size="14" fill="#527078" font-weight="700">民國九十三年二月二十七日</text>
+<text x="964" y="1318.7" font-size="15.5" fill="#123641" font-weight="800">署授藥字第０九三００００七五六號</text>
+<text x="964" y="1351.67" font-size="18" fill="#00806B" font-weight="800">細辛的管理規定</text>
+<text x="964" y="1376.43" font-size="14" fill="#345963">藥用部位由全草改用根部、濃縮製劑製程以水煎煮方式製造、</text>
+<text x="964" y="1397.43" font-size="14" fill="#345963">成品依廠內既定的 HPLC 方法檢驗合格後始得販售；市售</text>
+<text x="964" y="1418.43" font-size="14" fill="#345963">含細辛產品經檢出含馬兜鈴酸者依藥事法論處。</text>
+<rect x="84" y="1459.43" width="1272" height="51" rx="13" fill="#D8EDE7"/>
+<text x="99" y="1488.43" font-size="14" fill="#345963">細辛不是被禁，是改成不同部位、不同製程，加上檢驗把關。這一條是「現行合法中藥不等於含馬兜鈴酸」最硬的證據。</text>
+<text x="84" y="1557.43" font-size="21" fill="#8F7418" font-weight="800">三、禁了之後有沒有降下來：同一個登記，兩份分析結論相反</text>
+<text x="84" y="1580.58" font-size="14" fill="#527078">差別在期間、口徑與統計方法。不可以挑一邊寫。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1599.58" width="623" height="208.75" rx="18" fill="#FFFFFF" stroke="#00806B" stroke-width="2.5"/>
+</g>
+<line x1="121" y1="1621.58" x2="121" y2="1649.58" stroke="#00806B" stroke-width="5" stroke-linecap="round"/>
+<polygon points="121,1665.58 109,1647.58 133,1647.58" fill="#00806B"/>
+<text x="150" y="1637.58" font-size="18" fill="#00806B" font-weight="800">Scientific Reports 2019：中斷時間序列</text>
+<text x="150" y="1657.34" font-size="14" fill="#527078">台灣癌症登記，1995 到 2013 年</text>
+<text x="104" y="1704.58" font-size="27" fill="#00806B" font-weight="800">每年下降 3.4%</text>
+<text x="104" y="1733.33" font-size="14" fill="#345963">腎盂及其他泌尿器官癌的斜率在 2000 與 2011 年兩次轉折，第二次轉折之後每年下降 3.4%。</text>
+<text x="104" y="1760.33" font-size="14" fill="#00806B" font-weight="700">作者自己的措辭很保守，用的是「possibly associated with」。</text>
+<g filter="url(#sh)">
+<rect x="733" y="1599.58" width="623" height="208.75" rx="18" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.5"/>
+</g>
+<line x1="770" y1="1635.58" x2="770" y2="1665.58" stroke="#B04A4A" stroke-width="5" stroke-linecap="round"/>
+<polygon points="770,1617.58 758,1635.58 782,1635.58" fill="#B04A4A"/>
+<text x="799" y="1637.58" font-size="18" fill="#B04A4A" font-weight="800">J Cancer Res Clin Oncol 2023：全國登記分析</text>
+<text x="799" y="1657.34" font-size="14" fill="#527078">台灣癌症登記，2001 到 2018 年</text>
+<text x="753" y="1704.58" font-size="27" fill="#B04A4A" font-weight="800">平均年百分比變化 +1.47%</text>
+<text x="753" y="1733.33" font-size="14" fill="#345963">上泌尿道尿路上皮癌的發生率顯著上升，平均年百分比變化 +1.47%（95% 信賴區間 1.03 到</text>
+<text x="753" y="1754.33" font-size="14" fill="#345963">1.90，p 小於 0.001）。</text>
+<text x="753" y="1781.33" font-size="14" fill="#B04A4A" font-weight="700">結論與左邊那一份相反。</text>
+<rect x="84" y="1822.33" width="1272" height="104.92" rx="14" fill="#F3E8CD"/>
+<text x="100" y="1856.33" font-size="18" fill="#8F7418" font-weight="800">同一個登記，兩份分析結論相反</text>
+<text x="100" y="1880.25" font-size="14" fill="#345963">把趨勢檔攤開來對也是兩個方向：這一組的年齡標準化發生率高點在 2010 年（4.93），2023 年是 3.91；但同期個案數從 1,505 升到 1,884。</text>
+<text x="100" y="1904.25" font-size="14" fill="#345963">用率看是慢慢降，用人數看還在增加。所以不寫「禁了就降了」。</text>
+<text x="84" y="1945.25" font-size="14" fill="#527078">示意圖，依台灣癌症登記中心長期趨勢檔（泌尿器官，診斷年 2023）、歐洲泌尿科醫學會 2025 年上泌尿道尿路上皮癌指引、Chang 2023 出生世代研究、挪威與荷蘭全國登記研究、行政院衛生署三張公</text>
+<text x="84" y="1966.95" font-size="14" fill="#527078">告（兩張禁用、一張細辛管理規定）、Jhuang 2019 與 Liao 2023 重繪，非擷取自原論文圖表；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

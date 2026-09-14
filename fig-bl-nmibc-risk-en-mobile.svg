@@ -1,0 +1,290 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="6940" viewBox="0 0 620 6940" role="img" aria-labelledby="t d">
+  <title id="t">The two risk models in non-muscle-invasive bladder cancer, and the two numbers in the very-high-risk cell</title>
+  <desc id="d">Schematic: the two risk models in non-muscle-invasive bladder cancer set side by side, and the two numbers in the very-high-risk cell that have to be read together. The first panel holds the two questions and the two tables, with a dashed rule between them stating that the tables answer two different questions and that no arrow is drawn between them: recurrence is something appearing again on the same floor, progression is drilling down into the muscle. The left column is the 2006 EORTC tables, asking whether the disease will come back: the endpoint predicted is recurrence, with progression given too; they are built on 2,596 patients from seven EORTC trials; the population was mainly patients who received intravesical chemotherapy; the range produced is five-year recurrence of 31 to 78 per cent and five-year progression from under 1 per cent to 45 per cent; and the 2026 guideline grades the recommendation Strong, for predicting recurrence in people who have not had BCG. The right column is the 2021 EAU model, asking whether the disease will grow into the muscle: it predicts progression only, the endpoint being time to muscle invasion or distant metastasis; it is built on individual data from 3,401 patients; the population is all primary non-muscle-invasive disease treated between 1990 and 2018, taking only patients who had transurethral resection with or without intravesical chemotherapy, with those given adjuvant BCG excluded; the limitations the authors list are retrospective recruitment and no central pathology review; and the 2026 recommendation is likewise graded Strong. Below the two columns a line records that for people who have had BCG there are other models, the 2016 EORTC model and the CUETO model, and that &quot;the new table has replaced the old one&quot; is simply wrong. The second panel is the core of the figure, headed &quot;two numbers in one cell: five-year progression in the very-high-risk group&quot;. On one scale two bars are drawn: without BCG, 40 per cent, 95 per cent confidence interval 29 to 54, from table 6.3; and after adequate BCG, drawn as a band from 14.9 to 22 per cent, from the treatment section for very high risk in the same guideline. The note explains that table 6.3 states beneath itself that these percentages refer to patients who were not immediately treated with adjuvant BCG instillations after their primary resection, so 40 per cent is the average of a group of people who did not have BCG and is not &quot;your probability&quot;. The denominator labels are n equal to 3,401, all primary disease, treated between 1990 and 2018, resection with or without intravesical chemotherapy only, patients given adjuvant BCG excluded, with time to muscle invasion or distant metastasis as the endpoint; ten-year progression in the same group is 53 per cent. Beside it a panel records that a Japanese cohort of 3,024 BCG-treated patients tested the 2021 model and found a C-index for progression of only 0.617, against 0.572 for the 2019 version, p equal to 0.011; that a C-index asks whether the model can put the person who runs into trouble first ahead of the other for any two people picked at random, 0.5 being a coin toss and 1 perfect; and that in that cohort the survival curves of the five very-high-risk subgroups did not differ significantly. The third panel draws what the stratification produces rather than what goes into it, as four cards: low risk, intermediate risk, high risk and very high risk. The low-risk card gives five-year progression of 0.93 per cent (confidence interval 0.49 to 1.7 per cent), ten-year progression 3.7 per cent and five-year recurrence 10 to 35 per cent, with a single immediate instillation of chemotherapy after resection described by the guideline as sufficient treatment in these patients; and it sets out both sides of that instillation - an individual patient data meta-analysis of 11 studies and 2,278 patients with pTa-pT1 disease, 1,161 resection alone against 1,117 resection plus a single instillation, in which recurrence risk fell by 35 per cent, hazard ratio 0.65, 95 per cent confidence interval 0.58 to 0.74, and five-year recurrence fell from 58.8 per cent to 44.8 per cent; while in people with more than one recurrence a year, or a 2006 EORTC recurrence score of 5 or above, it had no effect, it lengthened neither time to progression nor time to death from bladder cancer, and in those at high risk of recurrence overall mortality rose, hazard ratio 1.26, 95 per cent confidence interval 1.05 to 1.51, p equal to 0.015, with five-year mortality 12.0 per cent against 11.2 per cent; and in the other direction, that the US TICE BCG label states BCG is not recommended for stage TaG1 papillary tumours unless they are judged to be at high risk of recurrence. The intermediate-risk card gives ten-year progression of 7.4 and 8.5 per cent, one figure from each grading system, and five-year recurrence of 18 to 50 per cent, with first-line treatment usually a course of intravesical chemotherapy with or without maintenance for up to a year and a year of full-dose BCG as an alternative; and it records that intermediate risk means everyone left over, with no carcinoma in situ and not falling into the low, high or very-high groups, and that the International Bladder Cancer Group's 2022 revision, validated in 677 patients, put people with none of the risk factors close to the low-risk group and people with three or more close to the high-risk group, so being placed in the intermediate group does not mean being in the middle of the box. The high-risk card carries one line only: the treatment for this group is not set out in this article, and if what is instilled is BCG that is an entirely different matter, covered in &quot;BCG is not chemotherapy, and not a vaccination&quot;. The very-high-risk card gives five-year progression without BCG of 40 per cent and ten-year progression of 53 per cent, and records that the guideline says immediate radical cystectomy should be discussed with the patient rather than that it should be done; that the same section calls radical cystectomy the safest approach from an oncological point of view while noting that it brings complications and a loss of quality of life and represents over-treatment in some patients; that carcinoma in situ cannot be cured by endoscopic management, with complete response rates in retrospective data of 48 per cent for intravesical chemotherapy and 72 to 93 per cent for BCG, up to half of complete responders relapsing later; and that reading non-muscle-invasive as &quot;early, nothing to worry about&quot; is the mistake most often made in this cell. The fourth panel is a hatched box crossed out and labelled &quot;there is no scoring table here&quot;: no boxes for risk factors, no cut-points and no total to add up. Three reasons stand beside it. First, the model itself leaves out primary carcinoma in situ on its own, carcinoma in situ of the prostatic urethra, recurrent tumours, subtype histology and lymphovascular invasion. Second, national guidelines stratify differently: a 2022 review states that international guidelines differ slightly in how they categorise low, intermediate and high risk, Europe using four groups and the United States three, with the 2026 AUA/SUO update adjusting its stratification again. Third, stratification assumes a complete first resection, detrusor muscle in the specimen and a second resection where indicated - and that cell is not in your hands but in the pathology report and the operation note. The same panel adds two further paragraphs: the 2026 guideline gained a chapter 10 headed &quot;Pragmatic deintensification strategy in NMIBC&quot;, whose precondition is written into the same paragraph, namely a shared decision-making process in fully informed and consenting patients, so that doing less is arrived at in conversation rather than decided alone; and the same chapter mentions PROGRxN-BCa, an artificial intelligence model built on 14 clinicopathological variables including second resection and BCG treatment, on which the guideline's verdict is &quot;pending further validation&quot;, meaning it is not the current standard. At the foot of the figure a gold-bordered panel reads: the same 40 per cent for very high risk means one thing in people who never had BCG and another in people who had an adequate course of it, so which of the two your doctor is pointing at is worth settling on the spot - ask, and the difference between 40 per cent and 14.9 to 22 per cent comes out; and half of the money question can be answered too, since bladder instillation is a listed item in the National Health Insurance fee schedule, 50011C at 260 points, while how the drug instilled is accounted for is a separate matter for the hospital's billing office or your case manager.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="6940" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">TWO MODELS, TWO QUESTIONS - AND WHOSE</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">PERCENTAGES THESE ARE</text>
+<text x="40" y="144" font-size="38" fill="#123641" font-weight="800" class="r">Two models side by</text>
+<text x="40" y="191.88" font-size="38" fill="#123641" font-weight="800" class="r">side: one predicts</text>
+<text x="40" y="239.76" font-size="38" fill="#123641" font-weight="800" class="r">recurrence, one</text>
+<text x="40" y="287.64" font-size="38" fill="#123641" font-weight="800" class="r">predicts progression -</text>
+<text x="40" y="335.52" font-size="38" fill="#123641" font-weight="800" class="r">in people who never had</text>
+<text x="40" y="383.4" font-size="38" fill="#123641" font-weight="800" class="r">BCG</text>
+<text x="40" y="443.28" font-size="19" fill="#527078">This is not a table you can score yourself on. There</text>
+<text x="40" y="471.78" font-size="19" fill="#527078">are no tick boxes here, no cut-points and nothing to add</text>
+<text x="40" y="500.28" font-size="19" fill="#527078">up - what is drawn is what the stratification produces:</text>
+<text x="40" y="528.78" font-size="19" fill="#527078">the endpoint figures for each group, and what that</text>
+<text x="40" y="557.28" font-size="19" fill="#527078">group actually receives.</text>
+<text x="40" y="591.78" font-size="19" fill="#527078">Every percentage carries four labels: primary or</text>
+<text x="40" y="620.28" font-size="19" fill="#527078">recurrent disease, carcinoma in situ present or not,</text>
+<text x="40" y="648.78" font-size="19" fill="#527078">BCG given or not, and how many years of follow-up.</text>
+<text x="40" y="677.28" font-size="19" fill="#527078">Take the report to the clinic and have someone point at</text>
+<text x="40" y="705.78" font-size="19" fill="#527078">the lines they are reading.</text>
+<text x="40" y="804.28" font-size="22" fill="#123641" font-weight="800" class="r">Two questions, two tables, and neither</text>
+<text x="40" y="833.76" font-size="22" fill="#123641" font-weight="800" class="r">replaced the other</text>
+<text x="40" y="859.24" font-size="14" fill="#527078">The 2026 guideline carries both recommendations, and both are graded</text>
+<text x="40" y="880.24" font-size="14" fill="#527078">Strong.</text>
+<rect x="40" y="899.24" width="540" height="406.2" rx="18" fill="#FFFFFF" stroke="#5C77C4" stroke-width="2.2"/>
+<rect x="60" y="919.24" width="206.03" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="71" y="936.74" font-size="13.5" fill="#FFFFFF" font-weight="800">The 2006 EORTC tables</text>
+<text x="60" y="974.24" font-size="18" fill="#5C77C4" font-weight="800">The question: will it come back</text>
+<text x="60" y="1009.44" font-size="14" fill="#527078" font-weight="700">Endpoint predicted</text>
+<text x="60" y="1033.44" font-size="14" fill="#345963">recurrence (progression is given too)</text>
+<text x="60" y="1065.44" font-size="14" fill="#527078" font-weight="700">Built on</text>
+<text x="60" y="1089.44" font-size="14" fill="#345963">2,596 patients from seven EORTC trials</text>
+<text x="60" y="1121.44" font-size="14" fill="#527078" font-weight="700">Population</text>
+<text x="60" y="1145.44" font-size="14" fill="#345963">mainly patients who received intravesical chemotherapy</text>
+<text x="60" y="1177.44" font-size="14" fill="#527078" font-weight="700">The range produced</text>
+<text x="60" y="1201.44" font-size="14" fill="#345963">five-year recurrence 31% to 78%; five-year progression from under</text>
+<text x="60" y="1222.44" font-size="14" fill="#345963">1% to 45%</text>
+<text x="60" y="1254.44" font-size="14" fill="#527078" font-weight="700">Strength in the 2026 guideline</text>
+<text x="60" y="1278.44" font-size="14" fill="#345963">Strong, for predicting recurrence in people who have not had BCG</text>
+<line x1="40" y1="1325.44" x2="580" y2="1325.44" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<rect x="213.13" y="1313.44" width="193.74" height="24" rx="12" fill="#F7F1E4"/>
+<text x="310" y="1329.94" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">Neither replaced the other</text>
+<rect x="40" y="1353.44" width="540" height="448.2" rx="18" fill="#FFFFFF" stroke="#96790F" stroke-width="2.2"/>
+<rect x="60" y="1373.44" width="183.51" height="25" rx="12.5" fill="#96790F"/>
+<text x="71" y="1390.93" font-size="13.5" fill="#FFFFFF" font-weight="800">The 2021 EAU model</text>
+<text x="60" y="1428.44" font-size="18" fill="#96790F" font-weight="800">The question: will it grow into the muscle</text>
+<text x="60" y="1463.64" font-size="14" fill="#527078" font-weight="700">Endpoint predicted</text>
+<text x="60" y="1487.64" font-size="14" fill="#345963">progression only - time to muscle invasion or distant metastasis</text>
+<text x="60" y="1519.64" font-size="14" fill="#527078" font-weight="700">Built on</text>
+<text x="60" y="1543.64" font-size="14" fill="#345963">individual data from 3,401 patients</text>
+<text x="60" y="1575.64" font-size="14" fill="#527078" font-weight="700">Population</text>
+<text x="60" y="1599.64" font-size="14" fill="#345963">all primary non-muscle-invasive disease treated between 1990 and</text>
+<text x="60" y="1620.64" font-size="14" fill="#345963">2018, taking only patients who had transurethral resection with or</text>
+<text x="60" y="1641.64" font-size="14" fill="#345963">without intravesical chemotherapy; those given adjuvant BCG were</text>
+<text x="60" y="1662.64" font-size="14" fill="#345963">excluded</text>
+<text x="60" y="1694.64" font-size="14" fill="#527078" font-weight="700">Limitations the authors list</text>
+<text x="60" y="1718.64" font-size="14" fill="#345963">retrospective recruitment, no central pathology review</text>
+<text x="60" y="1750.64" font-size="14" fill="#527078" font-weight="700">Strength in the 2026 guideline</text>
+<text x="60" y="1774.64" font-size="14" fill="#345963">Strong, for assigning risk groups</text>
+<text x="40" y="1826.14" font-size="12.5" fill="#527078" font-weight="700">The two tables answer two different questions, and no arrow is drawn between</text>
+<text x="40" y="1844.27" font-size="12.5" fill="#527078" font-weight="700">them: recurrence is something appearing again on the same floor, progression is</text>
+<text x="40" y="1862.39" font-size="12.5" fill="#527078" font-weight="700">drilling down into the muscle</text>
+<text x="40" y="1898.52" font-size="14" fill="#345963">For people who have had BCG there are other models: the 2016 EORTC</text>
+<text x="40" y="1920.22" font-size="14" fill="#345963">model and the CUETO model. &quot;The new table has replaced the old one&quot; is</text>
+<text x="40" y="1941.92" font-size="14" fill="#345963">simply wrong.</text>
+<text x="40" y="2023.62" font-size="22" fill="#123641" font-weight="800" class="r">Two numbers in one cell: five-year</text>
+<text x="40" y="2053.1" font-size="22" fill="#123641" font-weight="800" class="r">progression in the very-high-risk group</text>
+<text x="40" y="2078.58" font-size="14" fill="#527078">Either one on its own misleads, so they are drawn in the same cell.</text>
+<g filter="url(#sh)">
+<rect x="40" y="2097.58" width="540" height="911.65" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2115.58 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#B04A4A"/>
+</g>
+<text x="66" y="2141.58" font-size="18" fill="#123641" font-weight="800">Very-high-risk group, probability of progression at</text>
+<text x="66" y="2166.78" font-size="18" fill="#123641" font-weight="800">five years</text>
+<text x="66" y="2217.97" font-size="14" fill="#527078" font-weight="700">Without BCG (the column in table 6.3)</text>
+<text x="66" y="2236.36" font-size="12.5" fill="#527078">95% confidence interval 29% to 54%</text>
+<rect x="66" y="2245.98" width="356" height="30" rx="8" fill="#ECE8DE"/>
+<rect x="66" y="2245.98" width="237.33" height="30" rx="8" fill="#B04A4A"/>
+<text x="434" y="2268.54" font-size="21" fill="#B04A4A" font-weight="800">40%</text>
+<text x="66" y="2309.98" font-size="14" fill="#527078" font-weight="700">After adequate BCG</text>
+<text x="66" y="2328.36" font-size="12.5" fill="#527078">from the treatment section for very high risk in the same guideline</text>
+<rect x="66" y="2337.99" width="356" height="30" rx="8" fill="#ECE8DE"/>
+<rect x="154.41" y="2337.99" width="42.13" height="30" rx="8" fill="#00806B"/>
+<line x1="154.41" y1="2331.99" x2="154.41" y2="2373.99" stroke="#00806B" stroke-width="2" stroke-linecap="butt"/>
+<line x1="196.53" y1="2331.99" x2="196.53" y2="2373.99" stroke="#00806B" stroke-width="2" stroke-linecap="butt"/>
+<text x="434" y="2360.55" font-size="21" fill="#00806B" font-weight="800">14.9-22%</text>
+<line x1="66" y1="2379.99" x2="422" y2="2379.99" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="66" y1="2379.99" x2="66" y2="2385.99" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="2401.99" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">0</text>
+<line x1="184.67" y1="2379.99" x2="184.67" y2="2385.99" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="184.67" y="2401.99" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">20</text>
+<line x1="303.33" y1="2379.99" x2="303.33" y2="2385.99" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="303.33" y="2401.99" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">40</text>
+<line x1="422" y1="2379.99" x2="422" y2="2385.99" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="422" y="2401.99" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">60%</text>
+<rect x="66" y="2417.99" width="488" height="151" rx="14" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="82" y="2447.99" font-size="14" fill="#345963">Table 6.3 states beneath itself that these percentages refer to</text>
+<text x="82" y="2468.99" font-size="14" fill="#345963">patients who were not (immediately) treated with adjuvant</text>
+<text x="82" y="2489.99" font-size="14" fill="#345963">BCG instillations after their primary resection. So 40% is the</text>
+<text x="82" y="2510.99" font-size="14" fill="#345963">average of a group of people who did not have BCG; it is not</text>
+<text x="82" y="2531.99" font-size="14" fill="#345963">&quot;your probability&quot;.</text>
+<text x="66" y="2591.49" font-size="12.5" fill="#527078">Denominator labels: n=3,401, all primary disease, treated between 1990</text>
+<text x="66" y="2609.61" font-size="12.5" fill="#527078">and 2018, resection with or without intravesical chemotherapy only,</text>
+<text x="66" y="2627.74" font-size="12.5" fill="#527078">patients given adjuvant BCG excluded; the endpoint is time to muscle</text>
+<text x="66" y="2645.86" font-size="12.5" fill="#527078">invasion or distant metastasis. Ten-year progression in the same group is</text>
+<text x="66" y="2663.99" font-size="12.5" fill="#527078">53%.</text>
+<text x="66" y="2711.61" font-size="15.5" fill="#123641" font-weight="800">And one colder piece of data</text>
+<circle cx="70.5" cy="2747.99" r="4" fill="#5C77C4"/>
+<text x="85" y="2753.31" font-size="14" fill="#345963">A Japanese cohort of 3,024 BCG-treated patients tested the 2021</text>
+<text x="85" y="2774.03" font-size="14" fill="#345963">model: its C-index for progression was only 0.617 (the 2019</text>
+<text x="85" y="2794.75" font-size="14" fill="#345963">version scored 0.572, p=0.011).</text>
+<circle cx="70.5" cy="2818.15" r="4" fill="#5C77C4"/>
+<text x="85" y="2823.47" font-size="14" fill="#345963">A C-index, in plain words, asks whether the model can put the</text>
+<text x="85" y="2844.19" font-size="14" fill="#345963">person who runs into trouble first ahead of the other, for any</text>
+<text x="85" y="2864.91" font-size="14" fill="#345963">two people picked at random: 0.5 is a coin toss and 1 is perfect.</text>
+<text x="85" y="2885.63" font-size="14" fill="#345963">0.617 means somewhat better than the older version, and still a</text>
+<text x="85" y="2906.35" font-size="14" fill="#345963">long way from accurate.</text>
+<circle cx="70.5" cy="2929.75" r="4" fill="#5C77C4"/>
+<text x="85" y="2935.07" font-size="14" fill="#345963">In that cohort, moreover, the survival curves of the five</text>
+<text x="85" y="2955.79" font-size="14" fill="#345963">very-high-risk subgroups did not differ significantly from one</text>
+<text x="85" y="2976.51" font-size="14" fill="#345963">another.</text>
+<text x="40" y="3081.23" font-size="22" fill="#123641" font-weight="800" class="r">What the stratification produces: the</text>
+<text x="40" y="3110.71" font-size="22" fill="#123641" font-weight="800" class="r">endpoints and the treatment for each</text>
+<text x="40" y="3140.19" font-size="22" fill="#123641" font-weight="800" class="r">group</text>
+<text x="40" y="3165.67" font-size="14" fill="#527078">What is drawn below is the output, not the input - there is no cell here to</text>
+<text x="40" y="3186.67" font-size="14" fill="#527078">place yourself in.</text>
+<g filter="url(#sh)">
+<rect x="40" y="3205.67" width="540" height="206" rx="18" fill="#FFFFFF"/>
+</g>
+<rect x="66" y="3231.67" width="488" height="34" rx="10" fill="#00806B"/>
+<text x="310" y="3254.67" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Low risk</text>
+<rect x="66" y="3271.67" width="488" height="34" rx="10" fill="#96790F"/>
+<text x="310" y="3294.67" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Intermediate risk</text>
+<rect x="66" y="3311.67" width="488" height="34" rx="10" fill="#5C77C4"/>
+<text x="310" y="3334.67" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">High risk</text>
+<rect x="66" y="3351.67" width="488" height="34" rx="10" fill="#B04A4A"/>
+<text x="310" y="3374.67" font-size="15.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">Very high risk</text>
+<rect x="40" y="3429.67" width="540" height="689.24" rx="18" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<rect x="60" y="3449.67" width="94.09" height="25" rx="12.5" fill="#00806B"/>
+<text x="71" y="3467.16" font-size="13.5" fill="#FFFFFF" font-weight="800">Low risk</text>
+<text x="60" y="3500.67" font-size="14" fill="#527078" font-weight="700">Five-year progression</text>
+<text x="60" y="3524.67" font-size="14" fill="#345963">0.93% (confidence interval 0.49% to 1.7%)</text>
+<text x="60" y="3556.67" font-size="14" fill="#527078" font-weight="700">Ten-year progression</text>
+<text x="60" y="3580.67" font-size="14" fill="#345963">3.7%</text>
+<text x="60" y="3612.67" font-size="14" fill="#527078" font-weight="700">Five-year recurrence</text>
+<text x="60" y="3636.67" font-size="14" fill="#345963">10% to 35%</text>
+<text x="60" y="3669.67" font-size="14" fill="#123641" font-weight="700">The guideline is brief about this group: a single immediate instillation</text>
+<text x="60" y="3690.67" font-size="14" fill="#123641" font-weight="700">of chemotherapy after resection &quot;is considered sufficient treatment</text>
+<text x="60" y="3711.67" font-size="14" fill="#123641" font-weight="700">in these patients&quot;.</text>
+<circle cx="64.5" cy="3739.35" r="4" fill="#00806B"/>
+<text x="79" y="3744.67" font-size="14" fill="#345963">That single instillation has an individual patient data meta-analysis</text>
+<text x="79" y="3765.39" font-size="14" fill="#345963">behind it: 11 studies, 2,278 patients with pTa-pT1 disease (1,161</text>
+<text x="79" y="3786.11" font-size="14" fill="#345963">resection alone against 1,117 resection plus a single instillation).</text>
+<text x="79" y="3806.83" font-size="14" fill="#345963">Recurrence risk fell by 35% (hazard ratio 0.65, 95% confidence</text>
+<text x="79" y="3827.55" font-size="14" fill="#345963">interval 0.58 to 0.74), and five-year recurrence fell from 58.8% to</text>
+<text x="79" y="3848.27" font-size="14" fill="#345963">44.8%.</text>
+<circle cx="64.5" cy="3871.67" r="4" fill="#00806B"/>
+<text x="79" y="3876.99" font-size="14" fill="#345963">The other half of the same paper matters more: it had no effect in</text>
+<text x="79" y="3897.71" font-size="14" fill="#345963">people with more than one recurrence a year or a 2006 EORTC</text>
+<text x="79" y="3918.43" font-size="14" fill="#345963">recurrence score of 5 or above; it did not lengthen time to</text>
+<text x="79" y="3939.15" font-size="14" fill="#345963">progression or time to death from bladder cancer; and in those at</text>
+<text x="79" y="3959.87" font-size="14" fill="#345963">high risk of recurrence overall mortality rose (hazard ratio 1.26,</text>
+<text x="79" y="3980.59" font-size="14" fill="#345963">95% confidence interval 1.05 to 1.51, p=0.015; five-year mortality</text>
+<text x="79" y="4001.31" font-size="14" fill="#345963">12.0% against 11.2%).</text>
+<circle cx="64.5" cy="4024.71" r="4" fill="#00806B"/>
+<text x="79" y="4030.03" font-size="14" fill="#345963">In the other direction, low-risk disease is not what BCG is for: the</text>
+<text x="79" y="4050.75" font-size="14" fill="#345963">Limitations of Use section of the US TICE BCG label says it is &quot;not</text>
+<text x="79" y="4071.47" font-size="14" fill="#345963">recommended for stage TaG1 papillary tumors, unless they are</text>
+<text x="79" y="4092.19" font-size="14" fill="#345963">judged to be at high risk of tumor recurrence&quot;.</text>
+<rect x="40" y="4132.91" width="540" height="459.48" rx="18" fill="#FFFFFF" stroke="#96790F" stroke-width="2.2"/>
+<rect x="60" y="4152.91" width="159.05" height="25" rx="12.5" fill="#96790F"/>
+<text x="71" y="4170.4" font-size="13.5" fill="#FFFFFF" font-weight="800">Intermediate risk</text>
+<text x="60" y="4203.91" font-size="14" fill="#527078" font-weight="700">Ten-year progression</text>
+<text x="60" y="4227.91" font-size="14" fill="#345963">7.4% and 8.5% (one from each grading system)</text>
+<text x="60" y="4259.91" font-size="14" fill="#527078" font-weight="700">Five-year recurrence</text>
+<text x="60" y="4283.91" font-size="14" fill="#345963">18% to 50%</text>
+<text x="60" y="4316.91" font-size="14" fill="#123641" font-weight="700">First-line treatment is usually a course of intravesical</text>
+<text x="60" y="4337.91" font-size="14" fill="#123641" font-weight="700">chemotherapy, with or without maintenance for up to a year; a year</text>
+<text x="60" y="4358.91" font-size="14" fill="#123641" font-weight="700">of full-dose BCG is an alternative.</text>
+<circle cx="64.5" cy="4386.59" r="4" fill="#96790F"/>
+<text x="79" y="4391.91" font-size="14" fill="#345963">Intermediate risk is awkward by definition: it means everyone left</text>
+<text x="79" y="4412.63" font-size="14" fill="#345963">over - no carcinoma in situ, and not falling into the low, high or</text>
+<text x="79" y="4433.35" font-size="14" fill="#345963">very-high groups.</text>
+<circle cx="64.5" cy="4456.75" r="4" fill="#96790F"/>
+<text x="79" y="4462.07" font-size="14" fill="#345963">The International Bladder Cancer Group's 2022 revision of its</text>
+<text x="79" y="4482.79" font-size="14" fill="#345963">sub-stratification model was validated in 677 patients: people with</text>
+<text x="79" y="4503.51" font-size="14" fill="#345963">none of the risk factors had a progression risk close to the</text>
+<text x="79" y="4524.23" font-size="14" fill="#345963">low-risk group, and people with three or more were close to the</text>
+<text x="79" y="4544.95" font-size="14" fill="#345963">high-risk group. Being placed in the intermediate group does not</text>
+<text x="79" y="4565.67" font-size="14" fill="#345963">mean you are in the middle of the box.</text>
+<rect x="40" y="4606.39" width="540" height="176" rx="18" fill="#FFFFFF" stroke="#5C77C4" stroke-width="2.2"/>
+<rect x="60" y="4626.39" width="93.6" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="71" y="4643.88" font-size="13.5" fill="#FFFFFF" font-weight="800">High risk</text>
+<text x="60" y="4677.39" font-size="14" fill="#527078" font-weight="700">Treatment for this group</text>
+<text x="60" y="4701.39" font-size="14" fill="#345963">not set out in this article</text>
+<text x="60" y="4734.39" font-size="14" fill="#123641" font-weight="700">If what is instilled is BCG, that is an entirely different matter: see</text>
+<text x="60" y="4755.39" font-size="14" fill="#123641" font-weight="700">&quot;BCG is not chemotherapy, and not a vaccination&quot;.</text>
+<rect x="40" y="4796.39" width="540" height="487.92" rx="18" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.2"/>
+<rect x="60" y="4816.39" width="135.08" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="71" y="4833.88" font-size="13.5" fill="#FFFFFF" font-weight="800">Very high risk</text>
+<text x="60" y="4867.39" font-size="14" fill="#527078" font-weight="700">Five-year progression (without BCG)</text>
+<text x="60" y="4891.39" font-size="14" fill="#345963">40%</text>
+<text x="60" y="4923.39" font-size="14" fill="#527078" font-weight="700">Ten-year progression (without BCG)</text>
+<text x="60" y="4947.39" font-size="14" fill="#345963">53%</text>
+<text x="60" y="4980.39" font-size="14" fill="#123641" font-weight="700">What the guideline says is that immediate radical cystectomy should</text>
+<text x="60" y="5001.39" font-size="14" fill="#123641" font-weight="700">be discussed with the patient - not that it should be done.</text>
+<circle cx="64.5" cy="5029.07" r="4" fill="#B04A4A"/>
+<text x="79" y="5034.39" font-size="14" fill="#345963">The same section carries the other half: radical cystectomy is the</text>
+<text x="79" y="5055.11" font-size="14" fill="#345963">safest approach from an oncological point of view, but it brings</text>
+<text x="79" y="5075.83" font-size="14" fill="#345963">complications and a loss of quality of life, and &quot;represents</text>
+<text x="79" y="5096.55" font-size="14" fill="#345963">over-treatment in some patients&quot;.</text>
+<circle cx="64.5" cy="5119.95" r="4" fill="#B04A4A"/>
+<text x="79" y="5125.27" font-size="14" fill="#345963">Carcinoma in situ is not something endoscopy can deal with</text>
+<text x="79" y="5145.99" font-size="14" fill="#345963">either: the guideline states it cannot be cured by endoscopic</text>
+<text x="79" y="5166.71" font-size="14" fill="#345963">management; in retrospective data the complete response rate</text>
+<text x="79" y="5187.43" font-size="14" fill="#345963">was 48% with intravesical chemotherapy and 72% to 93% with BCG,</text>
+<text x="79" y="5208.15" font-size="14" fill="#345963">and up to half of those who responded completely relapse later.</text>
+<circle cx="64.5" cy="5231.55" r="4" fill="#B04A4A"/>
+<text x="79" y="5236.87" font-size="14" fill="#345963">Reading &quot;non-muscle-invasive&quot; as &quot;early, nothing to worry</text>
+<text x="79" y="5257.59" font-size="14" fill="#345963">about&quot; is the mistake most often made in this cell.</text>
+<text x="40" y="5356.31" font-size="22" fill="#123641" font-weight="800" class="r">Why this figure gives you no table to tick</text>
+<text x="40" y="5385.79" font-size="22" fill="#123641" font-weight="800" class="r">your way through</text>
+<g filter="url(#sh)">
+<rect x="40" y="5405.27" width="540" height="951.08" rx="18" fill="#FFFFFF"/>
+<path d="M 40 5423.27 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#C9A83E"/>
+</g>
+<rect x="66" y="5431.27" width="488" height="96" rx="14" fill="url(#hatch)"/>
+<rect x="66" y="5431.27" width="488" height="96" rx="14" fill="none" stroke="#B9AE94" stroke-width="2.4" stroke-dasharray="7 6"/>
+<line x1="80" y1="5445.27" x2="540" y2="5513.27" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="540" y1="5445.27" x2="80" y2="5513.27" stroke="#B04A4A" stroke-width="3.2" stroke-linecap="round"/>
+<text x="66" y="5552.77" font-size="15.5" fill="#B04A4A" font-weight="800">There is no scoring table here</text>
+<text x="66" y="5589.24" font-size="14" fill="#345963">No boxes for risk factors, no cut-points and no total to add up.</text>
+<circle cx="70.5" cy="5634.92" r="4" fill="#B04A4A"/>
+<text x="85" y="5640.24" font-size="14" fill="#345963">First, the model itself leaves several groups out - primary</text>
+<text x="85" y="5660.96" font-size="14" fill="#345963">carcinoma in situ on its own, carcinoma in situ of the prostatic</text>
+<text x="85" y="5681.68" font-size="14" fill="#345963">urethra, recurrent tumours, subtype histology and</text>
+<text x="85" y="5702.4" font-size="14" fill="#345963">lymphovascular invasion - and the guideline places those groups</text>
+<text x="85" y="5723.12" font-size="14" fill="#345963">using other literature instead.</text>
+<circle cx="70.5" cy="5746.53" r="4" fill="#B04A4A"/>
+<text x="85" y="5751.85" font-size="14" fill="#345963">Second, national guidelines stratify differently to begin with: a</text>
+<text x="85" y="5772.57" font-size="14" fill="#345963">2022 review states that international guidelines differ slightly in</text>
+<text x="85" y="5793.29" font-size="14" fill="#345963">how they categorise low, intermediate and high-risk</text>
+<text x="85" y="5814.01" font-size="14" fill="#345963">non-muscle-invasive bladder cancer; Europe uses four groups</text>
+<text x="85" y="5834.73" font-size="14" fill="#345963">and the United States three, and the 2026 AUA/SUO update</text>
+<text x="85" y="5855.45" font-size="14" fill="#345963">adjusted its risk stratification again.</text>
+<circle cx="70.5" cy="5878.85" r="4" fill="#B04A4A"/>
+<text x="85" y="5884.17" font-size="14" fill="#345963">Third, stratification assumes a complete first resection,</text>
+<text x="85" y="5904.89" font-size="14" fill="#345963">detrusor muscle in the specimen and a second resection where</text>
+<text x="85" y="5925.61" font-size="14" fill="#345963">indicated - and that cell is not in your hands, it is in the pathology</text>
+<text x="85" y="5946.33" font-size="14" fill="#345963">report and the operation note.</text>
+<text x="66" y="5984.55" font-size="15.5" fill="#123641" font-weight="800">The 2026 guideline gained a chapter, and it is about doing</text>
+<text x="66" y="6006.25" font-size="15.5" fill="#123641" font-weight="800">less</text>
+<text x="66" y="6047.95" font-size="14" fill="#345963">The new chapter 10 is headed &quot;Pragmatic deintensification</text>
+<text x="66" y="6069.65" font-size="14" fill="#345963">strategy in NMIBC&quot; and lists ways of doing less under shared</text>
+<text x="66" y="6091.35" font-size="14" fill="#345963">decision-making; the precondition is written into the same</text>
+<text x="66" y="6113.05" font-size="14" fill="#345963">paragraph: all of it rests on a shared decision-making process in</text>
+<text x="66" y="6134.75" font-size="14" fill="#345963">fully informed and consenting patients. Doing less is something</text>
+<text x="66" y="6156.45" font-size="14" fill="#345963">arrived at in conversation, not a decision to attend less often.</text>
+<text x="66" y="6200.15" font-size="14" fill="#345963">The same chapter mentions PROGRxN-BCa, an artificial</text>
+<text x="66" y="6221.85" font-size="14" fill="#345963">intelligence model built on 14 clinicopathological variables, which</text>
+<text x="66" y="6243.55" font-size="14" fill="#345963">includes second resection and BCG treatment - variables the 2021</text>
+<text x="66" y="6265.25" font-size="14" fill="#345963">model does not have. The guideline's verdict on it is three words:</text>
+<text x="66" y="6286.95" font-size="14" fill="#345963">&quot;Pending further validation&quot;. Until that validation is complete it is</text>
+<text x="66" y="6308.65" font-size="14" fill="#345963">not the current standard.</text>
+<rect x="40" y="6378.35" width="540" height="337.45" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="6422.35" font-size="18" fill="#8F7418" font-weight="800">Whose percentages are on that table</text>
+<text x="66" y="6453.55" font-size="15.5" fill="#345963">The same 40% for very high risk means one thing in people</text>
+<text x="66" y="6477.57" font-size="15.5" fill="#345963">who never had BCG and another in people who had an</text>
+<text x="66" y="6501.59" font-size="15.5" fill="#345963">adequate course of it; which of the two your doctor is</text>
+<text x="66" y="6525.62" font-size="15.5" fill="#345963">pointing at is worth settling on the spot - ask, and the</text>
+<text x="66" y="6549.64" font-size="15.5" fill="#345963">difference between 40% and 14.9% to 22% comes out. Half of</text>
+<text x="66" y="6573.67" font-size="15.5" fill="#345963">the money question can be answered too: bladder instillation</text>
+<text x="66" y="6597.69" font-size="15.5" fill="#345963">is a listed item in the National Health Insurance fee schedule</text>
+<text x="66" y="6621.72" font-size="15.5" fill="#345963">(50011C, 260 points), but how the drug instilled is accounted</text>
+<text x="66" y="6645.74" font-size="15.5" fill="#345963">for is a separate matter, and one for the hospital's billing</text>
+<text x="66" y="6669.77" font-size="15.5" fill="#345963">office or your case manager.</text>
+<text x="40" y="6741.79" font-size="15" fill="#527078">Schematic, redrawn from the EAU 2026 guideline on</text>
+<text x="40" y="6765.04" font-size="15" fill="#527078">non-muscle-invasive bladder cancer, Sylvester 2006, Sylvester</text>
+<text x="40" y="6788.29" font-size="15" fill="#527078">2021, Miyake 2024, Sylvester 2016, the US TICE BCG prescribing</text>
+<text x="40" y="6811.54" font-size="15" fill="#527078">information, Balasubramanian 2022 and the Taiwanese National</text>
+<text x="40" y="6834.79" font-size="15" fill="#527078">Health Insurance fee schedule; not reproduced from the figures of</text>
+<text x="40" y="6858.04" font-size="15" fill="#527078">the original papers. The cohorts, designs and endpoints of the</text>
+<text x="40" y="6881.29" font-size="15" fill="#527078">underlying studies differ, so the data points must not be compared</text>
+<text x="40" y="6904.54" font-size="15" fill="#527078">directly.</text>
+  </g>
+</svg>

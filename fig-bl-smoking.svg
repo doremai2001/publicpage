@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2163" viewBox="0 0 1440 2163" role="img" aria-labelledby="t d">
+  <title id="t">抽菸與這個病：兩欄證據強度不一樣</title>
+  <desc id="d">示意圖，兩欄並排，中間畫一條虛線分隔並標明「這兩欄的證據強度不一樣」。最上方一條橫幅寫著：風險因子是流行病學在一大群人身上算出來的統計，不是任何一個人的過錯。左欄「發生率：證據很硬」有四張卡。第一張放三份獨立研究：89 篇觀察性研究、57,145 例膀胱癌的統合分析，目前吸菸者合併勝算比 3.14（95% 信賴區間 2.53 到 3.75）、曾吸菸者 1.83（1.52 到 2.14），並標明勝算比是兩組「有比沒有」的比值、不是機率差幾倍，所以同框放絕對數字；NIH-AARP 前瞻世代（男 281,394 人、女 186,134 人，451.9 萬人年）的每十萬人年發生率長條：從不吸菸 39.8、曾吸菸 119.8（風險比 2.22）、目前吸菸 177.3（風險比 4.06，3.66 到 4.50）；第三份是 83 篇膀胱癌研究的統合分析，相對風險所有吸菸者 2.58、目前吸菸 3.47、曾吸菸 2.04。第二張卡：量與年數有關係但不是等比例——強度在一天 15 支、累積量在 50 包-年之後出現高原，開始吸菸的年齡越小風險越高；戒菸效益 from 20 years before diagnosis 最明顯，而且即使戒了很久，風險也不會回到從不吸菸的水準，但這不是「戒了也沒用」的意思。第三張卡：族群可歸因分率是族群層次的估計、不是任何一個人身上的判決，歐洲男性 43%、女性 26%，美國那個世代男性 0.50、女性 0.52，不同族群不同年代不要互換；並標明台灣自己的可歸因比例查不到任何本土估計。第四張卡是上泌尿道那一邊的另一組數字：歐洲泌尿科醫學會 2025 年上泌尿道指引寫菸品暴露讓相對風險上升 2.5 到 7.0 倍，29 國 101 個中心 2,380 人的登記裡 53.3% 是曾吸菸或目前吸菸；但高雄與弘前的對照世代（台灣 765 人對日本 325 人）裡，台灣病人的抽菸史比日本病人少，p 小於 0.001。右欄「確診之後戒菸與復發：這一格的證據是空的」有四張卡。第一張是只有一顆點的森林圖：復發的合併次分布風險比 0.99（95% 信賴區間 0.61 到 1.61），虛線標 1.0；族群標籤是到 2022 年 1 月為止只找到 9 篇合格文獻、約 5,500 位膀胱癌病人，絕大多數是非肌肉侵犯型，只有 1 篇含肌肉侵犯型；總存活、癌症特異存活與無惡化存活各只有 3 篇，結果互相衝突。第二張卡用大字寫「只有 25 人（14%）戒掉」：英國 BCPP 研究收 722 位非肌肉侵犯型病人（pTa、pT1、原位癌），中位追蹤 4.21 年，戒菸與復發風險無關（p=0.352），作者自己的結論是戒菸人數太少、這份研究回答不了這個問題。接著一條紅框橫幅：這一格的證據是空的——不是「戒菸沒有用」，也不是「戒菸會讓它不復發」。第三張卡並排放兩句指引原文：歐洲泌尿科醫學會 2026 年非肌肉侵犯型指引仍寫 smoking increases the risk of tumour recurrence and progression in NMIBC patients，但建議條文只有一句 Counsel smokers to stop smoking，理由明寫是抽菸對整體健康的危害。第四張卡是證據正向的那一格：密集戒菸方案戒掉 36%、標準衛教 6%，能不能戒得掉跟有沒有人陪著戒有關係，不在意志力。兩欄之間與下方的分隔說明寫著：左欄是三份獨立的大型研究、方向一致、落在同一個數量級；右欄合起來只有 9 篇、約 5,500 人，合併之後看不出差別，唯一的前瞻世代只有 25 人戒掉；左欄的數字不可以搬到右欄，右欄的空白也不可以被讀成「戒菸沒有用」。最下方另有一格疾病特異死亡：同一份 83 篇統合分析的相對風險，所有吸菸者 1.47（1.24 到 1.75）、目前吸菸 1.53（1.12 到 2.09）、曾吸菸 1.44（0.99 到 2.11，信賴區間跨過 1）；已經戒掉的人估計值落在中間而且統計上不確定，這是誠實的形狀，不是好消息也不是壞消息。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2163" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">SMOKING AND BLADDER CANCER - TWO COLUMNS THAT DO NOT CARRY THE SAME WEIGHT OF EVIDENCE</text>
+<text x="84" y="138" font-size="40" fill="#123641" font-weight="800" class="r">抽菸與這個病：左邊那一欄的證據很硬，右邊那一欄是空的</text>
+<text x="84" y="198.4" font-size="19" fill="#527078">這張圖把兩件常被混在一起講的事分開：抽菸跟「會不會得這個病」的關係，跟「已經診斷的人戒了會怎樣」。兩欄之間那條線，畫的就是它們的證據</text>
+<text x="84" y="226.9" font-size="19" fill="#527078">強度不一樣。</text>
+<text x="84" y="261.4" font-size="19" fill="#527078">在台灣，這個病有一大塊長在從來沒抽過菸的人身上。這張圖沒有一格是要回頭找原因的。</text>
+<rect x="84" y="309.9" width="1272" height="85.24" rx="14" fill="#ECE8DE"/>
+<text x="100" y="346.9" font-size="21" fill="#123641" font-weight="800">風險因子是流行病學在一大群人身上算出來的統計，不是任何一個人的過錯。</text>
+<text x="100" y="372.14" font-size="14" fill="#345963">談到抽菸最容易變成一場檢討，而檢討對治療一點幫助都沒有。這張圖不回頭找原因，它只把兩格證據分開放。</text>
+<rect x="84" y="419.14" width="598" height="87.3" rx="18" fill="#D8EDE7" stroke="#00806B" stroke-width="2.5"/>
+<text x="102" y="458.14" font-size="21" fill="#00806B" font-weight="800">左欄　發生率：證據很硬</text>
+<text x="102" y="481.44" font-size="14" fill="#527078">三份獨立的研究、三種設計，落在同一個數量級。</text>
+<g filter="url(#sh)">
+<rect x="84" y="520.44" width="598" height="475.21" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="558.44" font-size="18" fill="#00806B" font-weight="800">三份獨立的研究</text>
+<text x="104" y="586.2" font-size="14" fill="#96790F" font-weight="800">89 篇觀察性研究、57,145 例膀胱癌的統合分析</text>
+<text x="104" y="611.2" font-size="14" fill="#345963">相對於從不吸菸的人，目前吸菸者的合併勝算比是 3.14（95% 信賴區間 2.53 到 3.75）；</text>
+<text x="104" y="632.2" font-size="14" fill="#345963">曾吸菸者是 1.83（1.52 到 2.14）。</text>
+<text x="104" y="661.2" font-size="14" fill="#123641" font-weight="700">勝算比是兩組「有比沒有」的比值，不是機率差幾倍——所以同框放絕對數字。</text>
+<text x="104" y="694.2" font-size="14" fill="#96790F" font-weight="800">NIH-AARP 前瞻世代（男 281,394 人、女 186,134 人，451.9 萬人年）</text>
+<text x="104" y="727.2" font-size="14" fill="#527078" font-weight="700">從不吸菸</text>
+<rect x="271.4" y="709.2" width="245.52" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="271.4" y="709.2" width="48.86" height="26" rx="7" fill="#00806B"/>
+<text x="528.92" y="731.92" font-size="27" fill="#00806B" font-weight="800">39.8</text>
+<text x="104" y="765.2" font-size="14" fill="#527078" font-weight="700">曾吸菸</text>
+<rect x="271.4" y="747.2" width="245.52" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="271.4" y="747.2" width="147.07" height="26" rx="7" fill="#96790F"/>
+<text x="528.92" y="769.92" font-size="27" fill="#96790F" font-weight="800">119.8</text>
+<text x="271.4" y="790.7" font-size="13.5" fill="#527078">風險比 2.22</text>
+<text x="104" y="824.8" font-size="14" fill="#527078" font-weight="700">目前吸菸</text>
+<rect x="271.4" y="806.8" width="245.52" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="271.4" y="806.8" width="217.65" height="26" rx="7" fill="#B04A4A"/>
+<text x="528.92" y="829.52" font-size="27" fill="#B04A4A" font-weight="800">177.3</text>
+<text x="271.4" y="850.3" font-size="13.5" fill="#527078">風險比 4.06（3.66 到 4.50）</text>
+<text x="104" y="879.9" font-size="13.5" fill="#527078">每十萬人年的膀胱癌發生率</text>
+<text x="104" y="912.65" font-size="14" fill="#96790F" font-weight="800">第三份：83 篇膀胱癌研究的統合分析</text>
+<text x="104" y="937.65" font-size="14" fill="#345963">相對風險：所有吸菸者 2.58、目前吸菸 3.47、曾吸菸 2.04。</text>
+<text x="104" y="968.65" font-size="14" fill="#00806B" font-weight="700">三份獨立的研究落在同一個數量級。這一欄我不會說它弱。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1009.65" width="598" height="188.76" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1047.65" font-size="18" fill="#00806B" font-weight="800">量與年數有關係，但不是等比例</text>
+<text x="104" y="1075.41" font-size="14" fill="#345963">風險隨吸菸年數逐步上升，但強度在一天 15 支、累積量在 50 包-年之後出現高原——再往</text>
+<text x="104" y="1096.41" font-size="14" fill="#345963">上不再等比例增加；開始吸菸的年齡越小，風險越高。</text>
+<text x="104" y="1123.41" font-size="14" fill="#345963">同一份研究還有兩句要一起讀：戒菸的效益「from 20 years before diagnosis」開始</text>
+<text x="104" y="1144.41" font-size="14" fill="#345963">最明顯，而且即使戒了很久，風險也不會回到從不吸菸的水準。</text>
+<text x="104" y="1171.41" font-size="14" fill="#345963">後面這句不是「那戒了也沒用」的意思，是說這條曲線本來就不是可逆的直線。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1212.41" width="598" height="229.76" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1250.41" font-size="18" fill="#00806B" font-weight="800">族群可歸因分率：族群層次的估計，不是任何一個人身上的判決</text>
+<circle cx="108" cy="1271.87" r="3.2" fill="#B9AE94"/>
+<text x="120" y="1278.17" font-size="14" fill="#345963">歐洲的估計是男性 43%、女性 26%。</text>
+<circle cx="108" cy="1298.87" r="3.2" fill="#B9AE94"/>
+<text x="120" y="1305.17" font-size="14" fill="#345963">美國那個世代是男性 0.50、女性 0.52。</text>
+<circle cx="108" cy="1325.87" r="3.2" fill="#B9AE94"/>
+<text x="120" y="1332.17" font-size="14" fill="#345963">不同族群、不同年代，不要互換著用。</text>
+<rect x="104" y="1350.17" width="558" height="72" rx="13" fill="#ECE8DE"/>
+<text x="119" y="1379.17" font-size="14" fill="#345963">台灣自己的可歸因比例：查不到任何本土估計。所以不把歐洲或美國的數字搬到台灣</text>
+<text x="119" y="1400.17" font-size="14" fill="#345963">來講。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1456.17" width="598" height="182.76" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="104" y="1494.17" font-size="18" fill="#5C77C4" font-weight="800">上泌尿道那一邊是另一組數字，標籤不能省</text>
+<text x="104" y="1521.93" font-size="14" fill="#345963">歐洲泌尿科醫學會 2025 年上泌尿道指引：菸品暴露讓上泌尿道尿路上皮癌的相對風險上</text>
+<text x="104" y="1542.93" font-size="14" fill="#345963">升 2.5 到 7.0 倍；一份 29 國、101 個中心、2,380 人的登記裡，53.3% 是曾吸菸或目前</text>
+<text x="104" y="1563.93" font-size="14" fill="#345963">吸菸。</text>
+<text x="104" y="1590.93" font-size="14" fill="#345963">但台灣的形狀不同：高雄與弘前兩家醫院的對照世代（台灣 765 人對日本 325 人）裡，</text>
+<text x="104" y="1611.93" font-size="14" fill="#345963">台灣病人的抽菸史比日本病人少（p 小於 0.001）。</text>
+<rect x="758" y="419.14" width="598" height="87.3" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="776" y="458.14" font-size="21" fill="#B04A4A" font-weight="800">右欄　確診之後戒菸與復發：這一格的證據是空的</text>
+<text x="776" y="481.44" font-size="14" fill="#527078">這一段的證據等級跟左欄完全不同，所以它獨立成一欄。</text>
+<g filter="url(#sh)">
+<rect x="758" y="520.44" width="598" height="298.06" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="778" y="558.44" font-size="18" fill="#B04A4A" font-weight="800">系統性回顧與統合分析：只有一顆點</text>
+<text x="778" y="586.2" font-size="14" fill="#527078">到 2022 年 1 月為止，關於確診後戒菸與復發的系統性回顧只找到 9 篇合格文獻、約</text>
+<text x="778" y="607.2" font-size="14" fill="#527078">5,500 位膀胱癌病人，而且絕大多數是非肌肉侵犯型（只有 1 篇含肌肉侵犯型）。</text>
+<line x1="788" y1="643.2" x2="1326" y2="643.2" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="847.58" y1="638.2" x2="847.58" y2="648.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1032.66" y1="638.2" x2="1032.66" y2="648.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1217.74" y1="638.2" x2="1217.74" y2="648.2" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="1032.66" y1="620.2" x2="1032.66" y2="666.2" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="900.68" y1="643.2" x2="1159.82" y2="643.2" stroke="#B04A4A" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="900.68" y1="635.2" x2="900.68" y2="651.2" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<line x1="1159.82" y1="635.2" x2="1159.82" y2="651.2" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1029.98" cy="643.2" r="7.5" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="1057" y="681.7" font-size="13.5" fill="#527078" text-anchor="middle">1.0（看不出差別）</text>
+<text x="778" y="710.5" font-size="18" fill="#B04A4A" font-weight="800">復發的合併次分布風險比 0.99（95% 信賴區間 0.61 到 1.61）</text>
+<text x="778" y="743.5" font-size="14" fill="#345963">次分布風險比是把死亡等競爭事件也算進去之後的復發風險比較；0.99 的意思是看不出戒</text>
+<text x="778" y="764.5" font-size="14" fill="#345963">菸者的復發風險比繼續抽的人低。</text>
+<text x="778" y="791.5" font-size="14" fill="#345963">總存活、癌症特異存活與無惡化存活各只有 3 篇研究，結果互相衝突。</text>
+<g filter="url(#sh)">
+<rect x="758" y="832.5" width="598" height="236.26" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="778" y="870.5" font-size="18" fill="#B04A4A" font-weight="800">唯一的前瞻世代，解釋了為什麼會這樣</text>
+<text x="778" y="911.26" font-size="27" fill="#B04A4A" font-weight="800">只有 25 人（14%）戒掉</text>
+<circle cx="782" cy="942.46" r="3.2" fill="#B9AE94"/>
+<text x="794" y="948.76" font-size="14" fill="#345963">英國 BCPP 研究收 722 位非肌肉侵犯型病人（pTa、pT1、原位癌），中位追蹤 4.21</text>
+<text x="794" y="968.76" font-size="14" fill="#345963">年。</text>
+<circle cx="782" cy="989.46" r="3.2" fill="#B9AE94"/>
+<text x="794" y="995.76" font-size="14" fill="#345963">確診時的吸菸者中只有 25 人（14%）在追蹤期間戒掉；戒菸與復發風險無關（</text>
+<text x="794" y="1015.76" font-size="14" fill="#345963">p=0.352）。</text>
+<circle cx="782" cy="1036.46" r="3.2" fill="#B9AE94"/>
+<text x="794" y="1042.76" font-size="14" fill="#345963">作者自己的結論是：戒菸人數太少，這份研究回答不了這個問題。</text>
+<rect x="758" y="1082.76" width="598" height="80.92" rx="14" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="774" y="1116.76" font-size="18" fill="#B04A4A" font-weight="800">這一格的證據是空的</text>
+<text x="774" y="1140.68" font-size="14" fill="#345963">正確的講法是「這一格的證據是空的」，不是「戒菸沒有用」，也不是「戒菸會讓它不復發」。</text>
+<g filter="url(#sh)">
+<rect x="758" y="1177.68" width="598" height="227.76" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="778" y="1215.68" font-size="18" fill="#B04A4A" font-weight="800">指引怎麼寫，要並排放著看</text>
+<text x="796" y="1243.44" font-size="14" fill="#123641" font-weight="700">「smoking increases the risk of tumour recurrence and progression in</text>
+<text x="796" y="1264.44" font-size="14" fill="#123641" font-weight="700">NMIBC patients」</text>
+<rect x="778" y="1232.44" width="4" height="36" rx="2" fill="#B9AE94"/>
+<text x="778" y="1295.44" font-size="14" fill="#345963">歐洲泌尿科醫學會 2026 年非肌肉侵犯型指引仍然寫上面那一句，但它的建議條文只有下</text>
+<text x="778" y="1316.44" font-size="14" fill="#345963">面這一句，而且理由明寫是抽菸對整體健康的危害，不是寫在「會降低復發」上。</text>
+<text x="796" y="1347.44" font-size="14" fill="#123641" font-weight="700">「Counsel smokers to stop smoking」</text>
+<rect x="778" y="1336.44" width="4" height="15" rx="2" fill="#C9A83E"/>
+<text x="778" y="1378.44" font-size="14" fill="#527078">指引與統合分析沒有打架，它們講的是兩件事。</text>
+<g filter="url(#sh)">
+<rect x="758" y="1419.44" width="598" height="201.76" rx="18" fill="#FFFFFF" stroke="#00806B" stroke-width="2.5"/>
+</g>
+<text x="778" y="1457.44" font-size="18" fill="#00806B" font-weight="800">有一格的證據是正向的：戒菸這件事本身做得到</text>
+<text x="778" y="1485.2" font-size="14" fill="#527078">非肌肉侵犯型指引引的一個隨機試驗：在刮除手術前後給予密集的戒菸方案。</text>
+<text x="778" y="1520.2" font-size="14" fill="#527078" font-weight="700">密集戒菸方案</text>
+<rect x="1001.2" y="1502.2" width="223.2" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="1001.2" y="1502.2" width="80.35" height="26" rx="7" fill="#00806B"/>
+<text x="1236.4" y="1524.92" font-size="27" fill="#00806B" font-weight="800">36%</text>
+<text x="778" y="1558.2" font-size="14" fill="#527078" font-weight="700">標準衛教</text>
+<rect x="1001.2" y="1540.2" width="223.2" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="1001.2" y="1540.2" width="13.39" height="26" rx="7" fill="#7A6E58"/>
+<text x="1236.4" y="1562.92" font-size="27" fill="#7A6E58" font-weight="800">6%</text>
+<text x="778" y="1594.2" font-size="14" fill="#00806B" font-weight="700">能不能戒得掉，跟有沒有人陪著戒有關係，不在意志力。</text>
+<line x1="720" y1="425.14" x2="720" y2="1632.93" stroke="#123641" stroke-width="2.4" stroke-linecap="butt" stroke-dasharray="9 9"/>
+<g transform="translate(720,1029.04) rotate(-90)"><rect x="-116" y="-19" width="232" height="38" rx="19" fill="#F7F1E4" stroke="#123641" stroke-width="2.5"/><text x="0" y="6.48" font-size="18" fill="#123641" font-weight="800" text-anchor="middle">這兩欄的證據強度不一樣</text></g>
+<rect x="84" y="1658.93" width="1272" height="128.92" rx="14" fill="#F7F1E4" stroke="#123641" stroke-width="2.5"/>
+<text x="100" y="1692.93" font-size="18" fill="#123641" font-weight="800">把這兩欄分開畫，是因為它們的證據強度不一樣</text>
+<text x="100" y="1716.85" font-size="14" fill="#345963">左欄：三份獨立的大型研究（89 篇統合、前瞻世代、83 篇統合），方向一致，落在同一個數量級。</text>
+<text x="100" y="1740.85" font-size="14" fill="#345963">右欄：合起來只有 9 篇、約 5,500 人，合併之後看不出差別；而唯一的前瞻世代裡只有 25 人戒掉，作者自己說回答不了這個問題。</text>
+<text x="100" y="1764.85" font-size="14" fill="#345963">左欄的數字不可以搬到右欄；右欄的空白也不可以被讀成「戒菸沒有用」。</text>
+<g filter="url(#sh)">
+<rect x="84" y="1809.85" width="1272" height="255.76" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="106" y="1849.85" font-size="18" fill="#123641" font-weight="800">還有一格：疾病特異死亡，數字比較小，而且不精確</text>
+<text x="106" y="1873.61" font-size="14" fill="#527078">同一份 83 篇的統合分析另外算的疾病特異死亡相對風險。虛線是 1.0。</text>
+<text x="106" y="1912.61" font-size="14" fill="#527078" font-weight="700">所有吸菸者</text>
+<line x1="314.76" y1="1907.61" x2="900.48" y2="1907.61" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="379.63" y1="1902.61" x2="379.63" y2="1912.61" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="581.12" y1="1902.61" x2="581.12" y2="1912.61" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="782.61" y1="1902.61" x2="782.61" y2="1912.61" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="581.12" y1="1886.61" x2="581.12" y2="1928.61" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="643.65" y1="1907.61" x2="743.8" y2="1907.61" stroke="#96790F" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="643.65" y1="1899.61" x2="643.65" y2="1915.61" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<line x1="743.8" y1="1899.61" x2="743.8" y2="1915.61" stroke="#96790F" stroke-width="3" stroke-linecap="round"/>
+<circle cx="693.11" cy="1907.61" r="7.5" fill="#96790F" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="916.48" y="1912.61" font-size="14" fill="#96790F" font-weight="800">1.47（1.24 到 1.75）</text>
+<text x="106" y="1954.61" font-size="14" fill="#527078" font-weight="700">目前吸菸</text>
+<line x1="314.76" y1="1949.61" x2="900.48" y2="1949.61" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="379.63" y1="1944.61" x2="379.63" y2="1954.61" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="581.12" y1="1944.61" x2="581.12" y2="1954.61" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="782.61" y1="1944.61" x2="782.61" y2="1954.61" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="581.12" y1="1928.61" x2="581.12" y2="1970.61" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="614.06" y1="1949.61" x2="795.41" y2="1949.61" stroke="#B04A4A" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="614.06" y1="1941.61" x2="614.06" y2="1957.61" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<line x1="795.41" y1="1941.61" x2="795.41" y2="1957.61" stroke="#B04A4A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="704.74" cy="1949.61" r="7.5" fill="#B04A4A" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="916.48" y="1954.61" font-size="14" fill="#B04A4A" font-weight="800">1.53（1.12 到 2.09）</text>
+<text x="106" y="1996.61" font-size="14" fill="#527078" font-weight="700">曾吸菸</text>
+<line x1="314.76" y1="1991.61" x2="900.48" y2="1991.61" stroke="#DBD3BF" stroke-width="1.4" stroke-linecap="butt"/>
+<line x1="379.63" y1="1986.61" x2="379.63" y2="1996.61" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="581.12" y1="1986.61" x2="581.12" y2="1996.61" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="782.61" y1="1986.61" x2="782.61" y2="1996.61" stroke="#B9AE94" stroke-width="1.3" stroke-linecap="round"/>
+<line x1="581.12" y1="1970.61" x2="581.12" y2="2012.61" stroke="#123641" stroke-width="1.8" stroke-linecap="butt" stroke-dasharray="4 4"/>
+<line x1="578.2" y1="1991.61" x2="798.18" y2="1991.61" stroke="#7A6E58" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="578.2" y1="1983.61" x2="578.2" y2="1999.61" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<line x1="798.18" y1="1983.61" x2="798.18" y2="1999.61" stroke="#7A6E58" stroke-width="3" stroke-linecap="round"/>
+<circle cx="687.12" cy="1991.61" r="7.5" fill="#7A6E58" stroke="#FFFFFF" stroke-width="2.5"/>
+<text x="916.48" y="1996.61" font-size="14" fill="#7A6E58" font-weight="800">1.44（0.99 到 2.11）　信賴區間跨過 1</text>
+<text x="106" y="2036.61" font-size="14" fill="#345963">已經戒掉的人，估計值落在中間，而且統計上不確定。這是誠實的形狀，不是好消息也不是壞消息。</text>
+<text x="84" y="2083.61" font-size="14" fill="#527078">示意圖，依 van Osch 2016（89 篇統合分析）、Freedman 2011（NIH-AARP 世代）、Cumberbatch 2016（83 篇統合分析）、Caini 2022（確診後戒菸統合分析）、van Osch 2018（BCPP 前</text>
+<text x="84" y="2105.31" font-size="14" fill="#527078">瞻世代）、歐洲泌尿科醫學會 2026 年非肌肉侵犯型膀胱癌指引、歐洲泌尿科醫學會 2025 年上泌尿道指引與 Luo 2020 台日對照世代重繪，非擷取自原論文圖表；各研究族群、設計與終點不同，數點不可</text>
+<text x="84" y="2127.01" font-size="14" fill="#527078">直接互比。</text>
+  </g>
+</svg>

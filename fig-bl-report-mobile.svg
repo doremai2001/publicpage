@@ -1,0 +1,286 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="6279" viewBox="0 0 620 6279" role="img" aria-labelledby="t d">
+  <title id="t">膀胱癌的第一條線：Ta、Tis、T1 與 T2 以上的分界，以及登記表上的期別欄位不是這條線</title>
+  <desc id="d">示意圖：膀胱癌報告上的 Ta、Tis、T1 與 T2 以上，是一條畫在膀胱壁肌肉層的線的兩邊。圖的上半是一張膀胱壁剖面，由內而外分成五層：尿路上皮（黏膜層），標 Ta 是非侵入性乳突狀癌、Tis 是原位癌也就是平的腫瘤；固有層（上皮下結締組織），標 T1 是腫瘤侵犯上皮下結締組織；接著是一條粗線，線上掛著標籤「第一條線：肌肉層」；線的下方是肌肉層（逼尿肌），標 T2a 侵犯淺層肌肉（內半）、T2b 侵犯深層肌肉（外半）；再往外是膀胱周圍組織，標 T3a 顯微可見、T3b 肉眼可見的膀胱外腫塊；最外層是鄰近器官，標 T4a 攝護腺基質、精囊、子宮或陰道，T4b 骨盆壁或腹壁。剖面下方註明版本：UICC 的 TNM 第 9 版在 2025 年出版，但官方版本異動總表上膀胱那一列全部標示無異動，所以這些定義第 8 版跟第 9 版一樣；台灣癌症登記 112 年報告的整併期別明載依 AJCC 第 8 版。中間是兩張並排的卡片，講這條線決定什麼。左邊那張標「非肌肉侵犯型」：Ta、Tis、T1 都可以用經尿道刮除處理，因此為了治療目的被歸在非肌肉侵犯型膀胱癌這個標題之下；指引自己補了一句，這個詞代表的是一個群體定義，所有腫瘤仍應依期別、分化度與其他病理特徵各自描述，它是一個為了決定治療而畫的框，不是一個診斷；分到哪一層風險、要不要灌藥是另一篇。右邊那張標「肌肉侵犯型」：T2 以上要在切除膀胱與保留膀胱之間選路；分化度那一行不看了，因為膀胱的肌肉侵犯型尿路上皮癌全部都是高惡性度，分化度無法提供預後資訊。兩張卡片下方有一行：指引有一條強度較高的建議寫著不要使用「淺層」膀胱癌這個詞，理由是因為它不正確，T1 已經長進固有層，一點也不淺。再往下是一整格標題為「登記表上的期別欄位，不是這條線」的區塊。上面是一條 100% 堆疊長條，畫的是美國 SEER 的期別欄位（SEER 21 不含 IL，2016 到 2022 年）：原位 50%、五年相對存活 98.0%；局限 34%、73.0%；區域 7%、41.8%；遠端 6%、9.6%；不詳 3%。長條上用一個括弧標出「局限」那一段，寫著它同時裝著 T1（沒有侵犯肌肉）與 T2（已經侵犯肌肉）。旁邊的說明是：這兩群人的治療路徑完全不同，所以「膀胱癌五年存活 73%」這種句子是把線兩邊的人混在一起講，等於沒有講；台灣自己的膀胱癌五年存活率，癌症登記中心公布的存活分析只涵蓋十大癌症，膀胱癌不在裡面，查不到官方數字。接下來是台灣的分布：癌症登記長表 112 年（2023 診斷年）膀胱癌 3,809 例，整併期別依 AJCC 第 8 版，0 期 38.08%、I 期 34.68%、II 期 13.06%、III 期 9.37%、IV 期 4.82%，上方括出 0 期加 I 期等於 72.8%（線的左邊）、II 到 IV 期等於 27.2%（線的右邊），分母 3,737，另有 72 例不詳。旁註 0 期那一格要拆開看，Ta 有 1,321 例、Tis 只有 102 例。同一區塊有一個警語盒：台灣有兩個官方的膀胱癌年度數字，不可互換也不可相減——長期趨勢檔 2023 年 2,562 例（男 1,826、女 736），檔案自己註明此為侵襲癌發生率數據；長表統計同年 3,809 例，包含原位癌 1,452 例（38.1%）與侵襲癌 2,357 例。再下面是 CIS 的獨立方塊，分左右兩欄。左欄是指引定義逐字：一種上皮內的、高惡性度的、非侵入性尿路上皮癌；如果沒有切片，膀胱鏡下可能被漏掉或被誤判為發炎病灶；常常是多發的，可以長在膀胱，也可以長在上泌尿道、攝護腺導管與尿道；臨床上分原發、續發、併發三型。左欄下方有一條紅字：CIS 的診斷無法單靠影像方法做出，電腦斷層尿路攝影、靜脈注射尿路攝影、超音波，包括多參數磁振造影在內都不行，只能靠切片。右欄是它把人放到哪一格：除了很高風險那一類，所有 CIS 病人都歸在高風險；原發的純 CIS 視為高風險；攝護腺尿道的 CIS 屬於很高風險。接著是分化度的兩套寫法，左欄 1973 年那套寫 G1、G2、G3，右欄 2004 年以後那套寫 PUNLMP、低惡性度、高惡性度，兩欄中間是一條虛線，標明中間沒有箭頭、沒有等號、也沒有換算表。下方說明：兩套系統之間病人在類別之間有顯著的移動，2004/2022 版的高惡性度人數增加，因為它納入了一部分預後比 G3 好的 G2 病人；指引小組的系統性回顧寫得最白——G1 病人的惡化率與低惡性度病人相近，G3 病人的惡化率則高於高惡性度病人。再下面是混合四層的五年惡化率橫條：低惡性度／G1 是 1.4%、低惡性度／G2 是 3.8%、高惡性度／G2 是 7.7%、高惡性度／G3 是 18.8%，資料來自 17 個中心、1990 到 2019 年、5,145 位原發 Ta／T1 病人，64% 是 Ta，中位追蹤 3.9 年，log-rank P 小於 0.001；預測惡化的 C 指數 1973 那套 0.71、2004 那套 0.67、兩套合起來 0.73；兩套系統對復發都沒有預測價值，有價值的是對惡化。再下一格是報告本身的不確定性，三條橫條：CIS 的診斷一致率 70 到 78%、T1 對 Ta 的分期判讀 50 到 60%、分化度判讀 50 到 60%；旁註這不是誰不認真，是這幾個判斷本來就在灰帶，指引因此寫在 T1 以上或困難的案例，可以考慮由有經驗的泌尿生殖病理醫師再看一次。倒數第二格講變異型與淋巴血管侵犯：2022 年世界衛生組織分類把所有變異型都視為高惡性度；非肌肉侵犯型病人中最多有 14.6% 帶有變異型，高惡性度成分超過 5% 就算高惡性度腫瘤；會把人推到很高風險那一格的包括純微乳頭、肉瘤樣、巢狀、漿細胞樣與神經內分泌型，以及合併 CIS、淋巴血管侵犯、多發、殘存腫瘤或不完全刮除。圖的最下面是一個金框方塊：台灣 112 年 3,809 例膀胱癌中，侵襲癌 2,357 例裡泌尿上皮癌佔 95.59%，另有神經內分泌癌 30 例、腺癌 36 例、鱗狀細胞癌 10 例，組織型不同時治療邏輯會整個換一套；這張圖能替你做的只有一件事，是把報告上的字換成可以問出口的問題：我的 T 是哪一個、在肌肉層這條線的哪一邊、分化度用的是哪一套系統、有沒有寫 CIS、變異型與淋巴血管侵犯、我拿到的是臨床期別還是病理期別。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="6279" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">THE LINE IS DRAWN IN THE MUSCLE LAYER</text>
+<text x="40" y="120" font-size="38" fill="#123641" font-weight="800" class="r">第一條線畫在肌肉層：Ta、</text>
+<text x="40" y="167.88" font-size="38" fill="#123641" font-weight="800" class="r">Tis、T1 在這邊，T2 以上</text>
+<text x="40" y="215.76" font-size="38" fill="#123641" font-weight="800" class="r">在那邊</text>
+<text x="40" y="275.64" font-size="19" fill="#527078">Ta、Tis、T1、T2 不是嚴重程度的刻度，是一條線的兩邊。線</text>
+<text x="40" y="304.14" font-size="19" fill="#527078">畫在膀胱壁的肌肉層，它決定的不是「幾期」，是接下來走哪一</text>
+<text x="40" y="332.64" font-size="19" fill="#527078">套完全不同的流程。</text>
+<text x="40" y="367.14" font-size="19" fill="#527078">這張圖不給你沒有標邊的存活率，也不告訴你該怎麼治療——那是</text>
+<text x="40" y="395.64" font-size="19" fill="#527078">醫師看著你的報告、影像與整體狀況做的判斷。圖上每個數字都</text>
+<text x="40" y="424.14" font-size="19" fill="#527078">標了族群、年份與登記口徑。</text>
+<g filter="url(#sh)">
+<rect x="40" y="472.64" width="540" height="947.08" rx="18" fill="#FFFFFF"/>
+<path d="M 40 490.64 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#123641"/>
+</g>
+<text x="66" y="516.64" font-size="18" fill="#123641" font-weight="800">膀胱壁由內而外，還有那條線</text>
+<text x="66" y="557.84" font-size="14" fill="#527078">以下 T 分期定義為 EAU 2026 指引逐字轉錄的 TNM 定義。</text>
+<rect x="66" y="588.84" width="488" height="139.2" rx="12" fill="#D8EDE7"/>
+<text x="82" y="618.34" font-size="15.5" fill="#123641" font-weight="800">尿路上皮（黏膜層）</text>
+<text x="82" y="656.04" font-size="14" fill="#345963">Ta｜非侵入性乳突狀癌</text>
+<text x="82" y="693.04" font-size="14" fill="#345963">Tis｜原位癌，也就是「平的腫瘤」</text>
+<rect x="66" y="736.04" width="488" height="102.2" rx="12" fill="#D8EDE7"/>
+<text x="82" y="765.54" font-size="15.5" fill="#123641" font-weight="800">固有層（上皮下結締組織）</text>
+<text x="82" y="803.24" font-size="14" fill="#345963">T1｜腫瘤侵犯上皮下結締組織</text>
+<line x1="66" y1="858.24" x2="554" y2="858.24" stroke="#123641" stroke-width="5" stroke-linecap="butt"/>
+<rect x="243" y="846.24" width="134" height="25" rx="12.5" fill="#123641"/>
+<text x="310" y="863.24" font-size="13.5" fill="#FFFFFF" font-weight="800" text-anchor="middle">第一條線：肌肉層</text>
+<rect x="66" y="883.24" width="488" height="139.2" rx="12" fill="#F6E2E0"/>
+<text x="82" y="912.74" font-size="15.5" fill="#123641" font-weight="800">肌肉層（逼尿肌）</text>
+<text x="82" y="950.44" font-size="14" fill="#345963">T2a｜侵犯淺層肌肉（內半）</text>
+<text x="82" y="987.44" font-size="14" fill="#345963">T2b｜侵犯深層肌肉（外半）</text>
+<rect x="66" y="1030.44" width="488" height="139.2" rx="12" fill="#F6E2E0"/>
+<text x="82" y="1059.94" font-size="15.5" fill="#123641" font-weight="800">膀胱周圍組織</text>
+<text x="82" y="1097.64" font-size="14" fill="#345963">T3a｜顯微可見</text>
+<text x="82" y="1134.64" font-size="14" fill="#345963">T3b｜肉眼可見的膀胱外腫塊</text>
+<rect x="66" y="1177.64" width="488" height="139.2" rx="12" fill="#F6E2E0"/>
+<text x="82" y="1207.14" font-size="15.5" fill="#123641" font-weight="800">鄰近器官</text>
+<text x="82" y="1244.84" font-size="14" fill="#345963">T4a｜攝護腺基質、精囊、子宮或陰道</text>
+<text x="82" y="1281.84" font-size="14" fill="#345963">T4b｜骨盆壁或腹壁</text>
+<text x="66" y="1339.34" font-size="12.5" fill="#527078">版本：UICC 的 TNM 第 9 版在 2025 年出版，但官方版本異動總表上膀胱這一列全部</text>
+<text x="66" y="1357.47" font-size="12.5" fill="#527078">標示無異動——上面這些定義，第 8 版跟第 9 版一樣。台灣癌症登記 112 年報告的整併</text>
+<text x="66" y="1375.59" font-size="12.5" fill="#527078">期別明載依 AJCC 第 8 版。</text>
+<text x="40" y="1495.72" font-size="22" fill="#123641" font-weight="800" class="r">這條線決定什麼</text>
+<rect x="40" y="1515.2" width="540" height="306.78" rx="18" fill="#FFFFFF" stroke="#00806B" stroke-width="2.2"/>
+<rect x="62" y="1537.2" width="103" height="25" rx="12.5" fill="#00806B"/>
+<text x="73" y="1554.69" font-size="13.5" fill="#FFFFFF" font-weight="800">非肌肉侵犯型</text>
+<text x="62" y="1592.2" font-size="18" fill="#00806B" font-weight="800">線的左邊：Ta、Tis、T1</text>
+<circle cx="66.5" cy="1633.01" r="4" fill="#00806B"/>
+<text x="81" y="1638.9" font-size="15.5" fill="#345963">這些腫瘤都可以用經尿道刮除處理，因此為了治療目的，被歸在「非</text>
+<text x="81" y="1661.84" font-size="15.5" fill="#345963">肌肉侵犯型膀胱癌」這個標題之下。</text>
+<circle cx="66.5" cy="1686.89" r="4" fill="#00806B"/>
+<text x="81" y="1692.78" font-size="15.5" fill="#345963">指引自己補了一句：非肌肉侵犯型膀胱癌代表的是一個群體定義，所</text>
+<text x="81" y="1715.72" font-size="15.5" fill="#345963">有腫瘤都應該依照期別、分化度與其他病理特徵各自描述。它是一個</text>
+<text x="81" y="1738.66" font-size="15.5" fill="#345963">為了決定治療而畫的框，不是一個診斷。</text>
+<circle cx="66.5" cy="1763.71" r="4" fill="#00806B"/>
+<text x="81" y="1769.6" font-size="15.5" fill="#345963">分到哪一個風險層、要不要灌藥，是另一篇的題目：〈低、中、高風</text>
+<text x="81" y="1792.54" font-size="15.5" fill="#345963">險，決定了灌不灌藥〉。</text>
+<rect x="40" y="1839.98" width="540" height="260.9" rx="18" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.2"/>
+<rect x="62" y="1861.98" width="89.5" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="73" y="1879.47" font-size="13.5" fill="#FFFFFF" font-weight="800">肌肉侵犯型</text>
+<text x="62" y="1916.98" font-size="18" fill="#B04A4A" font-weight="800">線的右邊：T2 以上</text>
+<circle cx="66.5" cy="1957.79" r="4" fill="#B04A4A"/>
+<text x="81" y="1963.68" font-size="15.5" fill="#345963">要在切除膀胱與保留膀胱之間選路，那一題在〈切掉膀胱，還是保留</text>
+<text x="81" y="1986.62" font-size="15.5" fill="#345963">膀胱〉。</text>
+<circle cx="66.5" cy="2011.67" r="4" fill="#B04A4A"/>
+<text x="81" y="2017.56" font-size="15.5" fill="#345963">分化度那一行就不看了——指引寫得很直接：膀胱的肌肉侵犯型尿路上</text>
+<text x="81" y="2040.5" font-size="15.5" fill="#345963">皮癌全部都是高惡性度，因此分化度無法提供預後資訊。</text>
+<circle cx="66.5" cy="2065.55" r="4" fill="#B04A4A"/>
+<text x="81" y="2071.44" font-size="15.5" fill="#345963">線的兩邊，連該看哪幾行都不一樣。</text>
+<text x="40" y="2128.88" font-size="14" fill="#527078">順帶把一個舊詞處理掉：指引有一條強度較高的建議寫著「不要使用『淺層』膀胱癌這</text>
+<text x="40" y="2150.58" font-size="14" fill="#527078">個詞」，理由是「因為它不正確」。T1 已經長進固有層，它一點也不淺。</text>
+<text x="40" y="2234.28" font-size="22" fill="#123641" font-weight="800" class="r">登記表上的「期別」欄位，不是這條線</text>
+<text x="40" y="2259.76" font-size="14" fill="#527078">這是我最常看到被讀歪的一格：登記系統的期別分類與診間講的兩條線，是兩套語言。</text>
+<g filter="url(#sh)">
+<rect x="40" y="2278.76" width="540" height="533.47" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2296.76 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="66" y="2320.26" font-size="15.5" fill="#123641" font-weight="800">美國 SEER 的期別欄位（SEER 21 不含 IL，2016–2022）</text>
+<rect x="66" y="2349.96" width="241" height="42" rx="6" fill="#00806B"/>
+<rect x="310" y="2349.96" width="162.92" height="42" rx="6" fill="#96790F"/>
+<rect x="475.92" y="2349.96" width="31.16" height="42" rx="6" fill="#5C77C4"/>
+<rect x="510.08" y="2349.96" width="26.28" height="42" rx="6" fill="#B04A4A"/>
+<rect x="539.36" y="2349.96" width="11.64" height="42" rx="6" fill="#7A6E58"/>
+<line x1="310" y1="2403.96" x2="475.92" y2="2403.96" stroke="#96790F" stroke-width="2.6" stroke-linecap="butt"/>
+<line x1="310" y1="2403.96" x2="310" y2="2395.96" stroke="#96790F" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="475.92" y1="2403.96" x2="475.92" y2="2395.96" stroke="#96790F" stroke-width="2.6" stroke-linecap="round"/>
+<text x="66" y="2429.46" font-size="15.5" fill="#96790F" font-weight="800">「局限」這一格同時裝著 T1（沒有侵犯肌肉）與 T2（已經侵犯肌肉）</text>
+<rect x="66" y="2461.93" width="11" height="11" rx="2" fill="#00806B"/>
+<text x="86" y="2473.93" font-size="14" fill="#345963">原位 50%｜五年相對存活 98.0%</text>
+<rect x="66" y="2500.23" width="11" height="11" rx="2" fill="#96790F"/>
+<text x="86" y="2512.23" font-size="14" fill="#345963">局限 34%｜73.0%</text>
+<rect x="66" y="2538.53" width="11" height="11" rx="2" fill="#5C77C4"/>
+<text x="86" y="2550.53" font-size="14" fill="#345963">區域 7%｜41.8%</text>
+<rect x="66" y="2576.83" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="86" y="2588.83" font-size="14" fill="#345963">遠端 6%｜9.6%</text>
+<rect x="66" y="2615.13" width="11" height="11" rx="2" fill="#7A6E58"/>
+<text x="86" y="2627.13" font-size="14" fill="#345963">不詳 3%</text>
+<text x="66" y="2673.43" font-size="14" fill="#345963">這兩群人的治療路徑完全不同。所以「膀胱癌五年存活 73%」這種句子，不是</text>
+<text x="66" y="2695.13" font-size="14" fill="#345963">不精確，是把線兩邊的人混在一起講，等於沒有講。</text>
+<text x="66" y="2736.83" font-size="14" fill="#345963">台灣自己的膀胱癌五年存活率：癌症登記中心公布的存活分析只涵蓋十大癌症，</text>
+<text x="66" y="2758.53" font-size="14" fill="#345963">膀胱癌不在裡面——查不到官方數字，這張圖也不放任何非官方的轉述。</text>
+<text x="40" y="2888.23" font-size="22" fill="#123641" font-weight="800" class="r">台灣的人，站在線的哪一邊</text>
+<g filter="url(#sh)">
+<rect x="40" y="2907.71" width="540" height="713.73" rx="18" fill="#FFFFFF"/>
+<path d="M 40 2925.71 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#00806B"/>
+</g>
+<text x="66" y="2949.21" font-size="15.5" fill="#123641" font-weight="800">癌症登記長表 112 年（2023 診斷年）膀胱癌 n=3,809，整併期別依</text>
+<text x="66" y="2970.91" font-size="15.5" fill="#123641" font-weight="800">AJCC 第 8 版</text>
+<line x1="66" y1="3008.61" x2="415.07" y2="3008.61" stroke="#00806B" stroke-width="2.6" stroke-linecap="butt"/>
+<line x1="66" y1="3008.61" x2="66" y2="3016.61" stroke="#00806B" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="415.07" y1="3008.61" x2="415.07" y2="3016.61" stroke="#00806B" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="427.07" y1="3008.61" x2="554" y2="3008.61" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="butt"/>
+<line x1="427.07" y1="3008.61" x2="427.07" y2="3016.61" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="554" y1="3008.61" x2="554" y2="3016.61" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<text x="66" y="3000.61" font-size="15.5" fill="#00806B" font-weight="800">0 期＋I 期＝72.8%</text>
+<text x="554" y="3000.61" font-size="15.5" fill="#B04A4A" font-weight="800" text-anchor="end">II 到 IV 期＝27.2%</text>
+<rect x="66" y="3020.61" width="182.83" height="42" rx="6" fill="#00806B"/>
+<rect x="251.83" y="3020.61" width="166.24" height="42" rx="6" fill="#00806B"/>
+<rect x="421.07" y="3020.61" width="60.73" height="42" rx="6" fill="#B04A4A"/>
+<rect x="484.8" y="3020.61" width="42.73" height="42" rx="6" fill="#B04A4A"/>
+<rect x="530.53" y="3020.61" width="20.52" height="42" rx="6" fill="#B04A4A"/>
+<rect x="66" y="3074.61" width="11" height="11" rx="2" fill="#00806B"/>
+<text x="86" y="3086.61" font-size="14" fill="#345963">0 期 38.08%</text>
+<rect x="66" y="3112.91" width="11" height="11" rx="2" fill="#00806B"/>
+<text x="86" y="3124.91" font-size="14" fill="#345963">I 期 34.68%</text>
+<rect x="66" y="3151.21" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="86" y="3163.21" font-size="14" fill="#345963">II 期 13.06%</text>
+<rect x="66" y="3189.51" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="86" y="3201.51" font-size="14" fill="#345963">III 期 9.37%</text>
+<rect x="66" y="3227.81" width="11" height="11" rx="2" fill="#B04A4A"/>
+<text x="86" y="3239.81" font-size="14" fill="#345963">IV 期 4.82%</text>
+<text x="66" y="3280.61" font-size="12.5" fill="#527078">把報告自己的類別相加，分母 3,737（另有 72 例不詳）。</text>
+<text x="66" y="3318.74" font-size="14" fill="#345963">0 期那一格要拆開看，因為它裝了兩種很不一樣的東西：Ta 有 1,321 例、Tis</text>
+<text x="66" y="3340.44" font-size="14" fill="#345963">（原位癌）只有 102 例。</text>
+<rect x="66" y="3372.14" width="488" height="223.3" rx="14" fill="#F3E8CD"/>
+<text x="82" y="3402.14" font-size="14" fill="#8F7418" font-weight="800">台灣有兩個官方的膀胱癌年度數字，不可互換、也不可相減</text>
+<text x="82" y="3438.44" font-size="14" fill="#345963">癌症登記長期趨勢檔 2023 年膀胱癌 2,562 例（男 1,826、女 736），</text>
+<text x="82" y="3459.44" font-size="14" fill="#345963">但檔案自己註明「此為侵襲癌發生率數據」。</text>
+<text x="82" y="3498.44" font-size="14" fill="#345963">同一年長表統計的 3,809 例，則包含原位癌 1,452 例（38.1%）與侵襲</text>
+<text x="82" y="3519.44" font-size="14" fill="#345963">癌 2,357 例。</text>
+<text x="82" y="3558.44" font-size="14" fill="#345963">看到台灣的膀胱癌人數，第一件事是問這是哪一個口徑。</text>
+<text x="40" y="3697.44" font-size="22" fill="#123641" font-weight="800" class="r">CIS 是平的那一種，膀胱鏡下常常只像一塊發炎</text>
+<g filter="url(#sh)">
+<rect x="40" y="3716.92" width="540" height="509.6" rx="18" fill="#FFFFFF"/>
+<path d="M 40 3734.92 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="66" y="3758.42" font-size="15.5" fill="#123641" font-weight="800">它是什麼（指引定義逐字）</text>
+<circle cx="70.5" cy="3794.8" r="4" fill="#5C77C4"/>
+<text x="85" y="3800.12" font-size="14" fill="#345963">一種上皮內的、高惡性度的、非侵入性尿路上皮癌。</text>
+<circle cx="70.5" cy="3823.52" r="4" fill="#5C77C4"/>
+<text x="85" y="3828.84" font-size="14" fill="#345963">如果沒有切片，它在膀胱鏡下可能被漏掉或被誤判為發炎病灶。</text>
+<circle cx="70.5" cy="3852.24" r="4" fill="#5C77C4"/>
+<text x="85" y="3857.56" font-size="14" fill="#345963">常常是多發的，可以長在膀胱，也可以長在上泌尿道、攝護腺導管與尿道。</text>
+<circle cx="70.5" cy="3880.95" r="4" fill="#5C77C4"/>
+<text x="85" y="3886.28" font-size="14" fill="#345963">臨床上分三型：原發（沒有過、也沒有同時的乳突狀腫瘤）、續發（追蹤中</text>
+<text x="85" y="3906.99" font-size="14" fill="#345963">發現、先前是別的腫瘤）、併發（合併其他膀胱尿路上皮腫瘤）。</text>
+<rect x="66" y="3925.71" width="488" height="88" rx="14" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<text x="82" y="3955.71" font-size="14" fill="#345963">CIS 的診斷無法單靠影像方法做出——電腦斷層尿路攝影、靜脈注射尿路攝</text>
+<text x="82" y="3976.71" font-size="14" fill="#345963">影、超音波，包括多參數磁振造影在內，都不行。CIS 只能靠切片。</text>
+<text x="66" y="4045.21" font-size="15.5" fill="#123641" font-weight="800">它把人放到哪一格</text>
+<circle cx="70.5" cy="4081.59" r="4" fill="#96790F"/>
+<text x="85" y="4086.91" font-size="14" fill="#345963">指引的風險分層裡，除了很高風險那一類，所有 CIS 病人都歸在高風險。</text>
+<circle cx="70.5" cy="4110.31" r="4" fill="#96790F"/>
+<text x="85" y="4115.63" font-size="14" fill="#345963">原發的純 CIS 應視為高風險。</text>
+<circle cx="70.5" cy="4139.03" r="4" fill="#96790F"/>
+<text x="85" y="4144.35" font-size="14" fill="#345963">攝護腺尿道的 CIS 屬於很高風險。</text>
+<circle cx="70.5" cy="4167.76" r="4" fill="#96790F"/>
+<text x="85" y="4173.07" font-size="14" fill="#345963">這四格怎麼決定灌不灌藥，寫在〈低、中、高風險，決定了灌不灌藥〉，這</text>
+<text x="85" y="4193.8" font-size="14" fill="#345963">裡不展開。</text>
+<text x="40" y="4302.52" font-size="22" fill="#123641" font-weight="800" class="r">分化度有兩套寫法，而且不能互相換算</text>
+<g filter="url(#sh)">
+<rect x="40" y="4321.99" width="540" height="938.49" rx="18" fill="#FFFFFF"/>
+<path d="M 40 4339.99 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#96790F"/>
+</g>
+<text x="66" y="4363.49" font-size="15.5" fill="#123641" font-weight="800">1973 年那套</text>
+<rect x="66" y="4393.19" width="42.57" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="77" y="4410.69" font-size="13.5" fill="#FFFFFF" font-weight="800">G1</text>
+<rect x="66" y="4426.19" width="42.57" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="77" y="4443.69" font-size="13.5" fill="#FFFFFF" font-weight="800">G2</text>
+<rect x="66" y="4459.19" width="42.57" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="77" y="4476.69" font-size="13.5" fill="#FFFFFF" font-weight="800">G3</text>
+<line x1="66" y1="4504.19" x2="554" y2="4504.19" stroke="#B9AE94" stroke-width="2" stroke-linecap="butt" stroke-dasharray="2 7"/>
+<rect x="186.5" y="4492.19" width="247" height="24" rx="12" fill="#F7F1E4"/>
+<text x="310" y="4508.69" font-size="12.5" fill="#527078" font-weight="700" text-anchor="middle">中間沒有箭頭、沒有等號，也沒有換算表</text>
+<text x="66" y="4551.69" font-size="15.5" fill="#123641" font-weight="800">2004 年以後那套（2004／2016／2022）</text>
+<rect x="66" y="4581.39" width="92.47" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="77" y="4598.89" font-size="13.5" fill="#FFFFFF" font-weight="800">PUNLMP</text>
+<rect x="66" y="4614.39" width="76" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="77" y="4631.89" font-size="13.5" fill="#FFFFFF" font-weight="800">低惡性度</text>
+<rect x="66" y="4647.39" width="76" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="77" y="4664.89" font-size="13.5" fill="#FFFFFF" font-weight="800">高惡性度</text>
+<text x="66" y="4698.39" font-size="14" fill="#345963">指引明白寫著，兩套系統之間「病人在類別之間有顯著的移動」：2004/2022</text>
+<text x="66" y="4720.09" font-size="14" fill="#345963">版的高惡性度人數增加，因為它納入了一部分預後比 G3 好的 G2 病人。</text>
+<text x="66" y="4763.79" font-size="14" fill="#345963">指引小組自己的系統性回顧把這件事講得最白：G1 病人的惡化率與低惡性度病</text>
+<text x="66" y="4785.49" font-size="14" fill="#345963">人相近；G3 病人的惡化率則高於高惡性度病人。G3 不等於高惡性度，兩邊量</text>
+<text x="66" y="4807.19" font-size="14" fill="#345963">的東西不完全一樣。</text>
+<text x="66" y="4858.39" font-size="15.5" fill="#123641" font-weight="800">可以拿來用的是混合的四層：五年惡化率</text>
+<text x="66" y="4904.09" font-size="14" fill="#527078" font-weight="700">低惡性度／G1</text>
+<rect x="66" y="4913.97" width="376" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="66" y="4913.97" width="26.32" height="26" rx="7" fill="#96790F"/>
+<text x="454" y="4934.53" font-size="21" fill="#96790F" font-weight="800">1.4%</text>
+<text x="66" y="4965.97" font-size="14" fill="#527078" font-weight="700">低惡性度／G2</text>
+<rect x="66" y="4975.85" width="376" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="66" y="4975.85" width="71.44" height="26" rx="7" fill="#96790F"/>
+<text x="454" y="4996.41" font-size="21" fill="#96790F" font-weight="800">3.8%</text>
+<text x="66" y="5027.85" font-size="14" fill="#527078" font-weight="700">高惡性度／G2</text>
+<rect x="66" y="5037.73" width="376" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="66" y="5037.73" width="144.76" height="26" rx="7" fill="#96790F"/>
+<text x="454" y="5058.29" font-size="21" fill="#96790F" font-weight="800">7.7%</text>
+<text x="66" y="5089.73" font-size="14" fill="#527078" font-weight="700">高惡性度／G3</text>
+<rect x="66" y="5099.61" width="376" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="66" y="5099.61" width="353.44" height="26" rx="7" fill="#96790F"/>
+<text x="454" y="5120.17" font-size="21" fill="#96790F" font-weight="800">18.8%</text>
+<line x1="66" y1="5133.61" x2="442" y2="5133.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="66" y1="5133.61" x2="66" y2="5139.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="5155.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">0</text>
+<line x1="160" y1="5133.61" x2="160" y2="5139.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="160" y="5155.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">5</text>
+<line x1="254" y1="5133.61" x2="254" y2="5139.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="254" y="5155.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">10</text>
+<line x1="348" y1="5133.61" x2="348" y2="5139.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="348" y="5155.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">15</text>
+<line x1="442" y1="5133.61" x2="442" y2="5139.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="442" y="5155.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">20%</text>
+<text x="66" y="5180.11" font-size="12.5" fill="#527078">17 個中心、1990 到 2019 年、5,145 位原發 Ta／T1 病人（64% 是 Ta，中位追蹤</text>
+<text x="66" y="5198.24" font-size="12.5" fill="#527078">3.9 年），log-rank P&lt;0.001。預測惡化的 C 指數：1973 那套 0.71、2004 那套</text>
+<text x="66" y="5216.36" font-size="12.5" fill="#527078">0.67、兩套合起來 0.73。兩套系統對「復發」都沒有預測價值，有價值的是對「惡化」。</text>
+<text x="40" y="5336.49" font-size="22" fill="#123641" font-weight="800" class="r">報告上的字本身，也有不確定性</text>
+<g filter="url(#sh)">
+<rect x="40" y="5355.97" width="540" height="524.56" rx="18" fill="#FFFFFF"/>
+<path d="M 40 5373.97 a 18 18 0 0 1 18 -18 h 504 a 18 18 0 0 1 18 18 z" fill="#5C77C4"/>
+</g>
+<text x="66" y="5395.97" font-size="14" fill="#527078" font-weight="700">CIS 的診斷一致率</text>
+<rect x="66" y="5405.85" width="376" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="66" y="5405.85" width="278.24" height="26" rx="7" fill="#5C77C4"/>
+<text x="454" y="5426.41" font-size="21" fill="#5C77C4" font-weight="800">70–78%</text>
+<text x="66" y="5457.85" font-size="14" fill="#527078" font-weight="700">T1 對 Ta 的分期判讀</text>
+<rect x="66" y="5467.73" width="376" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="66" y="5467.73" width="206.8" height="26" rx="7" fill="#5C77C4"/>
+<text x="454" y="5488.29" font-size="21" fill="#5C77C4" font-weight="800">50–60%</text>
+<text x="66" y="5519.73" font-size="14" fill="#527078" font-weight="700">分化度判讀</text>
+<rect x="66" y="5529.61" width="376" height="26" rx="7" fill="#ECE8DE"/>
+<rect x="66" y="5529.61" width="206.8" height="26" rx="7" fill="#5C77C4"/>
+<text x="454" y="5550.17" font-size="21" fill="#5C77C4" font-weight="800">50–60%</text>
+<line x1="66" y1="5563.61" x2="442" y2="5563.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="66" y1="5563.61" x2="66" y2="5569.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="5585.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">0</text>
+<line x1="160" y1="5563.61" x2="160" y2="5569.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="160" y="5585.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">25</text>
+<line x1="254" y1="5563.61" x2="254" y2="5569.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="254" y="5585.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">50</text>
+<line x1="348" y1="5563.61" x2="348" y2="5569.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="348" y="5585.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">75</text>
+<line x1="442" y1="5563.61" x2="442" y2="5569.61" stroke="#B9AE94" stroke-width="1.6" stroke-linecap="round"/>
+<text x="442" y="5585.61" font-size="12.5" fill="#527078" class="ax" text-anchor="middle">100%</text>
+<text x="66" y="5613.61" font-size="14" fill="#345963">這不是誰不認真，是這幾個判斷本來就在灰帶。指引因此寫了一句：在 T1 以</text>
+<text x="66" y="5635.31" font-size="14" fill="#345963">上或困難的案例，可以考慮由有經驗的泌尿生殖病理醫師再看一次。</text>
+<text x="66" y="5684.51" font-size="15.5" fill="#123641" font-weight="800">小字比分數更值得問：變異型與淋巴血管侵犯</text>
+<circle cx="70.5" cy="5722.89" r="4" fill="#B04A4A"/>
+<text x="85" y="5728.21" font-size="14" fill="#345963">2022 年的世界衛生組織分類把所有變異型都視為高惡性度。</text>
+<circle cx="70.5" cy="5751.61" r="4" fill="#B04A4A"/>
+<text x="85" y="5756.93" font-size="14" fill="#345963">非肌肉侵犯型病人中最多有 14.6% 帶有變異型，檢體裡變異型的百分比應該</text>
+<text x="85" y="5777.65" font-size="14" fill="#345963">寫在報告上；依 2022 年分類，高惡性度成分超過 5% 就算高惡性度腫瘤。</text>
+<circle cx="70.5" cy="5801.05" r="4" fill="#B04A4A"/>
+<text x="85" y="5806.37" font-size="14" fill="#345963">會把人推到很高風險那一格的，包括純微乳頭、肉瘤樣、巢狀、漿細胞樣與</text>
+<text x="85" y="5827.09" font-size="14" fill="#345963">神經內分泌型，以及合併 CIS、淋巴血管侵犯、多發、殘存腫瘤或不完全刮</text>
+<text x="85" y="5847.81" font-size="14" fill="#345963">除。</text>
+<rect x="40" y="5906.53" width="540" height="241.35" rx="18" fill="none" stroke="#C9A83E" stroke-width="2.5"/>
+<text x="66" y="5950.53" font-size="18" fill="#8F7418" font-weight="800">這張圖不收在一個數字上</text>
+<text x="66" y="5981.73" font-size="15.5" fill="#345963">台灣 112 年 3,809 例膀胱癌中，侵襲癌 2,357 例裡泌尿上皮癌佔</text>
+<text x="66" y="6005.75" font-size="15.5" fill="#345963">95.59%，另有神經內分泌癌 30 例、腺癌 36 例、鱗狀細胞癌 10 例——</text>
+<text x="66" y="6029.78" font-size="15.5" fill="#345963">組織型不同時，治療邏輯會整個換一套。這張圖能替你做的只有一件事：</text>
+<text x="66" y="6053.8" font-size="15.5" fill="#345963">把報告上的字換成可以問出口的問題——我的 T 是哪一個？在肌肉層這</text>
+<text x="66" y="6077.83" font-size="15.5" fill="#345963">條線的哪一邊？分化度那一行用的是哪一套系統？有沒有寫 CIS、變異</text>
+<text x="66" y="6101.85" font-size="15.5" fill="#345963">型、淋巴血管侵犯？我拿到的是臨床期別還是病理期別？</text>
+<text x="40" y="6173.88" font-size="15" fill="#527078">示意圖，依 EAU 2026 非肌肉侵犯型與肌肉侵犯型膀胱癌指引、UICC TNM 第</text>
+<text x="40" y="6197.13" font-size="15" fill="#527078">9 版與其版本異動總表（Brierley 2026）、van Rhijn 2021、Soukup 2017、</text>
+<text x="40" y="6220.38" font-size="15" fill="#527078">台灣癌症登記長表 112 年與癌症長期趨勢檔、SEER Cancer Stat Facts 重繪，</text>
+<text x="40" y="6243.63" font-size="15" fill="#527078">非擷取自原論文圖表；各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

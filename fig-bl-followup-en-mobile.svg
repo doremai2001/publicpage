@@ -1,0 +1,278 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="5184" viewBox="0 0 620 5184" role="img" aria-labelledby="t d">
+  <title id="t">Follow-up schedules after NMIBC and after bladder preservation</title>
+  <desc id="d">Schematic comparing the follow-up schedules of the two roads in two columns. The left column is non-muscle-invasive bladder cancer (Ta / T1 / CIS) under the EAU 2026 guideline; every recommendation carries the strength Weak and the guideline itself notes a lack of RCTs. One cell is not stratified: the first cystoscopy is always three months after TURBT, level of evidence 1a. Low risk: month 3, month 12, then yearly, with a stopping point after five years; the wording is &quot;should be considered&quot;, not &quot;stop&quot;. This stratum has no urinary cytology and no routine imaging, and a negative haematuria dipstick has negative predictive values of 0.89 and 0.94. Intermediate risk excluding high grade: month 3, six-monthly for two years, then yearly, with a stopping point after ten years; the high-grade subgroup within intermediate risk is followed as high risk. High and very high risk: three-monthly for two years, six-monthly to five years, then yearly, marked life long with no stopping point, because &quot;Recurrences after ten years tumour-free are not unusual&quot;; cytology runs at the same frequency as cystoscopy. High and very high risk carries a second axis, upper-tract CT urography: yearly to five years, two-yearly to ten years, also life long with no stopping point. The ten-year rate of upper-tract tumour ranges from 1.9% in T1 tumours to 25% in multiple recurrent high-risk non-muscle-invasive bladder cancer, and reached 3.6% within ten years for high-risk patients (Ta G3 and CIS) in a population-based study. The right column is the bladder kept after trimodality therapy: three guidelines, three schedules, all three ending with no stopping point. EAU 2026: three-monthly cystoscopy for two years, six-monthly to year five, yearly thereafter, with cytology and chest, abdominal and pelvic CT or MRI including the upper tract every six to twelve months for the first three to five years. AUA / ASCO / SUO: three-monthly in year one, every four to six months in year two, every six to twelve months thereafter, with imaging six-monthly for the first two years and the guideline noting that no published data show that this frequency improves survival. NICE guideline NG2: rigid cystoscopy three months after radiotherapy, three-monthly for two years, six-monthly for the next two years, yearly thereafter, with upper-tract imaging yearly for five years. The intervals differ but all three end at &quot;yearly thereafter&quot;; not one reaches a stop. Two Taiwan lines at the foot: National Health Insurance item 28019C, cystoscopy, 1,800 points; and no entry found for any cap on the number of cystoscopies in follow-up, where zero hits means no entry was found rather than &quot;not reimbursed&quot;, so ask the hospital medical affairs office or your case manager. Three closing questions: which stratum am I in or which guideline schedule am I on, does my schedule have a stopping point, and do I need upper-tract CT every year.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="5184" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">FOLLOW-UP SCHEDULES - WHICH CELLS HAVE</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">A STOPPING POINT AND WHICH DO NOT</text>
+<text x="40" y="140" font-size="40" fill="#123641" font-weight="800" class="r">Two roads, two follow-up</text>
+<text x="40" y="190.4" font-size="40" fill="#123641" font-weight="800" class="r">schedules: which cells</text>
+<text x="40" y="240.8" font-size="40" fill="#123641" font-weight="800" class="r">stop, and which never do</text>
+<text x="40" y="301.2" font-size="19" fill="#527078">On the left, after resection of non-muscle-invasive</text>
+<text x="40" y="329.7" font-size="19" fill="#527078">bladder cancer. On the right, after trimodality therapy</text>
+<text x="40" y="358.2" font-size="19" fill="#527078">has finished and the bladder has been kept. The risk</text>
+<text x="40" y="386.7" font-size="19" fill="#527078">strata, the intervals and the stopping points differ; no</text>
+<text x="40" y="415.2" font-size="19" fill="#527078">figure may be carried from one side to the other.</text>
+<text x="40" y="449.7" font-size="19" fill="#527078">The hatched red cells mean one thing only: the</text>
+<text x="40" y="478.2" font-size="19" fill="#527078">guideline gives no stopping point. Cystoscopy in high</text>
+<text x="40" y="506.7" font-size="19" fill="#527078">and very high risk is life-long, and so is upper-tract</text>
+<text x="40" y="535.2" font-size="19" fill="#527078">CT urography.</text>
+<rect x="40" y="583.7" width="540" height="156.6" rx="18" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+<text x="58" y="622.7" font-size="21" fill="#8F7418" font-weight="800">Left column - non-muscle-invasive disease</text>
+<text x="58" y="650" font-size="21" fill="#8F7418" font-weight="800">(Ta / T1 / CIS): after resection</text>
+<text x="58" y="673.3" font-size="14" fill="#527078">EAU Guidelines on Non-muscle-invasive Bladder Cancer, 2026</text>
+<text x="58" y="694.3" font-size="14" fill="#527078">edition. The schedule follows the risk stratum assigned at diagnosis,</text>
+<text x="58" y="715.3" font-size="14" fill="#527078">not how clean this particular cystoscopy looked.</text>
+<g filter="url(#sh)">
+<rect x="40" y="754.3" width="540" height="249.74" rx="18" fill="#F3E8CD" stroke="#C9A83E" stroke-width="2"/>
+</g>
+<text x="60" y="792.3" font-size="18" fill="#123641" font-weight="800">This cell is not stratified: the first cystoscopy is</text>
+<text x="60" y="816.42" font-size="18" fill="#123641" font-weight="800">always at month three</text>
+<text x="78" y="844.54" font-size="14" fill="#123641" font-weight="700">“should always be performed three months after TURBT in all</text>
+<text x="78" y="865.54" font-size="14" fill="#123641" font-weight="700">patients with TaT1 tumours and CIS”</text>
+<text x="78" y="886.04" font-size="13.5" fill="#527078">EAU Guidelines on Non-muscle-invasive Bladder Cancer, 2026</text>
+<text x="78" y="906.29" font-size="13.5" fill="#527078">edition, level of evidence 1a</text>
+<rect x="60" y="833.54" width="4" height="76.5" rx="2" fill="#C9A83E"/>
+<text x="60" y="935.04" font-size="14" fill="#345963">It is not merely one more test. What is seen at month three changes</text>
+<text x="60" y="956.04" font-size="14" fill="#345963">the rhythm of everything that follows, and may change the</text>
+<text x="60" y="977.04" font-size="14" fill="#345963">treatment. So this one is not moved back.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1018.04" width="540" height="468.9" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="1038.04" width="86.88" height="25" rx="12.5" fill="#00806B"/>
+<text x="71" y="1055.4" font-size="13.5" fill="#FFFFFF" font-weight="800">Low risk</text>
+<text x="60" y="1086.04" font-size="14" fill="#527078">Small, single, low-grade Ta</text>
+<rect x="60" y="1100.04" width="500" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="60" y="1100.04" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="78" y="1120.92" font-size="14" fill="#345963">Month 3</text>
+<line x1="82" y1="1136.34" x2="82" y2="1147.34" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="1147.34" width="500" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="60" y="1147.34" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="78" y="1168.22" font-size="14" fill="#345963">Month 12</text>
+<line x1="82" y1="1183.64" x2="82" y2="1194.64" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="1194.64" width="500" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="60" y="1194.64" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="78" y="1215.52" font-size="14" fill="#345963">Yearly thereafter</text>
+<rect x="60" y="1243.94" width="500" height="35" rx="10" fill="#D8EDE7"/>
+<rect x="60" y="1243.94" width="500" height="35" rx="10" fill="none" stroke="#00806B" stroke-width="2.2"/>
+<text x="72" y="1265.44" font-size="13.5" fill="#00806B" font-weight="800">A stopping point after five years</text>
+<text x="60" y="1304.94" font-size="14" fill="#345963">The guideline wording is &quot;should be considered&quot; - stopping</text>
+<text x="60" y="1325.94" font-size="14" fill="#345963">cystoscopy, or moving to a less invasive method, should be</text>
+<text x="60" y="1346.94" font-size="14" fill="#345963">considered; it does not say &quot;stop&quot;. This stratum has no urinary</text>
+<text x="60" y="1367.94" font-size="14" fill="#345963">cytology and no routine imaging; the same passage reports negative</text>
+<text x="60" y="1388.94" font-size="14" fill="#345963">predictive values of 0.89 and 0.94 for a negative haematuria dipstick</text>
+<text x="60" y="1409.94" font-size="14" fill="#345963">in low-risk cohorts.</text>
+<text x="60" y="1438.94" font-size="14" fill="#00806B" font-weight="700">&quot;Five years and you can stop&quot; belongs to this stratum and to no</text>
+<text x="60" y="1459.94" font-size="14" fill="#00806B" font-weight="700">other.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1500.94" width="540" height="384.9" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="1520.94" width="299.75" height="25" rx="12.5" fill="#96790F"/>
+<text x="71" y="1538.3" font-size="13.5" fill="#FFFFFF" font-weight="800">Intermediate risk (high grade excluded)</text>
+<text x="60" y="1568.94" font-size="14" fill="#527078">The box that holds both ends</text>
+<rect x="60" y="1582.94" width="500" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="60" y="1582.94" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="78" y="1603.82" font-size="14" fill="#345963">Month 3</text>
+<line x1="82" y1="1619.24" x2="82" y2="1630.24" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="1630.24" width="500" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="60" y="1630.24" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="78" y="1651.12" font-size="14" fill="#345963">Six-monthly for two years</text>
+<line x1="82" y1="1666.54" x2="82" y2="1677.54" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="1677.54" width="500" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="60" y="1677.54" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="78" y="1698.42" font-size="14" fill="#345963">Yearly thereafter</text>
+<rect x="60" y="1726.84" width="500" height="35" rx="10" fill="#D8EDE7"/>
+<rect x="60" y="1726.84" width="500" height="35" rx="10" fill="none" stroke="#00806B" stroke-width="2.2"/>
+<text x="72" y="1748.34" font-size="13.5" fill="#00806B" font-weight="800">A stopping point after ten years</text>
+<text x="60" y="1787.84" font-size="14" fill="#345963">Lower-intensity follow-up on the basis of one small randomised</text>
+<text x="60" y="1808.84" font-size="14" fill="#345963">trial, to ten years.</text>
+<text x="60" y="1837.84" font-size="14" fill="#96790F" font-weight="700">One line is often dropped: the high-grade subgroup within</text>
+<text x="60" y="1858.84" font-size="14" fill="#96790F" font-weight="700">intermediate risk is followed as high risk.</text>
+<g filter="url(#sh)">
+<rect x="40" y="1899.84" width="540" height="444.9" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="1919.84" width="186.17" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="71" y="1937.2" font-size="13.5" fill="#FFFFFF" font-weight="800">High and very high risk</text>
+<text x="60" y="1967.84" font-size="14" fill="#527078">Cytology at the same frequency as cystoscopy</text>
+<rect x="60" y="1981.84" width="500" height="36.3" rx="10" fill="#F6E2E0"/>
+<rect x="60" y="1981.84" width="5" height="36.3" rx="2.5" fill="#B04A4A"/>
+<text x="78" y="2002.72" font-size="14" fill="#345963">Three-monthly for two years</text>
+<line x1="82" y1="2018.14" x2="82" y2="2029.14" stroke="#B04A4A" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="2029.14" width="500" height="36.3" rx="10" fill="#F6E2E0"/>
+<rect x="60" y="2029.14" width="5" height="36.3" rx="2.5" fill="#B04A4A"/>
+<text x="78" y="2050.02" font-size="14" fill="#345963">Six-monthly to five years</text>
+<line x1="82" y1="2065.44" x2="82" y2="2076.44" stroke="#B04A4A" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="2076.44" width="500" height="36.3" rx="10" fill="#F6E2E0"/>
+<rect x="60" y="2076.44" width="5" height="36.3" rx="2.5" fill="#B04A4A"/>
+<text x="78" y="2097.32" font-size="14" fill="#345963">Yearly thereafter</text>
+<circle cx="82" cy="2123.74" r="3.4" fill="#B04A4A"/>
+<circle cx="82" cy="2135.74" r="3.4" fill="#B04A4A"/>
+<circle cx="82" cy="2147.74" r="3.4" fill="#B04A4A"/>
+<rect x="60" y="2164.74" width="500" height="35" rx="10" fill="#F6E2E0"/>
+<rect x="60" y="2164.74" width="500" height="35" rx="10" fill="url(#hatchR)"/>
+<rect x="60" y="2164.74" width="500" height="35" rx="10" fill="none" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="72" y="2186.24" font-size="13.5" fill="#B04A4A" font-weight="800">Life long - no stopping point</text>
+<text x="60" y="2225.74" font-size="14" fill="#345963">The guideline gives its reason in one sentence: &quot;Recurrences after</text>
+<text x="60" y="2246.74" font-size="14" fill="#345963">ten years tumour-free are not unusual.&quot; In this stratum, a</text>
+<text x="60" y="2267.74" font-size="14" fill="#345963">recurrence after ten clear years is not a curiosity.</text>
+<text x="60" y="2296.74" font-size="14" fill="#B04A4A" font-weight="700">The strategy for this stratum is intensive early cystoscopy and</text>
+<text x="60" y="2317.74" font-size="14" fill="#B04A4A" font-weight="700">cytology, plus life-long follow-up.</text>
+<g filter="url(#sh)">
+<rect x="40" y="2358.74" width="540" height="418.6" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<rect x="60" y="2378.74" width="259.51" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="71" y="2396.1" font-size="13.5" fill="#FFFFFF" font-weight="800">Upper tract (high / very high risk)</text>
+<text x="60" y="2426.74" font-size="14" fill="#527078">CT urography, a separate axis</text>
+<rect x="60" y="2440.74" width="500" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="60" y="2440.74" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="78" y="2461.62" font-size="14" fill="#345963">Yearly to five years</text>
+<line x1="82" y1="2477.04" x2="82" y2="2488.04" stroke="#5C77C4" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="2488.04" width="500" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="60" y="2488.04" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="78" y="2508.92" font-size="14" fill="#345963">Two-yearly to ten years</text>
+<circle cx="82" cy="2535.34" r="3.4" fill="#5C77C4"/>
+<circle cx="82" cy="2547.34" r="3.4" fill="#5C77C4"/>
+<circle cx="82" cy="2559.34" r="3.4" fill="#5C77C4"/>
+<rect x="60" y="2576.34" width="500" height="35" rx="10" fill="#F6E2E0"/>
+<rect x="60" y="2576.34" width="500" height="35" rx="10" fill="url(#hatchR)"/>
+<rect x="60" y="2576.34" width="500" height="35" rx="10" fill="none" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="72" y="2597.84" font-size="13.5" fill="#B04A4A" font-weight="800">Life long as well - no stopping point</text>
+<text x="60" y="2637.34" font-size="14" fill="#345963">The figures with denominators: the ten-year rate of upper-tract</text>
+<text x="60" y="2658.34" font-size="14" fill="#345963">tumour varies widely between populations, from 1.9% in T1 tumours</text>
+<text x="60" y="2679.34" font-size="14" fill="#345963">to 25% in multiple recurrent high-risk non-muscle-invasive bladder</text>
+<text x="60" y="2700.34" font-size="14" fill="#345963">cancer; in one population-based study, high-risk patients (Ta G3 and</text>
+<text x="60" y="2721.34" font-size="14" fill="#345963">CIS) reached 3.6% within ten years.</text>
+<text x="60" y="2750.34" font-size="14" fill="#5C77C4" font-weight="700">A clean bladder does not mean a clean urinary tract.</text>
+<rect x="40" y="2791.34" width="540" height="235.84" rx="14" fill="#ECE8DE"/>
+<text x="56" y="2825.34" font-size="18" fill="#123641" font-weight="800">Every recommendation in this column carries the</text>
+<text x="56" y="2851.26" font-size="18" fill="#123641" font-weight="800">strength Weak</text>
+<text x="56" y="2875.18" font-size="14" fill="#345963">The guideline says so itself: the follow-up recommendations rest</text>
+<text x="56" y="2896.18" font-size="14" fill="#345963">mainly on retrospective data, and there is &quot;a lack of RCTs&quot; on</text>
+<text x="56" y="2917.18" font-size="14" fill="#345963">whether the frequency of surveillance cystoscopy can safely be</text>
+<text x="56" y="2938.18" font-size="14" fill="#345963">reduced.</text>
+<text x="56" y="2962.18" font-size="14" fill="#345963">This is not a regulation. It is the best arrangement currently</text>
+<text x="56" y="2983.18" font-size="14" fill="#345963">available, and the people who propose it say the evidence behind it is</text>
+<text x="56" y="3004.18" font-size="14" fill="#345963">not strong.</text>
+<rect x="40" y="3053.18" width="540" height="156.6" rx="18" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+<text x="58" y="3092.18" font-size="21" fill="#8F7418" font-weight="800">Right column - the bladder that was kept:</text>
+<text x="58" y="3119.48" font-size="21" fill="#8F7418" font-weight="800">after trimodality therapy</text>
+<text x="58" y="3142.78" font-size="14" fill="#527078">Three guidelines, three schedules, and the intervals differ. That is</text>
+<text x="58" y="3163.78" font-size="14" fill="#527078">not a typographical error, and merging them into one is not</text>
+<text x="58" y="3184.78" font-size="14" fill="#527078">something to do.</text>
+<g filter="url(#sh)">
+<rect x="40" y="3223.78" width="540" height="428.27" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="3261.78" font-size="18" fill="#00806B" font-weight="800">EAU 2026</text>
+<text x="60" y="3281.4" font-size="13.5" fill="#527078">Muscle-invasive and Metastatic Bladder Cancer guideline</text>
+<rect x="60" y="3297.15" width="500" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="60" y="3297.15" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="78" y="3318.03" font-size="14" fill="#345963">Three-monthly cystoscopy for two years</text>
+<line x1="82" y1="3333.45" x2="82" y2="3344.45" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="3344.45" width="500" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="60" y="3344.45" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="78" y="3365.33" font-size="14" fill="#345963">Six-monthly to year five</text>
+<line x1="82" y1="3380.75" x2="82" y2="3391.75" stroke="#00806B" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="3391.75" width="500" height="36.3" rx="10" fill="#D8EDE7"/>
+<rect x="60" y="3391.75" width="5" height="36.3" rx="2.5" fill="#00806B"/>
+<text x="78" y="3412.63" font-size="14" fill="#345963">Yearly thereafter</text>
+<circle cx="82" cy="3439.05" r="3.4" fill="#00806B"/>
+<circle cx="82" cy="3451.05" r="3.4" fill="#00806B"/>
+<circle cx="82" cy="3463.05" r="3.4" fill="#00806B"/>
+<rect x="60" y="3480.05" width="500" height="35" rx="10" fill="#F6E2E0"/>
+<rect x="60" y="3480.05" width="500" height="35" rx="10" fill="url(#hatchR)"/>
+<rect x="60" y="3480.05" width="500" height="35" rx="10" fill="none" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="72" y="3501.55" font-size="13.5" fill="#B04A4A" font-weight="800">No stopping point</text>
+<text x="60" y="3541.05" font-size="14" fill="#345963">Most recurrences occur two to five years after treatment; this</text>
+<text x="60" y="3562.05" font-size="14" fill="#345963">section is expert consensus. Urinary cytology and chest, abdominal</text>
+<text x="60" y="3583.05" font-size="14" fill="#345963">and pelvic CT or MRI (including the upper tract) every six to twelve</text>
+<text x="60" y="3604.05" font-size="14" fill="#345963">months for the first three to five years, and as clinically indicated</text>
+<text x="60" y="3625.05" font-size="14" fill="#345963">thereafter.</text>
+<g filter="url(#sh)">
+<rect x="40" y="3666.05" width="540" height="386.27" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="3704.05" font-size="18" fill="#96790F" font-weight="800">AUA / ASCO / SUO</text>
+<text x="60" y="3723.67" font-size="13.5" fill="#527078">American urological and oncological societies</text>
+<rect x="60" y="3739.42" width="500" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="60" y="3739.42" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="78" y="3760.3" font-size="14" fill="#345963">Three-monthly in year one</text>
+<line x1="82" y1="3775.72" x2="82" y2="3786.72" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="3786.72" width="500" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="60" y="3786.72" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="78" y="3807.6" font-size="14" fill="#345963">Every four to six months in year two</text>
+<line x1="82" y1="3823.02" x2="82" y2="3834.02" stroke="#96790F" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="3834.02" width="500" height="36.3" rx="10" fill="#F3E8CD"/>
+<rect x="60" y="3834.02" width="5" height="36.3" rx="2.5" fill="#96790F"/>
+<text x="78" y="3854.9" font-size="14" fill="#345963">Every six to twelve months thereafter</text>
+<circle cx="82" cy="3881.32" r="3.4" fill="#96790F"/>
+<circle cx="82" cy="3893.32" r="3.4" fill="#96790F"/>
+<circle cx="82" cy="3905.32" r="3.4" fill="#96790F"/>
+<rect x="60" y="3922.32" width="500" height="35" rx="10" fill="#F6E2E0"/>
+<rect x="60" y="3922.32" width="500" height="35" rx="10" fill="url(#hatchR)"/>
+<rect x="60" y="3922.32" width="500" height="35" rx="10" fill="none" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="72" y="3943.82" font-size="13.5" fill="#B04A4A" font-weight="800">No stopping point</text>
+<text x="60" y="3983.32" font-size="14" fill="#345963">Imaging is recommended six-monthly for the first two years, and</text>
+<text x="60" y="4004.32" font-size="14" fill="#345963">the same passage adds a sentence of its own: no published data</text>
+<text x="60" y="4025.32" font-size="14" fill="#345963">show that this imaging frequency improves survival.</text>
+<g filter="url(#sh)">
+<rect x="40" y="4066.32" width="540" height="391.57" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="60" y="4104.32" font-size="18" fill="#5C77C4" font-weight="800">NICE guideline NG2</text>
+<text x="60" y="4123.94" font-size="13.5" fill="#527078">Bladder cancer: diagnosis and management</text>
+<rect x="60" y="4139.69" width="500" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="60" y="4139.69" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="78" y="4160.57" font-size="14" fill="#345963">Rigid cystoscopy three months after radiotherapy</text>
+<line x1="82" y1="4175.99" x2="82" y2="4186.99" stroke="#5C77C4" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="4186.99" width="500" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="60" y="4186.99" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="78" y="4207.87" font-size="14" fill="#345963">Three-monthly for two years</text>
+<line x1="82" y1="4223.29" x2="82" y2="4234.29" stroke="#5C77C4" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="4234.29" width="500" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="60" y="4234.29" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="78" y="4255.17" font-size="14" fill="#345963">Six-monthly for the next two years</text>
+<line x1="82" y1="4270.59" x2="82" y2="4281.59" stroke="#5C77C4" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="60" y="4281.59" width="500" height="36.3" rx="10" fill="#E3E8F6"/>
+<rect x="60" y="4281.59" width="5" height="36.3" rx="2.5" fill="#5C77C4"/>
+<text x="78" y="4302.47" font-size="14" fill="#345963">Yearly thereafter</text>
+<circle cx="82" cy="4328.89" r="3.4" fill="#5C77C4"/>
+<circle cx="82" cy="4340.89" r="3.4" fill="#5C77C4"/>
+<circle cx="82" cy="4352.89" r="3.4" fill="#5C77C4"/>
+<rect x="60" y="4369.89" width="500" height="35" rx="10" fill="#F6E2E0"/>
+<rect x="60" y="4369.89" width="500" height="35" rx="10" fill="url(#hatchR)"/>
+<rect x="60" y="4369.89" width="500" height="35" rx="10" fill="none" stroke="#B04A4A" stroke-width="2.2"/>
+<text x="72" y="4391.39" font-size="13.5" fill="#B04A4A" font-weight="800">No stopping point</text>
+<text x="60" y="4430.89" font-size="14" fill="#345963">Upper-tract imaging yearly for five years.</text>
+<rect x="40" y="4471.89" width="540" height="148.84" rx="14" fill="#F3E8CD"/>
+<text x="56" y="4505.89" font-size="18" fill="#8F7418" font-weight="800">The intervals differ, but all three end at &quot;yearly</text>
+<text x="56" y="4531.81" font-size="18" fill="#8F7418" font-weight="800">thereafter&quot; - not one of them reaches a stop.</text>
+<text x="56" y="4555.73" font-size="14" fill="#345963">So &quot;a few more years and I can stop&quot; has nothing behind it on this</text>
+<text x="56" y="4576.73" font-size="14" fill="#345963">road. Ask your doctor to point at one of the three schedules and</text>
+<text x="56" y="4597.73" font-size="14" fill="#345963">write it down.</text>
+<rect x="40" y="4642.73" width="540" height="203.3" rx="13" fill="#ECE8DE"/>
+<text x="55" y="4671.73" font-size="14" fill="#345963" font-weight="800">Taiwan (both roads): the line that was found, and the line that was not</text>
+<text x="55" y="4694.03" font-size="14" fill="#345963">National Health Insurance schedule of medical service benefits: item</text>
+<text x="55" y="4715.03" font-size="14" fill="#345963">28019C, cystoscopy, 1,800 points.</text>
+<text x="55" y="4740.03" font-size="14" fill="#345963">Whether there is a cap on the number of cystoscopies in a follow-up</text>
+<text x="55" y="4761.03" font-size="14" fill="#345963">setting: no entry found in the remarks column. Zero hits means no</text>
+<text x="55" y="4782.03" font-size="14" fill="#345963">entry was found, not &quot;definitely not reimbursed&quot; - ask the hospital</text>
+<text x="55" y="4803.03" font-size="14" fill="#345963">medical affairs office or your case manager, and do not infer it</text>
+<text x="55" y="4824.03" font-size="14" fill="#345963">yourself.</text>
+<g filter="url(#sh)">
+<rect x="40" y="4860.03" width="540" height="140.12" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="58" y="4896.03" font-size="18" fill="#8F7418" font-weight="800">Three sentences to say out loud at the next clinic visit</text>
+<circle cx="62" cy="4915.85" r="3.2" fill="#C9A83E"/>
+<text x="74" y="4922.15" font-size="14" fill="#345963">Which stratum am I in (or which guideline schedule am I on)?</text>
+<circle cx="62" cy="4942.85" r="3.2" fill="#C9A83E"/>
+<text x="74" y="4949.15" font-size="14" fill="#345963">Does my schedule have a stopping point?</text>
+<circle cx="62" cy="4969.85" r="3.2" fill="#C9A83E"/>
+<text x="74" y="4976.15" font-size="14" fill="#345963">Do I need upper-tract CT every year?</text>
+<text x="40" y="5018.15" font-size="14" fill="#527078">Schematic, redrawn from the EAU Guidelines on Non-muscle-invasive</text>
+<text x="40" y="5039.85" font-size="14" fill="#527078">Bladder Cancer (2026 edition), the EAU Guidelines on Muscle-invasive and</text>
+<text x="40" y="5061.55" font-size="14" fill="#527078">Metastatic Bladder Cancer (2026), the AUA/ASCO/SUO guideline,</text>
+<text x="40" y="5083.25" font-size="14" fill="#527078">NICE guideline NG2 and the Taiwan National Health Insurance schedule of</text>
+<text x="40" y="5104.95" font-size="14" fill="#527078">medical service benefits; not reproduced from any published figure.</text>
+<text x="40" y="5126.65" font-size="14" fill="#527078">Populations, designs and endpoints differ between studies, so the points</text>
+<text x="40" y="5148.35" font-size="14" fill="#527078">are not directly comparable.</text>
+  </g>
+</svg>

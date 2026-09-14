@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="3856" viewBox="0 0 620 3856" role="img" aria-labelledby="t d">
+  <title id="t">三聯療法的選人條件：EAU、AUA 與 NICE 三種措辭並陳，NICE 那一欄是空的</title>
+  <desc id="d">示意圖，把三份指引對「誰適合做三聯療法」的措辭並排成一張表：三欄分別是 EAU 2026、AUA／ASCO／SUO 2024 與 NICE NG2，六列分別是腫瘤數目與期別、原位癌、水腎、刮除、膀胱功能與病理型態。圖首先標明證據的形狀：拿三聯療法跟膀胱全切除比，沒有成功完成的隨機試驗，因收案不足收掉的那個試驗叫 SPARE，只收到 45 人，所以表裡的條件是指引的措辭，不是從隨機試驗算出來的門檻。EAU 那一欄逐字寫：腫瘤數目與期別是「solitary, unifocal cT2-T3a tumours」，原位癌是「absence of extensive or multifocal CIS」，水腎是「no or unilateral hydronephrosis」，刮除是做三聯療法時看得見的腫瘤要盡量刮掉、而且再刮一次超過一半的病例會發現殘餘病灶，膀胱功能是「good baseline bladder function」，病理型態則寫鱗狀、腺狀或微乳頭亞型的尿路上皮癌可以考慮，但純鱗狀細胞癌或腺癌應該建議直接手術；EAU 在同一段還寫了一句：患者篩選是拿到好結果的關鍵。AUA 那一欄逐字寫：「Patients with large tumors unable to be resected by TURBT, multifocal CIS, T3/T4 tumors, and/or hydronephrosis are not ideal candidates for any type of bladder preserving therapy.」原位癌那一格的理想人選寫成「no CIS」並建議做隨機切片去確認，水腎那一格寫成「no hydronephrosis」而且沒有「單側可以」那一句，刮除那一格寫成「complete resection is feasible」並以條文 22 要求最大程度的減積刮除，病理型態那一格寫腺癌、肉瘤與鱗狀細胞癌沒有被納入任何以放射線為主的保留膀胱前瞻研究；膀胱功能那一格畫成「—」，並註明「—」代表這張圖沒有從那一份文件引到對應的措辭，不代表那份指引對這一項沒有意見。NICE NG2 整欄以斜線網底畫成空白，並標明：這一欄是空的，NICE NG2 根本不給腫瘤條件，這一格是空的，不是漏抄，也不是還沒查到。表格下面另開一格寫 NICE 給的是程序而不是腫瘤條件：第 1.5.5 條「Offer a choice of radical cystectomy or radiotherapy with a radiosensitiser」；第 1.5.6 條要求討論時要有做膀胱全切除的泌尿科醫師、臨床腫瘤科醫師與專科護理師在場；第 1.5.7 條要求談的內容包含「有限的證據無法判定手術與合併增敏劑的放療哪一個療效較好」，以及兩邊對性功能、腸道功能的影響與治療本身造成死亡的風險。再下面列出三份文件共通的只有三件事：多專科團隊、共同決策，以及不可以只給放療（AUA 的條文寫成「clinicians should not offer radiation therapy alone as a curative treatment」）。圖末列出兩句不准的讀法：「只要不想開刀就可以做」與「我自己對照一下就知道」，並寫明這不是可以自己打勾的檢核表——腫瘤條件之外還有腎功能能不能撐化療、膀胱功能、以及刮不刮得乾淨，這些要看報告與膀胱鏡才知道；最後一句是：三份指引的措辭不一樣，這不是筆誤，把你的腫瘤條件拿去問，我符合的是你手上哪一份指引的哪幾條。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="620" height="3856" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="40" y="66" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">TRIMODALITY THERAPY - WHO IS A CANDIDATE, IN</text>
+<text x="40" y="90" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">THREE GUIDELINES' OWN WORDS</text>
+<text x="40" y="142" font-size="40" fill="#123641" font-weight="800" class="r">三聯療法的選人條件：三份指</text>
+<text x="40" y="192.4" font-size="40" fill="#123641" font-weight="800" class="r">引，三種措辭，其中一份根本</text>
+<text x="40" y="242.8" font-size="40" fill="#123641" font-weight="800" class="r">不給條件</text>
+<text x="40" y="303.2" font-size="19" fill="#527078">這張圖把三份指引對「誰適合做三聯療法」的原文措辭並排。措</text>
+<text x="40" y="331.7" font-size="19" fill="#527078">辭不一樣不是筆誤，也不是翻譯問題——三份文件本來就寫得不一</text>
+<text x="40" y="360.2" font-size="19" fill="#527078">樣。</text>
+<text x="40" y="392.7" font-size="19" fill="#527078">這不是一張可以自己打勾的資格表。條件之間會互相影響，而且</text>
+<text x="40" y="421.2" font-size="19" fill="#527078">同一個條件在不同指引裡的門檻不同；符不符合要由多專科團隊</text>
+<text x="40" y="449.7" font-size="19" fill="#527078">判斷。</text>
+<rect x="40" y="498.2" width="540" height="111" rx="16" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2.5"/>
+<text x="66" y="528.2" font-size="16" fill="#7A6E58" font-weight="800">先把證據的形狀說清楚：拿三聯療法跟膀胱全切除比，沒有成功完成</text>
+<text x="66" y="553.2" font-size="16" fill="#7A6E58" font-weight="800">的隨機試驗（因收案不足收掉的那個試驗叫 SPARE，只收到 45 人）。</text>
+<text x="66" y="578.2" font-size="16" fill="#7A6E58" font-weight="800">所以下面這些條件是指引的措辭，不是從隨機試驗算出來的門檻。</text>
+<rect x="40" y="665.2" width="540" height="306" rx="14" fill="#FFFFFF"/>
+<text x="56" y="695.2" font-size="17" fill="#123641" font-weight="800">腫瘤數目與期別</text>
+<rect x="56" y="727.2" width="90.05" height="26" rx="13" fill="#00806B"/>
+<text x="66" y="745.6" font-size="15" fill="#FFFFFF" font-weight="800">EAU 2026</text>
+<text x="56" y="773.2" font-size="14.5" fill="#345963">「solitary, unifocal cT2-T3a tumours」——單一、單灶的 cT2 到 T3a。</text>
+<rect x="56" y="804.2" width="192.5" height="26" rx="13" fill="#96790F"/>
+<text x="66" y="822.6" font-size="15" fill="#FFFFFF" font-weight="800">AUA／ASCO／SUO 2024</text>
+<text x="56" y="850.2" font-size="14.5" fill="#345963">「Patients with large tumors unable to be resected by TURBT,</text>
+<text x="56" y="871.2" font-size="14.5" fill="#345963">multifocal CIS, T3/T4 tumors, and/or hydronephrosis are not ideal</text>
+<text x="56" y="892.2" font-size="14.5" fill="#345963">candidates for any type of bladder preserving therapy.」</text>
+<rect x="56" y="927.2" width="508" height="34" rx="8" fill="#ECE8DE"/>
+<rect x="56" y="927.2" width="508" height="34" rx="8" fill="url(#hatch)"/>
+<rect x="56" y="927.2" width="508" height="34" rx="8" fill="none" stroke="#B9AE94" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="68" y="949.2" font-size="14" fill="#7A6E58" font-weight="800">NICE NG2  這一欄是空的</text>
+<rect x="40" y="983.2" width="540" height="264" rx="14" fill="#FFFFFF"/>
+<text x="56" y="1013.2" font-size="17" fill="#123641" font-weight="800">原位癌（CIS）</text>
+<rect x="56" y="1045.2" width="90.05" height="26" rx="13" fill="#00806B"/>
+<text x="66" y="1063.6" font-size="15" fill="#FFFFFF" font-weight="800">EAU 2026</text>
+<text x="56" y="1091.2" font-size="14.5" fill="#345963">「absence of extensive or multifocal CIS」——沒有廣泛或多發的原位癌。</text>
+<rect x="56" y="1122.2" width="192.5" height="26" rx="13" fill="#96790F"/>
+<text x="66" y="1140.6" font-size="15" fill="#FFFFFF" font-weight="800">AUA／ASCO／SUO 2024</text>
+<text x="56" y="1168.2" font-size="14.5" fill="#345963">理想人選寫成「no CIS」，而且建議做隨機切片去確認。</text>
+<rect x="56" y="1203.2" width="508" height="34" rx="8" fill="#ECE8DE"/>
+<rect x="56" y="1203.2" width="508" height="34" rx="8" fill="url(#hatch)"/>
+<rect x="56" y="1203.2" width="508" height="34" rx="8" fill="none" stroke="#B9AE94" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="68" y="1225.2" font-size="14" fill="#7A6E58" font-weight="800">NICE NG2  這一欄是空的</text>
+<rect x="40" y="1259.2" width="540" height="264" rx="14" fill="#FFFFFF"/>
+<text x="56" y="1289.2" font-size="17" fill="#123641" font-weight="800">水腎</text>
+<rect x="56" y="1321.2" width="90.05" height="26" rx="13" fill="#00806B"/>
+<text x="66" y="1339.6" font-size="15" fill="#FFFFFF" font-weight="800">EAU 2026</text>
+<text x="56" y="1367.2" font-size="14.5" fill="#345963">「no or unilateral hydronephrosis」——沒有水腎，或只有單側。</text>
+<rect x="56" y="1398.2" width="192.5" height="26" rx="13" fill="#96790F"/>
+<text x="66" y="1416.6" font-size="15" fill="#FFFFFF" font-weight="800">AUA／ASCO／SUO 2024</text>
+<text x="56" y="1444.2" font-size="14.5" fill="#345963">理想人選寫成「no hydronephrosis」；AUA 沒有「單側可以」那一句。</text>
+<rect x="56" y="1479.2" width="508" height="34" rx="8" fill="#ECE8DE"/>
+<rect x="56" y="1479.2" width="508" height="34" rx="8" fill="url(#hatch)"/>
+<rect x="56" y="1479.2" width="508" height="34" rx="8" fill="none" stroke="#B9AE94" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="68" y="1501.2" font-size="14" fill="#7A6E58" font-weight="800">NICE NG2  這一欄是空的</text>
+<rect x="40" y="1535.2" width="540" height="306" rx="14" fill="#FFFFFF"/>
+<text x="56" y="1565.2" font-size="17" fill="#123641" font-weight="800">刮除</text>
+<rect x="56" y="1597.2" width="90.05" height="26" rx="13" fill="#00806B"/>
+<text x="66" y="1615.6" font-size="15" fill="#FFFFFF" font-weight="800">EAU 2026</text>
+<text x="56" y="1643.2" font-size="14.5" fill="#345963">做三聯療法時，看得見的腫瘤要盡量刮掉；而且再刮一次，超過一半的病例會發</text>
+<text x="56" y="1664.2" font-size="14.5" fill="#345963">現殘餘病灶。</text>
+<rect x="56" y="1695.2" width="192.5" height="26" rx="13" fill="#96790F"/>
+<text x="66" y="1713.6" font-size="15" fill="#FFFFFF" font-weight="800">AUA／ASCO／SUO 2024</text>
+<text x="56" y="1741.2" font-size="14.5" fill="#345963">理想人選寫成「complete resection is feasible」；條文 22 要求考慮保留膀</text>
+<text x="56" y="1762.2" font-size="14.5" fill="#345963">胱的人要做最大程度的減積刮除，並評估多發病灶與原位癌。</text>
+<rect x="56" y="1797.2" width="508" height="34" rx="8" fill="#ECE8DE"/>
+<rect x="56" y="1797.2" width="508" height="34" rx="8" fill="url(#hatch)"/>
+<rect x="56" y="1797.2" width="508" height="34" rx="8" fill="none" stroke="#B9AE94" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="68" y="1819.2" font-size="14" fill="#7A6E58" font-weight="800">NICE NG2  這一欄是空的</text>
+<rect x="40" y="1853.2" width="540" height="221" rx="14" fill="#FFFFFF"/>
+<text x="56" y="1883.2" font-size="17" fill="#123641" font-weight="800">膀胱功能</text>
+<rect x="56" y="1915.2" width="90.05" height="26" rx="13" fill="#00806B"/>
+<text x="66" y="1933.6" font-size="15" fill="#FFFFFF" font-weight="800">EAU 2026</text>
+<text x="56" y="1961.2" font-size="14.5" fill="#345963">「good baseline bladder function」——基礎膀胱功能良好。</text>
+<rect x="56" y="1992.2" width="192.5" height="26" rx="13" fill="#96790F"/>
+<text x="66" y="2010.6" font-size="15" fill="#FFFFFF" font-weight="800">AUA／ASCO／SUO 2024</text>
+<text x="260.5" y="2010.2" font-size="20" fill="#7A6E58" font-weight="800">—</text>
+<rect x="56" y="2030.2" width="508" height="34" rx="8" fill="#ECE8DE"/>
+<rect x="56" y="2030.2" width="508" height="34" rx="8" fill="url(#hatch)"/>
+<rect x="56" y="2030.2" width="508" height="34" rx="8" fill="none" stroke="#B9AE94" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="68" y="2052.2" font-size="14" fill="#7A6E58" font-weight="800">NICE NG2  這一欄是空的</text>
+<rect x="40" y="2086.2" width="540" height="327" rx="14" fill="#FFFFFF"/>
+<text x="56" y="2116.2" font-size="17" fill="#123641" font-weight="800">病理型態</text>
+<rect x="56" y="2148.2" width="90.05" height="26" rx="13" fill="#00806B"/>
+<text x="66" y="2166.6" font-size="15" fill="#FFFFFF" font-weight="800">EAU 2026</text>
+<text x="56" y="2194.2" font-size="14.5" fill="#345963">鱗狀、腺狀或微乳頭亞型的尿路上皮癌，完全反應、存活與挽救性切除率與純尿</text>
+<text x="56" y="2215.2" font-size="14.5" fill="#345963">路上皮癌相近，可以考慮；但純鱗狀細胞癌或腺癌做完三聯療法存活較差，應該</text>
+<text x="56" y="2236.2" font-size="14.5" fill="#345963">建議直接手術。</text>
+<rect x="56" y="2267.2" width="192.5" height="26" rx="13" fill="#96790F"/>
+<text x="66" y="2285.6" font-size="15" fill="#FFFFFF" font-weight="800">AUA／ASCO／SUO 2024</text>
+<text x="56" y="2313.2" font-size="14.5" fill="#345963">腺癌、肉瘤與鱗狀細胞癌沒有被納入任何以放射線為主的保留膀胱前瞻研究，除</text>
+<text x="56" y="2334.2" font-size="14.5" fill="#345963">非不適合手術，否則不該接受這種治療。</text>
+<rect x="56" y="2369.2" width="508" height="34" rx="8" fill="#ECE8DE"/>
+<rect x="56" y="2369.2" width="508" height="34" rx="8" fill="url(#hatch)"/>
+<rect x="56" y="2369.2" width="508" height="34" rx="8" fill="none" stroke="#B9AE94" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="68" y="2391.2" font-size="14" fill="#7A6E58" font-weight="800">NICE NG2  這一欄是空的</text>
+<rect x="40" y="2425.2" width="540" height="62" rx="14" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2" stroke-dasharray="8 7"/>
+<text x="56" y="2453.2" font-size="15" fill="#7A6E58" font-weight="700">NICE NG2 根本不給腫瘤條件。這一格是空的，不是漏抄，也不是還沒查到。</text>
+<text x="40" y="2509.2" font-size="14" fill="#527078">「—」代表這張圖沒有從那一份文件引到對應的措辭，不代表那份指引對這一項沒有意</text>
+<text x="40" y="2529.2" font-size="14" fill="#527078">見。</text>
+<text x="40" y="2559.2" font-size="15.5" fill="#8F7418" font-weight="800">EAU 在同一段還寫了一句：患者篩選是拿到好結果的關鍵。</text>
+<rect x="40" y="2613.2" width="540" height="269" rx="16" fill="#ECE8DE" stroke="#B9AE94" stroke-width="2"/>
+<text x="66" y="2649.2" font-size="20" fill="#7A6E58" font-weight="800">NICE 給的是程序，不是腫瘤條件</text>
+<circle cx="71" cy="2691.2" r="4.5" fill="#B9AE94"/>
+<text x="86" y="2696.2" font-size="15" fill="#345963">第 1.5.5 條：「Offer a choice of radical cystectomy or</text>
+<text x="86" y="2718.2" font-size="15" fill="#345963">radiotherapy with a radiosensitiser」。</text>
+<circle cx="71" cy="2743.2" r="4.5" fill="#B9AE94"/>
+<text x="86" y="2748.2" font-size="15" fill="#345963">第 1.5.6 條：討論時要有做膀胱全切除的泌尿科醫師、臨床腫瘤科醫師</text>
+<text x="86" y="2770.2" font-size="15" fill="#345963">與專科護理師在場。</text>
+<circle cx="71" cy="2795.2" r="4.5" fill="#B9AE94"/>
+<text x="86" y="2800.2" font-size="15" fill="#345963">第 1.5.7 條：談的內容要包含「有限的證據無法判定手術與合併增敏劑</text>
+<text x="86" y="2822.2" font-size="15" fill="#345963">的放療哪一個療效較好」，以及兩邊對性功能、腸道功能的影響與治療</text>
+<text x="86" y="2844.2" font-size="15" fill="#345963">本身造成死亡的風險。</text>
+<g filter="url(#sh)"><rect x="40" y="2904.2" width="540" height="409" rx="18" fill="#FFFFFF"/></g>
+<text x="66" y="2940.2" font-size="20" fill="#123641" font-weight="800">三份文件共通的只有三件事</text>
+<rect x="66" y="2981.2" width="488" height="87" rx="12" fill="#F3E8CD"/>
+<text x="82" y="3009.2" font-size="16" fill="#8F7418" font-weight="800">多專科團隊</text>
+<text x="82" y="3035.2" font-size="14.5" fill="#345963">由團隊判斷，不是單科決定。</text>
+<rect x="66" y="3086.2" width="488" height="87" rx="12" fill="#F3E8CD"/>
+<text x="82" y="3114.2" font-size="16" fill="#8F7418" font-weight="800">共同決策</text>
+<text x="82" y="3140.2" font-size="14.5" fill="#345963">兩條路都要談，談完再決定。</text>
+<rect x="66" y="3191.2" width="488" height="108" rx="12" fill="#F3E8CD"/>
+<text x="82" y="3219.2" font-size="16" fill="#8F7418" font-weight="800">不可以只給放療</text>
+<text x="82" y="3245.2" font-size="14.5" fill="#345963">AUA 的條文寫成「clinicians should not offer radiation therapy</text>
+<text x="82" y="3266.2" font-size="14.5" fill="#345963">alone as a curative treatment」。</text>
+<g filter="url(#sh)"><rect x="40" y="3335.2" width="540" height="421" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="3"/></g>
+<text x="66" y="3371.2" font-size="20" fill="#B04A4A" font-weight="800">這張圖不准被讀成的兩句話</text>
+<rect x="66" y="3408.2" width="488" height="122" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<circle cx="99" cy="3442.2" r="15" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.4"/>
+<line x1="91.8" y1="3435" x2="106.2" y2="3449.4" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="91.8" y1="3449.4" x2="106.2" y2="3435" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<text x="126" y="3434.2" font-size="16.5" fill="#123641" font-weight="800">「只要不想開刀就可以做」</text>
+<text x="84" y="3474.2" font-size="14.5" fill="#345963">條件是逐條寫的，而且三份指引寫得不一樣；符不符合由多專科團隊判</text>
+<text x="84" y="3495.2" font-size="14.5" fill="#345963">斷。</text>
+<rect x="66" y="3548.2" width="488" height="122" rx="14" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2"/>
+<circle cx="99" cy="3582.2" r="15" fill="#FFFFFF" stroke="#B04A4A" stroke-width="2.4"/>
+<line x1="91.8" y1="3575" x2="106.2" y2="3589.4" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="91.8" y1="3589.4" x2="106.2" y2="3575" stroke="#B04A4A" stroke-width="2.6" stroke-linecap="round"/>
+<text x="126" y="3574.2" font-size="16.5" fill="#123641" font-weight="800">「我自己對照一下就知道」</text>
+<text x="84" y="3614.2" font-size="14.5" fill="#345963">這不是可以自己打勾的檢核表。腫瘤條件之外還有腎功能能不能撐化療、</text>
+<text x="84" y="3635.2" font-size="14.5" fill="#345963">膀胱功能、以及刮不刮得乾淨，這些要看報告與膀胱鏡才知道。</text>
+<text x="66" y="3696.2" font-size="16" fill="#B04A4A" font-weight="800">三份指引的措辭不一樣，這不是筆誤。把你的腫瘤條件拿去問：我符</text>
+<text x="66" y="3719.2" font-size="16" fill="#B04A4A" font-weight="800">合的是你手上哪一份指引的哪幾條？</text>
+<text x="40" y="3774.2" font-size="15" fill="#527078">示意圖，依 EAU 肌肉侵犯型與轉移性膀胱癌指引 2026 版、AUA／ASCO／SUO</text>
+<text x="40" y="3796.7" font-size="15" fill="#527078">2024 指引、NICE NG2 與 SPARE（Huddart 2017）重繪，非擷取自原文件圖表；</text>
+<text x="40" y="3819.2" font-size="15" fill="#527078">各研究族群、設計與終點不同，數點不可直接互比。</text>
+  </g>
+</svg>

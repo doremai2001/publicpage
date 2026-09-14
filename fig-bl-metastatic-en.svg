@@ -1,0 +1,239 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2904" viewBox="0 0 1440 2904" role="img" aria-labelledby="t d">
+  <title id="t">First line after metastasis: the licence changed, the reimbursement did not</title>
+  <desc id="d">Schematic in two stacked layers with a broken arrow between them. The figure is stamped with the verification date 2026-09-13; every licence and reimbursement clause stops on that date. The top layer, &quot;guidelines and the marketing licence: changed&quot;, holds three cards. The first is EV-302 / KEYNOTE-A39, first line, randomised phase III, global and open label, in 886 patients with previously untreated locally advanced or metastatic urothelial carcinoma (enfortumab vedotin plus pembrolizumab 442, chemotherapy 444). The registration analysis, median follow-up 17.2 months, gave median overall survival 31.5 vs 16.1 months, hazard ratio 0.47 (0.38 to 0.58); the 2.5-year update gave 33.8 months (95% confidence interval 26.1 to 39.3) vs 15.9 (13.6 to 18.3), hazard ratio 0.51 (0.43 to 0.61), and median progression-free survival 12.5 vs 6.3 months, hazard ratio 0.48 (0.41 to 0.57). Both sets are correct but must not be mixed; with longer follow-up the medians rise and so does the hazard ratio. The same card carries the response rates: confirmed objective response 67.7% (63.1 to 72.1) vs 44.4% (39.7 to 49.2) in the 437 and 441 patients with measurable disease at baseline, and complete response 29.1% vs 12.5%, with the warning that a response rate is not a cure rate, that a complete response is not a cure because the median overall survival of the whole population is still 33.8 months, and that of the 373 patients with a recorded outcome peripheral neuropathy resolved completely in 13% while 87% still had residual neuropathy at the last assessment. The second card holds the two roads with randomised evidence for those who cannot have that combination: JAVELIN Bladder 100, 700 patients without progression after four to six cycles of platinum chemotherapy, one-year survival 71.3% vs 58.4%, median overall survival 21.4 vs 14.3 months, hazard ratio 0.69 (0.56 to 0.86), grade 3 or above adverse events 47.4% vs 25.2%, with the list of who it does not apply to; and CheckMate 901, 608 patients fit for cisplatin, median follow-up 33.6 months, median overall survival 21.7 vs 18.9 months, hazard ratio 0.78 (0.63 to 0.96), P=0.02, complete response 21.7% vs 11.8%, median duration of complete response 37.1 vs 13.2 months, grade 3 or above adverse events 61.8% vs 51.7%, and only 9% of the control arm on avelumab maintenance. The third card is the Taiwanese licence: TFDA licence number 001212 for enfortumab vedotin, amended 2026-05-08, now registered for use in combination with pembrolizumab in adults with locally advanced or metastatic urothelial carcinoma. A licence is permission to sell, not a decision to pay. The broken arrow between the layers reads &quot;the licence exists; the reimbursement does not&quot;. The bottom layer, &quot;Taiwan National Health Insurance: unchanged&quot;, holds three cards. The first is clause 9.109 for enfortumab vedotin, in force from 1 May 2024, labelled third line, monotherapy and six cycles per lifetime, with the clause quoted verbatim and the lifetime ceiling of 6 cycles; the evidence behind it is EV-301, 608 patients, median overall survival 12.88 vs 8.97 months, hazard ratio 0.70 (0.56 to 0.89). The second is clause 9.69 and the two cells that are paid for: nivolumab with cisplatin and gemcitabine for up to 6 cycles followed by nivolumab alone as first-line treatment, requiring a glomerular filtration rate of 60 or above; and avelumab maintenance after 4 to 6 cycles without progression in partial response or stable disease, noting that JAVELIN Bladder 100 enrolled patients without progression, which includes a complete response. The third card is drawn as an empty dashed box containing only the words &quot;zero hits&quot;: a full-text search of the regulations for first-line enfortumab vedotin with pembrolizumab returns nothing, which means no entry was found rather than &quot;not reimbursed&quot; or &quot;so you must pay yourself&quot; - ask the medical affairs office. No price appears anywhere. The closing band states that this page stops on 2026-09-13, should not be used as today's rule, and must not be used to stop or change any treatment.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4EFE3"/><stop offset="1" stop-color="#E8E1D1"/></linearGradient><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0B2832" flood-opacity=".13"/></filter><pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B9AE94" stroke-width="2" opacity="0.55"/></pattern><pattern id="hatchR" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(135)"><line x1="0" y1="0" x2="0" y2="8" stroke="#B04A4A" stroke-width="2" opacity="0.45"/></pattern><style>.z{font-family:"Noto Sans TC","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif}.r{font-family:"Noto Serif TC","Noto Serif CJK TC","PingFang TC","Microsoft JhengHei",serif}</style></defs>
+  <rect width="1440" height="2904" rx="36" fill="url(#bg)"/>
+  <g class="z">
+<text x="84" y="88" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">METASTATIC UROTHELIAL CARCINOMA - THE GUIDELINE AND THE LICENCE CHANGED, THE REIMBURSEMENT DID</text>
+<text x="84" y="112" font-size="16" fill="#A98722" font-weight="800" letter-spacing="3px">NOT</text>
+<text x="84" y="162" font-size="40" fill="#123641" font-weight="800" class="r">First line after metastasis: the top layer changed, the bottom</text>
+<text x="84" y="212.4" font-size="40" fill="#123641" font-weight="800" class="r">layer did not</text>
+<text x="84" y="272.8" font-size="19" fill="#527078">The top layer is the international guideline and the Taiwanese marketing licence; the bottom layer is Taiwan's National Health</text>
+<text x="84" y="301.3" font-size="19" fill="#527078">Insurance. The broken arrow between them carries the whole weight of this article: the licence exists, the reimbursement</text>
+<text x="84" y="329.8" font-size="19" fill="#527078">does not.</text>
+<text x="84" y="364.3" font-size="19" fill="#527078">Every figure carries its trial name, line of therapy, population, n, endpoint and follow-up. One rule holds throughout: a response</text>
+<text x="84" y="392.8" font-size="19" fill="#527078">rate is not a cure rate.</text>
+<rect x="84" y="441.3" width="1272" height="74" rx="14" fill="#F7F1E4" stroke="#B9AE94" stroke-width="2"/>
+<rect x="100" y="457.3" width="160.66" height="25" rx="12.5" fill="#123641"/>
+<text x="111" y="474.66" font-size="13.5" fill="#FFFFFF" font-weight="800">Verified 2026-09-13</text>
+<text x="276.66" y="472.3" font-size="14" fill="#345963">Every licence and every reimbursement clause here stops on this date, and the trial figures run only to what had been published by then. Ask</text>
+<text x="276.66" y="493.3" font-size="14" fill="#345963">what the position is today.</text>
+<rect x="84" y="537.3" width="1272" height="1295.56" rx="24" fill="#D8EDE7" stroke="#00806B" stroke-width="3"/>
+<rect x="106" y="559.3" width="90.38" height="25" rx="12.5" fill="#00806B"/>
+<text x="117" y="576.66" font-size="13.5" fill="#FFFFFF" font-weight="800">Top layer</text>
+<text x="106" y="615.3" font-size="21" fill="#00806B" font-weight="800">Guidelines and the marketing licence: changed</text>
+<text x="106" y="637.6" font-size="14" fill="#527078">The international guideline changed the combination, and so did the Taiwanese licence.</text>
+<g filter="url(#sh)">
+<rect x="106" y="658.6" width="397.33" height="1152.26" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="126" y="696.6" font-size="18" fill="#00806B" font-weight="800">EV-302 / KEYNOTE-A39</text>
+<rect x="126" y="710.36" width="87.46" height="25" rx="12.5" fill="#00806B"/>
+<text x="137" y="727.72" font-size="13.5" fill="#FFFFFF" font-weight="800">First line</text>
+<rect x="220.46" y="710.36" width="170.57" height="25" rx="12.5" fill="#00806B"/>
+<text x="231.46" y="727.72" font-size="13.5" fill="#FFFFFF" font-weight="800">Randomised phase III</text>
+<rect x="126" y="743.36" width="145.2" height="25" rx="12.5" fill="#00806B"/>
+<text x="137" y="760.72" font-size="13.5" fill="#FFFFFF" font-weight="800">Global, open label</text>
+<text x="126" y="793.36" font-size="14" fill="#527078">Previously untreated locally advanced or</text>
+<text x="126" y="814.36" font-size="14" fill="#527078">metastatic urothelial carcinoma, 886 patients</text>
+<text x="126" y="835.36" font-size="14" fill="#527078">(enfortumab vedotin plus pembrolizumab 442 /</text>
+<text x="126" y="856.36" font-size="14" fill="#527078">chemotherapy 444); the chemotherapy arm</text>
+<text x="126" y="877.36" font-size="14" fill="#527078">received gemcitabine with cisplatin or</text>
+<text x="126" y="898.36" font-size="14" fill="#527078">carboplatin according to cisplatin eligibility.</text>
+<text x="140" y="933.36" font-size="14" fill="#00806B" font-weight="800">Registration analysis (median follow-up 17.2</text>
+<text x="140" y="953.66" font-size="14" fill="#00806B" font-weight="800">months)</text>
+<text x="140" y="973.96" font-size="14" fill="#345963">Median overall survival 31.5 vs 16.1 months,</text>
+<text x="140" y="994.96" font-size="14" fill="#345963">hazard ratio 0.47 (0.38 to 0.58)</text>
+<rect x="126" y="917.36" width="4" height="84.6" rx="2" fill="#D8EDE7"/>
+<text x="140" y="1031.96" font-size="14" fill="#00806B" font-weight="800">2.5-year median follow-up update</text>
+<text x="140" y="1052.26" font-size="14" fill="#345963">Median overall survival 33.8 months (95%</text>
+<text x="140" y="1073.26" font-size="14" fill="#345963">confidence interval 26.1 to 39.3) vs 15.9 (13.6</text>
+<text x="140" y="1094.26" font-size="14" fill="#345963">to 18.3), hazard ratio 0.51 (0.43 to 0.61);</text>
+<text x="140" y="1115.26" font-size="14" fill="#345963">median progression-free survival 12.5 vs 6.3</text>
+<text x="140" y="1136.26" font-size="14" fill="#345963">months, hazard ratio 0.48 (0.41 to 0.57)</text>
+<rect x="126" y="1015.96" width="4" height="127.3" rx="2" fill="#D8EDE7"/>
+<text x="126" y="1171.26" font-size="14" fill="#345963">Both sets are correct, but they must not be</text>
+<text x="126" y="1192.26" font-size="14" fill="#345963">mixed; say which analysis is being quoted. With</text>
+<text x="126" y="1213.26" font-size="14" fill="#345963">longer follow-up the medians rise and so does</text>
+<text x="126" y="1234.26" font-size="14" fill="#345963">the hazard ratio (0.47 becomes 0.51), which is</text>
+<text x="126" y="1255.26" font-size="14" fill="#345963">how long follow-up normally behaves.</text>
+<text x="126" y="1283.26" font-size="14" fill="#345963">A hazard ratio divides the rate at which events</text>
+<text x="126" y="1304.26" font-size="14" fill="#345963">occur in one arm by the rate in the other; 0.51</text>
+<text x="126" y="1325.26" font-size="14" fill="#345963">means deaths occurred at roughly half the rate</text>
+<text x="126" y="1346.26" font-size="14" fill="#345963">of the control arm, not that anyone lived twice as</text>
+<text x="126" y="1367.26" font-size="14" fill="#345963">long.</text>
+<rect x="126" y="1385.26" width="357.333" height="405.6" rx="13" fill="#F6E2E0"/>
+<text x="140" y="1413.26" font-size="14" fill="#00806B" font-weight="800">Confirmed objective response rate and</text>
+<text x="140" y="1433.56" font-size="14" fill="#00806B" font-weight="800">complete response rate</text>
+<circle cx="144" cy="1450.56" r="3.2" fill="#00806B"/>
+<text x="156" y="1456.86" font-size="14" fill="#345963">67.7% (63.1 to 72.1) vs 44.4% (39.7 to 49.2),</text>
+<text x="156" y="1476.86" font-size="14" fill="#345963">in patients with measurable disease at</text>
+<text x="156" y="1496.86" font-size="14" fill="#345963">baseline (437 vs 441)</text>
+<circle cx="144" cy="1517.56" r="3.2" fill="#00806B"/>
+<text x="156" y="1523.86" font-size="14" fill="#345963">Complete response 29.1% vs 12.5%</text>
+<text x="140" y="1553.86" font-size="14" fill="#B04A4A" font-weight="800">A response rate is not a cure rate. A</text>
+<text x="140" y="1574.86" font-size="14" fill="#B04A4A" font-weight="800">complete response is not a cure - it means</text>
+<text x="140" y="1595.86" font-size="14" fill="#B04A4A" font-weight="800">the tumour can no longer be measured on</text>
+<text x="140" y="1616.86" font-size="14" fill="#B04A4A" font-weight="800">imaging, while the median overall survival of</text>
+<text x="140" y="1637.86" font-size="14" fill="#B04A4A" font-weight="800">the whole trial population is still 33.8</text>
+<text x="140" y="1658.86" font-size="14" fill="#B04A4A" font-weight="800">months.</text>
+<text x="140" y="1685.86" font-size="14" fill="#345963">The next figure in the same label belongs</text>
+<text x="140" y="1706.86" font-size="14" fill="#345963">beside it: of the 373 patients with a recorded</text>
+<text x="140" y="1727.86" font-size="14" fill="#345963">outcome, peripheral neuropathy resolved</text>
+<text x="140" y="1748.86" font-size="14" fill="#345963">completely in 13%, and 87% still had residual</text>
+<text x="140" y="1769.86" font-size="14" fill="#345963">neuropathy at the last assessment.</text>
+<g filter="url(#sh)">
+<rect x="521.33" y="658.6" width="397.33" height="1152.26" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="541.33" y="696.6" font-size="18" fill="#5C77C4" font-weight="800">For those who cannot have that</text>
+<text x="541.33" y="720.36" font-size="18" fill="#5C77C4" font-weight="800">combination: two roads with</text>
+<text x="541.33" y="744.12" font-size="18" fill="#5C77C4" font-weight="800">randomised evidence</text>
+<rect x="541.33" y="757.88" width="204.54" height="25" rx="12.5" fill="#5C77C4"/>
+<text x="552.33" y="775.24" font-size="13.5" fill="#FFFFFF" font-weight="800">Both randomised phase III</text>
+<text x="541.33" y="807.88" font-size="14" fill="#527078">The two trials enrolled different people, and the</text>
+<text x="541.33" y="828.88" font-size="14" fill="#527078">labels cannot be dropped.</text>
+<text x="555.33" y="863.88" font-size="14" fill="#5C77C4" font-weight="800">JAVELIN Bladder 100: avelumab maintenance</text>
+<text x="555.33" y="884.18" font-size="14" fill="#5C77C4" font-weight="800">after platinum chemotherapy</text>
+<text x="555.33" y="904.48" font-size="14" fill="#345963">700 patients who had had four to six cycles of</text>
+<text x="555.33" y="925.48" font-size="14" fill="#345963">first-line gemcitabine with cisplatin or</text>
+<text x="555.33" y="946.48" font-size="14" fill="#345963">carboplatin without progression: one-year</text>
+<text x="555.33" y="967.48" font-size="14" fill="#345963">survival 71.3% vs 58.4%, median overall</text>
+<text x="555.33" y="988.48" font-size="14" fill="#345963">survival 21.4 vs 14.3 months, hazard ratio</text>
+<text x="555.33" y="1009.48" font-size="14" fill="#345963">0.69 (0.56 to 0.86); grade 3 or above adverse</text>
+<text x="555.33" y="1030.48" font-size="14" fill="#345963">events 47.4% vs 25.2%</text>
+<rect x="541.33" y="847.88" width="4" height="189.6" rx="2" fill="#E3E8F6"/>
+<text x="555.33" y="1067.48" font-size="14" fill="#5C77C4" font-weight="800">CheckMate 901: nivolumab added for those fit</text>
+<text x="555.33" y="1087.78" font-size="14" fill="#5C77C4" font-weight="800">for cisplatin</text>
+<text x="555.33" y="1108.08" font-size="14" fill="#345963">608 patients, median follow-up 33.6 months,</text>
+<text x="555.33" y="1129.08" font-size="14" fill="#345963">median overall survival 21.7 vs 18.9 months,</text>
+<text x="555.33" y="1150.08" font-size="14" fill="#345963">hazard ratio 0.78 (0.63 to 0.96), P=0.02;</text>
+<text x="555.33" y="1171.08" font-size="14" fill="#345963">complete response 21.7% vs 11.8%, median</text>
+<text x="555.33" y="1192.08" font-size="14" fill="#345963">duration of complete response 37.1 vs 13.2</text>
+<text x="555.33" y="1213.08" font-size="14" fill="#345963">months; grade 3 or above adverse events</text>
+<text x="555.33" y="1234.08" font-size="14" fill="#345963">61.8% vs 51.7%</text>
+<rect x="541.33" y="1051.48" width="4" height="189.6" rx="2" fill="#E3E8F6"/>
+<text x="541.33" y="1269.08" font-size="14" fill="#345963">Who JAVELIN does not apply to belongs in the</text>
+<text x="541.33" y="1290.08" font-size="14" fill="#345963">same paragraph: anyone who progressed</text>
+<text x="541.33" y="1311.08" font-size="14" fill="#345963">during chemotherapy, anyone who did not</text>
+<text x="541.33" y="1332.08" font-size="14" fill="#345963">complete four to six cycles, and anyone given</text>
+<text x="541.33" y="1353.08" font-size="14" fill="#345963">enfortumab vedotin plus pembrolizumab in the</text>
+<text x="541.33" y="1374.08" font-size="14" fill="#345963">first line.</text>
+<text x="541.33" y="1402.08" font-size="14" fill="#345963">CheckMate 901 enrolled only patients fit for</text>
+<text x="541.33" y="1423.08" font-size="14" fill="#345963">cisplatin, and only 9% of its control arm received</text>
+<text x="541.33" y="1444.08" font-size="14" fill="#345963">avelumab maintenance - which makes the</text>
+<text x="541.33" y="1465.08" font-size="14" fill="#345963">comparison with &quot;chemotherapy then</text>
+<text x="541.33" y="1486.08" font-size="14" fill="#345963">maintenance&quot; an unequal one.</text>
+<g filter="url(#sh)">
+<rect x="936.67" y="658.6" width="397.33" height="1152.26" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="956.67" y="696.6" font-size="18" fill="#96790F" font-weight="800">The Taiwanese marketing licence</text>
+<text x="956.67" y="720.36" font-size="18" fill="#96790F" font-weight="800">(TFDA)</text>
+<rect x="956.67" y="734.12" width="111.38" height="25" rx="12.5" fill="#96790F"/>
+<text x="967.67" y="751.48" font-size="13.5" fill="#FFFFFF" font-weight="800">Licence: yes</text>
+<text x="956.67" y="784.12" font-size="14" fill="#527078">TFDA licence 衛部菌疫輸字第001212號</text>
+<text x="956.67" y="805.12" font-size="14" fill="#527078">(enfortumab vedotin), amended 2026-05-08.</text>
+<text x="970.67" y="840.12" font-size="14" fill="#96790F" font-weight="800">The registered indication now carries this</text>
+<text x="970.67" y="860.42" font-size="14" fill="#96790F" font-weight="800">clause (verbatim)</text>
+<text x="970.67" y="880.72" font-size="14" fill="#345963">&quot;In combination with pembrolizumab for the</text>
+<text x="970.67" y="901.72" font-size="14" fill="#345963">treatment of adult patients with locally</text>
+<text x="970.67" y="922.72" font-size="14" fill="#345963">advanced or metastatic urothelial carcinoma</text>
+<text x="970.67" y="943.72" font-size="14" fill="#345963">(mUC)&quot;</text>
+<rect x="956.67" y="824.12" width="4" height="126.6" rx="2" fill="#F3E8CD"/>
+<text x="956.67" y="978.72" font-size="14" fill="#345963">A marketing licence is permission to sell. It is</text>
+<text x="956.67" y="999.72" font-size="14" fill="#345963">not a decision to pay. The layer below is where</text>
+<text x="956.67" y="1020.72" font-size="14" fill="#345963">payment is decided.</text>
+<rect x="84" y="1848.86" width="1272" height="108" rx="18" fill="#F6E2E0" stroke="#B04A4A" stroke-width="2.5"/>
+<line x1="139" y1="1870.86" x2="139" y2="1888.86" stroke="#B04A4A" stroke-width="5" stroke-linecap="round"/>
+<line x1="139" y1="1902.86" x2="139" y2="1918.86" stroke="#B04A4A" stroke-width="5" stroke-linecap="round"/>
+<polygon points="139,1934.86 128,1916.86 150,1916.86" fill="#B04A4A"/>
+<line x1="119" y1="1895.86" x2="159" y2="1895.86" stroke="#B04A4A" stroke-width="3.4" stroke-linecap="round"/>
+<text x="192" y="1887.86" font-size="21" fill="#B04A4A" font-weight="800">The licence exists; the reimbursement does not</text>
+<text x="192" y="1911.16" font-size="14" fill="#345963">This article is not titled &quot;the first line has changed&quot; because of exactly this gap. On the guideline and on the licence it is true; on the reimbursement it is not.</text>
+<rect x="84" y="1972.86" width="1272" height="691.62" rx="24" fill="#ECE8DE" stroke="#8F7418" stroke-width="3"/>
+<rect x="106" y="1994.86" width="113.42" height="25" rx="12.5" fill="#8F7418"/>
+<text x="117" y="2012.22" font-size="13.5" fill="#FFFFFF" font-weight="800">Bottom layer</text>
+<text x="106" y="2050.86" font-size="21" fill="#8F7418" font-weight="800">Taiwan National Health Insurance: unchanged</text>
+<text x="106" y="2073.16" font-size="14" fill="#527078">The clauses are quoted verbatim, and nothing is inferred from them.</text>
+<g filter="url(#sh)">
+<rect x="106" y="2094.16" width="397.33" height="548.32" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="126" y="2132.16" font-size="18" fill="#B04A4A" font-weight="800">Clause 9.109, enfortumab vedotin (in</text>
+<text x="126" y="2155.92" font-size="18" fill="#B04A4A" font-weight="800">force from 1 May 2024)</text>
+<rect x="126" y="2169.68" width="90.82" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="137" y="2187.04" font-size="13.5" fill="#FFFFFF" font-weight="800">Third line</text>
+<rect x="223.82" y="2169.68" width="114.87" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="234.82" y="2187.04" font-size="13.5" fill="#FFFFFF" font-weight="800">Monotherapy</text>
+<rect x="126" y="2202.68" width="180.63" height="25" rx="12.5" fill="#B04A4A"/>
+<text x="137" y="2220.04" font-size="13.5" fill="#FFFFFF" font-weight="800">Six cycles per lifetime</text>
+<text x="144" y="2253.68" font-size="14" fill="#123641" font-weight="700">&quot;For adult patients with locally advanced or</text>
+<text x="144" y="2274.68" font-size="14" fill="#123641" font-weight="700">metastatic urothelial carcinoma who have</text>
+<text x="144" y="2295.68" font-size="14" fill="#123641" font-weight="700">previously received platinum-containing</text>
+<text x="144" y="2316.68" font-size="14" fill="#123641" font-weight="700">chemotherapy and whose disease has</text>
+<text x="144" y="2337.68" font-size="14" fill="#123641" font-weight="700">progressed after failure of a subsequent</text>
+<text x="144" y="2358.68" font-size="14" fill="#123641" font-weight="700">immune checkpoint inhibitor (such as</text>
+<text x="144" y="2379.68" font-size="14" fill="#123641" font-weight="700">atezolizumab, nivolumab, pembrolizumab,</text>
+<text x="144" y="2400.68" font-size="14" fill="#123641" font-weight="700">avelumab or ipilimumab)&quot;</text>
+<rect x="126" y="2242.68" width="4" height="162" rx="2" fill="#B04A4A"/>
+<text x="144" y="2433.68" font-size="14" fill="#123641" font-weight="700">&quot;Each patient is reimbursed for a maximum</text>
+<text x="144" y="2454.68" font-size="14" fill="#123641" font-weight="700">of 6 cycles&quot;</text>
+<text x="144" y="2475.18" font-size="13.5" fill="#527078">That is a lifetime ceiling, not a recommended</text>
+<text x="144" y="2495.43" font-size="13.5" fill="#527078">number of cycles.</text>
+<rect x="126" y="2422.68" width="4" height="76.5" rx="2" fill="#B04A4A"/>
+<text x="126" y="2530.18" font-size="14" fill="#B04A4A" font-weight="800">Which trial this cell corresponds to</text>
+<text x="126" y="2552.48" font-size="14" fill="#345963">EV-301: 608 patients who had had platinum AND</text>
+<text x="126" y="2573.48" font-size="14" fill="#345963">progressed during or after a PD-1 / PD-L1</text>
+<text x="126" y="2594.48" font-size="14" fill="#345963">inhibitor; median overall survival 12.88 vs 8.97</text>
+<text x="126" y="2615.48" font-size="14" fill="#345963">months, hazard ratio 0.70 (0.56 to 0.89).</text>
+<g filter="url(#sh)">
+<rect x="521.33" y="2094.16" width="397.33" height="548.32" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="541.33" y="2132.16" font-size="18" fill="#96790F" font-weight="800">Clause 9.69: the two cells that are</text>
+<text x="541.33" y="2155.92" font-size="18" fill="#96790F" font-weight="800">paid for</text>
+<rect x="541.33" y="2169.68" width="227.58" height="25" rx="12.5" fill="#96790F"/>
+<text x="552.33" y="2187.04" font-size="13.5" fill="#FFFFFF" font-weight="800">First line with chemotherapy</text>
+<rect x="775.91" y="2169.68" width="110.94" height="25" rx="12.5" fill="#96790F"/>
+<text x="786.91" y="2187.04" font-size="13.5" fill="#FFFFFF" font-weight="800">Maintenance</text>
+<text x="559.33" y="2220.68" font-size="14" fill="#123641" font-weight="700">&quot;Nivolumab is limited to combination with</text>
+<text x="559.33" y="2241.68" font-size="14" fill="#123641" font-weight="700">cisplatin and gemcitabine for up to 6 cycles,</text>
+<text x="559.33" y="2262.68" font-size="14" fill="#123641" font-weight="700">followed by nivolumab alone, as first-line</text>
+<text x="559.33" y="2283.68" font-size="14" fill="#123641" font-weight="700">treatment for adult patients with unresectable</text>
+<text x="559.33" y="2304.68" font-size="14" fill="#123641" font-weight="700">or metastatic urothelial carcinoma&quot;</text>
+<text x="559.33" y="2325.18" font-size="13.5" fill="#527078">It also requires a glomerular filtration rate of</text>
+<text x="559.33" y="2345.43" font-size="13.5" fill="#527078">60 or above.</text>
+<rect x="541.33" y="2209.68" width="4" height="139.5" rx="2" fill="#96790F"/>
+<text x="559.33" y="2378.18" font-size="14" fill="#123641" font-weight="700">Avelumab maintenance reads &quot;after 4 to 6</text>
+<text x="559.33" y="2399.18" font-size="14" fill="#123641" font-weight="700">cycles, without disease progression, and</text>
+<text x="559.33" y="2420.18" font-size="14" fill="#123641" font-weight="700">having achieved a partial response (PR) or</text>
+<text x="559.33" y="2441.18" font-size="14" fill="#123641" font-weight="700">stable disease (SD)&quot;</text>
+<rect x="541.33" y="2367.18" width="4" height="78" rx="2" fill="#96790F"/>
+<text x="541.33" y="2476.18" font-size="14" fill="#96790F" font-weight="800">Where the clause and the trial differ, both are</text>
+<text x="541.33" y="2496.48" font-size="14" fill="#96790F" font-weight="800">set down as written</text>
+<text x="541.33" y="2518.78" font-size="14" fill="#345963">JAVELIN Bladder 100 enrolled patients &quot;without</text>
+<text x="541.33" y="2539.78" font-size="14" fill="#345963">progression&quot;, which includes a complete</text>
+<text x="541.33" y="2560.78" font-size="14" fill="#345963">response; the clause says PR or SD. No</text>
+<text x="541.33" y="2581.78" font-size="14" fill="#345963">interpretation is offered here.</text>
+<g filter="url(#sh)">
+<rect x="936.67" y="2094.16" width="397.33" height="548.32" rx="18" fill="#FFFFFF" stroke="#DBD3BF" stroke-width="2"/>
+</g>
+<text x="956.67" y="2132.16" font-size="18" fill="#7A6E58" font-weight="800">First-line enfortumab vedotin with</text>
+<text x="956.67" y="2155.92" font-size="18" fill="#7A6E58" font-weight="800">pembrolizumab</text>
+<rect x="956.67" y="2169.68" width="134.56" height="25" rx="12.5" fill="#7A6E58"/>
+<text x="967.67" y="2187.04" font-size="13.5" fill="#FFFFFF" font-weight="800">Full-text search</text>
+<rect x="956.67" y="2206.68" width="357.33" height="86" rx="13" fill="#FFFFFF" stroke="#7A6E58" stroke-width="2.6" stroke-dasharray="9 7"/>
+<text x="1135.33" y="2258.68" font-size="36" fill="#7A6E58" font-weight="800" text-anchor="middle">Zero hits</text>
+<text x="956.67" y="2322.68" font-size="14" fill="#7A6E58" font-weight="800">What zero hits means</text>
+<text x="956.67" y="2344.98" font-size="14" fill="#345963">No entry was found. It does not mean &quot;definitely</text>
+<text x="956.67" y="2365.98" font-size="14" fill="#345963">not reimbursed&quot;, and it does not mean &quot;so you</text>
+<text x="956.67" y="2386.98" font-size="14" fill="#345963">must pay for it yourself&quot; - ask the medical</text>
+<text x="956.67" y="2407.98" font-size="14" fill="#345963">affairs office how to apply. No price of any kind</text>
+<text x="956.67" y="2428.98" font-size="14" fill="#345963">appears on this figure, because no official</text>
+<text x="956.67" y="2449.98" font-size="14" fill="#345963">announcement could be found to quote.</text>
+<rect x="84" y="2686.48" width="1272" height="98.3" rx="13" fill="#F3E8CD"/>
+<text x="99" y="2715.48" font-size="14" fill="#8F7418" font-weight="800">How long this page is good for</text>
+<text x="99" y="2737.78" font-size="14" fill="#345963">Every licence and every reimbursement clause above stops on 2026-09-13, and the trial figures run only to what had been published by then.</text>
+<text x="99" y="2762.78" font-size="14" fill="#345963">Ask what the position is today rather than treating this as the current rule, and do not stop or change any treatment on the strength of it.</text>
+<text x="84" y="2802.78" font-size="14" fill="#527078">Schematic, redrawn from the EV-302/KEYNOTE-A39 registration and 2.5-year analyses, the FDA prescribing information for enfortumab vedotin, JAVELIN Bladder 100,</text>
+<text x="84" y="2824.48" font-size="14" fill="#527078">CheckMate 901, EV-301, the EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer (2026), the Taiwan National Health Insurance Drug Benefit Regulations and the</text>
+<text x="84" y="2846.18" font-size="14" fill="#527078">TFDA dataset of current drug licences; not reproduced from any published figure. Populations, designs and endpoints differ between studies, so the points are not directly</text>
+<text x="84" y="2867.88" font-size="14" fill="#527078">comparable.</text>
+  </g>
+</svg>
