@@ -1,0 +1,122 @@
+{
+ "th-nodule": {
+  "title": "A scan found a nodule. Now what?",
+  "dek": "One nodule, four ultrasound classification tables, and four different answers on whether it gets a needle; which table your report was read under decides whether you take one today.",
+  "lead": "Most people assume a nodule means a needle. The threshold was deliberately raised: what decides is size paired with shape, and different countries convert those two things into advice by formulas that are not the same, so the answers differ.",
+  "note": "On the day of the scan, copy the grade off the report into your phone, with the date, where it was done, and which classification was used. Take it out at the next scan and compare: swap the table and the same nodule can draw a different recommendation, and you are the only person in a position to notice."
+ },
+ "th-fna": {
+  "title": "That number on your fine-needle report",
+  "dek": "The number is not a stage. It is one syringe of cells and its probability of being malignant; and category III hides two boxes inside it, running from fifteen per cent to forty-four.",
+  "lead": "People handed \"category III\" often think the doctor is hedging. The third edition of the reporting system split that category in two, with very different malignancy risks; and molecular testing was built to keep you out of an operation, not to confirm a cancer.",
+  "note": "On the day the cytology report arrives, check three things are written on the paper: which category, which edition of the classification, and if it is category III, which subcategory. Whichever is missing, ask the desk to query pathology there and then. Those three boxes decide whether your next step is a repeat needle, surgery or follow-up."
+ },
+ "th-pathology": {
+  "title": "Papillary, follicular, NIFTP: reading the report",
+  "dek": "What decides the road ahead is often not the tumour's name but two small lines on the report: whether the capsule was breached, and how many vessels were invaded.",
+  "lead": "Many people read a pathology report as a noun. It is a set of conditions — histological type, subtype, capsule, vessels, margins — and any of them can move you into a different risk box. The NIFTP renaming changed the reading criteria, not the verdicts of the day.",
+  "note": "Before you are discharged, ask the ward for a paper copy of your pathology report and keep it. It travels with you to every new doctor and every second opinion — the capsule, vessel and margin lines are what other people judge your follow-up on, and they do not survive being repeated from memory."
+ },
+ "th-staging": {
+  "title": "Why the stage depends on your age",
+  "dek": "Stage is built for death, and the guideline says outright that it does not adequately predict recurrence; the reverse sentence it never wrote. The two labels still do not translate into each other.",
+  "lead": "People handed \"stage II\" go and look up how long that stage lives. But in the AJCC eighth edition, stage II under 55 means distant metastases by definition; and among reports all saying eighth edition stage I, layering on risk group and age spreads ten-year disease-specific survival from one hundred per cent down to eighty-nine.",
+  "note": "Copy the two labels off your report onto two separate lines: one for the stage and the AJCC edition it used, one for the recurrence risk group and whether it is the three-tier or four-tier system. Kept apart, they stop you reading a stage as a recurrence probability, or a risk tier as a probability of dying."
+ },
+ "th-overdiagnosis": {
+  "title": "Why there is suddenly so much thyroid cancer",
+  "dek": "Overdiagnosis is a proportion you can only compute by looking back across a whole population, and it cannot tell you which kind the nodule in your neck is.",
+  "lead": "Taiwan's reported thyroid cancer cases rose roughly 4.9-fold over twenty-four years. But overdiagnosis is not misdiagnosis, and it does not mean \"it isn't really cancer\"; and the line \"more of it, no more deaths\" is a stronger claim than the evidence.",
+  "note": "If you are holding a screening report, do not go looking up survival rates. Copy down the grade and the recommendation on it, and ask in clinic: does this one go for further investigation, or for follow-up? If follow-up, which month is the next one? Put that month in your calendar before you leave the room."
+ },
+ "th-active-surveillance": {
+  "title": "Watching instead of operating, on conditions",
+  "dek": "\"Let's just watch it\" and active surveillance are not the same thing: the second has entry and exit conditions written down, a fixed ultrasound interval, and requirements the team doing it has to meet.",
+  "lead": "You take it to mean the doctor decided it isn't serious, so it can be left alone. It is a plan with a timetable — and the commonest reason people leave that plan is not the tumour changing, it is the person not being able to hold on. That reason is already written into the exit conditions.",
+  "note": "You can read these out at your next appointment: \"Is mine cT1a? Is it against the trachea, or growing backwards?\" \"If I go into surveillance, how many months until the first ultrasound, and who performs it?\" \"At how many millimetres will you tell me to operate?\" Then add one more: \"If I start losing sleep over this, can I say at any point that I want it out?\""
+ },
+ "th-lobectomy": {
+  "title": "Half the gland, or all of it",
+  "dek": "In 2025 the line moved to 2 cm and the verb went from \"may be sufficient\" to \"should be a lobectomy\"; whether you end up on a tablet after a half depends on where the TSH goal is set.",
+  "lead": "You assume all of it is cleaner and half of it is the easy option. There is no randomised trial under this line at all; and \"more than half of lobectomy patients ended up on thyroid hormone\" is a figure from the old TSH target. Set the goal where the 2025 edition sets it, and seven to eight in ten do not need the tablet.",
+  "note": "You can read these out at your next appointment: \"How many centimetres does mine measure? Does it fall in the 2 cm or under box?\" \"If the final pathology turns up higher-risk features, will you advise a completion thyroidectomy, and roughly what are the odds?\" \"If I have a half, where will you set my TSH goal, and above what value will you start me on a tablet?\""
+ },
+ "th-neck-dissection": {
+  "title": "Should the nodes come out too",
+  "dek": "There are randomised trials and the answer is clear: metastases nobody can feel are common, clearing them does not change recurrence, and permanent hypoparathyroidism may rise 3 points, confidence interval 0% to 6%.",
+  "lead": "You assume clearing them while you are in there must be the safer choice. The meta-analysis that took randomised trials only found a difference of zero, with slightly more recurrences in the dissection arm, and the 2025 guideline changed its wording to \"should not be performed\" for most people in this box.",
+  "note": "You can read these out at your next appointment: \"Did my ultrasound see any suspicious nodes? Does the report say cN0 or cN1?\" \"If it saw none, will you clear the central compartment anyway, and why?\" \"If the cleared nodes turn out to contain cancer, does that change my treatment afterwards, or only my stage?\""
+ },
+ "th-surgery-risks": {
+  "title": "What the operation takes with it",
+  "dek": "For voice and for calcium, the published complication rates run 2.3% to 26% and 0.5% to 65%; the spread comes from how you look and how you define.",
+  "lead": "You assume you can put two hospitals' complication figures side by side. A hospital that scopes every patient after surgery will always look worse on paper — practising routine laryngoscopy is itself an independent factor associated with unilateral vocal cord palsy.",
+  "note": "You can read these out at your next appointment: \"Do you scope every patient after surgery, or only the ones with symptoms?\" \"How many months on active vitamin D before you count it as permanent?\" \"How many calcium tests will I need after discharge, and who follows them?\" Before surgery, add one: \"Can I have a voice assessment first?\""
+ },
+ "th-rai-whether": {
+  "title": "Whether to have radioiodine",
+  "dek": "On radioiodine, the hardest evidence in the guideline is not the sentence that says give it. It is the sentence that says do not give it routinely — which is the reverse of most people's intuition.",
+  "lead": "Many people assume low risk simply means no radioiodine. But the box the trials actually cleared had solitary microcarcinoma of 1 cm or less and every node-positive patient excluded from it; so that \"low risk\" may not be the low risk written on your own report.",
+  "note": "Three sentences you can read out at the next appointment: \"Which of the guideline's four recurrence-risk boxes does my report put me in?\" \"When you recommend it, is that so the follow-up numbers can be read, or to treat cancer cells that might still be there?\" \"For my box, is that a strong recommendation or a conditional one?\" If the answer is conditional, add one more: \"Then which way do you lean, and why?\""
+ },
+ "th-rai-days": {
+  "title": "Getting through those few days",
+  "dek": "How strict the low-iodine diet has to be, how many days you keep away from people, whether the lemon sweets help at all: on all three the guideline's answer is that it is not yet known.",
+  "lead": "\"Every hospital does it differently\" sounds like an evasion. It is the actual shape of the system: no national document in Taiwan sets the days or the criteria for going home, and what the law fixes is how much dose the person next to you may take in a year.",
+  "note": "Before you go home, get the radiation-protection sheet from nuclear medicine into your hand, and tell them what your household is really like: the youngest child's age, how many bathrooms, who sleeps where. The days on that sheet were worked out for your situation, not someone else's on the internet. One more question while you are there: if my mouth stays dry, or my eyes keep streaming, who do I come back to?"
+ },
+ "th-tsh": {
+  "title": "The tablet you take for life, and how much",
+  "dek": "The 2025 edition deleted the TSH target numbers outright — this article is about why they were deleted, and who decides your number now that nobody is copying it out of a table.",
+  "lead": "Most people assume taking a bit more means it comes back less. The randomised evidence for suppression is one trial, and what it says is that not suppressing was not worse; while on the cost side, most of the figures were never measured on thyroid cancer patients at all.",
+  "note": "Read these out at your next appointment: \"Which response category am I in?\" and \"Is the goal you set for me inside the normal range or below it, and why that side?\" And the one that matters most — if you feel unwell, come and say so before you cut the dose or stop. In the data, the cost at the too-little end is larger than at the too-much end."
+ },
+ "th-followup": {
+  "title": "Follow-up is an ultrasound and one number",
+  "dek": "There is no universal line for that number: how much was removed and whether you had radioiodine decide which line it is read against, and after a lobectomy there is no box for it at all.",
+  "lead": "People treat Tg as a number they can compare with somebody else's. It is not. And few are ever told that this follow-up has an end: this edition is the first to write down which year it can stop.",
+  "note": "Read these out at your next appointment: \"With my extent of surgery and my radioiodine status, which line should my Tg be read against?\" and \"Are my anti-thyroglobulin antibodies positive or negative?\" Then the question almost nobody asks: \"On this trajectory, is there a day I get to stop routine surveillance, and roughly how far away is it?\""
+ },
+ "th-recurrence": {
+  "title": "The number rises and nothing shows",
+  "dek": "One cohort saw a third of these patients walk back to no evidence of disease with no extra treatment at all; another saw a third of them grow something.",
+  "lead": "A number going up while imaging stays clean is a named state, not a doctor fobbing you off. Where it started and how it has been sloping separate those two groups better than any single reading — which is why one blood test never changes what I do.",
+  "note": "Read these out at your next appointment: \"Compared with the last two, is this up, flat or down?\" and \"Same laboratory, same assay?\" and \"If we keep finding nothing, what is the plan and how often do I come back?\" Then copy your last three values and their dates onto one sheet of paper and bring it. What your doctor needs to see is the line."
+ },
+ "th-rai-refractory": {
+  "title": "After radioiodine stops working",
+  "dek": "\"Refractory\" is a set of criteria that carries no grade of evidence anywhere in the guideline; and those two words do not mean short of time — for many people the next step is to watch.",
+  "lead": "What these drugs buy is time with the disease held down, not a cure — no trial has shown a survival benefit, and none was designed to look for one. When to start is a decision you are entitled to take part in.",
+  "note": "Read these out at your next appointment: \"Under which criterion was I judged radioiodine-refractory?\" and \"Has my tumour tissue been tested, and is there an alteration a drug can be aimed at?\" and \"Can we still just watch — how often would we image, and what would move us to a drug?\" For the reimbursement question in Taiwan, see 〈How this goes in Taiwan〉."
+ },
+ "th-ebrt": {
+  "title": "Where external beam radiotherapy sits here",
+  "dek": "On this question the disease has no randomised evidence in either direction: the only trial ever launched collapsed because patients would not consent to being randomised.",
+  "lead": "The overwhelming majority of people with differentiated thyroid cancer do not need it. The strongest number available is a negative one — but that dataset can only say no benefit is visible, and it must not be read as radiotherapy being harmful.",
+  "note": "Read these out at your next appointment: \"Is this a multidisciplinary team's consensus or one specialty's opinion?\" and \"Which feature on my report made you think of radiotherapy?\" and \"If I have it, how much harder does a future operation become?\" If you have heard from only one specialty, ask for the other to be brought into the room."
+ },
+ "th-mtc": {
+  "title": "Medullary cancer is a different disease",
+  "dek": "It comes from another cell, so radioiodine does nothing, TSH suppression is pointless, and follow-up watches a different number entirely; and its guideline has gone eleven years without a revision.",
+  "lead": "Most people handed the report are preparing by somebody else's papillary experience. But medullary carcinoma is followed on calcitonin and carcinoembryonic antigen, and the adrenal gland has to be cleared before the thyroid comes out; as for the inherited part, that decision is yours, and it is not in any article.",
+  "note": "Read this out at your next appointment: \"My calcitonin and CEA — what were they last time and this time, how far apart were the draws, and is there enough to work out a doubling time?\" Then two more: \"Before surgery, has the phaeochromocytoma been ruled out?\" and \"Do I need germline RET testing, and if so, who talks it through with me and where?\" Before deciding, ask one more: \"If I do not test today, can I still test later? Is there a time limit?\""
+ },
+ "th-atc": {
+  "title": "Anaplastic cancer is an emergency",
+  "dek": "\"Emergency\" is not a figure of speech here; it is written word for word into the first recommendation of a consensus, and the survival figures have changed era, so four months is already the past.",
+  "lead": "Many people find \"median survival four months\" and stop reading there. That is a historical figure: in a recent cohort at one large centre the median is 9.5 months, and one- and two-year survival have moved from 35% and 18% to 59% and 42%.",
+  "note": "For moving this week along, read these out: \"Has BRAF been sent? On what day? When does it come back?\" and \"How is my airway assessed right now — if I get breathless in the middle of the night, where do I go, who do I speak to, who decides?\" Whether to have a tracheostomy is a conversation to finish while you can still speak and family are in the room, not one to open at the moment of suffocation."
+ },
+ "th-daily": {
+  "title": "The scar, the voice, the weight, the work",
+  "dek": "On all four, the version patients are told and the version in the data keep coming apart; weight is where the gap is widest, and the voice is what frightens people most.",
+  "lead": "You have probably heard that taking the thyroid out makes you put on weight. The malignancy box gains 1.30 kg on average, and individual variation is so much larger that the average is close to useless; the voice runs the same way — very common early, mostly back later.",
+  "note": "Read this out at your next appointment: \"I have been very tired. What are my TSH and free T4? Is that where someone in my box should be?\" And: \"Has my parathyroid hormone been checked? How long do I keep taking calcium?\" If your job means a lot of talking or lifting, say so out loud — the pace of going back cannot be set until someone knows."
+ },
+ "th-taiwan": {
+  "title": "How this goes in Taiwan",
+  "dek": "Every one of these things has a code and a point value in the insurance tables; what actually holds you up is usually not whether it is covered, but the prior review.",
+  "lead": "\"Does the insurance pay for it\" has never been a yes-or-no question. A procedure item and a drug payment price are two different things, and the same drug can point at one histological type in an international trial and at another in the Taiwanese reimbursement text.",
+  "note": "Copy these into clinic: \"Which clinic follows me from here?\" \"Is there a matching insurance item for this test, and if it needs prior review, roughly how long?\" \"Is the genetic test I am having done on tumour tissue or on blood?\" Everywhere this article says \"no entry found\" is a place to ask the hospital's medical affairs office or your case manager."
+ }
+}
